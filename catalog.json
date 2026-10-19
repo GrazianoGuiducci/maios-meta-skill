@@ -22,9 +22,12 @@
         "description": "Comprende l'intento, riconosce funzioni utili, compone o sviluppa competenze e organizza attività e servizi che possono continuare e migliorare.",
         "type": "Metacompetenza",
         "field": "Attività agentiche",
-        "details": [
-          {"title": "Dall'intento al servizio", "body": "Ricerca, informazioni, contenuti e relazioni prendono forma attraverso il contesto e i mezzi disponibili."},
-          {"title": "Continuità e autogestione", "body": "Conservare conoscenza, riprendere il lavoro e adattare metodo e organizzazione attraverso gli esiti."}
+        "what_it_does": "Crea attività programmate complesse, capaci di comprendere cosa fare e di evolvere.",
+        "when_to_use": "Quando vuoi affidare alla tua AI un lavoro ricorrente che richiede più azioni collegate, continuità e adattamento.",
+        "use_examples": [
+          "Cerca clienti, li contatta, monitora e notifica gli eventi.",
+          "Monitora il sistema e agisce secondo le istruzioni.",
+          "Gestisce campagne social e caselle email."
         ],
         "format": "Competenza · guida · avvio in chat · esempi",
         "status": "Prima edizione · 0.1.0"
@@ -35,9 +38,12 @@
         "description": "Understand intent, recognise useful functions, compose or develop competences, and organise activities and services that can continue and improve.",
         "type": "Metacompetence",
         "field": "Agentic activities",
-        "details": [
-          {"title": "From intent to a service", "body": "Research, information, content and relationships take shape through the context and the means available."},
-          {"title": "Continuity and self-management", "body": "Preserve knowledge, resume work, and adapt methods and organisation through observed results."}
+        "what_it_does": "Creates complex scheduled activities that can understand what to do and evolve.",
+        "when_to_use": "When you want to give your AI recurring work that needs connected actions, continuity and adaptation.",
+        "use_examples": [
+          "Finds clients, contacts them, monitors and notifies you of events.",
+          "Monitors the system and acts according to instructions.",
+          "Manages social campaigns and email inboxes."
         ],
         "format": "Competence · guide · chat starter · examples in Italian",
         "status": "First edition · 0.1.0"

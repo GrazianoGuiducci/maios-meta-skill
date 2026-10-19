@@ -12,6 +12,8 @@ Forma l'incarnazione pubblica attraverso la capacità che deve continuare nel ri
 
 Il titolo identifica la risorsa. Il sottotitolo spiega quale lavoro permette di svolgere e in quale contesto. Il corpo rende comprensibili capacità, esempi, prerequisiti e modalità d'uso per una persona che incontra il progetto per la prima volta.
 
+La scheda della raccolta rende subito visibili cosa fa e quando usarla, seguiti da esempi di lavoro riconoscibili. Nome, tipo e descrizioni del metodo accompagnano queste informazioni. Gli esempi esprimono le capacità della risorsa; la guida spiega quali strumenti e istruzioni occorrono per realizzarle nel proprio ambiente.
+
 Corpo operativo, guida e avvio si sostengono. Un avvio autonomo include il metodo necessario a un primo uso; un semplice rinvio a file che il destinatario non può leggere non basta. Le indicazioni per chat, harness e kernel seguono ciò che serve alla risorsa effettiva.
 
 ## Un'identità e una versione
