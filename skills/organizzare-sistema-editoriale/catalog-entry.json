@@ -1,0 +1,42 @@
+{
+  "id": "organizzare-sistema-editoriale",
+  "name": "Sistema editoriale AI",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "17",
+  "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
+  "guide": "skills/organizzare-sistema-editoriale/README.md",
+  "starter": "skills/organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt",
+  "examples": "skills/organizzare-sistema-editoriale/ESEMPI_IT.md",
+  "presentation": "skills/organizzare-sistema-editoriale/presentation.json",
+  "package": "dist/organizzare-sistema-editoriale-0.1.0.zip",
+  "it": {
+    "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
+    "kind": "Metacompetenza organizzativa",
+    "domain": "Prodotti e comunicazione",
+    "does": "Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.",
+    "when": "Quando un team produce più forme editoriali ma deve ricostruire ogni volta stile, metodo, fonti o correzioni.",
+    "examples": [
+      "Collega il metodo comune di articoli, guide e pagine.",
+      "Organizza la conoscenza necessaria a continuare un libro.",
+      "Fa arrivare una correzione al metodo che formerà i contenuti successivi."
+    ],
+    "route": "/risorse/organizzare-sistema-editoriale/",
+    "description": "Rende conoscenze, metodi e correzioni raggiungibili per chi crea i contenuti successivi."
+  },
+  "en": {
+    "title": "Organize an AI editorial system that learns from its work",
+    "kind": "Organizational metacompetence",
+    "domain": "Products and communication",
+    "does": "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system.",
+    "when": "When a team produces several forms of content but repeatedly has to reconstruct its methods, sources and corrections.",
+    "examples": [
+      "Connect the shared method behind articles, guides and pages.",
+      "Preserve the knowledge needed to continue a book.",
+      "Return a recurring correction to the method that will shape the next text."
+    ],
+    "route": "/resources/organizzare-sistema-editoriale/",
+    "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "condividere-apprendimenti",
+  "name": "Apprendimenti condivisibili",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "10",
+  "skill": "skills/condividere-apprendimenti/SKILL.md",
+  "guide": "skills/condividere-apprendimenti/README.md",
+  "starter": "skills/condividere-apprendimenti/AVVIO_CHAT_IT.txt",
+  "examples": "skills/condividere-apprendimenti/ESEMPI_IT.md",
+  "presentation": "skills/condividere-apprendimenti/presentation.json",
+  "package": "dist/condividere-apprendimenti-0.1.0.zip",
+  "it": {
+    "route": "/risorse/condividere-apprendimenti/",
+    "title": "Ricavare conoscenze condivisibili dal lavoro interno",
+    "description": "Riconosce quale metodo, osservazione o capacità conserva valore anche fuori dal contesto che l’ha prodotta.",
+    "kind": "Competenza",
+    "domain": "Prodotti e comunicazione",
+    "does": "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito.",
+    "when": "Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico.",
+    "examples": [
+      "Ricava una guida da un problema risolto nel lavoro.",
+      "Separa il metodo utile dai dati di un cliente.",
+      "Presenta un’osservazione di ricerca mantenendo chiaro ciò che resta una domanda."
+    ]
+  },
+  "en": {
+    "route": "/resources/condividere-apprendimenti/",
+    "title": "Turn internal project learning into shareable knowledge",
+    "description": "Identify the method, observation or capability that remains useful outside its original context.",
+    "kind": "Competence",
+    "domain": "Products and communication",
+    "does": "Separates reusable learning from private details and chooses a public form faithful to what was observed or built.",
+    "when": "When project experience could become a guide, method, resource or public case.",
+    "examples": [
+      "Turn a solved problem into a useful guide.",
+      "Separate a transferable method from client data.",
+      "Present a research observation while preserving the open question."
+    ]
+  }
+}

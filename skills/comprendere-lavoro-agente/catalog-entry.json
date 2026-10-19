@@ -1,0 +1,42 @@
+{
+  "id": "comprendere-lavoro-agente",
+  "name": "Comprensione del lavoro AI",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "13",
+  "skill": "skills/comprendere-lavoro-agente/SKILL.md",
+  "guide": "skills/comprendere-lavoro-agente/README.md",
+  "starter": "skills/comprendere-lavoro-agente/AVVIO_CHAT_IT.txt",
+  "examples": "skills/comprendere-lavoro-agente/ESEMPI_IT.md",
+  "presentation": "skills/comprendere-lavoro-agente/presentation.json",
+  "package": "dist/comprendere-lavoro-agente-0.1.0.zip",
+  "it": {
+    "route": "/risorse/comprendere-lavoro-agente/",
+    "title": "Rendere comprensibile il lavoro di un agente AI",
+    "description": "Fa vedere alla persona il significato del movimento corrente e i punti in cui può intervenire.",
+    "kind": "Competenza UX-AI",
+    "domain": "Prodotti e comunicazione",
+    "does": "Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro.",
+    "when": "Quando un sistema AI restituisce risultati ma chi lo usa non riesce a capire cosa cambia o come partecipare.",
+    "examples": [
+      "Un assistente rende chiara una decisione che richiede l’intervento dell’utente.",
+      "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
+      "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema."
+    ]
+  },
+  "en": {
+    "route": "/resources/comprendere-lavoro-agente/",
+    "title": "Make an AI agent's work understandable",
+    "description": "Show people what the current work means and where they can intervene.",
+    "kind": "UX-AI competence",
+    "domain": "Products and communication",
+    "does": "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work.",
+    "when": "When an AI system returns results but its user cannot understand what changed or how to participate.",
+    "examples": [
+      "Explain a decision that needs the user's intervention.",
+      "Show which sources support the state of an activity.",
+      "Let everyday work progressively teach how to use the system's capabilities."
+    ]
+  }
+}

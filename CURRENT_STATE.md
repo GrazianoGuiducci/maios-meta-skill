@@ -1,5 +1,15 @@
 # MAIOS Meta-Skill — stato corrente
 
+## Raccolta delle 25 risorse — 20 ottobre 2026
+
+La raccolta comprende Meta-Activity e 24 nuove risorse formate dalle competenze sorgente. Il catalogo conserva il diverso contributo di competenze, metacompetenze, funzioni e fondamenti: KA e FDLA non vengono equiparati a un’attività applicativa. Ogni nuovo kit include corpo operativo autonomo, guida, avvio integrale, tre esempi illustrativi e presentazione IT/EN. Le istruzioni sono in italiano.
+
+Le pagine dedicate descrivono cosa fa la risorsa e quando usarla, poi il metodo, la relazione meta e l’eventuale relazione autologica pertinente. [Concetti e relazioni](docs/CONCETTI.md) approfondisce il significato comune senza trasformarlo in una gerarchia numerica. Le quattro composizioni proposte dal riesame orientano i percorsi nel README; le risorse di questa edizione restano 25.
+
+Il catalogo e i pacchetti sono distribuiti insieme; il sito riceve un’unica revisione Git e ne conserva le impronte. Substack e social proiettano una risorsa al giorno tramite controller distinti. Pubblicazione della repository, deploy del sito, configurazione delle attività e invii editoriali conservano i propri riscontri negli owner; questo repository non crea scheduler.
+
+Il comportamento delle nuove risorse in un ricevente esterno resta da osservare. Controlli dei file, avvii, pacchetti e pagine riguardano la coerenza della distribuzione. I paragrafi sotto conservano la fase del primo caso.
+
 19 ottobre 2026.
 
 ## Prima incarnazione pubblica

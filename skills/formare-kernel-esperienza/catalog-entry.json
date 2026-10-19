@@ -1,0 +1,42 @@
+{
+  "id": "formare-kernel-esperienza",
+  "name": "Proto Movimento",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "22",
+  "skill": "skills/formare-kernel-esperienza/SKILL.md",
+  "guide": "skills/formare-kernel-esperienza/README.md",
+  "starter": "skills/formare-kernel-esperienza/AVVIO_CHAT_IT.txt",
+  "examples": "skills/formare-kernel-esperienza/ESEMPI_IT.md",
+  "presentation": "skills/formare-kernel-esperienza/presentation.json",
+  "package": "dist/formare-kernel-esperienza-0.1.0.zip",
+  "it": {
+    "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
+    "kind": "Competenza di formazione del kernel",
+    "domain": "Builder e sistemi",
+    "does": "Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.",
+    "when": "Quando stai costruendo o trasferendo un kernel e il caso reale deve cambiare sia il ricevente sia il modo di progettarlo.",
+    "examples": [
+      "Un’installazione rivela una capacità che il destinatario non riesce a raggiungere.",
+      "Una nuova relazione cambia come il kernel presenta il proprio ingresso.",
+      "L’esperienza del ricevente migliora il successivo trasferimento."
+    ],
+    "route": "/risorse/formare-kernel-esperienza/",
+    "description": "Proto Movimento collega il sapere sorgente, ciò che il ricevente comprende e le capacità che il prodotto deve portare."
+  },
+  "en": {
+    "title": "Form a new AI kernel through recipient experience",
+    "kind": "Kernel formation competence",
+    "domain": "Builders and systems",
+    "does": "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it.",
+    "when": "When building or transferring a kernel and a real case should change both the recipient and the way it is designed.",
+    "examples": [
+      "An installation reveals a capability the recipient cannot reach.",
+      "A new relation changes how the kernel presents its entry.",
+      "Recipient experience improves the next transfer."
+    ],
+    "route": "/resources/formare-kernel-esperienza/",
+    "description": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry."
+  }
+}

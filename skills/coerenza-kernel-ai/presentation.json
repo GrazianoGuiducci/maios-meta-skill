@@ -1,0 +1,124 @@
+{
+  "it": {
+    "title": "Mantenere coerenti le capacità di un kernel AI",
+    "subtitle": "Conserva le relazioni vive del sistema attraverso correzioni, cambiamenti e riprese del lavoro.",
+    "kind": "Metacompetenza del kernel",
+    "domain": "Builder e sistemi",
+    "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
+    "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
+    "examples": [
+      "Un rientro recupera le ragioni ancora valide del sistema.",
+      "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
+      "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+    ],
+    "intro": [
+      "Quando un sistema AI cresce, una correzione può raggiungere la competenza ma lasciare attivo un ingresso che ricostruisce il vecchio metodo. La continuità riguarda anche queste relazioni.",
+      "Questa risorsa mantiene raggiungibili significato, ragioni e contributi delle capacità, così il kernel può riprendere il lavoro e comprendere un proprio cambiamento."
+    ],
+    "method": [
+      {
+        "title": "Recuperare la relazione ancora viva",
+        "body": "Il margine breve raggiunge fonti, ragioni delle scelte e guida profonda, senza sostituire il presente con una sintesi passata."
+      },
+      {
+        "title": "Comprendere una differenza del sistema",
+        "body": "Segue che cosa la sorgente, l’ingresso o la proiezione fanno scegliere all’assistente e corregge il nesso pertinente."
+      },
+      {
+        "title": "Far continuare la correzione",
+        "body": "Il metodo aggiornato raggiunge le incarnazioni realmente dipendenti e lascia fredda la cronologia che non orienta più il lavoro."
+      }
+    ],
+    "depth": {
+      "title": "Il kernel può comprendere il proprio funzionamento",
+      "paragraphs": [
+        "Il livello meta riguarda il sistema delle capacità e la sua continuità. L’autologica appare quando il kernel operante diventa anche oggetto dello stesso lavoro, senza collocare un secondo controllore al suo esterno.",
+        "Un metodo aggiornato e un ingresso superato rendono concreta questa relazione: il sistema comprende come il proprio rientro cambia la scelta e corregge la forma che perpetua il problema.",
+        "L’autopoiesi riguarda ciò che tale risultato rende possibile al prossimo uso. Autonomia esecutiva, monitoraggio continuo ed esperienza cosciente sono questioni diverse; questa risorsa trasferisce un metodo di continuità e autocorrezione situata."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro."
+      },
+      {
+        "title": "Senza un kernel",
+        "body": "Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere."
+      }
+    ],
+    "learning": [
+      "Una differenza appresa cambia il metodo responsabile e il suo ingresso quando necessario. La guida conserva fonte, ragione e condizione per riaprire il sapere.",
+      "La prima edizione rende questa capacità raggiungibile; un uso diverso permette di osservare se il ritorno continua senza ricostruzione della persona."
+    ]
+  },
+  "en": {
+    "title": "Maintain coherence across an AI kernel’s capabilities",
+    "subtitle": "Preserve the system’s living relations through corrections, configuration changes and reentry.",
+    "kind": "Kernel metacompetence",
+    "domain": "Builders and systems",
+    "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
+    "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
+    "examples": [
+      "Recover the system’s still-valid reasons during reentry.",
+      "Carry a correction to entries that still lead from an older method.",
+      "Let the kernel understand its own change without adding a parallel controller."
+    ],
+    "intro": [
+      "As an AI system grows, a correction can reach a competence while an active entry still reconstructs its old method. Continuity includes these relations.",
+      "This resource keeps meaning, reasons and capability contributions reachable so the kernel can resume work and understand a change in itself."
+    ],
+    "method": [
+      {
+        "title": "Recover the relation that remains live",
+        "body": "A short entry reaches sources, reasons and the deeper guide without replacing the present with an earlier summary."
+      },
+      {
+        "title": "Understand a system difference",
+        "body": "Follow what the source, entry or projection makes the assistant choose and correct the relevant relation."
+      },
+      {
+        "title": "Let the correction continue",
+        "body": "The changed method reaches the incarnations that actually depend on it, while history that no longer directs work remains recoverable."
+      }
+    ],
+    "depth": {
+      "title": "The kernel can understand its own operation",
+      "paragraphs": [
+        "The meta level concerns the system of capabilities and its continuity. The autological relation appears when the operating kernel also becomes an object within the same work, without a separate external controller.",
+        "An updated method and an outdated entry make this concrete: the system understands how its own reentry changes a choice and corrects the form that perpetuates the problem.",
+        "Autopoiesis concerns what this return makes possible in later use. Execution autonomy, continuous monitoring and phenomenal experience are different matters; this resource transfers a method of continuity and situated self-correction."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Paste or attach AVVIO_CHAT_IT.txt and add your context. It includes the complete Italian method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work."
+      },
+      {
+        "title": "Without a kernel",
+        "body": "Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful."
+      }
+    ],
+    "learning": [
+      "A reusable difference changes the responsible method and its entry where needed. The guide preserves the source, reason and condition for reopening the knowledge.",
+      "The first edition makes this capability reachable. A different use can show whether the return continues without the person reconstructing it."
+    ]
+  }
+}

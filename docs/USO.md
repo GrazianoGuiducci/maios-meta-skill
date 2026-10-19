@@ -4,6 +4,8 @@ Una competenza contiene sapere operativo: aiuta l'AI a comprendere e svolgere un
 
 ## In una chat
 
+Per scegliere fra le 25 risorse, parti dal [catalogo del sito](https://maios.it/risorse/) o dalla tabella nel [README](../README.md). Ogni cartella contiene una guida e un file AVVIO_CHAT_IT.txt con il metodo da dare alla tua AI. Le modalità seguenti usano Meta-Activity come esempio e si adattano alla risorsa selezionata.
+
 Per Meta-Activity, apri [AVVIO_CHAT_IT.txt](../skills/meta-activity/AVVIO_CHAT_IT.txt), copia tutto il testo oppure allega il file alla conversazione. Aggiungi il tuo contesto: cosa stai facendo, quali risultati servono, che cosa esiste già e quali strumenti l'AI può usare.
 
 L'avvio include il metodo essenziale: funziona anche se la chat non può aprire il resto della repository. Per un lavoro più ampio, allega anche [SKILL.md](../skills/meta-activity/SKILL.md) e i riferimenti pertinenti. Se l'AI può leggere i file, puoi darle direttamente la cartella.
@@ -31,6 +33,8 @@ Verifica nell'ambiente che la competenza sia disponibile e richiamala con un inc
 La documentazione ufficiale descrive il [formato delle skill e la discovery in Codex](https://learn.chatgpt.com/docs/build-skills). Per altri ambienti usa i loro ingressi documentati oppure chiedi all'agente di leggere direttamente SKILL.md.
 
 ## Con un kernel
+
+Per le altre risorse, il collegamento segue il loro contributo: una competenza applicativa svolge un lavoro, una metacompetenza può formare o trasformare metodi, KA e FDLA portano relazioni fondative e di correzione. Leggi la guida della risorsa prima di sovrapporla a istruzioni già presenti. La raccolta rende disponibili capacità; non richiede di caricarle tutte per ogni incarico.
 
 Indica all'AI il kernel o la guida corrente del progetto. Meta-Activity usa intento, competenze, memoria e regole operative già presenti; la continuità resta nella sede che il progetto sa raggiungere. Una facoltà già disponibile può svolgere parte del lavoro: non occorre duplicarla.
 

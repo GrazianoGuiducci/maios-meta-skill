@@ -1,0 +1,124 @@
+{
+  "it": {
+    "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
+    "subtitle": "Rende conoscenze, metodi e correzioni raggiungibili per chi crea i contenuti successivi.",
+    "kind": "Metacompetenza organizzativa",
+    "domain": "Prodotti e comunicazione",
+    "does": "Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.",
+    "when": "Quando un team produce più forme editoriali ma deve ricostruire ogni volta stile, metodo, fonti o correzioni.",
+    "examples": [
+      "Collega il metodo comune di articoli, guide e pagine.",
+      "Organizza la conoscenza necessaria a continuare un libro.",
+      "Fa arrivare una correzione al metodo che formerà i contenuti successivi."
+    ],
+    "intro": [
+      "Una redazione può avere molte istruzioni e dover comunque rispiegare a ogni chat come lavora. Questa risorsa organizza le relazioni tra metodo comune, conoscenza dei domini e sapere di ciascuna opera.",
+      "Il punto di partenza è un lavoro editoriale reale: quali fonti lo alimentano, quali scelte deve conservare e dove una correzione deve cambiare la produzione successiva."
+    ],
+    "method": [
+      {
+        "title": "Raggiungere il sapere che forma il testo",
+        "body": "Distingue intenzione dell’autore, fatti di dominio, metodo editoriale e ragioni dell’opera; collega le sedi già utili."
+      },
+      {
+        "title": "Correggere il punto da cui nasce la scelta",
+        "body": "Una lacuna nel metodo richiede sapere; un metodo già presente ma ignorato richiede un ingresso migliore. La correzione segue quella differenza."
+      },
+      {
+        "title": "Conservare l’opera e il metodo comune",
+        "body": "La guida dell’opera mantiene tesi e relazioni fra parti; ciò che vale anche altrove ritorna alla competenza comune."
+      }
+    ],
+    "depth": {
+      "title": "Organizzare le competenze e imparare a organizzarle",
+      "paragraphs": [
+        "Scrivere una guida è lavoro editoriale. Formare il sistema che rende disponibili fonti, metodi e memoria delle opere è una relazione meta: l’oggetto diventa la capacità di scrivere e continuare.",
+        "L’autologica entra quando il criterio organizzativo stesso diventa oggetto del lavoro. Se separare tutto per canale nasconde una fonte comune, la competenza può riformare quel criterio mentre organizza.",
+        "Il ritorno autopoietico avviene quando l’esperienza cambia la forma con cui il sistema lavorerà ancora. Non coincide con pubblicare autonomamente o produrre più testi: richiede che il metodo aggiornato partecipi all’uso successivo."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro."
+      },
+      {
+        "title": "Senza un kernel",
+        "body": "Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere."
+      }
+    ],
+    "learning": [
+      "Una correzione può cambiare il sapere di un’opera, il metodo editoriale comune o il modo di organizzare il sistema. Conserva la differenza nel luogo che dovrà usarla.",
+      "Questa edizione offre il metodo e casi illustrativi. La continuità nel proprio ambiente si osserva attraverso lavori successivi."
+    ]
+  },
+  "en": {
+    "title": "Organize an AI editorial system that learns from its work",
+    "subtitle": "Make sources, writing methods and corrections available to the people and assistants creating the next piece.",
+    "kind": "Organizational metacompetence",
+    "domain": "Products and communication",
+    "does": "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system.",
+    "when": "When a team produces several forms of content but repeatedly has to reconstruct its methods, sources and corrections.",
+    "examples": [
+      "Connect the shared method behind articles, guides and pages.",
+      "Preserve the knowledge needed to continue a book.",
+      "Return a recurring correction to the method that will shape the next text."
+    ],
+    "intro": [
+      "An editorial team can have many instructions and still need to explain its work again in every chat. This resource connects shared methods, domain knowledge and the knowledge specific to each work.",
+      "Start with an actual editorial task: the sources it needs, the decisions it must retain and the place where a correction should change later writing."
+    ],
+    "method": [
+      {
+        "title": "Reach the knowledge that shapes the text",
+        "body": "Distinguish the author’s intent, domain facts, editorial methods and the reasons behind the work. Connect the useful locations already present."
+      },
+      {
+        "title": "Correct the source of the choice",
+        "body": "A missing method needs knowledge; an existing method that goes unread needs a better entry. Follow that difference."
+      },
+      {
+        "title": "Maintain both the work and the shared method",
+        "body": "The work guide preserves its thesis and dependencies. Knowledge useful elsewhere returns to the shared competence."
+      }
+    ],
+    "depth": {
+      "title": "Organizing competences and learning how to organize them",
+      "paragraphs": [
+        "Writing a guide is editorial work. Forming the system that makes sources, methods and work memory available is a meta relation: the object becomes the ability to write and continue.",
+        "The relation becomes autological when the organizing method itself enters the work. If separating everything by channel hides a shared source, the competence can reform that arrangement as it works.",
+        "Autopoietic return means that experience changes the form through which later work becomes possible. It is different from autonomous publication or higher output; the changed method must participate in later use."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Paste or attach AVVIO_CHAT_IT.txt and add your context. It includes the complete Italian method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work."
+      },
+      {
+        "title": "Without a kernel",
+        "body": "Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful."
+      }
+    ],
+    "learning": [
+      "A correction can change a single work, a shared editorial method or the way the system is organized. Preserve it where the next relevant choice will be made.",
+      "This edition provides a method and illustrative cases. Continuity in a recipient environment must be observed through later work."
+    ]
+  }
+}

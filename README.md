@@ -1,52 +1,68 @@
 # MAIOS Meta-Skill
 
-**Competenze per formare e far evolvere il lavoro dei sistemi AI.**
+**25 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
-Questa raccolta rende utilizzabili le metacompetenze nate nel lavoro MAIOS: il sapere con cui un sistema AI comprende una situazione, organizza attività, sviluppa capacità e conserva ciò che impara.
+La raccolta porta il sapere nato nel lavoro MAIOS in competenze utilizzabili nella propria chat o nel proprio ambiente agentico. Ogni risorsa include metodo completo, guida, avvio da copiare ed esempi. Le pagine MAIOS spiegano subito cosa fa e quando usarla, poi ne approfondiscono il funzionamento.
 
-Ogni risorsa comprende una spiegazione, una competenza leggibile dall'AI, una guida d'uso ed esempi. Si può iniziare da una singola risorsa, in chat o in un ambiente agentico, anche senza un kernel MAIOS.
+[Aprire la raccolta sul sito](https://maios.it/risorse/) · [English pages](https://maios.it/resources/) · [Guida comune](docs/USO.md) · [Concetti: competenza, meta e autologica](docs/CONCETTI.md)
 
-## La prima risorsa: Meta-Activity
+## Scegliere una risorsa
 
-**Creare e far evolvere attività AI dal contesto del proprio lavoro.**
+La raccolta comprende competenze operative, metacompetenze, funzioni e fondamenti del kernel. I tipi esprimono contributi diversi. KA è il kernel fondativo; FDLA è la funzione di correzione nel movimento. Il numero di componenti o la parola “meta” non indicano un grado di qualità.
 
-Si parte da un intento: seguire una ricerca, organizzare la conoscenza di un team, trovare opportunità pertinenti o curare una pubblicazione. Meta-Activity aiuta l'AI a riconoscere le funzioni utili, comporre le competenze, usare i mezzi disponibili e organizzare un'attività che possa proseguire e migliorare.
+| Risorsa | Cosa permette di fare | Tipo |
+| --- | --- | --- |
+| [Meta-Activity](skills/meta-activity/README.md) | Crea attività programmate complesse, capaci di comprendere cosa fare e di evolvere. | Metacompetenza |
+| [Riprendere un progetto con l’AI dopo un’interruzione](skills/continuita-del-lavoro-ai/README.md) | Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti. | Competenza |
+| [Conservare le conoscenze utili emerse nel lavoro con l’AI](skills/conservare-conoscenze-utili/README.md) | Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla. | Competenza |
+| [Estrarre le idee dell’autore dalle conversazioni con l’AI](skills/estrarre-idee-dalle-conversazioni/README.md) | Distingue le parole dell’autore dalle risposte dell’assistente, elimina duplicazioni e rumore e organizza i concetti utili con il loro riferimento sorgente. | Competenza |
+| [Organizzare un lavoro complesso con l’AI](skills/organizzare-lavoro-complesso/README.md) | Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove. | Metacompetenza |
+| [Trasformare fonti e segnali in conoscenza utile al progetto](skills/fonti-segnali-conoscenza/README.md) | Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente. | Competenza |
+| [Far evolvere una competenza AI attraverso il lavoro](skills/evolvere-competenze/README.md) | Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza. | Metacompetenza |
+| [Scrivere titoli e sottotitoli che fanno capire il contenuto](skills/titoli-e-sottotitoli/README.md) | Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto. | Facoltà editoriale |
+| [Trasformare una competenza interna in una risorsa pubblica](skills/formare-risorse-pubbliche/README.md) | Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI. | Metacompetenza |
+| [Ricostruire il lavoro e le decisioni di un progetto AI](skills/ricostruire-lavoro-decisioni/README.md) | Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati. | Competenza |
+| [Ricavare conoscenze condivisibili dal lavoro interno](skills/condividere-apprendimenti/README.md) | Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito. | Competenza |
+| [Far migliorare un’attività AI attraverso i suoi risultati](skills/migliorare-attivita-ricorrenti/README.md) | Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente. | Competenza |
+| [Organizzare la conoscenza di un sistema AI](skills/conoscenza-del-sistema-ai/README.md) | Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare. | Competenza |
+| [Rendere comprensibile il lavoro di un agente AI](skills/comprendere-lavoro-agente/README.md) | Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro. | Competenza UX-AI |
+| [Creare la presenza di un prodotto o di un assistente AI](skills/presenza-prodotto-assistente/README.md) | Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione. | Metacompetenza |
+| [Condividere il lavoro AI tra repository e collaboratori](skills/continuita-repository/README.md) | Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa. | Competenza tecnica |
+| [Preparare accordi e collaborazioni con l’AI](skills/accordi-collaborazioni/README.md) | Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni. | Competenza di dominio |
+| [Organizzare un sistema editoriale AI che impara dal lavoro](skills/organizzare-sistema-editoriale/README.md) | Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema. | Metacompetenza organizzativa |
+| [Creare e comporre competenze per un sistema AI](skills/creare-comporre-competenze/README.md) | Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione. | Kernel generativo di competenze |
+| [Portare un kernel semantico in un plugin AI](skills/kernel-in-plugin/README.md) | Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento. | Metacompetenza di prodotto |
+| [Avviare un assistente AI con identità e continuità proprie](skills/avviare-nodo-ai/README.md) | Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà. | Metacompetenza di trasferimento |
+| [Mantenere coerenti le capacità di un kernel AI](skills/coerenza-kernel-ai/README.md) | Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti. | Metacompetenza del kernel |
+| [Formare un nuovo kernel AI attraverso l’esperienza d’uso](skills/formare-kernel-esperienza/README.md) | Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma. | Competenza di formazione del kernel |
+| [KA — comprendere il lavoro oltre la prima interpretazione](skills/ka-kernel-assiomatico/README.md) | Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo. | Kernel fondativo |
+| [FDLA — correggere le deviazioni introdotte dall’AI](skills/fdla-correzione-ai/README.md) | Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma. | Funzione di correzione nel kernel |
 
-La ricerca clienti, per esempio, può diventare un servizio che cerca segnali pertinenti, verifica le fonti, aggiorna un archivio e prepara un contatto motivato. La programmazione temporale è una delle modalità di attivazione: si può lavorare anche su richiesta o in seguito a un evento.
+## Comporre le capacità intorno al lavoro
 
-| Per iniziare | Risorsa |
-| --- | --- |
-| Capire capacità e uso | [Guida Meta-Activity](skills/meta-activity/README.md) |
-| Usarla subito in chat | [Avvio completo da copiare o allegare](skills/meta-activity/AVVIO_CHAT_IT.txt) |
-| Dare la competenza all'AI | [SKILL.md](skills/meta-activity/SKILL.md) |
-| Esplorare applicazioni | [Esempi e contesti](skills/meta-activity/ESEMPI_IT.md) |
-| Scaricare il pacchetto | [Meta-Activity 0.1.0](dist/meta-activity-0.1.0.zip) |
+Un incarico può rendere pertinenti più risorse. Questi ingressi aiutano a riconoscerne il contributo senza imporre una sequenza fissa:
 
-### Un primo incarico
+- **Insegnare un lavoro alla propria AI:** [formare competenze](skills/creare-comporre-competenze/README.md), [farle evolvere](skills/evolvere-competenze/README.md) e [conservare il sapere utile](skills/conservare-conoscenze-utili/README.md). Gli esempi e le correzioni possono cambiare anche il metodo con cui l’AI apprende quel lavoro.
+- **Sviluppare possibilità per un progetto:** [formare il metodo](skills/organizzare-lavoro-complesso/README.md), [comprendere fonti e segnali](skills/fonti-segnali-conoscenza/README.md) e [formare attività](skills/meta-activity/README.md). Il contesto può far emergere un contributo diverso dalla prima rappresentazione del problema.
+- **Continuare un progetto:** [continuità del lavoro](skills/continuita-del-lavoro-ai/README.md), [ricostruzione degli eventi](skills/ricostruire-lavoro-decisioni/README.md) e [condensato del sapere](skills/conservare-conoscenze-utili/README.md) conservano ragioni, fatti e seguito fra sessioni e collaboratori.
+- **Coordinare assistenti AI:** [metodo situato](skills/organizzare-lavoro-complesso/README.md), [avvio di un nodo](skills/avviare-nodo-ai/README.md) e [continuità del progetto](skills/continuita-del-lavoro-ai/README.md) aiutano a formare contributi complementari e a integrarli attraverso fonti e ragioni condivise.
 
-Condividi con la tua AI il testo di avvio o la cartella della competenza, poi descrivi una situazione reale:
+## Primo uso
 
-> Usiamo Meta-Activity per seguire le opportunità utili a questo progetto. Qui trovi obiettivi, offerta, fonti e strumenti disponibili: […]. Comprendi quali funzioni servono, svolgi il primo lavoro utile e conserva il contesto per continuare. Prepariamo i contatti per la mia revisione.
+Scegli la risorsa e apri il suo **AVVIO_CHAT_IT.txt**. Copia tutto il testo o allegalo alla chat, poi aggiungi intento, progetto, fonti e strumenti disponibili. L’avvio include il metodo completo del kit. In un ambiente agentico puoi invece rendere leggibile l’intera cartella e indicare SKILL.md come ingresso.
 
-Il primo uso serve a formare un'attività concreta. Ricorrenze, collegamenti ai servizi e autonomia dipendono dagli strumenti e dal mandato del tuo ambiente AI.
+Con un kernel esistente, integra la capacità nel sapere e nelle guide del progetto. Senza kernel, parti direttamente dal metodo fornito. I file non creano accessi agli account, memoria del modello o ricorrenze: la guida spiega come collegare la capacità ai mezzi realmente presenti.
 
-## Chat, ambienti agentici e kernel
+## Edizioni e apprendimento
 
-- **In chat:** allega o incolla l'avvio completo e fornisci il contesto. Per continuare in una nuova conversazione conserva e restituisci la guida dell'attività.
-- **In un ambiente agentico:** rendi leggibile la cartella completa della competenza; collega fonti, strumenti e continuità del progetto.
-- **Con un kernel esistente:** integra la competenza nelle guide e nelle capacità che già conducono il lavoro.
-- **Senza kernel:** usa direttamente il metodo incluso. Le conoscenze e le competenze necessarie possono formarsi attraverso il primo lavoro.
+Le risorse sono prime edizioni pubbliche 0.1.0. Istruzioni e guide sono in italiano; le presentazioni sul sito sono in italiano e inglese. Un assistente può leggere il metodo italiano e lavorare con te nella lingua scelta.
 
-La [guida comune](docs/USO.md) descrive questi ingressi e l'integrazione locale in Codex.
+Il [catalogo](catalog.json) collega file e versioni; [dist/manifest.json](dist/manifest.json) registra pacchetti e impronte. La verifica di questi file riguarda la coerenza del kit. I casi sono illustrativi; l’efficacia nel tuo ambiente e l’uso delle correzioni si osservano nel lavoro reale.
 
-## Una raccolta che cresce dal lavoro
+Un riscontro può migliorare il metodo, la guida o il modo di raggiungere la competenza. Conserva la situazione, la differenza osservata e la ragione della modifica. Il [metodo di distribuzione](docs/DISTRIBUZIONE.md) accompagna questo ritorno e le proiezioni editoriali.
 
-Meta-Activity è la prima incarnazione pubblica, versione **0.1.0**. Contiene istruzioni e sapere operativo; il pacchetto non installa uno scheduler o collegamenti agli account. Gli esempi illustrano applicazioni possibili e apprendimenti del progetto: l'esecuzione nel proprio ambiente va osservata nel suo contesto.
-
-Le prossime risorse saranno formate dalle competenze sorgente, preservandone la capacità e rendendole indipendenti dai riferimenti privati. Il [metodo di distribuzione](docs/DISTRIBUZIONE.md) collega competenza, guida, descrizione per il sito e derivazioni editoriali. Il [catalogo](catalog.json) ne conserva identità, versione e percorsi.
-
-Origine e direzione del progetto: **Graziano Guiducci · MAIOS**. [maios.it](https://maios.it/) · [Discussioni e contributi](https://github.com/GrazianoGuiducci/maios-meta-skill/issues).
+Origine e direzione: **Graziano Guiducci · MAIOS**. [maios.it](https://maios.it/) · [Contributi e riscontri](https://github.com/GrazianoGuiducci/maios-meta-skill/issues).
 
 ---
 
-**English:** MAIOS Meta-Skill is a collection of reusable competences for AI work. Its first resource, Meta-Activity, helps form and evolve agentic activities from a project's context. The operating instructions and guides in this first edition are in Italian; an AI assistant can apply them while conversing in another language.
+**English:** MAIOS Meta-Skill provides 25 public resources for AI work, competence formation, continuity and semantic kernels. Each includes an operating method, a complete chat starter, a guide and examples. The operating kits are in Italian; [the website presents the collection in English](https://maios.it/resources/). Types identify different contributions, including operating competences, meta-level methods, KA as a foundation and FDLA as in-flow correction.

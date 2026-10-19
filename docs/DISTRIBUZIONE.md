@@ -26,6 +26,12 @@ Il sito MAIOS può generare schede e pagine da questi dati, registrando la revis
 
 ## Crescita attraverso l'uso
 
+Quando una raccolta comprende più nature, la pubblicazione mantiene distinguibili competenze, composizioni, funzioni e fondamenti. La pagina spiega il lavoro sul suo oggetto, il livello meta che effettivamente trasferisce e l’eventuale relazione autologica con un esempio specifico. [La guida concettuale](CONCETTI.md) ne chiarisce il significato. La teoria descritta resta collegata al metodo consegnato.
+
+Una serie editoriale può distribuire nel tempo risorse rese disponibili nello stesso rilascio. Il registro del canale conserva revisione, testo, destinazione, finestra e stato reale di ogni effetto; la disponibilità della risorsa non viene scambiata per un articolo già pubblicato.
+
 Un riscontro può riguardare comprensione, metodo, strumenti disponibili o aspettative. Conserva la situazione e il nesso che spiega il cambiamento. Aggiorna la parte che deve operare diversamente e le proiezioni realmente dipendenti.
 
 Meta-Activity è il primo caso. I file e le sezioni utili qui non costituiscono un template obbligatorio per tutte le prossime competenze. Il metodo si affina attraverso la loro formazione e l'uso.
+
+Una traduzione conserva anche le relazioni operative: cosa osservare, quale differenza cambia la scelta, come agire e che cosa portare nel seguito. Titoli, conteggio delle sezioni e promessa di valore non sostituiscono questa corrispondenza.

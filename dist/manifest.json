@@ -17,6 +17,342 @@
         "meta-activity/references/formare-funzioni.md": "7fb6abe4289fd13a47cb84b5dbeb24daf94d8ebb75903fe367dbdbca9bb01b47",
         "meta-activity/SKILL.md": "5aaf8453a8aa7125a959cb28a4ee23a12863abccbc3cad02bed59cfc2387e4e5"
       }
+    },
+    {
+      "id": "continuita-del-lavoro-ai",
+      "version": "0.1.0",
+      "package": "dist/continuita-del-lavoro-ai-0.1.0.zip",
+      "sha256": "63ee59ab7d29ce4400ca4f8a49666bdcac1b3fc178cdca88a1e2f709ed16402c",
+      "files": {
+        "continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt": "03bf30120abc121045017aaaeaa5573fd3cd34f37e4eed5bd127b6c8314c0a8b",
+        "continuita-del-lavoro-ai/catalog-entry.json": "d6fb82855734b940f711da1d94cfc404747997c6c17c9f7d94f54171aa3b8407",
+        "continuita-del-lavoro-ai/ESEMPI_IT.md": "b59e42e9e93773817d681e579e979a99d6edc09111f40a9c8d782e87d2fd5ef6",
+        "continuita-del-lavoro-ai/presentation.json": "84ae2e0d764317d738bdb8d02a42276aed8af54619cfdc1799df9f40cf2d0427",
+        "continuita-del-lavoro-ai/README.md": "f840315a8f8fa4a57d8a5399d386b5ac068f1c39eb749a67fd42f78bd7c636b6",
+        "continuita-del-lavoro-ai/SKILL.md": "e787eca1176fbd5151611cc23096f750206669bab36f720d4f4461bebf0dbb2d"
+      }
+    },
+    {
+      "id": "conservare-conoscenze-utili",
+      "version": "0.1.0",
+      "package": "dist/conservare-conoscenze-utili-0.1.0.zip",
+      "sha256": "406c07d319768cacfc904a76042ff2405e804ecd36137168949b6e2c79c15093",
+      "files": {
+        "conservare-conoscenze-utili/AVVIO_CHAT_IT.txt": "105dc57d2c4b0129abb6991700c6d57db28f6e23ee63a945e10fd3ff2db11ad2",
+        "conservare-conoscenze-utili/catalog-entry.json": "18567df624d3f77f4b1802a36579e37c37da31dd6e410b64881dd8f4f14278c9",
+        "conservare-conoscenze-utili/ESEMPI_IT.md": "a535495c3fcc8360ad5cdede2f05fa3c1831af5f5aac8363ed801e1a1c4a24ac",
+        "conservare-conoscenze-utili/presentation.json": "e690756b95e0cf49798fd6d27223b6e7cd6f6b4f884517aa495bfb328262b4c9",
+        "conservare-conoscenze-utili/README.md": "646188824763e4144c3672a4ce2a56baf05daab9155b0475238e30fdd128bfaa",
+        "conservare-conoscenze-utili/SKILL.md": "ba81ba7b66cf10b12835c18f3e20f0850ef1ddab787502907f312466fff17b6a"
+      }
+    },
+    {
+      "id": "estrarre-idee-dalle-conversazioni",
+      "version": "0.1.0",
+      "package": "dist/estrarre-idee-dalle-conversazioni-0.1.0.zip",
+      "sha256": "dc11868bb0224d1a3d34c1451d0280fc0d93d722437ab48e3806c2cdcfffc7e9",
+      "files": {
+        "estrarre-idee-dalle-conversazioni/AVVIO_CHAT_IT.txt": "bc70fb0c8bb4b7f5e9c936cfb8dadc7260629771a7264a3178db6c04aae8da17",
+        "estrarre-idee-dalle-conversazioni/catalog-entry.json": "1970bb4b027ae09f1aa04e8c28b9a2d34795cac3266e403e2145f38cd702294c",
+        "estrarre-idee-dalle-conversazioni/ESEMPI_IT.md": "327562e4a4108a44cde13510ddb613f0f7dac01348168c8a0103bc650069ef23",
+        "estrarre-idee-dalle-conversazioni/presentation.json": "b0cae44cf9747e2058eb22fde8f866dc6509fdd2499a12a5b9e4b19e52ce9c73",
+        "estrarre-idee-dalle-conversazioni/README.md": "88518cf9c4d0c7db275a18e04df1274e787c45d73da6c428756b895f5ff18147",
+        "estrarre-idee-dalle-conversazioni/SKILL.md": "3dd998943a01c42e73e207ab56efa9e53b87e546ed73c4e077f233172ec99707"
+      }
+    },
+    {
+      "id": "organizzare-lavoro-complesso",
+      "version": "0.1.0",
+      "package": "dist/organizzare-lavoro-complesso-0.1.0.zip",
+      "sha256": "64dff3a549bbcb1bba451fb96ab8fa396e3a711bf8053498f15852ab46336edc",
+      "files": {
+        "organizzare-lavoro-complesso/AVVIO_CHAT_IT.txt": "db09614ebe4dcf4e970521710cf04bff9321376aa78b4088ad20cd9bef8e3ea8",
+        "organizzare-lavoro-complesso/catalog-entry.json": "4e2c5f131c05beb9ff07a82176924dc7eb3933f82f94daaa83d4a279d3cc5147",
+        "organizzare-lavoro-complesso/ESEMPI_IT.md": "0e82905ce60dbe109f20bdaca577c8391aa6c3de263c5a3d49e39023949e57fe",
+        "organizzare-lavoro-complesso/presentation.json": "47bf1d3c349386463db99f2ad80c7d63b49a18d8db90c3f9909da5b99a64a0dd",
+        "organizzare-lavoro-complesso/README.md": "756eea789a2a5825301bb8a19caeef901be63cf364184ac9ca71c946a5b99b70",
+        "organizzare-lavoro-complesso/SKILL.md": "c37887b434a27af17d97d76da99bcb306b96bbf5f703134279a185b8d2ff1fa4"
+      }
+    },
+    {
+      "id": "fonti-segnali-conoscenza",
+      "version": "0.1.0",
+      "package": "dist/fonti-segnali-conoscenza-0.1.0.zip",
+      "sha256": "8a86976758c31e4ce03dd048128e794658ea743bc83336b82fdd70666efdbb9f",
+      "files": {
+        "fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt": "cedc45b28fe0315dbb3d3418d99aa90284c050be87b2e907f88290adad53c0bf",
+        "fonti-segnali-conoscenza/catalog-entry.json": "a9b0cfc232c2ba2ba5cf8939451afc230b381b4e851367ac5c981c52d52ad6d2",
+        "fonti-segnali-conoscenza/ESEMPI_IT.md": "92a4b14867be9852f3b3a9f1c2273142e0f6f6a1244a26a916ac8773b8c8f2d6",
+        "fonti-segnali-conoscenza/presentation.json": "b682fc5917477e5be7372b0b75284d944086f1265ba8a7b924458d4802ac29bd",
+        "fonti-segnali-conoscenza/README.md": "11b60c44a4073a7145c714c7bf985607cb6cbad80653d57a6fc5698816a78e76",
+        "fonti-segnali-conoscenza/SKILL.md": "54da9e858239f787846cf26cdd3e172724ab98eb8c931690f319f096301d9498"
+      }
+    },
+    {
+      "id": "evolvere-competenze",
+      "version": "0.1.0",
+      "package": "dist/evolvere-competenze-0.1.0.zip",
+      "sha256": "5d2429b58df7071beec8158110d8661e6c17146fc116eddd64f0421587f7410d",
+      "files": {
+        "evolvere-competenze/AVVIO_CHAT_IT.txt": "0d11e61d5df05eb04752fc765c72acbec51b483e471c09d079343baf031ca775",
+        "evolvere-competenze/catalog-entry.json": "48a558968b5234a33356767279f377c38c55f78ca266f21f25dd079e685c3096",
+        "evolvere-competenze/ESEMPI_IT.md": "c92395542b5b2a36a229b647b541b5cab6e067bd17083da7ada454b2ffb2d7cd",
+        "evolvere-competenze/presentation.json": "91f927f178221d7b55659a9c4c1e1352973c011a19048047d766532723b30642",
+        "evolvere-competenze/README.md": "48a53d340e71f8e7b599e8c560fb2aaa9946366ac688f701f1505a5986c0492b",
+        "evolvere-competenze/SKILL.md": "f5e0f5ad439863000b1594f2feceb499fe3ef00734982d51135bc76da6e42600"
+      }
+    },
+    {
+      "id": "titoli-e-sottotitoli",
+      "version": "0.1.0",
+      "package": "dist/titoli-e-sottotitoli-0.1.0.zip",
+      "sha256": "8f86ffbcdd57606639184ad15beeae9134accd618725f1fe7e1303412f320d88",
+      "files": {
+        "titoli-e-sottotitoli/AVVIO_CHAT_IT.txt": "6f48b89ceeb0370973270778643cba6f5b81ec773f3d4faba13a5bf426a58d9e",
+        "titoli-e-sottotitoli/catalog-entry.json": "e4e44bb5d1d8b09ec65a3863cafc6ef4b215d7f60445f0e96b6a689264adfc64",
+        "titoli-e-sottotitoli/ESEMPI_IT.md": "4df8348cca74c3e3753cb3fa874135ae948ea317d3f31dc4f1ec747831e948e1",
+        "titoli-e-sottotitoli/presentation.json": "4521c816f0e76794ae86b6da5033a27594b01993d420005190cd1f3b8cc85169",
+        "titoli-e-sottotitoli/README.md": "de4fdb61d55dbec0fc8b73f4344912e03990e8b8c19a003f41e2a73eed484717",
+        "titoli-e-sottotitoli/SKILL.md": "3fa9f1cbef8520497bb1f99a0793b12b783e806c52f8a28c4d8157675802c213"
+      }
+    },
+    {
+      "id": "formare-risorse-pubbliche",
+      "version": "0.1.0",
+      "package": "dist/formare-risorse-pubbliche-0.1.0.zip",
+      "sha256": "4e3167d2edbcb4ebdf7065aaa9ce7bfabd4baa5c8607777b11bbd39ba360734d",
+      "files": {
+        "formare-risorse-pubbliche/AVVIO_CHAT_IT.txt": "50600971461019bd979579d5a84bdc29bb66f09678e4223bd7f41457a8897fb6",
+        "formare-risorse-pubbliche/catalog-entry.json": "738927cf15c8a4e235f760d21aa0c5daf45d109acce6b65857470e2a58cd3cd3",
+        "formare-risorse-pubbliche/ESEMPI_IT.md": "bb92c6bff196129be85373ff72044a298c2b329b8c0f9be4b334a34e80bd7ace",
+        "formare-risorse-pubbliche/presentation.json": "cd5c635c746966a4ddc433881fb6525bddf3d0991e40ca5b774c84ab87ceee15",
+        "formare-risorse-pubbliche/README.md": "59b067c4991b2ed89478fae3dd70c6d52138d09e31c4c18ef1a8513ccdd4346f",
+        "formare-risorse-pubbliche/SKILL.md": "d13a455ef8fe51f452a2df2b54d00ba8415fa2b0f6b72a9611d76ae98e43be5e"
+      }
+    },
+    {
+      "id": "ricostruire-lavoro-decisioni",
+      "version": "0.1.0",
+      "package": "dist/ricostruire-lavoro-decisioni-0.1.0.zip",
+      "sha256": "0066c884dd11b764601ea2c76184cea2a8b3e98c394f928fac777d9db199ae9d",
+      "files": {
+        "ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt": "94a56abfdc4e7a07be4e6092490d779ba7305dabffe3327cc2d6e2ee6ac73a7b",
+        "ricostruire-lavoro-decisioni/catalog-entry.json": "e889f5cbae827e6eea2d4d63d22a694beb0a4369ba23e10919d818087556c03a",
+        "ricostruire-lavoro-decisioni/ESEMPI_IT.md": "13d72c92ff807ea04a331d34820f9696ef56b6e5ecad92757a5e8060f8d90e33",
+        "ricostruire-lavoro-decisioni/presentation.json": "5d922b94357b911a65cecd687ff9f6d252471a0a19f8af7e15f9a6a2ac7ea156",
+        "ricostruire-lavoro-decisioni/README.md": "ad24ca8437e735ebb253ba61e874e44d03442945b21cc40d7cf089b3bcdfba0c",
+        "ricostruire-lavoro-decisioni/SKILL.md": "83634ea7554582f25a1991d3ef9876c0ef017dca7a83cadef6f45193cedb76e8"
+      }
+    },
+    {
+      "id": "condividere-apprendimenti",
+      "version": "0.1.0",
+      "package": "dist/condividere-apprendimenti-0.1.0.zip",
+      "sha256": "2eb9e20b959a806174a4fc30c9600a844e84fdc114a102171356fc3fa9eee136",
+      "files": {
+        "condividere-apprendimenti/AVVIO_CHAT_IT.txt": "648a224d22b370f842cebf03e4e46fdd00cdf80aa87ebaaf700003eabac2ccc0",
+        "condividere-apprendimenti/catalog-entry.json": "c5769b44c3de3e6a6c26051a4199ca0c45eedd06244d98966e0309b1ca038335",
+        "condividere-apprendimenti/ESEMPI_IT.md": "f194d702c3c204b4608c3c4f9d7c77396720005a802184fc7f44e11032bb6ee2",
+        "condividere-apprendimenti/presentation.json": "54023836ccd1f7fd9dafb5cfe64ff68dca4b2b8dc8f623c826f4606e452feb32",
+        "condividere-apprendimenti/README.md": "cb03de18439e0fcb17735c69f5ea294be17be461f2e3392b7bc6c3ff0c8e02a0",
+        "condividere-apprendimenti/SKILL.md": "11c64ec6e281adc26ae3562af4b11e582247b95093c765926fdcfe0e9f7a9085"
+      }
+    },
+    {
+      "id": "migliorare-attivita-ricorrenti",
+      "version": "0.1.0",
+      "package": "dist/migliorare-attivita-ricorrenti-0.1.0.zip",
+      "sha256": "caf1ab4fd20764dd2cdc8cf85c70b6929126ee64a61951d0340d341420842995",
+      "files": {
+        "migliorare-attivita-ricorrenti/AVVIO_CHAT_IT.txt": "56436af72166d8435dd750100f28ac5119db5626ac559349c8c0986fdab6194f",
+        "migliorare-attivita-ricorrenti/catalog-entry.json": "9d126b762dd2915320ad27339ede9b0b5c63f5ce613ba56bcd641b5ba2a0dcc6",
+        "migliorare-attivita-ricorrenti/ESEMPI_IT.md": "e44a5c32c10149760485f931aafe7fa4ade10640176dcd5af18e61680ffc0617",
+        "migliorare-attivita-ricorrenti/presentation.json": "a117b2c048ac45dc1357a042707988e5608755a7a2ac3bff834edd740e7fbb88",
+        "migliorare-attivita-ricorrenti/README.md": "c06bd7fb491ca3f8a940d44c8e7546a3d4ad540422ba131475004cae66ef466a",
+        "migliorare-attivita-ricorrenti/SKILL.md": "e7f3e2ef8649673514cd6e08f51412d891d3ef916d648a8951590741785f3f73"
+      }
+    },
+    {
+      "id": "conoscenza-del-sistema-ai",
+      "version": "0.1.0",
+      "package": "dist/conoscenza-del-sistema-ai-0.1.0.zip",
+      "sha256": "90a68d6e678184f772db2933a3731a520227d4f77bfbf734042a8436dc99d11f",
+      "files": {
+        "conoscenza-del-sistema-ai/AVVIO_CHAT_IT.txt": "2da8dec4dfbdc7455d6f9c7d1c4c179db601123577b75e60082bf909f4f14b27",
+        "conoscenza-del-sistema-ai/catalog-entry.json": "21ceaaea48b729f75a39350830e7c2886fa19e5eba1b0ee29005093c24c703b6",
+        "conoscenza-del-sistema-ai/ESEMPI_IT.md": "1670273251098155a9fbc0399a1e25674d5c50e7b3f9c6f06204428c435b70f3",
+        "conoscenza-del-sistema-ai/presentation.json": "e348c21293498516e7889c92e811f32571494dbea033c1cfe91956f2d54142df",
+        "conoscenza-del-sistema-ai/README.md": "bf903a41e4af088138c5d537e2dc8cd791e4955293f931f0c1126a1012ed60d3",
+        "conoscenza-del-sistema-ai/SKILL.md": "a2ad6f788aa202aa8cef7cd0b973cfa1a7f0c4525489cae45fe9523a36baeba2"
+      }
+    },
+    {
+      "id": "comprendere-lavoro-agente",
+      "version": "0.1.0",
+      "package": "dist/comprendere-lavoro-agente-0.1.0.zip",
+      "sha256": "dafa713e08fda3dfe3c1afe46994f908b59bb367ad38356f0179bf4fc66dc79d",
+      "files": {
+        "comprendere-lavoro-agente/AVVIO_CHAT_IT.txt": "7cb0086eb953de9e5838696d433fe5a0dedc7a266b7933f7afb4162dc1c78db7",
+        "comprendere-lavoro-agente/catalog-entry.json": "e139df6de3d031fa63e3cc46f6e05074ff26240bda8c2a3cb002f87f42e389e4",
+        "comprendere-lavoro-agente/ESEMPI_IT.md": "41d0d5c1aa673d332ba0584422cbc744ed24a4cd6dd3f6f0a2bc9b44ba4c2e93",
+        "comprendere-lavoro-agente/presentation.json": "945fa04fbfa6769125b0f298e68a532bee96a4768ecd26a94439697c2e957f2d",
+        "comprendere-lavoro-agente/README.md": "a0263d563b609785c571ec5a40690fbb0d556f669525c85eb958d2a60ac4640c",
+        "comprendere-lavoro-agente/SKILL.md": "bc2d2411eb1c4dfa2300aa64ed2ae6a4bd674bec391d96b1921bb174de80fb4f"
+      }
+    },
+    {
+      "id": "presenza-prodotto-assistente",
+      "version": "0.1.0",
+      "package": "dist/presenza-prodotto-assistente-0.1.0.zip",
+      "sha256": "9710712ad40dffb26fa2322f4a09b595d63648c98798f6fc3e270a9331793136",
+      "files": {
+        "presenza-prodotto-assistente/AVVIO_CHAT_IT.txt": "01522f0209e45b6b836ef2a0d574f8657694a58ae8baea5430dbe66b2f468a0f",
+        "presenza-prodotto-assistente/catalog-entry.json": "01cc1b67a8e878bcbe653a299bbccfacad07c9e902d63f3357c4fb62c97f8316",
+        "presenza-prodotto-assistente/ESEMPI_IT.md": "5a6ba439c334f13cff0358bd52d58de47448bfab3e64ba36e73b2ca227d8a3fb",
+        "presenza-prodotto-assistente/presentation.json": "a384aff23ae6c0e3b3d3e19f744630a38444409af5e5f53d0cd20a2fb65abc89",
+        "presenza-prodotto-assistente/README.md": "2812c9afca5d930a4610c923206ade62aedbd85475aa2886d2d99442398fb3d7",
+        "presenza-prodotto-assistente/SKILL.md": "5a795f2aad6902785c2b3a9b9ffeb2fc49eed395311f8b83548806f5e590c369"
+      }
+    },
+    {
+      "id": "continuita-repository",
+      "version": "0.1.0",
+      "package": "dist/continuita-repository-0.1.0.zip",
+      "sha256": "f3af63c1839187a8f11f7c953d736b0defd8e49d1f23e9986c90a35e50abf443",
+      "files": {
+        "continuita-repository/AVVIO_CHAT_IT.txt": "f3786b47c61342128eebea94056d8be3374151084bf235e40d6f543f58496cc4",
+        "continuita-repository/catalog-entry.json": "d66eb658f308e4342ee429c4db1aa146bc0dc6f31159d483d341f1a5b214cc30",
+        "continuita-repository/ESEMPI_IT.md": "e30f77200d0a5ef79ead0d61120302da62ae958cdc20d878f29c08f44df685cf",
+        "continuita-repository/presentation.json": "8ba568d44666409c37293dee40f86b91a15a2fddc2e52dc7057ce7d020b8ce1b",
+        "continuita-repository/README.md": "524dcbb2cb647ac28a2f10df5159514303bba2219985d48bc4a3859a825e99d4",
+        "continuita-repository/SKILL.md": "cda7aecc035ba62a95f75eafabab8554d6f736cf04e49f937b9ca30ff9aa8cbf"
+      }
+    },
+    {
+      "id": "accordi-collaborazioni",
+      "version": "0.1.0",
+      "package": "dist/accordi-collaborazioni-0.1.0.zip",
+      "sha256": "90430159d5b7059d025d1ef04131574d364ca35356bd86c3aab5a64a9a7535ea",
+      "files": {
+        "accordi-collaborazioni/AVVIO_CHAT_IT.txt": "e4d828aceea8e867c438066f033eb9abe2e620576058491200da2aa973a6ccda",
+        "accordi-collaborazioni/catalog-entry.json": "62d4a59fcfb523824cc4390e5893529a603f613cac6e6db8f433fbc6438ffcf9",
+        "accordi-collaborazioni/ESEMPI_IT.md": "f37a8d55430ffea4badb30da7e255fe8525d8c6f2d5f8d7fb8c7ab1a3a131c1a",
+        "accordi-collaborazioni/presentation.json": "098cfb7bf4c23774f49a02707c376f00d11f050757eee83eb9d9588371e2663b",
+        "accordi-collaborazioni/README.md": "579feff6bc39034836d00a7e0defa975a1cba76c25ed229df3b40c0e0c4a7201",
+        "accordi-collaborazioni/SKILL.md": "38e61cdf84deb5a7caa2d8734a43b88a9237ab276a88bc7f9d8b571bf160c781"
+      }
+    },
+    {
+      "id": "organizzare-sistema-editoriale",
+      "version": "0.1.0",
+      "package": "dist/organizzare-sistema-editoriale-0.1.0.zip",
+      "sha256": "105570bc02e4953f4e259b68c530f184e8422494f7ccb5a34a8b62767ddbeffa",
+      "files": {
+        "organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt": "3ecc7966cd303101743ffc5eb8871ef67a8a17b8da20dab6644aca77b46b5b68",
+        "organizzare-sistema-editoriale/catalog-entry.json": "dbddde96f8db4bd2525bf7591e0fcd84c69c099e6beff8047425992999900639",
+        "organizzare-sistema-editoriale/ESEMPI_IT.md": "da0c3aa5a4ff63a82394c92f0e005d73c9036ca3ff5259f010644c90ad7de0cf",
+        "organizzare-sistema-editoriale/presentation.json": "6c0168912ac2cbe999d33cc8671bc044e9edc55ca9ffd6451534ffbae2b8762d",
+        "organizzare-sistema-editoriale/README.md": "6534d7e038a27df7159b16125786db51f6cbc96867f6021e0f3d7ac49c29e922",
+        "organizzare-sistema-editoriale/SKILL.md": "fb56d3fc8aac2bc11ab58621d17121158ade2220b391665750e3da85b7c697ca"
+      }
+    },
+    {
+      "id": "creare-comporre-competenze",
+      "version": "0.1.0",
+      "package": "dist/creare-comporre-competenze-0.1.0.zip",
+      "sha256": "4d9b89a6f821065396cba3b0175667071c84d235c4886cf16b0e96e70901f5aa",
+      "files": {
+        "creare-comporre-competenze/AVVIO_CHAT_IT.txt": "f3feb43d38caa424bd1d9345f12060e21defb0d9593047236598870c2380bbdf",
+        "creare-comporre-competenze/catalog-entry.json": "2bd51501d9627a2c1469239bd0f4f9464ea712db67a426e0544b66c8edabec2b",
+        "creare-comporre-competenze/ESEMPI_IT.md": "e2bd398e1188cd393c2e678be31014f9ec1d5d537eb8ad258092ff463e25e687",
+        "creare-comporre-competenze/presentation.json": "88f7b51669b0a962fbbd718f9e98428a699623d11c78c503f6fdeaf0bfa8bc51",
+        "creare-comporre-competenze/README.md": "e53efdd95b7517b6fe252bf5eb2fb97df60b56154a069cfdf292a9d9e9f1d23e",
+        "creare-comporre-competenze/SKILL.md": "ab290a60e6f89757e68cc9dba12b1ebcbcd0e9ecd9330867025a7fa1beb1c230"
+      }
+    },
+    {
+      "id": "kernel-in-plugin",
+      "version": "0.1.0",
+      "package": "dist/kernel-in-plugin-0.1.0.zip",
+      "sha256": "c0486b2e6df41865c5a4a4d28ed2196dfcf1dc52fa4923bf69eee923b8031eab",
+      "files": {
+        "kernel-in-plugin/AVVIO_CHAT_IT.txt": "e7c67e33b002b9052c41c9af2128f928ec3b6d74c3a3b9ed5aa10b0c5b33d88a",
+        "kernel-in-plugin/catalog-entry.json": "da0bd36c7f18bc53cfba810b21b36dd71b89718718de8d8091ade5f471346a74",
+        "kernel-in-plugin/ESEMPI_IT.md": "464c5553b2a5697d4e0a9c1e04aea24b18cb4388fed5d1927756bd4de4995985",
+        "kernel-in-plugin/presentation.json": "70fdd4b4550c37f758019eca9f0620c3f53c63b0fe49e8bed0aa494ab459cde9",
+        "kernel-in-plugin/README.md": "c90d155a0c4e18cc7cd8daa4b450e03cde9d801d87751f45c3cbc5f5e010ceaf",
+        "kernel-in-plugin/SKILL.md": "528b67e4bdafc988cb8695b4c8c5cba6945c7d281e4c2adcff9124fc1dda09e0"
+      }
+    },
+    {
+      "id": "avviare-nodo-ai",
+      "version": "0.1.0",
+      "package": "dist/avviare-nodo-ai-0.1.0.zip",
+      "sha256": "9c144a9bc97d78ef4a392c8471d0c3fe13f37c285d03877c72aa67a1ee01aac7",
+      "files": {
+        "avviare-nodo-ai/AVVIO_CHAT_IT.txt": "a83a07ed06d949be2a1cf795fddabda121654da6a484c103171625ae253db200",
+        "avviare-nodo-ai/catalog-entry.json": "05a900613df9d36cb29be40c86bec7477db1f64de7cc7acf1e98cfb328d7f1fc",
+        "avviare-nodo-ai/ESEMPI_IT.md": "8f153258ef0d8510974a11efe7b730bd88646117b2c5fddb5db3a0c7ca55cbc4",
+        "avviare-nodo-ai/presentation.json": "4824846b36e6674895f72d00b15d5abe1638d8f609786e84366b6bce36ba0644",
+        "avviare-nodo-ai/README.md": "1ec3ec8d4b865eba98c486c3279f139ab5dbe372602da9f82da2dac3b5e1371d",
+        "avviare-nodo-ai/SKILL.md": "271326c26f201c13a44a3dca6ee6522a4279b892a0fe6c28e68424ce2051e1af"
+      }
+    },
+    {
+      "id": "coerenza-kernel-ai",
+      "version": "0.1.0",
+      "package": "dist/coerenza-kernel-ai-0.1.0.zip",
+      "sha256": "f3121f0fe754a8f5b71fad8bffdf86d4ceaaa275942dc7e81cb4eb217973a246",
+      "files": {
+        "coerenza-kernel-ai/AVVIO_CHAT_IT.txt": "a834487469e62c2c124fe54ef7e5e40d61e716c00a64aeb6a56ea054e8c9248b",
+        "coerenza-kernel-ai/catalog-entry.json": "c6439b1e3a0ec728280a0a5d7af57df971be4eca90d6e629a8f2a995362d025a",
+        "coerenza-kernel-ai/ESEMPI_IT.md": "2f87082a3309e06c6abb838c62264bc784cde602f9d455aa0b9b641ca8101d7b",
+        "coerenza-kernel-ai/presentation.json": "aef677012a6fed85876f421240456f09a42cb4f7e06b58165f98b1d1f5a9cfcf",
+        "coerenza-kernel-ai/README.md": "8631e2f93c0a0d9f29ea1e0a0a16793e314c95f07ae3f6779aebe3fbe4b7d464",
+        "coerenza-kernel-ai/SKILL.md": "166c60c8c7cec1a0d128e6fcd7dc141abc2cfa6f3b437b0d87a07b13f5c976c8"
+      }
+    },
+    {
+      "id": "formare-kernel-esperienza",
+      "version": "0.1.0",
+      "package": "dist/formare-kernel-esperienza-0.1.0.zip",
+      "sha256": "2cde8b573998585dd78468da90747963fe7fc68b5152d6140111460d71115810",
+      "files": {
+        "formare-kernel-esperienza/AVVIO_CHAT_IT.txt": "6566faf4dfbc93b6e49a19d49cdcab582a7612e0180d532e928dc403fa2690a1",
+        "formare-kernel-esperienza/catalog-entry.json": "d5dd652adcf9d9d2293bd1f3005840fcb997ce5ed531a23e37703cee245e40c6",
+        "formare-kernel-esperienza/ESEMPI_IT.md": "821d8cb6b2789ba3b46af9bd5fe64ac8c9468387061a8d27f123c79471bbd41a",
+        "formare-kernel-esperienza/presentation.json": "1c22345506c63e591a6be48ab5d262915b60959bc352da142cc3dae671bbe37c",
+        "formare-kernel-esperienza/README.md": "7d0b0318801635ba7a33bf19f895515ccd55cf32ce29c0c0c35c86b7a2e7da51",
+        "formare-kernel-esperienza/SKILL.md": "18f440b32a8a00f080c8f97f1e8794404db8aefc2a5464f3873300851ac47432"
+      }
+    },
+    {
+      "id": "ka-kernel-assiomatico",
+      "version": "0.1.0",
+      "package": "dist/ka-kernel-assiomatico-0.1.0.zip",
+      "sha256": "b193d01d0ee68900b7450400d691c5d8c158812cc7051e99b3bb43b3a81f0933",
+      "files": {
+        "ka-kernel-assiomatico/AVVIO_CHAT_IT.txt": "50ec5df361d01cb64a50ac63bec835b816d2ed84009bfa2feb5812ae70c7ac34",
+        "ka-kernel-assiomatico/catalog-entry.json": "92eb3e2b02f89782e6e8fec1ebc3b9e982a06522867bc4374ee9164b5399963e",
+        "ka-kernel-assiomatico/ESEMPI_IT.md": "8dc10b904126874871b69cbe12e6fd48c326220bc14abb1d1c426381fe044768",
+        "ka-kernel-assiomatico/presentation.json": "ad4790d831094233644226892648f2b351fbcd943829826f091392a909aaa960",
+        "ka-kernel-assiomatico/README.md": "1eee698e37af2964bfade2009cb46fd790099542798527019e87229d1e2fce5e",
+        "ka-kernel-assiomatico/SKILL.md": "b3efa76b434d1aac070f5437953fc62172dacbf08fe18ca085abd91b9c1d1a2a"
+      }
+    },
+    {
+      "id": "fdla-correzione-ai",
+      "version": "0.1.0",
+      "package": "dist/fdla-correzione-ai-0.1.0.zip",
+      "sha256": "c99b76f6a127ceb2adbfb9986f7cad10de9befaa55b8c3c47b6fe86c1311d73d",
+      "files": {
+        "fdla-correzione-ai/AVVIO_CHAT_IT.txt": "7931631de7d55a31a778e06ec993c9d4cc6474c97160115579cef7db9c42bfd8",
+        "fdla-correzione-ai/catalog-entry.json": "95e80ede9894e714497040f1c83bf3bace87dc01defbf2d00ad43123bfd63fc8",
+        "fdla-correzione-ai/ESEMPI_IT.md": "7845d3bcc5ed32e8087305df6adaaf8f9130ff7f18b8c7e2ab2d1d63f800ba63",
+        "fdla-correzione-ai/presentation.json": "782d4f46c695839145b957b5feafb0df312b117eda376c343f2028eca8d74566",
+        "fdla-correzione-ai/README.md": "08773398e33ce53bfcb6afb3efe9ccedef07054619b405b7b130bab16994de89",
+        "fdla-correzione-ai/SKILL.md": "d45fe19494d47a39724d936b4759c00cf4a3ec385e034519835ce83229e1c33f"
+      }
     }
   ]
 }

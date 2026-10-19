@@ -1,0 +1,136 @@
+{
+  "it": {
+    "title": "Preparare accordi e collaborazioni con l’AI",
+    "subtitle": "Rende espliciti oggetto, contributi, diritti, obblighi e scelte ancora da definire prima della stesura.",
+    "kind": "Competenza di dominio",
+    "domain": "Metodo e apprendimento",
+    "does": "Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni.",
+    "when": "Quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro.",
+    "examples": [
+      "Organizza contributi e responsabilità in una collaborazione.",
+      "Prepara una struttura di termini per un servizio.",
+      "Rileva una dipendenza tra consegne, accettazione e pagamenti."
+    ],
+    "intro": [
+      "Prima di scrivere un accordo occorre comprendere la relazione che deve rendere possibile. Parti, contributi, consegne, diritti e condizioni possono essere chiari in conversazioni separate e incoerenti quando vengono riuniti.",
+      "Questa competenza forma un'architettura dell'accordo leggibile e revisionabile. La precisione del documento nasce dalla relazione effettiva; la sufficienza giuridica richiede le fonti e le competenze pertinenti al caso."
+    ],
+    "method": [
+      {
+        "title": "Comprendere che cosa deve diventare possibile",
+        "body": "Parti dal risultato desiderato e dalle fonti della relazione: persone o organizzazioni coinvolte, ruoli effettivi, oggetto e stato della discussione. Non adattare subito il caso a un contratto standard. Una richiesta può richiedere prima una mappa delle questioni da concordare. Conserva le parole e le scelte della persona; lascia visibile ciò che non è ancora determinato."
+      },
+      {
+        "title": "Collegare contributi e dipendenze",
+        "body": "Rendi comprensibile chi offre che cosa, a chi, quando e a quali condizioni. Collega prestazioni, risorse, pagamenti, accessi e prove di accettazione quando sono pertinenti. Una consegna può dipendere da materiali che un'altra parte deve fornire; un pagamento può riferirsi a un evento che nessuno ha ancora definito. Porta queste relazioni nello stesso campo prima di formulare impegni apparentemente precisi."
+      },
+      {
+        "title": "Comporre il sapere necessario",
+        "body": "La competenza del progetto chiarisce fattibilità e consegne; quella economica chiarisce scambi e posizione negoziale; la scrittura rende esatte definizioni e conseguenze. Nessuna deve inventare la verità dell'altra. Quando il documento verrà usato come strumento giuridico, raggiungi le fonti primarie correnti della giurisdizione e la competenza legale qualificata necessaria. Se mancano, prepara la struttura e le domande precise per quella revisione, senza dichiararla sufficiente."
+      },
+      {
+        "title": "Formare un insieme coerente",
+        "body": "Considera diritti, obblighi, condizioni, durata, cambiamenti, uscita e relazioni che continuano dopo la conclusione soltanto dove incidono sull'accordo. Proprietà, riuso, dati o riservatezza possono essere materiali in un caso e assenti in un altro. Non riempire incognite con formule convenzionali. Controlla come le definizioni interagiscono: una responsabilità, una scadenza o un criterio di accettazione possono cambiare il significato di altre parti."
+      },
+      {
+        "title": "Scegliere la forma utile alla discussione",
+        "body": "Il risultato può essere una mappa delle relazioni, una struttura di termini, una bozza o un confronto con un testo ricevuto. Scrivi in modo che le parti possano vedere ciò che è allineato e ciò che richiede una scelta. Una risposta della controparte può cambiare l'accordo successivo; non riscrive la provenienza delle richieste precedenti. Distingui proposta, revisione, accettazione, firma ed esecuzione."
+      },
+      {
+        "title": "Conservare autorità e apprendimento",
+        "body": "Comporre e scrivere non significa inviare, accettare, firmare, pagare, trasferire diritti o concedere accessi. Mantieni ogni effetto legato a persona, mezzo e autorizzazione pertinenti. Dopo un caso reale conserva ciò che cambia la composizione futura: dipendenze nascoste, definizioni ambigue, prove mancanti o ruoli confusi. Restituisci gli apprendimenti giuridici alle fonti qualificate e quelli di progetto o scrittura ai rispettivi metodi."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "L'oggetto è l'architettura di un accordo. È una competenza di dominio che può comporre altri saperi; la composizione non la rende automaticamente un generatore di competenze o una facoltà autologica.",
+        "Può imparare dal proprio metodo quando un caso rivela una dipendenza ignorata. Per esempio, una consegna dipendeva da dati del cliente ma la struttura non lo rendeva visibile. Correggere la composizione aiuta un accordo successivo; non fornisce una garanzia legale né autonomia nel vincolare le parti."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "Il caso concreto può cambiare come riconoscere dipendenze e responsabilità. Conserva le ragioni della correzione e lascia che il nuovo contesto determini quali relazioni sono pertinenti, senza trasformare ogni clausola in un modello universale."
+    ]
+  },
+  "en": {
+    "title": "Prepare agreements and collaborations with AI",
+    "subtitle": "Make scope, contributions, rights, obligations and open choices explicit before drafting.",
+    "kind": "Domain competence",
+    "domain": "Method and learning",
+    "does": "Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely.",
+    "when": "When a collaboration or service needs a clear agreement and standard clauses do not describe the actual work.",
+    "examples": [
+      "Organize contributions and responsibilities in a collaboration.",
+      "Prepare a structure of terms for a service.",
+      "Identify dependencies between delivery, acceptance and payment."
+    ],
+    "intro": [
+      "Before drafting an agreement, the relationship it should enable needs to be understood. Parties, contributions, deliveries, rights and conditions can seem clear in separate conversations yet conflict when brought together.",
+      "This competence forms a readable, reviewable agreement architecture. Document precision follows the actual relationship; legal sufficiency requires the sources and expertise pertinent to the case."
+    ],
+    "method": [
+      {
+        "title": "Understand what the agreement should enable",
+        "body": "Start from the intended outcome and the relationship's sources: actual parties, roles, object and discussion state. Do not immediately fit the case into a standard contract. A map of what must be agreed may be the useful first form. Preserve the person's wording and decisions while keeping unresolved matters visible."
+      },
+      {
+        "title": "Connect contributions and dependencies",
+        "body": "Clarify who provides what, to whom, when and under which conditions. Connect performance, resources, payment, access and acceptance evidence where pertinent. A delivery may depend on materials from another party; a payment may refer to an undefined event. Bring these relations together before drafting apparently precise commitments."
+      },
+      {
+        "title": "Compose the knowledge needed",
+        "body": "Project knowledge establishes feasibility and deliverables; business knowledge clarifies exchanges and negotiation position; writing makes definitions and consequences precise. None should invent the other's truth. When legal reliance matters, use current primary sources for the jurisdiction and appropriate qualified legal expertise. Otherwise return a review-ready structure and specific legal questions without declaring sufficiency."
+      },
+      {
+        "title": "Form a coherent whole",
+        "body": "Consider rights, obligations, conditions, duration, changes, exit and surviving relations where they matter. Ownership, reuse, data or confidentiality may be material in one case and absent in another. Do not fill unknowns with conventional wording. Check how definitions interact: responsibilities, dates and acceptance criteria can alter other terms."
+      },
+      {
+        "title": "Choose a useful discussion form",
+        "body": "The result may be a relation map, term structure, draft or comparison with supplied wording. Make agreed and unresolved matters visible. A counterparty response can change the next agreement but does not rewrite the source of earlier requests. Distinguish proposal, review, acceptance, signature and performance."
+      },
+      {
+        "title": "Preserve authority and learning",
+        "body": "Composing and drafting do not send, accept, sign, pay, transfer rights or grant access. Keep each effect attached to its actual actor, means and authorization. After real work, preserve lessons that change future composition: hidden dependencies, ambiguous definitions, missing evidence or confused roles. Legal learning remains tied to qualified sources."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "The object is agreement architecture. This domain competence can compose other knowledge; composition does not automatically make it a competence generator or an autological faculty.",
+        "It can learn about its own method when a case reveals an overlooked dependency. A delivery may have depended on client data that the structure did not identify. Improving composition can help a later agreement; it supplies neither legal assurance nor autonomy to bind parties."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste AVVIO_CHAT_IT.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "A concrete case can change how dependencies and responsibilities are recognized. Preserve the reasons for the correction and let the new context determine relevance, without turning every term into a universal template."
+    ]
+  }
+}

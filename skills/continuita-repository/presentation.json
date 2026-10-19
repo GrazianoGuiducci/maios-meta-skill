@@ -1,0 +1,136 @@
+{
+  "it": {
+    "title": "Condividere il lavoro AI tra repository e collaboratori",
+    "subtitle": "Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.",
+    "kind": "Competenza tecnica",
+    "domain": "Builder e sistemi",
+    "does": "Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa.",
+    "when": "Quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale.",
+    "examples": [
+      "Condivide un cambiamento senza includere file di un altro autore.",
+      "Riconcilia lavori locali e remoti indipendenti.",
+      "Dà a un secondo assistente il riferimento esatto della revisione da leggere."
+    ],
+    "intro": [
+      "Un lavoro salvato può restare invisibile a chi deve continuarlo. Questa competenza collega il risultato locale alla sorgente condivisa del progetto, mantenendo chiaro che cosa appartiene alla modifica selezionata.",
+      "La continuità comprende le ragioni del cambiamento, i contributi concorrenti e la revisione che il collaboratore può davvero leggere. Commit, condivisione e pubblicazione del prodotto restano effetti distinti."
+    ],
+    "method": [
+      {
+        "title": "Individuare repository e risultato selezionati",
+        "body": "Raggiungi il repository che possiede il lavoro e le sue istruzioni attuali. Comprendi che cosa deve diventare condiviso e perché serve al seguito. Una cartella contenitore può ospitare più repository: non trattarli come un unico oggetto. La continuità diventa pertinente a un risultato significativo o a un passaggio di consegne, non richiede una chiusura Git dopo ogni modifica o una pubblicazione durante una richiesta di sola lettura."
+      },
+      {
+        "title": "Comprendere le identità presenti",
+        "body": "Distingui file di lavoro, commit locali, riferimento di tracciamento, revisione remota verificata e artefatti generati o ignorati. Usa gli strumenti Git e l'accesso previsti dal progetto per vedere ramo, differenze e rapporto con il remoto. Un riferimento locale può essere vecchio; un fetch riuscito non dimostra che il contenuto selezionato sia già condiviso. Evita di stampare o salvare credenziali mentre acquisisci queste informazioni."
+      },
+      {
+        "title": "Preservare i contributi concorrenti",
+        "body": "Leggi il significato delle modifiche prima di preparare il commit. Seleziona solo i file o le porzioni appartenenti al lavoro autorizzato. Un cambiamento vecchio o non ancora salvato in un commit non è per questo rumore eliminabile. Con contributi locali e remoti indipendenti, integra preservando entrambe le linee; se si sovrappongono sullo stesso oggetto, risolvi la relazione prima di scegliere il contenuto. Non ottenere ordine apparente cancellando lavoro valido."
+      },
+      {
+        "title": "Completare l'effetto autorizzato",
+        "body": "Quando il mandato corrente copre commit e condivisione, controlla il contenuto pertinente, esegui verifiche proporzionate, crea un commit coerente e condividi sul ramo previsto attraverso l'autenticazione del destinatario. Non trasferire la policy di credenziali o di push di un altro ambiente. Se l'effetto non è autorizzato o il mezzo manca, conserva il lavoro e indica il passaggio specifico ancora aperto senza dichiarare la sorgente condivisa."
+      },
+      {
+        "title": "Verificare ciò che il collaboratore riceverà",
+        "body": "Dopo la condivisione, verifica la revisione remota e la relazione con il risultato locale e il tracking. Se una riconciliazione produce identità diverse, spiega quali commit o contenuti corrispondono e quali restano distinti. Dai al collaboratore un riferimento esatto con ragioni e controlli rilevanti. Una sorgente raggiungibile non prova che sia stata letta, installata o eseguita. Deploy, release e attivazione richiedono il loro riscontro."
+      },
+      {
+        "title": "Far continuare la conoscenza del cambiamento",
+        "body": "Conserva nella guida del progetto il cambiamento utile, il perché, la revisione, le verifiche e l'eventuale lavoro rimasto locale. Se un nuovo caso espone una perdita o una procedura superflua, correggi il metodo di continuità. Il suo scopo è rendere il lavoro condivisibile e ricostruibile, non creare un rituale di Git o mantenere tutti i repository dell'ambiente sincronizzati per forza."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "Questa è una competenza tecnica di continuità sorgente. Il numero di repository o di agenti non le attribuisce automaticamente un livello meta.",
+        "Il metodo può diventare oggetto di apprendimento quando un passaggio di consegne mostra che una modifica condivisa non era raggiungibile dal collaboratore. Correggere quell'ingresso cambia il modo di conservare la continuità. È diverso da un processo autonomo che esegue push a intervalli, e non autorizza tale processo."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perdita e senza dover ricostruire la situazione. Un controllo tecnico resta legato alla revisione che ha effettivamente verificato."
+    ]
+  },
+  "en": {
+    "title": "Share AI project work across repositories and collaborators",
+    "subtitle": "Keep the relationship between local changes, commits and shared source identifiable.",
+    "kind": "Technical competence",
+    "domain": "Builders and systems",
+    "does": "Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity.",
+    "when": "When people and assistants share a project and useful work should not remain hidden in a local checkout.",
+    "examples": [
+      "Share a change without including another author's files.",
+      "Reconcile independent local and remote contributions.",
+      "Give another assistant the exact revision to read."
+    ],
+    "intro": [
+      "Saved work can remain invisible to the person who needs to continue it. This competence connects a local result to the project's shared source while keeping the selected change identifiable.",
+      "Continuity includes the reasons for the change, concurrent contributions and the revision a collaborator can actually read. Commit, sharing and product deployment remain distinct effects."
+    ],
+    "method": [
+      {
+        "title": "Identify the selected repository and result",
+        "body": "Reach the repository that owns the work and its current instructions. Understand what should become shared and why. A containing folder may hold several repositories. Continuity matters at meaningful results or handovers; it does not require Git closure after every edit or publication during a read-only request."
+      },
+      {
+        "title": "Understand the current identities",
+        "body": "Distinguish working files, local commits, tracking references, verified remote revision and generated or ignored artifacts. Use the project's Git tools and access policy to inspect branch, differences and remote relation. A local tracking reference can be stale; a successful fetch does not mean selected content is already shared."
+      },
+      {
+        "title": "Preserve concurrent contributions",
+        "body": "Understand changes before staging. Select only the files or portions belonging to authorized work. Older or uncommitted work is not disposable noise. Integrate independent local and remote contributions while preserving both lines. Resolve overlapping changes according to their meaning rather than deleting valid work for an apparently clean state."
+      },
+      {
+        "title": "Complete the authorized effect",
+        "body": "When the current mandate covers committing and sharing, review the selected payload, perform proportionate checks, create a coherent commit and share it on the intended branch using the recipient's authentication policy. If authority or access is missing, preserve the work and identify the exact open step without claiming shared source."
+      },
+      {
+        "title": "Verify what the collaborator can receive",
+        "body": "After sharing, verify the remote revision and its relation to local work and tracking. If reconciliation produces different identities, explain which commits or contents correspond. Provide an exact reference with relevant reasons and checks. Reachable source does not prove reading, installation or execution; deployment and release need their own evidence."
+      },
+      {
+        "title": "Continue the knowledge of the change",
+        "body": "Preserve the useful change, its reason, revision, checks and any remaining local-only work in the project guide. If a later case exposes loss or unnecessary procedure, improve the continuity method. Its purpose is shared, reconstructable work rather than a Git ritual or forced synchronization of every repository."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "This is a technical source-continuity competence. The number of repositories or agents does not automatically give it a meta level.",
+        "Its method can become an object of learning when a handover shows that shared work was not reachable by the collaborator. Repairing that entry changes continuity practice. This differs from an autonomous process that pushes on a schedule and does not authorize one."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste AVVIO_CHAT_IT.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "A later case shows whether work reaches shared source without loss or repeated reconstruction. A technical check remains attached to the revision it actually verified."
+    ]
+  }
+}

@@ -1,16 +1,28 @@
 """Package a selected competence without private infrastructure or dependencies."""
 import hashlib
 import json
+import argparse
 from pathlib import Path
 from zipfile import ZipFile, ZipInfo, ZIP_DEFLATED
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def build():
+def build(selected=None):
     catalog = json.loads((ROOT / "catalog.json").read_text(encoding="utf-8"))
+    previous_path = ROOT / 'dist/manifest.json'
+    previous = json.loads(previous_path.read_text(encoding='utf-8')) if previous_path.exists() else {'packages': []}
+    known = {item['id']: item for item in previous['packages']}
+    ids = {resource['id'] for resource in catalog['resources']}
+    if selected and not set(selected) <= ids:
+        raise ValueError('Unknown resource in selected release')
     packages = []
     for resource in catalog["resources"]:
+        if selected and resource['id'] not in selected:
+            if resource['id'] not in known:
+                raise ValueError('Missing previous package: ' + resource['id'])
+            packages.append(known[resource['id']])
+            continue
         folder = (ROOT / resource["skill"]).parent
         destination = ROOT / resource["package"]
         destination.parent.mkdir(exist_ok=True)
@@ -42,4 +54,7 @@ def build():
 
 
 if __name__ == "__main__":
-    build()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--resource', action='append', help='Build only selected resources; retain other published packages')
+    args = parser.parse_args()
+    build(args.resource)

@@ -1,0 +1,42 @@
+{
+  "id": "conservare-conoscenze-utili",
+  "name": "Conoscenze utili",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "02",
+  "skill": "skills/conservare-conoscenze-utili/SKILL.md",
+  "guide": "skills/conservare-conoscenze-utili/README.md",
+  "starter": "skills/conservare-conoscenze-utili/AVVIO_CHAT_IT.txt",
+  "examples": "skills/conservare-conoscenze-utili/ESEMPI_IT.md",
+  "presentation": "skills/conservare-conoscenze-utili/presentation.json",
+  "package": "dist/conservare-conoscenze-utili-0.1.0.zip",
+  "it": {
+    "route": "/risorse/conservare-conoscenze-utili/",
+    "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
+    "description": "Trasforma una correzione o un’esperienza in un sapere breve, ritrovabile e aggiornabile.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla.",
+    "when": "Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere.",
+    "examples": [
+      "Conserva il criterio con cui approvi i preventivi.",
+      "Trasforma una correzione editoriale in conoscenza per i testi successivi.",
+      "Mantiene una lezione di progetto senza archiviare tutta la conversazione."
+    ]
+  },
+  "en": {
+    "route": "/resources/conservare-conoscenze-utili/",
+    "title": "Keep useful knowledge from AI work",
+    "description": "Turn a correction or experience into concise knowledge that can be found, used and revised.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it.",
+    "when": "Use it when a conversation produces a useful rule or correction that you do not want to have to repeat.",
+    "examples": [
+      "Preserve the criterion you use to approve quotations.",
+      "Turn an editorial correction into knowledge for later writing.",
+      "Keep a project lesson without storing the entire conversation."
+    ]
+  }
+}

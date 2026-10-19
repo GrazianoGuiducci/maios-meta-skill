@@ -47,6 +47,1015 @@
         ],
         "format": "Competence · guide · chat starter · examples in Italian",
         "status": "First edition · 0.1.0"
+      },
+      "review_id": "00"
+    },
+    {
+      "id": "continuita-del-lavoro-ai",
+      "name": "Continuità del lavoro AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "01",
+      "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
+      "guide": "skills/continuita-del-lavoro-ai/README.md",
+      "starter": "skills/continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/continuita-del-lavoro-ai/ESEMPI_IT.md",
+      "presentation": "skills/continuita-del-lavoro-ai/presentation.json",
+      "package": "dist/continuita-del-lavoro-ai-0.1.0.zip",
+      "it": {
+        "route": "/risorse/continuita-del-lavoro-ai/",
+        "title": "Riprendere un progetto con l’AI dopo un’interruzione",
+        "description": "Conserva obiettivo, ragioni delle scelte e punto raggiunto quando cambia la chat o si riduce il contesto.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti.",
+        "when": "Quando un progetto dura più sessioni, passa a un’altra istanza o richiede di conservare decisioni che un semplice riepilogo perderebbe.",
+        "examples": [
+          "Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
+          "Continua una ricerca dopo il cambio di chat.",
+          "Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte."
+        ]
+      },
+      "en": {
+        "route": "/resources/continuita-del-lavoro-ai/",
+        "title": "Resume a project with AI after an interruption",
+        "description": "Keep the objective, reasons for decisions and current position when the chat changes or context is reduced.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources.",
+        "when": "Use it when a project spans sessions, moves to another assistant or depends on decisions a short summary would lose.",
+        "examples": [
+          "Resume app development with decisions and unresolved problems available.",
+          "Continue research after changing chats.",
+          "Hand a business proposal to another assistant with its objective and reasons."
+        ]
+      }
+    },
+    {
+      "id": "conservare-conoscenze-utili",
+      "name": "Conoscenze utili",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "02",
+      "skill": "skills/conservare-conoscenze-utili/SKILL.md",
+      "guide": "skills/conservare-conoscenze-utili/README.md",
+      "starter": "skills/conservare-conoscenze-utili/AVVIO_CHAT_IT.txt",
+      "examples": "skills/conservare-conoscenze-utili/ESEMPI_IT.md",
+      "presentation": "skills/conservare-conoscenze-utili/presentation.json",
+      "package": "dist/conservare-conoscenze-utili-0.1.0.zip",
+      "it": {
+        "route": "/risorse/conservare-conoscenze-utili/",
+        "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
+        "description": "Trasforma una correzione o un’esperienza in un sapere breve, ritrovabile e aggiornabile.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla.",
+        "when": "Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere.",
+        "examples": [
+          "Conserva il criterio con cui approvi i preventivi.",
+          "Trasforma una correzione editoriale in conoscenza per i testi successivi.",
+          "Mantiene una lezione di progetto senza archiviare tutta la conversazione."
+        ]
+      },
+      "en": {
+        "route": "/resources/conservare-conoscenze-utili/",
+        "title": "Keep useful knowledge from AI work",
+        "description": "Turn a correction or experience into concise knowledge that can be found, used and revised.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it.",
+        "when": "Use it when a conversation produces a useful rule or correction that you do not want to have to repeat.",
+        "examples": [
+          "Preserve the criterion you use to approve quotations.",
+          "Turn an editorial correction into knowledge for later writing.",
+          "Keep a project lesson without storing the entire conversation."
+        ]
+      }
+    },
+    {
+      "id": "estrarre-idee-dalle-conversazioni",
+      "name": "Idee dalle conversazioni",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "03",
+      "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL.md",
+      "guide": "skills/estrarre-idee-dalle-conversazioni/README.md",
+      "starter": "skills/estrarre-idee-dalle-conversazioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/estrarre-idee-dalle-conversazioni/ESEMPI_IT.md",
+      "presentation": "skills/estrarre-idee-dalle-conversazioni/presentation.json",
+      "package": "dist/estrarre-idee-dalle-conversazioni-0.1.0.zip",
+      "it": {
+        "route": "/risorse/estrarre-idee-dalle-conversazioni/",
+        "title": "Estrarre le idee dell’autore dalle conversazioni con l’AI",
+        "description": "Ritrova concetti, correzioni e intuizioni in un corpus scelto, conservando la loro origine.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Distingue le parole dell’autore dalle risposte dell’assistente, elimina duplicazioni e rumore e organizza i concetti utili con il loro riferimento sorgente.",
+        "when": "Quando il sapere è disperso in chat, appunti o trascrizioni e vuoi ricavarne idee o metodi utilizzabili.",
+        "examples": [
+          "Raccoglie intuizioni per un libro dalle chat selezionate dall’autore.",
+          "Estrae requisiti di prodotto dalle conversazioni di progetto.",
+          "Ritrova le correzioni che devono cambiare il modo di lavorare dell’assistente."
+        ]
+      },
+      "en": {
+        "route": "/resources/estrarre-idee-dalle-conversazioni/",
+        "title": "Extract an author's ideas from AI conversations",
+        "description": "Recover concepts, corrections and insights from a selected corpus while preserving their origin.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Separates the author's words from assistant output, reduces noise and duplication, and organises useful concepts with source references.",
+        "when": "Use it when knowledge is scattered across chats, notes or transcripts and you want ideas or methods you can reuse.",
+        "examples": [
+          "Gather ideas for a book from conversations selected by its author.",
+          "Extract product requirements from project conversations.",
+          "Recover corrections that should change an assistant's working method."
+        ]
+      }
+    },
+    {
+      "id": "organizzare-lavoro-complesso",
+      "name": "Meta_Metodo",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "04",
+      "skill": "skills/organizzare-lavoro-complesso/SKILL.md",
+      "guide": "skills/organizzare-lavoro-complesso/README.md",
+      "starter": "skills/organizzare-lavoro-complesso/AVVIO_CHAT_IT.txt",
+      "examples": "skills/organizzare-lavoro-complesso/ESEMPI_IT.md",
+      "presentation": "skills/organizzare-lavoro-complesso/presentation.json",
+      "package": "dist/organizzare-lavoro-complesso-0.1.0.zip",
+      "it": {
+        "route": "/risorse/organizzare-lavoro-complesso/",
+        "title": "Organizzare un lavoro complesso con l’AI",
+        "description": "Meta_Metodo fa emergere il metodo dalle relazioni tra obiettivo, conoscenze, competenze e mezzi disponibili.",
+        "kind": "Metacompetenza",
+        "domain": "Metodo e apprendimento",
+        "does": "Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove.",
+        "when": "Quando idee, attività, strumenti e priorità sono mescolati e una lista di task non basta a comprendere come procedere.",
+        "examples": [
+          "Collega ricerca, prodotto, offerta e comunicazione di un lancio.",
+          "Organizza un progetto partendo da appunti esposti fuori ordine.",
+          "Rivede il metodo quando una nuova fonte cambia la domanda di ricerca."
+        ]
+      },
+      "en": {
+        "route": "/resources/organizzare-lavoro-complesso/",
+        "title": "Organise complex work with AI",
+        "description": "Meta_Metodo forms a working method from the relationships between intent, knowledge, competences and available means.",
+        "kind": "Meta-competence",
+        "domain": "Method and learning",
+        "does": "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge.",
+        "when": "Use it when ideas, tasks, tools and priorities are mixed together and a task list does not explain how to proceed.",
+        "examples": [
+          "Connect research, product, offer and communication for a launch.",
+          "Organise a project from notes presented out of order.",
+          "Revise the method when a new source changes the research question."
+        ]
+      }
+    },
+    {
+      "id": "fonti-segnali-conoscenza",
+      "name": "Fonti, segnali e conoscenza",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "05",
+      "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
+      "guide": "skills/fonti-segnali-conoscenza/README.md",
+      "starter": "skills/fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt",
+      "examples": "skills/fonti-segnali-conoscenza/ESEMPI_IT.md",
+      "presentation": "skills/fonti-segnali-conoscenza/presentation.json",
+      "package": "dist/fonti-segnali-conoscenza-0.1.0.zip",
+      "it": {
+        "route": "/risorse/fonti-segnali-conoscenza/",
+        "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
+        "description": "Collega articoli, paper, video e osservazioni a ciò che il sistema deve comprendere o imparare a fare.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente.",
+        "when": "Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare.",
+        "examples": [
+          "Ricava da un paper una possibilità da approfondire nel prodotto.",
+          "Collega feedback dei clienti e osservazioni tecniche.",
+          "Trasforma un errore di esecuzione in conoscenza utile al metodo."
+        ]
+      },
+      "en": {
+        "route": "/resources/fonti-segnali-conoscenza/",
+        "title": "Turn sources and signals into useful project knowledge",
+        "description": "Connect articles, papers, videos and observations to what the system needs to understand or learn to do.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently.",
+        "when": "Use it when information is abundant and you need to understand what changes a research question, product or working method.",
+        "examples": [
+          "Develop a product possibility from a paper.",
+          "Connect customer feedback with technical observations.",
+          "Turn an execution error into useful methodological knowledge."
+        ]
+      }
+    },
+    {
+      "id": "evolvere-competenze",
+      "name": "Evolvere le competenze AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "06",
+      "skill": "skills/evolvere-competenze/SKILL.md",
+      "guide": "skills/evolvere-competenze/README.md",
+      "starter": "skills/evolvere-competenze/AVVIO_CHAT_IT.txt",
+      "examples": "skills/evolvere-competenze/ESEMPI_IT.md",
+      "presentation": "skills/evolvere-competenze/presentation.json",
+      "package": "dist/evolvere-competenze-0.1.0.zip",
+      "it": {
+        "route": "/risorse/evolvere-competenze/",
+        "title": "Far evolvere una competenza AI attraverso il lavoro",
+        "description": "Porta una correzione o un apprendimento nel metodo che dovrà usarlo la prossima volta.",
+        "kind": "Metacompetenza",
+        "domain": "Metodo e apprendimento",
+        "does": "Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza.",
+        "when": "Quando un errore si ripete, una capacità migliora con l’uso o il sapere esiste ma non viene richiamato nel lavoro.",
+        "examples": [
+          "Una correzione ai titoli cambia il metodo di scrittura successivo.",
+          "Una ricerca riuscita arricchisce la competenza di analisi.",
+          "Un errore dovuto all’ingresso della skill viene corretto nel suo richiamo."
+        ]
+      },
+      "en": {
+        "route": "/resources/evolvere-competenze/",
+        "title": "Evolve an AI competence through real work",
+        "description": "Put a correction or learning into the method that should use it next time.",
+        "kind": "Meta-competence",
+        "domain": "Method and learning",
+        "does": "Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference.",
+        "when": "Use it when an error recurs, a capability improves through use or existing knowledge is not reached during work.",
+        "examples": [
+          "An editorial correction changes the method used for later titles.",
+          "Successful research enriches an analysis competence.",
+          "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
+        ]
+      }
+    },
+    {
+      "id": "titoli-e-sottotitoli",
+      "name": "Titoli e sottotitoli",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "07",
+      "skill": "skills/titoli-e-sottotitoli/SKILL.md",
+      "guide": "skills/titoli-e-sottotitoli/README.md",
+      "starter": "skills/titoli-e-sottotitoli/AVVIO_CHAT_IT.txt",
+      "examples": "skills/titoli-e-sottotitoli/ESEMPI_IT.md",
+      "presentation": "skills/titoli-e-sottotitoli/presentation.json",
+      "package": "dist/titoli-e-sottotitoli-0.1.0.zip",
+      "it": {
+        "route": "/risorse/titoli-e-sottotitoli/",
+        "title": "Scrivere titoli e sottotitoli che fanno capire il contenuto",
+        "description": "Rende riconoscibili soggetto, oggetto e contesto prima che il lettore apra un articolo o una scheda.",
+        "kind": "Facoltà editoriale",
+        "domain": "Prodotti e comunicazione",
+        "does": "Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto.",
+        "when": "Quando i titoli sono generici, promozionali o comprensibili soltanto a chi conosce già la conversazione.",
+        "examples": [
+          "Corregge il titolo di un articolo senza cambiarne il soggetto.",
+          "Rende comprensibile una scheda prodotto al primo incontro.",
+          "Organizza titoli e nomi di documenti per ritrovarli nel progetto."
+        ]
+      },
+      "en": {
+        "route": "/resources/titoli-e-sottotitoli/",
+        "title": "Write titles and subtitles that identify the content",
+        "description": "Make subject, object and context recognisable before the reader opens an article or resource card.",
+        "kind": "Editorial faculty",
+        "domain": "Products and communication",
+        "does": "Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter.",
+        "when": "Use it when titles are generic, promotional or understandable only to someone who already knows the conversation.",
+        "examples": [
+          "Correct an article title without changing its subject.",
+          "Make a product card understandable at first encounter.",
+          "Organise document titles and names so they can be found in a project."
+        ]
+      }
+    },
+    {
+      "id": "formare-risorse-pubbliche",
+      "name": "Formare risorse pubbliche",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "08",
+      "skill": "skills/formare-risorse-pubbliche/SKILL.md",
+      "guide": "skills/formare-risorse-pubbliche/README.md",
+      "starter": "skills/formare-risorse-pubbliche/AVVIO_CHAT_IT.txt",
+      "examples": "skills/formare-risorse-pubbliche/ESEMPI_IT.md",
+      "presentation": "skills/formare-risorse-pubbliche/presentation.json",
+      "package": "dist/formare-risorse-pubbliche-0.1.0.zip",
+      "it": {
+        "route": "/risorse/formare-risorse-pubbliche/",
+        "title": "Trasformare una competenza interna in una risorsa pubblica",
+        "description": "Collega il saper fare trasferibile a guida, primo uso, repository, pagina e derivazioni editoriali.",
+        "kind": "Metacompetenza",
+        "domain": "Prodotti e comunicazione",
+        "does": "Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI.",
+        "when": "Quando un team vuole condividere un metodo o una skill maturati nel lavoro e renderli utili anche ad altri.",
+        "examples": [
+          "Converte una competenza interna in un kit con guida e avvio.",
+          "Prepara scheda e pagina di una risorsa open source.",
+          "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
+        ]
+      },
+      "en": {
+        "route": "/resources/formare-risorse-pubbliche/",
+        "title": "Turn an internal competence into a public resource",
+        "description": "Connect transferable know-how with a guide, first use, repository, dedicated page and editorial adaptations.",
+        "kind": "Meta-competence",
+        "domain": "Products and communication",
+        "does": "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI.",
+        "when": "Use it when a team wants to share a method or skill developed through work and make it useful to others.",
+        "examples": [
+          "Turn an internal competence into a kit with a guide and starter.",
+          "Prepare a card and dedicated page for an open-source resource.",
+          "Derive an article and social adaptations from the same resource version."
+        ]
+      }
+    },
+    {
+      "id": "ricostruire-lavoro-decisioni",
+      "name": "Continuità delle decisioni",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "09",
+      "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
+      "guide": "skills/ricostruire-lavoro-decisioni/README.md",
+      "starter": "skills/ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/ricostruire-lavoro-decisioni/ESEMPI_IT.md",
+      "presentation": "skills/ricostruire-lavoro-decisioni/presentation.json",
+      "package": "dist/ricostruire-lavoro-decisioni-0.1.0.zip",
+      "it": {
+        "route": "/risorse/ricostruire-lavoro-decisioni/",
+        "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
+        "description": "Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati.",
+        "when": "Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale.",
+        "examples": [
+          "Ricostruisce una scelta poi modificata dal cliente.",
+          "Conserva un’azione eseguita anche dopo una correzione di direzione.",
+          "Passa un progetto a una nuova istanza con fonti, effetti e incognite riconoscibili."
+        ]
+      },
+      "en": {
+        "route": "/resources/ricostruire-lavoro-decisioni/",
+        "title": "Reconstruct an AI project's work and decisions",
+        "description": "Preserve original requests, actions, corrections and the current position without rewriting what happened.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects.",
+        "when": "When requirements or direction change, or when the reasons behind a project's current state need to be reconstructed.",
+        "examples": [
+          "Reconstruct a decision later changed by a client.",
+          "Preserve an action already performed after a change of direction.",
+          "Hand over a project with identifiable sources, effects and unresolved questions."
+        ]
+      }
+    },
+    {
+      "id": "condividere-apprendimenti",
+      "name": "Apprendimenti condivisibili",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "10",
+      "skill": "skills/condividere-apprendimenti/SKILL.md",
+      "guide": "skills/condividere-apprendimenti/README.md",
+      "starter": "skills/condividere-apprendimenti/AVVIO_CHAT_IT.txt",
+      "examples": "skills/condividere-apprendimenti/ESEMPI_IT.md",
+      "presentation": "skills/condividere-apprendimenti/presentation.json",
+      "package": "dist/condividere-apprendimenti-0.1.0.zip",
+      "it": {
+        "route": "/risorse/condividere-apprendimenti/",
+        "title": "Ricavare conoscenze condivisibili dal lavoro interno",
+        "description": "Riconosce quale metodo, osservazione o capacità conserva valore anche fuori dal contesto che l’ha prodotta.",
+        "kind": "Competenza",
+        "domain": "Prodotti e comunicazione",
+        "does": "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito.",
+        "when": "Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico.",
+        "examples": [
+          "Ricava una guida da un problema risolto nel lavoro.",
+          "Separa il metodo utile dai dati di un cliente.",
+          "Presenta un’osservazione di ricerca mantenendo chiaro ciò che resta una domanda."
+        ]
+      },
+      "en": {
+        "route": "/resources/condividere-apprendimenti/",
+        "title": "Turn internal project learning into shareable knowledge",
+        "description": "Identify the method, observation or capability that remains useful outside its original context.",
+        "kind": "Competence",
+        "domain": "Products and communication",
+        "does": "Separates reusable learning from private details and chooses a public form faithful to what was observed or built.",
+        "when": "When project experience could become a guide, method, resource or public case.",
+        "examples": [
+          "Turn a solved problem into a useful guide.",
+          "Separate a transferable method from client data.",
+          "Present a research observation while preserving the open question."
+        ]
+      }
+    },
+    {
+      "id": "migliorare-attivita-ricorrenti",
+      "name": "Evoluzione delle attività",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "11",
+      "skill": "skills/migliorare-attivita-ricorrenti/SKILL.md",
+      "guide": "skills/migliorare-attivita-ricorrenti/README.md",
+      "starter": "skills/migliorare-attivita-ricorrenti/AVVIO_CHAT_IT.txt",
+      "examples": "skills/migliorare-attivita-ricorrenti/ESEMPI_IT.md",
+      "presentation": "skills/migliorare-attivita-ricorrenti/presentation.json",
+      "package": "dist/migliorare-attivita-ricorrenti-0.1.0.zip",
+      "it": {
+        "route": "/risorse/migliorare-attivita-ricorrenti/",
+        "title": "Far migliorare un’attività AI attraverso i suoi risultati",
+        "description": "Rivede fonti, metodo e collegamenti di un’attività ricorrente quando il lavoro ne cambia l’utilità.",
+        "kind": "Competenza",
+        "domain": "Metodo e apprendimento",
+        "does": "Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente.",
+        "when": "Quando un’automazione continua a girare ma il contesto, le fonti o il lavoro che deve servire sono cambiati.",
+        "examples": [
+          "Un radar smette di segnalare ogni volta la stessa notizia.",
+          "Una ricerca collega i risultati alla competenza che deve usarli.",
+          "Due attività sovrapposte possono essere integrate con un mandato chiaro."
+        ]
+      },
+      "en": {
+        "route": "/resources/migliorare-attivita-ricorrenti/",
+        "title": "Improve a recurring AI activity through its results",
+        "description": "Revisit sources, method and connections when the activity's usefulness changes.",
+        "kind": "Competence",
+        "domain": "Method and learning",
+        "does": "Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation.",
+        "when": "When an automation keeps running but its context, sources or intended recipient have changed.",
+        "examples": [
+          "Help a research radar stop rediscovering the same news.",
+          "Connect research results to the competence that needs them.",
+          "Understand whether overlapping activities should be combined."
+        ]
+      }
+    },
+    {
+      "id": "conoscenza-del-sistema-ai",
+      "name": "Conoscenza del sistema",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "12",
+      "skill": "skills/conoscenza-del-sistema-ai/SKILL.md",
+      "guide": "skills/conoscenza-del-sistema-ai/README.md",
+      "starter": "skills/conoscenza-del-sistema-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/conoscenza-del-sistema-ai/ESEMPI_IT.md",
+      "presentation": "skills/conoscenza-del-sistema-ai/presentation.json",
+      "package": "dist/conoscenza-del-sistema-ai-0.1.0.zip",
+      "it": {
+        "route": "/risorse/conoscenza-del-sistema-ai/",
+        "title": "Organizzare la conoscenza di un sistema AI",
+        "description": "Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.",
+        "kind": "Competenza",
+        "domain": "Conoscenza e continuità",
+        "does": "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare.",
+        "when": "Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo.",
+        "examples": [
+          "Raccoglie il significato delle capacità di un assistente.",
+          "Mantiene le ragioni delle scelte architetturali.",
+          "Fornisce fonti coerenti per guide, presentazioni e documenti di ricerca."
+        ]
+      },
+      "en": {
+        "route": "/resources/conoscenza-del-sistema-ai/",
+        "title": "Organize the knowledge of an AI system",
+        "description": "Preserve meaning, reasons and direction for the people who must understand and evolve the system.",
+        "kind": "Competence",
+        "domain": "Knowledge and continuity",
+        "does": "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become.",
+        "when": "When architecture, documentation, research and explanations are scattered or confused with operational status.",
+        "examples": [
+          "Preserve the meaning of an assistant's capabilities.",
+          "Keep the reasons behind architectural decisions.",
+          "Supply coherent sources for guides, presentations and research."
+        ]
+      }
+    },
+    {
+      "id": "comprendere-lavoro-agente",
+      "name": "Comprensione del lavoro AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "13",
+      "skill": "skills/comprendere-lavoro-agente/SKILL.md",
+      "guide": "skills/comprendere-lavoro-agente/README.md",
+      "starter": "skills/comprendere-lavoro-agente/AVVIO_CHAT_IT.txt",
+      "examples": "skills/comprendere-lavoro-agente/ESEMPI_IT.md",
+      "presentation": "skills/comprendere-lavoro-agente/presentation.json",
+      "package": "dist/comprendere-lavoro-agente-0.1.0.zip",
+      "it": {
+        "route": "/risorse/comprendere-lavoro-agente/",
+        "title": "Rendere comprensibile il lavoro di un agente AI",
+        "description": "Fa vedere alla persona il significato del movimento corrente e i punti in cui può intervenire.",
+        "kind": "Competenza UX-AI",
+        "domain": "Prodotti e comunicazione",
+        "does": "Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro.",
+        "when": "Quando un sistema AI restituisce risultati ma chi lo usa non riesce a capire cosa cambia o come partecipare.",
+        "examples": [
+          "Un assistente rende chiara una decisione che richiede l’intervento dell’utente.",
+          "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
+          "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema."
+        ]
+      },
+      "en": {
+        "route": "/resources/comprendere-lavoro-agente/",
+        "title": "Make an AI agent's work understandable",
+        "description": "Show people what the current work means and where they can intervene.",
+        "kind": "UX-AI competence",
+        "domain": "Products and communication",
+        "does": "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work.",
+        "when": "When an AI system returns results but its user cannot understand what changed or how to participate.",
+        "examples": [
+          "Explain a decision that needs the user's intervention.",
+          "Show which sources support the state of an activity.",
+          "Let everyday work progressively teach how to use the system's capabilities."
+        ]
+      }
+    },
+    {
+      "id": "presenza-prodotto-assistente",
+      "name": "Presenza di prodotto",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "14",
+      "skill": "skills/presenza-prodotto-assistente/SKILL.md",
+      "guide": "skills/presenza-prodotto-assistente/README.md",
+      "starter": "skills/presenza-prodotto-assistente/AVVIO_CHAT_IT.txt",
+      "examples": "skills/presenza-prodotto-assistente/ESEMPI_IT.md",
+      "presentation": "skills/presenza-prodotto-assistente/presentation.json",
+      "package": "dist/presenza-prodotto-assistente-0.1.0.zip",
+      "it": {
+        "route": "/risorse/presenza-prodotto-assistente/",
+        "title": "Creare la presenza di un prodotto o di un assistente AI",
+        "description": "Collega identità, capacità e contesto d’incontro nel modo in cui il sistema si presenta e agisce.",
+        "kind": "Metacompetenza",
+        "domain": "Prodotti e comunicazione",
+        "does": "Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione.",
+        "when": "Quando un prodotto deve spiegarsi, un assistente rappresenta un servizio o più incontri devono mantenere la stessa identità.",
+        "examples": [
+          "Un assistente di prodotto spiega le proprie capacità attuali.",
+          "Un rappresentante AI continua un incontro con il contesto pertinente.",
+          "Una presenza pubblica resta coerente con cambiamenti del prodotto."
+        ]
+      },
+      "en": {
+        "route": "/resources/presenza-prodotto-assistente/",
+        "title": "Form the presence of an AI product or assistant",
+        "description": "Connect identity, capability and encounter context in how the system presents itself and acts.",
+        "kind": "Meta-competence",
+        "domain": "Products and communication",
+        "does": "Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues.",
+        "when": "When a product must explain itself, an assistant represents a service or different encounters need a coherent identity.",
+        "examples": [
+          "Let a product assistant explain its current capabilities.",
+          "Continue an encounter with the relevant context.",
+          "Keep public presence coherent with product changes."
+        ]
+      }
+    },
+    {
+      "id": "continuita-repository",
+      "name": "Continuità del repository",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "15",
+      "skill": "skills/continuita-repository/SKILL.md",
+      "guide": "skills/continuita-repository/README.md",
+      "starter": "skills/continuita-repository/AVVIO_CHAT_IT.txt",
+      "examples": "skills/continuita-repository/ESEMPI_IT.md",
+      "presentation": "skills/continuita-repository/presentation.json",
+      "package": "dist/continuita-repository-0.1.0.zip",
+      "it": {
+        "route": "/risorse/continuita-repository/",
+        "title": "Condividere il lavoro AI tra repository e collaboratori",
+        "description": "Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.",
+        "kind": "Competenza tecnica",
+        "domain": "Builder e sistemi",
+        "does": "Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa.",
+        "when": "Quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale.",
+        "examples": [
+          "Condivide un cambiamento senza includere file di un altro autore.",
+          "Riconcilia lavori locali e remoti indipendenti.",
+          "Dà a un secondo assistente il riferimento esatto della revisione da leggere."
+        ]
+      },
+      "en": {
+        "route": "/resources/continuita-repository/",
+        "title": "Share AI project work across repositories and collaborators",
+        "description": "Keep the relationship between local changes, commits and shared source identifiable.",
+        "kind": "Technical competence",
+        "domain": "Builders and systems",
+        "does": "Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity.",
+        "when": "When people and assistants share a project and useful work should not remain hidden in a local checkout.",
+        "examples": [
+          "Share a change without including another author's files.",
+          "Reconcile independent local and remote contributions.",
+          "Give another assistant the exact revision to read."
+        ]
+      }
+    },
+    {
+      "id": "accordi-collaborazioni",
+      "name": "Architettura degli accordi",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "16",
+      "skill": "skills/accordi-collaborazioni/SKILL.md",
+      "guide": "skills/accordi-collaborazioni/README.md",
+      "starter": "skills/accordi-collaborazioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/accordi-collaborazioni/ESEMPI_IT.md",
+      "presentation": "skills/accordi-collaborazioni/presentation.json",
+      "package": "dist/accordi-collaborazioni-0.1.0.zip",
+      "it": {
+        "route": "/risorse/accordi-collaborazioni/",
+        "title": "Preparare accordi e collaborazioni con l’AI",
+        "description": "Rende espliciti oggetto, contributi, diritti, obblighi e scelte ancora da definire prima della stesura.",
+        "kind": "Competenza di dominio",
+        "domain": "Metodo e apprendimento",
+        "does": "Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni.",
+        "when": "Quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro.",
+        "examples": [
+          "Organizza contributi e responsabilità in una collaborazione.",
+          "Prepara una struttura di termini per un servizio.",
+          "Rileva una dipendenza tra consegne, accettazione e pagamenti."
+        ]
+      },
+      "en": {
+        "route": "/resources/accordi-collaborazioni/",
+        "title": "Prepare agreements and collaborations with AI",
+        "description": "Make scope, contributions, rights, obligations and open choices explicit before drafting.",
+        "kind": "Domain competence",
+        "domain": "Method and learning",
+        "does": "Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely.",
+        "when": "When a collaboration or service needs a clear agreement and standard clauses do not describe the actual work.",
+        "examples": [
+          "Organize contributions and responsibilities in a collaboration.",
+          "Prepare a structure of terms for a service.",
+          "Identify dependencies between delivery, acceptance and payment."
+        ]
+      }
+    },
+    {
+      "id": "organizzare-sistema-editoriale",
+      "name": "Sistema editoriale AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "17",
+      "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
+      "guide": "skills/organizzare-sistema-editoriale/README.md",
+      "starter": "skills/organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt",
+      "examples": "skills/organizzare-sistema-editoriale/ESEMPI_IT.md",
+      "presentation": "skills/organizzare-sistema-editoriale/presentation.json",
+      "package": "dist/organizzare-sistema-editoriale-0.1.0.zip",
+      "it": {
+        "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
+        "kind": "Metacompetenza organizzativa",
+        "domain": "Prodotti e comunicazione",
+        "does": "Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.",
+        "when": "Quando un team produce più forme editoriali ma deve ricostruire ogni volta stile, metodo, fonti o correzioni.",
+        "examples": [
+          "Collega il metodo comune di articoli, guide e pagine.",
+          "Organizza la conoscenza necessaria a continuare un libro.",
+          "Fa arrivare una correzione al metodo che formerà i contenuti successivi."
+        ],
+        "route": "/risorse/organizzare-sistema-editoriale/",
+        "description": "Rende conoscenze, metodi e correzioni raggiungibili per chi crea i contenuti successivi."
+      },
+      "en": {
+        "title": "Organize an AI editorial system that learns from its work",
+        "kind": "Organizational metacompetence",
+        "domain": "Products and communication",
+        "does": "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system.",
+        "when": "When a team produces several forms of content but repeatedly has to reconstruct its methods, sources and corrections.",
+        "examples": [
+          "Connect the shared method behind articles, guides and pages.",
+          "Preserve the knowledge needed to continue a book.",
+          "Return a recurring correction to the method that will shape the next text."
+        ],
+        "route": "/resources/organizzare-sistema-editoriale/",
+        "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
+      }
+    },
+    {
+      "id": "creare-comporre-competenze",
+      "name": "Meta_Skill",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "18",
+      "skill": "skills/creare-comporre-competenze/SKILL.md",
+      "guide": "skills/creare-comporre-competenze/README.md",
+      "starter": "skills/creare-comporre-competenze/AVVIO_CHAT_IT.txt",
+      "examples": "skills/creare-comporre-competenze/ESEMPI_IT.md",
+      "presentation": "skills/creare-comporre-competenze/presentation.json",
+      "package": "dist/creare-comporre-competenze-0.1.0.zip",
+      "it": {
+        "title": "Creare e comporre competenze per un sistema AI",
+        "kind": "Kernel generativo di competenze",
+        "domain": "Metodo e apprendimento",
+        "does": "Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.",
+        "when": "Quando un sistema deve sviluppare un saper fare duraturo e la sola istruzione per il task non ne conserva metodo e apprendimento.",
+        "examples": [
+          "Forma una competenza da un metodo maturato nel progetto.",
+          "Compone ricerca e scrittura per un lavoro specifico.",
+          "Riporta ciò che una nuova competenza insegna al modo di formarne altre."
+        ],
+        "route": "/risorse/creare-comporre-competenze/",
+        "description": "Meta_Skill fa diventare sapere, esperienza e possibilità capacità utilizzabili e capaci di evolvere."
+      },
+      "en": {
+        "title": "Create and compose competences for an AI system",
+        "kind": "Generative competence kernel",
+        "domain": "Method and learning",
+        "does": "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs.",
+        "when": "When a system needs lasting know-how and a task instruction alone does not preserve its method or learning.",
+        "examples": [
+          "Form a competence from a method developed in a project.",
+          "Compose research and writing for a particular piece of work.",
+          "Let a created competence improve how later competences are formed."
+        ],
+        "route": "/resources/creare-comporre-competenze/",
+        "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use."
+      }
+    },
+    {
+      "id": "kernel-in-plugin",
+      "name": "Kernel in plugin",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "19",
+      "skill": "skills/kernel-in-plugin/SKILL.md",
+      "guide": "skills/kernel-in-plugin/README.md",
+      "starter": "skills/kernel-in-plugin/AVVIO_CHAT_IT.txt",
+      "examples": "skills/kernel-in-plugin/ESEMPI_IT.md",
+      "presentation": "skills/kernel-in-plugin/presentation.json",
+      "package": "dist/kernel-in-plugin-0.1.0.zip",
+      "it": {
+        "title": "Portare un kernel semantico in un plugin AI",
+        "kind": "Metacompetenza di prodotto",
+        "domain": "Builder e sistemi",
+        "does": "Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.",
+        "when": "Quando una capacità deve diventare un plugin installabile o passare a un ecosistema diverso.",
+        "examples": [
+          "Decide quale parte appartiene alla skill e quale richiede uno strumento.",
+          "Adatta una capacità al provider ricevente.",
+          "Usa un problema di discovery per migliorare la versione successiva del plugin."
+        ],
+        "route": "/risorse/kernel-in-plugin/",
+        "description": "Collega la capacità sorgente a skill, strumenti e interfaccia del ricevente, conservando il sapere necessario a farla continuare."
+      },
+      "en": {
+        "title": "Bring a semantic kernel into an AI plugin",
+        "kind": "Product metacompetence",
+        "domain": "Builders and systems",
+        "does": "Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected.",
+        "when": "When a capability needs an installable plugin form or must move to a different AI ecosystem.",
+        "examples": [
+          "Decide which part belongs in instructions and which requires a tool.",
+          "Adapt a capability to a receiving environment.",
+          "Use a discovery problem to improve the next plugin incarnation."
+        ],
+        "route": "/resources/kernel-in-plugin/",
+        "description": "Connect the source capability to the recipient’s skills, tools and interface while preserving the knowledge that lets it continue."
+      }
+    },
+    {
+      "id": "avviare-nodo-ai",
+      "name": "Avviare un nodo AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "20",
+      "skill": "skills/avviare-nodo-ai/SKILL.md",
+      "guide": "skills/avviare-nodo-ai/README.md",
+      "starter": "skills/avviare-nodo-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/avviare-nodo-ai/ESEMPI_IT.md",
+      "presentation": "skills/avviare-nodo-ai/presentation.json",
+      "package": "dist/avviare-nodo-ai-0.1.0.zip",
+      "it": {
+        "title": "Avviare un assistente AI con identità e continuità proprie",
+        "kind": "Metacompetenza di trasferimento",
+        "domain": "Builder e sistemi",
+        "does": "Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà.",
+        "when": "Quando trasferisci un kernel o una famiglia di competenze a un altro assistente, team o ambiente.",
+        "examples": [
+          "Avvia un assistente dedicato a un nuovo progetto.",
+          "Trasferisce un metodo tra chat e harness adattandone la persistenza.",
+          "Fa tornare un apprendimento utile senza copiare la memoria privata dell’altro nodo."
+        ],
+        "route": "/risorse/avviare-nodo-ai/",
+        "description": "Adatta capacità condivise al nuovo ricevente, lasciandogli progetto, stato e apprendimento locali."
+      },
+      "en": {
+        "title": "Start an AI assistant with its own identity and continuity",
+        "kind": "Transfer metacompetence",
+        "domain": "Builders and systems",
+        "does": "Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows.",
+        "when": "When transferring a kernel or a family of competences to another assistant, team or environment.",
+        "examples": [
+          "Start an assistant for a new project.",
+          "Transfer a method between chat and an agentic environment, adapting persistence.",
+          "Return useful learning without copying another node’s private memory."
+        ],
+        "route": "/resources/avviare-nodo-ai/",
+        "description": "Adapt shared capabilities to a new recipient while preserving its project, local state and learning."
+      }
+    },
+    {
+      "id": "coerenza-kernel-ai",
+      "name": "Continuità del kernel AI",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "21",
+      "skill": "skills/coerenza-kernel-ai/SKILL.md",
+      "guide": "skills/coerenza-kernel-ai/README.md",
+      "starter": "skills/coerenza-kernel-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/coerenza-kernel-ai/ESEMPI_IT.md",
+      "presentation": "skills/coerenza-kernel-ai/presentation.json",
+      "package": "dist/coerenza-kernel-ai-0.1.0.zip",
+      "it": {
+        "title": "Mantenere coerenti le capacità di un kernel AI",
+        "kind": "Metacompetenza del kernel",
+        "domain": "Builder e sistemi",
+        "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
+        "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
+        "examples": [
+          "Un rientro recupera le ragioni ancora valide del sistema.",
+          "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
+          "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+        ],
+        "route": "/risorse/coerenza-kernel-ai/",
+        "description": "Conserva le relazioni vive del sistema attraverso correzioni, cambiamenti e riprese del lavoro."
+      },
+      "en": {
+        "title": "Maintain coherence across an AI kernel’s capabilities",
+        "kind": "Kernel metacompetence",
+        "domain": "Builders and systems",
+        "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
+        "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
+        "examples": [
+          "Recover the system’s still-valid reasons during reentry.",
+          "Carry a correction to entries that still lead from an older method.",
+          "Let the kernel understand its own change without adding a parallel controller."
+        ],
+        "route": "/resources/coerenza-kernel-ai/",
+        "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
+      }
+    },
+    {
+      "id": "formare-kernel-esperienza",
+      "name": "Proto Movimento",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "22",
+      "skill": "skills/formare-kernel-esperienza/SKILL.md",
+      "guide": "skills/formare-kernel-esperienza/README.md",
+      "starter": "skills/formare-kernel-esperienza/AVVIO_CHAT_IT.txt",
+      "examples": "skills/formare-kernel-esperienza/ESEMPI_IT.md",
+      "presentation": "skills/formare-kernel-esperienza/presentation.json",
+      "package": "dist/formare-kernel-esperienza-0.1.0.zip",
+      "it": {
+        "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
+        "kind": "Competenza di formazione del kernel",
+        "domain": "Builder e sistemi",
+        "does": "Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.",
+        "when": "Quando stai costruendo o trasferendo un kernel e il caso reale deve cambiare sia il ricevente sia il modo di progettarlo.",
+        "examples": [
+          "Un’installazione rivela una capacità che il destinatario non riesce a raggiungere.",
+          "Una nuova relazione cambia come il kernel presenta il proprio ingresso.",
+          "L’esperienza del ricevente migliora il successivo trasferimento."
+        ],
+        "route": "/risorse/formare-kernel-esperienza/",
+        "description": "Proto Movimento collega il sapere sorgente, ciò che il ricevente comprende e le capacità che il prodotto deve portare."
+      },
+      "en": {
+        "title": "Form a new AI kernel through recipient experience",
+        "kind": "Kernel formation competence",
+        "domain": "Builders and systems",
+        "does": "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it.",
+        "when": "When building or transferring a kernel and a real case should change both the recipient and the way it is designed.",
+        "examples": [
+          "An installation reveals a capability the recipient cannot reach.",
+          "A new relation changes how the kernel presents its entry.",
+          "Recipient experience improves the next transfer."
+        ],
+        "route": "/resources/formare-kernel-esperienza/",
+        "description": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry."
+      }
+    },
+    {
+      "id": "ka-kernel-assiomatico",
+      "name": "KA — Kernel Assiomatico",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "23",
+      "skill": "skills/ka-kernel-assiomatico/SKILL.md",
+      "guide": "skills/ka-kernel-assiomatico/README.md",
+      "starter": "skills/ka-kernel-assiomatico/AVVIO_CHAT_IT.txt",
+      "examples": "skills/ka-kernel-assiomatico/ESEMPI_IT.md",
+      "presentation": "skills/ka-kernel-assiomatico/presentation.json",
+      "package": "dist/ka-kernel-assiomatico-0.1.0.zip",
+      "it": {
+        "title": "KA — comprendere il lavoro oltre la prima interpretazione",
+        "kind": "Kernel fondativo",
+        "domain": "Fondamenti del sistema",
+        "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
+        "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
+        "examples": [
+          "La prima lettura di una richiesta lascia partecipare una fonte che cambia la domanda.",
+          "Una possibilità non ancora rappresentata nel sistema resta raggiungibile.",
+          "Una determinazione emersa viene concretizzata senza riaprirla per inerzia."
+        ],
+        "route": "/risorse/ka-kernel-assiomatico/",
+        "description": "Il Kernel Assiomatico mantiene la relazione con fonti, intento, situazione e possibilità mentre l’AI opera."
+      },
+      "en": {
+        "title": "KA — understand AI work beyond its first interpretation",
+        "kind": "Foundational kernel",
+        "domain": "System foundations",
+        "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
+        "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
+        "examples": [
+          "Let a relevant source change the initial question.",
+          "Keep an unrepresented possibility reachable.",
+          "Act on an emerged determination without reopening it by inertia."
+        ],
+        "route": "/resources/ka-kernel-assiomatico/",
+        "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
+      }
+    },
+    {
+      "id": "fdla-correzione-ai",
+      "name": "FDLA — correzione nel lavoro",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "review_id": "24",
+      "skill": "skills/fdla-correzione-ai/SKILL.md",
+      "guide": "skills/fdla-correzione-ai/README.md",
+      "starter": "skills/fdla-correzione-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/fdla-correzione-ai/ESEMPI_IT.md",
+      "presentation": "skills/fdla-correzione-ai/presentation.json",
+      "package": "dist/fdla-correzione-ai-0.1.0.zip",
+      "it": {
+        "title": "FDLA — correggere le deviazioni introdotte dall’AI",
+        "kind": "Funzione di correzione nel kernel",
+        "domain": "Fondamenti del sistema",
+        "does": "Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.",
+        "when": "Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.",
+        "examples": [
+          "Una riscrittura viene corretta perché ha cambiato il concetto dell’autore.",
+          "Un test tecnico riuscito resta distinto dal risultato richiesto.",
+          "Una nuova conseguenza cambia il metodo senza cancellare ciò che è avvenuto prima."
+        ],
+        "route": "/risorse/fdla-correzione-ai/",
+        "description": "Riconosce quando l’interpretazione dell’assistente cambia fonte, oggetto o possibilità e ricompone il movimento."
+      },
+      "en": {
+        "title": "FDLA — correct deviations introduced by an AI assistant",
+        "kind": "In-flow kernel correction function",
+        "domain": "System foundations",
+        "does": "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.",
+        "when": "Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.",
+        "examples": [
+          "Correct a rewrite that changed the author’s concept.",
+          "Keep a passing technical test distinct from the requested result.",
+          "Let a consequence change the method without erasing the earlier event."
+        ],
+        "route": "/resources/fdla-correzione-ai/",
+        "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
       }
     }
   ]

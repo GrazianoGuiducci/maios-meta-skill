@@ -1,0 +1,42 @@
+{
+  "id": "continuita-del-lavoro-ai",
+  "name": "Continuità del lavoro AI",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "01",
+  "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
+  "guide": "skills/continuita-del-lavoro-ai/README.md",
+  "starter": "skills/continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt",
+  "examples": "skills/continuita-del-lavoro-ai/ESEMPI_IT.md",
+  "presentation": "skills/continuita-del-lavoro-ai/presentation.json",
+  "package": "dist/continuita-del-lavoro-ai-0.1.0.zip",
+  "it": {
+    "route": "/risorse/continuita-del-lavoro-ai/",
+    "title": "Riprendere un progetto con l’AI dopo un’interruzione",
+    "description": "Conserva obiettivo, ragioni delle scelte e punto raggiunto quando cambia la chat o si riduce il contesto.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti.",
+    "when": "Quando un progetto dura più sessioni, passa a un’altra istanza o richiede di conservare decisioni che un semplice riepilogo perderebbe.",
+    "examples": [
+      "Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
+      "Continua una ricerca dopo il cambio di chat.",
+      "Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte."
+    ]
+  },
+  "en": {
+    "route": "/resources/continuita-del-lavoro-ai/",
+    "title": "Resume a project with AI after an interruption",
+    "description": "Keep the objective, reasons for decisions and current position when the chat changes or context is reduced.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources.",
+    "when": "Use it when a project spans sessions, moves to another assistant or depends on decisions a short summary would lose.",
+    "examples": [
+      "Resume app development with decisions and unresolved problems available.",
+      "Continue research after changing chats.",
+      "Hand a business proposal to another assistant with its objective and reasons."
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ricostruire-lavoro-decisioni",
+  "name": "Continuità delle decisioni",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "09",
+  "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
+  "guide": "skills/ricostruire-lavoro-decisioni/README.md",
+  "starter": "skills/ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt",
+  "examples": "skills/ricostruire-lavoro-decisioni/ESEMPI_IT.md",
+  "presentation": "skills/ricostruire-lavoro-decisioni/presentation.json",
+  "package": "dist/ricostruire-lavoro-decisioni-0.1.0.zip",
+  "it": {
+    "route": "/risorse/ricostruire-lavoro-decisioni/",
+    "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
+    "description": "Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati.",
+    "when": "Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale.",
+    "examples": [
+      "Ricostruisce una scelta poi modificata dal cliente.",
+      "Conserva un’azione eseguita anche dopo una correzione di direzione.",
+      "Passa un progetto a una nuova istanza con fonti, effetti e incognite riconoscibili."
+    ]
+  },
+  "en": {
+    "route": "/resources/ricostruire-lavoro-decisioni/",
+    "title": "Reconstruct an AI project's work and decisions",
+    "description": "Preserve original requests, actions, corrections and the current position without rewriting what happened.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects.",
+    "when": "When requirements or direction change, or when the reasons behind a project's current state need to be reconstructed.",
+    "examples": [
+      "Reconstruct a decision later changed by a client.",
+      "Preserve an action already performed after a change of direction.",
+      "Hand over a project with identifiable sources, effects and unresolved questions."
+    ]
+  }
+}

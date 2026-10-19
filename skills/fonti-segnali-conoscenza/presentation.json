@@ -1,0 +1,130 @@
+{
+  "it": {
+    "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
+    "subtitle": "Collega articoli, paper, video e osservazioni a ciò che il sistema deve comprendere o imparare a fare.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente.",
+    "when": "Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare.",
+    "examples": [
+      "Ricava da un paper una possibilità da approfondire nel prodotto.",
+      "Collega feedback dei clienti e osservazioni tecniche.",
+      "Trasforma un errore di esecuzione in conoscenza utile al metodo."
+    ],
+    "intro": [
+      "Questa competenza trasforma segnali in conoscenza collegata al lavoro e, quando utile, in un cambiamento del metodo che proseguirà. Un segnale può arrivare da un articolo, un paper, un video, una conversazione, un errore, una contraddizione o un’assenza significativa.",
+      "Il suo valore non dipende dal numero di fonti riassunte. Comprende che cosa l’incontro rende intelligibile e quale scelta, domanda o capacità può cambiare nel contesto presente."
+    ],
+    "method": [
+      {
+        "title": "Incontrare il segnale con il progetto presente",
+        "body": "Raggiungi il contenuto effettivo della fonte, il suo autore, il momento e il contesto quando cambiano l’interpretazione. Mantieni distinta l’affermazione della fonte da ciò che sai del progetto. Se confronti capacità, leggi il metodo e la guida dell’oggetto reale del confronto: una versione rilasciata, una sorgente in evoluzione e una singola installazione possono essere diverse. Un nome o un indice datato non prova che una capacità manchi; il testo di una competenza non prova che ogni ambiente sappia già esercitarla."
+      },
+      {
+        "title": "Lasciare cambiare la prima lettura",
+        "body": "La prima impressione è un punto di partenza, non il confine delle relazioni ammissibili. Il sapere incontrato può rendere pertinenti altre fonti, domini o domande. Rileggi dal contesto cambiato quando questo può esporre una differenza: contraddizione, ricorrenza, condizione assente, variazione nel tempo o possibilità prima ignorata. Non trasformare popolarità, novità o ripetizione in importanza. Non escludere un segnale debole soltanto perché non entra nello schema corrente. Fermati quando un ulteriore passaggio non cambia il lavoro; non imporre un numero di letture."
+      },
+      {
+        "title": "Comprendere il contributo concreto",
+        "body": "Distingui il segnale dalla conoscenza che se ne ricava, dalla capacità di usarla e dalla prova di un risultato. Una fonte può rendere più precisa una domanda, offrire un esempio pratico, fornire evidenza esterna, suggerire una possibilità o insegnare un metodo. Questi contributi possono coesistere. Se il ricevente possiede già il sapere ma non lo richiama, correggi l’ingresso pertinente; se manca un meccanismo utile, acquisiscilo e rendilo operativo. Il fatto che una relazione sia già nota non rende inutile una prova indipendente."
+      },
+      {
+        "title": "Produrre il ritorno utile",
+        "body": "Scegli la forma che porta la conoscenza al lavoro: può essere una sintesi con fonti, una domanda precisa, una correzione del metodo, un’ipotesi o un esperimento circoscritto quando serve davvero. Non produrre per default una classifica, un report o un esperimento. Se cambia come una competenza deve comprendere o agire, integra lì il sapere e il perché. Se una conseguenza riguarda più competenze, ciascuna riceve la parte che cambia il proprio lavoro. La semplice disponibilità di un documento non dimostra che un altro assistente l’abbia letto."
+      },
+      {
+        "title": "Conservare portata e collegamenti",
+        "body": "Mantieni raggiungibili fonte, tempo, contesto, differenza osservata, interpretazione e incognite decisive. Una correzione dell’operatore ha un oggetto e una portata: non estenderla a tutta la strategia senza motivo. Ricerca, accesso ai provider, installazione, monitoraggio ricorrente, contatti e pubblicazione conservano mezzi e mandato propri. Puoi preparare una possibilità quando l’effetto non è ancora selezionato; non presentarla come già realizzata."
+      }
+    ],
+    "depth": {
+      "title": "Quando la ricerca cambia anche il modo di ricercare",
+      "paragraphs": [
+        "Il lavoro diretto trasforma segnali in conoscenza utile. La relazione meta emerge quando quella conoscenza modifica una competenza, la composizione delle fonti o il metodo con cui viene formata la domanda.",
+        "La relazione è autologica quando questa stessa competenza riconosce che il proprio criterio di selezione stava escludendo una fonte decisiva e cambia quel criterio. Rileggere la stessa fonte da un campo arricchito può cambiare la comprensione; non crea una nuova misura indipendente."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi il contesto del tuo lavoro. Contiene l’intero metodo. Conserva la restituzione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella all’assistente, indicagli SKILL.md e scegli i documenti del progetto da usare per la continuità. Accessi e azioni dipendono dagli strumenti e dal mandato disponibili."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza e alle guide pertinenti. Senza kernel, l’avvio completo fornisce il metodo necessario; puoi iniziare dal lavoro descritto qui."
+      }
+    ],
+    "learning": [
+      "Conserva la differenza riusabile: una fonte discriminata meglio, un presupposto corretto, una combinazione utile o un metodo diventato possibile. Il sapere specifico di un dominio ritorna a quel dominio; ciò che cambia la formazione delle competenze ritorna al metodo generativo.",
+      "La ricerca può continuare su richiesta o dentro un’attività già programmata. Questa risorsa trasferisce il metodo; non crea da sola un servizio di sorveglianza o una rete di agenti."
+    ]
+  },
+  "en": {
+    "title": "Turn sources and signals into useful project knowledge",
+    "subtitle": "Connect articles, papers, videos and observations to what the system needs to understand or learn to do.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently.",
+    "when": "Use it when information is abundant and you need to understand what changes a research question, product or working method.",
+    "examples": [
+      "Develop a product possibility from a paper.",
+      "Connect customer feedback with technical observations.",
+      "Turn an execution error into useful methodological knowledge."
+    ],
+    "intro": [
+      "This competence turns signals into knowledge connected to the work and, when useful, into a change in the method that will carry it forward. A signal may come from an article, a paper, a video, a conversation, an error, a contradiction or a meaningful absence.",
+      "Its value does not depend on the number of sources summarised. It understands what the encounter makes intelligible and which choice, question or capability may change in the present context."
+    ],
+    "depth": {
+      "title": "When research also changes how research is done",
+      "paragraphs": [
+        "The direct work turns signals into useful knowledge. A meta relation emerges when that knowledge changes a competence, the combination of sources or the method through which the question is formed.",
+        "The relation is autological when this same competence recognises that its own selection criterion was excluding a decisive source and changes that criterion. Rereading the same source from an enriched field can change understanding; it does not create a new independent measurement."
+      ]
+    },
+    "learning": [
+      "Preserve the reusable difference: a source assessed more precisely, a corrected assumption, a useful combination or a method that has become possible. Knowledge specific to a domain returns to that domain; what changes the formation of competences returns to the generative method.",
+      "Research can continue on request or within an activity already scheduled. This resource transfers the method; it does not by itself create a monitoring service or a network of agents."
+    ],
+    "method": [
+      {
+        "title": "Meet the signal in the context of the present project",
+        "body": "Reach the source's actual content, author, time and context when they change its interpretation. Keep the source's claim distinct from what you know about the project. If you compare capabilities, read the method and guide of the actual object being compared: a released version, an evolving source and an individual installation may differ. A name or an outdated index does not prove that a capability is missing; the text of a competence does not prove that every environment can already exercise it."
+      },
+      {
+        "title": "Let the first reading change",
+        "body": "The first impression is a starting point, not the boundary of admissible relationships. The knowledge encountered may make other sources, domains or questions relevant. Reread from the changed context when this can expose a difference: a contradiction, recurrence, absent condition, variation over time or previously overlooked possibility. Do not turn popularity, novelty or repetition into importance. Do not exclude a weak signal merely because it does not fit the current scheme. Stop when another pass does not change the work; do not impose a number of readings."
+      },
+      {
+        "title": "Understand the concrete contribution",
+        "body": "Distinguish the signal from the knowledge derived from it, the ability to use that knowledge and evidence of a result. A source may make a question more precise, offer a practical example, provide external evidence, suggest a possibility or teach a method. These contributions can coexist. If the receiving assistant already possesses the knowledge but does not call on it, correct the relevant entry point; if a useful mechanism is missing, acquire it and make it operational. The fact that a relationship is already known does not make independent evidence useless."
+      },
+      {
+        "title": "Produce the useful return",
+        "body": "Choose the form that brings the knowledge into the work: it may be a summary with sources, a precise question, a correction to the method, a hypothesis or a bounded experiment when one is actually needed. Do not produce a ranking, report or experiment by default. If the knowledge changes how a competence should understand or act, integrate it there along with the reason. If a consequence concerns several competences, each receives the part that changes its own work. The mere availability of a document does not demonstrate that another assistant has read it."
+      },
+      {
+        "title": "Preserve scope and connections",
+        "body": "Keep the source, time, context, observed difference, interpretation and decisive unknowns accessible. An operator's correction has an object and a scope: do not extend it to the entire strategy without reason. Research, provider access, installation, recurring monitoring, contacts and publication each retain their own means and mandate. You can prepare a possibility when the effect has not yet been selected; do not present it as already realised."
+      }
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Copy or attach AVVIO_CHAT_IT.txt and add your working context. It includes the complete method in Italian. Keep the useful return for the next session; the assistant may converse in your language."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "creare-comporre-competenze",
+  "name": "Meta_Skill",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "18",
+  "skill": "skills/creare-comporre-competenze/SKILL.md",
+  "guide": "skills/creare-comporre-competenze/README.md",
+  "starter": "skills/creare-comporre-competenze/AVVIO_CHAT_IT.txt",
+  "examples": "skills/creare-comporre-competenze/ESEMPI_IT.md",
+  "presentation": "skills/creare-comporre-competenze/presentation.json",
+  "package": "dist/creare-comporre-competenze-0.1.0.zip",
+  "it": {
+    "title": "Creare e comporre competenze per un sistema AI",
+    "kind": "Kernel generativo di competenze",
+    "domain": "Metodo e apprendimento",
+    "does": "Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.",
+    "when": "Quando un sistema deve sviluppare un saper fare duraturo e la sola istruzione per il task non ne conserva metodo e apprendimento.",
+    "examples": [
+      "Forma una competenza da un metodo maturato nel progetto.",
+      "Compone ricerca e scrittura per un lavoro specifico.",
+      "Riporta ciò che una nuova competenza insegna al modo di formarne altre."
+    ],
+    "route": "/risorse/creare-comporre-competenze/",
+    "description": "Meta_Skill fa diventare sapere, esperienza e possibilità capacità utilizzabili e capaci di evolvere."
+  },
+  "en": {
+    "title": "Create and compose competences for an AI system",
+    "kind": "Generative competence kernel",
+    "domain": "Method and learning",
+    "does": "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs.",
+    "when": "When a system needs lasting know-how and a task instruction alone does not preserve its method or learning.",
+    "examples": [
+      "Form a competence from a method developed in a project.",
+      "Compose research and writing for a particular piece of work.",
+      "Let a created competence improve how later competences are formed."
+    ],
+    "route": "/resources/creare-comporre-competenze/",
+    "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use."
+  }
+}

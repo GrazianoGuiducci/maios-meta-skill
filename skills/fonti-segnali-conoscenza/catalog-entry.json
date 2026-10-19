@@ -1,0 +1,42 @@
+{
+  "id": "fonti-segnali-conoscenza",
+  "name": "Fonti, segnali e conoscenza",
+  "version": "0.1.0",
+  "state": "initial_public_edition",
+  "instruction_language": "it",
+  "review_id": "05",
+  "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
+  "guide": "skills/fonti-segnali-conoscenza/README.md",
+  "starter": "skills/fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt",
+  "examples": "skills/fonti-segnali-conoscenza/ESEMPI_IT.md",
+  "presentation": "skills/fonti-segnali-conoscenza/presentation.json",
+  "package": "dist/fonti-segnali-conoscenza-0.1.0.zip",
+  "it": {
+    "route": "/risorse/fonti-segnali-conoscenza/",
+    "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
+    "description": "Collega articoli, paper, video e osservazioni a ciò che il sistema deve comprendere o imparare a fare.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente.",
+    "when": "Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare.",
+    "examples": [
+      "Ricava da un paper una possibilità da approfondire nel prodotto.",
+      "Collega feedback dei clienti e osservazioni tecniche.",
+      "Trasforma un errore di esecuzione in conoscenza utile al metodo."
+    ]
+  },
+  "en": {
+    "route": "/resources/fonti-segnali-conoscenza/",
+    "title": "Turn sources and signals into useful project knowledge",
+    "description": "Connect articles, papers, videos and observations to what the system needs to understand or learn to do.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently.",
+    "when": "Use it when information is abundant and you need to understand what changes a research question, product or working method.",
+    "examples": [
+      "Develop a product possibility from a paper.",
+      "Connect customer feedback with technical observations.",
+      "Turn an execution error into useful methodological knowledge."
+    ]
+  }
+}
