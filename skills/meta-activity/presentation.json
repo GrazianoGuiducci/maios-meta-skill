@@ -1,0 +1,170 @@
+{
+  "it": {
+    "lead": "Creare e far evolvere attività AI dal contesto del tuo lavoro.",
+    "intro": "Meta-Activity è una competenza MAIOS per comprendere un intento, riconoscere funzioni utili, comporre o sviluppare competenze e organizzare attività e servizi. Ricerca, conoscenza, contenuti e relazioni possono diventare lavoro affidato all'AI, con un metodo che conserva ciò che impara.",
+    "autonomy_title": "Anche nel tempo, anche in autonomia",
+    "autonomy": "Le attività possono partire su richiesta, da un evento o a una cadenza concordata. Con strumenti e azioni affidate, l'AI può proseguire il lavoro, correggere il metodo e coinvolgere la persona quando serve.",
+    "visual_title": "Dal contesto alle attività agentiche",
+    "visual_steps": [
+      {"title": "Il lavoro da svolgere", "body": "Intento, fonti, conoscenze e mezzi"},
+      {"title": "Le capacità da comporre", "body": "Funzioni, competenze e organizzazione"},
+      {"title": "Il contributo dell'AI", "body": "Attività, servizi e conoscenza che continua"}
+    ],
+    "visual_caption": "Ciò che si impara cambia il lavoro successivo.",
+    "cases_title": "Le funzioni prendono forma nel contesto.",
+    "cases_intro": "Un incarico può richiedere ricerca, un archivio, la preparazione di un contenuto o una comunicazione. Meta-Activity aiuta a comprendere come queste funzioni possono lavorare insieme e come farle evolvere.",
+    "cases": [
+      {
+        "tab": "Ricerca clienti",
+        "kind": "Esempio applicativo",
+        "title": "Un servizio AI per trovare opportunità commerciali pertinenti.",
+        "paragraphs": [
+          "Si parte dall'offerta dell'azienda, dai casi d'uso e dalle relazioni già presenti. L'AI cerca segnali, legge le fonti, valuta la pertinenza e prepara un contatto motivato. Le funzioni si compongono secondo il lavoro: si può iniziare con una ricerca e un documento.",
+          "Un archivio può conservare fonte, ragione della pertinenza, stato e prossimo passo. Un segnale ripetuto aggiorna il caso esistente; una condizione nuova può riaprire un'opportunità sospesa. L'invio usa gli strumenti e le azioni affidate dalla persona."
+        ],
+        "input": "Offerta, fonti e relazioni",
+        "result": "Opportunità qualificate e contatti preparati",
+        "memory": "Pertinenza, stato, ragioni e condizioni di riapertura"
+      },
+      {
+        "tab": "Ricerca e opportunità",
+        "kind": "Esperienza nel lavoro MAIOS",
+        "title": "Un radar riprende dalle possibilità già valutate.",
+        "paragraphs": [
+          "Nel lavoro MAIOS, attività di ricerca e radar conservano ciò che è già stato compreso: segnali, ipotesi, opportunità, vincoli e ragioni delle decisioni. Al ciclo successivo possono confrontare una nuova fonte con quel presente.",
+          "Una possibilità interessante può restare sospesa fino a un cambiamento utile. Fonti e criteri di ricerca possono affinarsi; ciò che si apprende può cambiare il metodo dell'attività. Gli esempi documentano questa esperienza nel suo ambiente; la risorsa pubblica porta il sapere da usare nel proprio."
+        ],
+        "input": "Domande, fonti e possibilità già comprese",
+        "result": "Differenze utili e prossimo passo motivato",
+        "memory": "Conoscenza, correzioni e condizioni di riapertura"
+      },
+      {
+        "tab": "Contenuti e social",
+        "kind": "Esperienza nel lavoro MAIOS",
+        "title": "La pubblicazione principale guida il lavoro sugli altri canali.",
+        "paragraphs": [
+          "Un'attività segue l'articolo e le sue fonti; un'altra prepara gli adattamenti per i social, segue le conversazioni e riconosce occasioni pertinenti. La continuità distingue testo originale, proposta, revisione e pubblicazione.",
+          "Se un articolo viene accantonato, gli adattamenti dipendenti ricevono lo stesso seguito. Le altre attività utili possono continuare. Gli esiti e le correzioni aiutano a migliorare la scrittura, la distribuzione e il modo di coordinare il lavoro."
+        ],
+        "input": "Fonte, articolo e stato editoriale",
+        "result": "Adattamenti coerenti e conversazioni pertinenti",
+        "memory": "Ragioni, versioni e conoscenza dei canali"
+      }
+    ],
+    "learning_title": "Il lavoro migliora anche il modo di lavorare.",
+    "learning_intro": "Meta-Activity porta dentro la comprensione del contesto, la formazione delle funzioni e lo sviluppo delle competenze. Una nuova necessità può far emergere un servizio diverso o un saper fare da acquisire. Le capacità si compongono secondo la situazione.",
+    "learning_rows": [
+      {"title": "Conoscenza", "body": "Fonti, decisioni e ragioni restano raggiungibili al prossimo avvio."},
+      {"title": "Metodo", "body": "Ricerche, funzioni, istruzioni e notifiche si affinano attraverso gli esiti."},
+      {"title": "Competenze", "body": "Un criterio riusabile cambia la capacità che condurrà il prossimo lavoro."}
+    ],
+    "learning_note": "L'attività conserva la ragione di una modifica. L'uso successivo mostra se quella conoscenza cambia davvero il seguito.",
+    "contexts_title": "Le attività possibili seguono il tuo lavoro.",
+    "contexts_intro": "Questi contesti aprono applicazioni diverse. Il pacchetto contiene diciotto esempi, con fonti, adattamenti e momenti in cui coinvolgere la persona.",
+    "context_groups": [
+      {"title": "Ricerca", "body": "Radar tematici, bibliografie ed esperimenti."},
+      {"title": "Sviluppo", "body": "Dipendenze software, documentazione e manutenzione."},
+      {"title": "Contenuti", "body": "Articoli, distribuzione e conversazioni."},
+      {"title": "Azienda", "body": "Conoscenza interna, supporto e procedure."},
+      {"title": "Operazioni", "body": "Dati, percorsi del sito e continuità di progetto."},
+      {"title": "Studio e servizi", "body": "Apprendimento, opportunità e servizi di dominio."}
+    ],
+    "use_title": "Nella tua chat o nell'ambiente agentico che usi.",
+    "use_intro": "Puoi ricevere la competenza da sola o integrarla in un kernel esistente. Il metodo è incluso nella risorsa; strumenti, account, memoria e risvegli dipendono dal tuo ambiente.",
+    "modes": [
+      {"id": "chat", "title": "Chat senza kernel", "body": "Copia l'avvio completo, aggiungi il contesto e conserva la guida per la sessione successiva."},
+      {"id": "chat-kernel", "title": "Chat con kernel", "body": "Condividi la risorsa e la guida corrente. Il lavoro continua nelle conoscenze e nelle competenze del progetto."},
+      {"id": "harness", "title": "Harness senza kernel", "body": "Rendi leggibile l'intera cartella della competenza e collega fonti, strumenti e una sede di continuità."},
+      {"id": "harness-kernel", "title": "Harness con kernel", "body": "Integra Meta-Activity nell'ingresso del progetto e componila con le capacità già responsabili del lavoro."}
+    ],
+    "use_note": "In Codex la cartella può essere ricevuta come skill locale. La guida descrive l'integrazione e le ricorrenze, con collegamenti alla documentazione ufficiale.",
+    "start_title": "Un contesto reale per il primo incarico.",
+    "start_intro": "Scegli un esempio e l'ambiente, poi aggiungi ciò che vuoi affidare all'AI. L'avvio preparato include il metodo essenziale di Meta-Activity e il tuo contesto: puoi copiarlo o allegare i file del pacchetto.",
+    "related_title": "Una metacompetenza della raccolta MAIOS.",
+    "related_intro": "Meta-Activity è la prima risorsa pubblica della raccolta. La repository conserva competenza, guida, esempi e descrizioni nella stessa versione. Le prossime risorse nasceranno dal lavoro e dall'uso delle competenze."
+  },
+  "en": {
+    "lead": "Form and evolve AI activities from the context of your work.",
+    "intro": "Meta-Activity is a MAIOS competence for understanding intent, recognising useful functions, composing or developing competences, and organising activities and services. Research, knowledge, content and relationships can become work entrusted to AI, with a method that preserves what it learns.",
+    "autonomy_title": "Over time, with autonomy",
+    "autonomy": "Activities can start on request, from an event or on an agreed schedule. With suitable tools and entrusted actions, AI can continue the work, improve its method and involve a person when needed.",
+    "visual_title": "From context to agentic activities",
+    "visual_steps": [
+      {"title": "The work to be done", "body": "Intent, sources, knowledge and means"},
+      {"title": "Capabilities to compose", "body": "Functions, competences and organisation"},
+      {"title": "The AI contribution", "body": "Activities, services and continuing knowledge"}
+    ],
+    "visual_caption": "What is learned changes the next activity.",
+    "cases_title": "Functions take shape through context.",
+    "cases_intro": "An assignment may call for research, a knowledge store, content or a communication. Meta-Activity helps understand how these functions can work together and evolve.",
+    "cases": [
+      {
+        "tab": "Client research",
+        "kind": "Illustrative application",
+        "title": "An AI service for finding relevant business opportunities.",
+        "paragraphs": [
+          "Start from a company's offer, use cases and existing relationships. AI searches for signals, reads sources, assesses relevance and prepares a reasoned contact. Functions are composed around the work; a search and a document can be enough to begin.",
+          "A knowledge store can preserve the source, reason for relevance, status and next step. Repeated signals update an existing case; changed conditions may reopen an opportunity. Sending uses the tools and actions entrusted by the person."
+        ],
+        "input": "Offer, sources and relationships",
+        "result": "Qualified opportunities and prepared contacts",
+        "memory": "Relevance, status, reasons and reopening conditions"
+      },
+      {
+        "tab": "Research and opportunities",
+        "kind": "Experience from MAIOS work",
+        "title": "A radar resumes from possibilities already considered.",
+        "paragraphs": [
+          "In MAIOS work, research activities and opportunity radars preserve what has been understood: signals, hypotheses, opportunities, constraints and reasons for decisions. A later cycle can compare a new source with that current understanding.",
+          "An interesting possibility may remain on hold until a useful change occurs. Sources and research criteria can improve; learning can change the activity's method. The examples describe that experience in its own environment; the public resource carries knowledge for use in yours."
+        ],
+        "input": "Questions, sources and understood possibilities",
+        "result": "Useful differences and a reasoned next step",
+        "memory": "Knowledge, corrections and reopening conditions"
+      },
+      {
+        "tab": "Content and social",
+        "kind": "Experience from MAIOS work",
+        "title": "The main publication guides work on other channels.",
+        "paragraphs": [
+          "One activity follows the article and its sources; another prepares social adaptations, follows conversations and recognises relevant opportunities. Continuity distinguishes original text, proposals, revisions and publication.",
+          "When an article is set aside, its dependent adaptations receive the same status. Other useful activities can continue. Results and corrections help improve writing, distribution and coordination."
+        ],
+        "input": "Source, article and editorial status",
+        "result": "Consistent adaptations and relevant conversations",
+        "memory": "Reasons, versions and channel knowledge"
+      }
+    ],
+    "learning_title": "Work can improve the way work is done.",
+    "learning_intro": "Meta-Activity includes understanding context, forming functions and developing competences. A new need may lead to a different service or knowledge to acquire. Capabilities are composed according to the situation.",
+    "learning_rows": [
+      {"title": "Knowledge", "body": "Sources, decisions and reasons remain reachable at the next start."},
+      {"title": "Method", "body": "Searches, functions, instructions and notifications improve through results."},
+      {"title": "Competences", "body": "Reusable knowledge changes the capability that will guide later work."}
+    ],
+    "learning_note": "The activity preserves the reason for a change. Later use shows whether that knowledge changes what follows.",
+    "contexts_title": "Possible activities follow your work.",
+    "contexts_intro": "These contexts open different applications. The package includes eighteen examples, with sources, adaptations and moments for human attention.",
+    "context_groups": [
+      {"title": "Research", "body": "Thematic radars, bibliographies and experiments."},
+      {"title": "Development", "body": "Software dependencies, documentation and maintenance."},
+      {"title": "Content", "body": "Articles, distribution and conversations."},
+      {"title": "Business", "body": "Internal knowledge, support and procedures."},
+      {"title": "Operations", "body": "Data, website journeys and project continuity."},
+      {"title": "Learning and services", "body": "Study, opportunities and domain services."}
+    ],
+    "use_title": "In your chat or agentic environment.",
+    "use_intro": "Receive the competence on its own or integrate it into an existing kernel. The method is included; tools, accounts, memory and automatic activation depend on your environment.",
+    "modes": [
+      {"id": "chat", "title": "Chat without a kernel", "body": "Copy the complete starter, add context and preserve the guide for the next session."},
+      {"id": "chat-kernel", "title": "Chat with a kernel", "body": "Share the resource and current guide. Work continues through the project's knowledge and competences."},
+      {"id": "harness", "title": "Harness without a kernel", "body": "Make the full competence folder readable and connect sources, tools and a place for continuity."},
+      {"id": "harness-kernel", "title": "Harness with a kernel", "body": "Integrate Meta-Activity into the project's entry and compose it with the capabilities already responsible for its work."}
+    ],
+    "use_note": "The first edition's operating instructions and guides are in Italian. An AI assistant can read them and work with you in English. The guide includes local Codex integration and official documentation links.",
+    "start_title": "A real context for the first assignment.",
+    "start_intro": "Choose an example and environment, then add the work you want to entrust to AI. The prepared starter includes Meta-Activity's essential method in Italian and your context; you can copy it or attach the package files.",
+    "related_title": "A metacompetence in the MAIOS collection.",
+    "related_intro": "Meta-Activity is the collection's first public resource. The repository keeps its competence, guide, examples and descriptions in the same version. Future resources will develop through work and use."
+  }
+}

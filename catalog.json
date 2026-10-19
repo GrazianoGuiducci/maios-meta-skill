@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "name": "MAIOS Meta-Skill",
+  "repository": "https://github.com/GrazianoGuiducci/maios-meta-skill",
+  "resources": [
+    {
+      "id": "meta-activity",
+      "name": "Meta-Activity",
+      "version": "0.1.0",
+      "state": "initial_public_edition",
+      "instruction_language": "it",
+      "skill": "skills/meta-activity/SKILL.md",
+      "guide": "skills/meta-activity/README.md",
+      "starter": "skills/meta-activity/AVVIO_CHAT_IT.txt",
+      "examples": "skills/meta-activity/ESEMPI_IT.md",
+      "presentation": "skills/meta-activity/presentation.json",
+      "contexts": "skills/meta-activity/contexts.json",
+      "package": "dist/meta-activity-0.1.0.zip",
+      "it": {
+        "route": "/risorse/meta-activity/",
+        "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
+        "description": "Comprende l'intento, riconosce funzioni utili, compone o sviluppa competenze e organizza attività e servizi che possono continuare e migliorare.",
+        "type": "Metacompetenza",
+        "field": "Attività agentiche",
+        "details": [
+          {"title": "Dall'intento al servizio", "body": "Ricerca, informazioni, contenuti e relazioni prendono forma attraverso il contesto e i mezzi disponibili."},
+          {"title": "Continuità e autogestione", "body": "Conservare conoscenza, riprendere il lavoro e adattare metodo e organizzazione attraverso gli esiti."}
+        ],
+        "format": "Competenza · guida · avvio in chat · esempi",
+        "status": "Prima edizione · 0.1.0"
+      },
+      "en": {
+        "route": "/resources/meta-activity/",
+        "title": "Form and evolve AI activities from the context of your work.",
+        "description": "Understand intent, recognise useful functions, compose or develop competences, and organise activities and services that can continue and improve.",
+        "type": "Metacompetence",
+        "field": "Agentic activities",
+        "details": [
+          {"title": "From intent to a service", "body": "Research, information, content and relationships take shape through the context and the means available."},
+          {"title": "Continuity and self-management", "body": "Preserve knowledge, resume work, and adapt methods and organisation through observed results."}
+        ],
+        "format": "Competence · guide · chat starter · examples in Italian",
+        "status": "First edition · 0.1.0"
+      }
+    }
+  ]
+}

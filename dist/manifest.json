@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "packages": [
+    {
+      "id": "meta-activity",
+      "version": "0.1.0",
+      "package": "dist/meta-activity-0.1.0.zip",
+      "sha256": "b571e0fcbfd7ea26a100e0e819c30c29182fd9c8376cb266717d605a502c9bd1",
+      "files": {
+        "meta-activity/AVVIO_CHAT_IT.txt": "8baf02809021c0ef6f0b367170966d486ede8e01c6be3c0f1e9640ecce2602b4",
+        "meta-activity/contexts.json": "7be69f7a46a7f4707ce6251ee7f35b81f579ac588e226c66add7017a9cf62ff0",
+        "meta-activity/CONTINUITA_ATTIVITA.md": "682cc99bd5baf30d70be65a4dc2b7eba7b93b32f1a2664a003046f2cef50d502",
+        "meta-activity/ESEMPI_IT.md": "4d53a475e3e9945f1341978307f4fae83292bba57e58d02d98d92af62bf93c99",
+        "meta-activity/presentation.json": "5980663f2db4decb872a78ff78809ecc2bfad0fcedd8a07446fc68a947a7c2f8",
+        "meta-activity/README.md": "9ec3d858137fe6bea0929697faa340eb81b85df166730694a80c301895398db1",
+        "meta-activity/references/continuita-e-autogestione.md": "3bd6afda897be6bdd1bbade02dc228d16cb268eb81fe17bf581bd0d7dd7a32ae",
+        "meta-activity/references/formare-funzioni.md": "7fb6abe4289fd13a47cb84b5dbeb24daf94d8ebb75903fe367dbdbca9bb01b47",
+        "meta-activity/SKILL.md": "5aaf8453a8aa7125a959cb28a4ee23a12863abccbc3cad02bed59cfc2387e4e5"
+      }
+    }
+  ]
+}

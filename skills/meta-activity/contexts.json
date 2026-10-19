@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ricerca",
+    "area": "Ricerca",
+    "title": "Radar di ricerca",
+    "task": "Seguire un tema di ricerca e restituire le differenze che possono cambiare il progetto.",
+    "sources": "Fonti primarie, domande di ricerca, conoscenza e decisioni già presenti.",
+    "adaptation": "Affinare fonti e criteri, conservare possibilità con condizioni di riapertura, evitare rinotifiche.",
+    "attention": "Una differenza che apre un esperimento, corregge un'ipotesi o richiede una scelta."
+  },
+  {
+    "id": "bibliografia",
+    "area": "Ricerca",
+    "title": "Bibliografia ragionata",
+    "task": "Aggiornare la bibliografia di un lavoro e collegare i contributi alle domande ancora aperte.",
+    "sources": "Manoscritto, riferimenti e pubblicazioni originali accessibili.",
+    "adaptation": "Migliorare la pertinenza delle ricerche e preservare disaccordi e limiti dei lavori.",
+    "attention": "Una fonte che cambia un argomento o una scelta di metodo."
+  },
+  {
+    "id": "esperimenti",
+    "area": "Ricerca",
+    "title": "Continuità degli esperimenti",
+    "task": "Riprendere esperimenti autorizzati, confrontare esiti e preparare il prossimo passo utile.",
+    "sources": "Protocolli, dati, log e strumenti disponibili nel progetto.",
+    "adaptation": "Distinguere variazioni utili da ripetizioni e restituire criteri riusabili alla competenza.",
+    "attention": "Un risultato che modifica un'ipotesi, un errore o una decisione sul prossimo esperimento."
+  },
+  {
+    "id": "dipendenze",
+    "area": "Sviluppo",
+    "title": "Dipendenze software",
+    "task": "Controllare cambiamenti nelle dipendenze realmente usate e preparare gli interventi pertinenti.",
+    "sources": "Repository, versioni installate, note di rilascio e documentazione ufficiale.",
+    "adaptation": "Collegare gli avvisi all'uso effettivo, scartare ripetizioni e migliorare le fonti.",
+    "attention": "Un cambiamento che richiede una scelta o un intervento nel prodotto."
+  },
+  {
+    "id": "documentazione",
+    "area": "Sviluppo",
+    "title": "Documentazione del prodotto",
+    "task": "Riconciliare le modifiche selezionate del prodotto con le guide che devono descriverle.",
+    "sources": "Modifiche sorgente, stato del prodotto, guide e convenzioni del progetto.",
+    "adaptation": "Imparare quali superfici dipendono da una modifica e preservare il lavoro concorrente.",
+    "attention": "Una guida diventata inesatta o una proposta pronta da rivedere."
+  },
+  {
+    "id": "issue",
+    "area": "Sviluppo",
+    "title": "Triage delle segnalazioni",
+    "task": "Raggruppare segnalazioni simili e preparare casi riproducibili per i problemi pertinenti.",
+    "sources": "Issue, log accessibili, versioni e criteri del team.",
+    "adaptation": "Affinare il riconoscimento dei duplicati e le informazioni richieste per riprodurre il problema.",
+    "attention": "Una regressione, un caso riproducibile o una decisione di priorità."
+  },
+  {
+    "id": "editoria",
+    "area": "Contenuti",
+    "title": "Preparazione editoriale",
+    "task": "Seguire le fonti e preparare contenuti nelle forme scelte per il progetto.",
+    "sources": "Originali, revisioni selezionate, guida editoriale e stato dei contenuti.",
+    "adaptation": "Conservare le distinzioni dell'autore e migliorare chiarezza, fonti e adattamenti.",
+    "attention": "Una bozza utile da rivedere o una domanda che cambia il contenuto."
+  },
+  {
+    "id": "distribuzione",
+    "area": "Contenuti",
+    "title": "Distribuzione dei contenuti",
+    "task": "Preparare gli adattamenti di un contenuto scelto per i canali pertinenti e seguirne gli esiti.",
+    "sources": "Risorsa principale, stato delle revisioni, contesto dei canali e riscontri disponibili.",
+    "adaptation": "Imparare da reazioni e vincoli del canale, mantenendo il significato della fonte.",
+    "attention": "Un adattamento da scegliere o una reazione che merita un seguito."
+  },
+  {
+    "id": "conversazioni",
+    "area": "Contenuti",
+    "title": "Discussioni di settore",
+    "task": "Individuare conversazioni pertinenti e preparare contributi utili al contesto.",
+    "sources": "Discussioni correnti, regole della comunità e conoscenze pubbliche del progetto.",
+    "adaptation": "Migliorare pertinenza e tempi di intervento senza ripetere la stessa proposta.",
+    "attention": "Una conversazione in cui il progetto può offrire un contributo concreto."
+  },
+  {
+    "id": "conoscenza",
+    "area": "Azienda",
+    "title": "Conoscenze aziendali",
+    "task": "Mantenere raggiungibili conoscenze e ragioni delle decisioni che cambiano il lavoro del team.",
+    "sources": "Documenti autorizzati, decisioni, guide e competenze già presenti.",
+    "adaptation": "Riconoscere conoscenze duplicate o superate e ricondurre gli aggiornamenti alla sede pertinente.",
+    "attention": "Una contraddizione operativa o un aggiornamento da integrare."
+  },
+  {
+    "id": "supporto",
+    "area": "Azienda",
+    "title": "Supporto clienti",
+    "task": "Preparare risposte e miglioramenti della documentazione dalle domande ricorrenti.",
+    "sources": "Richieste autorizzate, informazioni del prodotto e risposte validate.",
+    "adaptation": "Imparare categorie utili e casi che richiedono una persona; conservare la separazione fra bozza e invio.",
+    "attention": "Una risposta pronta o un caso che richiede competenza umana."
+  },
+  {
+    "id": "procedure",
+    "area": "Azienda",
+    "title": "Procedure operative",
+    "task": "Osservare gli scostamenti fra una procedura e il lavoro effettivo, preparando correzioni situate.",
+    "sources": "Procedure, riscontri del team, strumenti e stato delle attività.",
+    "adaptation": "Rimuovere passaggi esauriti e conservare la ragione delle correzioni.",
+    "attention": "Una differenza che cambia la qualità o la possibilità di eseguire il lavoro."
+  },
+  {
+    "id": "dati",
+    "area": "Operazioni",
+    "title": "Qualità dei dati",
+    "task": "Seguire le fonti dati selezionate e preparare le correzioni utili ai loro consumer.",
+    "sources": "Dataset autorizzati, definizioni, processi di aggiornamento e controlli disponibili.",
+    "adaptation": "Distinguere nuovi errori da quelli già noti e migliorare i criteri di rilevazione.",
+    "attention": "Una differenza che altera l'uso dei dati o una correzione pronta da valutare."
+  },
+  {
+    "id": "sito",
+    "area": "Operazioni",
+    "title": "Sito e percorsi pubblici",
+    "task": "Controllare che pagine, collegamenti e informazioni pubbliche continuino dal prodotto corrente.",
+    "sources": "Sorgenti del sito, pagine accessibili, stato del prodotto e riscontri disponibili.",
+    "adaptation": "Imparare le dipendenze fra modifiche, pagine e percorsi senza ripetere verifiche immutate.",
+    "attention": "Un percorso interrotto o un'informazione diventata inesatta."
+  },
+  {
+    "id": "coordinamento",
+    "area": "Operazioni",
+    "title": "Continuità di progetto",
+    "task": "Preparare un rientro utile fra sessioni o persone mantenendo scopo, ragioni e lavoro valido.",
+    "sources": "Guide correnti, decisioni, contributi concorrenti e sorgenti del progetto.",
+    "adaptation": "Condensare il contesto preservando le relazioni necessarie al seguito.",
+    "attention": "Una scelta, un conflitto reale o una consegna che abilita il prossimo lavoro."
+  },
+  {
+    "id": "studio",
+    "area": "Studio e servizi",
+    "title": "Percorso di studio",
+    "task": "Preparare studio ed esercizi a partire da obiettivi, conoscenze acquisite e difficoltà incontrate.",
+    "sources": "Obiettivi della persona, materiali scelti ed esiti degli esercizi.",
+    "adaptation": "Cambiare esempi e profondità in base alla comprensione osservata.",
+    "attention": "Un passaggio utile da praticare o una difficoltà che cambia il percorso."
+  },
+  {
+    "id": "opportunita",
+    "area": "Studio e servizi",
+    "title": "Radar di opportunità",
+    "task": "Seguire opportunità pertinenti a un progetto e preparare il prossimo passo concretamente utile.",
+    "sources": "Direzione del progetto, condizioni reali, programmi e fonti originali.",
+    "adaptation": "Distinguere interesse, accessibilità e costo di attenzione; conservare condizioni di riapertura.",
+    "attention": "Una possibilità per cui esiste una preparazione o una scelta concreta."
+  },
+  {
+    "id": "servizio",
+    "area": "Studio e servizi",
+    "title": "Servizio per un dominio",
+    "task": "Formare un'attività ricorrente per un ambito specifico insieme alle sue competenze.",
+    "sources": "Mandato della persona, conoscenze del dominio, strumenti e riscontri dell'uso.",
+    "adaptation": "Lasciare che il lavoro formi metodi e capacità ulteriori nel contesto del ricevente.",
+    "attention": "Una risultante utile, una scelta o una differenza che cambia il servizio."
+  }
+]
