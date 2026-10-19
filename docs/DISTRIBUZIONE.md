@@ -18,6 +18,8 @@ Corpo operativo, guida e avvio si sostengono. Un avvio autonomo include il metod
 
 Il catalogo conserva nome, versione, stato, percorsi e descrizioni. La cartella della competenza resta la sorgente del metodo; i file di presentazione ne sono una proiezione. Il pacchetto scaricabile deve contenere gli stessi file della versione dichiarata.
 
+La verifica dei file distribuiti raggiunge i byte della revisione Git, oltre al checkout locale: una conversione dei fine riga può rendere diversi i due ingressi. Questa raccolta conserva i testi in LF tramite .gitattributes; il pacchetto viene ricostruito dalla stessa forma.
+
 Il sito MAIOS può generare schede e pagine da questi dati, registrando la revisione ricevuta. Substack e gli altri canali adattano la spiegazione per il proprio pubblico e collegano la risorsa completa. La preparazione dei testi e la loro pubblicazione conservano il proprio stato.
 
 ## Crescita attraverso l'uso

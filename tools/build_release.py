@@ -34,7 +34,7 @@ def build():
         })
     manifest = {"schema_version": 1, "packages": packages}
     (ROOT / "dist/manifest.json").write_text(
-        json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n"
     )
     print(json.dumps([{"id": p["id"], "version": p["version"],
                       "files": len(p["files"]), "sha256": p["sha256"]}
