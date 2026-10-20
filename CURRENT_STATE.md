@@ -1,3 +1,9 @@
+# Public edition 0.3.1 — standalone kit links and license
+
+The quick recipient-side review corrected links to optional online common guides that escaped individually extracted kits. Apache-2.0 was selected by Graziano on 20 October 2026; LICENSE and NOTICE are included in all packages. Operating methods, developed examples and runtime behavior retain edition 0.3.0 functionality.
+
+## Previous edition, retained as history
+
 # Reconstructed portable edition — 0.3.0
 
 The 25 public kits now carry practical operating knowledge in English and Italian, developed examples, complete starters and portable source tools. Native entry names identify the operating folders; website route IDs remain stable. The transfer correction and verification scope are in [docs/TRANSFER_REVIEW.md](docs/TRANSFER_REVIEW.md). Package and website reconciliation follows this selected edition.

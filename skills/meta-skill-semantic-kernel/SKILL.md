@@ -2,7 +2,7 @@
 name: meta-skill-semantic-kernel
 description: "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

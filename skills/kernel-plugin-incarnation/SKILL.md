@@ -2,7 +2,7 @@
 name: kernel-plugin-incarnation
 description: "Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: operate-fdla
 description: "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

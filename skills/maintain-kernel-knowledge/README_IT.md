@@ -2,7 +2,7 @@
 
 Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.
 
-Versione **0.3.0** · Istruzioni e guida in italiano · Presentazione IT/EN.
+Versione **0.3.1** · Istruzioni e guida in italiano · Presentazione IT/EN.
 
 Lo stato di un progetto dice dove siamo. La conoscenza del sistema conserva anche perché è fatto così, che cosa significano le sue capacità e quali direzioni rimangono aperte.
 
@@ -57,3 +57,7 @@ Questa edizione contiene sapere operativo ed esempi illustrativi. Formato, dispo
 ## Sapere operativo pratico
 
 [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) spiega decisioni, condizioni e mezzi che rendono utilizzabile il metodo. L'avvio include questo sapere; la cartella conserva anche le sorgenti leggibili direttamente.
+
+## Licenza
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.

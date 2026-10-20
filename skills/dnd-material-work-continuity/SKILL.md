@@ -2,7 +2,7 @@
 name: dnd-material-work-continuity
 description: "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: operator-concept-preserver
 description: "Separates the author's words from assistant output, reduces noise and duplication, and organises useful concepts with source references."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

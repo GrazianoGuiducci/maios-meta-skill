@@ -2,7 +2,7 @@
 name: incarnate-neutral-kernel-node
 description: "Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: maintain-kernel-knowledge
 description: "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

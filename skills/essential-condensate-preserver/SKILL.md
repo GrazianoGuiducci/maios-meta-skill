@@ -2,7 +2,7 @@
 name: essential-condensate-preserver
 description: "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

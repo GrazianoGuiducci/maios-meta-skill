@@ -1,5 +1,11 @@
 # MAIOS Meta-Skill — stato corrente
 
+## Edizione pubblica 0.3.1 — kit autonomi e licenza
+
+Il controllo dei kit estratti corregge i collegamenti alle guide comuni opzionali, ora raggiungibili online anche fuori dalla repository. Graziano ha scelto Apache-2.0 il 20 ottobre 2026: LICENSE e NOTICE accompagnano tutti i 25 pacchetti. I metodi, gli esempi articolati e gli strumenti conservano le funzioni dell'edizione 0.3.0; l'inglese è la lingua principale con corrispondenti italiani.
+
+## Fasi precedenti, conservate come cronologia
+
 ## Identità delle competenze — 20 ottobre 2026
 
 Il catalogo conserva ora i nomi originali delle competenze sorgenti, identici

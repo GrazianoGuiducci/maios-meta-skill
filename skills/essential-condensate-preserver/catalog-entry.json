@@ -1,7 +1,7 @@
 {
   "id": "conservare-conoscenze-utili",
   "name": "Essential Condensate Preserver",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "02",
@@ -10,7 +10,7 @@
   "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
   "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
   "presentation": "skills/essential-condensate-preserver/presentation.json",
-  "package": "dist/essential-condensate-preserver-0.3.0.zip",
+  "package": "dist/essential-condensate-preserver-0.3.1.zip",
   "it": {
     "route": "/risorse/conservare-conoscenze-utili/",
     "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
@@ -59,5 +59,6 @@
       "runtime_sources": []
     }
   },
-  "skill_name": "essential-condensate-preserver"
+  "skill_name": "essential-condensate-preserver",
+  "license": "Apache-2.0"
 }

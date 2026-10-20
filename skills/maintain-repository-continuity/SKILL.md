@@ -2,7 +2,7 @@
 name: maintain-repository-continuity
 description: "Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

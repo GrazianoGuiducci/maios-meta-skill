@@ -2,7 +2,7 @@
 name: maintain-causal-task-continuity
 description: "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

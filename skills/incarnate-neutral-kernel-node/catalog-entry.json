@@ -1,7 +1,7 @@
 {
   "id": "avviare-nodo-ai",
   "name": "Incarnate Neutral Kernel Node",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "20",
@@ -10,7 +10,7 @@
   "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
   "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
   "presentation": "skills/incarnate-neutral-kernel-node/presentation.json",
-  "package": "dist/incarnate-neutral-kernel-node-0.3.0.zip",
+  "package": "dist/incarnate-neutral-kernel-node-0.3.1.zip",
   "it": {
     "title": "Avviare un assistente AI con identità e continuità proprie",
     "kind": "Metacompetenza di trasferimento",
@@ -65,5 +65,6 @@
       ]
     }
   },
-  "skill_name": "incarnate-neutral-kernel-node"
+  "skill_name": "incarnate-neutral-kernel-node",
+  "license": "Apache-2.0"
 }

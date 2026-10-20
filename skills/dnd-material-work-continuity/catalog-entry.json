@@ -1,7 +1,7 @@
 {
   "id": "ricostruire-lavoro-decisioni",
   "name": "D-ND Material Work Continuity",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "09",
@@ -10,7 +10,7 @@
   "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
   "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
   "presentation": "skills/dnd-material-work-continuity/presentation.json",
-  "package": "dist/dnd-material-work-continuity-0.3.0.zip",
+  "package": "dist/dnd-material-work-continuity-0.3.1.zip",
   "it": {
     "route": "/risorse/ricostruire-lavoro-decisioni/",
     "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
@@ -67,5 +67,6 @@
       ]
     }
   },
-  "skill_name": "dnd-material-work-continuity"
+  "skill_name": "dnd-material-work-continuity",
+  "license": "Apache-2.0"
 }

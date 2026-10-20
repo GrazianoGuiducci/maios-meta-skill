@@ -2,7 +2,7 @@
 name: meta-activity
 description: Forma e fa evolvere attività agentiche dal contesto del lavoro. Usa per trasformare un intento in un'attività o servizio AI, riconoscere e comporre funzioni e competenze, continuare un incarico o adattarne metodo, conoscenza e organizzazione; l'attivazione può avvenire su richiesta, evento o cadenza.
 metadata:
-  version: 0.3.0
+  version: 0.3.1
 ---
 
 # Meta-Activity

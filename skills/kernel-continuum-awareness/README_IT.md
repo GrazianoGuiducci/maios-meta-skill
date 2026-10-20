@@ -1,6 +1,6 @@
 # Mantenere coerenti le capacità di un kernel AI
 
-**Versione 0.3.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Versione 0.3.1 · Istruzioni in italiano · Presentazione IT/EN.**
 
 Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.
 
@@ -64,3 +64,7 @@ La prima edizione rende questa capacità raggiungibile; un uso diverso permette 
 ## Sapere operativo pratico
 
 [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) spiega decisioni, condizioni e mezzi che rendono utilizzabile il metodo. L'avvio include questo sapere; la cartella conserva anche le sorgenti leggibili direttamente.
+
+## Licenza
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.

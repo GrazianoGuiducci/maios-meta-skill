@@ -2,7 +2,7 @@
 name: dnd-skill-evolution-guard
 description: "Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

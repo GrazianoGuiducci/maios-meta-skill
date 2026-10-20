@@ -52,11 +52,15 @@ Host tools, persistence, accounts and recurring activation depend on the actual 
 
 ## Editions and learning
 
-The current public edition is **0.3.0**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
+The current public edition is **0.3.1**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
 
 File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
 
 [How resources are formed and distributed](docs/DISTRIBUTION.md) · [Report an issue or contribute](https://github.com/GrazianoGuiducci/maios-meta-skill/issues)
+
+## License
+
+[Apache-2.0](LICENSE). Downloadable kits include the license and attribution notice.
 
 Origin and direction: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
 '''
@@ -89,11 +93,15 @@ Con un kernel esistente integra il contributo nelle competenze e guide già util
 
 ## Edizioni e apprendimento
 
-L’edizione pubblica corrente è **0.3.0**: inglese principale, con corrispondenti file italiani. [Catalogo](catalog.json) e [manifest](dist/manifest.json) collegano file, lingue, versioni e pacchetti. Gli avvii includono sapere operativo, casi articolati e sorgenti degli strumenti runtime forniti. Le vecchie edizioni conservano il proprio stato storico.
+L’edizione pubblica corrente è **0.3.1**: inglese principale, con corrispondenti file italiani. [Catalogo](catalog.json) e [manifest](dist/manifest.json) collegano file, lingue, versioni e pacchetti. Gli avvii includono sapere operativo, casi articolati e sorgenti degli strumenti runtime forniti. Le vecchie edizioni conservano il proprio stato storico.
 
 La coerenza dei file verifica l’identità della distribuzione. L’uso in un altro assistente e l’assimilazione di una correzione si osservano nel lavoro successivo. Un riscontro utile conserva caso, differenza e ragione, anche quando l’esito resta invariato.
 
 [Formazione e distribuzione](docs/DISTRIBUZIONE.md) · [Contributi e riscontri](https://github.com/GrazianoGuiducci/maios-meta-skill/issues)
+
+## Licenza
+
+[Apache-2.0](LICENSE). I kit scaricabili includono licenza e nota di attribuzione.
 
 Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
 '''

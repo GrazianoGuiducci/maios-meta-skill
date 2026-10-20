@@ -1,7 +1,7 @@
 {
   "id": "meta-activity",
   "name": "Meta-Activity",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "state": "public_edition",
   "instruction_language": "en",
   "skill": "skills/meta-activity/SKILL.md",
@@ -10,7 +10,7 @@
   "examples": "skills/meta-activity/EXAMPLES.md",
   "presentation": "skills/meta-activity/presentation.json",
   "contexts": "skills/meta-activity/contexts.json",
-  "package": "dist/meta-activity-0.3.0.zip",
+  "package": "dist/meta-activity-0.3.1.zip",
   "it": {
     "route": "/risorse/meta-activity/",
     "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -65,5 +65,6 @@
     }
   },
   "contexts_en": "skills/meta-activity/contexts_en.json",
-  "skill_name": "meta-activity"
+  "skill_name": "meta-activity",
+  "license": "Apache-2.0"
 }

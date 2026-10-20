@@ -2,7 +2,7 @@
 name: public-learning-promotion
 description: "Separates reusable learning from private details and chooses a public form faithful to what was observed or built."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

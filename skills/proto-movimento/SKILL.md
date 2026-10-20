@@ -2,7 +2,7 @@
 name: proto-movimento
 description: "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

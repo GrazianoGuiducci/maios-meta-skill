@@ -2,7 +2,7 @@
 name: meta-metodo
 description: "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: evolve-editoriali-system
 description: "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

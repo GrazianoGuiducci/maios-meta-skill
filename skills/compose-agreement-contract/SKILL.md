@@ -2,7 +2,7 @@
 name: compose-agreement-contract
 description: "Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

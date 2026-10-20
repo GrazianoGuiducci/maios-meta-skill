@@ -2,7 +2,7 @@
 name: situated-activity-evolution
 description: "Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

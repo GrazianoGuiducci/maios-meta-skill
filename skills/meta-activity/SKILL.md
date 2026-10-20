@@ -2,7 +2,7 @@
 name: meta-activity
 description: "Creates complex scheduled activities that can understand what to do and evolve."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -2,7 +2,7 @@
 name: ux-ai-kernel-design
 description: "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

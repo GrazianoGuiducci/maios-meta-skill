@@ -2,7 +2,7 @@
 name: projectable-presence
 description: "Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

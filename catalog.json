@@ -6,7 +6,7 @@
     {
       "id": "meta-activity",
       "name": "Meta-Activity",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "skill": "skills/meta-activity/SKILL.md",
@@ -15,7 +15,7 @@
       "examples": "skills/meta-activity/EXAMPLES.md",
       "presentation": "skills/meta-activity/presentation.json",
       "contexts": "skills/meta-activity/contexts.json",
-      "package": "dist/meta-activity-0.3.0.zip",
+      "package": "dist/meta-activity-0.3.1.zip",
       "it": {
         "route": "/risorse/meta-activity/",
         "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -70,12 +70,13 @@
         }
       },
       "contexts_en": "skills/meta-activity/contexts_en.json",
-      "skill_name": "meta-activity"
+      "skill_name": "meta-activity",
+      "license": "Apache-2.0"
     },
     {
       "id": "continuita-del-lavoro-ai",
       "name": "Maintain Causal Task Continuity",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "01",
@@ -84,7 +85,7 @@
       "starter": "skills/maintain-causal-task-continuity/START_CHAT_EN.txt",
       "examples": "skills/maintain-causal-task-continuity/EXAMPLES.md",
       "presentation": "skills/maintain-causal-task-continuity/presentation.json",
-      "package": "dist/maintain-causal-task-continuity-0.3.0.zip",
+      "package": "dist/maintain-causal-task-continuity-0.3.1.zip",
       "it": {
         "route": "/risorse/continuita-del-lavoro-ai/",
         "title": "Riprendere un progetto con l’AI dopo un’interruzione",
@@ -133,12 +134,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "maintain-causal-task-continuity"
+      "skill_name": "maintain-causal-task-continuity",
+      "license": "Apache-2.0"
     },
     {
       "id": "conservare-conoscenze-utili",
       "name": "Essential Condensate Preserver",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "02",
@@ -147,7 +149,7 @@
       "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
       "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
       "presentation": "skills/essential-condensate-preserver/presentation.json",
-      "package": "dist/essential-condensate-preserver-0.3.0.zip",
+      "package": "dist/essential-condensate-preserver-0.3.1.zip",
       "it": {
         "route": "/risorse/conservare-conoscenze-utili/",
         "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
@@ -196,12 +198,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "essential-condensate-preserver"
+      "skill_name": "essential-condensate-preserver",
+      "license": "Apache-2.0"
     },
     {
       "id": "estrarre-idee-dalle-conversazioni",
       "name": "Operator Concept Preserver",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "03",
@@ -210,7 +213,7 @@
       "starter": "skills/operator-concept-preserver/START_CHAT_EN.txt",
       "examples": "skills/operator-concept-preserver/EXAMPLES.md",
       "presentation": "skills/operator-concept-preserver/presentation.json",
-      "package": "dist/operator-concept-preserver-0.3.0.zip",
+      "package": "dist/operator-concept-preserver-0.3.1.zip",
       "it": {
         "route": "/risorse/estrarre-idee-dalle-conversazioni/",
         "title": "Estrarre le idee dell’autore dalle conversazioni con l’AI",
@@ -259,12 +262,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "operator-concept-preserver"
+      "skill_name": "operator-concept-preserver",
+      "license": "Apache-2.0"
     },
     {
       "id": "organizzare-lavoro-complesso",
       "name": "Meta_Metodo",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "04",
@@ -273,7 +277,7 @@
       "starter": "skills/meta-metodo/START_CHAT_EN.txt",
       "examples": "skills/meta-metodo/EXAMPLES.md",
       "presentation": "skills/meta-metodo/presentation.json",
-      "package": "dist/meta-metodo-0.3.0.zip",
+      "package": "dist/meta-metodo-0.3.1.zip",
       "it": {
         "route": "/risorse/organizzare-lavoro-complesso/",
         "title": "Organizzare un lavoro complesso con l’AI",
@@ -322,12 +326,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "meta-metodo"
+      "skill_name": "meta-metodo",
+      "license": "Apache-2.0"
     },
     {
       "id": "fonti-segnali-conoscenza",
       "name": "Signal Intelligence",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "05",
@@ -336,7 +341,7 @@
       "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
       "examples": "skills/signal-intelligence/EXAMPLES.md",
       "presentation": "skills/signal-intelligence/presentation.json",
-      "package": "dist/signal-intelligence-0.3.0.zip",
+      "package": "dist/signal-intelligence-0.3.1.zip",
       "it": {
         "route": "/risorse/fonti-segnali-conoscenza/",
         "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
@@ -385,12 +390,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "signal-intelligence"
+      "skill_name": "signal-intelligence",
+      "license": "Apache-2.0"
     },
     {
       "id": "evolvere-competenze",
       "name": "D-ND Skill Evolution Guard",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "06",
@@ -399,7 +405,7 @@
       "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
       "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
       "presentation": "skills/dnd-skill-evolution-guard/presentation.json",
-      "package": "dist/dnd-skill-evolution-guard-0.3.0.zip",
+      "package": "dist/dnd-skill-evolution-guard-0.3.1.zip",
       "it": {
         "route": "/risorse/evolvere-competenze/",
         "title": "Far evolvere una competenza AI attraverso il lavoro",
@@ -448,12 +454,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "dnd-skill-evolution-guard"
+      "skill_name": "dnd-skill-evolution-guard",
+      "license": "Apache-2.0"
     },
     {
       "id": "titoli-e-sottotitoli",
       "name": "Classify Content With Taxonomic Titles And Descriptions",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "07",
@@ -462,7 +469,7 @@
       "starter": "skills/classify-content-with-taxonomic-titles-and-descriptions/START_CHAT_EN.txt",
       "examples": "skills/classify-content-with-taxonomic-titles-and-descriptions/EXAMPLES.md",
       "presentation": "skills/classify-content-with-taxonomic-titles-and-descriptions/presentation.json",
-      "package": "dist/classify-content-with-taxonomic-titles-and-descriptions-0.3.0.zip",
+      "package": "dist/classify-content-with-taxonomic-titles-and-descriptions-0.3.1.zip",
       "it": {
         "route": "/risorse/titoli-e-sottotitoli/",
         "title": "Scrivere titoli e sottotitoli che fanno capire il contenuto",
@@ -511,12 +518,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "classify-content-with-taxonomic-titles-and-descriptions"
+      "skill_name": "classify-content-with-taxonomic-titles-and-descriptions",
+      "license": "Apache-2.0"
     },
     {
       "id": "formare-risorse-pubbliche",
       "name": "Formare risorse pubbliche dalle metacompetenze",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "08",
@@ -525,7 +533,7 @@
       "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
       "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
       "presentation": "skills/form-public-metaskill-resources/presentation.json",
-      "package": "dist/form-public-metaskill-resources-0.3.0.zip",
+      "package": "dist/form-public-metaskill-resources-0.3.1.zip",
       "it": {
         "route": "/risorse/formare-risorse-pubbliche/",
         "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -574,12 +582,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "form-public-metaskill-resources"
+      "skill_name": "form-public-metaskill-resources",
+      "license": "Apache-2.0"
     },
     {
       "id": "ricostruire-lavoro-decisioni",
       "name": "D-ND Material Work Continuity",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "09",
@@ -588,7 +597,7 @@
       "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
       "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
       "presentation": "skills/dnd-material-work-continuity/presentation.json",
-      "package": "dist/dnd-material-work-continuity-0.3.0.zip",
+      "package": "dist/dnd-material-work-continuity-0.3.1.zip",
       "it": {
         "route": "/risorse/ricostruire-lavoro-decisioni/",
         "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
@@ -645,12 +654,13 @@
           ]
         }
       },
-      "skill_name": "dnd-material-work-continuity"
+      "skill_name": "dnd-material-work-continuity",
+      "license": "Apache-2.0"
     },
     {
       "id": "condividere-apprendimenti",
       "name": "Public Learning Promotion",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "10",
@@ -659,7 +669,7 @@
       "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
       "examples": "skills/public-learning-promotion/EXAMPLES.md",
       "presentation": "skills/public-learning-promotion/presentation.json",
-      "package": "dist/public-learning-promotion-0.3.0.zip",
+      "package": "dist/public-learning-promotion-0.3.1.zip",
       "it": {
         "route": "/risorse/condividere-apprendimenti/",
         "title": "Ricavare conoscenze condivisibili dal lavoro interno",
@@ -708,12 +718,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "public-learning-promotion"
+      "skill_name": "public-learning-promotion",
+      "license": "Apache-2.0"
     },
     {
       "id": "migliorare-attivita-ricorrenti",
       "name": "Situated Activity Evolution",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "11",
@@ -722,7 +733,7 @@
       "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
       "examples": "skills/situated-activity-evolution/EXAMPLES.md",
       "presentation": "skills/situated-activity-evolution/presentation.json",
-      "package": "dist/situated-activity-evolution-0.3.0.zip",
+      "package": "dist/situated-activity-evolution-0.3.1.zip",
       "it": {
         "route": "/risorse/migliorare-attivita-ricorrenti/",
         "title": "Far migliorare un’attività AI attraverso i suoi risultati",
@@ -771,12 +782,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "situated-activity-evolution"
+      "skill_name": "situated-activity-evolution",
+      "license": "Apache-2.0"
     },
     {
       "id": "conoscenza-del-sistema-ai",
       "name": "Maintain Kernel Knowledge",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "12",
@@ -785,7 +797,7 @@
       "starter": "skills/maintain-kernel-knowledge/START_CHAT_EN.txt",
       "examples": "skills/maintain-kernel-knowledge/EXAMPLES.md",
       "presentation": "skills/maintain-kernel-knowledge/presentation.json",
-      "package": "dist/maintain-kernel-knowledge-0.3.0.zip",
+      "package": "dist/maintain-kernel-knowledge-0.3.1.zip",
       "it": {
         "route": "/risorse/conoscenza-del-sistema-ai/",
         "title": "Organizzare la conoscenza di un sistema AI",
@@ -834,12 +846,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "maintain-kernel-knowledge"
+      "skill_name": "maintain-kernel-knowledge",
+      "license": "Apache-2.0"
     },
     {
       "id": "comprendere-lavoro-agente",
       "name": "UX-AI Kernel Design",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "13",
@@ -848,7 +861,7 @@
       "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
       "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
       "presentation": "skills/ux-ai-kernel-design/presentation.json",
-      "package": "dist/ux-ai-kernel-design-0.3.0.zip",
+      "package": "dist/ux-ai-kernel-design-0.3.1.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
         "title": "Rendere comprensibile il lavoro di un agente AI",
@@ -897,12 +910,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "ux-ai-kernel-design"
+      "skill_name": "ux-ai-kernel-design",
+      "license": "Apache-2.0"
     },
     {
       "id": "presenza-prodotto-assistente",
       "name": "Projectable Presence",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "14",
@@ -911,7 +925,7 @@
       "starter": "skills/projectable-presence/START_CHAT_EN.txt",
       "examples": "skills/projectable-presence/EXAMPLES.md",
       "presentation": "skills/projectable-presence/presentation.json",
-      "package": "dist/projectable-presence-0.3.0.zip",
+      "package": "dist/projectable-presence-0.3.1.zip",
       "it": {
         "route": "/risorse/presenza-prodotto-assistente/",
         "title": "Creare la presenza di un prodotto o di un assistente AI",
@@ -960,12 +974,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "projectable-presence"
+      "skill_name": "projectable-presence",
+      "license": "Apache-2.0"
     },
     {
       "id": "continuita-repository",
       "name": "Maintain Repository Continuity",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "15",
@@ -974,7 +989,7 @@
       "starter": "skills/maintain-repository-continuity/START_CHAT_EN.txt",
       "examples": "skills/maintain-repository-continuity/EXAMPLES.md",
       "presentation": "skills/maintain-repository-continuity/presentation.json",
-      "package": "dist/maintain-repository-continuity-0.3.0.zip",
+      "package": "dist/maintain-repository-continuity-0.3.1.zip",
       "it": {
         "route": "/risorse/continuita-repository/",
         "title": "Condividere il lavoro AI tra repository e collaboratori",
@@ -1023,12 +1038,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "maintain-repository-continuity"
+      "skill_name": "maintain-repository-continuity",
+      "license": "Apache-2.0"
     },
     {
       "id": "accordi-collaborazioni",
       "name": "Compose Agreement Contract",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "16",
@@ -1037,7 +1053,7 @@
       "starter": "skills/compose-agreement-contract/START_CHAT_EN.txt",
       "examples": "skills/compose-agreement-contract/EXAMPLES.md",
       "presentation": "skills/compose-agreement-contract/presentation.json",
-      "package": "dist/compose-agreement-contract-0.3.0.zip",
+      "package": "dist/compose-agreement-contract-0.3.1.zip",
       "it": {
         "route": "/risorse/accordi-collaborazioni/",
         "title": "Preparare accordi e collaborazioni con l’AI",
@@ -1086,12 +1102,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "compose-agreement-contract"
+      "skill_name": "compose-agreement-contract",
+      "license": "Apache-2.0"
     },
     {
       "id": "organizzare-sistema-editoriale",
       "name": "Comprendere e organizzare Editoriali",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "17",
@@ -1100,7 +1117,7 @@
       "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
       "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
       "presentation": "skills/evolve-editoriali-system/presentation.json",
-      "package": "dist/evolve-editoriali-system-0.3.0.zip",
+      "package": "dist/evolve-editoriali-system-0.3.1.zip",
       "it": {
         "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
         "kind": "Metacompetenza organizzativa",
@@ -1149,12 +1166,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "evolve-editoriali-system"
+      "skill_name": "evolve-editoriali-system",
+      "license": "Apache-2.0"
     },
     {
       "id": "creare-comporre-competenze",
       "name": "Meta_Skill Semantic Kernel",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "18",
@@ -1163,7 +1181,7 @@
       "starter": "skills/meta-skill-semantic-kernel/START_CHAT_EN.txt",
       "examples": "skills/meta-skill-semantic-kernel/EXAMPLES.md",
       "presentation": "skills/meta-skill-semantic-kernel/presentation.json",
-      "package": "dist/meta-skill-semantic-kernel-0.3.0.zip",
+      "package": "dist/meta-skill-semantic-kernel-0.3.1.zip",
       "it": {
         "title": "Creare e comporre competenze per un sistema AI",
         "kind": "Kernel generativo di competenze",
@@ -1218,12 +1236,13 @@
           ]
         }
       },
-      "skill_name": "meta-skill-semantic-kernel"
+      "skill_name": "meta-skill-semantic-kernel",
+      "license": "Apache-2.0"
     },
     {
       "id": "kernel-in-plugin",
       "name": "Kernel Plugin Incarnation",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "19",
@@ -1232,7 +1251,7 @@
       "starter": "skills/kernel-plugin-incarnation/START_CHAT_EN.txt",
       "examples": "skills/kernel-plugin-incarnation/EXAMPLES.md",
       "presentation": "skills/kernel-plugin-incarnation/presentation.json",
-      "package": "dist/kernel-plugin-incarnation-0.3.0.zip",
+      "package": "dist/kernel-plugin-incarnation-0.3.1.zip",
       "it": {
         "title": "Portare un kernel semantico in un plugin AI",
         "kind": "Metacompetenza di prodotto",
@@ -1281,12 +1300,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "kernel-plugin-incarnation"
+      "skill_name": "kernel-plugin-incarnation",
+      "license": "Apache-2.0"
     },
     {
       "id": "avviare-nodo-ai",
       "name": "Incarnate Neutral Kernel Node",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "20",
@@ -1295,7 +1315,7 @@
       "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
       "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
       "presentation": "skills/incarnate-neutral-kernel-node/presentation.json",
-      "package": "dist/incarnate-neutral-kernel-node-0.3.0.zip",
+      "package": "dist/incarnate-neutral-kernel-node-0.3.1.zip",
       "it": {
         "title": "Avviare un assistente AI con identità e continuità proprie",
         "kind": "Metacompetenza di trasferimento",
@@ -1350,12 +1370,13 @@
           ]
         }
       },
-      "skill_name": "incarnate-neutral-kernel-node"
+      "skill_name": "incarnate-neutral-kernel-node",
+      "license": "Apache-2.0"
     },
     {
       "id": "coerenza-kernel-ai",
       "name": "Kernel Continuum Awareness",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "21",
@@ -1364,7 +1385,7 @@
       "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
       "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
       "presentation": "skills/kernel-continuum-awareness/presentation.json",
-      "package": "dist/kernel-continuum-awareness-0.3.0.zip",
+      "package": "dist/kernel-continuum-awareness-0.3.1.zip",
       "it": {
         "title": "Mantenere coerenti le capacità di un kernel AI",
         "kind": "Metacompetenza del kernel",
@@ -1413,12 +1434,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "kernel-continuum-awareness"
+      "skill_name": "kernel-continuum-awareness",
+      "license": "Apache-2.0"
     },
     {
       "id": "formare-kernel-esperienza",
       "name": "Proto Movimento",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "22",
@@ -1427,7 +1449,7 @@
       "starter": "skills/proto-movimento/START_CHAT_EN.txt",
       "examples": "skills/proto-movimento/EXAMPLES.md",
       "presentation": "skills/proto-movimento/presentation.json",
-      "package": "dist/proto-movimento-0.3.0.zip",
+      "package": "dist/proto-movimento-0.3.1.zip",
       "it": {
         "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
         "kind": "Competenza di formazione del kernel",
@@ -1476,12 +1498,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "proto-movimento"
+      "skill_name": "proto-movimento",
+      "license": "Apache-2.0"
     },
     {
       "id": "ka-kernel-assiomatico",
       "name": "KA — Kernel Assiomatico",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "23",
@@ -1490,7 +1513,7 @@
       "starter": "skills/operate-ka/START_CHAT_EN.txt",
       "examples": "skills/operate-ka/EXAMPLES.md",
       "presentation": "skills/operate-ka/presentation.json",
-      "package": "dist/operate-ka-0.3.0.zip",
+      "package": "dist/operate-ka-0.3.1.zip",
       "it": {
         "title": "KA — comprendere il lavoro oltre la prima interpretazione",
         "kind": "Kernel semantico fondativo",
@@ -1539,12 +1562,13 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "operate-ka"
+      "skill_name": "operate-ka",
+      "license": "Apache-2.0"
     },
     {
       "id": "fdla-correzione-ai",
       "name": "Operate FDLA",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "24",
@@ -1553,7 +1577,7 @@
       "starter": "skills/operate-fdla/START_CHAT_EN.txt",
       "examples": "skills/operate-fdla/EXAMPLES.md",
       "presentation": "skills/operate-fdla/presentation.json",
-      "package": "dist/operate-fdla-0.3.0.zip",
+      "package": "dist/operate-fdla-0.3.1.zip",
       "it": {
         "title": "FDLA — correggere le deviazioni introdotte dall’AI",
         "kind": "Funzione di correzione nel kernel",
@@ -1602,12 +1626,14 @@
           "runtime_sources": []
         }
       },
-      "skill_name": "operate-fdla"
+      "skill_name": "operate-fdla",
+      "license": "Apache-2.0"
     }
   ],
   "primary_language": "en",
   "available_languages": [
     "en",
     "it"
-  ]
+  ],
+  "license": "Apache-2.0"
 }

@@ -1,6 +1,6 @@
 # Creare e comporre competenze per un sistema AI
 
-**Versione 0.3.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Versione 0.3.1 · Istruzioni in italiano · Presentazione IT/EN.**
 
 Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.
 
@@ -64,3 +64,7 @@ La prima edizione rende disponibile il sapere operativo. L’uso in situazioni d
 ## Sapere operativo pratico
 
 [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) spiega decisioni, condizioni e mezzi che rendono utilizzabile il metodo. L'avvio include questo sapere; la cartella conserva anche le sorgenti leggibili direttamente.
+
+## Licenza
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.

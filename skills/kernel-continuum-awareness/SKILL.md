@@ -2,7 +2,7 @@
 name: kernel-continuum-awareness
 description: "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

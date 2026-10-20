@@ -2,7 +2,7 @@
 name: classify-content-with-taxonomic-titles-and-descriptions
 description: "Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

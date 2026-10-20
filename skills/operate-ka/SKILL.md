@@ -2,7 +2,7 @@
 name: operate-ka
 description: "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

@@ -52,7 +52,7 @@ In Codex puoi copiare questa intera cartella in .agents/skills/meta-activity nel
 - [Continuità e autogestione](references/continuita-e-autogestione.md): ripresa, adattamento e apprendimento.
 - [CONTINUITA_ATTIVITA.md](CONTINUITA_ATTIVITA.md): una traccia facoltativa da adattare.
 
-Versione 0.3.0 · Prima incarnazione pubblica · Conoscenza e istruzioni in italiano.
+Versione 0.3.1 · Prima incarnazione pubblica · Conoscenza e istruzioni in italiano.
 
 
 [English](README.md). Questa edizione offre il metodo completo in inglese come lingua principale; i file italiani ne conservano la traduzione.
@@ -61,3 +61,7 @@ Versione 0.3.0 · Prima incarnazione pubblica · Conoscenza e istruzioni in ital
 ## Sapere operativo pratico
 
 [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) spiega decisioni, condizioni e mezzi che rendono utilizzabile il metodo. L'avvio include questo sapere; la cartella conserva anche le sorgenti leggibili direttamente.
+
+## Licenza
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.

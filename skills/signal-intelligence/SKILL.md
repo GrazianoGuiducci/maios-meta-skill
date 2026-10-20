@@ -2,7 +2,7 @@
 name: signal-intelligence
 description: "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently."
 metadata:
-  version: 0.3.0
+  version: 0.3.1
   language: en
 ---
 

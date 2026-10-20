@@ -2,7 +2,7 @@
 
 **Bring a semantic kernel into an AI plugin**
 
-[Italiano](README_IT.md) · Public edition 0.3.0 · English operating method
+[Italiano](README_IT.md) · Public edition 0.3.1 · English operating method
 
 ## What it does
 
@@ -86,7 +86,7 @@ The public instructions remain provider-neutral so concrete integration choices 
 - [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
 - [EXAMPLES.md](EXAMPLES.md): English application examples.
 - [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
-- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+- [Common use guide](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/bf2c9fcb63b7d1df638e85b7feea20da443e661e/docs/USE.md) and [conceptual guide](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/bf2c9fcb63b7d1df638e85b7feea20da443e661e/docs/CONCEPTS.md).
 
 With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.
 
@@ -94,3 +94,7 @@ With files, make this whole folder readable and use the host’s supported entry
 ## Practical operating knowledge
 
 [OPERATING_GUIDE.md](OPERATING_GUIDE.md) explains the decisions, conditions and means that make this method usable. The starter includes this knowledge; the folder also retains its directly readable sources.
+
+## License
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). The downloaded kit includes LICENSE and NOTICE. Copyright 2026 Graziano Guiducci. Common repository guides are optional online references; the method and practical operating knowledge are included in this kit.

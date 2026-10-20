@@ -15,6 +15,8 @@ def build(selected=None, source_ref=None):
             return subprocess.check_output(['git','-C',str(ROOT),'show',source_ref+':'+path])
         return (ROOT/path).read_bytes()
     catalog = json.loads(read('catalog.json'))
+    root_files = set(subprocess.check_output(['git','-C',str(ROOT),'ls-tree','--name-only',source_ref],text=True).splitlines()) if source_ref else {p.name for p in ROOT.iterdir() if p.is_file()}
+    shared_files = sorted(root_files & {'LICENSE', 'NOTICE'})
     previous_path = ROOT / 'dist/manifest.json'
     previous = json.loads(previous_path.read_text(encoding='utf-8')) if previous_path.exists() else {'packages': []}
     known = {item['id']: item for item in previous['packages']}
@@ -34,23 +36,30 @@ def build(selected=None, source_ref=None):
         if source_ref:
             sources = sorted(subprocess.check_output(['git','-C',str(ROOT),'ls-tree','-r','--name-only',source_ref,'--',folder.relative_to(ROOT).as_posix()],text=True).splitlines())
         else:
-            sources = sorted(path.relative_to(ROOT).as_posix() for path in folder.rglob('*') if path.is_file())
+            sources = sorted(subprocess.check_output(['git','-C',str(ROOT),'ls-files','--cached','--others','--exclude-standard','--',folder.relative_to(ROOT).as_posix()],text=True).splitlines())
+        sources += shared_files
         files = {}
+        source_files = {}
         with ZipFile(destination, "w", compression=ZIP_DEFLATED) as archive:
             for source in sources:
-                name = resource["skill_name"] + "/" + Path(source).relative_to(folder.relative_to(ROOT)).as_posix()
+                relative = Path(source).name if source in shared_files else Path(source).relative_to(folder.relative_to(ROOT)).as_posix()
+                name = resource["skill_name"] + "/" + relative
+                if name in files:
+                    raise ValueError('Duplicate package member: ' + name)
                 content = read(source)
                 entry = ZipInfo(name, date_time=(2026, 10, 19, 0, 0, 0))
                 entry.compress_type = ZIP_DEFLATED
                 entry.external_attr = 0o644 << 16
                 archive.writestr(entry, content)
                 files[name] = hashlib.sha256(content).hexdigest()
+                source_files[name] = source
         packages.append({
             "id": resource["id"],
             "version": resource["version"],
             "package": resource["package"],
             "sha256": hashlib.sha256(destination.read_bytes()).hexdigest(),
             "files": files,
+            "source_files": source_files,
         })
     manifest = {"schema_version": 1, "packages": packages}
     (ROOT / "dist/manifest.json").write_text(
