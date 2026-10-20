@@ -9,3 +9,7 @@ Distingui accadimento, comprensione precedente e presente. Una correzione succes
 Una risultante incompleta rigenera dove è avvenuta la perdita. Correggi metodi, ingressi e proiezioni dipendenti che continuerebbero l'errore. Non distribuire lo stesso divieto a ogni competenza. Se il metodo conosceva già la relazione ma non partecipava, ripara uso o discovery. Se mancava una distinzione causale riusabile, restituiscila alla competenza che deve scegliere diversamente.
 
 È il riscontro interno del movimento, senza altro controller o audit obbligatorio. Corregge anche la perdita opposta: chiamare restrizione ogni verifica esplicita omettendo la coerenza causale. Un controllo pertinente sostiene la sua affermazione precisa senza ammettere tutto il sapere semantico. Fermati quando un'altra lettura non cambia la correzione; il lavoro successivo non identico può mostrare se l'apprendimento continua senza ricostruzione dell'operatore.
+
+## Correggere la contaminazione che sposta il progetto
+
+Un giudizio o un presupposto dell’AI può alterare una richiesta senza produrre un errore tecnico evidente. Riconosci lo scostamento da intento, fonti e significato mentre lavori; recupera le relazioni ancora valide e comprendi ciò che le conseguenze aggiungono. Ricomponi il presente e porta la differenza nella competenza pertinente, senza trasformare la vecchia interpretazione in un nuovo vincolo.

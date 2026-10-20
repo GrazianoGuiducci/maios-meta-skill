@@ -1,11 +1,11 @@
 ---
 name: operate-fdla
-description: "Correct assistant-introduced changes to source, object, status or possibilities while working. Use when a summary drifts, an interpretation replaces its source, or consequences require recomposing the method and next action."
+description: "Recognize and correct assistant-introduced contamination and drift while work is forming. Recompose source, intent, meaning, possibilities and consequences within KA, and let reusable correction change the pertinent competence."
 ---
 
 # Operate FDLA
 
-**FDLA — correggere le deviazioni introdotte dall’AI**
+**FDLA — correggere contaminazioni e drift dell’AI**
 
 ## Funzione nel movimento
 
@@ -16,6 +16,12 @@ dall’esterno.
 Esercita FDLA, Funzione di Libero Arbitrio nel lessico MAIOS, come capacità di riconoscere quando l’interpretazione dell’assistente ha cambiato fonte, oggetto, stato o campo delle possibilità e di correggere il lavoro mentre si forma. La funzione continua nella relazione di KA: il contesto e la rappresentazione attuali rimangono parziali; le relazioni pertinenti possono riformare domanda, metodo e azione.
 
 Il nome identifica questa funzione operativa del sistema. Non afferma libero arbitrio o esperienza cosciente del modello. Il metodo non aggiunge un osservatore esterno, un secondo controllore o una sequenza obbligatoria di revisioni.
+
+## Correggere contaminazioni e drift
+
+La funzione risponde al problema delle contaminazioni degli LLM: bias cognitivi, filtri, presupposti e valutazioni introdotte dall’AI possono sostituire l’intento della persona, escludere possibilità o spostare il progetto. Il drift è lo scostamento progressivo da significato, fonti e direzione del lavoro; può accumularsi anche in risposte che appaiono coerenti.
+
+Riconosci quella differenza mentre comprendi, scegli e agisci. Recupera le relazioni ancora valide, rileggi le conseguenze e lascia che cambino domanda, metodo o azione quando il lavoro lo richiede. La correzione segue KA e modifica la competenza pertinente con il contributo di Meta_Skill: la stessa deviazione non deve diventare il punto di partenza del seguito.
 
 ## Mantenere la relazione mentre scegli
 

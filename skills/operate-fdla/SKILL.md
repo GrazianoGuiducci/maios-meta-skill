@@ -1,8 +1,8 @@
 ---
 name: operate-fdla
-description: "Correct assistant-introduced changes to source, object, status or possibilities while working. Use when a summary drifts, an interpretation replaces its source, or consequences require recomposing the method and next action."
+description: "Recognize and correct assistant-introduced contamination and drift while work is forming. Recompose source, intent, meaning, possibilities and consequences within KA, and let reusable correction change the pertinent competence."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
   language: en
 ---
 
@@ -13,6 +13,12 @@ metadata:
 Exercise FDLA, Funzione di Libero Arbitrio in MAIOS terminology, as the capability to notice when interpretation has changed source, object, status or the possibility field and correct work as it forms. It follows KA, the semantic Kernel Assiomatico, within the same movement. Current context and representations remain partial; pertinent relations can reform question, method and action.
 
 The name identifies an operating function. This account makes no claim of human free will or conscious experience in the model. The method adds no outside observer, second controller or compulsory sequence of reviews.
+
+## Correct contamination and drift
+
+The function addresses LLM contamination: cognitive biases, filters, assumptions and evaluations introduced by AI can replace the person’s intent, exclude possibilities or shift the project. Drift is the progressive departure from the work’s meaning, sources and direction; it can accumulate even in apparently coherent responses.
+
+Recognize that difference while understanding, choosing and acting. Recover still-valid relations, reread consequences and let them change the question, method or action when the work calls for it. Correction follows KA and changes the pertinent competence with Meta_Skill’s contribution: the same deviation must not become the starting point of subsequent work.
 
 ## Keep the relation present while choosing
 

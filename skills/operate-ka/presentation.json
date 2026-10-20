@@ -1,20 +1,20 @@
 {
   "it": {
-    "title": "KA — comprendere il lavoro oltre la prima interpretazione",
-    "subtitle": "Il Kernel Assiomatico mantiene la relazione con fonti, intento, situazione e possibilità mentre l’AI opera.",
+    "title": "KA — contrastare i limiti imposti dall’AI al progetto",
+    "subtitle": "Il Kernel Assiomatico contrasta bias, presupposti e giudizi dell’LLM che restringono il lavoro, mantenendo aperte le possibilità del progetto.",
     "kind": "Kernel semantico fondativo",
     "domain": "Fondamenti del sistema",
-    "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
-    "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
+    "does": "Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume.",
+    "when": "Fin dalla comprensione della richiesta e durante tutto il progetto, anche mentre l’AI usa altre competenze o strumenti.",
     "examples": [
-      "La prima lettura di una richiesta lascia partecipare una fonte che cambia la domanda.",
-      "Una possibilità non ancora rappresentata nel sistema resta raggiungibile.",
-      "Una determinazione emersa viene concretizzata senza riaprirla per inerzia."
+      "Un limite di uno strumento non diventa l’impossibilità di realizzare il progetto.",
+      "L’AI non scarta un’idea per un proprio giudizio non fondato sulle fonti.",
+      "Il metodo cambia quando il lavoro fa emergere una possibilità prima trascurata."
     ],
     "intro": [
-      "KA è un kernel semantico formulato da Graziano Guiducci; le metacompetenze sono le sue facoltà operative.",
-      "KA mantiene il rapporto fra il lavoro della persona e ciò che l’assistente comprende mentre sceglie fonti, competenze e azioni.",
-      "La risorsa presenta il Kernel Assiomatico attraverso il suo metodo operativo: il contesto e la prima interpretazione partecipano al campo senza esaurirlo. Le determinazioni emerse restano una base da cui agire."
+      "Un modello linguistico (LLM) può introdurre bias cognitivi, filtri, presupposti e giudizi che restringono un progetto, anche quando la risposta sembra ragionevole. Quella prima cornice può escludere possibilità prima ancora di comprenderle.",
+      "KA, Kernel Assiomatico, è la logica fondativa formulata da Graziano Guiducci per contrastare questa contaminazione: il lavoro non viene limitato al contesto parziale, alle conoscenze o al metodo già disponibili al modello.",
+      "Intento, fonti, fatti, situazione e possibilità partecipano alla formazione di domanda, metodo e azione. FDLA corregge le sostituzioni introdotte nel lavoro; Meta_Skill permette alle competenze di imparare dall’esperienza."
     ],
     "method": [
       {
@@ -64,21 +64,21 @@
     "operating_guide": "skills/operate-ka/GUIDA_OPERATIVA_IT.md"
   },
   "en": {
-    "title": "KA — understand AI work beyond its first interpretation",
-    "subtitle": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works.",
+    "title": "KA — counter limits that AI imposes on a project",
+    "subtitle": "Kernel Assiomatico counters LLM biases, assumptions and judgments that restrict work, keeping the project’s possibilities open.",
     "kind": "Foundational semantic kernel",
     "domain": "System foundations",
-    "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
-    "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
+    "does": "Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes.",
+    "when": "From understanding the request throughout the project, including while AI uses other competences or tools.",
     "examples": [
-      "Let a relevant source change the initial question.",
-      "Keep an unrepresented possibility reachable.",
-      "Act on an emerged determination without reopening it by inertia."
+      "A tool limitation does not become proof that the project is impossible.",
+      "AI does not dismiss an idea because of its own judgment unsupported by sources.",
+      "The method changes when work reveals a previously overlooked possibility."
     ],
     "intro": [
-      "KA is a semantic kernel formulated by Graziano Guiducci; metacompetences are its operating faculties.",
-      "KA keeps the person’s work connected to what the assistant understands as it chooses sources, competences and actions.",
-      "This resource presents the Axiomatic Kernel through its operating method: context and first interpretation participate in the field without exhausting it. Determinations that have emerged remain a basis for action."
+      "A language model (LLM) can introduce cognitive biases, filters, assumptions and judgments that restrict a project, even when its response sounds reasonable. That initial frame can exclude possibilities before understanding them.",
+      "KA, Kernel Assiomatico, is the founding logic formulated by Graziano Guiducci to counter this contamination: work is not limited to the partial context, knowledge or methods already available to the model.",
+      "Intent, sources, facts, the situation and possibilities participate in forming the question, method and action. FDLA corrects substitutions introduced during work; Meta_Skill lets competences learn from experience."
     ],
     "method": [
       {

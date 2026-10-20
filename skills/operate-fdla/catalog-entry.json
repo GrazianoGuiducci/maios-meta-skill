@@ -1,7 +1,7 @@
 {
   "id": "fdla-correzione-ai",
   "name": "Operate FDLA",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "24",
@@ -10,34 +10,34 @@
   "starter": "skills/operate-fdla/START_CHAT_EN.txt",
   "examples": "skills/operate-fdla/EXAMPLES.md",
   "presentation": "skills/operate-fdla/presentation.json",
-  "package": "dist/operate-fdla-0.3.2.zip",
+  "package": "dist/operate-fdla-0.3.3.zip",
   "it": {
-    "title": "FDLA — correggere le deviazioni introdotte dall’AI",
+    "title": "FDLA — correggere contaminazioni e drift dell’AI",
     "kind": "Funzione di correzione nel kernel",
     "domain": "Fondamenti del sistema",
-    "does": "Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.",
-    "when": "Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.",
+    "does": "Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile.",
+    "when": "Insieme a KA, mentre l’AI comprende, decide e agisce: la correzione avviene nel lavoro e raggiunge il metodo che deve cambiare.",
     "examples": [
-      "Una riscrittura viene corretta perché ha cambiato il concetto dell’autore.",
-      "Un test tecnico riuscito resta distinto dal risultato richiesto.",
-      "Una nuova conseguenza cambia il metodo senza cancellare ciò che è avvenuto prima."
+      "Una sintesi sta cambiando l’obiettivo del progetto: la deviazione viene riconosciuta e corretta.",
+      "Una riscrittura che sostituisce il concetto dell’autore con il punto di vista dell’AI viene corretta dalla fonte.",
+      "Un presupposto esclude una possibilità utile: domanda e metodo vengono ricomposti dalle fonti e dalle conseguenze."
     ],
     "route": "/risorse/fdla-correzione-ai/",
-    "description": "Riconosce quando l’interpretazione dell’assistente cambia fonte, oggetto o possibilità e ricompone il movimento."
+    "description": "FDLA corregge contaminazioni e drift introdotti dall’AI mentre il lavoro si forma, preservando il rapporto con intento, fonti e significato."
   },
   "en": {
-    "title": "FDLA — correct deviations introduced by an AI assistant",
+    "title": "FDLA — correct AI contamination and drift",
     "kind": "In-flow kernel correction function",
     "domain": "System foundations",
-    "does": "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.",
-    "when": "Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.",
+    "does": "Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable.",
+    "when": "Alongside KA, while AI understands, decides and acts: correction takes place within the work and reaches the method that needs to change.",
     "examples": [
-      "Correct a rewrite that changed the author’s concept.",
-      "Keep a passing technical test distinct from the requested result.",
-      "Let a consequence change the method without erasing the earlier event."
+      "A summary is changing the project’s objective: the deviation is recognized and corrected.",
+      "A rewrite that replaces the author’s concept with AI’s viewpoint is corrected from the source.",
+      "An assumption excludes a useful possibility: the question and method are recomposed from sources and consequences."
     ],
     "route": "/resources/fdla-correzione-ai/",
-    "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
+    "description": "FDLA corrects AI-introduced contamination and drift while work is forming, keeping intent, sources and meaning connected."
   },
   "native_entry": "operate-fdla",
   "default_language": "en",

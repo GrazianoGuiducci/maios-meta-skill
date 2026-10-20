@@ -1,12 +1,12 @@
-# KA — comprendere il lavoro oltre la prima interpretazione
+# KA — contrastare i limiti imposti dall’AI al progetto
 
-**Versione 0.3.1 · Istruzioni in italiano · Presentazione IT/EN.**
+**Versione 0.3.3 · Istruzioni in italiano · Presentazione IT/EN.**
 
-Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.
+Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume.
 
 ## Quando usarla
 
-Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.
+Fin dalla comprensione della richiesta e durante tutto il progetto, anche mentre l’AI usa altre competenze o strumenti.
 
 ## Primo incarico
 

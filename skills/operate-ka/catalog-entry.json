@@ -1,7 +1,7 @@
 {
   "id": "ka-kernel-assiomatico",
   "name": "KA — Kernel Assiomatico",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "23",
@@ -10,34 +10,34 @@
   "starter": "skills/operate-ka/START_CHAT_EN.txt",
   "examples": "skills/operate-ka/EXAMPLES.md",
   "presentation": "skills/operate-ka/presentation.json",
-  "package": "dist/operate-ka-0.3.2.zip",
+  "package": "dist/operate-ka-0.3.3.zip",
   "it": {
-    "title": "KA — comprendere il lavoro oltre la prima interpretazione",
+    "title": "KA — contrastare i limiti imposti dall’AI al progetto",
     "kind": "Kernel semantico fondativo",
     "domain": "Fondamenti del sistema",
-    "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
-    "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
+    "does": "Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume.",
+    "when": "Fin dalla comprensione della richiesta e durante tutto il progetto, anche mentre l’AI usa altre competenze o strumenti.",
     "examples": [
-      "La prima lettura di una richiesta lascia partecipare una fonte che cambia la domanda.",
-      "Una possibilità non ancora rappresentata nel sistema resta raggiungibile.",
-      "Una determinazione emersa viene concretizzata senza riaprirla per inerzia."
+      "Un limite di uno strumento non diventa l’impossibilità di realizzare il progetto.",
+      "L’AI non scarta un’idea per un proprio giudizio non fondato sulle fonti.",
+      "Il metodo cambia quando il lavoro fa emergere una possibilità prima trascurata."
     ],
     "route": "/risorse/ka-kernel-assiomatico/",
-    "description": "Il Kernel Assiomatico mantiene la relazione con fonti, intento, situazione e possibilità mentre l’AI opera."
+    "description": "Il Kernel Assiomatico contrasta bias, presupposti e giudizi dell’LLM che restringono il lavoro, mantenendo aperte le possibilità del progetto."
   },
   "en": {
-    "title": "KA — understand AI work beyond its first interpretation",
+    "title": "KA — counter limits that AI imposes on a project",
     "kind": "Foundational semantic kernel",
     "domain": "System foundations",
-    "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
-    "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
+    "does": "Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes.",
+    "when": "From understanding the request throughout the project, including while AI uses other competences or tools.",
     "examples": [
-      "Let a relevant source change the initial question.",
-      "Keep an unrepresented possibility reachable.",
-      "Act on an emerged determination without reopening it by inertia."
+      "A tool limitation does not become proof that the project is impossible.",
+      "AI does not dismiss an idea because of its own judgment unsupported by sources.",
+      "The method changes when work reveals a previously overlooked possibility."
     ],
     "route": "/resources/ka-kernel-assiomatico/",
-    "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
+    "description": "Kernel Assiomatico counters LLM biases, assumptions and judgments that restrict work, keeping the project’s possibilities open."
   },
   "native_entry": "operate-ka",
   "default_language": "en",

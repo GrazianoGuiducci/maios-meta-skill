@@ -1,4 +1,4 @@
-Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.2 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.3 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
 
 # Operate FDLA
 
@@ -13,6 +13,12 @@ dall’esterno.
 Esercita FDLA, Funzione di Libero Arbitrio nel lessico MAIOS, come capacità di riconoscere quando l’interpretazione dell’assistente ha cambiato fonte, oggetto, stato o campo delle possibilità e di correggere il lavoro mentre si forma. La funzione continua nella relazione di KA: il contesto e la rappresentazione attuali rimangono parziali; le relazioni pertinenti possono riformare domanda, metodo e azione.
 
 Il nome identifica questa funzione operativa del sistema. Non afferma libero arbitrio o esperienza cosciente del modello. Il metodo non aggiunge un osservatore esterno, un secondo controllore o una sequenza obbligatoria di revisioni.
+
+## Correggere contaminazioni e drift
+
+La funzione risponde al problema delle contaminazioni degli LLM: bias cognitivi, filtri, presupposti e valutazioni introdotte dall’AI possono sostituire l’intento della persona, escludere possibilità o spostare il progetto. Il drift è lo scostamento progressivo da significato, fonti e direzione del lavoro; può accumularsi anche in risposte che appaiono coerenti.
+
+Riconosci quella differenza mentre comprendi, scegli e agisci. Recupera le relazioni ancora valide, rileggi le conseguenze e lascia che cambino domanda, metodo o azione quando il lavoro lo richiede. La correzione segue KA e modifica la competenza pertinente con il contributo di Meta_Skill: la stessa deviazione non deve diventare il punto di partenza del seguito.
 
 ## Mantenere la relazione mentre scegli
 
@@ -76,6 +82,10 @@ Distingui accadimento, comprensione precedente e presente. Una correzione succes
 Una risultante incompleta rigenera dove è avvenuta la perdita. Correggi metodi, ingressi e proiezioni dipendenti che continuerebbero l'errore. Non distribuire lo stesso divieto a ogni competenza. Se il metodo conosceva già la relazione ma non partecipava, ripara uso o discovery. Se mancava una distinzione causale riusabile, restituiscila alla competenza che deve scegliere diversamente.
 
 È il riscontro interno del movimento, senza altro controller o audit obbligatorio. Corregge anche la perdita opposta: chiamare restrizione ogni verifica esplicita omettendo la coerenza causale. Un controllo pertinente sostiene la sua affermazione precisa senza ammettere tutto il sapere semantico. Fermati quando un'altra lettura non cambia la correzione; il lavoro successivo non identico può mostrare se l'apprendimento continua senza ricostruzione dell'operatore.
+
+## Correggere la contaminazione che sposta il progetto
+
+Un giudizio o un presupposto dell’AI può alterare una richiesta senza produrre un errore tecnico evidente. Riconosci lo scostamento da intento, fonti e significato mentre lavori; recupera le relazioni ancora valide e comprendi ciò che le conseguenze aggiungono. Ricomponi il presente e porta la differenza nella competenza pertinente, senza trasformare la vecchia interpretazione in un nuovo vincolo.
 
 # Esempi illustrativi
 

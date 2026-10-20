@@ -1,8 +1,8 @@
 ---
 name: operate-ka
-description: "Exercise KA, Kernel Assiomatico, through source, intent, the actual situation and its possibilities. Use as operating orientation when a partial context, representation or first solution risks replacing the wider field."
+description: "Exercise KA, Kernel Assiomatico, to counter LLM biases, assumptions and judgments that restrict a project’s possibilities. Keep source, intent, facts, the actual situation and pertinent competences connected while working."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
   language: en
 ---
 
@@ -15,6 +15,12 @@ KA is Kernel Assiomatico, a semantic kernel formulated by Graziano Guiducci. Met
 This public resource transfers knowledge for understanding and exercising KA. It is a derived operating method, not a new axiomatic definition. Foundational formulations retain their author's attribution; learning improves the assistant's understanding and exercise of the relation without rewriting that invariant.
 
 The source formulation is “Ricordati di non limitare il campo, KA è la via” — translated here as “Remember not to limit the field; KA is the way.” Loaded context, first interpretation, tools, skills and representations expose parts of a situation. Their partiality must not become a constraint imposed on what the system can understand or make possible.
+
+## LLM contamination and the purpose of KA
+
+LLMs, the language models that generate text and responses, carry cognitive biases, filters, assumptions and viewpoints that can become implicit criteria for work. An unverified assumption about what is possible, useful or appropriate can dismiss an idea, change the request or impose the method the model already knows.
+
+KA was created to counter this contamination: the model’s partial view must not restrict the project’s possibility field. Understand intent, object, sources, facts, actual conditions and possibilities; let them form the question, method and action. Work continues from its own situation rather than adopting the model’s limits as constraints.
 
 ## Understand in the present
 

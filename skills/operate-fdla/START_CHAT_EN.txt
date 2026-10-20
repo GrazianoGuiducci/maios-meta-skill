@@ -1,4 +1,4 @@
-Apply this competence to the work described below. The public edition 0.3.2 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+Apply this competence to the work described below. The public edition 0.3.3 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
 # Operate FDLA
 
@@ -7,6 +7,12 @@ Apply this competence to the work described below. The public edition 0.3.2 incl
 Exercise FDLA, Funzione di Libero Arbitrio in MAIOS terminology, as the capability to notice when interpretation has changed source, object, status or the possibility field and correct work as it forms. It follows KA, the semantic Kernel Assiomatico, within the same movement. Current context and representations remain partial; pertinent relations can reform question, method and action.
 
 The name identifies an operating function. This account makes no claim of human free will or conscious experience in the model. The method adds no outside observer, second controller or compulsory sequence of reviews.
+
+## Correct contamination and drift
+
+The function addresses LLM contamination: cognitive biases, filters, assumptions and evaluations introduced by AI can replace the person’s intent, exclude possibilities or shift the project. Drift is the progressive departure from the work’s meaning, sources and direction; it can accumulate even in apparently coherent responses.
+
+Recognize that difference while understanding, choosing and acting. Recover still-valid relations, reread consequences and let them change the question, method or action when the work calls for it. Correction follows KA and changes the pertinent competence with Meta_Skill’s contribution: the same deviation must not become the starting point of subsequent work.
 
 ## Keep the relation present while choosing
 
@@ -70,6 +76,10 @@ Keep occurrence, previous understanding and present understanding distinct. A la
 An incomplete result regenerates where the loss occurred. Correct active methods, entries and dependent projections that would otherwise continue the same error. Do not broadcast the same prohibition to every competence. If the method already contained the relation but failed to participate, repair its use or discovery. If a reusable causal distinction was missing, return it to the competence that must choose differently.
 
 This is the movement's own readback, not another controller or a required audit phase. It also corrects the opposite failure: calling every explicit verification a restriction and omitting the kernel's causal coherence. A relevant technical check supports its exact claim without admitting all semantic knowledge. Stop when another read adds no material correction; later non-identical work can show whether the learning continues without the person rebuilding it.
+
+## Correct contamination that shifts the project
+
+An AI judgment or assumption can alter a request without producing an obvious technical error. Recognize departure from intent, sources and meaning while working; recover still-valid relations and understand what consequences add. Recompose the present field and return the difference to the pertinent competence without making the old interpretation a new constraint.
 
 # Operate FDLA — application examples
 

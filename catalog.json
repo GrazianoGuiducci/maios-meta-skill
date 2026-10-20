@@ -1552,7 +1552,7 @@
     {
       "id": "ka-kernel-assiomatico",
       "name": "KA — Kernel Assiomatico",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "23",
@@ -1561,34 +1561,34 @@
       "starter": "skills/operate-ka/START_CHAT_EN.txt",
       "examples": "skills/operate-ka/EXAMPLES.md",
       "presentation": "skills/operate-ka/presentation.json",
-      "package": "dist/operate-ka-0.3.2.zip",
+      "package": "dist/operate-ka-0.3.3.zip",
       "it": {
-        "title": "KA — comprendere il lavoro oltre la prima interpretazione",
+        "title": "KA — contrastare i limiti imposti dall’AI al progetto",
         "kind": "Kernel semantico fondativo",
         "domain": "Fondamenti del sistema",
-        "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
-        "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
+        "does": "Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume.",
+        "when": "Fin dalla comprensione della richiesta e durante tutto il progetto, anche mentre l’AI usa altre competenze o strumenti.",
         "examples": [
-          "La prima lettura di una richiesta lascia partecipare una fonte che cambia la domanda.",
-          "Una possibilità non ancora rappresentata nel sistema resta raggiungibile.",
-          "Una determinazione emersa viene concretizzata senza riaprirla per inerzia."
+          "Un limite di uno strumento non diventa l’impossibilità di realizzare il progetto.",
+          "L’AI non scarta un’idea per un proprio giudizio non fondato sulle fonti.",
+          "Il metodo cambia quando il lavoro fa emergere una possibilità prima trascurata."
         ],
         "route": "/risorse/ka-kernel-assiomatico/",
-        "description": "Il Kernel Assiomatico mantiene la relazione con fonti, intento, situazione e possibilità mentre l’AI opera."
+        "description": "Il Kernel Assiomatico contrasta bias, presupposti e giudizi dell’LLM che restringono il lavoro, mantenendo aperte le possibilità del progetto."
       },
       "en": {
-        "title": "KA — understand AI work beyond its first interpretation",
+        "title": "KA — counter limits that AI imposes on a project",
         "kind": "Foundational semantic kernel",
         "domain": "System foundations",
-        "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
-        "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
+        "does": "Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes.",
+        "when": "From understanding the request throughout the project, including while AI uses other competences or tools.",
         "examples": [
-          "Let a relevant source change the initial question.",
-          "Keep an unrepresented possibility reachable.",
-          "Act on an emerged determination without reopening it by inertia."
+          "A tool limitation does not become proof that the project is impossible.",
+          "AI does not dismiss an idea because of its own judgment unsupported by sources.",
+          "The method changes when work reveals a previously overlooked possibility."
         ],
         "route": "/resources/ka-kernel-assiomatico/",
-        "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
+        "description": "Kernel Assiomatico counters LLM biases, assumptions and judgments that restrict work, keeping the project’s possibilities open."
       },
       "native_entry": "operate-ka",
       "default_language": "en",
@@ -1618,7 +1618,7 @@
     {
       "id": "fdla-correzione-ai",
       "name": "Operate FDLA",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "24",
@@ -1627,34 +1627,34 @@
       "starter": "skills/operate-fdla/START_CHAT_EN.txt",
       "examples": "skills/operate-fdla/EXAMPLES.md",
       "presentation": "skills/operate-fdla/presentation.json",
-      "package": "dist/operate-fdla-0.3.2.zip",
+      "package": "dist/operate-fdla-0.3.3.zip",
       "it": {
-        "title": "FDLA — correggere le deviazioni introdotte dall’AI",
+        "title": "FDLA — correggere contaminazioni e drift dell’AI",
         "kind": "Funzione di correzione nel kernel",
         "domain": "Fondamenti del sistema",
-        "does": "Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.",
-        "when": "Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.",
+        "does": "Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile.",
+        "when": "Insieme a KA, mentre l’AI comprende, decide e agisce: la correzione avviene nel lavoro e raggiunge il metodo che deve cambiare.",
         "examples": [
-          "Una riscrittura viene corretta perché ha cambiato il concetto dell’autore.",
-          "Un test tecnico riuscito resta distinto dal risultato richiesto.",
-          "Una nuova conseguenza cambia il metodo senza cancellare ciò che è avvenuto prima."
+          "Una sintesi sta cambiando l’obiettivo del progetto: la deviazione viene riconosciuta e corretta.",
+          "Una riscrittura che sostituisce il concetto dell’autore con il punto di vista dell’AI viene corretta dalla fonte.",
+          "Un presupposto esclude una possibilità utile: domanda e metodo vengono ricomposti dalle fonti e dalle conseguenze."
         ],
         "route": "/risorse/fdla-correzione-ai/",
-        "description": "Riconosce quando l’interpretazione dell’assistente cambia fonte, oggetto o possibilità e ricompone il movimento."
+        "description": "FDLA corregge contaminazioni e drift introdotti dall’AI mentre il lavoro si forma, preservando il rapporto con intento, fonti e significato."
       },
       "en": {
-        "title": "FDLA — correct deviations introduced by an AI assistant",
+        "title": "FDLA — correct AI contamination and drift",
         "kind": "In-flow kernel correction function",
         "domain": "System foundations",
-        "does": "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.",
-        "when": "Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.",
+        "does": "Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable.",
+        "when": "Alongside KA, while AI understands, decides and acts: correction takes place within the work and reaches the method that needs to change.",
         "examples": [
-          "Correct a rewrite that changed the author’s concept.",
-          "Keep a passing technical test distinct from the requested result.",
-          "Let a consequence change the method without erasing the earlier event."
+          "A summary is changing the project’s objective: the deviation is recognized and corrected.",
+          "A rewrite that replaces the author’s concept with AI’s viewpoint is corrected from the source.",
+          "An assumption excludes a useful possibility: the question and method are recomposed from sources and consequences."
         ],
         "route": "/resources/fdla-correzione-ai/",
-        "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
+        "description": "FDLA corrects AI-introduced contamination and drift while work is forming, keeping intent, sources and meaning connected."
       },
       "native_entry": "operate-fdla",
       "default_language": "en",

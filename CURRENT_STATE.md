@@ -1,3 +1,11 @@
+# KA and FDLA: purpose clarification — 0.3.3
+
+The operator’s 20 October review restores the reason these system functions were created: counter LLM contamination through biases, filters, assumptions and judgments, prevent imposed limits from closing a project’s possibilities, and correct drift while work forms. KA keeps the founding relation; FDLA makes causal correction operative within it. The native axioms are unchanged.
+
+Only operate-ka and operate-fdla receive this explanatory patch: catalogue, bilingual pages, operating introductions, guides and complete starters stay connected to the same purpose. Their packages move to 0.3.3; the other 23 resources retain their current versions and bytes. Earlier downloadable editions remain available. Unrelated Meta-Activity working changes are excluded from this release. Website and assistant publication keep their own identities and effects.
+
+## Previous delivery
+
 # Resource-formation patch 0.3.3
 
 Form Public Meta-Skill Resources now distinguishes the canonical entry, attributed source title, public display name and localized functional title in both languages and in its complete starters. This patch changes that one kit; the other 24 operating kits retain version 0.3.2.

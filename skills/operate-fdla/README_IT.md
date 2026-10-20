@@ -1,12 +1,12 @@
-# FDLA — correggere le deviazioni introdotte dall’AI
+# FDLA — correggere contaminazioni e drift dell’AI
 
-**Versione 0.3.1 · Istruzioni in italiano · Presentazione IT/EN.**
+**Versione 0.3.3 · Istruzioni in italiano · Presentazione IT/EN.**
 
-Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.
+Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile.
 
 ## Quando usarla
 
-Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.
+Insieme a KA, mentre l’AI comprende, decide e agisce: la correzione avviene nel lavoro e raggiunge il metodo che deve cambiare.
 
 ## Primo incarico
 

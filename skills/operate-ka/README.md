@@ -1,16 +1,16 @@
 # KA — Kernel Assiomatico
 
-**KA — understand AI work beyond its first interpretation**
+**KA — counter limits that AI imposes on a project**
 
-[Italiano](README_IT.md) · Public edition 0.3.1 · English operating method
+[Italiano](README_IT.md) · Public edition 0.3.3 · English operating method
 
 ## What it does
 
-Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.
+Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes.
 
 ## When to use it
 
-As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.
+From understanding the request throughout the project, including while AI uses other competences or tools.
 
 KA is a semantic kernel formulated by Graziano Guiducci; metacompetences are its operating faculties.
 KA keeps the person’s work connected to what the assistant understands as it chooses sources, competences and actions.

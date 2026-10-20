@@ -47,8 +47,8 @@ La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza u
 | [Incarnate Neutral Kernel Node](skills/incarnate-neutral-kernel-node/README_IT.md) | Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà. | Metacompetenza di trasferimento |
 | [Kernel Continuum Awareness](skills/kernel-continuum-awareness/README_IT.md) | Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti. | Metacompetenza del kernel |
 | [Proto Movimento](skills/proto-movimento/README_IT.md) | Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma. | Competenza di formazione del kernel |
-| [KA — Kernel Assiomatico](skills/operate-ka/README_IT.md) | Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo. | Kernel semantico fondativo |
-| [Operate FDLA](skills/operate-fdla/README_IT.md) | Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma. | Funzione di correzione nel kernel |
+| [KA — Kernel Assiomatico](skills/operate-ka/README_IT.md) | Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume. | Kernel semantico fondativo |
+| [Operate FDLA](skills/operate-fdla/README_IT.md) | Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile. | Funzione di correzione nel kernel |
 
 ## Comporre le capacità
 

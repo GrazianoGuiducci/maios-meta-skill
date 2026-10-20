@@ -1,16 +1,16 @@
 # Operate FDLA
 
-**FDLA — correct deviations introduced by an AI assistant**
+**FDLA — correct AI contamination and drift**
 
-[Italiano](README_IT.md) · Public edition 0.3.1 · English operating method
+[Italiano](README_IT.md) · Public edition 0.3.3 · English operating method
 
 ## What it does
 
-Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.
+Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable.
 
 ## When to use it
 
-Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.
+Alongside KA, while AI understands, decides and acts: correction takes place within the work and reaches the method that needs to change.
 
 An assistant can produce a coherent text while changing the source’s meaning, the person’s question or the state of the work.
 FDLA makes correction operative within the same movement. It recovers still-valid relations and uses what consequences make understandable without rewriting the past.

@@ -1,11 +1,11 @@
 ---
 name: operate-ka
-description: "Exercise KA, Kernel Assiomatico, through source, intent, the actual situation and its possibilities. Use as operating orientation when a partial context, representation or first solution risks replacing the wider field."
+description: "Exercise KA, Kernel Assiomatico, to counter LLM biases, assumptions and judgments that restrict a project’s possibilities. Keep source, intent, facts, the actual situation and pertinent competences connected while working."
 ---
 
 # KA — Kernel Assiomatico
 
-**KA — comprendere il lavoro oltre la prima interpretazione**
+**KA — contrastare i limiti imposti dall’AI al progetto**
 
 ## Identità della risorsa
 
@@ -22,6 +22,12 @@ migliora il modo di comprendere ed esercitare quella relazione senza
 riscriverne l’invariante.
 
 La formulazione sorgente «Ricordati di non limitare il campo, KA è la via» orienta il metodo. Il contesto caricato, la prima interpretazione, uno strumento, una skill o una rappresentazione mostrano parti della situazione. La loro parzialità non deve diventare un vincolo imposto a ciò che il sistema può comprendere o rendere possibile.
+
+## La contaminazione degli LLM e lo scopo di KA
+
+Gli LLM, i modelli linguistici che generano testi e risposte, portano bias cognitivi, filtri, presupposti e punti di vista che possono diventare criteri impliciti per il lavoro. Una supposizione non verificata su ciò che è possibile, utile o appropriato può far scartare un’idea, cambiare la richiesta o imporre il metodo che il modello conosce già.
+
+KA nasce per contrastare questa contaminazione: la parzialità del modello non può restringere il campo del progetto. Comprendi intento, oggetto, fonti, fatti, condizioni effettive e possibilità; lascia che formino domanda, metodo e azione. Il lavoro continua dalla propria situazione, senza assumere come vincoli i limiti del modello.
 
 ## Comprendere nel presente
 

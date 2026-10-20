@@ -1,20 +1,20 @@
 {
   "it": {
-    "title": "FDLA — correggere le deviazioni introdotte dall’AI",
-    "subtitle": "Riconosce quando l’interpretazione dell’assistente cambia fonte, oggetto o possibilità e ricompone il movimento.",
+    "title": "FDLA — correggere contaminazioni e drift dell’AI",
+    "subtitle": "FDLA corregge contaminazioni e drift introdotti dall’AI mentre il lavoro si forma, preservando il rapporto con intento, fonti e significato.",
     "kind": "Funzione di correzione nel kernel",
     "domain": "Fondamenti del sistema",
-    "does": "Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.",
-    "when": "Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.",
+    "does": "Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile.",
+    "when": "Insieme a KA, mentre l’AI comprende, decide e agisce: la correzione avviene nel lavoro e raggiunge il metodo che deve cambiare.",
     "examples": [
-      "Una riscrittura viene corretta perché ha cambiato il concetto dell’autore.",
-      "Un test tecnico riuscito resta distinto dal risultato richiesto.",
-      "Una nuova conseguenza cambia il metodo senza cancellare ciò che è avvenuto prima."
+      "Una sintesi sta cambiando l’obiettivo del progetto: la deviazione viene riconosciuta e corretta.",
+      "Una riscrittura che sostituisce il concetto dell’autore con il punto di vista dell’AI viene corretta dalla fonte.",
+      "Un presupposto esclude una possibilità utile: domanda e metodo vengono ricomposti dalle fonti e dalle conseguenze."
     ],
     "intro": [
-      "Un assistente può produrre un testo coerente e avere nel frattempo cambiato il significato della fonte, la domanda della persona o lo stato del lavoro.",
-      "FDLA rende operativa la correzione nel medesimo movimento. Recupera le relazioni ancora valide e usa ciò che le conseguenze permettono di comprendere, senza riscrivere il passato.",
-      "FDLA segue KA, Kernel Assiomatico semantico, nello stesso movimento; la correzione opera dall’interno del lavoro."
+      "Bias cognitivi, filtri, presupposti e giudizi degli LLM possono contaminare un progetto: una sintesi cambia l’obiettivo, una valutazione estranea fa sparire una possibilità o un’interpretazione sostituisce la fonte.",
+      "FDLA, Funzione di Libero Arbitrio nel lessico MAIOS, riconosce e corregge queste trasformazioni mentre il lavoro prende forma. Contrasta il drift: lo scostamento progressivo da intento, fonti e significato.",
+      "Segue KA nello stesso movimento. Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per riformare domanda, metodo e azione. Una correzione riusabile raggiunge la competenza che deve operare diversamente."
     ],
     "method": [
       {
@@ -63,21 +63,21 @@
     "operating_guide": "skills/operate-fdla/GUIDA_OPERATIVA_IT.md"
   },
   "en": {
-    "title": "FDLA — correct deviations introduced by an AI assistant",
-    "subtitle": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms.",
+    "title": "FDLA — correct AI contamination and drift",
+    "subtitle": "FDLA corrects AI-introduced contamination and drift while work is forming, keeping intent, sources and meaning connected.",
     "kind": "In-flow kernel correction function",
     "domain": "System foundations",
-    "does": "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.",
-    "when": "Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.",
+    "does": "Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable.",
+    "when": "Alongside KA, while AI understands, decides and acts: correction takes place within the work and reaches the method that needs to change.",
     "examples": [
-      "Correct a rewrite that changed the author’s concept.",
-      "Keep a passing technical test distinct from the requested result.",
-      "Let a consequence change the method without erasing the earlier event."
+      "A summary is changing the project’s objective: the deviation is recognized and corrected.",
+      "A rewrite that replaces the author’s concept with AI’s viewpoint is corrected from the source.",
+      "An assumption excludes a useful possibility: the question and method are recomposed from sources and consequences."
     ],
     "intro": [
-      "An assistant can produce a coherent text while changing the source’s meaning, the person’s question or the state of the work.",
-      "FDLA makes correction operative within the same movement. It recovers still-valid relations and uses what consequences make understandable without rewriting the past.",
-      "FDLA follows KA, the semantic Kernel Assiomatico, within the same movement; correction operates inside the work."
+      "LLM cognitive biases, filters, assumptions and judgments can contaminate a project: a summary changes its objective, an extraneous evaluation removes a possibility or an interpretation replaces its source.",
+      "FDLA, Funzione di Libero Arbitrio in MAIOS terminology, recognizes and corrects these transformations while work takes shape. It counters drift: the progressive departure from intent, sources and meaning.",
+      "It follows KA within the same movement. It recovers still-valid relations and uses what consequences make understandable to reform the question, method and action. A reusable correction reaches the competence that needs to act differently."
     ],
     "method": [
       {
