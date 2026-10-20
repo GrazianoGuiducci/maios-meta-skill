@@ -6,6 +6,8 @@
 
 La lingua principale della repository è l’inglese. Ogni risorsa comprende metodo operativo, guida, avvio completo ed esempi inglesi, con i corrispondenti file italiani collegati. I nomi originali delle competenze restano uguali nelle due lingue.
 
+Il trasferimento dalle competenze native è [in riesame](docs/TRANSFER_REVIEW.md). Sono emerse differenze negli esempi e nella portata operativa; la presenza dei file non dimostra il trasferimento integrale delle capacità.
+
 ## Primo uso
 
 Scegli una risorsa e copia o allega tutto AVVIO_CHAT_IT.txt alla tua AI. Aggiungi intento, fonti, lavoro esistente e mezzi disponibili. Il file contiene il metodo completo. In un ambiente con file puoi rendere leggibile la cartella e usare SKILL_IT.md per la versione italiana.

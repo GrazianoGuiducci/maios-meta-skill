@@ -27,6 +27,8 @@ Choose a resource below, open its **START_CHAT_EN.txt**, then copy or attach the
 
 English is the primary language of methods, guides, examples and starters. Italian versions are included and linked. Original competence names stay the same across languages.
 
+The native-to-public transfer is [under review](docs/TRANSFER_REVIEW.md). The review has identified differences in examples and operating scope; file completeness does not establish full capability transfer.
+
 ## Choose a resource
 
 The collection includes operating competences, metacompetences, functions and kernel foundations. These types describe different contributions rather than a quality hierarchy. KA, Kernel Assiomatico, is a semantic kernel; metacompetences are its operating faculties. Meta_Skill forms and evolves competences in that same field. FDLA makes causal correction operative within the work, without another external controller.
@@ -50,7 +52,7 @@ Host tools, persistence, accounts and recurring activation depend on the actual 
 
 ## Editions and learning
 
-The current public edition is **0.2.0**, with complete English methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages. Older downloadable editions retain their own meaning and history.
+The current public edition is **0.2.0**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages. Older downloadable editions retain their own meaning and history.
 
 File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
 
@@ -66,6 +68,8 @@ Origin and direction: **Graziano Guiducci · MAIOS** · [maios.it](https://maios
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
 La lingua principale della repository è l’inglese. Ogni risorsa comprende metodo operativo, guida, avvio completo ed esempi inglesi, con i corrispondenti file italiani collegati. I nomi originali delle competenze restano uguali nelle due lingue.
+
+Il trasferimento dalle competenze native è [in riesame](docs/TRANSFER_REVIEW.md). Sono emerse differenze negli esempi e nella portata operativa; la presenza dei file non dimostra il trasferimento integrale delle capacità.
 
 ## Primo uso
 
