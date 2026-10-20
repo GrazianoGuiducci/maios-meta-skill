@@ -6,7 +6,7 @@ A competence contains operating knowledge. Add an actual intent, relevant source
 
 ## In a chat
 
-Choose one of the 25 resources. Open its **START_CHAT_EN.txt**, then copy or attach the entire file. Add what you are doing, the result sought, existing work and the tools available. The starter contains the complete English method and can work without access to the rest of this repository.
+Choose a resource from the [catalogue](../README.md). Open its **START_CHAT_EN.txt**, then copy or attach the entire file. Add what you are doing, the result sought, existing work and the tools available. The starter contains the complete English method and can work without access to the rest of this repository.
 
 For broader work, make SKILL.md and pertinent references available too. If the assistant can read files, provide the complete resource folder. Request an updated work guide containing purpose, sources, reasons, attained state, useful learning and continuation. Save that guide and bring it to a later chat when persistence is unavailable.
 

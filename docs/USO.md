@@ -6,7 +6,7 @@ Una competenza contiene sapere operativo: aiuta l'AI a comprendere e svolgere un
 
 ## In una chat
 
-Per scegliere fra le 25 risorse, parti dal [catalogo del sito](https://maios.it/risorse/) o dalla tabella nel [README](../README.md). Ogni cartella contiene una guida e un file AVVIO_CHAT_IT.txt con il metodo da dare alla tua AI. Le modalità seguenti usano Meta-Activity come esempio e si adattano alla risorsa selezionata.
+Per scegliere una risorsa, parti dal [catalogo del sito](https://maios.it/risorse/) o dalla tabella nel [README](../README.md). Ogni cartella contiene una guida e un file AVVIO_CHAT_IT.txt con il metodo da dare alla tua AI. Le modalità seguenti usano Meta-Activity come esempio e si adattano alla risorsa selezionata.
 
 Per Meta-Activity, apri [AVVIO_CHAT_IT.txt](../skills/meta-activity/AVVIO_CHAT_IT.txt), copia tutto il testo oppure allega il file alla conversazione. Aggiungi il tuo contesto: cosa stai facendo, quali risultati servono, che cosa esiste già e quali strumenti l'AI può usare.
 
