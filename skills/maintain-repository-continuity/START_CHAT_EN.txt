@@ -1,0 +1,81 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Maintain Repository Continuity
+
+Understand the selected repository and share relevant changes while preserving concurrent work and the identity of the shared revision. Keep local changes, commits and shared source recognizably connected.
+
+Use this competence when people or assistants share a project and useful work must become reachable beyond a local checkout. Continuity includes reasons, concurrent contributions and the revision a collaborator can actually read. Commit, source sharing and product publication remain distinct effects.
+
+## Identify repository and selected result
+
+Reach the repository owning the work and its current instructions. Understand what should become shared and why continuation needs it. A container folder may hold several repositories; do not treat them as one. Continuity becomes pertinent for a meaningful result or handoff, rather than requiring Git closure after every edit or publication during read-only work.
+
+## Understand current identities
+
+Distinguish working files, local commits, tracking references, verified remote revision and generated or ignored artifacts. Use the project's actual Git tools and access to inspect branch, differences and relation to the remote. A local tracking ref can be stale; successful fetching does not prove the selected content is shared. Do not print or persist credentials while gathering these facts.
+
+## Preserve concurrent contributions
+
+Understand changes before preparing a commit. Select files or portions belonging to the authorized work. Old or uncommitted work is not disposable noise. Integrate independent local and remote contributions while preserving both lines. For overlapping work on one object, resolve their relation before selecting content. Do not create apparent order by deleting valid work.
+
+## Complete the authorized effect
+
+When the mandate includes committing and sharing, inspect relevant content, run proportionate checks, create a coherent commit and share to the intended branch through the recipient's authentication. Do not import another environment's credential or push policy. If authority or means are absent, preserve work and identify the particular remaining step without claiming shared source.
+
+## Verify what collaborators receive
+
+After sharing, verify the remote revision and its relation to local result and tracking ref. When reconciliation produces distinct identities, explain which commits or content correspond and which remain different. Give an exact reference with pertinent reasons and checks. Reachable source does not prove reading, installation or execution. Deployment, release and activation need their own observation.
+
+## Continue the change's knowledge
+
+Preserve the useful change, reason, revision, checks and remaining local work in the project guide. Improve the continuity method when a new case exposes loss or unnecessary procedure. Its purpose is shareable, reconstructable work, not Git ritual or forced synchronization of every repository.
+
+## Method depth
+
+This is a technical source-continuity competence. Repository or agent counts do not automatically confer a meta level.
+
+The method becomes an object of learning when a handoff reveals that a shared change was not reachable by the collaborator. Correcting that entry changes continuity itself. This is distinct from, and does not authorize, a process that pushes on a timer.
+
+## Learning and continuation
+
+A later case shows whether work reaches shared source without loss or reconstruction. A technical check remains tied to the revision actually verified.
+
+Begin with available context, sources and means. Chat can exercise the method; persistence, tools and external effects depend on actual mandate. Observe behavior and value in real work.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Maintain Repository Continuity
+
+## Reconcile the selected work with its shared source
+
+Identify the owning checkout, current branch, selected paths, local changes, upstream and actual remote identity. A workspace container may contain several independent repositories. Do not attribute every dirty file to the current task. Preserve concurrent lanes and existing staged work; stage only the selected contribution. A tracking reference is a cached observation until refreshed through the authorized credential mechanism.
+
+If remote and local work changed independently, inspect relevant overlap and preserve both valid contributions. Use the smallest integration that continues the selected work; a reset or forced synchronization can erase unrelated knowledge. Before sharing, review the selected diff and checks pertinent to the change. Commit and push through the repository's existing authority and credential policy, without printing or persisting secrets.
+
+Verify what the actual remote contains and distinguish source sharing from installation, deployment or public runtime behavior. A source push can trigger a separate deploy in some projects; understand that project relation before invoking it. Preserve the exact shared identity and remaining recovery condition where later work needs them. A clean checkout does not establish product correctness, and an ahead/behind count alone does not select which branch's meaning should prevail.
+
+# Maintain Repository Continuity — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Share one change while preserving concurrent work
+
+Two people work in the same checkout. Identify the selected change and share that contribution while retaining the other person’s work. Making the entire checkout appear clean is not the objective.
+
+## Integrate an independently advanced remote
+
+A local commit and a remote commit change independent objects. Recover both lines, integrate through the project’s chosen method and verify shared content. Divergence is not a reason to erase either contribution.
+
+## Give a collaborator the source they can actually resume
+
+An assistant hands over an exact revision and the useful reason for its change. The collaborator can read that source and continue. The handoff does not claim that the revision has already reached a website or is active in a runtime.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

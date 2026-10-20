@@ -1,0 +1,71 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Essential Condensate Preserver
+
+Preserve concise knowledge without losing the reasons that make it useful. It may arise from a correction, a successful choice, an explanation or a possibility that would be difficult to reconstruct.
+
+The condensate keeps the essential relation available until it is deepened, integrated, corrected or superseded. Brevity serves the next use; saving a text does not make it a permanent law.
+
+## Recognize what should continue
+
+Understand the work and the difference that will change a future choice. Preserve a formulation when it prevents recurring loss, clarifies an object, improves a method or keeps a possibility reachable. Do not retain every confirmation, temporary state or equivalent wording by inertia. Uncertain knowledge can be useful: preserve the question and why it should remain open without turning it into fact.
+
+## Preserve meaning and conditions
+
+Express the essence with the words needed to reuse it. Keep its source, context of validity, decision-relevant reason and remaining unknowns. When the author's wording carries meaning, retain it beside your attributed interpretation. Do not turn a case into a universal prohibition. An incomprehensible title may reveal the need to name its subject, rather than a rule imposing the same length on every title.
+
+## Place knowledge where it can act
+
+Identify the document, guide or competence that will use this knowledge. Integrate it into the existing suitable location when authorized and accessible; otherwise return the text, its use and a proposed destination. A paragraph carrying the essence, why it matters, when to use it, source and revision condition may suffice. Add classifications or registers only when they help continuation. In a chat, identify what the person should save and bring back; a message does not prove future memory.
+
+## Integrate, revise and supersede
+
+When knowledge enters the relevant method, connect the condensate to that method instead of maintaining competing instructions. Revisit it when the source changes, a consequence exposes a limit or its use causes loss. Supersession preserves still-useful relations; a newer date alone does not establish it. Keep a possibility as a possibility while its enabling condition is absent. Preservation can guide work without authorizing messages, publication or changes outside the assignment.
+
+## The essential relation and the method recognizing it
+
+The direct work produces a reusable condensate. The meta relation appears when that knowledge changes a competence or the way the system selects and organizes its knowledge.
+
+An autological relation emerges when condensation recognizes its own loss: it may have kept a rule but removed the exception that allowed adaptation. The correction improves condensation itself. This function is distinct from a complete archive or guaranteed model memory.
+
+## Learning and continuation
+
+During use, recognize what the text made understandable and what it erased. If the loss is reusable, change the preservation criterion and the entry through which the condensate is recovered.
+
+The guide accumulates reasons that change later work. Distinguish available knowledge from a later case showing its use, and retain unchanged outcomes or tradeoffs honestly.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Essential Condensate Preserver
+
+## Preserve an essence without flattening it
+
+Read the selected source and identify the relation whose loss would change a later decision: concept, reason, conditions, use and unresolved meaning. Retain exact wording when wording itself carries the distinction. A condensate connects that essence to its source and the place where it will act; it is not an archive of every sentence.
+
+If the receiving competence already contains the knowledge, repair access rather than creating another competing note. If a new correction changes it, integrate that difference where the method continues. Keep source and inference distinguishable. A newer summary supersedes an earlier one through preserved meaning and greater usefulness, not its timestamp. Retire redundant formulations without deleting the still-useful relation or its provenance. A later use that needs missing conditions teaches this method what its compression must retain.
+
+# Essential Condensate Preserver — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Preserve the criterion used to approve a quotation
+
+A quotation is approved because it distinguishes confirmed work from dependencies still to be checked. The condensate preserves this criterion and the service context without turning one approval into a universal price threshold. The next quotation can use that criterion to present its conditions.
+
+## Let an editorial correction inform later writing
+
+An author corrects a title because its subject is implicit. The condensate retains the original formulation and the operating reason: a reader must identify the content without knowing the chat. Editorial competence can integrate that knowledge into its method while other qualities of the title remain adaptable.
+
+## Retain a project lesson without archiving the conversation
+
+A project discovers that a regenerated document erased decisions added by hand. Essential knowledge connects the risk to its actual mechanism: preserve reasons in the persistent source or a reachable guide. The condensate does not require retaining the entire command history.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

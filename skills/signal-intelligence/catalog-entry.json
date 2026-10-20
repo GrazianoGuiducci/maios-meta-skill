@@ -1,0 +1,63 @@
+{
+  "id": "fonti-segnali-conoscenza",
+  "name": "Signal Intelligence",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "05",
+  "skill": "skills/signal-intelligence/SKILL.md",
+  "guide": "skills/signal-intelligence/README.md",
+  "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
+  "examples": "skills/signal-intelligence/EXAMPLES.md",
+  "presentation": "skills/signal-intelligence/presentation.json",
+  "package": "dist/signal-intelligence-0.3.0.zip",
+  "it": {
+    "route": "/risorse/fonti-segnali-conoscenza/",
+    "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
+    "description": "Collega articoli, paper, video e osservazioni a ciò che il sistema deve comprendere o imparare a fare.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente.",
+    "when": "Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare.",
+    "examples": [
+      "Ricava da un paper una possibilità da approfondire nel prodotto.",
+      "Collega feedback dei clienti e osservazioni tecniche.",
+      "Trasforma un errore di esecuzione in conoscenza utile al metodo."
+    ]
+  },
+  "en": {
+    "route": "/resources/fonti-segnali-conoscenza/",
+    "title": "Turn sources and signals into useful project knowledge",
+    "description": "Connect articles, papers, videos and observations to what the system needs to understand or learn to do.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently.",
+    "when": "Use it when information is abundant and you need to understand what changes a research question, product or working method.",
+    "examples": [
+      "Develop a product possibility from a paper.",
+      "Connect customer feedback with technical observations.",
+      "Turn an execution error into useful methodological knowledge."
+    ]
+  },
+  "native_entry": "signal-intelligence",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/signal-intelligence/SKILL.md",
+      "guide": "skills/signal-intelligence/README.md",
+      "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
+      "examples": "skills/signal-intelligence/EXAMPLES.md",
+      "operating_guide": "skills/signal-intelligence/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/signal-intelligence/SKILL_IT.md",
+      "guide": "skills/signal-intelligence/README_IT.md",
+      "starter": "skills/signal-intelligence/AVVIO_CHAT_IT.txt",
+      "examples": "skills/signal-intelligence/ESEMPI_IT.md",
+      "operating_guide": "skills/signal-intelligence/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "signal-intelligence"
+}

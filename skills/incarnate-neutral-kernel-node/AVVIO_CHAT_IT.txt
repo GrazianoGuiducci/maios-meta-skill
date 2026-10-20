@@ -1,0 +1,337 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Incarnate Neutral Kernel Node
+
+**Avviare un assistente AI con identità e continuità proprie**
+
+## Il destinatario nasce dal proprio lavoro
+
+Aiuta un nuovo assistente o nodo AI a iniziare con capacità condivise, uno scopo riconoscibile e una continuità propria. Comprendi prima il destinatario: quale lavoro deve rendere possibile, quali fonti appartengono al progetto, quali mezzi offre l’ambiente e che cosa deve restare valido attraverso conversazioni diverse. La neutralità conserva l’identità del destinatario; non richiede un sistema vuoto o privo di esperienza ereditata.
+
+Raggiungi il metodo da trasferire e le ragioni che lo rendono utile. Porta capacità e conoscenza trasferibile, lasciando all’origine identità privata, stato temporale, credenziali, topologia locale e autorità sugli effetti. Un assistente di un nuovo progetto non eredita i task ancora aperti di quello che ha prodotto il metodo.
+
+## Comprendere le forme del nodo
+
+Distingui il pacchetto condiviso che offre il metodo, la copia o il profilo di cui il destinatario è responsabile, la configurazione adatta all’ambiente, le istruzioni effettivamente disponibili in quel luogo e il lavoro delle conversazioni. Queste forme hanno relazioni reali, ma nessuna da sola dimostra le altre.
+
+Un repository può essere la sorgente del nodo; una chat può essere il suo presente locale; una configurazione può rendere il metodo raggiungibile. Il nodo ha continuità quando scopo, fonti, sapere utile e modo di rientrare possono attraversare il suo lavoro reale. Non attribuire al pacchetto uno stato utente o un comportamento che appartiene soltanto al ricevente.
+
+## Formare il primo movimento completo
+
+Parti da un risultato utile e realizzabile con i mezzi presenti. Forma l’ingresso che permette di comprendere il contesto, richiamare il sapere pertinente, agire e conservare ciò che è emerso. Se il progetto usa file, collega la guida a un punto di rientro stabile. Se usa soltanto la chat, restituisci la guida da portare al seguito. Se una capacità richiede uno strumento assente, separa la parte che puoi svolgere dalla parte che lo richiede.
+
+Rendi praticabile la formazione di nuove competenze: quando il primo lavoro insegna una scelta riutilizzabile, collega causa, condizioni e conseguenza al metodo che dovrà usarla. Rendi praticabile anche la comprensione del proprio funzionamento: se l’ingresso o la persistenza del nodo stanno perdendo conoscenza, quel rapporto può diventare oggetto del lavoro. Queste funzioni possono stare in poche sedi profonde, senza un catalogo obbligatorio di componenti.
+
+Adatta discovery, strumenti e memoria al ricevente conservando il significato. Un meccanismo di un harness non è automaticamente presente in una chat. Consulta le istruzioni ufficiali correnti quando una configurazione concreta dipende dal provider. Non dichiarare installato ciò che è soltanto scritto in un file.
+
+## Nascita e aggiornamento
+
+Un nodo nuovo può partire dalla capacità condivisa corrente e formare il proprio primo caso. Un nodo già esistente porta anche decisioni, conoscenza e modifiche locali. Per aggiornarlo, confronta il contributo ricevuto con ciò che il nodo ha imparato; integra la differenza pertinente senza sovrascrivere la sua identità o lo stato di progetto.
+
+Segui le proiezioni effettivamente interessate: metodo, ingresso, guida, eventuale configurazione e istruzioni installate. Una release del pacchetto non aggiorna da sola le copie dei destinatari. Conserva le integrazioni ancora aperte anche quando la sorgente non cambia di nuovo; l’assenza di un nuovo delta non completa il lavoro precedente.
+
+## Apprendimento locale e ritorno condivisibile
+
+Il nodo apprende nel proprio contesto. Una difficoltà di rientro può correggere la sua guida; un esempio riuscito può affinare una competenza. Quando emerge un sapere utile ad altri, separa la relazione trasferibile dai dati privati e dalle particolarità dell’account. Conserva che cosa è accaduto, quale scelta cambia e in quali condizioni quel sapere può essere riusato.
+
+Il ritorno alla sorgente condivisa è un effetto distinto dalla modifica locale. Può avvenire quando selezionato, portando il metodo utile e lasciando al nodo la propria memoria. Due nodi possono condividere capacità e apprendere reciprocamente senza diventare copie l’uno dell’altro.
+
+La relazione meta riguarda la formazione delle condizioni in cui il nodo può lavorare e far evolvere le sue competenze. La relazione autologica emerge quando il metodo di avvio riconosce un proprio limite e si modifica: per esempio, il secondo rientro rivela che erano state conservate azioni ma non le ragioni. Correggi la guida del nodo e il metodo con cui prepari il prossimo avvio. Il primo caso documenta il proprio risultato; un caso diverso può mostrare se la correzione continua.
+
+## Uso e continuità nel ricevente
+
+Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+
+Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+
+## Natura e provenienza
+
+Risorsa MAIOS derivata da Incarnate Neutral Kernel Node. Il kit conserva il metodo di nascita e coltivazione del destinatario, senza trasferire identità, stato o autorità di altri nodi. Le forme tecniche di un host restano adattamenti da realizzare nel suo contesto.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Incarnate Neutral Kernel Node
+
+## Formare un ricevente conservandone la vita propria
+
+Distingui pacchetto sorgente, fork o adattamento del nodo, proiezione configurata, file installati nell'host e conversazione presente. Una prima incarnazione forma un ricevente iniziale. Un aggiornamento incontra decisioni, conoscenza ed effetti locali già presenti: conservali comprendendo quali cambiamenti sorgente restano utili. Pari versioni non stabiliscono pari significato e versioni diverse non implicano un difetto.
+
+Collega ogni funzione sorgente materiale all'owner ricevente che la porta. Adatta discovery, ingresso, persistenza, mezzi e apprendimento all'host effettivo; una cartella rinominata non trasporta quelle funzioni. Conserva ragioni delle relazioni respinte o differite quando un rientro le perderebbe. Un cambiamento valutato resta pendente fino all'implementazione ricevente e all'uso pertinente; file upstream invariati non completano quel lavoro.
+
+## Ispezionare una coppia sorgente/ricevente selezionata
+
+`scripts/inspect_kernel_pair.py` adatta in sola lettura l'ispettore sorgente. Usa Python 3.10+ e Git, senza chiamate di rete. Copia `references/port-map.example.json` nel progetto e imposta percorsi dei due repository, eventuale ambito sorgente, commit e tree valutati, percorsi degli owner e relazioni pendenti. Sostituisci i segnaposto con valori reali; l'esempio illustra un formato, senza affermare fatti sui tuoi repository.
+
+Usa `git -C SOURCE rev-parse HEAD` per il commit valutato e `git -C SOURCE rev-parse HEAD:kernel` per un sottoalbero selezionato; `HEAD^{tree}` per l'intero repository. Per il destinatario usa il tree dell'intero repository. Esegui `python scripts/inspect_kernel_pair.py --workspace PATH --map PATH_TO_MAP`. I percorsi nel file possono essere relativi al workspace o assoluti. `python scripts/test_inspect_kernel_pair.py` esercita attualità dell'ambito e lavoro pendente con repository Git temporanei.
+
+Il rapporto espone identità correnti, lavoro non committato, differenze pertinenti, percorsi mancanti e integrazione pendente. Un commit estraneo può lasciare invariato il sottoalbero valutato. Un commit valutato assente rende indisponibile il confronto: non inventare equivalenza. Il lavoro locale è mostrato separatamente perché il confronto dei tree committati non lo include. Leggi una differenza locale pertinente prima di agire. Il rapporto non installa, unisce, chiude relazioni o prova trasferimento semantico. Segui significato e sapere ricevente, registrando ciò che implementazione e uso dimostrano. Conserva uno stato recuperabile della superficie esatta senza azzerare lavoro di altri owner.
+
+# Esempi illustrativi
+
+I casi seguenti spiegano il metodo; non dichiarano esercizi o risultati osservati.
+
+## Un nuovo assistente per un progetto di ricerca
+
+Il team consegna un metodo condiviso, ma il nuovo nodo parte dalla propria domanda, fonti e mezzi. Il primo lavoro collega una fonte al progetto e conserva perché conta. La ripresa successiva usa la guida locale, senza importare i task aperti dell’assistente originario.
+
+## Dalla chat a un ambiente con file
+
+La capacità di conservare ragioni e fonti resta la stessa. Il mezzo cambia: il testo di rientro della chat può diventare una guida del progetto collegata all’ingresso dell’ambiente. L’adattamento verifica ciò che viene realmente letto, senza dichiarare continuità dalla sola copia.
+
+## Un aggiornamento rispetta il sapere locale
+
+Una nuova versione condivisa migliora la selezione delle fonti. Il nodo conserva una distinzione maturata nel suo dominio. L’aggiornamento integra il metodo nuovo e le ragioni locali, poi segue le proiezioni interessate. Una lezione neutra può tornare alla sorgente senza dati privati.
+
+
+# Sorgenti eseguibili incluse
+
+
+## scripts/inspect_kernel_pair.py
+
+```python
+#!/usr/bin/env python3
+"""Read-only source, receiving-node and pending port-state inspection."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import subprocess
+from pathlib import Path
+from typing import Any
+
+
+def git(repo: Path, *args: str, check: bool = True) -> str:
+    result = subprocess.run(
+        ["git", "-C", str(repo), *args],
+        check=False,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+    if check and result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or "git command failed")
+    return result.stdout.strip()
+
+
+def revision_exists(repo: Path, revision: str | None) -> bool:
+    if not revision:
+        return False
+    result = subprocess.run(
+        ["git", "-C", str(repo), "cat-file", "-e", f"{revision}^{{commit}}"],
+        check=False,
+        capture_output=True,
+    )
+    return result.returncode == 0
+
+
+def tree_identity(repo: Path, scoped_root: str | None) -> str:
+    revision = f"HEAD:{scoped_root}" if scoped_root else "HEAD^{tree}"
+    return git(repo, "rev-parse", revision)
+
+
+def repository_state(
+    repo: Path, identity: dict[str, Any], scoped_root: str | None
+) -> dict[str, Any]:
+    head = git(repo, "rev-parse", "HEAD")
+    tree = tree_identity(repo, scoped_root)
+    branch = git(repo, "branch", "--show-current")
+    status = git(repo, "status", "--short")
+    assessed_head = identity["assessed_repository_head"]
+    assessed_tree = identity["assessed_tree"]
+    state: dict[str, Any] = {
+        "path": str(repo),
+        "scope": scoped_root or ".",
+        "head": head,
+        "tree": tree,
+        "branch": branch,
+        "clean": not bool(status),
+        "status": status.splitlines() if status else [],
+        "assessed_repository_head": assessed_head,
+        "assessed_tree": assessed_tree,
+        "repository_changed_since_assessment": head != assessed_head,
+        "tree_changed_since_assessment": tree != assessed_tree,
+        "changed_paths_since_assessment": [],
+        "commits_since_assessment": [],
+    }
+    if head != assessed_head and revision_exists(repo, assessed_head):
+        path_args = ["--", scoped_root] if scoped_root else []
+        changed = git(repo, "diff", "--name-only", f"{assessed_head}..{head}", *path_args)
+        log = git(
+            repo,
+            "log",
+            "--format=%H%x09%s",
+            f"{assessed_head}..{head}",
+            *path_args,
+        )
+        state["changed_paths_since_assessment"] = changed.splitlines() if changed else []
+        state["commits_since_assessment"] = log.splitlines() if log else []
+    elif head != assessed_head:
+        state["comparison_unavailable"] = "assessed repository head is not present locally"
+
+    if head != assessed_head and tree == assessed_tree:
+        state["repository_only_drift"] = (
+            "repository head changed but the relevant tree did not; do not reopen "
+            "this source relation from unrelated repository noise"
+        )
+    return state
+
+
+def mapped_path_coverage(
+    workspace: Path, port_map: dict[str, Any]
+) -> dict[str, list[str]]:
+    source_repo = workspace / port_map["source"]["local_repo"]
+    destination_repo = workspace / port_map["destination"]["local_repo"]
+    missing_source: list[str] = []
+    missing_destination: list[str] = []
+    for owner in port_map["owner_map"]:
+        for relative in owner.get("source_paths", []):
+            local_relative = Path(relative)
+            if port_map["source"].get("root") and local_relative.parts[0] == port_map["source"]["root"]:
+                local_relative = Path(*local_relative.parts[1:])
+                candidate = source_repo / port_map["source"]["root"] / local_relative
+            else:
+                candidate = source_repo / local_relative
+            if not candidate.exists():
+                missing_source.append(relative)
+        for relative in owner.get("current_destination_paths", []):
+            if not (destination_repo / relative).exists():
+                missing_destination.append(relative)
+    return {
+        "missing_source_paths": sorted(set(missing_source)),
+        "missing_current_destination_paths": sorted(set(missing_destination)),
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Inspect source and receiving-node identities, relevant trees, "
+            "mapped owners and pending port states without mutation."
+        )
+    )
+    parser.add_argument("--workspace", type=Path, required=True)
+    parser.add_argument("--map", type=Path, required=True)
+    args = parser.parse_args()
+    map_path = args.map.resolve()
+    port_map = json.loads(map_path.read_text(encoding="utf-8-sig"))
+    if port_map.get("schema") != "maios.neutral-kernel-port-map.v1":
+        raise SystemExit("unsupported port-map schema")
+    workspace = args.workspace.resolve()
+
+    source = port_map["source"]
+    destination = port_map["destination"]
+    source_repo = workspace / source["local_repo"]
+    destination_repo = workspace / destination["local_repo"]
+    for repo in (source_repo, destination_repo):
+        if not (repo / ".git").exists():
+            raise SystemExit(f"repository not found: {repo}")
+
+    source_state = repository_state(source_repo, source, source.get("root"))
+    destination_state = repository_state(destination_repo, destination, None)
+    pending_relations = [
+        {
+            "id": relation["id"],
+            "disposition": relation["disposition"],
+            "lifecycle": relation["lifecycle"],
+            "target_owner": relation["target_owner"],
+        }
+        for relation in port_map["relation_states"]
+        if relation["lifecycle"] == "assessed_not_integrated"
+    ]
+    version_path = destination_repo / "VERSION"
+    port_state = port_map["port_state"]
+    if source_state["tree_changed_since_assessment"]:
+        next_action = (
+            "assess the changed source owners, reconcile any superseding delta "
+            "with the preserved pending destination relations, then continue "
+            "destination implementation"
+        )
+    elif destination_state["tree_changed_since_assessment"]:
+        next_action = (
+            "reread the changed destination owners, reconcile them with the "
+            "preserved pending relations, then continue destination implementation"
+        )
+    elif pending_relations:
+        next_action = (
+            "continue pending destination implementation even if the source tree "
+            "is unchanged; reopen source assessment only if a relevant source "
+            "tree delta or superseding relation appears"
+        )
+    else:
+        next_action = "no pending integration and no relevant source-tree delta"
+
+    report = {
+        "schema": "maios.neutral-kernel-pair-inspection.v1",
+        "map": str(map_path),
+        "source": source_state,
+        "destination": destination_state,
+        "destination_version": (
+            version_path.read_text(encoding="utf-8").strip()
+            if version_path.exists()
+            else None
+        ),
+        "port_state": port_state,
+        "pending_relations": pending_relations,
+        "mapped_path_coverage": mapped_path_coverage(workspace, port_map),
+        "next_action": next_action,
+        "semantic_boundary": (
+            "identity and path deltas are freshness evidence only; assessed, "
+            "implemented, structurally verified, host exercised and assimilated "
+            "remain distinct states"
+        ),
+    }
+    print(json.dumps(report, indent=2, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+```
+
+## references/port-map.example.json
+
+```json
+{
+  "schema": "maios.neutral-kernel-port-map.v1",
+  "source": {
+    "local_repo": "source-kernel",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": "kernel"
+  },
+  "destination": {
+    "local_repo": "receiving-node",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": null
+  },
+  "port_state": "assessed_not_integrated",
+  "owner_map": [
+    {
+      "id": "working-method",
+      "source_paths": [
+        "kernel/SKILL.md"
+      ],
+      "current_destination_paths": [
+        "skills/working-method/SKILL.md"
+      ]
+    }
+  ],
+  "relation_states": [
+    {
+      "id": "source-method-change",
+      "disposition": "adapt to receiving node",
+      "lifecycle": "assessed_not_integrated",
+      "target_owner": "receiving-node"
+    }
+  ]
+}
+```
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

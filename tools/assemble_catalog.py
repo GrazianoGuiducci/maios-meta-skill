@@ -11,7 +11,8 @@ def main():
     resources={r['id']:r for r in catalog['resources']}
     for entry in sorted((ROOT/'skills').glob('*/catalog-entry.json')):
         item=json.loads(entry.read_text(encoding='utf-8'))
-        assert item['id']==entry.parent.name
+        assert item['skill_name']==entry.parent.name
+        assert Path(item['skill']).parent.name==item['skill_name']
         resources[item['id']]=item
     ordered=sorted(resources.values(),key=lambda x:x['review_id'])
     assert {x['review_id'] for x in ordered}=={f'{x:02}' for x in range(25)}

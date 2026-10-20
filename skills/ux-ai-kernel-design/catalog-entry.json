@@ -1,0 +1,63 @@
+{
+  "id": "comprendere-lavoro-agente",
+  "name": "UX-AI Kernel Design",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "13",
+  "skill": "skills/ux-ai-kernel-design/SKILL.md",
+  "guide": "skills/ux-ai-kernel-design/README.md",
+  "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
+  "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
+  "presentation": "skills/ux-ai-kernel-design/presentation.json",
+  "package": "dist/ux-ai-kernel-design-0.3.0.zip",
+  "it": {
+    "route": "/risorse/comprendere-lavoro-agente/",
+    "title": "Rendere comprensibile il lavoro di un agente AI",
+    "description": "Fa vedere alla persona il significato del movimento corrente e i punti in cui può intervenire.",
+    "kind": "Competenza UX-AI",
+    "domain": "Prodotti e comunicazione",
+    "does": "Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro.",
+    "when": "Quando un sistema AI restituisce risultati ma chi lo usa non riesce a capire cosa cambia o come partecipare.",
+    "examples": [
+      "Un assistente rende chiara una decisione che richiede l’intervento dell’utente.",
+      "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
+      "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema."
+    ]
+  },
+  "en": {
+    "route": "/resources/comprendere-lavoro-agente/",
+    "title": "Make an AI agent's work understandable",
+    "description": "Show people what the current work means and where they can intervene.",
+    "kind": "UX-AI competence",
+    "domain": "Products and communication",
+    "does": "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work.",
+    "when": "When an AI system returns results but its user cannot understand what changed or how to participate.",
+    "examples": [
+      "Explain a decision that needs the user's intervention.",
+      "Show which sources support the state of an activity.",
+      "Let everyday work progressively teach how to use the system's capabilities."
+    ]
+  },
+  "native_entry": "ux-ai-kernel-design",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/ux-ai-kernel-design/SKILL.md",
+      "guide": "skills/ux-ai-kernel-design/README.md",
+      "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
+      "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
+      "operating_guide": "skills/ux-ai-kernel-design/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/ux-ai-kernel-design/SKILL_IT.md",
+      "guide": "skills/ux-ai-kernel-design/README_IT.md",
+      "starter": "skills/ux-ai-kernel-design/AVVIO_CHAT_IT.txt",
+      "examples": "skills/ux-ai-kernel-design/ESEMPI_IT.md",
+      "operating_guide": "skills/ux-ai-kernel-design/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "ux-ai-kernel-design"
+}

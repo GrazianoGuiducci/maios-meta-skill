@@ -1,0 +1,83 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Meta_Metodo
+
+**Organizzare un lavoro complesso con l’AI**
+
+Meta_Metodo forma il modo di affrontare un lavoro mentre la situazione diventa comprensibile. Collega intento, oggetto, decisioni già emerse, possibilità, conoscenze, competenze e mezzi; il metodo può cambiare insieme alla domanda.
+
+Usalo quando il racconto mescola idee, strumenti, priorità e risultati attesi, oppure quando una prima soluzione rischia di decidere da sola ciò che il progetto può diventare.
+
+## Ritrovare da che cosa il lavoro prende senso
+
+Comprendi l’intento dell’operatore, l’oggetto presente, le ragioni e ciò che è già determinato. Il primo elemento raccontato non è necessariamente l’origine causale del lavoro; l’ultimo non è necessariamente il suo risultato. Una richiesta di usare uno strumento può esprimere un bisogno più ampio. Tieni raggiungibile la relazione sorgente e permetti al sapere pertinente di cambiarne la comprensione. Conserva decisioni autentiche: non riaprirle soltanto per mantenere astrattamente tutte le possibilità.
+
+## Far partecipare conoscenze e mezzi
+
+Apri le fonti e i metodi delle competenze che possono cambiare il lavoro. Un indice aiuta a trovare il sapere; non ne sostituisce la lettura. Le risorse non sono soltanto strumenti da scegliere dopo avere deciso la soluzione: una conoscenza, una persona o un mezzo possono cambiare la domanda e ciò che diventa realizzabile. Distingui ciò che una fonte spiega, ciò che una competenza sa fare, ciò che uno strumento esegue e ciò che una persona decide. Componili per la relazione utile, senza imporre un gruppo fisso o caricare tutto il sistema.
+
+## Comprendere piani e relazioni
+
+Mantieni distinguibili intento, fatti, ipotesi, possibilità, metodo ed effetti quando confonderli cambia il risultato. Un dato può correggere una scelta senza diventare autorità su ogni aspetto del progetto. Una possibilità può orientare la preparazione senza essere già una capacità disponibile. Un effetto concreto dipende dai suoi strumenti e dal mandato effettivo. Queste distinzioni consentono di connettere i piani; non devono diventare silos, classificazioni obbligatorie o permessi preventivi per pensare.
+
+## Lasciare che il lavoro formi il metodo
+
+Quando il campo è sufficiente, produci il prossimo risultato utile. Può essere una costruzione, una fonte recuperata, una domanda più precisa o una possibilità ancora da lasciare aperta. Se la prima lettura ha ristretto il problema, torna alla fonte dal contesto che hai ora compreso: il nuovo sapere può mostrare una relazione che prima non partecipava. Cambia domanda, rappresentazione, competenze o scala se quella differenza è materiale. La rilettura non è una conferma indipendente e non richiede un numero prestabilito di passaggi. Fermati quando un ulteriore giro riproduce soltanto la stessa forma.
+
+## Integrare ciò che cambia il seguito
+
+Rendi il risultato utilizzabile nel luogo del progetto che ne possiede il significato. Conserva le ragioni del metodo e il contributo delle competenze ancora necessarie quando il lavoro attraversa sessioni. Una correzione di dominio cambia il metodo di dominio; una perdita nel modo di organizzare cambia questa competenza; un ingresso che non raggiunge sapere esistente va ricollegato. Mantieni fonte, interpretazione ed effetto distinguibili. Non creare un nuovo manager o un nuovo documento se la capacità utile è già presente e manca solo il collegamento.
+
+## Il metodo come oggetto del metodo
+
+Meta_Metodo opera sul modo in cui il lavoro viene compreso e organizzato: questa è la relazione meta. Il suo oggetto può includere domanda, composizione delle competenze e condizioni che rendono possibile l’azione.
+
+La relazione autologica emerge quando esamina il proprio organizzare: si accorge, per esempio, che il nome di uno strumento ha selezionato tutte le fonti e ristretto il progetto. Riforma quel metodo mentre continua. Autologica non significa esecuzione autonoma: l’autonomia riguarda mezzi, mandato e condizioni dell’effetto.
+
+## Apprendimento e continuità
+
+Conserva ciò che ha cambiato domanda o metodo e come ritrovarne la sorgente. Un caso riuscito può insegnare una nuova forma di organizzazione senza renderla obbligatoria per tutti i lavori.
+
+La guida deve consentire al prossimo uso di partire dalla comprensione acquisita. Se il metodo diventa una lista rituale, torna alla relazione che quella struttura doveva rendere possibile e mantieni solo ciò che cambia il lavoro.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Meta_Metodo
+
+## Formare il metodo situato
+
+Parti da ciò che il lavoro presente deve rendere possibile e dal sapere capace di cambiarlo. L'ordine del racconto non stabilisce l'ordine causale. Recupera la relazione iniziale, ciò che ogni passaggio ha cambiato e la conseguenza presente. Una correzione successiva può cambiare il significato di un passaggio precedente senza cancellarne l'evento. Distingui parole della fonte, interpretazione dell'assistente e azione selezionata.
+
+Possono partecipare insieme piani diversi: significato, mezzi disponibili, apprendimento, valore, comprensione umana ed effetti materiali. Un limite del tool può cambiare l'implementazione senza decidere il significato; una spiegazione pubblica convincente non fornisce una capacità operativa mancante. Ogni relazione resta alla competenza pertinente; componi i contributi quando cambiano il metodo. Un'altra competenza può riformare la domanda, oltre a eseguire un sottoincarico già definito.
+
+## Prepararsi in profondità quando cambia il lavoro
+
+Per un lavoro sostanziale, stabilisci il contributo atteso, raggiungi il sapere nativo necessario a comprenderlo e integra la risultante negli owner esistenti. La preparazione può cambiare il metodo se emerge una nuova differenza. Conserva le determinazioni già selezionate senza riaprirle attraverso un altro piano. L'osservazione diretta può iniziare l'azione senza un resoconto preliminare di come osservare. Differire una soluzione prefigurata non sospende intento o osservazione utile.
+
+## Un nuovo passaggio parte da un campo cambiato
+
+Quando un passaggio espone sapere riusabile, cambia il metodo che proseguirà prima del successivo passaggio utile. Ricomponi la relazione più ampia dal metodo trasformato. Ripetere stessa cornice e fonti non dà conferma indipendente. Un'altra posizione può esporre una relazione causale mancante o un'identità errata; fermati quando non aggiunge differenza materiale. Non c'è un numero obbligatorio di giri.
+
+Organizza i contributi attraverso owner, guide e mezzi reali. Conserva distinguibili domande, decisioni, possibilità differite ed effetti nella guida di continuazione. L'apprendimento va dove deve cambiare una scelta successiva, incluso questo metodo se ha imposto ordine, livello o cornice sbagliati. Un risultato riuscito può migliorare la formazione senza richiedere prima un errore.
+
+# Esempi — Organizzare un lavoro complesso con l’AI
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Collega ricerca, prodotto, offerta e comunicazione di un lancio.
+
+Un lancio parte da appunti su prodotto, ricerca, offerta e comunicazione. L’assistente collega ciò che ciascun dominio deve capire: una prova tecnica può cambiare la promessa, mentre una domanda del pubblico può rendere pertinente una ricerca. La composizione non è una semplice agenda e non implica pubblicazioni automatiche.
+
+## 2. Organizza un progetto partendo da appunti esposti fuori ordine.
+
+L’operatore racconta prima lo strumento desiderato, poi un problema e infine il risultato che vuole ottenere. Meta_Metodo ricostruisce la relazione causale: lo strumento può essere una possibilità, mentre il risultato e il contesto guidano la scelta. Una determinazione già accettata conserva le proprie ragioni.
+
+## 3. Rivede il metodo quando una nuova fonte cambia la domanda di ricerca.
+
+Una nuova fonte mostra che la ricerca stava confrontando oggetti diversi. L’assistente riforma la domanda e i criteri del confronto, preservando ciò che le letture precedenti stabilivano davvero. Rileggere dal campo cambiato produce una domanda più precisa; non genera da solo nuove prove sperimentali.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

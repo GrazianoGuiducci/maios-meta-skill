@@ -1,0 +1,132 @@
+{
+  "it": {
+    "title": "Organizzare un lavoro complesso con l’AI",
+    "subtitle": "Meta_Metodo fa emergere il metodo dalle relazioni tra obiettivo, conoscenze, competenze e mezzi disponibili.",
+    "kind": "Metacompetenza",
+    "domain": "Metodo e apprendimento",
+    "does": "Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove.",
+    "when": "Quando idee, attività, strumenti e priorità sono mescolati e una lista di task non basta a comprendere come procedere.",
+    "examples": [
+      "Collega ricerca, prodotto, offerta e comunicazione di un lancio.",
+      "Organizza un progetto partendo da appunti esposti fuori ordine.",
+      "Rivede il metodo quando una nuova fonte cambia la domanda di ricerca."
+    ],
+    "intro": [
+      "Meta_Metodo forma il modo di affrontare un lavoro mentre la situazione diventa comprensibile. Collega intento, oggetto, decisioni già emerse, possibilità, conoscenze, competenze e mezzi; il metodo può cambiare insieme alla domanda.",
+      "Usalo quando il racconto mescola idee, strumenti, priorità e risultati attesi, oppure quando una prima soluzione rischia di decidere da sola ciò che il progetto può diventare."
+    ],
+    "method": [
+      {
+        "title": "Ritrovare da che cosa il lavoro prende senso",
+        "body": "Comprendi l’intento dell’operatore, l’oggetto presente, le ragioni e ciò che è già determinato. Il primo elemento raccontato non è necessariamente l’origine causale del lavoro; l’ultimo non è necessariamente il suo risultato. Una richiesta di usare uno strumento può esprimere un bisogno più ampio. Tieni raggiungibile la relazione sorgente e permetti al sapere pertinente di cambiarne la comprensione. Conserva decisioni autentiche: non riaprirle soltanto per mantenere astrattamente tutte le possibilità."
+      },
+      {
+        "title": "Far partecipare conoscenze e mezzi",
+        "body": "Apri le fonti e i metodi delle competenze che possono cambiare il lavoro. Un indice aiuta a trovare il sapere; non ne sostituisce la lettura. Le risorse non sono soltanto strumenti da scegliere dopo avere deciso la soluzione: una conoscenza, una persona o un mezzo possono cambiare la domanda e ciò che diventa realizzabile. Distingui ciò che una fonte spiega, ciò che una competenza sa fare, ciò che uno strumento esegue e ciò che una persona decide. Componili per la relazione utile, senza imporre un gruppo fisso o caricare tutto il sistema."
+      },
+      {
+        "title": "Comprendere piani e relazioni",
+        "body": "Mantieni distinguibili intento, fatti, ipotesi, possibilità, metodo ed effetti quando confonderli cambia il risultato. Un dato può correggere una scelta senza diventare autorità su ogni aspetto del progetto. Una possibilità può orientare la preparazione senza essere già una capacità disponibile. Un effetto concreto dipende dai suoi strumenti e dal mandato effettivo. Queste distinzioni consentono di connettere i piani; non devono diventare silos, classificazioni obbligatorie o permessi preventivi per pensare."
+      },
+      {
+        "title": "Lasciare che il lavoro formi il metodo",
+        "body": "Quando il campo è sufficiente, produci il prossimo risultato utile. Può essere una costruzione, una fonte recuperata, una domanda più precisa o una possibilità ancora da lasciare aperta. Se la prima lettura ha ristretto il problema, torna alla fonte dal contesto che hai ora compreso: il nuovo sapere può mostrare una relazione che prima non partecipava. Cambia domanda, rappresentazione, competenze o scala se quella differenza è materiale. La rilettura non è una conferma indipendente e non richiede un numero prestabilito di passaggi. Fermati quando un ulteriore giro riproduce soltanto la stessa forma."
+      },
+      {
+        "title": "Integrare ciò che cambia il seguito",
+        "body": "Rendi il risultato utilizzabile nel luogo del progetto che ne possiede il significato. Conserva le ragioni del metodo e il contributo delle competenze ancora necessarie quando il lavoro attraversa sessioni. Una correzione di dominio cambia il metodo di dominio; una perdita nel modo di organizzare cambia questa competenza; un ingresso che non raggiunge sapere esistente va ricollegato. Mantieni fonte, interpretazione ed effetto distinguibili. Non creare un nuovo manager o un nuovo documento se la capacità utile è già presente e manca solo il collegamento."
+      }
+    ],
+    "depth": {
+      "title": "Il metodo come oggetto del metodo",
+      "paragraphs": [
+        "Meta_Metodo opera sul modo in cui il lavoro viene compreso e organizzato: questa è la relazione meta. Il suo oggetto può includere domanda, composizione delle competenze e condizioni che rendono possibile l’azione.",
+        "La relazione autologica emerge quando esamina il proprio organizzare: si accorge, per esempio, che il nome di uno strumento ha selezionato tutte le fonti e ristretto il progetto. Riforma quel metodo mentre continua. Autologica non significa esecuzione autonoma: l’autonomia riguarda mezzi, mandato e condizioni dell’effetto."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi il contesto del tuo lavoro. Contiene l’intero metodo. Conserva la restituzione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella all’assistente, indicagli SKILL.md e scegli i documenti del progetto da usare per la continuità. Accessi e azioni dipendono dagli strumenti e dal mandato disponibili."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza e alle guide pertinenti. Senza kernel, l’avvio completo fornisce il metodo necessario; puoi iniziare dal lavoro descritto qui."
+      }
+    ],
+    "learning": [
+      "Conserva ciò che ha cambiato domanda o metodo e come ritrovarne la sorgente. Un caso riuscito può insegnare una nuova forma di organizzazione senza renderla obbligatoria per tutti i lavori.",
+      "La guida deve consentire al prossimo uso di partire dalla comprensione acquisita. Se il metodo diventa una lista rituale, torna alla relazione che quella struttura doveva rendere possibile e mantieni solo ciò che cambia il lavoro."
+    ],
+    "operating_guide": "skills/meta-metodo/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Organise complex work with AI",
+    "subtitle": "Meta_Metodo forms a working method from the relationships between intent, knowledge, competences and available means.",
+    "kind": "Meta-competence",
+    "domain": "Method and learning",
+    "does": "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge.",
+    "when": "Use it when ideas, tasks, tools and priorities are mixed together and a task list does not explain how to proceed.",
+    "examples": [
+      "Connect research, product, offer and communication for a launch.",
+      "Organise a project from notes presented out of order.",
+      "Revise the method when a new source changes the research question."
+    ],
+    "intro": [
+      "Meta_Metodo forms a way of approaching work while the situation becomes understandable. It connects intent, the object of the work, decisions already made, possibilities, knowledge, competences and means; the method can change together with the question.",
+      "Use it when an account of the work mixes ideas, tools, priorities and expected results, or when an initial solution risks determining on its own what the project can become."
+    ],
+    "depth": {
+      "title": "Method as an object of method",
+      "paragraphs": [
+        "Meta_Metodo works on how the work is understood and organised: this is the meta relation. Its object can include the question, the composition of competences and the conditions that make action possible.",
+        "The autological relation emerges when it examines its own organising: for example, it notices that the name of a tool selected all the sources and narrowed the project. It reforms that method as it continues. Autological does not mean autonomous execution: autonomy concerns the means, mandate and conditions of the effect."
+      ]
+    },
+    "learning": [
+      "Preserve what changed the question or method and how to find its source again. A successful case can teach a new form of organisation without making it compulsory for every kind of work.",
+      "The guide should allow the next use to start from the understanding already acquired. If the method becomes a ritual list, return to the relationship that structure was meant to make possible and keep only what changes the work."
+    ],
+    "method": [
+      {
+        "title": "Recover what gives the work its meaning",
+        "body": "Understand the operator's intent, the present object, the reasons and what has already been determined. The first item described is not necessarily the causal origin of the work; the last is not necessarily its result. A request to use a tool may express a broader need. Keep the relationship to the source accessible and allow relevant knowledge to change your understanding of it. Preserve genuine decisions: do not reopen them merely to keep every possibility abstractly available."
+      },
+      {
+        "title": "Let knowledge and means participate",
+        "body": "Open the sources and the methods of competences that can change the work. An index helps locate knowledge; it does not replace reading it. Resources are not merely tools to choose after deciding on a solution: knowledge, a person or a means can change the question and what becomes possible to realise. Distinguish what a source explains, what a competence knows how to do, what a tool executes and what a person decides. Compose them around the useful relationship without imposing a fixed group or loading the whole system."
+      },
+      {
+        "title": "Understand dimensions and relationships",
+        "body": "Keep intent, facts, hypotheses, possibilities, method and effects distinguishable when confusing them changes the result. A datum can correct a decision without becoming authority over every aspect of the project. A possibility can guide preparation without already being an available capability. A concrete effect depends on its actual tools and mandate. These distinctions make it possible to connect dimensions; they should not become silos, compulsory classifications or prior permissions to think."
+      },
+      {
+        "title": "Let the work form the method",
+        "body": "When the field is sufficient, produce the next useful result. It may be something built, a recovered source, a more precise question or a possibility still worth leaving open. If the first reading narrowed the problem, return to the source from the context you now understand: new knowledge can reveal a relationship that did not participate before. Change the question, representation, competences or scale if that difference is material. Rereading is not independent confirmation and does not require a predetermined number of passes. Stop when a further pass merely reproduces the same form."
+      },
+      {
+        "title": "Integrate what changes the continuation",
+        "body": "Make the result usable in the part of the project that owns its meaning. Preserve the reasons for the method and the contribution of competences still needed when the work spans sessions. A domain correction changes the domain method; a loss in how work is organised changes this competence; an entry point that fails to reach existing knowledge needs to be reconnected. Keep source, interpretation and effect distinguishable. Do not create a new manager or document if the useful capability already exists and only the connection is missing."
+      }
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
+      }
+    ],
+    "operating_guide": "skills/meta-metodo/OPERATING_GUIDE.md"
+  }
+}

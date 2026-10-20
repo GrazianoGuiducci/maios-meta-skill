@@ -1,0 +1,63 @@
+{
+  "id": "formare-risorse-pubbliche",
+  "name": "Formare risorse pubbliche dalle metacompetenze",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "08",
+  "skill": "skills/form-public-metaskill-resources/SKILL.md",
+  "guide": "skills/form-public-metaskill-resources/README.md",
+  "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
+  "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
+  "presentation": "skills/form-public-metaskill-resources/presentation.json",
+  "package": "dist/form-public-metaskill-resources-0.3.0.zip",
+  "it": {
+    "route": "/risorse/formare-risorse-pubbliche/",
+    "title": "Trasformare una competenza interna in una risorsa pubblica",
+    "description": "Collega il saper fare trasferibile a guida, primo uso, repository, pagina e derivazioni editoriali.",
+    "kind": "Metacompetenza",
+    "domain": "Prodotti e comunicazione",
+    "does": "Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI.",
+    "when": "Quando un team vuole condividere un metodo o una skill maturati nel lavoro e renderli utili anche ad altri.",
+    "examples": [
+      "Converte una competenza interna in un kit con guida e avvio.",
+      "Prepara scheda e pagina di una risorsa open source.",
+      "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
+    ]
+  },
+  "en": {
+    "route": "/resources/formare-risorse-pubbliche/",
+    "title": "Turn an internal competence into a public resource",
+    "description": "Connect transferable know-how with a guide, first use, repository, dedicated page and editorial adaptations.",
+    "kind": "Meta-competence",
+    "domain": "Products and communication",
+    "does": "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI.",
+    "when": "Use it when a team wants to share a method or skill developed through work and make it useful to others.",
+    "examples": [
+      "Turn an internal competence into a kit with a guide and starter.",
+      "Prepare a card and dedicated page for an open-source resource.",
+      "Derive an article and social adaptations from the same resource version."
+    ]
+  },
+  "native_entry": "form-public-metaskill-resources",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/form-public-metaskill-resources/SKILL.md",
+      "guide": "skills/form-public-metaskill-resources/README.md",
+      "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
+      "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
+      "operating_guide": "skills/form-public-metaskill-resources/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/form-public-metaskill-resources/SKILL_IT.md",
+      "guide": "skills/form-public-metaskill-resources/README_IT.md",
+      "starter": "skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt",
+      "examples": "skills/form-public-metaskill-resources/ESEMPI_IT.md",
+      "operating_guide": "skills/form-public-metaskill-resources/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "form-public-metaskill-resources"
+}

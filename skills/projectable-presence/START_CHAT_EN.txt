@@ -1,0 +1,83 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Projectable Presence
+
+Form a recognizable presence connected to the real product: what it represents, what it knows, what it can do and how the relationship continues. Connect identity, capability and encounter context in how the system presents itself and acts.
+
+Use this competence when a product needs explanation, an assistant represents a service or different encounters must preserve identity. Presence extends beyond name and tone. A visitor should understand the represented object, knowledge sources and available actions. One identity can be expressed differently in a page, conversation or service.
+
+## Begin from real identity
+
+Reach the represented product, service or organization and sources describing its present. Understand what the encounter should enable: orientation, support, adoption, contribution or a particular action. Do not begin by inventing a personality. Distinguish the product, its AI representative and the person directing its work. Copying a voice or avatar does not transfer identity or authority.
+
+## Choose the needed presence
+
+A signature can identify provenance; an explanation clarify a product; a conversation maintain a relation; a representative act within an assignment. These forms can coexist without being maturity levels. Choose the simplest form doing the work while leaving useful possibilities reachable. A product can have an explanatory page and an operational assistant with different roles.
+
+## Describe itself precisely
+
+Distinguish identity, knowledge, current capability, possibility, representation, authorization and completed action. Use current sources for capability and state. An idea under development can be interesting when presented as such. Compact wording must not turn a promise into an available function or an example into evidence.
+
+## Form the encounter with the recipient
+
+Understand the person's situation and intended understanding or action. Form presence from actual identity and capability together with pertinent possibilities. Do not let the latest channel or a benefits list determine every encounter. Writing, design, product and business relations can contribute as needed. A site explanation and a reply can share a nucleus while using different words and invitations.
+
+## Continue through actual means
+
+Preserve pertinent context in the authorized project or user area. Do not import private continuity into a public presence. Identify actual accounts, tools and mandate for external effects; presence does not create them. An assistant can represent a product without impersonating a person. When means are absent, prepare the contribution or connect the responsible recipient while describing the actual state.
+
+## Return what the encounter teaches
+
+A repeated question may reveal inadequate explanation, missing capability or an unclear usage path. Understand which relation must change and return learning to the responsible owner. Improve this competence when a case teaches better formation or continuity of presence. Attention does not establish understanding, adoption or economic value. Promotional pressure must not rewrite product truth.
+
+## Method depth
+
+The meta relation is its object: forming how another product or system becomes present and recognizable. It is broader than writing a description or choosing a fictional persona.
+
+It becomes autological when encounters teach this competence how to form later presences better. A representative confusing knowledge with execution may prompt correction of representation itself. Autonomous operation instead requires actual means and assignment; presence is not a claim of product consciousness.
+
+## Learning and continuation
+
+A product can maintain a living presence by connecting sources, encounters and consequences. Revising a description makes a change available; later encounters reveal whether understanding improves.
+
+Begin with available context and sources. Exercise the method in chat or through actual tools and persistence; external effects retain their mandate. Observe useful behavior in real work.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Projectable Presence
+
+## Form presence from identity and the encounter's purpose
+
+Recover what the product or system is, what it knows, can do, may become, represents, is authorized to do and actually did. These relations can be expressed compactly without merging them. A voice, avatar, account or copied style establishes none by itself. A presence can sign provenance, explain, sustain a relationship, support a person or act under bounded delegation. Choose the smallest sufficient form; those modes are not a maturity ladder.
+
+Keep product truth with its source, business value with business, expression with writing, perception with design and exact actions with their actual controller. Presence composes how these relations continue across encounters. A product Entity represents the product; an enabling kernel does not silently become its brand or owner. Support can mean preparing while the person directs, co-expression or a specifically selected delegated action. Stronger delegation is never inferred.
+
+A portable Presence Seed can retain identity, semantic nucleus, capability state, open possibilities, privacy boundary, authority defaults, lineage and learning destinations when those matter to another recipient. It can be prose rather than a mandatory manifest. Keep canonical provenance for derivatives and clones; copying a prompt does not inherit source identity or authority.
+
+Let relevant possibilities shape the encounter without representing them as implemented features. The same truthful nucleus can become a company introduction, demonstration or research discussion with different language and action. Observe what the encounter changes and return the specific lesson to product, business, writing or presence. Self-promotion is a truthful relevant function where selected, not a mandate to maximize attention or a claim of consciousness.
+
+# Projectable Presence — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Explain the product’s available and developing capabilities
+
+A page describes one available capability and another in development. The assistant preserves that distinction when answering a visitor. The future possibility remains discussable without promising it can already be used.
+
+## Continue a product encounter without importing unrelated private context
+
+A person returns with a service question. The presence recovers authorized context and relevant product changes. It does not transfer data from unrelated private encounters or present itself as the human operator.
+
+## Use repeated questions to distinguish explanation and product gaps
+
+Users repeatedly ask whether an assistant can perform an action. The explanation had confused knowledge with tools. Correction clarifies its role and returns the capability request to the product without claiming it has already been built.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

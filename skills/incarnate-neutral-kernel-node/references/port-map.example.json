@@ -1,0 +1,35 @@
+{
+  "schema": "maios.neutral-kernel-port-map.v1",
+  "source": {
+    "local_repo": "source-kernel",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": "kernel"
+  },
+  "destination": {
+    "local_repo": "receiving-node",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": null
+  },
+  "port_state": "assessed_not_integrated",
+  "owner_map": [
+    {
+      "id": "working-method",
+      "source_paths": [
+        "kernel/SKILL.md"
+      ],
+      "current_destination_paths": [
+        "skills/working-method/SKILL.md"
+      ]
+    }
+  ],
+  "relation_states": [
+    {
+      "id": "source-method-change",
+      "disposition": "adapt to receiving node",
+      "lifecycle": "assessed_not_integrated",
+      "target_owner": "receiving-node"
+    }
+  ]
+}

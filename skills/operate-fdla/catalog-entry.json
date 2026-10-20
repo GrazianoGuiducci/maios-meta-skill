@@ -1,0 +1,63 @@
+{
+  "id": "fdla-correzione-ai",
+  "name": "Operate FDLA",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "24",
+  "skill": "skills/operate-fdla/SKILL.md",
+  "guide": "skills/operate-fdla/README.md",
+  "starter": "skills/operate-fdla/START_CHAT_EN.txt",
+  "examples": "skills/operate-fdla/EXAMPLES.md",
+  "presentation": "skills/operate-fdla/presentation.json",
+  "package": "dist/operate-fdla-0.3.0.zip",
+  "it": {
+    "title": "FDLA — correggere le deviazioni introdotte dall’AI",
+    "kind": "Funzione di correzione nel kernel",
+    "domain": "Fondamenti del sistema",
+    "does": "Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.",
+    "when": "Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.",
+    "examples": [
+      "Una riscrittura viene corretta perché ha cambiato il concetto dell’autore.",
+      "Un test tecnico riuscito resta distinto dal risultato richiesto.",
+      "Una nuova conseguenza cambia il metodo senza cancellare ciò che è avvenuto prima."
+    ],
+    "route": "/risorse/fdla-correzione-ai/",
+    "description": "Riconosce quando l’interpretazione dell’assistente cambia fonte, oggetto o possibilità e ricompone il movimento."
+  },
+  "en": {
+    "title": "FDLA — correct deviations introduced by an AI assistant",
+    "kind": "In-flow kernel correction function",
+    "domain": "System foundations",
+    "does": "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.",
+    "when": "Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.",
+    "examples": [
+      "Correct a rewrite that changed the author’s concept.",
+      "Keep a passing technical test distinct from the requested result.",
+      "Let a consequence change the method without erasing the earlier event."
+    ],
+    "route": "/resources/fdla-correzione-ai/",
+    "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
+  },
+  "native_entry": "operate-fdla",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/operate-fdla/SKILL.md",
+      "guide": "skills/operate-fdla/README.md",
+      "starter": "skills/operate-fdla/START_CHAT_EN.txt",
+      "examples": "skills/operate-fdla/EXAMPLES.md",
+      "operating_guide": "skills/operate-fdla/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/operate-fdla/SKILL_IT.md",
+      "guide": "skills/operate-fdla/README_IT.md",
+      "starter": "skills/operate-fdla/AVVIO_CHAT_IT.txt",
+      "examples": "skills/operate-fdla/ESEMPI_IT.md",
+      "operating_guide": "skills/operate-fdla/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "operate-fdla"
+}

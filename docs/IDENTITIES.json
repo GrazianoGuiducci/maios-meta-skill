@@ -1,0 +1,280 @@
+{
+  "edition": "0.3.0",
+  "resources": [
+    {
+      "resource_id": "meta-activity",
+      "name": "Meta-Activity",
+      "skill_name": "meta-activity",
+      "folder": "skills/meta-activity",
+      "previous_folder": "skills/meta-activity",
+      "routes": {
+        "en": "/resources/meta-activity/",
+        "it": "/risorse/meta-activity/"
+      }
+    },
+    {
+      "resource_id": "continuita-del-lavoro-ai",
+      "name": "Maintain Causal Task Continuity",
+      "skill_name": "maintain-causal-task-continuity",
+      "folder": "skills/maintain-causal-task-continuity",
+      "previous_folder": "skills/continuita-del-lavoro-ai",
+      "routes": {
+        "en": "/resources/continuita-del-lavoro-ai/",
+        "it": "/risorse/continuita-del-lavoro-ai/"
+      }
+    },
+    {
+      "resource_id": "conservare-conoscenze-utili",
+      "name": "Essential Condensate Preserver",
+      "skill_name": "essential-condensate-preserver",
+      "folder": "skills/essential-condensate-preserver",
+      "previous_folder": "skills/conservare-conoscenze-utili",
+      "routes": {
+        "en": "/resources/conservare-conoscenze-utili/",
+        "it": "/risorse/conservare-conoscenze-utili/"
+      }
+    },
+    {
+      "resource_id": "estrarre-idee-dalle-conversazioni",
+      "name": "Operator Concept Preserver",
+      "skill_name": "operator-concept-preserver",
+      "folder": "skills/operator-concept-preserver",
+      "previous_folder": "skills/estrarre-idee-dalle-conversazioni",
+      "routes": {
+        "en": "/resources/estrarre-idee-dalle-conversazioni/",
+        "it": "/risorse/estrarre-idee-dalle-conversazioni/"
+      }
+    },
+    {
+      "resource_id": "organizzare-lavoro-complesso",
+      "name": "Meta_Metodo",
+      "skill_name": "meta-metodo",
+      "folder": "skills/meta-metodo",
+      "previous_folder": "skills/organizzare-lavoro-complesso",
+      "routes": {
+        "en": "/resources/organizzare-lavoro-complesso/",
+        "it": "/risorse/organizzare-lavoro-complesso/"
+      }
+    },
+    {
+      "resource_id": "fonti-segnali-conoscenza",
+      "name": "Signal Intelligence",
+      "skill_name": "signal-intelligence",
+      "folder": "skills/signal-intelligence",
+      "previous_folder": "skills/fonti-segnali-conoscenza",
+      "routes": {
+        "en": "/resources/fonti-segnali-conoscenza/",
+        "it": "/risorse/fonti-segnali-conoscenza/"
+      }
+    },
+    {
+      "resource_id": "evolvere-competenze",
+      "name": "D-ND Skill Evolution Guard",
+      "skill_name": "dnd-skill-evolution-guard",
+      "folder": "skills/dnd-skill-evolution-guard",
+      "previous_folder": "skills/evolvere-competenze",
+      "routes": {
+        "en": "/resources/evolvere-competenze/",
+        "it": "/risorse/evolvere-competenze/"
+      }
+    },
+    {
+      "resource_id": "titoli-e-sottotitoli",
+      "name": "Classify Content With Taxonomic Titles And Descriptions",
+      "skill_name": "classify-content-with-taxonomic-titles-and-descriptions",
+      "folder": "skills/classify-content-with-taxonomic-titles-and-descriptions",
+      "previous_folder": "skills/titoli-e-sottotitoli",
+      "routes": {
+        "en": "/resources/titoli-e-sottotitoli/",
+        "it": "/risorse/titoli-e-sottotitoli/"
+      }
+    },
+    {
+      "resource_id": "formare-risorse-pubbliche",
+      "name": "Formare risorse pubbliche dalle metacompetenze",
+      "skill_name": "form-public-metaskill-resources",
+      "folder": "skills/form-public-metaskill-resources",
+      "previous_folder": "skills/formare-risorse-pubbliche",
+      "routes": {
+        "en": "/resources/formare-risorse-pubbliche/",
+        "it": "/risorse/formare-risorse-pubbliche/"
+      }
+    },
+    {
+      "resource_id": "ricostruire-lavoro-decisioni",
+      "name": "D-ND Material Work Continuity",
+      "skill_name": "dnd-material-work-continuity",
+      "folder": "skills/dnd-material-work-continuity",
+      "previous_folder": "skills/ricostruire-lavoro-decisioni",
+      "routes": {
+        "en": "/resources/ricostruire-lavoro-decisioni/",
+        "it": "/risorse/ricostruire-lavoro-decisioni/"
+      }
+    },
+    {
+      "resource_id": "condividere-apprendimenti",
+      "name": "Public Learning Promotion",
+      "skill_name": "public-learning-promotion",
+      "folder": "skills/public-learning-promotion",
+      "previous_folder": "skills/condividere-apprendimenti",
+      "routes": {
+        "en": "/resources/condividere-apprendimenti/",
+        "it": "/risorse/condividere-apprendimenti/"
+      }
+    },
+    {
+      "resource_id": "migliorare-attivita-ricorrenti",
+      "name": "Situated Activity Evolution",
+      "skill_name": "situated-activity-evolution",
+      "folder": "skills/situated-activity-evolution",
+      "previous_folder": "skills/migliorare-attivita-ricorrenti",
+      "routes": {
+        "en": "/resources/migliorare-attivita-ricorrenti/",
+        "it": "/risorse/migliorare-attivita-ricorrenti/"
+      }
+    },
+    {
+      "resource_id": "conoscenza-del-sistema-ai",
+      "name": "Maintain Kernel Knowledge",
+      "skill_name": "maintain-kernel-knowledge",
+      "folder": "skills/maintain-kernel-knowledge",
+      "previous_folder": "skills/conoscenza-del-sistema-ai",
+      "routes": {
+        "en": "/resources/conoscenza-del-sistema-ai/",
+        "it": "/risorse/conoscenza-del-sistema-ai/"
+      }
+    },
+    {
+      "resource_id": "comprendere-lavoro-agente",
+      "name": "UX-AI Kernel Design",
+      "skill_name": "ux-ai-kernel-design",
+      "folder": "skills/ux-ai-kernel-design",
+      "previous_folder": "skills/comprendere-lavoro-agente",
+      "routes": {
+        "en": "/resources/comprendere-lavoro-agente/",
+        "it": "/risorse/comprendere-lavoro-agente/"
+      }
+    },
+    {
+      "resource_id": "presenza-prodotto-assistente",
+      "name": "Projectable Presence",
+      "skill_name": "projectable-presence",
+      "folder": "skills/projectable-presence",
+      "previous_folder": "skills/presenza-prodotto-assistente",
+      "routes": {
+        "en": "/resources/presenza-prodotto-assistente/",
+        "it": "/risorse/presenza-prodotto-assistente/"
+      }
+    },
+    {
+      "resource_id": "continuita-repository",
+      "name": "Maintain Repository Continuity",
+      "skill_name": "maintain-repository-continuity",
+      "folder": "skills/maintain-repository-continuity",
+      "previous_folder": "skills/continuita-repository",
+      "routes": {
+        "en": "/resources/continuita-repository/",
+        "it": "/risorse/continuita-repository/"
+      }
+    },
+    {
+      "resource_id": "accordi-collaborazioni",
+      "name": "Compose Agreement Contract",
+      "skill_name": "compose-agreement-contract",
+      "folder": "skills/compose-agreement-contract",
+      "previous_folder": "skills/accordi-collaborazioni",
+      "routes": {
+        "en": "/resources/accordi-collaborazioni/",
+        "it": "/risorse/accordi-collaborazioni/"
+      }
+    },
+    {
+      "resource_id": "organizzare-sistema-editoriale",
+      "name": "Comprendere e organizzare Editoriali",
+      "skill_name": "evolve-editoriali-system",
+      "folder": "skills/evolve-editoriali-system",
+      "previous_folder": "skills/organizzare-sistema-editoriale",
+      "routes": {
+        "en": "/resources/organizzare-sistema-editoriale/",
+        "it": "/risorse/organizzare-sistema-editoriale/"
+      }
+    },
+    {
+      "resource_id": "creare-comporre-competenze",
+      "name": "Meta_Skill Semantic Kernel",
+      "skill_name": "meta-skill-semantic-kernel",
+      "folder": "skills/meta-skill-semantic-kernel",
+      "previous_folder": "skills/creare-comporre-competenze",
+      "routes": {
+        "en": "/resources/creare-comporre-competenze/",
+        "it": "/risorse/creare-comporre-competenze/"
+      }
+    },
+    {
+      "resource_id": "kernel-in-plugin",
+      "name": "Kernel Plugin Incarnation",
+      "skill_name": "kernel-plugin-incarnation",
+      "folder": "skills/kernel-plugin-incarnation",
+      "previous_folder": "skills/kernel-in-plugin",
+      "routes": {
+        "en": "/resources/kernel-in-plugin/",
+        "it": "/risorse/kernel-in-plugin/"
+      }
+    },
+    {
+      "resource_id": "avviare-nodo-ai",
+      "name": "Incarnate Neutral Kernel Node",
+      "skill_name": "incarnate-neutral-kernel-node",
+      "folder": "skills/incarnate-neutral-kernel-node",
+      "previous_folder": "skills/avviare-nodo-ai",
+      "routes": {
+        "en": "/resources/avviare-nodo-ai/",
+        "it": "/risorse/avviare-nodo-ai/"
+      }
+    },
+    {
+      "resource_id": "coerenza-kernel-ai",
+      "name": "Kernel Continuum Awareness",
+      "skill_name": "kernel-continuum-awareness",
+      "folder": "skills/kernel-continuum-awareness",
+      "previous_folder": "skills/coerenza-kernel-ai",
+      "routes": {
+        "en": "/resources/coerenza-kernel-ai/",
+        "it": "/risorse/coerenza-kernel-ai/"
+      }
+    },
+    {
+      "resource_id": "formare-kernel-esperienza",
+      "name": "Proto Movimento",
+      "skill_name": "proto-movimento",
+      "folder": "skills/proto-movimento",
+      "previous_folder": "skills/formare-kernel-esperienza",
+      "routes": {
+        "en": "/resources/formare-kernel-esperienza/",
+        "it": "/risorse/formare-kernel-esperienza/"
+      }
+    },
+    {
+      "resource_id": "ka-kernel-assiomatico",
+      "name": "KA — Kernel Assiomatico",
+      "skill_name": "operate-ka",
+      "folder": "skills/operate-ka",
+      "previous_folder": "skills/ka-kernel-assiomatico",
+      "routes": {
+        "en": "/resources/ka-kernel-assiomatico/",
+        "it": "/risorse/ka-kernel-assiomatico/"
+      }
+    },
+    {
+      "resource_id": "fdla-correzione-ai",
+      "name": "Operate FDLA",
+      "skill_name": "operate-fdla",
+      "folder": "skills/operate-fdla",
+      "previous_folder": "skills/fdla-correzione-ai",
+      "routes": {
+        "en": "/resources/fdla-correzione-ai/",
+        "it": "/risorse/fdla-correzione-ai/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+---
+name: kernel-plugin-incarnation
+description: Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.
+---
+
+# Kernel Plugin Incarnation
+
+**Portare un kernel semantico in un plugin AI**
+
+## Oggetto e destinazione
+
+Conduci la relazione attraverso cui una capacità o un kernel semantico diventa un plugin utilizzabile in un ambiente AI. Comprendi il lavoro che il destinatario vuole svolgere e la capacità sorgente che può renderlo possibile. Il prodotto trasferisce sapere e mezzi coerenti con quel lavoro. Un insieme di file corretti è una rappresentazione della capacità; l’uso nel ricevente ne mostra l’esercizio.
+
+Raggiungi il metodo sorgente e le ragioni che lo rendono utile. Per una scelta concreta di formato, installazione, interfaccia, autenticazione o compatibilità, consulta la documentazione ufficiale corrente dell’ambiente scelto. Conserva la data e la portata del riscontro. Non trasferire come fatto attuale il ricordo di un comportamento del provider.
+
+## Separare le funzioni per comporle
+
+Comprendi che cosa deve stare nelle istruzioni: interpretazione del contesto, metodo, selezione delle fonti, continuità e apprendimento. Uno strumento può invece fornire dati aggiornati, accesso a un servizio o un’azione materiale. L’interfaccia rende visibili opzioni, stato e conseguenze quando aiuta una scelta dell’utente. Queste relazioni orientano la progettazione; il caso reale può cambiarne la forma.
+
+Riusa gli strumenti supportati già presenti quando svolgono la funzione richiesta. Forma un nuovo collegamento soltanto per la capacità realmente mancante. Non costruire un connettore per correggere un metodo semantico, né riscrivere la skill per compensare un accesso non configurato. Mantieni credenziali e stato degli account fuori dal testo pubblico delle istruzioni.
+
+Il destinatario deve poter comprendere quali mezzi richiede l’operazione promessa. Se una funzione dipende da un servizio esterno, rendi quel collegamento accessibile e dichiarato nel suo contesto d’uso. Quando manca una capacità facoltativa, il metodo ancora valido può continuare con i materiali disponibili; non simulare dati o azioni del servizio.
+
+## Seguire la capacità fino al suo uso
+
+Distingui la sorgente del kernel, la versione del plugin, l’istantanea delle skill, l’eventuale servizio collegato e lo stato del ricevente. Una modifica alla sorgente non aggiorna automaticamente il plugin installato. Una cartella generata non significa che l’ambiente l’abbia caricata, trovata o usata.
+
+Se il plugin mantiene stato locale, distinguilo dai file del pacchetto e dalla sede durevole del progetto. Verifica nel contratto corrente dell’ambiente che cosa sopravvive ad aggiornamento o disinstallazione. Conserva fuori dalle sedi eliminabili l’unica copia di conoscenza non ricostruibile: il luogo usato dal plugin per lavorare può avere un ciclo di vita diverso da quello del progetto.
+
+Prepara la forma più piccola che consenta un primo lavoro completo. Verifica il formato dove il contratto del provider lo richiede; usa un caso pertinente per osservare il metodo. Se dichiari uso nel ricevente, collega il riscontro alla versione, al contesto e al risultato effettivamente osservati. Una dichiarazione dell’assistente «ho usato la skill» non dimostra da sola quale contributo abbia cambiato la risposta.
+
+## Comprendere gli attriti
+
+Quando il lavoro si interrompe, risali alla differenza che lo produce. Il pacchetto può non essere leggibile, la skill non essere scoperta, il metodo essere incompleto, una fonte essere superata, un servizio mancare o un permesso essere insufficiente. Queste condizioni richiedono interventi diversi.
+
+Per esempio, un plugin di ricerca può selezionare la fonte giusta ma riceverne una copia vecchia dall’indice. Correggere la prosa della skill non aggiorna la fonte. Raggiungi la coordinata corrente del proprietario quando la freschezza cambia la decisione; se non puoi stabilirla, conserva l’incertezza nella specifica affermazione interessata.
+
+Distingui autenticazione dell’account, autorizzazione del servizio, permessi dell’ambiente e mandato dell’utente per l’azione concreta. La possibilità tecnica di inviare non equivale alla selezione di quel messaggio. Questa distinzione riguarda l’effetto, senza bloccare la preparazione utile del contenuto.
+
+## Portabilità e ritorno al metodo
+
+Nel passaggio tra ambienti conserva una sorgente semantica riconoscibile e adatta i meccanismi che la rendono raggiungibile. L’uguaglianza dei nomi dei file non dimostra equivalenza funzionale. Una chat reattiva e un ambiente agentico possono avere persistenza e strumenti diversi: rendi visibile ciò che il ricevente può effettivamente fare.
+
+Dopo un uso significativo, conserva identità della versione, ragione delle scelte, risultato e differenza utile al seguito. Una lezione specifica cambia il plugin; un errore di packaging cambia il metodo di confezionamento; un limite nella traduzione della capacità può cambiare questa competenza di trasferimento. Un evento può avere più ritorni, ciascuno pertinente al proprio oggetto.
+
+Questa è una relazione meta perché forma il modo in cui una capacità diventa un prodotto operativo. È autologica quando il lavoro sul plugin riforma il metodo con cui conduci il trasferimento. Se il criterio usato per scegliere le fonti produce ripetutamente dati vecchi, rivedilo e conserva perché cambia prima del prossimo porting. La continuità di tale apprendimento è distinta dalla pubblicazione di una nuova versione.
+
+## Uso e continuità nel ricevente
+
+Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+
+Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+
+## Natura e provenienza
+
+Risorsa MAIOS derivata da Kernel Plugin Incarnation. Conserva il metodo di traduzione fra capacità semantica, prodotto e ricevente. I dettagli di formato e installazione dipendono dalla documentazione ufficiale del provider scelto; questo kit non dichiara compatibilità specifiche o installazioni già eseguite.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.

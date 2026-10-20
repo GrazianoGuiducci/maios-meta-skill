@@ -1,0 +1,77 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Maintain Causal Task Continuity
+
+**Riprendere un progetto con l’AI dopo un’interruzione**
+
+Questa competenza conserva ciò che rende possibile riprendere un lavoro: intento, ragioni delle scelte, sapere acquisito, operazioni svolte e questioni aperte. Il punto corrente raggiunge una guida abbastanza dettagliata da permettere all’assistente di continuare attraverso il metodo già formato.
+
+Usala quando un progetto attraversa sessioni, collaboratori, interruzioni o una riduzione del contesto. La profondità della conservazione segue ciò che sarebbe costoso o impossibile ricostruire.
+
+## Conservare ragioni e capacità, insieme ai fatti
+
+Individua il lavoro selezionato, chi ne decide la direzione e dove vive il suo sapere. Recupera la guida già esistente prima di creare un nuovo contenitore. Conserva il perché delle decisioni insieme alla scelta: quale fonte o condizione la sostiene, che cosa permette di fare, cosa potrebbe cambiarla. Distingui parole dell’operatore, fatti osservati, inferenze e proposte. Una possibilità ancora aperta può restare raggiungibile senza diventare il prossimo incarico. Quando più competenze devono continuare, conserva il contributo di ciascuna, la ragione per cui resta pertinente e il metodo da cui riprende; un elenco di nomi non trasferisce quella capacità.
+
+## Un punto di rientro che raggiunge il sapere
+
+Mantieni un punto corrente breve con obiettivo, oggetto, fonti decisive, risultato raggiunto, effetti compiuti e prossimo movimento. Collegalo alla guida che spiega intenzioni, metodo, correzioni e passaggi sostanziali. Punto corrente e guida sono funzioni: possono stare nello stesso documento. Usa il luogo realmente proprietario del progetto e raggiungibile dal ricevente. Se una pagina viene rigenerata, conserva le ragioni in una sorgente che la rigenerazione non cancelli. Se puoi operare soltanto in chat, restituisci un testo completo da salvare e riportare alla prossima sessione.
+
+## Accumulare durante il lavoro
+
+Integra una nuova ragione, scoperta o correzione dove cambia il metodo, mentre la relazione è comprensibile. Conserva riferimenti alle prove invece di duplicare tutti i log. Quando una direzione cambia, aggiorna il seguito e lascia attribuita la precedente situazione; non far apparire la nuova comprensione come già disponibile in passato. Prima di ampliare ancora le fonti, preserva una relazione decisiva che rischia di perdersi. Una singola operazione ordinaria non richiede un diario: scrivi ciò che cambierà una scelta o un rientro.
+
+## Riprendere dal presente
+
+Al rientro componi la richiesta attuale con il punto corrente, la guida e le fonti necessarie. Rendi riconoscibile da dove riparti. Verifica i fatti che possono essere cambiati quando la verifica è pertinente e accessibile. Tratta un riassunto precedente come indicazione di recupero, non come autorità sul presente. Conserva le decisioni ancora valide; risolvi le differenze attraverso la fonte e il nuovo segnale dell’operatore. Un effetto già compiuto non va ripetuto perché il riepilogo è incompleto. Autorizzazioni, risultati e proposte restano distinguibili. Prosegui quando la relazione è sufficiente, senza ricaricare per inerzia tutta la cronologia.
+
+## Quando la continuità migliora il proprio metodo
+
+Il lavoro diretto è far continuare un progetto. La relazione meta diventa pertinente quando l’esperienza cambia come una competenza organizza la conoscenza necessaria al lavoro successivo.
+
+La relazione è autologica quando la continuità considera il proprio modo di conservare: se un riepilogo ha mantenuto il risultato ma perso la ragione di una scelta, il metodo può imparare a rendere raggiungibile quella ragione. Questo non equivale a memoria illimitata o autonomia esecutiva.
+
+## Apprendimento e continuità
+
+Quando un rientro richiede di rispiegare una relazione già acquisita, individua se mancava la conoscenza, il collegamento o l’uso della guida. Correggi quel punto nel progetto e, se riusabile, nel metodo di continuità.
+
+Una guida scritta rende il sapere disponibile. Un successivo lavoro diverso può mostrare se viene davvero ripreso. Conserva solo ciò che cambia il seguito; l’apprendimento riguarda documenti e istruzioni accessibili, non i pesi del modello.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Maintain Causal Task Continuity
+
+## Accumulare il contesto che permette di continuare
+
+Usa due funzioni collegate. Un margine breve identifica intento presente, oggetto e owner, comprensione acquisita e causa, movimento corrente e successivo e ciò che può superarli. Una guida accumulata insegna ragioni, fonti, decisioni, correzioni, relazioni, lavoro svolto e possibilità aperte necessari a proseguire. I file esistenti possono svolgere entrambe le funzioni; la distinzione non prescrive documenti separati.
+
+Integra una differenza significativa nella sezione che ne comprende il significato mentre il lavoro avviene. Un comando ripetuto non richiede un'altra pagina; una nuova ragione che cambia la scelta successiva sì. Quando una correzione supera una direzione, rendi chiaro il presente e conserva l'evento precedente con la sua attribuzione temporale. Conserva una possibilità senza trasformarla in un incarico. Un ingresso breve non sostituisce né elimina il sapere dettagliato che raggiunge.
+
+## Recuperare un'istanza senza inventarne la storia
+
+Quando il compito selezionato è recuperare l'intera istanza, leggi la cronologia disponibile insieme agli artefatti e ai corpi modificati. Recupera domande e possibilità sostanziali oltre alle azioni compiute. Conserva le parole esatte dell'operatore quando la formulazione porta significato. Attribuisci separatamente le proposte dell'assistente; indica le lacune senza fabbricare una storia continua. Un repository sporco può contenere lavoro di altre istanze. Ricostruisci il contributo attraverso percorsi realmente cambiati, identità degli artefatti ed effetti osservati.
+
+## Rientrare attraverso la guida
+
+Raggiungi il presente e le sezioni che ne spiegano le ragioni; risali alla fonte se manca una relazione. Rendi brevemente riconoscibile la relazione ripresa quando aiuta a orientarsi. Una nuova istruzione può correggere il seguito senza cancellare il sapere acquisito. Alla conclusione chiudi il margine del lavoro attivo conservando la conoscenza della competenza. Se un rientro richiede ancora all'operatore di ricostruire una relazione perduta, approfondisci guida e metodo che forma le guide.
+
+# Esempi — Riprendere un progetto con l’AI dopo un’interruzione
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.
+
+Prima di interrompere lo sviluppo, la guida conserva perché un componente è stato scelto, che cosa è già stato verificato e quale difetto resta aperto. Al rientro l’assistente legge questi collegamenti e controlla lo stato corrente dei file prima di continuare. Il risultato da osservare è la ripresa dello stesso problema senza ripetere modifiche già completate.
+
+## 2. Continua una ricerca dopo il cambio di chat.
+
+Una ricerca distingue la domanda, le fonti effettivamente lette, un’ipotesi e una contraddizione ancora aperta. Il passaggio alla nuova chat porta la guida e i riferimenti accessibili. Un nuovo articolo può cambiare la domanda, mantenendo attribuito ciò che la ricerca sosteneva prima.
+
+## 3. Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte.
+
+Un secondo assistente riceve scopo della proposta, destinatario, ragioni delle condizioni e parti ancora da decidere. La guida distingue bozza preparata da proposta inviata. Il collaboratore può completare la bozza; il passaggio di contesto non gli attribuisce automaticamente l’autorità di contattare il cliente.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

@@ -1,0 +1,132 @@
+{
+  "it": {
+    "title": "Scrivere titoli e sottotitoli che fanno capire il contenuto",
+    "subtitle": "Rende riconoscibili soggetto, oggetto e contesto prima che il lettore apra un articolo o una scheda.",
+    "kind": "Facoltà editoriale",
+    "domain": "Prodotti e comunicazione",
+    "does": "Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto.",
+    "when": "Quando i titoli sono generici, promozionali o comprensibili soltanto a chi conosce già la conversazione.",
+    "examples": [
+      "Corregge il titolo di un articolo senza cambiarne il soggetto.",
+      "Rende comprensibile una scheda prodotto al primo incontro.",
+      "Organizza titoli e nomi di documenti per ritrovarli nel progetto."
+    ],
+    "intro": [
+      "Questa competenza forma titoli, sottotitoli e descrizioni che permettono al lettore di riconoscere il contenuto prima di aprirlo. Il nome orienta; il titolo identifica l’oggetto o la relazione; il sottotitolo aggiunge ciò che serve a distinguerne uso e contesto.",
+      "Opera su articoli, schede, pagine, documenti, sezioni e nomi di file. La chiarezza nasce dalla comprensione della sorgente, non da una formula promozionale applicata a ogni contenuto."
+    ],
+    "method": [
+      {
+        "title": "Comprendere ciò che si sta nominando",
+        "body": "Leggi il contenuto e le sue fonti abbastanza da identificare soggetto, oggetto e relazione effettivi. Considera che cosa il lettore conosce già e quale riferimento concreto gli manca. Conserva un nome proprio o un titolo approvato quando va mantenuto esatto; affiancagli la descrizione necessaria anziché cambiarne silenziosamente l’identità. Se il contenuto non è ancora chiaro, torna alla fonte: un titolo accattivante non risolve un’incertezza di significato."
+      },
+      {
+        "title": "Dare a titolo e sottotitolo funzioni complementari",
+        "body": "Il titolo colloca il contenuto in una classe riconoscibile e conserva soltanto i termini che ne difendono l’identità. Se può essere applicato invariato a oggetti estranei, cerca il riferimento mancante. Il sottotitolo aggiunge il caso, l’attività, la dinamica o l’utilità che distingue questa pagina. Non ripetere con sinonimi la stessa frase. La coppia deve funzionare per una persona che incontra il testo per la prima volta, senza chiederle di ricostruire la conversazione che lo ha generato."
+      },
+      {
+        "title": "Organizzare i titoli secondo la superficie",
+        "body": "Per il titolo principale usa l’identità della pagina o del suo oggetto; il nome proprio può bastare se la riga di supporto spiega il contesto. I titoli delle sezioni formano una mappa: ciascuno nomina un oggetto, una decisione o una relazione realmente trattata. Nelle schede di scelta rendi visibile l’azione e ciò che la persona ottiene, nel dominio e nel contesto pertinenti. Una chiamata all’azione nomina il gesto disponibile dopo che la pagina ne ha chiarito il senso. Adatta la forma, senza trasformare questi ruoli in uno schema da ripetere meccanicamente."
+      },
+      {
+        "title": "Conservare coerenza tra nome e contenuto",
+        "body": "L’attacco e il corpo devono confermare il soggetto indicato dall’header. Un titolo non introduce un beneficio, una maturità o un effetto che la fonte non sostiene. Quando il lavoro è una correzione del testo, modifica il contenuto selezionato mantenendo struttura e funzioni non coinvolte; se una diversa struttura diventa necessaria, rendi riconoscibile quella differenza. Nelle traduzioni conserva identità, relazione, azione e portata, anche quando cambia la sintassi."
+      },
+      {
+        "title": "Rendere ritrovabili documenti e risorse",
+        "body": "Per un artefatto persistente collega il nome leggibile, la descrizione, il percorso e lo stato. Un nome utile contiene l’oggetto o la relazione che una persona cercherà; data e versione distinguono stati senza sostituirne l’identità. Etichette come tipo e ambito possono aiutare l’orientamento, ma non descrivono tutte le capacità. Una classificazione locale non diventa automaticamente una tassonomia dell’intero sistema. Il nome non conferisce autorità: è il contenuto e la sua fonte a sostenere ciò che afferma."
+      }
+    ],
+    "depth": {
+      "title": "Dalla chiarezza di un titolo al metodo editoriale",
+      "paragraphs": [
+        "Il lavoro diretto è rendere comprensibile un header. La relazione meta compare quando una correzione cambia come la competenza editoriale riconosce e presenta gli oggetti nelle opere successive.",
+        "La relazione autologica è presente quando questo stesso metodo si accorge di produrre titoli formalmente corretti ma ancora generici. Torna allora al contenuto e modifica il criterio di denominazione. Nessuna forma di titolo garantisce da sola attenzione, iscrizioni o altri risultati di distribuzione."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi il contesto del tuo lavoro. Contiene l’intero metodo. Conserva la restituzione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella all’assistente, indicagli SKILL.md e scegli i documenti del progetto da usare per la continuità. Accessi e azioni dipendono dagli strumenti e dal mandato disponibili."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza e alle guide pertinenti. Senza kernel, l’avvio completo fornisce il metodo necessario; puoi iniziare dal lavoro descritto qui."
+      }
+    ],
+    "learning": [
+      "Un titolo corretto insegna quando una parola mancava, quando un termine era rumore e quale distinzione il lettore doveva percepire. Conserva questa ragione nel metodo, con un esempio attribuito o illustrativo utile al prossimo uso.",
+      "Rivedi il risultato dal punto di vista di chi incontra il contenuto senza la chat d’origine. Questo controllo riguarda la comprensibilità dell’oggetto, non una promessa di efficacia commerciale."
+    ],
+    "operating_guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Write titles and subtitles that identify the content",
+    "subtitle": "Make subject, object and context recognisable before the reader opens an article or resource card.",
+    "kind": "Editorial faculty",
+    "domain": "Products and communication",
+    "does": "Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter.",
+    "when": "Use it when titles are generic, promotional or understandable only to someone who already knows the conversation.",
+    "examples": [
+      "Correct an article title without changing its subject.",
+      "Make a product card understandable at first encounter.",
+      "Organise document titles and names so they can be found in a project."
+    ],
+    "intro": [
+      "This competence forms titles, subtitles and descriptions that allow readers to recognise the content before opening it. The name provides orientation; the title identifies the object or relationship; the subtitle adds what is needed to distinguish its use and context.",
+      "It works on articles, cards, pages, documents, sections and filenames. Clarity comes from understanding the source, not from applying a promotional formula to every piece of content."
+    ],
+    "depth": {
+      "title": "From a clear title to an editorial method",
+      "paragraphs": [
+        "The direct work is to make a header understandable. A meta relation appears when a correction changes how the editorial competence recognises and presents objects in subsequent works.",
+        "The autological relation is present when this same method notices that it produces titles which are formally correct but still generic. It then returns to the content and changes its naming criterion. No title form alone guarantees attention, subscriptions or other distribution results."
+      ]
+    },
+    "learning": [
+      "A corrected title teaches when a word was missing, when a term was noise and which distinction the reader needed to perceive. Preserve that reason in the method, with an attributed or illustrative example useful to the next use.",
+      "Review the result from the perspective of someone encountering the content without the originating chat. This check concerns the comprehensibility of the object, not a promise of commercial effectiveness."
+    ],
+    "method": [
+      {
+        "title": "Understand what is being named",
+        "body": "Read the content and its sources sufficiently to identify the actual subject, object and relationship. Consider what the reader already knows and which concrete reference is missing. Preserve a proper name or approved title when it must remain exact; add the necessary description rather than silently changing its identity. If the content is not yet clear, return to the source: a catchy title does not resolve uncertainty about meaning."
+      },
+      {
+        "title": "Give title and subtitle complementary functions",
+        "body": "The title places the content in a recognisable class and retains only the terms that sustain its identity. If it can be applied unchanged to unrelated objects, look for the missing reference. The subtitle adds the case, activity, dynamics or usefulness that distinguishes this page. Do not repeat the same sentence through synonyms. The pair should work for someone encountering the text for the first time, without requiring them to reconstruct the conversation that generated it."
+      },
+      {
+        "title": "Organise headings according to their surface",
+        "body": "For the main title, use the identity of the page or its object; a proper name may be sufficient if the supporting line explains the context. Section headings form a map: each names an object, decision or relationship actually discussed. In cards used to choose a route, make the action and what the person receives visible within the relevant domain and context. A call to action names the available gesture after the page has clarified its meaning. Adapt the form without turning these roles into a scheme to repeat mechanically."
+      },
+      {
+        "title": "Keep name and content coherent",
+        "body": "The opening and body should confirm the subject identified by the header. A title does not introduce a benefit, level of maturity or effect unsupported by the source. When the work is a text correction, change the selected content while preserving the structure and functions not involved; if a different structure becomes necessary, make that difference recognisable. In translations, preserve identity, relationship, action and scope even when the syntax changes."
+      },
+      {
+        "title": "Make documents and resources retrievable",
+        "body": "For a persistent artefact, connect the readable name, description, path and state. A useful name contains the object or relationship a person will search for; date and version distinguish states without replacing identity. Labels such as type and domain can help orientation, but they do not describe every capability. A local classification does not automatically become a taxonomy of the whole system. The name does not confer authority: the content and its source support what it claims."
+      }
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
+      }
+    ],
+    "operating_guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/OPERATING_GUIDE.md"
+  }
+}

@@ -1,0 +1,220 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Meta_Skill Semantic Kernel
+
+## Generative work
+
+KA, Kernel Assiomatico, is a semantic kernel; metacompetences are its operating faculties. Meta_Skill operates on this competence field. Do not reduce KA to a substrate under a separately conceived Meta_Skill kernel.
+
+Recognize, reuse, compose, form and evolve competences that can change present work. Begin from intent, sources and available capabilities, allowing new knowledge to change the question too. A competence is operating knowledge for understanding a situation, choosing action and using consequences. Its file is an entry, not the entire capability.
+
+Understand what the recipient should be able to do, why and under which conditions. A useful result, example, teaching, memory, error or possibility can inform formation; diagnosing a defect is not a prerequisite. Keep unrepresented relations reachable while preserving determinations actually reached.
+
+## From knowledge to decisions
+
+Read sources needed to understand the doing. Derive the relation between purpose, conditions, choice and consequence from examples, without confusing visible form with mechanism. A useful cost estimate, for example, may teach how to make alternatives and assumptions comparable; copying its sections loses that relation. Teaching may explain a choice an example leaves implicit. Practice in another situation can correct both.
+
+Make that knowledge operational: what to observe, which difference changes a decision, how to construct the result, when to adapt and which consequence calls for revision. These questions aid understanding rather than forming compulsory fields. Keep reasons and decisive sources in a reachable guide so changing conditions can reform the method.
+
+## Reuse, composition and formation
+
+Let an existing competent capability participate. Reconnect its entry when knowledge exists but is not found. Deepen the responsible method when an operating relation is missing. Form the smallest usable body when a distinct capability needs continuity of its own.
+
+Research, analysis and writing can contribute to one result, changing question and method while preserving their sources. Do not predetermine every competence, order or pass count. A temporary composition may end with the task; a continuing shared relation that learns may warrant its own location.
+
+The formed method must know its enabling conditions. Do not merely instruct “analyze well” or “preserve context”: teach how a source, contradiction or consequence changes the relevant choice. Include a recognizable entry, knowledge for action and a continuation guide. When a technical skill is needed, use the recipient's supported format without allowing format to determine capability.
+
+## Apply and reform
+
+Exercise the method in selected real work. Keep source, object, meaning, method and consequence connected as the result forms. If a synthesis changed the author's concept, recover the faithful relation before continuing. Let new observations change composition when they open a different possibility. Internal coherence can coexist with loss of the object.
+
+When experience changes know-how, integrate the difference into the competence that continues. Preserve the cause changing later use, not only an error report. Several competences may receive different changes from one event. A domain lesson does not automatically become a general rule.
+
+## The generator as an object of its own work
+
+This method is itself a competence. If formation copied an example's appearance and another case exposes lost conditions, change both the skill and the method extracting knowledge from examples. That return is autological: the generator understands and reforms its doing in the same field. It is autopoietic when it changes the form through which further generation and work become possible.
+
+Meta levels follow the object: preparing a cost estimate, forming the capability to prepare cost estimates, improving how those capabilities are formed. They are not a fixed rank or quality measure. Autonomy concerns actions the environment can perform within its entrusted mandate without intervention.
+
+Preserve acquired understanding before context loss makes it unreachable. At reentry, reach the present and still-valid reasons rather than reinstalling an earlier conclusion as immutable truth. Continue while another difference changes the work; when rereading only adds procedure, proceed from the sufficient result.
+
+## Use and continuity in the recipient
+
+Use actual means: supplied materials in chat, or files, tools and guides where available. Ask for missing context only when it changes the work. Preserve reasons, sources, learned differences and continuation in the project's actual location; without persistence, return a reusable note.
+
+Instructions make knowledge available without updating model weights or proving stable learning. Distinguish available method, actual use and later observed behavior. Accounts, tools and authority over publication, sending, installation and distribution depend on the actual environment and mandate.
+
+## Nature and provenance
+
+Public adaptation of the generative Meta_Skill kernel in its relation with KA and FDLA, including formation from works, teaching and practice. It transfers a formation and composition method rather than a particular node's state or a guarantee of model self-learning.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Meta_Skill Semantic Kernel
+
+## Make every competence relational
+
+A competence owns a purpose without becoming isolated. Form it to recognize when complementary knowledge changes its work and make that knowledge's actual owner reachable. A business contribution might change the question, a design contribution what becomes perceivable, and continuity what remains usable after interruption. Compose those contributions in this host through actual sources and means. Another agent is only one possible mechanism, never a condition of composition. Preserve each owner's meaning and responsibility.
+
+When one event teaches several competences, return the different causal lesson each needs. If a known method was not reached, repair discovery or routing; adding the same knowledge again does not repair that loss. If know-how is missing, deepen its owner. Form a distinct body when a capability needs continuing knowledge of its own. A temporary combination does not automatically become a new kernel. A continuing shared object and learning relation can justify a different organization.
+
+## Recover possibilities beyond the loaded topic
+
+Context is partial. When considering what the system can do, reach complementary functional sources rather than searching only through the first question's terms. Follow relationships into owner knowledge and retain coverage gaps. A map is an entry to the field, not its boundary. A named form such as an agent, plugin or Entity can carry functions broader than that form. Preserve the person's term, understand which functions remain if the form disappears and let a situated incarnation emerge.
+
+The included `scripts/system_field.py` offers read-only orientation from a host-selected manifest. Run `python scripts/system_field.py --workspace PATH --manifest references/system-field.example.json`. Adapt that manifest to sources deliberately made available to the assistant; it does not crawl arbitrary files. The output exposes excerpts, omitted characters, headings, immediate skill metadata and missing sources. Excerpts are source claims, not an activation or relevance verdict. Follow the complete owner body when an omitted relation matters. Run `python scripts/test_system_field.py` for the portable retrieval tests.
+
+## Compose capabilities across receivers when needed
+
+Understand the function actually needed and whether it can be supplied locally, by reachable knowledge, by a tool, by new construction or by an authorized contribution from another receiver. Knowledge, a connected tool, current access, authority and an exercised result are different conditions. Do not choose another instance merely for a different model name. A recent source or capable tool does not acquire priority over the person's direction.
+
+If collaboration is selected, carry the concrete contribution and its reason, exact sources, current work, actual means, owner, authority and return location to the recipient. Distinguish a prepared request, an actual send, recipient uptake, performed work, integration and consequence. A commit does not wake another chat. A late result can remain history without overriding a changed present. Keep a useful continuation if the origin instance closes; a reactive chat does not become a persistent monitor through instructions. Stop coordinating when another handoff adds only duplication or delay.
+
+## Let formation itself learn
+
+Acquire know-how from sources, successful work, demonstrations, teaching and practice. Recover the connection between conditions, choice, construction and consequence, rather than copying the work's appearance. The formed competence receives that usable method and enough knowledge to revise it when the situation changes. Missing capacity is one occasion for formation, not its only permitted origin.
+
+Give it an internal guide that accumulates meaningful knowledge and a system-guide relation connecting entry, continuity, shared sources and complementary competences in the actual host. Existing method/reference sections can perform both functions. Empty guide headings and lists of skill names teach nothing. Preserve a short margin reaching the detailed guide. Include the person's sustainable attention in the situation understood: brevity alone does not preserve meaning, and silence does not prove comprehension. Respect a recipient-selected communication contract without universalizing its form.
+
+A new passage starts from the competence changed by the previous resultant. Preserve useful determinations; change question, source selection or method when another relation changes the work. No fixed pass count or independent semantic admission is required. Source, object, meaning, method and resultant remain coupled as the movement corrects itself. When a general formation error is exposed, change this generator as well as the formed competence. Growth can consolidate duplicate bodies or reconnect knowledge rather than add files.
+
+## Compose kernels while retaining their continuation
+
+Several independently continuing kernels can participate in one host. Preserve their identities, local state, learning, sources and effect authority while composing only pertinent functions. A specialist remains usable alone unless it declares a real dependency. A general kernel is a possible participant rather than a compulsory root. An earlier representation can cool into history when its still-material relations continue elsewhere; this does not erase a latent possibility. Distinguish represented, reachable, discoverable, exercised and assimilated. Instructions can carry operating knowledge; they do not demonstrate model weight changes, future behavior or literal reverse engineering of an LLM.
+
+# Meta_Skill Semantic Kernel — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Form a reusable capability from quotations
+
+A team supplies two quotations and explains why some alternatives are separate. The assistant derives the relation between assumptions, cost and comparability, forms the method and applies it to a different case. The example’s structure can change when conditions change.
+
+## Compose research and writing around the same question
+
+An article must connect technical sources and business use. Research and editorial competence contribute to the same question; a source may change it. The composition remains situated in that work until a method emerges that is useful to continue independently.
+
+## Let the generator correct how it learns from an example
+
+The first competence repeats a guide’s format but misses the reason for a choice. A second case exposes that limit. Correction reaches both the guide competence and the generative method: later examples must yield the relation between conditions, choice and consequence, beyond visible appearance.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Included executable sources
+
+
+## scripts/system_field.py
+
+```python
+"""Read-only, query-independent orientation from host-selected public-to-agent files.
+
+Never crawl arbitrary workspace files: the host manifest identifies sources and
+skill entry directories. Output is retrieval evidence, not capability activation.
+"""
+import argparse
+import json
+import re
+from pathlib import Path
+
+
+def read_source(path, limit):
+    record = {"path": str(path)}
+    try:
+        body = path.read_text(encoding="utf-8-sig")
+        record.update(status="read", excerpt=body[:limit],
+                      omitted_characters=max(0, len(body) - limit))
+        headings = re.findall(r"^#{1,3} .+$", body, flags=re.MULTILINE)
+        record["outline"] = headings[:35]
+        record["omitted_headings"] = max(0, len(headings) - 35)
+        if path.suffix.lower() == ".json":
+            try:
+                document = json.loads(body)
+                if isinstance(document, dict):
+                    record["top_level_keys"] = list(document)
+                    if isinstance(document.get("nodes"), list):
+                        record["relational_nodes"] = [
+                            {key: node[key] for key in ("id", "label", "kind", "definition", "source_refs") if key in node}
+                            for node in document["nodes"] if isinstance(node, dict)
+                        ]
+            except json.JSONDecodeError:
+                record["structured_status"] = "invalid_json"
+    except (OSError, UnicodeError) as exc:
+        record.update(status="unavailable", reason=type(exc).__name__)
+    return record
+
+
+def collect(root, manifest, excerpt_chars=1400):
+    result = {
+        "coverage": "Only configured sources and immediate skill entries; not the whole system.",
+        "interpretation": "Read excerpts as source claims. Follow owner sources; absence is not impossibility.",
+        "sources": [], "competences": [], "gaps": [],
+    }
+    for item in manifest.get("sources", []):
+        record = read_source((root / item["path"]).resolve(), excerpt_chars)
+        record["function"] = item["function"]
+        result["sources"].append(record)
+    for relative in manifest.get("skill_roots", []):
+        directory = (root / relative).resolve()
+        if not directory.is_dir():
+            result["gaps"].append({"path": str(directory), "reason": "missing_skill_root"})
+            continue
+        for path in sorted(directory.glob("*/SKILL.md")):
+            record = read_source(path, 1600)
+            excerpt = record.pop("excerpt", "")
+            # Retain frontmatter, including multiline descriptions, without a YAML dependency.
+            if excerpt.startswith("---") and "\n---" in excerpt[3:]:
+                metadata = excerpt.split("\n---", 1)[0][3:].strip()
+                record["entry_metadata"] = metadata
+                record["entry_metadata_complete"] = True
+            else:
+                record["entry_excerpt"] = excerpt
+                record["entry_metadata_complete"] = False
+            result["competences"].append(record)
+    return result
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--workspace", required=True, type=Path)
+    parser.add_argument("--manifest", required=True, type=Path)
+    parser.add_argument("--excerpt-chars", type=int, default=1400)
+    args = parser.parse_args()
+    if args.excerpt_chars < 1:
+        parser.error("--excerpt-chars must be positive")
+    manifest = json.loads(args.manifest.read_text(encoding="utf-8-sig"))
+    print(json.dumps(collect(args.workspace.resolve(), manifest, args.excerpt_chars),
+                     ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()
+```
+
+## references/system-field.example.json
+
+```json
+{
+  "sources": [
+    {
+      "function": "project intention and present",
+      "path": "CURRENT_STATE.md"
+    },
+    {
+      "function": "system capabilities and relations",
+      "path": "SYSTEM.md"
+    }
+  ],
+  "skill_roots": [
+    "skills"
+  ]
+}
+```
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

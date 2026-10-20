@@ -133,7 +133,8 @@
     "start_title": "Preparare il primo incarico per la tua AI.",
     "start_intro": "Scegli un esempio e l'ambiente, poi aggiungi ciò che vuoi affidare all'AI. L'avvio preparato include il metodo essenziale di Meta-Activity e il tuo contesto: puoi copiarlo o allegare i file del pacchetto.",
     "related_title": "Meta-Activity nella raccolta MAIOS.",
-    "related_intro": "Meta-Activity è la prima risorsa pubblica della raccolta. La repository conserva competenza, guida, esempi e descrizioni nella stessa versione. Le prossime risorse nasceranno dal lavoro e dall'uso delle competenze."
+    "related_intro": "Meta-Activity è la prima risorsa pubblica della raccolta. La repository conserva competenza, guida, esempi e descrizioni nella stessa versione. Le prossime risorse nasceranno dal lavoro e dall'uso delle competenze.",
+    "operating_guide": "skills/meta-activity/GUIDA_OPERATIVA_IT.md"
   },
   "en": {
     "lead": "Form and evolve AI activities from the context of your work.",
@@ -269,6 +270,7 @@
     "start_title": "Prepare the first assignment for your AI.",
     "start_intro": "Choose an example and environment, then add the work to entrust to AI. The prepared starter includes the complete English operating method and your context.",
     "related_title": "Meta-Activity in the MAIOS collection.",
-    "related_intro": "Meta-Activity is the collection's first public resource. The repository keeps its competence, guide, examples and descriptions in the same version. Future resources will develop through work and use."
+    "related_intro": "Meta-Activity is the collection's first public resource. The repository keeps its competence, guide, examples and descriptions in the same version. Future resources will develop through work and use.",
+    "operating_guide": "skills/meta-activity/OPERATING_GUIDE.md"
   }
 }

@@ -2,7 +2,7 @@
 name: meta-activity
 description: Forma e fa evolvere attività agentiche dal contesto del lavoro. Usa per trasformare un intento in un'attività o servizio AI, riconoscere e comporre funzioni e competenze, continuare un incarico o adattarne metodo, conoscenza e organizzazione; l'attivazione può avvenire su richiesta, evento o cadenza.
 metadata:
-  version: 0.2.0
+  version: 0.3.0
 ---
 
 # Meta-Activity
@@ -88,3 +88,6 @@ Se non puoi aggiornare la sede autorevole, restituisci la variazione precisa e i
 ## Ingressi per la persona
 
 La [guida d'uso](README_IT.md) descrive come iniziare. L'[avvio autonomo in chat](AVVIO_CHAT_IT.txt) include il metodo essenziale senza dipendenze esterne. Gli [esempi](ESEMPI_IT.md) aprono contesti e servizi; la [traccia di continuità](CONTINUITA_ATTIVITA.md) è facoltativa e si adatta alle sedi esistenti.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.

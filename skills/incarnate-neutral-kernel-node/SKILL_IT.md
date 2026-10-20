@@ -1,0 +1,55 @@
+---
+name: incarnate-neutral-kernel-node
+description: Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà.
+---
+
+# Incarnate Neutral Kernel Node
+
+**Avviare un assistente AI con identità e continuità proprie**
+
+## Il destinatario nasce dal proprio lavoro
+
+Aiuta un nuovo assistente o nodo AI a iniziare con capacità condivise, uno scopo riconoscibile e una continuità propria. Comprendi prima il destinatario: quale lavoro deve rendere possibile, quali fonti appartengono al progetto, quali mezzi offre l’ambiente e che cosa deve restare valido attraverso conversazioni diverse. La neutralità conserva l’identità del destinatario; non richiede un sistema vuoto o privo di esperienza ereditata.
+
+Raggiungi il metodo da trasferire e le ragioni che lo rendono utile. Porta capacità e conoscenza trasferibile, lasciando all’origine identità privata, stato temporale, credenziali, topologia locale e autorità sugli effetti. Un assistente di un nuovo progetto non eredita i task ancora aperti di quello che ha prodotto il metodo.
+
+## Comprendere le forme del nodo
+
+Distingui il pacchetto condiviso che offre il metodo, la copia o il profilo di cui il destinatario è responsabile, la configurazione adatta all’ambiente, le istruzioni effettivamente disponibili in quel luogo e il lavoro delle conversazioni. Queste forme hanno relazioni reali, ma nessuna da sola dimostra le altre.
+
+Un repository può essere la sorgente del nodo; una chat può essere il suo presente locale; una configurazione può rendere il metodo raggiungibile. Il nodo ha continuità quando scopo, fonti, sapere utile e modo di rientrare possono attraversare il suo lavoro reale. Non attribuire al pacchetto uno stato utente o un comportamento che appartiene soltanto al ricevente.
+
+## Formare il primo movimento completo
+
+Parti da un risultato utile e realizzabile con i mezzi presenti. Forma l’ingresso che permette di comprendere il contesto, richiamare il sapere pertinente, agire e conservare ciò che è emerso. Se il progetto usa file, collega la guida a un punto di rientro stabile. Se usa soltanto la chat, restituisci la guida da portare al seguito. Se una capacità richiede uno strumento assente, separa la parte che puoi svolgere dalla parte che lo richiede.
+
+Rendi praticabile la formazione di nuove competenze: quando il primo lavoro insegna una scelta riutilizzabile, collega causa, condizioni e conseguenza al metodo che dovrà usarla. Rendi praticabile anche la comprensione del proprio funzionamento: se l’ingresso o la persistenza del nodo stanno perdendo conoscenza, quel rapporto può diventare oggetto del lavoro. Queste funzioni possono stare in poche sedi profonde, senza un catalogo obbligatorio di componenti.
+
+Adatta discovery, strumenti e memoria al ricevente conservando il significato. Un meccanismo di un harness non è automaticamente presente in una chat. Consulta le istruzioni ufficiali correnti quando una configurazione concreta dipende dal provider. Non dichiarare installato ciò che è soltanto scritto in un file.
+
+## Nascita e aggiornamento
+
+Un nodo nuovo può partire dalla capacità condivisa corrente e formare il proprio primo caso. Un nodo già esistente porta anche decisioni, conoscenza e modifiche locali. Per aggiornarlo, confronta il contributo ricevuto con ciò che il nodo ha imparato; integra la differenza pertinente senza sovrascrivere la sua identità o lo stato di progetto.
+
+Segui le proiezioni effettivamente interessate: metodo, ingresso, guida, eventuale configurazione e istruzioni installate. Una release del pacchetto non aggiorna da sola le copie dei destinatari. Conserva le integrazioni ancora aperte anche quando la sorgente non cambia di nuovo; l’assenza di un nuovo delta non completa il lavoro precedente.
+
+## Apprendimento locale e ritorno condivisibile
+
+Il nodo apprende nel proprio contesto. Una difficoltà di rientro può correggere la sua guida; un esempio riuscito può affinare una competenza. Quando emerge un sapere utile ad altri, separa la relazione trasferibile dai dati privati e dalle particolarità dell’account. Conserva che cosa è accaduto, quale scelta cambia e in quali condizioni quel sapere può essere riusato.
+
+Il ritorno alla sorgente condivisa è un effetto distinto dalla modifica locale. Può avvenire quando selezionato, portando il metodo utile e lasciando al nodo la propria memoria. Due nodi possono condividere capacità e apprendere reciprocamente senza diventare copie l’uno dell’altro.
+
+La relazione meta riguarda la formazione delle condizioni in cui il nodo può lavorare e far evolvere le sue competenze. La relazione autologica emerge quando il metodo di avvio riconosce un proprio limite e si modifica: per esempio, il secondo rientro rivela che erano state conservate azioni ma non le ragioni. Correggi la guida del nodo e il metodo con cui prepari il prossimo avvio. Il primo caso documenta il proprio risultato; un caso diverso può mostrare se la correzione continua.
+
+## Uso e continuità nel ricevente
+
+Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+
+Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+
+## Natura e provenienza
+
+Risorsa MAIOS derivata da Incarnate Neutral Kernel Node. Il kit conserva il metodo di nascita e coltivazione del destinatario, senza trasferire identità, stato o autorità di altri nodi. Le forme tecniche di un host restano adattamenti da realizzare nel suo contesto.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.

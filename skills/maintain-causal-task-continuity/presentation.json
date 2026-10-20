@@ -1,0 +1,124 @@
+{
+  "it": {
+    "title": "Riprendere un progetto con l’AI dopo un’interruzione",
+    "subtitle": "Conserva obiettivo, ragioni delle scelte e punto raggiunto quando cambia la chat o si riduce il contesto.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti.",
+    "when": "Quando un progetto dura più sessioni, passa a un’altra istanza o richiede di conservare decisioni che un semplice riepilogo perderebbe.",
+    "examples": [
+      "Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
+      "Continua una ricerca dopo il cambio di chat.",
+      "Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte."
+    ],
+    "intro": [
+      "Questa competenza conserva ciò che rende possibile riprendere un lavoro: intento, ragioni delle scelte, sapere acquisito, operazioni svolte e questioni aperte. Il punto corrente raggiunge una guida abbastanza dettagliata da permettere all’assistente di continuare attraverso il metodo già formato.",
+      "Usala quando un progetto attraversa sessioni, collaboratori, interruzioni o una riduzione del contesto. La profondità della conservazione segue ciò che sarebbe costoso o impossibile ricostruire."
+    ],
+    "method": [
+      {
+        "title": "Conservare ragioni e capacità, insieme ai fatti",
+        "body": "Individua il lavoro selezionato, chi ne decide la direzione e dove vive il suo sapere. Recupera la guida già esistente prima di creare un nuovo contenitore. Conserva il perché delle decisioni insieme alla scelta: quale fonte o condizione la sostiene, che cosa permette di fare, cosa potrebbe cambiarla. Distingui parole dell’operatore, fatti osservati, inferenze e proposte. Una possibilità ancora aperta può restare raggiungibile senza diventare il prossimo incarico. Quando più competenze devono continuare, conserva il contributo di ciascuna, la ragione per cui resta pertinente e il metodo da cui riprende; un elenco di nomi non trasferisce quella capacità."
+      },
+      {
+        "title": "Un punto di rientro che raggiunge il sapere",
+        "body": "Mantieni un punto corrente breve con obiettivo, oggetto, fonti decisive, risultato raggiunto, effetti compiuti e prossimo movimento. Collegalo alla guida che spiega intenzioni, metodo, correzioni e passaggi sostanziali. Punto corrente e guida sono funzioni: possono stare nello stesso documento. Usa il luogo realmente proprietario del progetto e raggiungibile dal ricevente. Se una pagina viene rigenerata, conserva le ragioni in una sorgente che la rigenerazione non cancelli. Se puoi operare soltanto in chat, restituisci un testo completo da salvare e riportare alla prossima sessione."
+      },
+      {
+        "title": "Accumulare durante il lavoro",
+        "body": "Integra una nuova ragione, scoperta o correzione dove cambia il metodo, mentre la relazione è comprensibile. Conserva riferimenti alle prove invece di duplicare tutti i log. Quando una direzione cambia, aggiorna il seguito e lascia attribuita la precedente situazione; non far apparire la nuova comprensione come già disponibile in passato. Prima di ampliare ancora le fonti, preserva una relazione decisiva che rischia di perdersi. Una singola operazione ordinaria non richiede un diario: scrivi ciò che cambierà una scelta o un rientro."
+      },
+      {
+        "title": "Riprendere dal presente",
+        "body": "Al rientro componi la richiesta attuale con il punto corrente, la guida e le fonti necessarie. Rendi riconoscibile da dove riparti. Verifica i fatti che possono essere cambiati quando la verifica è pertinente e accessibile. Tratta un riassunto precedente come indicazione di recupero, non come autorità sul presente. Conserva le decisioni ancora valide; risolvi le differenze attraverso la fonte e il nuovo segnale dell’operatore. Un effetto già compiuto non va ripetuto perché il riepilogo è incompleto. Autorizzazioni, risultati e proposte restano distinguibili. Prosegui quando la relazione è sufficiente, senza ricaricare per inerzia tutta la cronologia."
+      }
+    ],
+    "depth": {
+      "title": "Quando la continuità migliora il proprio metodo",
+      "paragraphs": [
+        "Il lavoro diretto è far continuare un progetto. La relazione meta diventa pertinente quando l’esperienza cambia come una competenza organizza la conoscenza necessaria al lavoro successivo.",
+        "La relazione è autologica quando la continuità considera il proprio modo di conservare: se un riepilogo ha mantenuto il risultato ma perso la ragione di una scelta, il metodo può imparare a rendere raggiungibile quella ragione. Questo non equivale a memoria illimitata o autonomia esecutiva."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi il contesto del tuo lavoro. Contiene l’intero metodo. Conserva la restituzione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella all’assistente, indicagli SKILL.md e scegli i documenti del progetto da usare per la continuità. Accessi e azioni dipendono dagli strumenti e dal mandato disponibili."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza e alle guide pertinenti. Senza kernel, l’avvio completo fornisce il metodo necessario; puoi iniziare dal lavoro descritto qui."
+      }
+    ],
+    "learning": [
+      "Quando un rientro richiede di rispiegare una relazione già acquisita, individua se mancava la conoscenza, il collegamento o l’uso della guida. Correggi quel punto nel progetto e, se riusabile, nel metodo di continuità.",
+      "Una guida scritta rende il sapere disponibile. Un successivo lavoro diverso può mostrare se viene davvero ripreso. Conserva solo ciò che cambia il seguito; l’apprendimento riguarda documenti e istruzioni accessibili, non i pesi del modello."
+    ],
+    "operating_guide": "skills/maintain-causal-task-continuity/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Resume a project with AI after an interruption",
+    "subtitle": "Keep the objective, reasons for decisions and current position when the chat changes or context is reduced.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources.",
+    "when": "Use it when a project spans sessions, moves to another assistant or depends on decisions a short summary would lose.",
+    "examples": [
+      "Resume app development with decisions and unresolved problems available.",
+      "Continue research after changing chats.",
+      "Hand a business proposal to another assistant with its objective and reasons."
+    ],
+    "intro": [
+      "This competence preserves what makes it possible to resume work: intent, reasons for decisions, acquired knowledge, completed operations and open questions. The current position connects to a guide detailed enough for the assistant to continue through the method already developed.",
+      "Use it when a project spans sessions, collaborators, interruptions or a reduction in context. The depth of preservation follows what would be costly or impossible to reconstruct."
+    ],
+    "depth": {
+      "title": "When continuity improves its own method",
+      "paragraphs": [
+        "The direct work is to let a project continue. A meta relation becomes relevant when experience changes how a competence organises the knowledge needed for subsequent work.",
+        "The relation is autological when continuity considers its own way of preserving knowledge: if a summary retained the result but lost the reason for a decision, the method can learn to make that reason accessible. This does not amount to unlimited memory or autonomous execution."
+      ]
+    },
+    "learning": [
+      "When reentry requires explaining an already acquired relationship again, identify whether the knowledge, the connection or the use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.",
+      "A written guide makes knowledge available. A different later piece of work can show whether it is actually taken up. Keep only what changes the continuation; learning concerns accessible documents and instructions, not the model's weights."
+    ],
+    "method": [
+      {
+        "title": "Preserve reasons and capabilities alongside facts",
+        "body": "Identify the selected work, who determines its direction and where its knowledge lives. Retrieve the existing guide before creating another container. Keep the reason for a decision alongside the choice: which source or condition supports it, what it makes possible and what could change it. Distinguish the operator's words, observed facts, inferences and proposals. An open possibility can remain accessible without becoming the next assignment. When several competences need to continue, preserve each contribution, why it remains relevant and the method from which it resumes; a list of names does not transfer that capability."
+      },
+      {
+        "title": "A reentry point that reaches the working knowledge",
+        "body": "Keep a short current position with the objective, object of the work, decisive sources, result reached, completed effects and next movement. Connect it to the guide that explains intentions, method, corrections and substantial steps. The current position and guide are functions: they can share one document. Use the place that actually holds responsibility for the project and is accessible to the receiving assistant. If a page is regenerated, keep the reasons in a source that regeneration will not erase. If you can work only in chat, return a complete text to save and bring into the next session."
+      },
+      {
+        "title": "Accumulate knowledge during the work",
+        "body": "Integrate a new reason, discovery or correction where it changes the method, while the relationship is still understandable. Preserve references to evidence instead of duplicating every log. When the direction changes, update what follows and keep the previous situation attributable to its time; do not make the new understanding appear to have been available in the past. Before expanding the sources further, preserve any decisive relationship at risk of being lost. A single routine operation does not require a diary: write what will change a decision or a later reentry."
+      },
+      {
+        "title": "Resume from the present",
+        "body": "At reentry, bring the current request together with the current position, guide and necessary sources. Make the starting point recognisable. Check facts that may have changed when verification is relevant and accessible. Treat an earlier summary as a pointer for recovery, not as authority over the present. Preserve decisions that remain valid; resolve differences through the source and the operator's new input. Do not repeat an effect already completed because the summary is incomplete. Keep authorisations, results and proposals distinguishable. Continue when the relationship is sufficiently understood, without reloading the entire history out of habit."
+      }
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
+      }
+    ],
+    "operating_guide": "skills/maintain-causal-task-continuity/OPERATING_GUIDE.md"
+  }
+}

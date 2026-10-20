@@ -1,0 +1,138 @@
+{
+  "it": {
+    "title": "Organizzare la conoscenza di un sistema AI",
+    "subtitle": "Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare.",
+    "when": "Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo.",
+    "examples": [
+      "Raccoglie il significato delle capacità di un assistente.",
+      "Mantiene le ragioni delle scelte architetturali.",
+      "Fornisce fonti coerenti per guide, presentazioni e documenti di ricerca."
+    ],
+    "intro": [
+      "Lo stato di un progetto dice dove siamo. La conoscenza del sistema conserva anche perché è fatto così, che cosa significano le sue capacità e quali direzioni rimangono aperte.",
+      "Questa competenza mantiene quel sapere raggiungibile dalle fonti. Guide, documentazione, ricerca e presentazioni possono usarlo senza ricostruire ogni volta l'intero sistema."
+    ],
+    "method": [
+      {
+        "title": "Conservare le relazioni che cambiano comprensione",
+        "body": "Preserva una conoscenza quando cambia identità, significato, architettura, metodo, prospettiva o modo d'uso del sistema. Parti da una fonte attribuibile, da un apprendimento del lavoro o da un comportamento osservato. Mantieni che cosa si è compreso e perché conta per chi dovrà costruire o spiegare il sistema. Non accumulare ogni messaggio, log o dettaglio di implementazione soltanto perché è disponibile."
+      },
+      {
+        "title": "Distinguere significato, fatto e direzione",
+        "body": "Attribuisci le formulazioni della persona, le interpretazioni dell'AI, le capacità osservate e le ipotesi di ricerca. Un'intenzione di sviluppo resta una direzione finché non ha la prova della propria realizzazione. Un risultato osservato riguarda la versione e il caso realmente esercitati. Una guida derivata non diventa retroattivamente la fonte del concetto. Mantieni insieme le relazioni utili senza trasformarle in una sequenza obbligatoria di classificazioni."
+      },
+      {
+        "title": "Organizzare il sapere per chi dovrà usarlo",
+        "body": "Usa una base di conoscenza o una guida esistente e collega il dettaglio alle fonti pertinenti. Un ingresso breve orienta il lavoro corrente; il sapere esteso conserva ragioni e relazioni per gli approfondimenti. Mantieni raggiungibili definizioni, decisioni e questioni aperte secondo il bisogno reale. Un indice o un grafo può aiutare quando rende visibile una relazione; la sua forma non esaurisce il sistema né richiede di caricare tutto a ogni uso."
+      },
+      {
+        "title": "Integrare una nuova comprensione",
+        "body": "Quando un evento cambia ciò che si capisce, conserva la fonte, ciò che era stato compreso prima, la nuova relazione e la conseguenza. Aggiorna il punto della conoscenza che deve continuare da quella differenza. Una vecchia formulazione può essere superata senza perdere la propria provenienza. Se emergono oggetti diversi, separali invece di forzarli sotto lo stesso nome. Lascia esplicita l'incognita che le fonti non risolvono."
+      },
+      {
+        "title": "Servire proiezioni diverse",
+        "body": "Documentazione, guida d'uso, presentazione e ricerca possono partire dallo stesso sapere con scopi diversi. Fornisci a ciascuna il nesso pertinente e il suo stato, senza inventare capacità o maturità. Le spiegazioni pubbliche seguono i dati e le autorizzazioni selezionati. Il mantenimento della conoscenza non pubblica, non certifica una tesi scientifica e non modifica automaticamente prodotto o runtime. Chi possiede quelle superfici conserva la decisione sul proprio effetto."
+      },
+      {
+        "title": "Imparare a conservare meglio",
+        "body": "Osserva dove una ripresa o una spiegazione richiede di ricostruire ciò che doveva essere già raggiungibile. Se il sapere mancava, integralo; se esisteva ma l'ingresso non lo raggiungeva, ripara il collegamento. Se il modo di comprimere ha perso una ragione decisiva, correggi il metodo di conservazione. Un nuovo file rende il sapere disponibile; un uso successivo diverso mostra se aiuta davvero comprensione e scelta."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "Questa competenza conserva la comprensione durevole del sistema; la continuità del singolo task e il controllo del suo stato operativo hanno oggetti diversi.",
+        "Può sostenere un livello meta rendendo disponibili le ragioni con cui si formano altre capacità. Una relazione autologica appare quando applica lo stesso sapere al proprio modo di selezionare e organizzare conoscenza: per esempio, cambia una sintesi che nascondeva la distinzione fra capacità attuale e direzione. Non implica un monitor autonomo o una prova formale del sistema."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "La conoscenza si evolve dalle fonti e dalle conseguenze. Conserva la genealogia utile, lasciando fuori dal percorso quotidiano la cronologia che non cambia il movimento."
+    ],
+    "operating_guide": "skills/maintain-kernel-knowledge/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Organize the knowledge of an AI system",
+    "subtitle": "Preserve meaning, reasons and direction for the people who must understand and evolve the system.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become.",
+    "when": "When architecture, documentation, research and explanations are scattered or confused with operational status.",
+    "examples": [
+      "Preserve the meaning of an assistant's capabilities.",
+      "Keep the reasons behind architectural decisions.",
+      "Supply coherent sources for guides, presentations and research."
+    ],
+    "intro": [
+      "Project status says where the work stands. System knowledge also preserves why it is built that way, what its capabilities mean and which directions remain open.",
+      "This competence keeps that knowledge reachable from its sources. Guides, documentation, research and presentations can use it without reconstructing the whole system every time."
+    ],
+    "method": [
+      {
+        "title": "Preserve relations that change understanding",
+        "body": "Retain knowledge when it changes identity, meaning, architecture, method, direction or use. Start from an attributable source, work-derived learning or observed behavior. Preserve what was understood and why it matters to future builders or readers. Do not accumulate every message, log or implementation detail merely because it is available."
+      },
+      {
+        "title": "Distinguish meaning, fact and direction",
+        "body": "Attribute the person's formulations, AI interpretations, observed capabilities and research hypotheses. A development intention remains a direction until its realization is evidenced. An observed result concerns the version and case actually exercised. A derived guide does not retroactively become the source of a concept."
+      },
+      {
+        "title": "Organize knowledge for its future use",
+        "body": "Use an existing knowledge base or guide and connect detail to relevant sources. A short entry supports current work; deeper knowledge preserves reasons and relations. An index or graph can help when it makes a relation visible, but its shape does not exhaust the system or require loading everything at each use."
+      },
+      {
+        "title": "Integrate new understanding",
+        "body": "When an event changes understanding, preserve its source, the earlier interpretation, the new relation and its consequence. Update the knowledge that must continue from that difference. Superseded formulations retain provenance. If distinct objects emerge, separate them rather than forcing them under one name. Leave unresolved what the sources cannot establish."
+      },
+      {
+        "title": "Support different projections",
+        "body": "Documentation, user guidance, presentations and research can draw on the same knowledge for different purposes. Supply the relevant relation and its status without inventing capability or maturity. Knowledge stewardship does not publish, establish scientific validity or automatically change a product or runtime."
+      },
+      {
+        "title": "Learn to preserve knowledge better",
+        "body": "Notice where reentry or explanation reconstructs knowledge that should already be reachable. Add missing knowledge, repair discovery when it exists, and correct compression when it lost a decisive reason. A new file makes knowledge available; later non-identical use shows whether it helps understanding and choice."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "This competence preserves durable system understanding. Continuity of an individual task and control of operational state have different objects.",
+        "It can support a meta relation by preserving reasons used to form other capabilities. An autological relation appears when it applies that understanding to its own selection and organization of knowledge, such as revising a summary that blurred current capability and direction. This implies neither an autonomous monitor nor a formal proof of the system."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "Knowledge evolves through sources and consequences. Preserve useful lineage while keeping history that does not change current work outside the everyday entry path."
+    ],
+    "operating_guide": "skills/maintain-kernel-knowledge/OPERATING_GUIDE.md"
+  }
+}

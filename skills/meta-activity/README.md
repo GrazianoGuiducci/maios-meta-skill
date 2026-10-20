@@ -2,7 +2,7 @@
 
 **Form and evolve AI activities from the context of your work.**
 
-[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
+[Italiano](README_IT.md) · Public edition 0.3.0 · English operating method
 
 ## What it does
 
@@ -17,7 +17,7 @@ Activities can start on request, from an event or on an agreed schedule. With su
 
 ## First use
 
-1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the English method, operating knowledge, worked examples and any supplied executable sources.
 2. Add your actual project, intent, relevant sources, existing work and available tools.
 3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
@@ -77,3 +77,8 @@ The activity preserves the reason for a change. Later use shows whether that kno
 - [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
 
 With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.
+
+
+## Practical operating knowledge
+
+[OPERATING_GUIDE.md](OPERATING_GUIDE.md) explains the decisions, conditions and means that make this method usable. The starter includes this knowledge; the folder also retains its directly readable sources.

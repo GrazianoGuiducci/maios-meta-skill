@@ -1,0 +1,77 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Classify Content With Taxonomic Titles And Descriptions
+
+**Scrivere titoli e sottotitoli che fanno capire il contenuto**
+
+Questa competenza forma titoli, sottotitoli e descrizioni che permettono al lettore di riconoscere il contenuto prima di aprirlo. Il nome orienta; il titolo identifica l’oggetto o la relazione; il sottotitolo aggiunge ciò che serve a distinguerne uso e contesto.
+
+Opera su articoli, schede, pagine, documenti, sezioni e nomi di file. La chiarezza nasce dalla comprensione della sorgente, non da una formula promozionale applicata a ogni contenuto.
+
+## Comprendere ciò che si sta nominando
+
+Leggi il contenuto e le sue fonti abbastanza da identificare soggetto, oggetto e relazione effettivi. Considera che cosa il lettore conosce già e quale riferimento concreto gli manca. Conserva un nome proprio o un titolo approvato quando va mantenuto esatto; affiancagli la descrizione necessaria anziché cambiarne silenziosamente l’identità. Se il contenuto non è ancora chiaro, torna alla fonte: un titolo accattivante non risolve un’incertezza di significato.
+
+## Dare a titolo e sottotitolo funzioni complementari
+
+Il titolo colloca il contenuto in una classe riconoscibile e conserva soltanto i termini che ne difendono l’identità. Se può essere applicato invariato a oggetti estranei, cerca il riferimento mancante. Il sottotitolo aggiunge il caso, l’attività, la dinamica o l’utilità che distingue questa pagina. Non ripetere con sinonimi la stessa frase. La coppia deve funzionare per una persona che incontra il testo per la prima volta, senza chiederle di ricostruire la conversazione che lo ha generato.
+
+## Organizzare i titoli secondo la superficie
+
+Per il titolo principale usa l’identità della pagina o del suo oggetto; il nome proprio può bastare se la riga di supporto spiega il contesto. I titoli delle sezioni formano una mappa: ciascuno nomina un oggetto, una decisione o una relazione realmente trattata. Nelle schede di scelta rendi visibile l’azione e ciò che la persona ottiene, nel dominio e nel contesto pertinenti. Una chiamata all’azione nomina il gesto disponibile dopo che la pagina ne ha chiarito il senso. Adatta la forma, senza trasformare questi ruoli in uno schema da ripetere meccanicamente.
+
+## Conservare coerenza tra nome e contenuto
+
+L’attacco e il corpo devono confermare il soggetto indicato dall’header. Un titolo non introduce un beneficio, una maturità o un effetto che la fonte non sostiene. Quando il lavoro è una correzione del testo, modifica il contenuto selezionato mantenendo struttura e funzioni non coinvolte; se una diversa struttura diventa necessaria, rendi riconoscibile quella differenza. Nelle traduzioni conserva identità, relazione, azione e portata, anche quando cambia la sintassi.
+
+## Rendere ritrovabili documenti e risorse
+
+Per un artefatto persistente collega il nome leggibile, la descrizione, il percorso e lo stato. Un nome utile contiene l’oggetto o la relazione che una persona cercherà; data e versione distinguono stati senza sostituirne l’identità. Etichette come tipo e ambito possono aiutare l’orientamento, ma non descrivono tutte le capacità. Una classificazione locale non diventa automaticamente una tassonomia dell’intero sistema. Il nome non conferisce autorità: è il contenuto e la sua fonte a sostenere ciò che afferma.
+
+## Dalla chiarezza di un titolo al metodo editoriale
+
+Il lavoro diretto è rendere comprensibile un header. La relazione meta compare quando una correzione cambia come la competenza editoriale riconosce e presenta gli oggetti nelle opere successive.
+
+La relazione autologica è presente quando questo stesso metodo si accorge di produrre titoli formalmente corretti ma ancora generici. Torna allora al contenuto e modifica il criterio di denominazione. Nessuna forma di titolo garantisce da sola attenzione, iscrizioni o altri risultati di distribuzione.
+
+## Apprendimento e continuità
+
+Un titolo corretto insegna quando una parola mancava, quando un termine era rumore e quale distinzione il lettore doveva percepire. Conserva questa ragione nel metodo, con un esempio attribuito o illustrativo utile al prossimo uso.
+
+Rivedi il risultato dal punto di vista di chi incontra il contenuto senza la chat d’origine. Questo controllo riguarda la comprensibilità dell’oggetto, non una promessa di efficacia commerciale.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Classify Content With Taxonomic Titles And Descriptions
+
+## Allineare identità, spiegazione e azione disponibile
+
+L'H1 identifica oggetto letterale o nome proprio selezionato. Il sottotitolo aggiunge uso, caso o dinamica senza ripeterlo. La sequenza H2 ricostruisce la mappa semantica; il testo di supporto rende concreta la relazione. Una scheda di percorso può usare un verbo che colleghi oggetto consegnato, dominio e contesto o risultato. La CTA nomina l'azione dopo che la conseguenza è comprensibile. Questa grammatica segue l'oggetto senza imporre slogan d'azione a ogni nome proprio.
+
+Il lettore deve riconoscere soggetto, oggetto o riferimento concreto. Un aggancio promozionale non sostituisce il riferimento mancante. Conserva il titolo approvato esattamente e affianca il contesto utile; correggi la bozza dell'assistente nel suo owner quando selezionato. Attacco e corpo continuano lo stesso oggetto.
+
+Per artefatti durevoli allinea nome ricercabile, titolo leggibile, descrizione, percorso e metadati alla stessa identità. Una data o `final` non identificano l'oggetto né stabiliscono autorità. Mantieni espliciti gli alias. I tag distinguono faccette indipendenti, come tipo e ambito, con ID stabili, nomi localizzati, appartenenze multiple supportate e apertura a nuove faccette. Le categorie non esauriscono le capacità né definiscono l'ontologia interna.
+
+Rispetta l'ambito della modifica: cambiare parole non autorizza silenziosamente a ricostruire layout o interazioni. Se il testo non entra, rendi evidente il conflitto e forma l'adattamento pertinente minimo. Il primo piano permette di scegliere; processo interno, opzioni secondarie ed evidenze dettagliate restano raggiungibili in profondità se non cambiano quella scelta.
+
+# Esempi — Scrivere titoli e sottotitoli che fanno capire il contenuto
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Corregge il titolo di un articolo senza cambiarne il soggetto.
+
+Un articolo descrive come un laboratorio conserva i campioni tra analisi. “Quando il controllo non basta” lascia implicito l’oggetto. Un titolo illustrativo più riconoscibile è “Conservare i campioni tra due analisi”; il sottotitolo può specificare le condizioni discusse nell’articolo. La revisione non aggiunge risultati o procedure assenti dalla fonte.
+
+## 2. Rende comprensibile una scheda prodotto al primo incontro.
+
+Una scheda di software reca soltanto il nome del prodotto e una promessa generica. Il nome resta, mentre la descrizione spiega che organizza richieste di assistenza e quando aiuta il team. Una CTA come “Leggere la guida” diventa comprensibile perché la scheda ha già chiarito l’oggetto.
+
+## 3. Organizza titoli e nomi di documenti per ritrovarli nel progetto.
+
+Un archivio contiene “note_finali_v3”. Il documento viene nominato con il progetto, l’oggetto e il tipo di contenuto, mantenendo versione e data per distinguere lo stato. Il titolo interno e la descrizione corrispondono allo stesso oggetto. Il rinominare non trasforma una proposta in una decisione approvata.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

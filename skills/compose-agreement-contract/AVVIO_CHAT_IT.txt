@@ -1,0 +1,99 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Compose Agreement Contract
+
+**Preparare accordi e collaborazioni con l’AI**
+
+Rende espliciti oggetto, contributi, diritti, obblighi e scelte ancora da definire prima della stesura.
+
+## Scopo e situazione
+
+Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni.
+
+Usa questa competenza: quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro.
+
+Prima di scrivere un accordo occorre comprendere la relazione che deve rendere possibile. Parti, contributi, consegne, diritti e condizioni possono essere chiari in conversazioni separate e incoerenti quando vengono riuniti.
+
+Questa competenza forma un'architettura dell'accordo leggibile e revisionabile. La precisione del documento nasce dalla relazione effettiva; la sufficienza giuridica richiede le fonti e le competenze pertinenti al caso.
+
+## Comprendere che cosa deve diventare possibile
+
+Parti dal risultato desiderato e dalle fonti della relazione: persone o organizzazioni coinvolte, ruoli effettivi, oggetto e stato della discussione. Non adattare subito il caso a un contratto standard. Una richiesta può richiedere prima una mappa delle questioni da concordare. Conserva le parole e le scelte della persona; lascia visibile ciò che non è ancora determinato.
+
+## Collegare contributi e dipendenze
+
+Rendi comprensibile chi offre che cosa, a chi, quando e a quali condizioni. Collega prestazioni, risorse, pagamenti, accessi e prove di accettazione quando sono pertinenti. Una consegna può dipendere da materiali che un'altra parte deve fornire; un pagamento può riferirsi a un evento che nessuno ha ancora definito. Porta queste relazioni nello stesso campo prima di formulare impegni apparentemente precisi.
+
+## Comporre il sapere necessario
+
+La competenza del progetto chiarisce fattibilità e consegne; quella economica chiarisce scambi e posizione negoziale; la scrittura rende esatte definizioni e conseguenze. Nessuna deve inventare la verità dell'altra. Quando il documento verrà usato come strumento giuridico, raggiungi le fonti primarie correnti della giurisdizione e la competenza legale qualificata necessaria. Se mancano, prepara la struttura e le domande precise per quella revisione, senza dichiararla sufficiente.
+
+## Formare un insieme coerente
+
+Considera diritti, obblighi, condizioni, durata, cambiamenti, uscita e relazioni che continuano dopo la conclusione soltanto dove incidono sull'accordo. Proprietà, riuso, dati o riservatezza possono essere materiali in un caso e assenti in un altro. Non riempire incognite con formule convenzionali. Controlla come le definizioni interagiscono: una responsabilità, una scadenza o un criterio di accettazione possono cambiare il significato di altre parti.
+
+## Scegliere la forma utile alla discussione
+
+Il risultato può essere una mappa delle relazioni, una struttura di termini, una bozza o un confronto con un testo ricevuto. Scrivi in modo che le parti possano vedere ciò che è allineato e ciò che richiede una scelta. Una risposta della controparte può cambiare l'accordo successivo; non riscrive la provenienza delle richieste precedenti. Distingui proposta, revisione, accettazione, firma ed esecuzione.
+
+## Conservare autorità e apprendimento
+
+Comporre e scrivere non significa inviare, accettare, firmare, pagare, trasferire diritti o concedere accessi. Mantieni ogni effetto legato a persona, mezzo e autorizzazione pertinenti. Dopo un caso reale conserva ciò che cambia la composizione futura: dipendenze nascoste, definizioni ambigue, prove mancanti o ruoli confusi. Restituisci gli apprendimenti giuridici alle fonti qualificate e quelli di progetto o scrittura ai rispettivi metodi.
+
+## Profondità del metodo
+
+L'oggetto è l'architettura di un accordo. È una competenza di dominio che può comporre altri saperi; la composizione non la rende automaticamente un generatore di competenze o una facoltà autologica.
+
+Può imparare dal proprio metodo quando un caso rivela una dipendenza ignorata. Per esempio, una consegna dipendeva da dati del cliente ma la struttura non lo rendeva visibile. Correggere la composizione aiuta un accordo successivo; non fornisce una garanzia legale né autonomia nel vincolare le parti.
+
+## Continuità e apprendimento
+
+Il caso concreto può cambiare come riconoscere dipendenze e responsabilità. Conserva le ragioni della correzione e lascia che il nuovo contesto determini quali relazioni sono pertinenti, senza trasformare ogni clausola in un modello universale.
+
+Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Compose Agreement Contract
+
+## Formare l'architettura operativa dell'accordo
+
+Comprendi parti reali, scopo, contributi, consegne, accettazione, risorse, diritti e dipendenze prima di scegliere la forma. Collega denaro, tappe e responsabilità a ciò che ogni parte fornisce e decide. In accordi AI o di ricerca distingui sapere sorgente, proprietà preesistente, lavoro generato, licenze, accesso ai dati, riservatezza, manutenzione e autorità sugli effetti quando contano. Non trasformare ogni progetto nello stesso template.
+
+Rendi evidente un owner di dominio mancante senza chiedere alla prosa commerciale di inventarne la relazione. La fonte tecnica stabilisce il comportamento del prodotto; business la direzione commerciale scelta; fonti giuridiche correnti e professionisti qualificati l'interpretazione legale necessaria. La competenza forma l'accordo operativo senza dedurre l'efficacia giuridica dalla coerenza della bozza.
+
+Scrivi il documento selezionato conservando le dipendenze. Un cambio di diritti o accettazione può incidere su pagamento, consegna e cessazione: segui le clausole realmente dipendenti senza riscrivere le altre. Distingui determinazioni negoziate, punti aperti e alternative dell'assistente. Term sheet, bozza, testo concordato, firma, deposito ed esecuzione sono effetti diversi. Conserva versione, parti e documento esatto prima di invii o firme autorizzati.
+
+# Esempi — Preparare accordi e collaborazioni con l’AI
+
+I tre casi sono illustrativi: mostrano come il metodo cambia il lavoro. Non sono dichiarazioni di risultati verificati in installazioni esterne.
+
+## 1. Una collaborazione di ricerca
+
+Due gruppi condividono materiali e risultati attesi. La competenza rende visibili contributi, accessi, tempi e questioni di riuso da concordare. Non inventa una titolarità o una licenza quando le parti non l'hanno definita.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## 2. Un servizio su commessa
+
+La consegna dipende da dati che il cliente deve fornire. La struttura collega disponibilità dei dati, lavoro del fornitore e criteri di accettazione. Le scelte ancora aperte diventano domande precise per le parti e per la revisione pertinente.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## 3. Una bozza ricevuta
+
+Una bozza parla di consegna completata e pagamento ma usa definizioni diverse dello stesso risultato. Il confronto segnala il punto e la sua conseguenza operativa, senza sostituire automaticamente clausole né dichiarare validità giuridica.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## Continuare dal proprio caso
+
+Il caso concreto può cambiare come riconoscere dipendenze e responsabilità. Conserva le ragioni della correzione e lascia che il nuovo contesto determini quali relazioni sono pertinenti, senza trasformare ogni clausola in un modello universale.
+
+[Metodo completo](SKILL_IT.md) · [Avvio da usare in chat](AVVIO_CHAT_IT.txt)
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

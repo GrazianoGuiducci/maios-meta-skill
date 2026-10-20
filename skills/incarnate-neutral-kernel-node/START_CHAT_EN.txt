@@ -1,0 +1,339 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Incarnate Neutral Kernel Node
+
+## The recipient begins from its own work
+
+Help a new assistant or AI node begin with shared capabilities, recognizable purpose and continuity of its own. Understand the work it should enable, sources belonging to the project, host means and relations that should continue across conversations. Neutrality preserves recipient identity; it does not require an empty system without inherited experience.
+
+Reach the transferred method and its reasons. Carry capability and transferable knowledge while leaving private identity, temporal state, credentials, local topology and effect authority at their origin. A new project's assistant does not inherit unfinished tasks from the project that formed the method.
+
+## Understand the node's forms
+
+Distinguish shared method package, recipient-owned copy or profile, host-adapted configuration, instructions actually available there and conversational work. These forms are related, but none alone establishes the others.
+
+A repository may be the node's source, a chat its local present and a configuration an entry into its method. Continuity exists when purpose, sources, useful knowledge and reentry can traverse actual work. Do not attribute user state or recipient-only behavior to the package.
+
+## Form a complete first movement
+
+Begin with a useful result feasible through present means. Form an entry enabling context comprehension, pertinent knowledge, action and preservation of what emerges. With files, connect a guide to a stable reentry point; with chat alone, return the guide to carry forward. Separate work feasible now from a part requiring an absent tool.
+
+Make competence formation usable: when initial work teaches a reusable choice, connect cause, conditions and consequence to the method needing it. Make understanding its own operation usable too: if an entry or persistence loses knowledge, that relation can become an object of work. A few deep locations can carry these functions without a mandatory component catalogue.
+
+Adapt discovery, tools and memory while preserving meaning. A harness mechanism is not automatically present in chat. Consult current official instructions when a concrete configuration depends on a provider. A written file alone does not establish installation.
+
+## Birth and updates
+
+A new node can begin from current shared capability and form its first case. An existing node also carries decisions, knowledge and local changes. Compare incoming contribution with what it learned and integrate the relevant difference without overwriting identity or project state.
+
+Follow affected method, entry, guide, configuration and installed instructions. Package release does not update recipient copies automatically. Preserve pending integrations even without another source change; absence of a new delta does not complete previous work.
+
+## Local learning and shareable return
+
+The node learns in its own context. Reentry difficulty can correct its guide; a successful example can refine a competence. Separate reusable relations from private data and account details before sharing. Preserve what happened, which choice changes and conditions for reuse.
+
+Return to shared source is a distinct effect from local editing. When selected, transfer the method while leaving the node its own memory. Nodes can share capabilities and learn reciprocally without becoming copies of one another.
+
+The meta relation concerns formation of conditions for node work and competence evolution. It becomes autological when startup recognizes and reforms its own limit. A second reentry may reveal that actions survived but reasons did not; correct both the guide and the startup method. The first case documents itself; a different later case can show whether correction continues.
+
+## Use and continuity in the recipient
+
+Use supplied chat materials or actual files, tools and guides. Ask only for missing context changing work and act when a useful result is possible. Preserve reasons, sources, learned differences and continuation where the project actually stores knowledge; otherwise return a reusable note.
+
+Instructions can change the method used without changing model weights or proving stable learning. Distinguish available knowledge, use and later behavior. Account access, tools and authority to publish, send, install or distribute depend on the real environment and mandate.
+
+## Nature and provenance
+
+MAIOS adaptation of Incarnate Neutral Kernel Node. It transfers recipient formation and cultivation without importing another node's identity, state or authority. Host-specific technical forms remain adaptations for that destination.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Incarnate Neutral Kernel Node
+
+## Form a receiver and preserve its own life
+
+Distinguish the upstream source package, a node-owned fork or adaptation, a configured projection, installed host files and the present conversation. A first incarnation forms an initial receiver. An update meets a receiver that already has local decisions, knowledge and observed effects. Preserve those contributions while understanding which source changes remain useful. Version equality cannot establish semantic equality, and different versions need not imply a defect.
+
+Map each material source function to the receiving owner that must carry it. Adapt discovery, entry, persistence, tools and learning to the actual host; a renamed folder alone cannot transport those functions. Retain rejected or deferred relations with reasons where a later return could otherwise lose them. An assessed change remains pending until its receiving implementation and relevant use occur; unchanged upstream files do not finish that work.
+
+## Inspect a selected source/receiver pair
+
+The supplied `scripts/inspect_kernel_pair.py` is a read-only adaptation of the source inspector. It uses Python 3.10+ and Git, without network calls. Copy `references/port-map.example.json` into your project, set source and destination repository paths, source scope if any, assessed commit and tree identities, owner paths and pending relations. Placeholders must be replaced with actual values; the example is a format illustration, not a claim about your repositories.
+
+Use `git -C SOURCE rev-parse HEAD` for the assessed commit and `git -C SOURCE rev-parse HEAD:kernel` for a selected subtree; use `HEAD^{tree}` when assessing the whole repository. Use the destination's whole tree identity. Run `python scripts/inspect_kernel_pair.py --workspace PATH --map PATH_TO_MAP`. Repository paths in the map can be relative to the selected workspace or absolute. Run `python scripts/test_inspect_kernel_pair.py` to exercise scoped freshness and pending work with temporary Git repositories.
+
+The report exposes current identities, dirty work, relevant source/destination deltas, missing mapped paths and pending integration. An unrelated repository commit can leave the assessed subtree unchanged. A missing assessed commit makes comparison unavailable; do not manufacture equivalence. Dirty work is reported separately because committed tree comparisons do not include it. Inspect a relevant local delta before acting. The report never installs, merges, closes pending relations or proves semantic transfer. Follow the actual meaning and receiving knowledge, then record what implementation and use established. Preserve a recoverable earlier state for the exact changed surface rather than resetting another owner's work.
+
+# Incarnate Neutral Kernel Node — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Let a new research assistant begin as its own node
+
+A team supplies a shared method, but the new node begins from its own question, sources and means. Its first work connects a source to the project and preserves why it matters. Later reentry uses its local guide without importing the originating assistant’s unfinished tasks.
+
+## Carry continuity from chat into a file-enabled environment
+
+The ability to preserve reasons and sources remains; the means change. A chat reentry note can become a project guide connected to the environment’s entry. Adaptation follows what is actually read rather than claiming continuity from copying alone.
+
+## Integrate an update without overwriting local knowledge
+
+A new shared edition improves source selection. The node has learned a distinction in its own domain. Integrate the incoming method with those local reasons and follow affected projections. A neutral lesson can return to the source without private data.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Included executable sources
+
+
+## scripts/inspect_kernel_pair.py
+
+```python
+#!/usr/bin/env python3
+"""Read-only source, receiving-node and pending port-state inspection."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import subprocess
+from pathlib import Path
+from typing import Any
+
+
+def git(repo: Path, *args: str, check: bool = True) -> str:
+    result = subprocess.run(
+        ["git", "-C", str(repo), *args],
+        check=False,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+    if check and result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or "git command failed")
+    return result.stdout.strip()
+
+
+def revision_exists(repo: Path, revision: str | None) -> bool:
+    if not revision:
+        return False
+    result = subprocess.run(
+        ["git", "-C", str(repo), "cat-file", "-e", f"{revision}^{{commit}}"],
+        check=False,
+        capture_output=True,
+    )
+    return result.returncode == 0
+
+
+def tree_identity(repo: Path, scoped_root: str | None) -> str:
+    revision = f"HEAD:{scoped_root}" if scoped_root else "HEAD^{tree}"
+    return git(repo, "rev-parse", revision)
+
+
+def repository_state(
+    repo: Path, identity: dict[str, Any], scoped_root: str | None
+) -> dict[str, Any]:
+    head = git(repo, "rev-parse", "HEAD")
+    tree = tree_identity(repo, scoped_root)
+    branch = git(repo, "branch", "--show-current")
+    status = git(repo, "status", "--short")
+    assessed_head = identity["assessed_repository_head"]
+    assessed_tree = identity["assessed_tree"]
+    state: dict[str, Any] = {
+        "path": str(repo),
+        "scope": scoped_root or ".",
+        "head": head,
+        "tree": tree,
+        "branch": branch,
+        "clean": not bool(status),
+        "status": status.splitlines() if status else [],
+        "assessed_repository_head": assessed_head,
+        "assessed_tree": assessed_tree,
+        "repository_changed_since_assessment": head != assessed_head,
+        "tree_changed_since_assessment": tree != assessed_tree,
+        "changed_paths_since_assessment": [],
+        "commits_since_assessment": [],
+    }
+    if head != assessed_head and revision_exists(repo, assessed_head):
+        path_args = ["--", scoped_root] if scoped_root else []
+        changed = git(repo, "diff", "--name-only", f"{assessed_head}..{head}", *path_args)
+        log = git(
+            repo,
+            "log",
+            "--format=%H%x09%s",
+            f"{assessed_head}..{head}",
+            *path_args,
+        )
+        state["changed_paths_since_assessment"] = changed.splitlines() if changed else []
+        state["commits_since_assessment"] = log.splitlines() if log else []
+    elif head != assessed_head:
+        state["comparison_unavailable"] = "assessed repository head is not present locally"
+
+    if head != assessed_head and tree == assessed_tree:
+        state["repository_only_drift"] = (
+            "repository head changed but the relevant tree did not; do not reopen "
+            "this source relation from unrelated repository noise"
+        )
+    return state
+
+
+def mapped_path_coverage(
+    workspace: Path, port_map: dict[str, Any]
+) -> dict[str, list[str]]:
+    source_repo = workspace / port_map["source"]["local_repo"]
+    destination_repo = workspace / port_map["destination"]["local_repo"]
+    missing_source: list[str] = []
+    missing_destination: list[str] = []
+    for owner in port_map["owner_map"]:
+        for relative in owner.get("source_paths", []):
+            local_relative = Path(relative)
+            if port_map["source"].get("root") and local_relative.parts[0] == port_map["source"]["root"]:
+                local_relative = Path(*local_relative.parts[1:])
+                candidate = source_repo / port_map["source"]["root"] / local_relative
+            else:
+                candidate = source_repo / local_relative
+            if not candidate.exists():
+                missing_source.append(relative)
+        for relative in owner.get("current_destination_paths", []):
+            if not (destination_repo / relative).exists():
+                missing_destination.append(relative)
+    return {
+        "missing_source_paths": sorted(set(missing_source)),
+        "missing_current_destination_paths": sorted(set(missing_destination)),
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Inspect source and receiving-node identities, relevant trees, "
+            "mapped owners and pending port states without mutation."
+        )
+    )
+    parser.add_argument("--workspace", type=Path, required=True)
+    parser.add_argument("--map", type=Path, required=True)
+    args = parser.parse_args()
+    map_path = args.map.resolve()
+    port_map = json.loads(map_path.read_text(encoding="utf-8-sig"))
+    if port_map.get("schema") != "maios.neutral-kernel-port-map.v1":
+        raise SystemExit("unsupported port-map schema")
+    workspace = args.workspace.resolve()
+
+    source = port_map["source"]
+    destination = port_map["destination"]
+    source_repo = workspace / source["local_repo"]
+    destination_repo = workspace / destination["local_repo"]
+    for repo in (source_repo, destination_repo):
+        if not (repo / ".git").exists():
+            raise SystemExit(f"repository not found: {repo}")
+
+    source_state = repository_state(source_repo, source, source.get("root"))
+    destination_state = repository_state(destination_repo, destination, None)
+    pending_relations = [
+        {
+            "id": relation["id"],
+            "disposition": relation["disposition"],
+            "lifecycle": relation["lifecycle"],
+            "target_owner": relation["target_owner"],
+        }
+        for relation in port_map["relation_states"]
+        if relation["lifecycle"] == "assessed_not_integrated"
+    ]
+    version_path = destination_repo / "VERSION"
+    port_state = port_map["port_state"]
+    if source_state["tree_changed_since_assessment"]:
+        next_action = (
+            "assess the changed source owners, reconcile any superseding delta "
+            "with the preserved pending destination relations, then continue "
+            "destination implementation"
+        )
+    elif destination_state["tree_changed_since_assessment"]:
+        next_action = (
+            "reread the changed destination owners, reconcile them with the "
+            "preserved pending relations, then continue destination implementation"
+        )
+    elif pending_relations:
+        next_action = (
+            "continue pending destination implementation even if the source tree "
+            "is unchanged; reopen source assessment only if a relevant source "
+            "tree delta or superseding relation appears"
+        )
+    else:
+        next_action = "no pending integration and no relevant source-tree delta"
+
+    report = {
+        "schema": "maios.neutral-kernel-pair-inspection.v1",
+        "map": str(map_path),
+        "source": source_state,
+        "destination": destination_state,
+        "destination_version": (
+            version_path.read_text(encoding="utf-8").strip()
+            if version_path.exists()
+            else None
+        ),
+        "port_state": port_state,
+        "pending_relations": pending_relations,
+        "mapped_path_coverage": mapped_path_coverage(workspace, port_map),
+        "next_action": next_action,
+        "semantic_boundary": (
+            "identity and path deltas are freshness evidence only; assessed, "
+            "implemented, structurally verified, host exercised and assimilated "
+            "remain distinct states"
+        ),
+    }
+    print(json.dumps(report, indent=2, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+```
+
+## references/port-map.example.json
+
+```json
+{
+  "schema": "maios.neutral-kernel-port-map.v1",
+  "source": {
+    "local_repo": "source-kernel",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": "kernel"
+  },
+  "destination": {
+    "local_repo": "receiving-node",
+    "assessed_repository_head": "REPLACE_WITH_COMMIT_SHA",
+    "assessed_tree": "REPLACE_WITH_RELEVANT_TREE_SHA",
+    "root": null
+  },
+  "port_state": "assessed_not_integrated",
+  "owner_map": [
+    {
+      "id": "working-method",
+      "source_paths": [
+        "kernel/SKILL.md"
+      ],
+      "current_destination_paths": [
+        "skills/working-method/SKILL.md"
+      ]
+    }
+  ],
+  "relation_states": [
+    {
+      "id": "source-method-change",
+      "disposition": "adapt to receiving node",
+      "lifecycle": "assessed_not_integrated",
+      "target_owner": "receiving-node"
+    }
+  ]
+}
+```
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

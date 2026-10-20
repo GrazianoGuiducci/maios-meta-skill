@@ -1,0 +1,63 @@
+{
+  "id": "organizzare-sistema-editoriale",
+  "name": "Comprendere e organizzare Editoriali",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "17",
+  "skill": "skills/evolve-editoriali-system/SKILL.md",
+  "guide": "skills/evolve-editoriali-system/README.md",
+  "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
+  "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
+  "presentation": "skills/evolve-editoriali-system/presentation.json",
+  "package": "dist/evolve-editoriali-system-0.3.0.zip",
+  "it": {
+    "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
+    "kind": "Metacompetenza organizzativa",
+    "domain": "Prodotti e comunicazione",
+    "does": "Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.",
+    "when": "Quando un team produce più forme editoriali ma deve ricostruire ogni volta stile, metodo, fonti o correzioni.",
+    "examples": [
+      "Collega il metodo comune di articoli, guide e pagine.",
+      "Organizza la conoscenza necessaria a continuare un libro.",
+      "Fa arrivare una correzione al metodo che formerà i contenuti successivi."
+    ],
+    "route": "/risorse/organizzare-sistema-editoriale/",
+    "description": "Rende conoscenze, metodi e correzioni raggiungibili per chi crea i contenuti successivi."
+  },
+  "en": {
+    "title": "Organize an AI editorial system that learns from its work",
+    "kind": "Organizational metacompetence",
+    "domain": "Products and communication",
+    "does": "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system.",
+    "when": "When a team produces several forms of content but repeatedly has to reconstruct its methods, sources and corrections.",
+    "examples": [
+      "Connect the shared method behind articles, guides and pages.",
+      "Preserve the knowledge needed to continue a book.",
+      "Return a recurring correction to the method that will shape the next text."
+    ],
+    "route": "/resources/organizzare-sistema-editoriale/",
+    "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
+  },
+  "native_entry": "evolve-editoriali-system",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/evolve-editoriali-system/SKILL.md",
+      "guide": "skills/evolve-editoriali-system/README.md",
+      "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
+      "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
+      "operating_guide": "skills/evolve-editoriali-system/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/evolve-editoriali-system/SKILL_IT.md",
+      "guide": "skills/evolve-editoriali-system/README_IT.md",
+      "starter": "skills/evolve-editoriali-system/AVVIO_CHAT_IT.txt",
+      "examples": "skills/evolve-editoriali-system/ESEMPI_IT.md",
+      "operating_guide": "skills/evolve-editoriali-system/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "evolve-editoriali-system"
+}

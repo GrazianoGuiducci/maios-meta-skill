@@ -61,3 +61,9 @@ Se manca il controller, l'AI può preparare l'incarico e svolgere il lavoro cons
 Affida un'attività sufficientemente concreta da riconoscere un contributo utile. Controlla se l'AI ha usato le fonti pertinenti, ha svolto il lavoro affidato e ha conservato il sapere che permette di continuare. In un secondo avvio verifica che una correzione e la sua ragione cambino davvero il seguito.
 
 Se condividi un riscontro nella repository, descrivi la situazione e il risultato rimuovendo dati riservati. Questa esperienza può migliorare sia il metodo della competenza sia la chiarezza della guida.
+
+## Sapere operativo e strumenti
+
+Ogni kit include GUIDA_OPERATIVA_IT.md e il corrispondente inglese. L'avvio porta metodo, sapere ed esempi articolati. Quando la funzione nativa fornisce un tool runtime, le sorgenti sono incluse nella cartella e nell'avvio. Una chat senza esecuzione può usare il metodo e preparare lavoro; l'esecuzione impiega Python, Git o altri mezzi reali dell'host. La guida selezionata spiega ingressi, comandi e test significativi. Non vengono fornite credenziali o stato privato dei nodi.
+
+Le cartelle usano le entry native. Gli identificatori delle risorse continuano a individuare le rotte del sito; docs/IDENTITIES.json collega queste coordinate. Le precedenti cartelle rimandano ai kit correnti.

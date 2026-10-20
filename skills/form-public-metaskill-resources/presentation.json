@@ -1,0 +1,132 @@
+{
+  "it": {
+    "title": "Trasformare una competenza interna in una risorsa pubblica",
+    "subtitle": "Collega il saper fare trasferibile a guida, primo uso, repository, pagina e derivazioni editoriali.",
+    "kind": "Metacompetenza",
+    "domain": "Prodotti e comunicazione",
+    "does": "Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI.",
+    "when": "Quando un team vuole condividere un metodo o una skill maturati nel lavoro e renderli utili anche ad altri.",
+    "examples": [
+      "Converte una competenza interna in un kit con guida e avvio.",
+      "Prepara scheda e pagina di una risorsa open source.",
+      "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
+    ],
+    "intro": [
+      "Questa metacompetenza trasforma un saper fare interno in una risorsa che persone e assistenti esterni possono comprendere, avviare e adattare. Tiene insieme metodo trasferito, guida, primo uso, repository o altro luogo di distribuzione, pagina di presentazione e derivazioni editoriali.",
+      "La risorsa nasce dal lavoro che il destinatario potrà affidarle. Una funzione concreta, una competenza o una composizione possono essere utili: il nome “meta” non ne determina da solo il valore."
+    ],
+    "method": [
+      {
+        "title": "Partire dalla capacità e dal destinatario",
+        "body": "Leggi la competenza sorgente, le ragioni della sua formazione e la guida del lavoro. Comprendi che cosa il ricevente potrà fare, quando gli servirà e quale conoscenza gli permetterà di adattare il metodo. Cerca il sapere anche nelle guide e nelle relazioni con altre capacità: una cartella o una descrizione non esauriscono la funzione. Quando la risorsa compone più competenze, trasferisci il ponte che collega conoscenza e scelta; un elenco di nomi lascia quel lavoro al destinatario."
+      },
+      {
+        "title": "Formare un metodo utilizzabile fuori dal contesto d’origine",
+        "body": "Preserva significato, ragioni, capacità e possibilità di revisione. Sostituisci dipendenze private con conoscenza inclusa o fonti accessibili. Togliere percorsi e nomi non basta: il ricevente deve sapere cosa osservare, quale relazione cambia una decisione e come continuare. Mantieni le condizioni che rendono vera una lezione e distingui metodo proposto, capacità implementata, esercizio osservato e assimilazione. Gli esempi nuovi restano illustrativi. Rimuovi credenziali, stato degli account, contatti, cronologie e dettagli privati non necessari."
+      },
+      {
+        "title": "Costruire corpo, guida e primo uso",
+        "body": "Forma il corpo operativo nella profondità richiesta dal lavoro. La guida spiega come usarlo e adattarlo; gli esempi rendono riconoscibili casi differenti. Un avvio dichiarato autonomo deve includere il metodo necessario; un ingresso che rimanda a file deve raggiungere file effettivamente disponibili. Spiega le differenze fra chat, ambiente agentico e kernel esistente dove cambiano l’uso. Indica come conservare il sapere attraverso documenti o un testo da salvare. Le istruzioni non installano strumenti, memoria, account o scheduler."
+      },
+      {
+        "title": "Presentare la capacità senza perdere profondità",
+        "body": "La scheda rende immediati cosa fa, quando usarla e casi riconoscibili. Titolo e sottotitolo identificano l’oggetto e il contesto per chi non conosce il progetto. La pagina dedicata rende raggiungibili spiegazione del metodo, avvio, esempi e profondità concettuale pertinente. Chiarisci quale oggetto viene trasformato: una relazione meta forma o modifica metodi e competenze; una relazione autologica riguarda il proprio modo di operare. Composizione, automazione e autonomia non sono sinonimi di questi concetti."
+      },
+      {
+        "title": "Far continuare la stessa risorsa nelle sue proiezioni",
+        "body": "Assegna un’identità e una versione coerenti a corpo, guida, avvio e presentazione. Quando un pacchetto dichiara una revisione, costruiscilo dagli stessi contenuti e verifica quella corrispondenza; non attribuire a una versione file concorrenti diversi. Gli articoli e gli adattamenti derivano dalla capacità selezionata: la riduzione conserva tesi, stato e condizioni, la traduzione conserva significato. Preserva gli originali umani distinguendoli dalle proposte dell’assistente. Sorgente condivisa, anteprima, deploy, invio e uso da parte di altri sono effetti e osservazioni distinti, governati dal mandato e dai mezzi reali."
+      }
+    ],
+    "depth": {
+      "title": "Una risorsa che insegna anche a formare risorse",
+      "paragraphs": [
+        "La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.",
+        "La relazione autologica compare quando una difficoltà del destinatario corregge il metodo di formazione: se il prompt rinvia a una guida privata, non manca solo un link, manca conoscenza operativa nel ricevente. Quel riscontro cambia come il prossimo kit viene costruito. Il ritorno al metodo non implica distribuzione autonoma."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi il contesto del tuo lavoro. Contiene l’intero metodo. Conserva la restituzione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella all’assistente, indicagli SKILL.md e scegli i documenti del progetto da usare per la continuità. Accessi e azioni dipendono dagli strumenti e dal mandato disponibili."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza e alle guide pertinenti. Senza kernel, l’avvio completo fornisce il metodo necessario; puoi iniziare dal lavoro descritto qui."
+      }
+    ],
+    "learning": [
+      "Un problema di comprensione cambia la scheda o la spiegazione; una lacuna d’uso cambia metodo, guida o attivazione; una divergenza fra sorgente e pacchetto cambia il meccanismo di costruzione. Correggi le proiezioni realmente dipendenti, preservando gli altri lavori.",
+      "Conserva fonte, ragione e conseguenza che miglioreranno la prossima risorsa. Una prima realizzazione rende il metodo disponibile e documenta il proprio caso; una diversa adozione successiva può mostrarne limiti e capacità."
+    ],
+    "operating_guide": "skills/form-public-metaskill-resources/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Turn an internal competence into a public resource",
+    "subtitle": "Connect transferable know-how with a guide, first use, repository, dedicated page and editorial adaptations.",
+    "kind": "Meta-competence",
+    "domain": "Products and communication",
+    "does": "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI.",
+    "when": "Use it when a team wants to share a method or skill developed through work and make it useful to others.",
+    "examples": [
+      "Turn an internal competence into a kit with a guide and starter.",
+      "Prepare a card and dedicated page for an open-source resource.",
+      "Derive an article and social adaptations from the same resource version."
+    ],
+    "intro": [
+      "This meta-competence turns internal know-how into a resource that people and assistants outside the original context can understand, start and adapt. It holds together the transferred method, guide, first use, repository or other distribution location, presentation page and editorial adaptations.",
+      "The resource starts from the work its recipient will be able to entrust to it. A concrete function, a competence or a composition can be useful: the label 'meta' does not by itself determine its value."
+    ],
+    "depth": {
+      "title": "A resource that also teaches how to form resources",
+      "paragraphs": [
+        "The meta relation is its object: it forms a usable capability from internal know-how and connects its entry points. The same method can be applied to its own transformation into a public resource.",
+        "The autological relation appears when a recipient's difficulty corrects the formation method: if the prompt refers to a private guide, it is not only a missing link; the receiving assistant lacks operating knowledge. That feedback changes how the next kit is built. The return to the method does not imply autonomous distribution."
+      ]
+    },
+    "learning": [
+      "A problem of understanding changes the card or explanation; a gap in use changes the method, guide or activation; a divergence between source and package changes the build mechanism. Correct the projections that actually depend on the difference while preserving other work.",
+      "Keep the source, reason and consequence that will improve the next resource. An initial implementation makes the method available and documents its own case; a different later adoption can reveal its limits and capabilities."
+    ],
+    "method": [
+      {
+        "title": "Start from the capability and its recipient",
+        "body": "Read the source competence, the reasons for its formation and the work guide. Understand what the receiving assistant will be able to do, when it will be useful and which knowledge will allow it to adapt the method. Look for know-how in the guides and relationships with other capabilities too: a folder or description does not exhaust the function. When the resource composes several competences, transfer the bridge that connects knowledge and choice; a list of names leaves that work to the recipient."
+      },
+      {
+        "title": "Form a method usable outside its original context",
+        "body": "Preserve meaning, reasons, capabilities and the possibility of revision. Replace private dependencies with included knowledge or accessible sources. Removing paths and names is not enough: the receiving assistant needs to know what to observe, which relationship changes a decision and how to continue. Keep the conditions that make a lesson true, and distinguish a proposed method, an implemented capability, observed exercise and assimilation. New examples remain illustrative. Remove credentials, account state, contacts, histories and unnecessary private details."
+      },
+      {
+        "title": "Build the operating body, guide and first use",
+        "body": "Form the operating body at the depth the work requires. The guide explains how to use and adapt it; examples make different cases recognisable. A starter declared self-contained must include the necessary method; an entry that refers to files must reach files that are actually available. Explain the differences between chat, an agentic environment and an existing kernel where they change use. Indicate how to preserve knowledge through documents or text to save. Instructions do not install tools, memory, accounts or a scheduler."
+      },
+      {
+        "title": "Present the capability without losing depth",
+        "body": "The card makes what it does, when to use it and recognisable cases immediately clear. Title and subtitle identify the object and context for someone unfamiliar with the project. The dedicated page makes the method's explanation, starter, examples and relevant conceptual depth accessible. Clarify which object is being transformed: a meta relation forms or modifies methods and competences; an autological relation concerns its own way of operating. Composition, automation and autonomy are not synonyms for these concepts."
+      },
+      {
+        "title": "Let the same resource continue across its projections",
+        "body": "Give the operating body, guide, starter and presentation a coherent identity and version. When a package declares a revision, build it from the same content and verify that correspondence; do not attribute different concurrent files to one version. Articles and adaptations derive from the selected capability: shortening preserves the thesis, state and conditions; translation preserves meaning. Preserve human originals, distinguishing them from the assistant's proposals. Shared source, preview, deployment, sending and use by others are distinct effects and observations, governed by the mandate and actual means."
+      }
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
+      }
+    ],
+    "operating_guide": "skills/form-public-metaskill-resources/OPERATING_GUIDE.md"
+  }
+}

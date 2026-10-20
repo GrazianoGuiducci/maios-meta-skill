@@ -1,0 +1,63 @@
+{
+  "id": "condividere-apprendimenti",
+  "name": "Public Learning Promotion",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "10",
+  "skill": "skills/public-learning-promotion/SKILL.md",
+  "guide": "skills/public-learning-promotion/README.md",
+  "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
+  "examples": "skills/public-learning-promotion/EXAMPLES.md",
+  "presentation": "skills/public-learning-promotion/presentation.json",
+  "package": "dist/public-learning-promotion-0.3.0.zip",
+  "it": {
+    "route": "/risorse/condividere-apprendimenti/",
+    "title": "Ricavare conoscenze condivisibili dal lavoro interno",
+    "description": "Riconosce quale metodo, osservazione o capacità conserva valore anche fuori dal contesto che l’ha prodotta.",
+    "kind": "Competenza",
+    "domain": "Prodotti e comunicazione",
+    "does": "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito.",
+    "when": "Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico.",
+    "examples": [
+      "Ricava una guida da un problema risolto nel lavoro.",
+      "Separa il metodo utile dai dati di un cliente.",
+      "Presenta un’osservazione di ricerca mantenendo chiaro ciò che resta una domanda."
+    ]
+  },
+  "en": {
+    "route": "/resources/condividere-apprendimenti/",
+    "title": "Turn internal project learning into shareable knowledge",
+    "description": "Identify the method, observation or capability that remains useful outside its original context.",
+    "kind": "Competence",
+    "domain": "Products and communication",
+    "does": "Separates reusable learning from private details and chooses a public form faithful to what was observed or built.",
+    "when": "When project experience could become a guide, method, resource or public case.",
+    "examples": [
+      "Turn a solved problem into a useful guide.",
+      "Separate a transferable method from client data.",
+      "Present a research observation while preserving the open question."
+    ]
+  },
+  "native_entry": "public-learning-promotion",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/public-learning-promotion/SKILL.md",
+      "guide": "skills/public-learning-promotion/README.md",
+      "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
+      "examples": "skills/public-learning-promotion/EXAMPLES.md",
+      "operating_guide": "skills/public-learning-promotion/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/public-learning-promotion/SKILL_IT.md",
+      "guide": "skills/public-learning-promotion/README_IT.md",
+      "starter": "skills/public-learning-promotion/AVVIO_CHAT_IT.txt",
+      "examples": "skills/public-learning-promotion/ESEMPI_IT.md",
+      "operating_guide": "skills/public-learning-promotion/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "public-learning-promotion"
+}

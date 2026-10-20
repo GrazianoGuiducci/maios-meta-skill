@@ -1,0 +1,83 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Situated Activity Evolution
+
+Understand and improve an existing recurring activity's sources, method and connections when real work changes its usefulness. It may produce valuable knowledge, repeat unused results or encounter new possibilities.
+
+Use this competence when an automation keeps running while its context, sources or served work have changed. Correct prompt execution does not establish continued usefulness. Consider the activity itself as the object and compose with Meta-Activity when recurring work needs revision.
+
+## Begin with a real difference
+
+Reach the activity's purpose, current configuration, sources, means and recipient. Start from an outcome or project change: repeated results, lost access, neglected opportunities, useful contributions or overlap. A trigger firing does not prove execution; silence does not prove uselessness. Do not add compulsory review to every run without a changed material relation.
+
+## Understand who uses the result
+
+Follow source, result and use. Distinguish information seen, prepared, preserved, received and actually used. A report available in a folder has not necessarily been read. Value may lie in a better question, prepared decision, avoided error or preserved possibility. When uptake is unknown, keep it unknown rather than assigning zero value.
+
+## Change the responsible relation
+
+Deepen the pertinent method when knowledge is missing. Repair the entry or recipient connection when knowledge exists but does not participate. Before combining overlapping activities, compare purpose, sources and consequences. A different cadence, clearer stopping condition or better source may suffice. Preserve original purpose and valid decisions; local optimization does not confer authority to change the mandate.
+
+## Prepare what makes later work useful
+
+When reports seem saturated, consider whether the repeated question causes the limit. Seek a capability, relation, means or condition that changes what the next run can do. Preparing a recipient to use a result or making a source accessible may help. Develop the possibility supported by context without inventing activities to demonstrate improvement.
+
+## Apply and observe the relevant change
+
+Correct the method within entrusted work. Changing a schedule, suspending or deleting an activity requires the actual mandate and controller. Compare configuration before and after, preserve concurrent changes and read back the saved effect. An instruction represents change; later execution and consequences show participation. Do not retire a useful activity merely because it produces no notifications.
+
+## Let learning continue
+
+Bring the recipient the smallest difference changing their work, with source, meaning and resumption condition where needed. Keep the reason for the method change in the activity guide. When experience changes how usefulness, saturation or overlap are understood, update this competence. A deferred possibility can retain its reopening condition without immediately creating another job.
+
+## Method depth
+
+The meta relation concerns the activity as a continuing capability: how it researches, produces and serves a recipient. Time triggers are only one means.
+
+An autological return may change how this competence recognizes usefulness. An unread report may indicate a missing connection rather than useless research. Autonomous execution instead concerns actual means and mandate; it is distinct from this understanding.
+
+## Learning and continuation
+
+Retain change when it helps the next use. This competence itself may be simplified or absorbed into a more suitable capability; useful work, not its own permanence, is its purpose.
+
+Begin from available context and sources. Chat can exercise the method; persistence, tools and external effects depend on the recipient's means and mandate. Observe behavior and value in real work.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Situated Activity Evolution
+
+## Understand what an activity makes useful
+
+Inspect a real run or a changed field when the activity's own fitness becomes material. A quiet run or no immediate consumer does not prove zero value. Useful consequences can include a better question, retained opportunity, avoided wrong effect, practical recipient use or reduced duplication. Unconsumed output is potential rather than verified benefit. Preserve unknowns when observation is insufficient.
+
+If the domain result exists but never reaches its consumer, repair receiving access or routing. If the method is weak, deepen its competence. If activities overlap, understand which owner can carry the useful function; do not merge merely because labels resemble each other. Trigger, recipient, sources, stop conditions and deduplication can evolve when actual consequences change their suitability. Return a small decision-changing relation rather than an entire report.
+
+When repeated optimization appears saturated, consider the enabling relation that would change what the next action can do: practical knowledge, a reachable source, prepared receiving environment or a different question. Build that contribution at its owner when selected. Do not create another meta-auditor, require endless ideation or reopen valid closure. Integration, justified no-change, replacement and retirement are situated outcomes, not mandatory lifecycle steps.
+
+Changing understanding does not by itself pause, delete, duplicate or reschedule a job. Use the real controller and exact selected authority for such effects, preserving in-flight work and a recovery route. Meta-Activity can connect original purpose, editable instructions and controller behavior; this competence retains the activity's continuing usefulness as its object.
+
+# Situated Activity Evolution — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Improve a radar that repeats known results
+
+A weekly search keeps returning sources already known. Compare what actually changed and what its recipient needs to decide. Source memory and a more precise question may correct the method without increasing frequency.
+
+## Connect knowledge to the guide a team actually uses
+
+An activity produces useful notes, but the team works from another guide. Connect the result to that real entry and preserve the difference that changes a choice. Updating the file does not yet demonstrate the team’s use.
+
+## Understand overlap before combining two activities
+
+Two searches cover similar topics but serve different decisions. Clarify recipients and differences before merging them. They may share acquisition and retain separate interpretation, or one may absorb the other’s entire function within the entrusted mandate.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

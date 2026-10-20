@@ -1,0 +1,138 @@
+{
+  "it": {
+    "title": "Far migliorare un’attività AI attraverso i suoi risultati",
+    "subtitle": "Rivede fonti, metodo e collegamenti di un’attività ricorrente quando il lavoro ne cambia l’utilità.",
+    "kind": "Competenza",
+    "domain": "Metodo e apprendimento",
+    "does": "Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente.",
+    "when": "Quando un’automazione continua a girare ma il contesto, le fonti o il lavoro che deve servire sono cambiati.",
+    "examples": [
+      "Un radar smette di segnalare ogni volta la stessa notizia.",
+      "Una ricerca collega i risultati alla competenza che deve usarli.",
+      "Due attività sovrapposte possono essere integrate con un mandato chiaro."
+    ],
+    "intro": [
+      "Un'attività può eseguire correttamente il proprio prompt e smettere di essere utile. Il problema può riguardare le fonti, il metodo, il destinatario o il rapporto con il progetto.",
+      "Questa competenza prende l'attività stessa come oggetto: comprende quali differenze produce e come potrebbe continuare meglio. Affianca Meta-Activity quando occorre rivedere un lavoro già ricorrente."
+    ],
+    "method": [
+      {
+        "title": "Partire da una differenza reale",
+        "body": "Raggiungi scopo, configurazione corrente, fonti, mezzi e destinatario dell'attività. Usa un esito concreto o un cambiamento del progetto: risultati ripetuti, accesso perduto, opportunità trascurate, contributi riusciti o sovrapposizioni. Un orario scattato non dimostra che il lavoro sia stato svolto. Un ciclo silenzioso non dimostra inutilità. Non aggiungere una revisione obbligatoria a ogni esecuzione se nessuna relazione materiale è cambiata."
+      },
+      {
+        "title": "Capire a chi serve il risultato",
+        "body": "Segui il passaggio dalla fonte al risultato e al suo uso. Distingui informazione vista, preparata, conservata, ricevuta e realmente usata. Un rapporto disponibile in una cartella non significa che il destinatario lo abbia letto. Il valore può essere una domanda migliore, una decisione preparata, un errore evitato o una possibilità conservata. Se non conosci l'uso effettivo, mantienilo incerto invece di assegnare valore zero."
+      },
+      {
+        "title": "Cambiare la relazione responsabile",
+        "body": "Se manca sapere, approfondisci il metodo pertinente. Se il sapere esiste ma non partecipa, ripara l'ingresso o il collegamento al destinatario. Se due attività si sovrappongono, confrontane scopo, fonti e conseguenze prima di unirle. Un ritmo diverso, una condizione d'arresto più chiara o una fonte migliore possono bastare. Conserva lo scopo originario e le scelte valide; non scambiare un'ottimizzazione locale per il diritto di cambiare mandato."
+      },
+      {
+        "title": "Preparare ciò che renderà utile il prossimo lavoro",
+        "body": "Quando i rapporti sembrano saturi, considera che il limite possa appartenere alla domanda ripetuta. Cerca una capacità, una relazione, un mezzo o una condizione che cambierebbe ciò che il prossimo ciclo può fare. Può essere utile preparare il destinatario a usare un risultato oppure rendere una fonte accessibile. Sviluppa la possibilità coerente con il contesto, senza inventare nuove attività per dimostrare miglioramento."
+      },
+      {
+        "title": "Applicare e osservare il cambiamento pertinente",
+        "body": "Il metodo può essere corretto nel lavoro autorizzato; modificare una programmazione, sospendere o cancellare un'attività richiede il mandato e il controller effettivi. Confronta configurazione prima e dopo, preserva cambiamenti concorrenti e rileggi l'effetto salvato. Una nuova istruzione rappresenta il cambiamento; un'esecuzione successiva e le sue conseguenze mostrano se partecipa davvero. Non ritirare un'attività utile soltanto perché non produce notifiche."
+      },
+      {
+        "title": "Far continuare l'apprendimento",
+        "body": "Porta al destinatario la differenza minima che cambia il suo lavoro, con fonte, significato e condizione di ripresa quando servono. Conserva nella guida dell'attività perché il metodo è cambiato. Se l'esperienza corregge il modo in cui giudichi utilità, saturazione o sovrapposizione, aggiorna questa competenza. Una possibilità differita può restare con la propria condizione di riapertura senza generare subito un nuovo job."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "La relazione meta riguarda l'attività come capacità che continua: si comprende e modifica il modo con cui ricerca, produce e serve un destinatario. Il trigger temporale è soltanto uno dei mezzi.",
+        "Un ritorno autologico può cambiare il metodo con cui questa competenza riconosce l'utilità. Per esempio, un report non letto non prova che la ricerca fosse inutile: può mostrare un collegamento mancante. Autonomia significa invece poter eseguire azioni con mezzi e mandato effettivi; non coincide con questa comprensione."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "Conserva un cambiamento quando aiuta il prossimo uso. La stessa competenza può essere semplificata o assorbita da una capacità più adatta: il suo scopo è l'utilità del lavoro, non la propria permanenza."
+    ],
+    "operating_guide": "skills/situated-activity-evolution/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Improve a recurring AI activity through its results",
+    "subtitle": "Revisit sources, method and connections when the activity's usefulness changes.",
+    "kind": "Competence",
+    "domain": "Method and learning",
+    "does": "Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation.",
+    "when": "When an automation keeps running but its context, sources or intended recipient have changed.",
+    "examples": [
+      "Help a research radar stop rediscovering the same news.",
+      "Connect research results to the competence that needs them.",
+      "Understand whether overlapping activities should be combined."
+    ],
+    "intro": [
+      "An activity can execute its prompt correctly while becoming less useful. The problem may lie in its sources, method, recipient or connection to the project.",
+      "This competence takes the activity itself as its object: it understands the differences it produces and how continuation could improve. It complements Meta-Activity when an existing recurring activity needs reconsideration."
+    ],
+    "method": [
+      {
+        "title": "Start from a real difference",
+        "body": "Read the activity's purpose, current configuration, sources, means and recipient. Use a real result or project change: repeated output, lost access, missed possibilities, successful contributions or overlap. A fired schedule does not prove completed work, and silence does not prove uselessness. Reconsider the activity when a material relation changes."
+      },
+      {
+        "title": "Understand who can use the result",
+        "body": "Follow the path from source to result and use. Distinguish information seen, prepared, stored, received and exercised. A report in a folder does not prove that its recipient read it. Value can mean a better question, a prepared decision, an avoided error or a retained possibility. Unknown use is not zero value."
+      },
+      {
+        "title": "Change the responsible relation",
+        "body": "If knowledge is missing, deepen the relevant method. If it exists but is not used, repair the entry or recipient connection. Compare purpose, sources and consequences before combining overlapping activities. A better source, cadence or stopping condition may suffice. Preserve the original purpose and valid decisions."
+      },
+      {
+        "title": "Prepare what makes later work useful",
+        "body": "When repeated reports appear saturated, the limit may belong to the repeated question. Look for a capability, relation, tool or condition that would change what the next run can do. Preparing a recipient to use a result can matter as much as finding another source. Develop a situated possibility without multiplying tasks merely to show improvement."
+      },
+      {
+        "title": "Apply and observe the relevant change",
+        "body": "Correct the method within authorized work. Changing a schedule, pausing or deleting an activity requires the actual mandate and controller. Preserve concurrent changes and read back saved effects. New instructions represent a change; later runs and their consequences show whether it participates. Do not retire useful work merely because it produces no notifications."
+      },
+      {
+        "title": "Continue the learning",
+        "body": "Return the smallest meaningful difference to the recipient, preserving source, meaning and reentry conditions where needed. Retain why the activity's method changed. If experience corrects how usefulness, saturation or overlap is understood, update this competence. A deferred possibility can remain available without creating another job."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "The meta relation concerns the activity as a continuing capability: how it searches, produces and serves a recipient. A time-based trigger is only one of its means.",
+        "An autological return can change how this competence recognizes usefulness. An unread report may expose a missing connection rather than useless research. Autonomy instead concerns executing actions with actual means and authorization; it is not the same as this understanding."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "Retain a change when it helps the next use. This specialist competence can itself be simplified or absorbed by a better-suited capability: useful work matters more than preserving its current form."
+    ],
+    "operating_guide": "skills/situated-activity-evolution/OPERATING_GUIDE.md"
+  }
+}

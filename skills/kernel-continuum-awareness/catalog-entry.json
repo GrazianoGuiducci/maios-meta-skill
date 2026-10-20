@@ -1,0 +1,63 @@
+{
+  "id": "coerenza-kernel-ai",
+  "name": "Kernel Continuum Awareness",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "21",
+  "skill": "skills/kernel-continuum-awareness/SKILL.md",
+  "guide": "skills/kernel-continuum-awareness/README.md",
+  "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
+  "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
+  "presentation": "skills/kernel-continuum-awareness/presentation.json",
+  "package": "dist/kernel-continuum-awareness-0.3.0.zip",
+  "it": {
+    "title": "Mantenere coerenti le capacità di un kernel AI",
+    "kind": "Metacompetenza del kernel",
+    "domain": "Builder e sistemi",
+    "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
+    "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
+    "examples": [
+      "Un rientro recupera le ragioni ancora valide del sistema.",
+      "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
+      "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+    ],
+    "route": "/risorse/coerenza-kernel-ai/",
+    "description": "Conserva le relazioni vive del sistema attraverso correzioni, cambiamenti e riprese del lavoro."
+  },
+  "en": {
+    "title": "Maintain coherence across an AI kernel’s capabilities",
+    "kind": "Kernel metacompetence",
+    "domain": "Builders and systems",
+    "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
+    "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
+    "examples": [
+      "Recover the system’s still-valid reasons during reentry.",
+      "Carry a correction to entries that still lead from an older method.",
+      "Let the kernel understand its own change without adding a parallel controller."
+    ],
+    "route": "/resources/coerenza-kernel-ai/",
+    "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
+  },
+  "native_entry": "kernel-continuum-awareness",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/kernel-continuum-awareness/SKILL.md",
+      "guide": "skills/kernel-continuum-awareness/README.md",
+      "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
+      "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
+      "operating_guide": "skills/kernel-continuum-awareness/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/kernel-continuum-awareness/SKILL_IT.md",
+      "guide": "skills/kernel-continuum-awareness/README_IT.md",
+      "starter": "skills/kernel-continuum-awareness/AVVIO_CHAT_IT.txt",
+      "examples": "skills/kernel-continuum-awareness/ESEMPI_IT.md",
+      "operating_guide": "skills/kernel-continuum-awareness/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "kernel-continuum-awareness"
+}

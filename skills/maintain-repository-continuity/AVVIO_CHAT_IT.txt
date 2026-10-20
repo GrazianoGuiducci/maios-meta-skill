@@ -1,0 +1,99 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Maintain Repository Continuity
+
+**Condividere il lavoro AI tra repository e collaboratori**
+
+Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.
+
+## Scopo e situazione
+
+Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa.
+
+Usa questa competenza: quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale.
+
+Un lavoro salvato può restare invisibile a chi deve continuarlo. Questa competenza collega il risultato locale alla sorgente condivisa del progetto, mantenendo chiaro che cosa appartiene alla modifica selezionata.
+
+La continuità comprende le ragioni del cambiamento, i contributi concorrenti e la revisione che il collaboratore può davvero leggere. Commit, condivisione e pubblicazione del prodotto restano effetti distinti.
+
+## Individuare repository e risultato selezionati
+
+Raggiungi il repository che possiede il lavoro e le sue istruzioni attuali. Comprendi che cosa deve diventare condiviso e perché serve al seguito. Una cartella contenitore può ospitare più repository: non trattarli come un unico oggetto. La continuità diventa pertinente a un risultato significativo o a un passaggio di consegne, non richiede una chiusura Git dopo ogni modifica o una pubblicazione durante una richiesta di sola lettura.
+
+## Comprendere le identità presenti
+
+Distingui file di lavoro, commit locali, riferimento di tracciamento, revisione remota verificata e artefatti generati o ignorati. Usa gli strumenti Git e l'accesso previsti dal progetto per vedere ramo, differenze e rapporto con il remoto. Un riferimento locale può essere vecchio; un fetch riuscito non dimostra che il contenuto selezionato sia già condiviso. Evita di stampare o salvare credenziali mentre acquisisci queste informazioni.
+
+## Preservare i contributi concorrenti
+
+Leggi il significato delle modifiche prima di preparare il commit. Seleziona solo i file o le porzioni appartenenti al lavoro autorizzato. Un cambiamento vecchio o non ancora salvato in un commit non è per questo rumore eliminabile. Con contributi locali e remoti indipendenti, integra preservando entrambe le linee; se si sovrappongono sullo stesso oggetto, risolvi la relazione prima di scegliere il contenuto. Non ottenere ordine apparente cancellando lavoro valido.
+
+## Completare l'effetto autorizzato
+
+Quando il mandato corrente copre commit e condivisione, controlla il contenuto pertinente, esegui verifiche proporzionate, crea un commit coerente e condividi sul ramo previsto attraverso l'autenticazione del destinatario. Non trasferire la policy di credenziali o di push di un altro ambiente. Se l'effetto non è autorizzato o il mezzo manca, conserva il lavoro e indica il passaggio specifico ancora aperto senza dichiarare la sorgente condivisa.
+
+## Verificare ciò che il collaboratore riceverà
+
+Dopo la condivisione, verifica la revisione remota e la relazione con il risultato locale e il tracking. Se una riconciliazione produce identità diverse, spiega quali commit o contenuti corrispondono e quali restano distinti. Dai al collaboratore un riferimento esatto con ragioni e controlli rilevanti. Una sorgente raggiungibile non prova che sia stata letta, installata o eseguita. Deploy, release e attivazione richiedono il loro riscontro.
+
+## Far continuare la conoscenza del cambiamento
+
+Conserva nella guida del progetto il cambiamento utile, il perché, la revisione, le verifiche e l'eventuale lavoro rimasto locale. Se un nuovo caso espone una perdita o una procedura superflua, correggi il metodo di continuità. Il suo scopo è rendere il lavoro condivisibile e ricostruibile, non creare un rituale di Git o mantenere tutti i repository dell'ambiente sincronizzati per forza.
+
+## Profondità del metodo
+
+Questa è una competenza tecnica di continuità sorgente. Il numero di repository o di agenti non le attribuisce automaticamente un livello meta.
+
+Il metodo può diventare oggetto di apprendimento quando un passaggio di consegne mostra che una modifica condivisa non era raggiungibile dal collaboratore. Correggere quell'ingresso cambia il modo di conservare la continuità. È diverso da un processo autonomo che esegue push a intervalli, e non autorizza tale processo.
+
+## Continuità e apprendimento
+
+Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perdita e senza dover ricostruire la situazione. Un controllo tecnico resta legato alla revisione che ha effettivamente verificato.
+
+Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Maintain Repository Continuity
+
+## Riconciliare il lavoro selezionato con la sorgente condivisa
+
+Identifica checkout proprietario, branch, percorsi selezionati, modifiche locali, upstream e identità remota reale. Il contenitore di lavoro può avere repository indipendenti. Non attribuire ogni file sporco alla task. Conserva corsie concorrenti e lavoro già staged; prepara soltanto il contributo selezionato. Il tracking è osservazione memorizzata finché non aggiornato con il meccanismo credenziali autorizzato.
+
+Se locale e remoto sono cambiati indipendentemente, comprendi sovrapposizioni pertinenti e conserva entrambi i contributi validi. Usa l'integrazione minima che continua il lavoro; reset o sincronizzazione forzata possono cancellare sapere estraneo. Prima di condividere rivedi diff selezionato e controlli pertinenti. Commit e push seguono autorità e policy credenziali esistenti, senza stampare o conservare segreti.
+
+Verifica ciò che contiene il remoto effettivo e distingui condivisione sorgente da installazione, deploy e comportamento pubblico. In alcuni progetti il push attiva un deploy separato: comprendi la relazione prima di invocarlo. Conserva identità condivisa e condizione di recupero se servono al seguito. Un checkout pulito non stabilisce correttezza del prodotto e i soli conteggi ahead/behind non decidono quale significato prevale.
+
+# Esempi — Condividere il lavoro AI tra repository e collaboratori
+
+I tre casi sono illustrativi: mostrano come il metodo cambia il lavoro. Non sono dichiarazioni di risultati verificati in installazioni esterne.
+
+## 1. Una modifica fra lavori concorrenti
+
+Due persone lavorano sullo stesso checkout. La competenza identifica il cambiamento selezionato e condivide solo quello, lasciando il contributo dell'altra persona intatto. La pulizia complessiva del checkout non è l'obiettivo.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## 2. Il remoto è avanzato
+
+Un commit locale e uno remoto modificano oggetti indipendenti. Ricostruisci le linee, integra nel metodo previsto dal progetto e verifica il risultato condiviso. Non usare la divergenza come motivo per eliminare una delle due linee.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## 3. Il collega deve riprendere
+
+Un assistente consegna una revisione precisa e una breve ragione del cambiamento. Il collega può leggere quella sorgente e continuare. La consegna non afferma che la revisione sia già distribuita al sito o attiva nel runtime.
+
+Per provarlo, fornisci le fonti pertinenti del tuo caso e chiedi all'AI di applicare il metodo, conservando ciò che è osservato e ciò che resta da capire.
+
+## Continuare dal proprio caso
+
+Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perdita e senza dover ricostruire la situazione. Un controllo tecnico resta legato alla revisione che ha effettivamente verificato.
+
+[Metodo completo](SKILL_IT.md) · [Avvio da usare in chat](AVVIO_CHAT_IT.txt)
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

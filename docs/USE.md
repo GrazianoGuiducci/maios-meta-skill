@@ -39,3 +39,9 @@ When no controller is available, the assistant can prepare the activity and perf
 Entrust concrete enough work to recognize a useful contribution. Observe whether pertinent sources informed action and whether knowledge needed for continuation survived. In a different later case, observe whether a correction and its reason change choices.
 
 For feedback, describe situation and result while removing private data. A result, limitation or unchanged outcome can improve both operating method and explanation.
+
+## Operating knowledge and tools
+
+Each kit includes OPERATING_GUIDE.md and its Italian counterpart. The starter carries the method, this knowledge and developed examples. Where the native function supplies a runtime tool, its source is included in the folder and starter too. A chat without execution can reason with the method and prepare work; execution uses the host's actual Python, Git or other means. Follow the selected guide for inputs, command use and meaningful tests. No credentials or private node state are supplied.
+
+Operating folders use native entry names. Stable resource IDs still identify website routes; docs/IDENTITIES.json maps those coordinates. Former distribution folders link to current kits.

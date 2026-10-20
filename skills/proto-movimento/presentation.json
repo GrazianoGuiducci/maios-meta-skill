@@ -1,0 +1,126 @@
+{
+  "it": {
+    "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
+    "subtitle": "Proto Movimento collega il sapere sorgente, ciò che il ricevente comprende e le capacità che il prodotto deve portare.",
+    "kind": "Competenza di formazione del kernel",
+    "domain": "Builder e sistemi",
+    "does": "Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.",
+    "when": "Quando stai costruendo o trasferendo un kernel e il caso reale deve cambiare sia il ricevente sia il modo di progettarlo.",
+    "examples": [
+      "Un’installazione rivela una capacità che il destinatario non riesce a raggiungere.",
+      "Una nuova relazione cambia come il kernel presenta il proprio ingresso.",
+      "L’esperienza del ricevente migliora il successivo trasferimento."
+    ],
+    "intro": [
+      "Un kernel può contenere una capacità che il destinatario incontra in forma ridotta o attraverso un ingresso che ne cambia il significato. L’esperienza d’uso può insegnare dove intervenire.",
+      "Proto Movimento rende trasferibile il metodo maturato nel caso MAIOS Project Kernel: la conoscenza cambia sia ciò che il nuovo kernel può fare sia il modo con cui viene formato."
+    ],
+    "method": [
+      {
+        "title": "Seguire la funzione fino al ricevente",
+        "body": "Legge corpo, descrittore, mezzo di acquisizione e uso; il catalogo delle skill è uno degli ingressi possibili."
+      },
+      {
+        "title": "Comporre esperienza e sapere sorgente",
+        "body": "Un resoconto utile può localizzare male una causa. Il metodo conserva il segnale e raggiunge la relazione effettiva, insieme al patrimonio locale."
+      },
+      {
+        "title": "Formare il ritorno generativo",
+        "body": "La differenza appresa cambia il kernel ricevente e, quando pertinente, la capacità con cui si formano i kernel successivi."
+      }
+    ],
+    "depth": {
+      "title": "Il metodo che forma il kernel può cambiare durante la formazione",
+      "paragraphs": [
+        "La specializzazione di Proto Movimento riguarda la formazione del kernel attraverso l’esperienza del destinatario. La funzione generale di organizzare il metodo di un lavoro rimane distinguibile.",
+        "La relazione autologica emerge quando il modo stesso di leggere, confrontare e trasferire diventa oggetto del lavoro. Se il confronto si ferma ai file generati, l’esperienza può aprirlo alla comprensione e all’ingresso del ricevente.",
+        "Il ritorno autopoietico fa continuare quella conoscenza nel kernel e nel metodo generativo pertinenti. Non equivale ad aggiungere un modulo o a dichiarare una nuova release: la forma segue la funzione compresa."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro."
+      },
+      {
+        "title": "Senza un kernel",
+        "body": "Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere."
+      }
+    ],
+    "learning": [
+      "Una capacità già presente può richiedere un ingresso diverso o un uso più profondo. Il metodo conserva questa possibilità prima di proporre nuove parti.",
+      "I casi della prima edizione sono illustrativi. Il contributo di un’installazione o di un uso concreto resta attribuito al suo contesto e alla versione esercitata."
+    ],
+    "operating_guide": "skills/proto-movimento/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Form a new AI kernel through recipient experience",
+    "subtitle": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry.",
+    "kind": "Kernel formation competence",
+    "domain": "Builders and systems",
+    "does": "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it.",
+    "when": "When building or transferring a kernel and a real case should change both the recipient and the way it is designed.",
+    "examples": [
+      "An installation reveals a capability the recipient cannot reach.",
+      "A new relation changes how the kernel presents its entry.",
+      "Recipient experience improves the next transfer."
+    ],
+    "intro": [
+      "A kernel may contain a capability that reaches its recipient in a reduced form or through an entry that changes its meaning. Use can show where the difference arises.",
+      "Proto Movimento makes a method from the MAIOS Project Kernel formation case transferable: experience can change both what the kernel can do and how it is formed."
+    ],
+    "method": [
+      {
+        "title": "Follow the function to the recipient",
+        "body": "Read the body, descriptor, acquisition mechanism and use. The skill catalogue is one possible entry into that relation."
+      },
+      {
+        "title": "Compose experience with source knowledge",
+        "body": "A useful report can locate a cause incorrectly. Preserve its signal and reach the actual relation together with local knowledge."
+      },
+      {
+        "title": "Form the generative return",
+        "body": "The learned difference changes the recipient kernel and, where relevant, the capability through which later kernels are formed."
+      }
+    ],
+    "depth": {
+      "title": "The method that forms a kernel can change during formation",
+      "paragraphs": [
+        "Proto Movimento specializes in kernel formation through recipient experience. The general function of organizing a work method remains distinguishable.",
+        "The autological relation appears when reading, comparing and transferring become objects of the same work. If comparison stops at generated files, experience may open it to the recipient’s entry and understanding.",
+        "Autopoietic return lets that knowledge continue in the relevant kernel and generative method. It does not imply another module or a new release: the form follows the understood function."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work."
+      },
+      {
+        "title": "Without a kernel",
+        "body": "Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful."
+      }
+    ],
+    "learning": [
+      "An existing capability may need a different entry or deeper use. The method retains that possibility before proposing new parts.",
+      "First-edition cases are illustrative. An actual installation or use retains its own context and exercised version."
+    ],
+    "operating_guide": "skills/proto-movimento/OPERATING_GUIDE.md"
+  }
+}

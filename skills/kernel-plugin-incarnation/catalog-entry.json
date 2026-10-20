@@ -1,0 +1,63 @@
+{
+  "id": "kernel-in-plugin",
+  "name": "Kernel Plugin Incarnation",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "19",
+  "skill": "skills/kernel-plugin-incarnation/SKILL.md",
+  "guide": "skills/kernel-plugin-incarnation/README.md",
+  "starter": "skills/kernel-plugin-incarnation/START_CHAT_EN.txt",
+  "examples": "skills/kernel-plugin-incarnation/EXAMPLES.md",
+  "presentation": "skills/kernel-plugin-incarnation/presentation.json",
+  "package": "dist/kernel-plugin-incarnation-0.3.0.zip",
+  "it": {
+    "title": "Portare un kernel semantico in un plugin AI",
+    "kind": "Metacompetenza di prodotto",
+    "domain": "Builder e sistemi",
+    "does": "Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.",
+    "when": "Quando una capacità deve diventare un plugin installabile o passare a un ecosistema diverso.",
+    "examples": [
+      "Decide quale parte appartiene alla skill e quale richiede uno strumento.",
+      "Adatta una capacità al provider ricevente.",
+      "Usa un problema di discovery per migliorare la versione successiva del plugin."
+    ],
+    "route": "/risorse/kernel-in-plugin/",
+    "description": "Collega la capacità sorgente a skill, strumenti e interfaccia del ricevente, conservando il sapere necessario a farla continuare."
+  },
+  "en": {
+    "title": "Bring a semantic kernel into an AI plugin",
+    "kind": "Product metacompetence",
+    "domain": "Builders and systems",
+    "does": "Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected.",
+    "when": "When a capability needs an installable plugin form or must move to a different AI ecosystem.",
+    "examples": [
+      "Decide which part belongs in instructions and which requires a tool.",
+      "Adapt a capability to a receiving environment.",
+      "Use a discovery problem to improve the next plugin incarnation."
+    ],
+    "route": "/resources/kernel-in-plugin/",
+    "description": "Connect the source capability to the recipient’s skills, tools and interface while preserving the knowledge that lets it continue."
+  },
+  "native_entry": "kernel-plugin-incarnation",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/kernel-plugin-incarnation/SKILL.md",
+      "guide": "skills/kernel-plugin-incarnation/README.md",
+      "starter": "skills/kernel-plugin-incarnation/START_CHAT_EN.txt",
+      "examples": "skills/kernel-plugin-incarnation/EXAMPLES.md",
+      "operating_guide": "skills/kernel-plugin-incarnation/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/kernel-plugin-incarnation/SKILL_IT.md",
+      "guide": "skills/kernel-plugin-incarnation/README_IT.md",
+      "starter": "skills/kernel-plugin-incarnation/AVVIO_CHAT_IT.txt",
+      "examples": "skills/kernel-plugin-incarnation/ESEMPI_IT.md",
+      "operating_guide": "skills/kernel-plugin-incarnation/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "kernel-plugin-incarnation"
+}

@@ -38,7 +38,7 @@ def build(selected=None, source_ref=None):
         files = {}
         with ZipFile(destination, "w", compression=ZIP_DEFLATED) as archive:
             for source in sources:
-                name = resource["id"] + "/" + Path(source).relative_to(folder.relative_to(ROOT)).as_posix()
+                name = resource["skill_name"] + "/" + Path(source).relative_to(folder.relative_to(ROOT)).as_posix()
                 content = read(source)
                 entry = ZipInfo(name, date_time=(2026, 10, 19, 0, 0, 0))
                 entry.compress_type = ZIP_DEFLATED

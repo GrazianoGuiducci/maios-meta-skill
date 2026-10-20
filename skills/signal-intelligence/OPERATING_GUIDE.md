@@ -1,0 +1,9 @@
+# Signal Intelligence
+
+## Read the changed field, not only the first contour
+
+A signal can be an observation, contradiction, absence, weak relation, experiment, repository change or conversation. Keep source, time and carrier distinct. Read what it makes understandable in the present field, allowing scale, recurrence, incentives or an unexpected competence combination to change the question. Novelty, popularity, repetition and fluent wording do not establish truth or importance. A weak signal need not fit the current schema to remain a sourced possibility.
+
+When comparing a claimed new ability, enter the actual receiving competence and its accumulated guide. A living source, released package and installed receiver are different comparators. Existing know-how can be undiscovered, displaced by the assistant's framing, or made more capable by practical new knowledge. Repair the relation actually missing. Independent external evidence does not prove local performance. An experiment can answer a selected empirical question without becoming the default response to every signal.
+
+Another receiver's report is evidence of its report; inspect native source and conditions when they matter. Distribute the smallest useful difference to competences that must act differently, preserving their owners. A shared file is not a notification or proof of uptake. An uncovered recurring field may justify improving an existing activity or selecting a new one through the real scheduler; no schedule is created by this method alone. Return carrier knowledge to acquisition, domain knowledge to its owner and general formation learning to the generator. A useful result may be a synthesis, changed question, invalidator, practical action or explicit unresolved relation rather than a scored signal card.

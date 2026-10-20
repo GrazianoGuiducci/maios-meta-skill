@@ -1,0 +1,71 @@
+{
+  "id": "ricostruire-lavoro-decisioni",
+  "name": "D-ND Material Work Continuity",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "09",
+  "skill": "skills/dnd-material-work-continuity/SKILL.md",
+  "guide": "skills/dnd-material-work-continuity/README.md",
+  "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
+  "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
+  "presentation": "skills/dnd-material-work-continuity/presentation.json",
+  "package": "dist/dnd-material-work-continuity-0.3.0.zip",
+  "it": {
+    "route": "/risorse/ricostruire-lavoro-decisioni/",
+    "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
+    "description": "Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati.",
+    "when": "Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale.",
+    "examples": [
+      "Ricostruisce una scelta poi modificata dal cliente.",
+      "Conserva un’azione eseguita anche dopo una correzione di direzione.",
+      "Passa un progetto a una nuova istanza con fonti, effetti e incognite riconoscibili."
+    ]
+  },
+  "en": {
+    "route": "/resources/ricostruire-lavoro-decisioni/",
+    "title": "Reconstruct an AI project's work and decisions",
+    "description": "Preserve original requests, actions, corrections and the current position without rewriting what happened.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects.",
+    "when": "When requirements or direction change, or when the reasons behind a project's current state need to be reconstructed.",
+    "examples": [
+      "Reconstruct a decision later changed by a client.",
+      "Preserve an action already performed after a change of direction.",
+      "Hand over a project with identifiable sources, effects and unresolved questions."
+    ]
+  },
+  "native_entry": "dnd-material-work-continuity",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/dnd-material-work-continuity/SKILL.md",
+      "guide": "skills/dnd-material-work-continuity/README.md",
+      "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
+      "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
+      "operating_guide": "skills/dnd-material-work-continuity/OPERATING_GUIDE.md",
+      "runtime_sources": [
+        "skills/dnd-material-work-continuity/scripts/reduce_material_work_continuity.py",
+        "skills/dnd-material-work-continuity/scripts/demo_continuity.py",
+        "skills/dnd-material-work-continuity/references/material-work-continuity.v0.schema.json"
+      ]
+    },
+    "it": {
+      "skill": "skills/dnd-material-work-continuity/SKILL_IT.md",
+      "guide": "skills/dnd-material-work-continuity/README_IT.md",
+      "starter": "skills/dnd-material-work-continuity/AVVIO_CHAT_IT.txt",
+      "examples": "skills/dnd-material-work-continuity/ESEMPI_IT.md",
+      "operating_guide": "skills/dnd-material-work-continuity/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": [
+        "skills/dnd-material-work-continuity/scripts/reduce_material_work_continuity.py",
+        "skills/dnd-material-work-continuity/scripts/demo_continuity.py",
+        "skills/dnd-material-work-continuity/references/material-work-continuity.v0.schema.json"
+      ]
+    }
+  },
+  "skill_name": "dnd-material-work-continuity"
+}

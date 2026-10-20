@@ -1,0 +1,79 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Classify Content With Taxonomic Titles And Descriptions
+
+Form titles, subtitles and descriptions that let readers recognize content before opening it. A name provides orientation; a title identifies the object or relation; a subtitle supplies what distinguishes use and context.
+
+Apply this knowledge to articles, cards, pages, documents, sections and filenames. Clarity comes from understanding the source, not imposing one promotional formula on all content.
+
+## Understand what is being named
+
+Read content and sources deeply enough to identify their actual subject, object and relation. Consider what a reader already knows and which concrete reference is missing. Preserve a proper name or approved title when its exact identity matters, adding an explanation instead of silently renaming it. Return to the source when meaning is unclear; an attractive title cannot resolve that uncertainty.
+
+## Give title and subtitle complementary functions
+
+The title places content in a recognizable class while retaining the words defending its identity. If it fits unrelated objects unchanged, find the missing reference. The subtitle adds the case, activity, dynamic or use distinguishing this page. Do not repeat the same phrase with synonyms. The pair should work for a first-time reader without requiring reconstruction of its originating conversation.
+
+## Organize headings for their surface
+
+Use the main heading to identify the page or its object; a proper name may suffice when its supporting line explains context. Section headings form a map, each naming an object, decision or relation actually discussed. Choice cards should make the action and useful result visible within their domain and context. A call to action names the available gesture after the page has explained its purpose. Adapt these roles without mechanically repeating a template.
+
+## Keep naming and content coherent
+
+The opening and body should sustain the subject identified by the header. A title must not introduce an unsupported benefit, maturity level or effect. In a selected text correction, preserve unaffected structure and functions. If another structure becomes necessary, make that difference recognizable. Translations preserve identity, relation, action and scope even when syntax changes.
+
+## Make documents and resources findable
+
+For persistent artifacts, connect readable name, description, location and state. Useful names include the object or relation people will seek; dates and versions distinguish states without replacing identity. Type and field labels can aid orientation without describing the whole capability. A local classification does not automatically define a system-wide taxonomy. Naming confers no authority: content and source support the claim.
+
+## From a clear heading to an editorial method
+
+The direct work makes a header understandable. A meta relation appears when a correction changes how editorial competence recognizes and presents objects in later work.
+
+The relation is autological when this method notices it still produces generic titles despite formal correctness. Return to the content and change the naming criterion. No title form alone guarantees attention, subscriptions or distribution outcomes.
+
+## Learning and continuation
+
+A correction teaches when a word was missing, when a term was noise and which distinction the reader needed. Preserve the reason in the method with a useful attributed or illustrative example.
+
+Read the result from the position of someone without the originating conversation. This concerns understanding the object rather than promising commercial effectiveness.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Classify Content With Taxonomic Titles And Descriptions
+
+## Align identity, explanation and available action
+
+An H1 identifies the literal object or selected proper name. A subtitle supplies the missing use, case or dynamics without repeating it. The H2 sequence reconstructs the semantic map of the page; its supporting text states the concrete relation. A route card can use an action verb joining the delivered object, owning domain and context or result. A CTA names the available action after its consequence is understandable. This grammar follows the object rather than forcing every proper name into an action slogan.
+
+The reader needs a recognizable subject, object or concrete reference. A promotional hook cannot stand in for the missing reference. Preserve an approved title exactly and supply needed context beside it; revise an assistant's draft in its owner when selected. Opening and body continue the same object.
+
+For durable artifacts, align searchable filename, readable title, description, path and metadata with the same identity. A date or `final` does not identify the object or establish authority. Keep aliases explicit. Tags can distinguish independent facets such as type and domain with stable IDs and localized labels, multiple memberships where supported and room for new facets. Categories do not exhaust capabilities or define the internal ontology.
+
+Match the scope of the selected change: changing words does not silently authorize rebuilding layout or interaction. Where text cannot fit, surface the actual conflict and form the smallest pertinent adjustment. Keep first-read copy sufficient to choose; move internal process, secondary choices and detailed evidence into reachable depth when they do not change that choice.
+
+# Classify Content With Taxonomic Titles And Descriptions — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Name an article’s actual subject
+
+An article describes how a laboratory stores samples between analyses. ‘When checks are not enough’ leaves the object implicit. An illustrative clearer title is ‘Storing samples between two analyses’; the subtitle can name the conditions the article discusses. Revision adds no result or procedure absent from the source.
+
+## Make a product card understandable at first encounter
+
+A software card contains only its product name and a generic promise. Preserve the name and explain that the software organizes support requests and when that helps the team. ‘Read the guide’ becomes an understandable action because the card has established its object.
+
+## Make a document retrievable in a project
+
+An archive contains ‘final_notes_v3’. Name the document through its project, object and content type, retaining version and date to distinguish state. Its internal title and description refer to that same object. Renaming does not turn a proposal into an approved decision.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

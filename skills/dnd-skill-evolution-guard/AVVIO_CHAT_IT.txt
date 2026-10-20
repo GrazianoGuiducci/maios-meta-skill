@@ -1,0 +1,79 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# D-ND Skill Evolution Guard
+
+**Far evolvere una competenza AI attraverso il lavoro**
+
+Questa metacompetenza fa continuare nel metodo ciò che il lavoro insegna. Una correzione, un esito riuscito, una capacità emersa o una perdita ricorrente possono cambiare il saper fare che guiderà il prossimo caso.
+
+La competenza evolve dove la relazione deve continuare: può essere il suo corpo operativo, una guida, il suo ingresso o il collegamento a un’altra capacità. Il file è una forma del sapere, non la prova che quel sapere sia stato usato.
+
+## Comprendere la differenza causale
+
+Recupera la relazione fra intenzione, fonti, lavoro effettivamente svolto e conseguenza. Individua che cosa è stato perso, conservato o reso possibile e quale correzione cambia il seguito. Mantieni distinguibili le parole dell’operatore, i fatti dell’oggetto, le tue inferenze e gli esiti osservati. Una frase corretta non diventa un divieto universale; una formulazione elegante non sostituisce il significato. Se il materiale proviene da conversazioni, preserva l’attribuzione; se è molto esteso, conserva l’essenza con le sue ragioni.
+
+## Distinguere sapere mancante, ingresso e uso
+
+Leggi il metodo attuale e il punto da cui il ricevente lo raggiunge. Se manca una conoscenza pratica, acquisiscila o approfondisci la competenza. Se la conoscenza esiste ma non è raggiunta, correggi il collegamento o il richiamo. Se l’assistente conosceva il metodo e lo ha sostituito con la propria prima interpretazione, correggi quella scelta e l’eventuale errore riusabile di selezione. Aggiungere un’altra regola al file più vicino può lasciare intatta la causa. L’assenza di una cartella prova solo l’assenza di quella forma.
+
+## Far cambiare chi dovrà agire diversamente
+
+Una stessa conseguenza può riguardare più competenze. Porta a ciascuna la parte che cambia il suo modo di comprendere o agire, preservando i rispettivi oggetti e le conoscenze valide. Non copiare la stessa spiegazione ovunque. Una competenza distinta diventa utile quando emerge una funzione, un sapere, un ingresso o una continuità realmente differenti. Altrimenti approfondisci l’interfaccia già esistente. Quando il cambiamento riguarda il metodo che forma competenze, raggiungi quella capacità generativa anziché riscriverne i fondamenti da una comprensione parziale.
+
+## Scrivere un metodo che sappia continuare
+
+Rendi esplicita la relazione che cambia le scelte: che cosa osservare, perché conta, come adattare il lavoro e cosa può correggere il metodo. Conserva l’ingresso discriminante, le fonti pertinenti e le condizioni dell’effetto. Elimina consigli duplicati e procedure superate che non aiutano più. Il dettaglio può stare in una guida raggiunta quando serve. Collega le proiezioni attive che devono cambiare, senza sincronizzare superfici estranee. Se il lavoro è soltanto una proposta, consegna il delta preciso; se l’aggiornamento è nel mandato e nei mezzi disponibili, integralo nel luogo pertinente.
+
+## Preservare stabilità attraverso il cambiamento
+
+Una revisione supera la precedente quando conserva le relazioni ancora utili e rende il metodo più capace o rimuove una perdita senza nasconderne un’altra. Novità, data o validità del formato non bastano. Se cambia un compromesso, esplicitalo. Mantieni il passato attribuito al suo momento: una correzione odierna non era già presente nell’esperienza precedente. Una verifica tecnica può mostrare leggibilità o corrispondenza, mentre un caso diverso può mostrare un cambiamento del comportamento. Conserva anche esiti invariati, regressioni e incertezze.
+
+## Evoluzione, autologica e continuità della capacità
+
+La relazione meta è l’oggetto diretto di questa risorsa: modifica il metodo di una competenza, oltre a produrre il risultato del singolo compito.
+
+La relazione diventa autologica quando anche il modo di far evolvere viene corretto: per esempio, se aggiungeva sempre istruzioni mentre la causa era un ingresso che non veniva usato. Il ritorno autopoietico è la differenza del lavoro che cambia la capacità da cui nascerà il lavoro successivo. Non equivale ad autonomia esecutiva o aggiornamento dei pesi del modello.
+
+## Apprendimento e continuità
+
+Conserva fonte, differenza, parte del metodo cambiata e prima situazione utile per osservarla. Una modifica rende il sapere disponibile; assimilazione significa che un caso successivo diverso ne beneficia senza dover ricostruire ogni volta la stessa correzione.
+
+L’apprendimento interno non installa automaticamente il metodo in altri ambienti e non pubblica una nuova versione. Le mutazioni e gli effetti concreti restano legati al mandato, al destinatario e agli strumenti effettivi.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# D-ND Skill Evolution Guard
+
+## Riconoscere la causa prima di cambiare una competenza
+
+Recupera la relazione sorgente, ciò che il movimento ha introdotto e possibilità o risultato perduti, conservati o acquisiti. Un file mancante non prova funzione mancante: può vivere in un altro corpo o nella composizione. Distingui saper fare assente, sapere non scoperto e metodo compreso ma scavalcato nell'uso. Correggi metodo, adattatore o scelta responsabile invece di aggiungere una regola alla skill più vicina.
+
+Se un'emergenza cambia più competenze, allarga il campo prima di propagare un'interpretazione parziale. Ogni owner riceve la differenza che cambia la propria scelta; gli altri restano invariati. Se coinvolge concetti fondativi, usa la competenza che li comprende e conserva la fonte; questa guardia non acquisisce autorità di ridefinirli. Una competenza utile può unire intento, mappa di fonti/owner, metodo, autoapplicazione e apprendimento in un corpo breve o una guida profonda, senza template obbligatorio.
+
+## La stabilità comprende la capacità di evolvere
+
+Mantieni collegati fonte, oggetto e risultante. Un successore conserva le relazioni ancora materiali ampliando i risultati raggiungibili o togliendo una perdita senza costo nascosto equivalente. Nuovo lessico, data o validità tecnica non stabiliscono superamento. Conserva esiti invariati, regressioni e compromessi come riscontri reali. Le identità dei cicli precedenti restano genealogia invece di riscrivere il passato col presente.
+
+Integra l'apprendimento riusabile mentre la causa è presente, incluso il generatore se cambia la formazione. Un audit durevole registra relazione corretta e owner continuativo oltre all'errore. L'uso successivo non identico può mostrare assimilazione senza diventare un permesso sull'apprendimento presente. Release pubblica, installazione e runtime restano azioni selezionate proprie. Fermati quando un'altra modifica non aggiunge relazioni utili a fonte, comportamento o seguito.
+
+# Esempi — Far evolvere una competenza AI attraverso il lavoro
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Una correzione ai titoli cambia il metodo di scrittura successivo.
+
+Una revisione mostra che i titoli restano comprensibili solo a chi conosce la chat. Se il metodo non spiega come rendere riconoscibile il soggetto, viene approfondito con ragione ed esempio. Se lo spiegava già, la correzione riguarda il richiamo e l’uso. Un nuovo articolo permette di osservare la differenza.
+
+## 2. Una ricerca riuscita arricchisce la competenza di analisi.
+
+Durante una ricerca, il confronto fra fonti temporali rende visibile una condizione prima ignorata. Il metodo di analisi incorpora quella relazione nella misura in cui cambia altri casi. L’esito riuscito può insegnare senza richiedere un errore precedente, ma non diventa una superiorità generale non misurata.
+
+## 3. Un errore dovuto all’ingresso della skill viene corretto nel suo richiamo.
+
+Una skill contiene il sapere necessario ma la sua descrizione non rende riconoscibile quando usarla. L’assistente corregge l’ingresso e il collegamento del progetto. Non duplica il corpo in una nuova skill con un nome diverso; l’esercizio successivo deve mostrare se il metodo viene effettivamente raggiunto.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

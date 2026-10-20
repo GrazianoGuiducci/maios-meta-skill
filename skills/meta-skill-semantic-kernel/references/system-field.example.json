@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "function": "project intention and present",
+      "path": "CURRENT_STATE.md"
+    },
+    {
+      "function": "system capabilities and relations",
+      "path": "SYSTEM.md"
+    }
+  ],
+  "skill_roots": [
+    "skills"
+  ]
+}

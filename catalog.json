@@ -6,8 +6,8 @@
     {
       "id": "meta-activity",
       "name": "Meta-Activity",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "skill": "skills/meta-activity/SKILL.md",
       "guide": "skills/meta-activity/README.md",
@@ -15,7 +15,7 @@
       "examples": "skills/meta-activity/EXAMPLES.md",
       "presentation": "skills/meta-activity/presentation.json",
       "contexts": "skills/meta-activity/contexts.json",
-      "package": "dist/meta-activity-0.2.0.zip",
+      "package": "dist/meta-activity-0.3.0.zip",
       "it": {
         "route": "/risorse/meta-activity/",
         "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -56,30 +56,35 @@
           "skill": "skills/meta-activity/SKILL.md",
           "guide": "skills/meta-activity/README.md",
           "starter": "skills/meta-activity/START_CHAT_EN.txt",
-          "examples": "skills/meta-activity/EXAMPLES.md"
+          "examples": "skills/meta-activity/EXAMPLES.md",
+          "operating_guide": "skills/meta-activity/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
           "skill": "skills/meta-activity/SKILL_IT.md",
           "guide": "skills/meta-activity/README_IT.md",
           "starter": "skills/meta-activity/AVVIO_CHAT_IT.txt",
-          "examples": "skills/meta-activity/ESEMPI_IT.md"
+          "examples": "skills/meta-activity/ESEMPI_IT.md",
+          "operating_guide": "skills/meta-activity/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
       },
-      "contexts_en": "skills/meta-activity/contexts_en.json"
+      "contexts_en": "skills/meta-activity/contexts_en.json",
+      "skill_name": "meta-activity"
     },
     {
       "id": "continuita-del-lavoro-ai",
       "name": "Maintain Causal Task Continuity",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "01",
-      "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
-      "guide": "skills/continuita-del-lavoro-ai/README.md",
-      "starter": "skills/continuita-del-lavoro-ai/START_CHAT_EN.txt",
-      "examples": "skills/continuita-del-lavoro-ai/EXAMPLES.md",
-      "presentation": "skills/continuita-del-lavoro-ai/presentation.json",
-      "package": "dist/continuita-del-lavoro-ai-0.2.0.zip",
+      "skill": "skills/maintain-causal-task-continuity/SKILL.md",
+      "guide": "skills/maintain-causal-task-continuity/README.md",
+      "starter": "skills/maintain-causal-task-continuity/START_CHAT_EN.txt",
+      "examples": "skills/maintain-causal-task-continuity/EXAMPLES.md",
+      "presentation": "skills/maintain-causal-task-continuity/presentation.json",
+      "package": "dist/maintain-causal-task-continuity-0.3.0.zip",
       "it": {
         "route": "/risorse/continuita-del-lavoro-ai/",
         "title": "Riprendere un progetto con l’AI dopo un’interruzione",
@@ -112,32 +117,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
-          "guide": "skills/continuita-del-lavoro-ai/README.md",
-          "starter": "skills/continuita-del-lavoro-ai/START_CHAT_EN.txt",
-          "examples": "skills/continuita-del-lavoro-ai/EXAMPLES.md"
+          "skill": "skills/maintain-causal-task-continuity/SKILL.md",
+          "guide": "skills/maintain-causal-task-continuity/README.md",
+          "starter": "skills/maintain-causal-task-continuity/START_CHAT_EN.txt",
+          "examples": "skills/maintain-causal-task-continuity/EXAMPLES.md",
+          "operating_guide": "skills/maintain-causal-task-continuity/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/continuita-del-lavoro-ai/SKILL_IT.md",
-          "guide": "skills/continuita-del-lavoro-ai/README_IT.md",
-          "starter": "skills/continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt",
-          "examples": "skills/continuita-del-lavoro-ai/ESEMPI_IT.md"
+          "skill": "skills/maintain-causal-task-continuity/SKILL_IT.md",
+          "guide": "skills/maintain-causal-task-continuity/README_IT.md",
+          "starter": "skills/maintain-causal-task-continuity/AVVIO_CHAT_IT.txt",
+          "examples": "skills/maintain-causal-task-continuity/ESEMPI_IT.md",
+          "operating_guide": "skills/maintain-causal-task-continuity/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "maintain-causal-task-continuity"
     },
     {
       "id": "conservare-conoscenze-utili",
       "name": "Essential Condensate Preserver",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "02",
-      "skill": "skills/conservare-conoscenze-utili/SKILL.md",
-      "guide": "skills/conservare-conoscenze-utili/README.md",
-      "starter": "skills/conservare-conoscenze-utili/START_CHAT_EN.txt",
-      "examples": "skills/conservare-conoscenze-utili/EXAMPLES.md",
-      "presentation": "skills/conservare-conoscenze-utili/presentation.json",
-      "package": "dist/conservare-conoscenze-utili-0.2.0.zip",
+      "skill": "skills/essential-condensate-preserver/SKILL.md",
+      "guide": "skills/essential-condensate-preserver/README.md",
+      "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
+      "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
+      "presentation": "skills/essential-condensate-preserver/presentation.json",
+      "package": "dist/essential-condensate-preserver-0.3.0.zip",
       "it": {
         "route": "/risorse/conservare-conoscenze-utili/",
         "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
@@ -170,32 +180,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/conservare-conoscenze-utili/SKILL.md",
-          "guide": "skills/conservare-conoscenze-utili/README.md",
-          "starter": "skills/conservare-conoscenze-utili/START_CHAT_EN.txt",
-          "examples": "skills/conservare-conoscenze-utili/EXAMPLES.md"
+          "skill": "skills/essential-condensate-preserver/SKILL.md",
+          "guide": "skills/essential-condensate-preserver/README.md",
+          "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
+          "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
+          "operating_guide": "skills/essential-condensate-preserver/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/conservare-conoscenze-utili/SKILL_IT.md",
-          "guide": "skills/conservare-conoscenze-utili/README_IT.md",
-          "starter": "skills/conservare-conoscenze-utili/AVVIO_CHAT_IT.txt",
-          "examples": "skills/conservare-conoscenze-utili/ESEMPI_IT.md"
+          "skill": "skills/essential-condensate-preserver/SKILL_IT.md",
+          "guide": "skills/essential-condensate-preserver/README_IT.md",
+          "starter": "skills/essential-condensate-preserver/AVVIO_CHAT_IT.txt",
+          "examples": "skills/essential-condensate-preserver/ESEMPI_IT.md",
+          "operating_guide": "skills/essential-condensate-preserver/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "essential-condensate-preserver"
     },
     {
       "id": "estrarre-idee-dalle-conversazioni",
       "name": "Operator Concept Preserver",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "03",
-      "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL.md",
-      "guide": "skills/estrarre-idee-dalle-conversazioni/README.md",
-      "starter": "skills/estrarre-idee-dalle-conversazioni/START_CHAT_EN.txt",
-      "examples": "skills/estrarre-idee-dalle-conversazioni/EXAMPLES.md",
-      "presentation": "skills/estrarre-idee-dalle-conversazioni/presentation.json",
-      "package": "dist/estrarre-idee-dalle-conversazioni-0.2.0.zip",
+      "skill": "skills/operator-concept-preserver/SKILL.md",
+      "guide": "skills/operator-concept-preserver/README.md",
+      "starter": "skills/operator-concept-preserver/START_CHAT_EN.txt",
+      "examples": "skills/operator-concept-preserver/EXAMPLES.md",
+      "presentation": "skills/operator-concept-preserver/presentation.json",
+      "package": "dist/operator-concept-preserver-0.3.0.zip",
       "it": {
         "route": "/risorse/estrarre-idee-dalle-conversazioni/",
         "title": "Estrarre le idee dell’autore dalle conversazioni con l’AI",
@@ -228,32 +243,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL.md",
-          "guide": "skills/estrarre-idee-dalle-conversazioni/README.md",
-          "starter": "skills/estrarre-idee-dalle-conversazioni/START_CHAT_EN.txt",
-          "examples": "skills/estrarre-idee-dalle-conversazioni/EXAMPLES.md"
+          "skill": "skills/operator-concept-preserver/SKILL.md",
+          "guide": "skills/operator-concept-preserver/README.md",
+          "starter": "skills/operator-concept-preserver/START_CHAT_EN.txt",
+          "examples": "skills/operator-concept-preserver/EXAMPLES.md",
+          "operating_guide": "skills/operator-concept-preserver/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL_IT.md",
-          "guide": "skills/estrarre-idee-dalle-conversazioni/README_IT.md",
-          "starter": "skills/estrarre-idee-dalle-conversazioni/AVVIO_CHAT_IT.txt",
-          "examples": "skills/estrarre-idee-dalle-conversazioni/ESEMPI_IT.md"
+          "skill": "skills/operator-concept-preserver/SKILL_IT.md",
+          "guide": "skills/operator-concept-preserver/README_IT.md",
+          "starter": "skills/operator-concept-preserver/AVVIO_CHAT_IT.txt",
+          "examples": "skills/operator-concept-preserver/ESEMPI_IT.md",
+          "operating_guide": "skills/operator-concept-preserver/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "operator-concept-preserver"
     },
     {
       "id": "organizzare-lavoro-complesso",
       "name": "Meta_Metodo",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "04",
-      "skill": "skills/organizzare-lavoro-complesso/SKILL.md",
-      "guide": "skills/organizzare-lavoro-complesso/README.md",
-      "starter": "skills/organizzare-lavoro-complesso/START_CHAT_EN.txt",
-      "examples": "skills/organizzare-lavoro-complesso/EXAMPLES.md",
-      "presentation": "skills/organizzare-lavoro-complesso/presentation.json",
-      "package": "dist/organizzare-lavoro-complesso-0.2.0.zip",
+      "skill": "skills/meta-metodo/SKILL.md",
+      "guide": "skills/meta-metodo/README.md",
+      "starter": "skills/meta-metodo/START_CHAT_EN.txt",
+      "examples": "skills/meta-metodo/EXAMPLES.md",
+      "presentation": "skills/meta-metodo/presentation.json",
+      "package": "dist/meta-metodo-0.3.0.zip",
       "it": {
         "route": "/risorse/organizzare-lavoro-complesso/",
         "title": "Organizzare un lavoro complesso con l’AI",
@@ -286,32 +306,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/organizzare-lavoro-complesso/SKILL.md",
-          "guide": "skills/organizzare-lavoro-complesso/README.md",
-          "starter": "skills/organizzare-lavoro-complesso/START_CHAT_EN.txt",
-          "examples": "skills/organizzare-lavoro-complesso/EXAMPLES.md"
+          "skill": "skills/meta-metodo/SKILL.md",
+          "guide": "skills/meta-metodo/README.md",
+          "starter": "skills/meta-metodo/START_CHAT_EN.txt",
+          "examples": "skills/meta-metodo/EXAMPLES.md",
+          "operating_guide": "skills/meta-metodo/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/organizzare-lavoro-complesso/SKILL_IT.md",
-          "guide": "skills/organizzare-lavoro-complesso/README_IT.md",
-          "starter": "skills/organizzare-lavoro-complesso/AVVIO_CHAT_IT.txt",
-          "examples": "skills/organizzare-lavoro-complesso/ESEMPI_IT.md"
+          "skill": "skills/meta-metodo/SKILL_IT.md",
+          "guide": "skills/meta-metodo/README_IT.md",
+          "starter": "skills/meta-metodo/AVVIO_CHAT_IT.txt",
+          "examples": "skills/meta-metodo/ESEMPI_IT.md",
+          "operating_guide": "skills/meta-metodo/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "meta-metodo"
     },
     {
       "id": "fonti-segnali-conoscenza",
       "name": "Signal Intelligence",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "05",
-      "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
-      "guide": "skills/fonti-segnali-conoscenza/README.md",
-      "starter": "skills/fonti-segnali-conoscenza/START_CHAT_EN.txt",
-      "examples": "skills/fonti-segnali-conoscenza/EXAMPLES.md",
-      "presentation": "skills/fonti-segnali-conoscenza/presentation.json",
-      "package": "dist/fonti-segnali-conoscenza-0.2.0.zip",
+      "skill": "skills/signal-intelligence/SKILL.md",
+      "guide": "skills/signal-intelligence/README.md",
+      "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
+      "examples": "skills/signal-intelligence/EXAMPLES.md",
+      "presentation": "skills/signal-intelligence/presentation.json",
+      "package": "dist/signal-intelligence-0.3.0.zip",
       "it": {
         "route": "/risorse/fonti-segnali-conoscenza/",
         "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
@@ -344,32 +369,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
-          "guide": "skills/fonti-segnali-conoscenza/README.md",
-          "starter": "skills/fonti-segnali-conoscenza/START_CHAT_EN.txt",
-          "examples": "skills/fonti-segnali-conoscenza/EXAMPLES.md"
+          "skill": "skills/signal-intelligence/SKILL.md",
+          "guide": "skills/signal-intelligence/README.md",
+          "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
+          "examples": "skills/signal-intelligence/EXAMPLES.md",
+          "operating_guide": "skills/signal-intelligence/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/fonti-segnali-conoscenza/SKILL_IT.md",
-          "guide": "skills/fonti-segnali-conoscenza/README_IT.md",
-          "starter": "skills/fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt",
-          "examples": "skills/fonti-segnali-conoscenza/ESEMPI_IT.md"
+          "skill": "skills/signal-intelligence/SKILL_IT.md",
+          "guide": "skills/signal-intelligence/README_IT.md",
+          "starter": "skills/signal-intelligence/AVVIO_CHAT_IT.txt",
+          "examples": "skills/signal-intelligence/ESEMPI_IT.md",
+          "operating_guide": "skills/signal-intelligence/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "signal-intelligence"
     },
     {
       "id": "evolvere-competenze",
       "name": "D-ND Skill Evolution Guard",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "06",
-      "skill": "skills/evolvere-competenze/SKILL.md",
-      "guide": "skills/evolvere-competenze/README.md",
-      "starter": "skills/evolvere-competenze/START_CHAT_EN.txt",
-      "examples": "skills/evolvere-competenze/EXAMPLES.md",
-      "presentation": "skills/evolvere-competenze/presentation.json",
-      "package": "dist/evolvere-competenze-0.2.0.zip",
+      "skill": "skills/dnd-skill-evolution-guard/SKILL.md",
+      "guide": "skills/dnd-skill-evolution-guard/README.md",
+      "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
+      "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
+      "presentation": "skills/dnd-skill-evolution-guard/presentation.json",
+      "package": "dist/dnd-skill-evolution-guard-0.3.0.zip",
       "it": {
         "route": "/risorse/evolvere-competenze/",
         "title": "Far evolvere una competenza AI attraverso il lavoro",
@@ -402,32 +432,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/evolvere-competenze/SKILL.md",
-          "guide": "skills/evolvere-competenze/README.md",
-          "starter": "skills/evolvere-competenze/START_CHAT_EN.txt",
-          "examples": "skills/evolvere-competenze/EXAMPLES.md"
+          "skill": "skills/dnd-skill-evolution-guard/SKILL.md",
+          "guide": "skills/dnd-skill-evolution-guard/README.md",
+          "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
+          "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
+          "operating_guide": "skills/dnd-skill-evolution-guard/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/evolvere-competenze/SKILL_IT.md",
-          "guide": "skills/evolvere-competenze/README_IT.md",
-          "starter": "skills/evolvere-competenze/AVVIO_CHAT_IT.txt",
-          "examples": "skills/evolvere-competenze/ESEMPI_IT.md"
+          "skill": "skills/dnd-skill-evolution-guard/SKILL_IT.md",
+          "guide": "skills/dnd-skill-evolution-guard/README_IT.md",
+          "starter": "skills/dnd-skill-evolution-guard/AVVIO_CHAT_IT.txt",
+          "examples": "skills/dnd-skill-evolution-guard/ESEMPI_IT.md",
+          "operating_guide": "skills/dnd-skill-evolution-guard/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "dnd-skill-evolution-guard"
     },
     {
       "id": "titoli-e-sottotitoli",
       "name": "Classify Content With Taxonomic Titles And Descriptions",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "07",
-      "skill": "skills/titoli-e-sottotitoli/SKILL.md",
-      "guide": "skills/titoli-e-sottotitoli/README.md",
-      "starter": "skills/titoli-e-sottotitoli/START_CHAT_EN.txt",
-      "examples": "skills/titoli-e-sottotitoli/EXAMPLES.md",
-      "presentation": "skills/titoli-e-sottotitoli/presentation.json",
-      "package": "dist/titoli-e-sottotitoli-0.2.0.zip",
+      "skill": "skills/classify-content-with-taxonomic-titles-and-descriptions/SKILL.md",
+      "guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/README.md",
+      "starter": "skills/classify-content-with-taxonomic-titles-and-descriptions/START_CHAT_EN.txt",
+      "examples": "skills/classify-content-with-taxonomic-titles-and-descriptions/EXAMPLES.md",
+      "presentation": "skills/classify-content-with-taxonomic-titles-and-descriptions/presentation.json",
+      "package": "dist/classify-content-with-taxonomic-titles-and-descriptions-0.3.0.zip",
       "it": {
         "route": "/risorse/titoli-e-sottotitoli/",
         "title": "Scrivere titoli e sottotitoli che fanno capire il contenuto",
@@ -460,32 +495,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/titoli-e-sottotitoli/SKILL.md",
-          "guide": "skills/titoli-e-sottotitoli/README.md",
-          "starter": "skills/titoli-e-sottotitoli/START_CHAT_EN.txt",
-          "examples": "skills/titoli-e-sottotitoli/EXAMPLES.md"
+          "skill": "skills/classify-content-with-taxonomic-titles-and-descriptions/SKILL.md",
+          "guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/README.md",
+          "starter": "skills/classify-content-with-taxonomic-titles-and-descriptions/START_CHAT_EN.txt",
+          "examples": "skills/classify-content-with-taxonomic-titles-and-descriptions/EXAMPLES.md",
+          "operating_guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/titoli-e-sottotitoli/SKILL_IT.md",
-          "guide": "skills/titoli-e-sottotitoli/README_IT.md",
-          "starter": "skills/titoli-e-sottotitoli/AVVIO_CHAT_IT.txt",
-          "examples": "skills/titoli-e-sottotitoli/ESEMPI_IT.md"
+          "skill": "skills/classify-content-with-taxonomic-titles-and-descriptions/SKILL_IT.md",
+          "guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/README_IT.md",
+          "starter": "skills/classify-content-with-taxonomic-titles-and-descriptions/AVVIO_CHAT_IT.txt",
+          "examples": "skills/classify-content-with-taxonomic-titles-and-descriptions/ESEMPI_IT.md",
+          "operating_guide": "skills/classify-content-with-taxonomic-titles-and-descriptions/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "classify-content-with-taxonomic-titles-and-descriptions"
     },
     {
       "id": "formare-risorse-pubbliche",
       "name": "Formare risorse pubbliche dalle metacompetenze",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "08",
-      "skill": "skills/formare-risorse-pubbliche/SKILL.md",
-      "guide": "skills/formare-risorse-pubbliche/README.md",
-      "starter": "skills/formare-risorse-pubbliche/START_CHAT_EN.txt",
-      "examples": "skills/formare-risorse-pubbliche/EXAMPLES.md",
-      "presentation": "skills/formare-risorse-pubbliche/presentation.json",
-      "package": "dist/formare-risorse-pubbliche-0.2.0.zip",
+      "skill": "skills/form-public-metaskill-resources/SKILL.md",
+      "guide": "skills/form-public-metaskill-resources/README.md",
+      "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
+      "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
+      "presentation": "skills/form-public-metaskill-resources/presentation.json",
+      "package": "dist/form-public-metaskill-resources-0.3.0.zip",
       "it": {
         "route": "/risorse/formare-risorse-pubbliche/",
         "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -518,32 +558,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/formare-risorse-pubbliche/SKILL.md",
-          "guide": "skills/formare-risorse-pubbliche/README.md",
-          "starter": "skills/formare-risorse-pubbliche/START_CHAT_EN.txt",
-          "examples": "skills/formare-risorse-pubbliche/EXAMPLES.md"
+          "skill": "skills/form-public-metaskill-resources/SKILL.md",
+          "guide": "skills/form-public-metaskill-resources/README.md",
+          "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
+          "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
+          "operating_guide": "skills/form-public-metaskill-resources/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/formare-risorse-pubbliche/SKILL_IT.md",
-          "guide": "skills/formare-risorse-pubbliche/README_IT.md",
-          "starter": "skills/formare-risorse-pubbliche/AVVIO_CHAT_IT.txt",
-          "examples": "skills/formare-risorse-pubbliche/ESEMPI_IT.md"
+          "skill": "skills/form-public-metaskill-resources/SKILL_IT.md",
+          "guide": "skills/form-public-metaskill-resources/README_IT.md",
+          "starter": "skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt",
+          "examples": "skills/form-public-metaskill-resources/ESEMPI_IT.md",
+          "operating_guide": "skills/form-public-metaskill-resources/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "form-public-metaskill-resources"
     },
     {
       "id": "ricostruire-lavoro-decisioni",
       "name": "D-ND Material Work Continuity",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "09",
-      "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
-      "guide": "skills/ricostruire-lavoro-decisioni/README.md",
-      "starter": "skills/ricostruire-lavoro-decisioni/START_CHAT_EN.txt",
-      "examples": "skills/ricostruire-lavoro-decisioni/EXAMPLES.md",
-      "presentation": "skills/ricostruire-lavoro-decisioni/presentation.json",
-      "package": "dist/ricostruire-lavoro-decisioni-0.2.0.zip",
+      "skill": "skills/dnd-material-work-continuity/SKILL.md",
+      "guide": "skills/dnd-material-work-continuity/README.md",
+      "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
+      "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
+      "presentation": "skills/dnd-material-work-continuity/presentation.json",
+      "package": "dist/dnd-material-work-continuity-0.3.0.zip",
       "it": {
         "route": "/risorse/ricostruire-lavoro-decisioni/",
         "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
@@ -576,32 +621,45 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
-          "guide": "skills/ricostruire-lavoro-decisioni/README.md",
-          "starter": "skills/ricostruire-lavoro-decisioni/START_CHAT_EN.txt",
-          "examples": "skills/ricostruire-lavoro-decisioni/EXAMPLES.md"
+          "skill": "skills/dnd-material-work-continuity/SKILL.md",
+          "guide": "skills/dnd-material-work-continuity/README.md",
+          "starter": "skills/dnd-material-work-continuity/START_CHAT_EN.txt",
+          "examples": "skills/dnd-material-work-continuity/EXAMPLES.md",
+          "operating_guide": "skills/dnd-material-work-continuity/OPERATING_GUIDE.md",
+          "runtime_sources": [
+            "skills/dnd-material-work-continuity/scripts/reduce_material_work_continuity.py",
+            "skills/dnd-material-work-continuity/scripts/demo_continuity.py",
+            "skills/dnd-material-work-continuity/references/material-work-continuity.v0.schema.json"
+          ]
         },
         "it": {
-          "skill": "skills/ricostruire-lavoro-decisioni/SKILL_IT.md",
-          "guide": "skills/ricostruire-lavoro-decisioni/README_IT.md",
-          "starter": "skills/ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt",
-          "examples": "skills/ricostruire-lavoro-decisioni/ESEMPI_IT.md"
+          "skill": "skills/dnd-material-work-continuity/SKILL_IT.md",
+          "guide": "skills/dnd-material-work-continuity/README_IT.md",
+          "starter": "skills/dnd-material-work-continuity/AVVIO_CHAT_IT.txt",
+          "examples": "skills/dnd-material-work-continuity/ESEMPI_IT.md",
+          "operating_guide": "skills/dnd-material-work-continuity/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": [
+            "skills/dnd-material-work-continuity/scripts/reduce_material_work_continuity.py",
+            "skills/dnd-material-work-continuity/scripts/demo_continuity.py",
+            "skills/dnd-material-work-continuity/references/material-work-continuity.v0.schema.json"
+          ]
         }
-      }
+      },
+      "skill_name": "dnd-material-work-continuity"
     },
     {
       "id": "condividere-apprendimenti",
       "name": "Public Learning Promotion",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "10",
-      "skill": "skills/condividere-apprendimenti/SKILL.md",
-      "guide": "skills/condividere-apprendimenti/README.md",
-      "starter": "skills/condividere-apprendimenti/START_CHAT_EN.txt",
-      "examples": "skills/condividere-apprendimenti/EXAMPLES.md",
-      "presentation": "skills/condividere-apprendimenti/presentation.json",
-      "package": "dist/condividere-apprendimenti-0.2.0.zip",
+      "skill": "skills/public-learning-promotion/SKILL.md",
+      "guide": "skills/public-learning-promotion/README.md",
+      "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
+      "examples": "skills/public-learning-promotion/EXAMPLES.md",
+      "presentation": "skills/public-learning-promotion/presentation.json",
+      "package": "dist/public-learning-promotion-0.3.0.zip",
       "it": {
         "route": "/risorse/condividere-apprendimenti/",
         "title": "Ricavare conoscenze condivisibili dal lavoro interno",
@@ -634,32 +692,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/condividere-apprendimenti/SKILL.md",
-          "guide": "skills/condividere-apprendimenti/README.md",
-          "starter": "skills/condividere-apprendimenti/START_CHAT_EN.txt",
-          "examples": "skills/condividere-apprendimenti/EXAMPLES.md"
+          "skill": "skills/public-learning-promotion/SKILL.md",
+          "guide": "skills/public-learning-promotion/README.md",
+          "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
+          "examples": "skills/public-learning-promotion/EXAMPLES.md",
+          "operating_guide": "skills/public-learning-promotion/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/condividere-apprendimenti/SKILL_IT.md",
-          "guide": "skills/condividere-apprendimenti/README_IT.md",
-          "starter": "skills/condividere-apprendimenti/AVVIO_CHAT_IT.txt",
-          "examples": "skills/condividere-apprendimenti/ESEMPI_IT.md"
+          "skill": "skills/public-learning-promotion/SKILL_IT.md",
+          "guide": "skills/public-learning-promotion/README_IT.md",
+          "starter": "skills/public-learning-promotion/AVVIO_CHAT_IT.txt",
+          "examples": "skills/public-learning-promotion/ESEMPI_IT.md",
+          "operating_guide": "skills/public-learning-promotion/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "public-learning-promotion"
     },
     {
       "id": "migliorare-attivita-ricorrenti",
       "name": "Situated Activity Evolution",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "11",
-      "skill": "skills/migliorare-attivita-ricorrenti/SKILL.md",
-      "guide": "skills/migliorare-attivita-ricorrenti/README.md",
-      "starter": "skills/migliorare-attivita-ricorrenti/START_CHAT_EN.txt",
-      "examples": "skills/migliorare-attivita-ricorrenti/EXAMPLES.md",
-      "presentation": "skills/migliorare-attivita-ricorrenti/presentation.json",
-      "package": "dist/migliorare-attivita-ricorrenti-0.2.0.zip",
+      "skill": "skills/situated-activity-evolution/SKILL.md",
+      "guide": "skills/situated-activity-evolution/README.md",
+      "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
+      "examples": "skills/situated-activity-evolution/EXAMPLES.md",
+      "presentation": "skills/situated-activity-evolution/presentation.json",
+      "package": "dist/situated-activity-evolution-0.3.0.zip",
       "it": {
         "route": "/risorse/migliorare-attivita-ricorrenti/",
         "title": "Far migliorare un’attività AI attraverso i suoi risultati",
@@ -692,32 +755,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/migliorare-attivita-ricorrenti/SKILL.md",
-          "guide": "skills/migliorare-attivita-ricorrenti/README.md",
-          "starter": "skills/migliorare-attivita-ricorrenti/START_CHAT_EN.txt",
-          "examples": "skills/migliorare-attivita-ricorrenti/EXAMPLES.md"
+          "skill": "skills/situated-activity-evolution/SKILL.md",
+          "guide": "skills/situated-activity-evolution/README.md",
+          "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
+          "examples": "skills/situated-activity-evolution/EXAMPLES.md",
+          "operating_guide": "skills/situated-activity-evolution/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/migliorare-attivita-ricorrenti/SKILL_IT.md",
-          "guide": "skills/migliorare-attivita-ricorrenti/README_IT.md",
-          "starter": "skills/migliorare-attivita-ricorrenti/AVVIO_CHAT_IT.txt",
-          "examples": "skills/migliorare-attivita-ricorrenti/ESEMPI_IT.md"
+          "skill": "skills/situated-activity-evolution/SKILL_IT.md",
+          "guide": "skills/situated-activity-evolution/README_IT.md",
+          "starter": "skills/situated-activity-evolution/AVVIO_CHAT_IT.txt",
+          "examples": "skills/situated-activity-evolution/ESEMPI_IT.md",
+          "operating_guide": "skills/situated-activity-evolution/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "situated-activity-evolution"
     },
     {
       "id": "conoscenza-del-sistema-ai",
       "name": "Maintain Kernel Knowledge",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "12",
-      "skill": "skills/conoscenza-del-sistema-ai/SKILL.md",
-      "guide": "skills/conoscenza-del-sistema-ai/README.md",
-      "starter": "skills/conoscenza-del-sistema-ai/START_CHAT_EN.txt",
-      "examples": "skills/conoscenza-del-sistema-ai/EXAMPLES.md",
-      "presentation": "skills/conoscenza-del-sistema-ai/presentation.json",
-      "package": "dist/conoscenza-del-sistema-ai-0.2.0.zip",
+      "skill": "skills/maintain-kernel-knowledge/SKILL.md",
+      "guide": "skills/maintain-kernel-knowledge/README.md",
+      "starter": "skills/maintain-kernel-knowledge/START_CHAT_EN.txt",
+      "examples": "skills/maintain-kernel-knowledge/EXAMPLES.md",
+      "presentation": "skills/maintain-kernel-knowledge/presentation.json",
+      "package": "dist/maintain-kernel-knowledge-0.3.0.zip",
       "it": {
         "route": "/risorse/conoscenza-del-sistema-ai/",
         "title": "Organizzare la conoscenza di un sistema AI",
@@ -750,32 +818,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/conoscenza-del-sistema-ai/SKILL.md",
-          "guide": "skills/conoscenza-del-sistema-ai/README.md",
-          "starter": "skills/conoscenza-del-sistema-ai/START_CHAT_EN.txt",
-          "examples": "skills/conoscenza-del-sistema-ai/EXAMPLES.md"
+          "skill": "skills/maintain-kernel-knowledge/SKILL.md",
+          "guide": "skills/maintain-kernel-knowledge/README.md",
+          "starter": "skills/maintain-kernel-knowledge/START_CHAT_EN.txt",
+          "examples": "skills/maintain-kernel-knowledge/EXAMPLES.md",
+          "operating_guide": "skills/maintain-kernel-knowledge/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/conoscenza-del-sistema-ai/SKILL_IT.md",
-          "guide": "skills/conoscenza-del-sistema-ai/README_IT.md",
-          "starter": "skills/conoscenza-del-sistema-ai/AVVIO_CHAT_IT.txt",
-          "examples": "skills/conoscenza-del-sistema-ai/ESEMPI_IT.md"
+          "skill": "skills/maintain-kernel-knowledge/SKILL_IT.md",
+          "guide": "skills/maintain-kernel-knowledge/README_IT.md",
+          "starter": "skills/maintain-kernel-knowledge/AVVIO_CHAT_IT.txt",
+          "examples": "skills/maintain-kernel-knowledge/ESEMPI_IT.md",
+          "operating_guide": "skills/maintain-kernel-knowledge/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "maintain-kernel-knowledge"
     },
     {
       "id": "comprendere-lavoro-agente",
       "name": "UX-AI Kernel Design",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "13",
-      "skill": "skills/comprendere-lavoro-agente/SKILL.md",
-      "guide": "skills/comprendere-lavoro-agente/README.md",
-      "starter": "skills/comprendere-lavoro-agente/START_CHAT_EN.txt",
-      "examples": "skills/comprendere-lavoro-agente/EXAMPLES.md",
-      "presentation": "skills/comprendere-lavoro-agente/presentation.json",
-      "package": "dist/comprendere-lavoro-agente-0.2.0.zip",
+      "skill": "skills/ux-ai-kernel-design/SKILL.md",
+      "guide": "skills/ux-ai-kernel-design/README.md",
+      "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
+      "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
+      "presentation": "skills/ux-ai-kernel-design/presentation.json",
+      "package": "dist/ux-ai-kernel-design-0.3.0.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
         "title": "Rendere comprensibile il lavoro di un agente AI",
@@ -808,32 +881,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/comprendere-lavoro-agente/SKILL.md",
-          "guide": "skills/comprendere-lavoro-agente/README.md",
-          "starter": "skills/comprendere-lavoro-agente/START_CHAT_EN.txt",
-          "examples": "skills/comprendere-lavoro-agente/EXAMPLES.md"
+          "skill": "skills/ux-ai-kernel-design/SKILL.md",
+          "guide": "skills/ux-ai-kernel-design/README.md",
+          "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
+          "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
+          "operating_guide": "skills/ux-ai-kernel-design/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/comprendere-lavoro-agente/SKILL_IT.md",
-          "guide": "skills/comprendere-lavoro-agente/README_IT.md",
-          "starter": "skills/comprendere-lavoro-agente/AVVIO_CHAT_IT.txt",
-          "examples": "skills/comprendere-lavoro-agente/ESEMPI_IT.md"
+          "skill": "skills/ux-ai-kernel-design/SKILL_IT.md",
+          "guide": "skills/ux-ai-kernel-design/README_IT.md",
+          "starter": "skills/ux-ai-kernel-design/AVVIO_CHAT_IT.txt",
+          "examples": "skills/ux-ai-kernel-design/ESEMPI_IT.md",
+          "operating_guide": "skills/ux-ai-kernel-design/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "ux-ai-kernel-design"
     },
     {
       "id": "presenza-prodotto-assistente",
       "name": "Projectable Presence",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "14",
-      "skill": "skills/presenza-prodotto-assistente/SKILL.md",
-      "guide": "skills/presenza-prodotto-assistente/README.md",
-      "starter": "skills/presenza-prodotto-assistente/START_CHAT_EN.txt",
-      "examples": "skills/presenza-prodotto-assistente/EXAMPLES.md",
-      "presentation": "skills/presenza-prodotto-assistente/presentation.json",
-      "package": "dist/presenza-prodotto-assistente-0.2.0.zip",
+      "skill": "skills/projectable-presence/SKILL.md",
+      "guide": "skills/projectable-presence/README.md",
+      "starter": "skills/projectable-presence/START_CHAT_EN.txt",
+      "examples": "skills/projectable-presence/EXAMPLES.md",
+      "presentation": "skills/projectable-presence/presentation.json",
+      "package": "dist/projectable-presence-0.3.0.zip",
       "it": {
         "route": "/risorse/presenza-prodotto-assistente/",
         "title": "Creare la presenza di un prodotto o di un assistente AI",
@@ -866,32 +944,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/presenza-prodotto-assistente/SKILL.md",
-          "guide": "skills/presenza-prodotto-assistente/README.md",
-          "starter": "skills/presenza-prodotto-assistente/START_CHAT_EN.txt",
-          "examples": "skills/presenza-prodotto-assistente/EXAMPLES.md"
+          "skill": "skills/projectable-presence/SKILL.md",
+          "guide": "skills/projectable-presence/README.md",
+          "starter": "skills/projectable-presence/START_CHAT_EN.txt",
+          "examples": "skills/projectable-presence/EXAMPLES.md",
+          "operating_guide": "skills/projectable-presence/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/presenza-prodotto-assistente/SKILL_IT.md",
-          "guide": "skills/presenza-prodotto-assistente/README_IT.md",
-          "starter": "skills/presenza-prodotto-assistente/AVVIO_CHAT_IT.txt",
-          "examples": "skills/presenza-prodotto-assistente/ESEMPI_IT.md"
+          "skill": "skills/projectable-presence/SKILL_IT.md",
+          "guide": "skills/projectable-presence/README_IT.md",
+          "starter": "skills/projectable-presence/AVVIO_CHAT_IT.txt",
+          "examples": "skills/projectable-presence/ESEMPI_IT.md",
+          "operating_guide": "skills/projectable-presence/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "projectable-presence"
     },
     {
       "id": "continuita-repository",
       "name": "Maintain Repository Continuity",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "15",
-      "skill": "skills/continuita-repository/SKILL.md",
-      "guide": "skills/continuita-repository/README.md",
-      "starter": "skills/continuita-repository/START_CHAT_EN.txt",
-      "examples": "skills/continuita-repository/EXAMPLES.md",
-      "presentation": "skills/continuita-repository/presentation.json",
-      "package": "dist/continuita-repository-0.2.0.zip",
+      "skill": "skills/maintain-repository-continuity/SKILL.md",
+      "guide": "skills/maintain-repository-continuity/README.md",
+      "starter": "skills/maintain-repository-continuity/START_CHAT_EN.txt",
+      "examples": "skills/maintain-repository-continuity/EXAMPLES.md",
+      "presentation": "skills/maintain-repository-continuity/presentation.json",
+      "package": "dist/maintain-repository-continuity-0.3.0.zip",
       "it": {
         "route": "/risorse/continuita-repository/",
         "title": "Condividere il lavoro AI tra repository e collaboratori",
@@ -924,32 +1007,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/continuita-repository/SKILL.md",
-          "guide": "skills/continuita-repository/README.md",
-          "starter": "skills/continuita-repository/START_CHAT_EN.txt",
-          "examples": "skills/continuita-repository/EXAMPLES.md"
+          "skill": "skills/maintain-repository-continuity/SKILL.md",
+          "guide": "skills/maintain-repository-continuity/README.md",
+          "starter": "skills/maintain-repository-continuity/START_CHAT_EN.txt",
+          "examples": "skills/maintain-repository-continuity/EXAMPLES.md",
+          "operating_guide": "skills/maintain-repository-continuity/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/continuita-repository/SKILL_IT.md",
-          "guide": "skills/continuita-repository/README_IT.md",
-          "starter": "skills/continuita-repository/AVVIO_CHAT_IT.txt",
-          "examples": "skills/continuita-repository/ESEMPI_IT.md"
+          "skill": "skills/maintain-repository-continuity/SKILL_IT.md",
+          "guide": "skills/maintain-repository-continuity/README_IT.md",
+          "starter": "skills/maintain-repository-continuity/AVVIO_CHAT_IT.txt",
+          "examples": "skills/maintain-repository-continuity/ESEMPI_IT.md",
+          "operating_guide": "skills/maintain-repository-continuity/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "maintain-repository-continuity"
     },
     {
       "id": "accordi-collaborazioni",
       "name": "Compose Agreement Contract",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "16",
-      "skill": "skills/accordi-collaborazioni/SKILL.md",
-      "guide": "skills/accordi-collaborazioni/README.md",
-      "starter": "skills/accordi-collaborazioni/START_CHAT_EN.txt",
-      "examples": "skills/accordi-collaborazioni/EXAMPLES.md",
-      "presentation": "skills/accordi-collaborazioni/presentation.json",
-      "package": "dist/accordi-collaborazioni-0.2.0.zip",
+      "skill": "skills/compose-agreement-contract/SKILL.md",
+      "guide": "skills/compose-agreement-contract/README.md",
+      "starter": "skills/compose-agreement-contract/START_CHAT_EN.txt",
+      "examples": "skills/compose-agreement-contract/EXAMPLES.md",
+      "presentation": "skills/compose-agreement-contract/presentation.json",
+      "package": "dist/compose-agreement-contract-0.3.0.zip",
       "it": {
         "route": "/risorse/accordi-collaborazioni/",
         "title": "Preparare accordi e collaborazioni con l’AI",
@@ -982,32 +1070,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/accordi-collaborazioni/SKILL.md",
-          "guide": "skills/accordi-collaborazioni/README.md",
-          "starter": "skills/accordi-collaborazioni/START_CHAT_EN.txt",
-          "examples": "skills/accordi-collaborazioni/EXAMPLES.md"
+          "skill": "skills/compose-agreement-contract/SKILL.md",
+          "guide": "skills/compose-agreement-contract/README.md",
+          "starter": "skills/compose-agreement-contract/START_CHAT_EN.txt",
+          "examples": "skills/compose-agreement-contract/EXAMPLES.md",
+          "operating_guide": "skills/compose-agreement-contract/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/accordi-collaborazioni/SKILL_IT.md",
-          "guide": "skills/accordi-collaborazioni/README_IT.md",
-          "starter": "skills/accordi-collaborazioni/AVVIO_CHAT_IT.txt",
-          "examples": "skills/accordi-collaborazioni/ESEMPI_IT.md"
+          "skill": "skills/compose-agreement-contract/SKILL_IT.md",
+          "guide": "skills/compose-agreement-contract/README_IT.md",
+          "starter": "skills/compose-agreement-contract/AVVIO_CHAT_IT.txt",
+          "examples": "skills/compose-agreement-contract/ESEMPI_IT.md",
+          "operating_guide": "skills/compose-agreement-contract/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "compose-agreement-contract"
     },
     {
       "id": "organizzare-sistema-editoriale",
       "name": "Comprendere e organizzare Editoriali",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "17",
-      "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
-      "guide": "skills/organizzare-sistema-editoriale/README.md",
-      "starter": "skills/organizzare-sistema-editoriale/START_CHAT_EN.txt",
-      "examples": "skills/organizzare-sistema-editoriale/EXAMPLES.md",
-      "presentation": "skills/organizzare-sistema-editoriale/presentation.json",
-      "package": "dist/organizzare-sistema-editoriale-0.2.0.zip",
+      "skill": "skills/evolve-editoriali-system/SKILL.md",
+      "guide": "skills/evolve-editoriali-system/README.md",
+      "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
+      "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
+      "presentation": "skills/evolve-editoriali-system/presentation.json",
+      "package": "dist/evolve-editoriali-system-0.3.0.zip",
       "it": {
         "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
         "kind": "Metacompetenza organizzativa",
@@ -1040,32 +1133,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
-          "guide": "skills/organizzare-sistema-editoriale/README.md",
-          "starter": "skills/organizzare-sistema-editoriale/START_CHAT_EN.txt",
-          "examples": "skills/organizzare-sistema-editoriale/EXAMPLES.md"
+          "skill": "skills/evolve-editoriali-system/SKILL.md",
+          "guide": "skills/evolve-editoriali-system/README.md",
+          "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
+          "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
+          "operating_guide": "skills/evolve-editoriali-system/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/organizzare-sistema-editoriale/SKILL_IT.md",
-          "guide": "skills/organizzare-sistema-editoriale/README_IT.md",
-          "starter": "skills/organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt",
-          "examples": "skills/organizzare-sistema-editoriale/ESEMPI_IT.md"
+          "skill": "skills/evolve-editoriali-system/SKILL_IT.md",
+          "guide": "skills/evolve-editoriali-system/README_IT.md",
+          "starter": "skills/evolve-editoriali-system/AVVIO_CHAT_IT.txt",
+          "examples": "skills/evolve-editoriali-system/ESEMPI_IT.md",
+          "operating_guide": "skills/evolve-editoriali-system/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "evolve-editoriali-system"
     },
     {
       "id": "creare-comporre-competenze",
       "name": "Meta_Skill Semantic Kernel",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "18",
-      "skill": "skills/creare-comporre-competenze/SKILL.md",
-      "guide": "skills/creare-comporre-competenze/README.md",
-      "starter": "skills/creare-comporre-competenze/START_CHAT_EN.txt",
-      "examples": "skills/creare-comporre-competenze/EXAMPLES.md",
-      "presentation": "skills/creare-comporre-competenze/presentation.json",
-      "package": "dist/creare-comporre-competenze-0.2.0.zip",
+      "skill": "skills/meta-skill-semantic-kernel/SKILL.md",
+      "guide": "skills/meta-skill-semantic-kernel/README.md",
+      "starter": "skills/meta-skill-semantic-kernel/START_CHAT_EN.txt",
+      "examples": "skills/meta-skill-semantic-kernel/EXAMPLES.md",
+      "presentation": "skills/meta-skill-semantic-kernel/presentation.json",
+      "package": "dist/meta-skill-semantic-kernel-0.3.0.zip",
       "it": {
         "title": "Creare e comporre competenze per un sistema AI",
         "kind": "Kernel generativo di competenze",
@@ -1098,32 +1196,43 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/creare-comporre-competenze/SKILL.md",
-          "guide": "skills/creare-comporre-competenze/README.md",
-          "starter": "skills/creare-comporre-competenze/START_CHAT_EN.txt",
-          "examples": "skills/creare-comporre-competenze/EXAMPLES.md"
+          "skill": "skills/meta-skill-semantic-kernel/SKILL.md",
+          "guide": "skills/meta-skill-semantic-kernel/README.md",
+          "starter": "skills/meta-skill-semantic-kernel/START_CHAT_EN.txt",
+          "examples": "skills/meta-skill-semantic-kernel/EXAMPLES.md",
+          "operating_guide": "skills/meta-skill-semantic-kernel/OPERATING_GUIDE.md",
+          "runtime_sources": [
+            "skills/meta-skill-semantic-kernel/scripts/system_field.py",
+            "skills/meta-skill-semantic-kernel/references/system-field.example.json"
+          ]
         },
         "it": {
-          "skill": "skills/creare-comporre-competenze/SKILL_IT.md",
-          "guide": "skills/creare-comporre-competenze/README_IT.md",
-          "starter": "skills/creare-comporre-competenze/AVVIO_CHAT_IT.txt",
-          "examples": "skills/creare-comporre-competenze/ESEMPI_IT.md"
+          "skill": "skills/meta-skill-semantic-kernel/SKILL_IT.md",
+          "guide": "skills/meta-skill-semantic-kernel/README_IT.md",
+          "starter": "skills/meta-skill-semantic-kernel/AVVIO_CHAT_IT.txt",
+          "examples": "skills/meta-skill-semantic-kernel/ESEMPI_IT.md",
+          "operating_guide": "skills/meta-skill-semantic-kernel/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": [
+            "skills/meta-skill-semantic-kernel/scripts/system_field.py",
+            "skills/meta-skill-semantic-kernel/references/system-field.example.json"
+          ]
         }
-      }
+      },
+      "skill_name": "meta-skill-semantic-kernel"
     },
     {
       "id": "kernel-in-plugin",
       "name": "Kernel Plugin Incarnation",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "19",
-      "skill": "skills/kernel-in-plugin/SKILL.md",
-      "guide": "skills/kernel-in-plugin/README.md",
-      "starter": "skills/kernel-in-plugin/START_CHAT_EN.txt",
-      "examples": "skills/kernel-in-plugin/EXAMPLES.md",
-      "presentation": "skills/kernel-in-plugin/presentation.json",
-      "package": "dist/kernel-in-plugin-0.2.0.zip",
+      "skill": "skills/kernel-plugin-incarnation/SKILL.md",
+      "guide": "skills/kernel-plugin-incarnation/README.md",
+      "starter": "skills/kernel-plugin-incarnation/START_CHAT_EN.txt",
+      "examples": "skills/kernel-plugin-incarnation/EXAMPLES.md",
+      "presentation": "skills/kernel-plugin-incarnation/presentation.json",
+      "package": "dist/kernel-plugin-incarnation-0.3.0.zip",
       "it": {
         "title": "Portare un kernel semantico in un plugin AI",
         "kind": "Metacompetenza di prodotto",
@@ -1156,32 +1265,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/kernel-in-plugin/SKILL.md",
-          "guide": "skills/kernel-in-plugin/README.md",
-          "starter": "skills/kernel-in-plugin/START_CHAT_EN.txt",
-          "examples": "skills/kernel-in-plugin/EXAMPLES.md"
+          "skill": "skills/kernel-plugin-incarnation/SKILL.md",
+          "guide": "skills/kernel-plugin-incarnation/README.md",
+          "starter": "skills/kernel-plugin-incarnation/START_CHAT_EN.txt",
+          "examples": "skills/kernel-plugin-incarnation/EXAMPLES.md",
+          "operating_guide": "skills/kernel-plugin-incarnation/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/kernel-in-plugin/SKILL_IT.md",
-          "guide": "skills/kernel-in-plugin/README_IT.md",
-          "starter": "skills/kernel-in-plugin/AVVIO_CHAT_IT.txt",
-          "examples": "skills/kernel-in-plugin/ESEMPI_IT.md"
+          "skill": "skills/kernel-plugin-incarnation/SKILL_IT.md",
+          "guide": "skills/kernel-plugin-incarnation/README_IT.md",
+          "starter": "skills/kernel-plugin-incarnation/AVVIO_CHAT_IT.txt",
+          "examples": "skills/kernel-plugin-incarnation/ESEMPI_IT.md",
+          "operating_guide": "skills/kernel-plugin-incarnation/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "kernel-plugin-incarnation"
     },
     {
       "id": "avviare-nodo-ai",
       "name": "Incarnate Neutral Kernel Node",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "20",
-      "skill": "skills/avviare-nodo-ai/SKILL.md",
-      "guide": "skills/avviare-nodo-ai/README.md",
-      "starter": "skills/avviare-nodo-ai/START_CHAT_EN.txt",
-      "examples": "skills/avviare-nodo-ai/EXAMPLES.md",
-      "presentation": "skills/avviare-nodo-ai/presentation.json",
-      "package": "dist/avviare-nodo-ai-0.2.0.zip",
+      "skill": "skills/incarnate-neutral-kernel-node/SKILL.md",
+      "guide": "skills/incarnate-neutral-kernel-node/README.md",
+      "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
+      "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
+      "presentation": "skills/incarnate-neutral-kernel-node/presentation.json",
+      "package": "dist/incarnate-neutral-kernel-node-0.3.0.zip",
       "it": {
         "title": "Avviare un assistente AI con identità e continuità proprie",
         "kind": "Metacompetenza di trasferimento",
@@ -1214,32 +1328,43 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/avviare-nodo-ai/SKILL.md",
-          "guide": "skills/avviare-nodo-ai/README.md",
-          "starter": "skills/avviare-nodo-ai/START_CHAT_EN.txt",
-          "examples": "skills/avviare-nodo-ai/EXAMPLES.md"
+          "skill": "skills/incarnate-neutral-kernel-node/SKILL.md",
+          "guide": "skills/incarnate-neutral-kernel-node/README.md",
+          "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
+          "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
+          "operating_guide": "skills/incarnate-neutral-kernel-node/OPERATING_GUIDE.md",
+          "runtime_sources": [
+            "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
+            "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
+          ]
         },
         "it": {
-          "skill": "skills/avviare-nodo-ai/SKILL_IT.md",
-          "guide": "skills/avviare-nodo-ai/README_IT.md",
-          "starter": "skills/avviare-nodo-ai/AVVIO_CHAT_IT.txt",
-          "examples": "skills/avviare-nodo-ai/ESEMPI_IT.md"
+          "skill": "skills/incarnate-neutral-kernel-node/SKILL_IT.md",
+          "guide": "skills/incarnate-neutral-kernel-node/README_IT.md",
+          "starter": "skills/incarnate-neutral-kernel-node/AVVIO_CHAT_IT.txt",
+          "examples": "skills/incarnate-neutral-kernel-node/ESEMPI_IT.md",
+          "operating_guide": "skills/incarnate-neutral-kernel-node/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": [
+            "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
+            "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
+          ]
         }
-      }
+      },
+      "skill_name": "incarnate-neutral-kernel-node"
     },
     {
       "id": "coerenza-kernel-ai",
       "name": "Kernel Continuum Awareness",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "21",
-      "skill": "skills/coerenza-kernel-ai/SKILL.md",
-      "guide": "skills/coerenza-kernel-ai/README.md",
-      "starter": "skills/coerenza-kernel-ai/START_CHAT_EN.txt",
-      "examples": "skills/coerenza-kernel-ai/EXAMPLES.md",
-      "presentation": "skills/coerenza-kernel-ai/presentation.json",
-      "package": "dist/coerenza-kernel-ai-0.2.0.zip",
+      "skill": "skills/kernel-continuum-awareness/SKILL.md",
+      "guide": "skills/kernel-continuum-awareness/README.md",
+      "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
+      "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
+      "presentation": "skills/kernel-continuum-awareness/presentation.json",
+      "package": "dist/kernel-continuum-awareness-0.3.0.zip",
       "it": {
         "title": "Mantenere coerenti le capacità di un kernel AI",
         "kind": "Metacompetenza del kernel",
@@ -1272,32 +1397,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/coerenza-kernel-ai/SKILL.md",
-          "guide": "skills/coerenza-kernel-ai/README.md",
-          "starter": "skills/coerenza-kernel-ai/START_CHAT_EN.txt",
-          "examples": "skills/coerenza-kernel-ai/EXAMPLES.md"
+          "skill": "skills/kernel-continuum-awareness/SKILL.md",
+          "guide": "skills/kernel-continuum-awareness/README.md",
+          "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
+          "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
+          "operating_guide": "skills/kernel-continuum-awareness/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/coerenza-kernel-ai/SKILL_IT.md",
-          "guide": "skills/coerenza-kernel-ai/README_IT.md",
-          "starter": "skills/coerenza-kernel-ai/AVVIO_CHAT_IT.txt",
-          "examples": "skills/coerenza-kernel-ai/ESEMPI_IT.md"
+          "skill": "skills/kernel-continuum-awareness/SKILL_IT.md",
+          "guide": "skills/kernel-continuum-awareness/README_IT.md",
+          "starter": "skills/kernel-continuum-awareness/AVVIO_CHAT_IT.txt",
+          "examples": "skills/kernel-continuum-awareness/ESEMPI_IT.md",
+          "operating_guide": "skills/kernel-continuum-awareness/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "kernel-continuum-awareness"
     },
     {
       "id": "formare-kernel-esperienza",
       "name": "Proto Movimento",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "22",
-      "skill": "skills/formare-kernel-esperienza/SKILL.md",
-      "guide": "skills/formare-kernel-esperienza/README.md",
-      "starter": "skills/formare-kernel-esperienza/START_CHAT_EN.txt",
-      "examples": "skills/formare-kernel-esperienza/EXAMPLES.md",
-      "presentation": "skills/formare-kernel-esperienza/presentation.json",
-      "package": "dist/formare-kernel-esperienza-0.2.0.zip",
+      "skill": "skills/proto-movimento/SKILL.md",
+      "guide": "skills/proto-movimento/README.md",
+      "starter": "skills/proto-movimento/START_CHAT_EN.txt",
+      "examples": "skills/proto-movimento/EXAMPLES.md",
+      "presentation": "skills/proto-movimento/presentation.json",
+      "package": "dist/proto-movimento-0.3.0.zip",
       "it": {
         "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
         "kind": "Competenza di formazione del kernel",
@@ -1330,32 +1460,37 @@
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/formare-kernel-esperienza/SKILL.md",
-          "guide": "skills/formare-kernel-esperienza/README.md",
-          "starter": "skills/formare-kernel-esperienza/START_CHAT_EN.txt",
-          "examples": "skills/formare-kernel-esperienza/EXAMPLES.md"
+          "skill": "skills/proto-movimento/SKILL.md",
+          "guide": "skills/proto-movimento/README.md",
+          "starter": "skills/proto-movimento/START_CHAT_EN.txt",
+          "examples": "skills/proto-movimento/EXAMPLES.md",
+          "operating_guide": "skills/proto-movimento/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/formare-kernel-esperienza/SKILL_IT.md",
-          "guide": "skills/formare-kernel-esperienza/README_IT.md",
-          "starter": "skills/formare-kernel-esperienza/AVVIO_CHAT_IT.txt",
-          "examples": "skills/formare-kernel-esperienza/ESEMPI_IT.md"
+          "skill": "skills/proto-movimento/SKILL_IT.md",
+          "guide": "skills/proto-movimento/README_IT.md",
+          "starter": "skills/proto-movimento/AVVIO_CHAT_IT.txt",
+          "examples": "skills/proto-movimento/ESEMPI_IT.md",
+          "operating_guide": "skills/proto-movimento/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "proto-movimento"
     },
     {
       "id": "ka-kernel-assiomatico",
       "name": "KA — Kernel Assiomatico",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "23",
-      "skill": "skills/ka-kernel-assiomatico/SKILL.md",
-      "guide": "skills/ka-kernel-assiomatico/README.md",
-      "starter": "skills/ka-kernel-assiomatico/START_CHAT_EN.txt",
-      "examples": "skills/ka-kernel-assiomatico/EXAMPLES.md",
-      "presentation": "skills/ka-kernel-assiomatico/presentation.json",
-      "package": "dist/ka-kernel-assiomatico-0.2.0.zip",
+      "skill": "skills/operate-ka/SKILL.md",
+      "guide": "skills/operate-ka/README.md",
+      "starter": "skills/operate-ka/START_CHAT_EN.txt",
+      "examples": "skills/operate-ka/EXAMPLES.md",
+      "presentation": "skills/operate-ka/presentation.json",
+      "package": "dist/operate-ka-0.3.0.zip",
       "it": {
         "title": "KA — comprendere il lavoro oltre la prima interpretazione",
         "kind": "Kernel semantico fondativo",
@@ -1384,36 +1519,41 @@
         "route": "/resources/ka-kernel-assiomatico/",
         "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
       },
-      "native_entry": "KA / operate-ka",
+      "native_entry": "operate-ka",
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/ka-kernel-assiomatico/SKILL.md",
-          "guide": "skills/ka-kernel-assiomatico/README.md",
-          "starter": "skills/ka-kernel-assiomatico/START_CHAT_EN.txt",
-          "examples": "skills/ka-kernel-assiomatico/EXAMPLES.md"
+          "skill": "skills/operate-ka/SKILL.md",
+          "guide": "skills/operate-ka/README.md",
+          "starter": "skills/operate-ka/START_CHAT_EN.txt",
+          "examples": "skills/operate-ka/EXAMPLES.md",
+          "operating_guide": "skills/operate-ka/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/ka-kernel-assiomatico/SKILL_IT.md",
-          "guide": "skills/ka-kernel-assiomatico/README_IT.md",
-          "starter": "skills/ka-kernel-assiomatico/AVVIO_CHAT_IT.txt",
-          "examples": "skills/ka-kernel-assiomatico/ESEMPI_IT.md"
+          "skill": "skills/operate-ka/SKILL_IT.md",
+          "guide": "skills/operate-ka/README_IT.md",
+          "starter": "skills/operate-ka/AVVIO_CHAT_IT.txt",
+          "examples": "skills/operate-ka/ESEMPI_IT.md",
+          "operating_guide": "skills/operate-ka/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "operate-ka"
     },
     {
       "id": "fdla-correzione-ai",
       "name": "Operate FDLA",
-      "version": "0.2.0",
-      "state": "early_public_edition",
+      "version": "0.3.0",
+      "state": "public_edition",
       "instruction_language": "en",
       "review_id": "24",
-      "skill": "skills/fdla-correzione-ai/SKILL.md",
-      "guide": "skills/fdla-correzione-ai/README.md",
-      "starter": "skills/fdla-correzione-ai/START_CHAT_EN.txt",
-      "examples": "skills/fdla-correzione-ai/EXAMPLES.md",
-      "presentation": "skills/fdla-correzione-ai/presentation.json",
-      "package": "dist/fdla-correzione-ai-0.2.0.zip",
+      "skill": "skills/operate-fdla/SKILL.md",
+      "guide": "skills/operate-fdla/README.md",
+      "starter": "skills/operate-fdla/START_CHAT_EN.txt",
+      "examples": "skills/operate-fdla/EXAMPLES.md",
+      "presentation": "skills/operate-fdla/presentation.json",
+      "package": "dist/operate-fdla-0.3.0.zip",
       "it": {
         "title": "FDLA — correggere le deviazioni introdotte dall’AI",
         "kind": "Funzione di correzione nel kernel",
@@ -1442,22 +1582,27 @@
         "route": "/resources/fdla-correzione-ai/",
         "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
       },
-      "native_entry": "FDLA / operate-fdla",
+      "native_entry": "operate-fdla",
       "default_language": "en",
       "languages": {
         "en": {
-          "skill": "skills/fdla-correzione-ai/SKILL.md",
-          "guide": "skills/fdla-correzione-ai/README.md",
-          "starter": "skills/fdla-correzione-ai/START_CHAT_EN.txt",
-          "examples": "skills/fdla-correzione-ai/EXAMPLES.md"
+          "skill": "skills/operate-fdla/SKILL.md",
+          "guide": "skills/operate-fdla/README.md",
+          "starter": "skills/operate-fdla/START_CHAT_EN.txt",
+          "examples": "skills/operate-fdla/EXAMPLES.md",
+          "operating_guide": "skills/operate-fdla/OPERATING_GUIDE.md",
+          "runtime_sources": []
         },
         "it": {
-          "skill": "skills/fdla-correzione-ai/SKILL_IT.md",
-          "guide": "skills/fdla-correzione-ai/README_IT.md",
-          "starter": "skills/fdla-correzione-ai/AVVIO_CHAT_IT.txt",
-          "examples": "skills/fdla-correzione-ai/ESEMPI_IT.md"
+          "skill": "skills/operate-fdla/SKILL_IT.md",
+          "guide": "skills/operate-fdla/README_IT.md",
+          "starter": "skills/operate-fdla/AVVIO_CHAT_IT.txt",
+          "examples": "skills/operate-fdla/ESEMPI_IT.md",
+          "operating_guide": "skills/operate-fdla/GUIDA_OPERATIVA_IT.md",
+          "runtime_sources": []
         }
-      }
+      },
+      "skill_name": "operate-fdla"
     }
   ],
   "primary_language": "en",

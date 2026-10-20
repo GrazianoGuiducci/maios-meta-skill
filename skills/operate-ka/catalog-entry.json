@@ -1,0 +1,63 @@
+{
+  "id": "ka-kernel-assiomatico",
+  "name": "KA — Kernel Assiomatico",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "23",
+  "skill": "skills/operate-ka/SKILL.md",
+  "guide": "skills/operate-ka/README.md",
+  "starter": "skills/operate-ka/START_CHAT_EN.txt",
+  "examples": "skills/operate-ka/EXAMPLES.md",
+  "presentation": "skills/operate-ka/presentation.json",
+  "package": "dist/operate-ka-0.3.0.zip",
+  "it": {
+    "title": "KA — comprendere il lavoro oltre la prima interpretazione",
+    "kind": "Kernel semantico fondativo",
+    "domain": "Fondamenti del sistema",
+    "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
+    "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
+    "examples": [
+      "La prima lettura di una richiesta lascia partecipare una fonte che cambia la domanda.",
+      "Una possibilità non ancora rappresentata nel sistema resta raggiungibile.",
+      "Una determinazione emersa viene concretizzata senza riaprirla per inerzia."
+    ],
+    "route": "/risorse/ka-kernel-assiomatico/",
+    "description": "Il Kernel Assiomatico mantiene la relazione con fonti, intento, situazione e possibilità mentre l’AI opera."
+  },
+  "en": {
+    "title": "KA — understand AI work beyond its first interpretation",
+    "kind": "Foundational semantic kernel",
+    "domain": "System foundations",
+    "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
+    "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
+    "examples": [
+      "Let a relevant source change the initial question.",
+      "Keep an unrepresented possibility reachable.",
+      "Act on an emerged determination without reopening it by inertia."
+    ],
+    "route": "/resources/ka-kernel-assiomatico/",
+    "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
+  },
+  "native_entry": "operate-ka",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/operate-ka/SKILL.md",
+      "guide": "skills/operate-ka/README.md",
+      "starter": "skills/operate-ka/START_CHAT_EN.txt",
+      "examples": "skills/operate-ka/EXAMPLES.md",
+      "operating_guide": "skills/operate-ka/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/operate-ka/SKILL_IT.md",
+      "guide": "skills/operate-ka/README_IT.md",
+      "starter": "skills/operate-ka/AVVIO_CHAT_IT.txt",
+      "examples": "skills/operate-ka/ESEMPI_IT.md",
+      "operating_guide": "skills/operate-ka/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "operate-ka"
+}

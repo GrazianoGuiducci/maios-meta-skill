@@ -1,0 +1,63 @@
+{
+  "id": "evolvere-competenze",
+  "name": "D-ND Skill Evolution Guard",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "06",
+  "skill": "skills/dnd-skill-evolution-guard/SKILL.md",
+  "guide": "skills/dnd-skill-evolution-guard/README.md",
+  "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
+  "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
+  "presentation": "skills/dnd-skill-evolution-guard/presentation.json",
+  "package": "dist/dnd-skill-evolution-guard-0.3.0.zip",
+  "it": {
+    "route": "/risorse/evolvere-competenze/",
+    "title": "Far evolvere una competenza AI attraverso il lavoro",
+    "description": "Porta una correzione o un apprendimento nel metodo che dovrà usarlo la prossima volta.",
+    "kind": "Metacompetenza",
+    "domain": "Metodo e apprendimento",
+    "does": "Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza.",
+    "when": "Quando un errore si ripete, una capacità migliora con l’uso o il sapere esiste ma non viene richiamato nel lavoro.",
+    "examples": [
+      "Una correzione ai titoli cambia il metodo di scrittura successivo.",
+      "Una ricerca riuscita arricchisce la competenza di analisi.",
+      "Un errore dovuto all’ingresso della skill viene corretto nel suo richiamo."
+    ]
+  },
+  "en": {
+    "route": "/resources/evolvere-competenze/",
+    "title": "Evolve an AI competence through real work",
+    "description": "Put a correction or learning into the method that should use it next time.",
+    "kind": "Meta-competence",
+    "domain": "Method and learning",
+    "does": "Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference.",
+    "when": "Use it when an error recurs, a capability improves through use or existing knowledge is not reached during work.",
+    "examples": [
+      "An editorial correction changes the method used for later titles.",
+      "Successful research enriches an analysis competence.",
+      "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
+    ]
+  },
+  "native_entry": "dnd-skill-evolution-guard",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/dnd-skill-evolution-guard/SKILL.md",
+      "guide": "skills/dnd-skill-evolution-guard/README.md",
+      "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
+      "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
+      "operating_guide": "skills/dnd-skill-evolution-guard/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/dnd-skill-evolution-guard/SKILL_IT.md",
+      "guide": "skills/dnd-skill-evolution-guard/README_IT.md",
+      "starter": "skills/dnd-skill-evolution-guard/AVVIO_CHAT_IT.txt",
+      "examples": "skills/dnd-skill-evolution-guard/ESEMPI_IT.md",
+      "operating_guide": "skills/dnd-skill-evolution-guard/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "dnd-skill-evolution-guard"
+}

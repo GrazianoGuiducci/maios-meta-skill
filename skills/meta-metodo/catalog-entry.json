@@ -1,0 +1,63 @@
+{
+  "id": "organizzare-lavoro-complesso",
+  "name": "Meta_Metodo",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "04",
+  "skill": "skills/meta-metodo/SKILL.md",
+  "guide": "skills/meta-metodo/README.md",
+  "starter": "skills/meta-metodo/START_CHAT_EN.txt",
+  "examples": "skills/meta-metodo/EXAMPLES.md",
+  "presentation": "skills/meta-metodo/presentation.json",
+  "package": "dist/meta-metodo-0.3.0.zip",
+  "it": {
+    "route": "/risorse/organizzare-lavoro-complesso/",
+    "title": "Organizzare un lavoro complesso con l’AI",
+    "description": "Meta_Metodo fa emergere il metodo dalle relazioni tra obiettivo, conoscenze, competenze e mezzi disponibili.",
+    "kind": "Metacompetenza",
+    "domain": "Metodo e apprendimento",
+    "does": "Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove.",
+    "when": "Quando idee, attività, strumenti e priorità sono mescolati e una lista di task non basta a comprendere come procedere.",
+    "examples": [
+      "Collega ricerca, prodotto, offerta e comunicazione di un lancio.",
+      "Organizza un progetto partendo da appunti esposti fuori ordine.",
+      "Rivede il metodo quando una nuova fonte cambia la domanda di ricerca."
+    ]
+  },
+  "en": {
+    "route": "/resources/organizzare-lavoro-complesso/",
+    "title": "Organise complex work with AI",
+    "description": "Meta_Metodo forms a working method from the relationships between intent, knowledge, competences and available means.",
+    "kind": "Meta-competence",
+    "domain": "Method and learning",
+    "does": "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge.",
+    "when": "Use it when ideas, tasks, tools and priorities are mixed together and a task list does not explain how to proceed.",
+    "examples": [
+      "Connect research, product, offer and communication for a launch.",
+      "Organise a project from notes presented out of order.",
+      "Revise the method when a new source changes the research question."
+    ]
+  },
+  "native_entry": "meta-metodo",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/meta-metodo/SKILL.md",
+      "guide": "skills/meta-metodo/README.md",
+      "starter": "skills/meta-metodo/START_CHAT_EN.txt",
+      "examples": "skills/meta-metodo/EXAMPLES.md",
+      "operating_guide": "skills/meta-metodo/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/meta-metodo/SKILL_IT.md",
+      "guide": "skills/meta-metodo/README_IT.md",
+      "starter": "skills/meta-metodo/AVVIO_CHAT_IT.txt",
+      "examples": "skills/meta-metodo/ESEMPI_IT.md",
+      "operating_guide": "skills/meta-metodo/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "meta-metodo"
+}

@@ -1,0 +1,91 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# UX-AI Kernel Design
+
+Make the meaning of current work and the person's real intervention points understandable. Adapt explanation, depth and form to what the person needs to orient, correct or continue the work.
+
+Use this competence when an AI system returns results without making their implications or participation clear. Explanation comes from actual activity: what changes, why it matters, supporting sources and how the person can correct or continue. Its length follows that need.
+
+## Explain where it matters
+
+Understand current work and what the person must recognize to participate. Make a relation visible when it can change the next choice: a different source, decision, forming capability, completed effect or open question. Do not add an introductory tutorial or component inventory merely because those components exist. Continue directly when the result is already understandable.
+
+## Connect event, meaning and intervention
+
+Express the change recognizably: what happened, what it means here and what the person can do. Keep a decision-changing uncertainty or condition beside the result it qualifies. Describe a saved but inactive change as such. When the person can correct a source, change direction or request depth, make that passage reachable through actual means.
+
+## Adapt depth and representation
+
+A sentence may suffice; a complex relation may need an example, comparison or broader view. Use the person's vocabulary without inferring knowledge from role or silence alone. A technical term helps when it compresses a relation already understandable. Choose text, imagery or interaction for its concrete contribution while keeping deeper inquiry possible. Brevity and understanding are different measures.
+
+## Let explanation correct the work
+
+Reformulate from the person's position while preserving source and object. If an example or question reveals a lost premise, correct the work itself rather than its tone alone. Repeated wording is not independent confirmation. Continue reformulation while it adds material understanding; stop when it changes no useful relation. The person's response can change question, method and form.
+
+## Make work perceptible while preserving agency
+
+In interfaces, connect proposals to real state and preserve the person's work: entered text, selection, context and attention. Feedback must not erase a draft or simulate consent. Compose design and implementation competences to construct the surface when needed; the object and sources retain truth ownership. Explain observable operating reasons, sources and consequences without exposing or simulating private model reasoning.
+
+## Learn from actual understanding
+
+Do not equate success with the quantity of explanation. Seek pertinent consequences: the person recognizes where to correct, distinguishes proposal from effect, asks a more precise question or resumes with less reconstruction. Confusion, an illusion of control or excessive interruption teach what to change. Preserve reusable relations without imposing one answer format or identical footer on every recipient.
+
+## Method depth
+
+A meta relation may become visible when the system explains how a competence forms or changes and the person can guide that formation. Explanation does not become a second engine determining domain truth.
+
+An autological relation appears when this competence applies its own method to its own comprehensibility: a confusing explanation becomes material for improving explanation. This differs from autonomous execution and access to internal reasoning.
+
+## Learning and continuation
+
+Daily work can gradually teach participation. Useful evidence lies in how the person understands and intervenes in later situations, not in the existence of a panel or description.
+
+Begin from available context and sources. Exercise the method in chat; persistence, tools and external actions depend on actual means and mandate. Observe behavior and value in real work.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# UX-AI Kernel Design
+
+## Form a reciprocal, simultaneous working surface
+
+The person and the AI can act in the same field on the same object. The person orients, contributes and corrects; the system exposes information, changes and proposals while human work continues. Preserve the draft, selection, focus and reasons when a new observation arrives. Timing, hierarchy and form belong to the relation, rather than an after-the-fact decoration. A significant uncertainty must be perceivable where it changes a decision.
+
+Preserve the receiving person's selected communication contract. If they use a competence footer as a continuity surface, retain its presence and adapt density: actual contribution, decisive consequence and useful continuation. This does not impose that footer on unrelated recipients or prove hidden participation. Put decision-changing information in the answer where it is used. Human silence does not establish understanding. If a reformulation exposes a missing premise, return to the object and reform the work.
+
+## Construct the medium from the relation it must express
+
+Understand the domain object, relevant states, changes, choices and intervention points. Choose conversation, a document, a table, a static view, an interactive scene or another available medium according to what must become understandable. Space, time, dependencies and alternatives may benefit from interaction or motion; no fixed maturity ladder requires it. Devices, environment, noise and physical conditions can change reception without prescribing a technology. Multiperceptual forms remain possibilities to construct with actual means.
+
+Use the actual Design and code-construction knowledge available to build the form. From a demonstration, learn hierarchy, rhythm, camera, transition, materiality, typography and perceptual continuity with their conditions. Separate reusable grammar from brand, content and assets. Build original code for the current object rather than treating an external demo as the capability. Reusable tools may help without becoming a compulsory stack.
+
+## Keep meaning, rendering and intervention connected
+
+Expose shared semantic state to the system and to the person. A screenshot alone cannot recover an unexposed selection, temporal lens or transient target. Distinguish a temporary pointer from a persistent selection. Bind values and events so a human change reaches the working state and a system change becomes perceivable. Preserve orientation through transitions; moving geometry should reveal a relationship or state change.
+
+Choose among retaining, adapting or rebuilding a form through the relations it can actually express. A preferred projection cannot manufacture a missing capability. Search for, compose or construct that capability when needed. Observe the rendered outcome and reachable state at meaningful moments; separate a fixture from the evaluator deciding what it can express. Compare human intervention and programmatic change, including focus and accessibility. Keep original editable sources. A weak result can require a code correction, a different expressive grammar or a reformulated question. Return that cause to the competence that must build or communicate differently next time.
+
+# UX-AI Kernel Design — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Explain a prepared change at its actual activation state
+
+The assistant has prepared a change that still needs activation. State that distinction and the concrete next action where the result is reported. The person can decide from the real state without reconstructing it from scattered technical details.
+
+## Make new information perceivable while the person continues writing
+
+A new observation arrives during drafting. The surface connects it to the affected passage, preserves the draft and allows deeper reading without losing position. The observation can change a decision without replacing the author.
+
+## Let an explanation reveal a mistaken premise
+
+A person asks why the assistant excluded a source. Explaining the reason reveals that the assistant confused the document’s date with the event’s date. Correction changes the research and the method explaining that distinction.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

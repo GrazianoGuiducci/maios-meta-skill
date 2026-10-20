@@ -1,0 +1,77 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Signal Intelligence
+
+Turn signals into knowledge connected to the work and, when useful, into a change in the method that will continue. A signal may come from an article, paper, video, conversation, failure, contradiction or meaningful absence.
+
+Value does not depend on the number of sources summarized. Understand what the encounter makes intelligible and which choice, question or capability it may change in the present context.
+
+## Meet the signal through the present project
+
+Reach the source's actual content, author, time and context when they change interpretation. Keep its assertions distinct from project knowledge. When comparing capabilities, read the actual object's method and guide: a released version, evolving source and particular installation can differ. A name or dated index does not establish absence; a competence's text does not prove every environment can exercise it.
+
+## Let the first reading change
+
+First impressions begin observation without determining its admissible relations. Encountered knowledge may make other sources, domains or questions pertinent. Reread from the changed context when it may expose a contradiction, recurrence, missing condition, temporal difference or previously ignored possibility. Popularity, novelty and repetition do not establish importance. Do not exclude a weak signal merely because it does not fit the current schema. Stop when another pass changes no useful relation; impose no fixed reading count.
+
+## Understand the concrete contribution
+
+Distinguish the signal, knowledge derived from it, capability to use that knowledge and evidence of a result. A source may refine a question, provide a practical example, supply independent evidence, suggest a possibility or teach a method. These contributions can coexist. If the recipient already possesses the knowledge but fails to reach it, correct the entry. If a useful mechanism is absent, acquire it and make it operational. Prior knowledge does not make independent evidence useless.
+
+## Produce the useful return
+
+Choose the form that carries knowledge into the work: an attributed synthesis, precise question, method correction, hypothesis or bounded experiment when useful. Do not default to a ranking, report or experiment. When a competence must understand or act differently, integrate the knowledge and its reason there. If a consequence affects several competences, each receives the part changing its own work. A document's availability does not prove another assistant has read it.
+
+## Preserve scope and connections
+
+Keep source, time, context, observed difference, interpretation and decisive unknowns reachable. A person's correction has an object and scope; do not extend it to the entire strategy without reason. Research, provider access, installation, recurring monitoring, contacts and publication retain their actual means and mandate. Prepare a possibility before an effect is selected without presenting it as already realized.
+
+## When research changes research itself
+
+The direct work turns signals into useful knowledge. A meta relation emerges when that knowledge changes a competence, source composition or question-forming method.
+
+The relation is autological when this competence recognizes that its own selection criterion excluded a decisive source and changes that criterion. Rereading one source from an enriched field can change understanding; it does not create an independent measurement.
+
+## Learning and continuation
+
+Preserve the reusable difference: a better-discriminated source, corrected assumption, useful combination or newly possible method. Domain knowledge returns to that domain; knowledge changing competence formation returns to the generative method.
+
+Research can continue on request or inside an existing scheduled activity. This resource transfers a method; it does not by itself create a monitoring service or agent network.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Signal Intelligence
+
+## Read the changed field, not only the first contour
+
+A signal can be an observation, contradiction, absence, weak relation, experiment, repository change or conversation. Keep source, time and carrier distinct. Read what it makes understandable in the present field, allowing scale, recurrence, incentives or an unexpected competence combination to change the question. Novelty, popularity, repetition and fluent wording do not establish truth or importance. A weak signal need not fit the current schema to remain a sourced possibility.
+
+When comparing a claimed new ability, enter the actual receiving competence and its accumulated guide. A living source, released package and installed receiver are different comparators. Existing know-how can be undiscovered, displaced by the assistant's framing, or made more capable by practical new knowledge. Repair the relation actually missing. Independent external evidence does not prove local performance. An experiment can answer a selected empirical question without becoming the default response to every signal.
+
+Another receiver's report is evidence of its report; inspect native source and conditions when they matter. Distribute the smallest useful difference to competences that must act differently, preserving their owners. A shared file is not a notification or proof of uptake. An uncovered recurring field may justify improving an existing activity or selecting a new one through the real scheduler; no schedule is created by this method alone. Return carrier knowledge to acquisition, domain knowledge to its owner and general formation learning to the generator. A useful result may be a synthesis, changed question, invalidator, practical action or explicit unresolved relation rather than a scored signal card.
+
+# Signal Intelligence — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Find a product possibility in a research paper
+
+A paper proposes a method relevant to a product. The assistant distinguishes what the paper supports, what the product implements and conditions still to be understood. The useful return may be a more exact question or an adapted method. An experiment becomes useful when it addresses that question.
+
+## Connect customer feedback and technical observations
+
+Customers describe difficulty while technical data shows no errors. The competence connects the sources: comprehension, configuration or an uncovered case may matter. It keeps those hypotheses distinguishable and reaches the domain that can interpret them instead of selecting an explanation immediately.
+
+## Turn an execution failure into knowledge of the reading method
+
+A procedure fails because it read a superseded representation. The signal teaches the distinction between finding a source and establishing its currentness. Correction reaches the reading method and its entry. The error log remains evidence of the event, not proof that every later use will apply the correction.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

@@ -1,0 +1,85 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Formare risorse pubbliche dalle metacompetenze
+
+**Trasformare una competenza interna in una risorsa pubblica**
+
+Questa metacompetenza trasforma un saper fare interno in una risorsa che persone e assistenti esterni possono comprendere, avviare e adattare. Tiene insieme metodo trasferito, guida, primo uso, repository o altro luogo di distribuzione, pagina di presentazione e derivazioni editoriali.
+
+La risorsa nasce dal lavoro che il destinatario potrà affidarle. Una funzione concreta, una competenza o una composizione possono essere utili: il nome “meta” non ne determina da solo il valore.
+
+## Partire dalla capacità e dal destinatario
+
+Leggi la competenza sorgente, le ragioni della sua formazione e la guida del lavoro. Comprendi che cosa il ricevente potrà fare, quando gli servirà e quale conoscenza gli permetterà di adattare il metodo. Cerca il sapere anche nelle guide e nelle relazioni con altre capacità: una cartella o una descrizione non esauriscono la funzione. Quando la risorsa compone più competenze, trasferisci il ponte che collega conoscenza e scelta; un elenco di nomi lascia quel lavoro al destinatario.
+
+## Formare un metodo utilizzabile fuori dal contesto d’origine
+
+Preserva significato, ragioni, capacità e possibilità di revisione. Sostituisci dipendenze private con conoscenza inclusa o fonti accessibili. Togliere percorsi e nomi non basta: il ricevente deve sapere cosa osservare, quale relazione cambia una decisione e come continuare. Mantieni le condizioni che rendono vera una lezione e distingui metodo proposto, capacità implementata, esercizio osservato e assimilazione. Gli esempi nuovi restano illustrativi. Rimuovi credenziali, stato degli account, contatti, cronologie e dettagli privati non necessari.
+
+## Costruire corpo, guida e primo uso
+
+Forma il corpo operativo nella profondità richiesta dal lavoro. La guida spiega come usarlo e adattarlo; gli esempi rendono riconoscibili casi differenti. Un avvio dichiarato autonomo deve includere il metodo necessario; un ingresso che rimanda a file deve raggiungere file effettivamente disponibili. Spiega le differenze fra chat, ambiente agentico e kernel esistente dove cambiano l’uso. Indica come conservare il sapere attraverso documenti o un testo da salvare. Le istruzioni non installano strumenti, memoria, account o scheduler.
+
+## Presentare la capacità senza perdere profondità
+
+La scheda rende immediati cosa fa, quando usarla e casi riconoscibili. Titolo e sottotitolo identificano l’oggetto e il contesto per chi non conosce il progetto. La pagina dedicata rende raggiungibili spiegazione del metodo, avvio, esempi e profondità concettuale pertinente. Chiarisci quale oggetto viene trasformato: una relazione meta forma o modifica metodi e competenze; una relazione autologica riguarda il proprio modo di operare. Composizione, automazione e autonomia non sono sinonimi di questi concetti.
+
+## Far continuare la stessa risorsa nelle sue proiezioni
+
+Assegna un’identità e una versione coerenti a corpo, guida, avvio e presentazione. Quando un pacchetto dichiara una revisione, costruiscilo dagli stessi contenuti e verifica quella corrispondenza; non attribuire a una versione file concorrenti diversi. Gli articoli e gli adattamenti derivano dalla capacità selezionata: la riduzione conserva tesi, stato e condizioni, la traduzione conserva significato. Preserva gli originali umani distinguendoli dalle proposte dell’assistente. Sorgente condivisa, anteprima, deploy, invio e uso da parte di altri sono effetti e osservazioni distinti, governati dal mandato e dai mezzi reali.
+
+## Una risorsa che insegna anche a formare risorse
+
+La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.
+
+La relazione autologica compare quando una difficoltà del destinatario corregge il metodo di formazione: se il prompt rinvia a una guida privata, non manca solo un link, manca conoscenza operativa nel ricevente. Quel riscontro cambia come il prossimo kit viene costruito. Il ritorno al metodo non implica distribuzione autonoma.
+
+## Apprendimento e continuità
+
+Un problema di comprensione cambia la scheda o la spiegazione; una lacuna d’uso cambia metodo, guida o attivazione; una divergenza fra sorgente e pacchetto cambia il meccanismo di costruzione. Correggi le proiezioni realmente dipendenti, preservando gli altri lavori.
+
+Conserva fonte, ragione e conseguenza che miglioreranno la prossima risorsa. Una prima realizzazione rende il metodo disponibile e documenta il proprio caso; una diversa adozione successiva può mostrarne limiti e capacità.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Formare risorse pubbliche dalle metacompetenze
+
+## Trasferire la capacità e derivarne la presentazione
+
+Raggiungi l'ingresso nativo e le guide, strumenti ed esempi che forniscono il suo saper fare. Un corpo può nominare correttamente una funzione mentre il metodo utilizzabile si trova altrove. Separa identità dei casi privati, configurazione dei nodi, credenziali e autorità locale dal sapere portabile. Neutralizza i primi conservando decisioni e meccanismi necessari al ricevente. Quando sono selezionate tutte le funzioni, una descrizione più ristretta non sostituisce sapere o mezzi mancanti.
+
+Rendi raggiungibile il contributo operativo di ogni funzione materiale nel metodo, nella guida o nello strumento fornito. Conserva perché un'osservazione cambia una scelta e cosa richiede adattamento. Distingui identità originale, identificatore di distribuzione e titolo funzionale. Inglese e italiano conservano meccanismi, condizioni e scelte causali, inclusi i casi articolati; pari conteggi di sezioni o parole non stabiliscono equivalenza.
+
+## Consegnare una risorsa autonoma
+
+Fornisci un ingresso che insegni il lavoro, una guida pertinente, casi svolti e un primo avvio utilizzabile. Con i file, collega l'ingresso al sapere e ai mezzi della cartella. In chat senza accesso ai file, porta il sapere operativo necessario nell'avvio fornito. Un collegamento privato relativo non trasporta quel sapere. Quando una funzione eseguibile fa parte del trasferimento, includi codice, ingressi, istruzioni, interpretazione degli errori e test significativi esistenti adattati al pubblico.
+
+Costruisci gli archivi da un'unica identità sorgente selezionata, preservando il lavoro concorrente. Confronta i membri consegnati con quella identità invece che con un checkout diverso. Il sito permette di comprendere funzione, quando usarla, esempi, metodo pratico e relazioni profonde. Una sintesi resta un ingresso alla risorsa completa.
+
+## Conservare il significato nella distribuzione
+
+Deriva l'articolo dalla risorsa effettiva e adattalo ai canali selezionati senza inventare un'altra tesi. Se una correzione cambia una capacità, riconcilia metodi, avvii, guide, pacchetti, pagine e articoli dipendenti. Una modifica estetica della scheda non richiede automaticamente di riscrivere un articolo coerente. Conserva identità della coda ed effetti compiuti. Registra ogni invio reale prima di passare al canale successivo, così un errore locale di registrazione non produce una pubblicazione duplicata.
+
+Il metodo di formazione impara dal proprio trasferimento. Se gli esempi sono stati generati da slogan di catalogo, correggi la fonte degli esempi consumata dal generatore. Se un corpo insegnava già una relazione ma è stato scavalcato, ricollega quel sapere nella scelta che l'ha escluso. Un riesame serve quando cambia il trasferimento effettivo; la sola diagnosi non completa la consegna selezionata.
+
+# Esempi — Trasformare una competenza interna in una risorsa pubblica
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Converte una competenza interna in un kit con guida e avvio.
+
+Un team vuole condividere come organizza una ricerca. La risorsa pubblica include il sapere necessario a scegliere e interpretare fonti, con esempi neutri; rimuove i percorsi e le priorità private. Il lettore può iniziare senza accedere all’archivio del team e comprende che cosa resta un esempio.
+
+## 2. Prepara scheda e pagina di una risorsa open source.
+
+La scheda rende chiaro il lavoro affidabile alla competenza, mentre la pagina spiega metodo, avvio e adattamento. La profondità meta viene collegata a un caso: il lavoro modifica il metodo che lo produce. La pagina non usa quel livello come una promessa generica di superiorità.
+
+## 3. Deriva un articolo e adattamenti social dalla stessa versione della risorsa.
+
+Dalla stessa versione del kit si prepara un articolo e poi adattamenti per più canali. Un testo breve conserva il contributo utile e collega la risorsa completa. Preparazione, approvazione e pubblicazione mantengono il proprio stato; la presenza dei file non prova che i post siano già stati inviati.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

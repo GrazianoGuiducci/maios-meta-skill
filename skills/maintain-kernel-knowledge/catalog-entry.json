@@ -1,0 +1,63 @@
+{
+  "id": "conoscenza-del-sistema-ai",
+  "name": "Maintain Kernel Knowledge",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "12",
+  "skill": "skills/maintain-kernel-knowledge/SKILL.md",
+  "guide": "skills/maintain-kernel-knowledge/README.md",
+  "starter": "skills/maintain-kernel-knowledge/START_CHAT_EN.txt",
+  "examples": "skills/maintain-kernel-knowledge/EXAMPLES.md",
+  "presentation": "skills/maintain-kernel-knowledge/presentation.json",
+  "package": "dist/maintain-kernel-knowledge-0.3.0.zip",
+  "it": {
+    "route": "/risorse/conoscenza-del-sistema-ai/",
+    "title": "Organizzare la conoscenza di un sistema AI",
+    "description": "Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare.",
+    "when": "Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo.",
+    "examples": [
+      "Raccoglie il significato delle capacità di un assistente.",
+      "Mantiene le ragioni delle scelte architetturali.",
+      "Fornisce fonti coerenti per guide, presentazioni e documenti di ricerca."
+    ]
+  },
+  "en": {
+    "route": "/resources/conoscenza-del-sistema-ai/",
+    "title": "Organize the knowledge of an AI system",
+    "description": "Preserve meaning, reasons and direction for the people who must understand and evolve the system.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become.",
+    "when": "When architecture, documentation, research and explanations are scattered or confused with operational status.",
+    "examples": [
+      "Preserve the meaning of an assistant's capabilities.",
+      "Keep the reasons behind architectural decisions.",
+      "Supply coherent sources for guides, presentations and research."
+    ]
+  },
+  "native_entry": "maintain-kernel-knowledge",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/maintain-kernel-knowledge/SKILL.md",
+      "guide": "skills/maintain-kernel-knowledge/README.md",
+      "starter": "skills/maintain-kernel-knowledge/START_CHAT_EN.txt",
+      "examples": "skills/maintain-kernel-knowledge/EXAMPLES.md",
+      "operating_guide": "skills/maintain-kernel-knowledge/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/maintain-kernel-knowledge/SKILL_IT.md",
+      "guide": "skills/maintain-kernel-knowledge/README_IT.md",
+      "starter": "skills/maintain-kernel-knowledge/AVVIO_CHAT_IT.txt",
+      "examples": "skills/maintain-kernel-knowledge/ESEMPI_IT.md",
+      "operating_guide": "skills/maintain-kernel-knowledge/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "maintain-kernel-knowledge"
+}

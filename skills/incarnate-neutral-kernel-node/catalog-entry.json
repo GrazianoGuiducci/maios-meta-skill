@@ -1,0 +1,69 @@
+{
+  "id": "avviare-nodo-ai",
+  "name": "Incarnate Neutral Kernel Node",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "20",
+  "skill": "skills/incarnate-neutral-kernel-node/SKILL.md",
+  "guide": "skills/incarnate-neutral-kernel-node/README.md",
+  "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
+  "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
+  "presentation": "skills/incarnate-neutral-kernel-node/presentation.json",
+  "package": "dist/incarnate-neutral-kernel-node-0.3.0.zip",
+  "it": {
+    "title": "Avviare un assistente AI con identità e continuità proprie",
+    "kind": "Metacompetenza di trasferimento",
+    "domain": "Builder e sistemi",
+    "does": "Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà.",
+    "when": "Quando trasferisci un kernel o una famiglia di competenze a un altro assistente, team o ambiente.",
+    "examples": [
+      "Avvia un assistente dedicato a un nuovo progetto.",
+      "Trasferisce un metodo tra chat e harness adattandone la persistenza.",
+      "Fa tornare un apprendimento utile senza copiare la memoria privata dell’altro nodo."
+    ],
+    "route": "/risorse/avviare-nodo-ai/",
+    "description": "Adatta capacità condivise al nuovo ricevente, lasciandogli progetto, stato e apprendimento locali."
+  },
+  "en": {
+    "title": "Start an AI assistant with its own identity and continuity",
+    "kind": "Transfer metacompetence",
+    "domain": "Builders and systems",
+    "does": "Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows.",
+    "when": "When transferring a kernel or a family of competences to another assistant, team or environment.",
+    "examples": [
+      "Start an assistant for a new project.",
+      "Transfer a method between chat and an agentic environment, adapting persistence.",
+      "Return useful learning without copying another node’s private memory."
+    ],
+    "route": "/resources/avviare-nodo-ai/",
+    "description": "Adapt shared capabilities to a new recipient while preserving its project, local state and learning."
+  },
+  "native_entry": "incarnate-neutral-kernel-node",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/incarnate-neutral-kernel-node/SKILL.md",
+      "guide": "skills/incarnate-neutral-kernel-node/README.md",
+      "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
+      "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
+      "operating_guide": "skills/incarnate-neutral-kernel-node/OPERATING_GUIDE.md",
+      "runtime_sources": [
+        "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
+        "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
+      ]
+    },
+    "it": {
+      "skill": "skills/incarnate-neutral-kernel-node/SKILL_IT.md",
+      "guide": "skills/incarnate-neutral-kernel-node/README_IT.md",
+      "starter": "skills/incarnate-neutral-kernel-node/AVVIO_CHAT_IT.txt",
+      "examples": "skills/incarnate-neutral-kernel-node/ESEMPI_IT.md",
+      "operating_guide": "skills/incarnate-neutral-kernel-node/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": [
+        "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
+        "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
+      ]
+    }
+  },
+  "skill_name": "incarnate-neutral-kernel-node"
+}

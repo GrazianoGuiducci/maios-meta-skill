@@ -1,0 +1,130 @@
+{
+  "it": {
+    "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
+    "subtitle": "Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati.",
+    "when": "Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale.",
+    "examples": [
+      "Ricostruisce una scelta poi modificata dal cliente.",
+      "Conserva un’azione eseguita anche dopo una correzione di direzione.",
+      "Passa un progetto a una nuova istanza con fonti, effetti e incognite riconoscibili."
+    ],
+    "intro": [
+      "Una decisione può cambiare senza cancellare ciò che è avvenuto prima. Questa competenza conserva il collegamento fra richiesta originale, interpretazione dell'AI, lavoro svolto e correzione successiva.",
+      "Il risultato è una ricostruzione utilizzabile da chi riprende il progetto. La storia dettagliata resta raggiungibile; il punto corrente contiene quanto serve per continuare."
+    ],
+    "method": [
+      {
+        "title": "Conservare la fonte prima del racconto",
+        "body": "Quando una richiesta, una decisione o una correzione cambia materialmente il lavoro, conserva le parole originali o un riferimento esatto alla fonte accessibile nel progetto. Mantieni incertezze e formulazioni insolite. Attribuisci separatamente il riassunto dell'assistente e le sue inferenze. Se la fonte manca, dichiara la parte non ricostruibile: non ricreare una citazione da un ricordo o da un riepilogo. Usa il luogo di continuità già presente quando è adeguato."
+      },
+      {
+        "title": "Seguire eventi ed effetti",
+        "body": "Registra soltanto gli eventi che cambiano la ricostruzione: una fonte, una proposta dell'AI, un'azione con riscontro, una correzione, un cambiamento delle autorizzazioni o un'incognita decisiva. Collega ogni effetto alla sua prova e al momento in cui è stato osservato. Un file preparato, un invio eseguito e una risposta ricevuta sono fatti diversi. Conserva l'azione effettiva anche se il piano che l'ha prodotta viene successivamente abbandonato."
+      },
+      {
+        "title": "Correggere senza riscrivere il passato",
+        "body": "Una correzione aggiunge una nuova relazione alla storia: indica quale interpretazione o istruzione supera e quale seguito cambia. Non cancellare l'evento precedente né attribuire al passato una comprensione emersa dopo. La revoca di un permesso cambia ciò che si può fare ora, non annulla un effetto già avvenuto. Una sintesi dell'AI non può creare un'autorizzazione: conserva il riferimento alla decisione della persona o del responsabile effettivo."
+      },
+      {
+        "title": "Rendere ricostruibile il punto corrente",
+        "body": "Mantieni un ingresso breve che colleghi fonti ancora valide, decisioni, effetti compiuti, incognite e prossimo movimento pertinente. Il registro dettagliato e l'ingresso corrente svolgono funzioni diverse. Se la complessità lo richiede, usa eventi identificati e riferimenti ai predecessori; altrimenti bastano note attribuite e datate. Nel riprendere verifica che i riferimenti utili siano raggiungibili e segnala contenuti mancanti o cambiati. Non dichiarare copertura di una fonte non letta."
+      },
+      {
+        "title": "Proteggere il lavoro e migliorare la ricostruzione",
+        "body": "Scrivi nel progetto selezionato e preserva contributi concorrenti; se la destinazione di persistenza manca, prepara una nota che la persona possa conservare. Non costruire un diario universale. Escludi segreti e dati privati estranei, senza conservarne impronte derivate. Quando una ripresa rivela una perdita causale, correggi il modo in cui la continuità viene mantenuta: la nuova nota deve permettere una ricostruzione migliore, non soltanto aggiungere volume."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "Questa competenza opera sulla continuità materiale: conserva che cosa è accaduto e da quali fonti deriva. Non decide da sola il significato di una scelta né lo stato complessivo del progetto.",
+        "La relazione diventa meta quando un errore di ricostruzione cambia il metodo con cui si conserva il lavoro. Per esempio, un riepilogo aveva mescolato proposta e approvazione: il seguito rende riconoscibili entrambe. Non è autonomia esecutiva, e un registro ben formato non dimostra memoria infallibile."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "Un passaggio di consegne mostra quali collegamenti sono sufficienti e quali mancano. Conserva la correzione nel metodo di continuità, lasciando le scelte di progetto al loro responsabile."
+    ],
+    "operating_guide": "skills/dnd-material-work-continuity/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Reconstruct an AI project's work and decisions",
+    "subtitle": "Preserve original requests, actions, corrections and the current position without rewriting what happened.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects.",
+    "when": "When requirements or direction change, or when the reasons behind a project's current state need to be reconstructed.",
+    "examples": [
+      "Reconstruct a decision later changed by a client.",
+      "Preserve an action already performed after a change of direction.",
+      "Hand over a project with identifiable sources, effects and unresolved questions."
+    ],
+    "intro": [
+      "A decision can change without erasing what happened before it. This competence preserves the connection between an original request, the AI's interpretation, completed work and a later correction.",
+      "The result is a usable reconstruction for whoever resumes the project. Detailed history stays reachable; the current entry contains what is needed to continue."
+    ],
+    "method": [
+      {
+        "title": "Preserve the source before the account",
+        "body": "When a request, decision or correction materially changes the work, retain the original wording or an exact reference accessible within the project. Keep uncertainty intact. Attribute the assistant's summary and inferences separately. If the source is missing, identify the reconstruction gap instead of recreating a quotation from memory."
+      },
+      {
+        "title": "Follow events and effects",
+        "body": "Record events that change reconstruction: a source, an AI proposal, an evidenced action, a correction, a change of authorization or a material unknown. Link effects to their evidence and observation time. A prepared file, a sent message and a received reply are different events. Preserve completed actions even when their original plan is abandoned."
+      },
+      {
+        "title": "Correct without rewriting the past",
+        "body": "A correction adds a new relation: identify the interpretation or instruction it supersedes and how continuation changes. Do not backdate a later understanding. Revoking permission changes what may happen now; it does not undo a completed effect. An AI summary cannot create authorization."
+      },
+      {
+        "title": "Make the current position reconstructable",
+        "body": "Keep a short entry linking still-valid sources, decisions, completed effects, unknowns and the relevant continuation. Detailed records and the current entry serve different purposes. Identified events and predecessor references help complex work; attributed, dated notes may suffice otherwise. At reentry, check relevant sources and disclose missing or changed coverage."
+      },
+      {
+        "title": "Protect the work and improve reconstruction",
+        "body": "Use the selected project's continuity surface and preserve concurrent contributions. If persistence is unavailable, return a note the person can retain. Avoid a universal diary and exclude secrets and unrelated private data. When reentry exposes a causal gap, improve the preservation method rather than merely adding more records."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "This competence works on material continuity: what happened and which sources support it. It does not independently decide the meaning of a choice or the overall state of a project.",
+        "A meta relation appears when a reconstruction failure changes the preservation method. For example, a summary confused a proposal with approval; the revised method keeps both identifiable. This is distinct from autonomous execution, and a well-formed record does not prove infallible memory."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "A handover reveals which links are sufficient and which are missing. Return the correction to the continuity method while leaving project decisions with their responsible owner."
+    ],
+    "operating_guide": "skills/dnd-material-work-continuity/OPERATING_GUIDE.md"
+  }
+}

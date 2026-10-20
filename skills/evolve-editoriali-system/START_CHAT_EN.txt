@@ -1,0 +1,83 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Comprendere e organizzare Editoriali
+
+## Object of the work
+
+Understand and organize the knowledge through which an editorial system produces and continues articles, guides, books, pages and other forms. Begin with selected work and actual materials: authorial intention, current content, sources, writing methods and corrections. Organization makes this knowledge reachable and usable when needed. Folder counts and output volume do not measure that capability.
+
+## Read editorial relations
+
+Identify where meaning originates, who knows the domain, which method forms the text and where the work's knowledge continues. Read decisive passages; a link map orients retrieval without replacing knowledge. Attribute the author's words separately from assistant interpretations. When a source changes the question, let genre, recipient or proposed method change too while preserving valid choices.
+
+Shared knowledge may concern headings, source fidelity or comprehensibility. A domain brings particular facts and conditions; an individual work retains thesis, structure, reasons and open contradictions. These functions can inhabit existing locations. Connect them where the relation serves work rather than creating a new container for every function.
+
+If articles repeatedly use titles understood only by the team, reach the heading method and its entry. Teach recognizable subject and object for new readers, with missing context in the subtitle. Repair the entry if the knowledge exists but is unread; deepen the method if the criterion is absent. Another error register alone resolves neither case.
+
+## Compose the needed knowledge
+
+Let domain, research, communication and value competences contribute when they change what the work should make understandable. Business contribution does not make every text promotional; scientific contribution retains its scope. The present object determines who leads. Content uncertainty returns to its knowledgeable source; expression difficulty returns to editorial method.
+
+Recognize duplication by function. A historical quotation and a general method criterion may both serve a purpose. Competing copies of mutable state may diverge: establish which location owns it and how others reach it. Change active copies and entries while preserving useful history and concurrent contributions.
+
+## Continue an individual work
+
+When a book or article needs knowledge of its own, use a work guide connecting intent, sources, decision reasons, dependent parts and open questions. It can become the location of a situated competence for that work. A thesis change reaches dependent sections; local correction does not require rewriting everything. Preserve what enables continuation and reach detail when needed.
+
+Form the smallest organization making these relations usable. Make the corrected loss or opened possibility understandable. Do not require a total inventory or diagnosis of every future genre before beginning. A useful result may be organizational design, a guide or implementation; carry selected changes into their actual objects.
+
+## Let organization evolve too
+
+Keep meaning, method and consequence connected during work. When a rule causes unnecessary reconstruction, recover its reason, preserve its useful relation and reform its exhausted structure. If a new domain exposes an overly narrow common criterion, change the criterion while retaining domain-specific knowledge locally.
+
+The meta relation concerns organization of editorial capabilities. An autological relation appears when this competence recognizes loss caused by its own organizing: channel classification may hide a shared source, prompting revision of that criterion and preservation of its reason. The return changes later method without creating another controller or ritual review of all texts.
+
+## Use and continuity in the recipient
+
+Use actual means. A chat can work with supplied materials; a file-enabled environment can connect sources and maintain guides. Ask only for missing context that changes the work, and proceed when a useful result is possible. Keep reasons, decisive sources, acquired differences and continuation in the project's actual location. Without persistence, return a reusable reentry note.
+
+Instructions can change the method used, without changing model weights or alone establishing stable learning. Distinguish available knowledge, actual use and later observed behavior. Accounts, tools and authority to publish, send, install or distribute depend on the real mandate and environment.
+
+## Nature and provenance
+
+A MAIOS public adaptation of evolve-editoriali-system. It preserves general organizational relations learned through work; examples and explanations are editorial elaborations. Producing and publishing individual content remain separate work.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Comprendere e organizzare Editoriali
+
+## Organize the knowledge that makes editorial work possible
+
+Understand where editorial knowledge forms, how it becomes reachable, what it composes with and where it continues when changed. These questions explain the function of existing locations without prescribing new modules. Domain facts, writing method, business purpose and distribution can change each other's questions while retaining their owners. Business participation does not turn every object into marketing.
+
+Use real works and operator corrections to understand the organization without letting one work's lifecycle define the entire system. A method description, artifact change, local result, publication and later use establish different things. Absence of a familiar name does not exclude equivalent functions. When a rule, register or guide appears duplicated, distinguish shared method, case genealogy and specific projection. If several locations own the same mutable fact, find the owner and the entry that can keep reading stale knowledge. Simplify the actual duplicated decision instead of deleting documents for textual resemblance.
+
+Design relationships between meaning, topology and method together: who knows, who uses or changes a relation, where learning continues and which condition reforms the choice. Add articulation when it makes a decision understandable; reconnect it when separation hides the mechanism. A proposal explains the understood relation, expected behavior, affected incarnations and consequential unknowns. An audit can illuminate that proposal without replacing the selected work.
+
+An individual article or book may need a continuing competence carrying sources, choices, contradictions and relations among parts. An existing work guide can already supply it. A correction then follows dependent parts while preserving valid and concurrent work; reusable knowledge returns to the appropriate editorial faculty. This is a possible supported function, not a requirement to produce a work merely to organize the system. Apply organizational changes only on the selected surfaces and preserve source authority and actual publication effects.
+
+# Comprendere e organizzare Editoriali — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Stop repeating the same correction across titles
+
+An editorial team repeatedly corrects titles missing their subject. Distinguish the editorial criterion from individual revised titles, reach the guide actually used and integrate the relation between content identity and subtitle. In the next article, observe whether that criterion changes the first proposal.
+
+## Continue a book after changing chat
+
+The work guide preserves thesis, sources, decision reasons and chapter relations. The new chat reads what the selected chapter needs and can return to sources. A correction to the central argument reaches dependent parts while valid work remains.
+
+## Use scientific knowledge in a commercial page
+
+The domain retains the source’s truth and scope; editorial competence makes the actual offer understandable. Organization connects the contributions without turning a research possibility into an already available feature.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

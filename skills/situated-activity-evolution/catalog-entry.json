@@ -1,0 +1,63 @@
+{
+  "id": "migliorare-attivita-ricorrenti",
+  "name": "Situated Activity Evolution",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "11",
+  "skill": "skills/situated-activity-evolution/SKILL.md",
+  "guide": "skills/situated-activity-evolution/README.md",
+  "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
+  "examples": "skills/situated-activity-evolution/EXAMPLES.md",
+  "presentation": "skills/situated-activity-evolution/presentation.json",
+  "package": "dist/situated-activity-evolution-0.3.0.zip",
+  "it": {
+    "route": "/risorse/migliorare-attivita-ricorrenti/",
+    "title": "Far migliorare un’attività AI attraverso i suoi risultati",
+    "description": "Rivede fonti, metodo e collegamenti di un’attività ricorrente quando il lavoro ne cambia l’utilità.",
+    "kind": "Competenza",
+    "domain": "Metodo e apprendimento",
+    "does": "Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente.",
+    "when": "Quando un’automazione continua a girare ma il contesto, le fonti o il lavoro che deve servire sono cambiati.",
+    "examples": [
+      "Un radar smette di segnalare ogni volta la stessa notizia.",
+      "Una ricerca collega i risultati alla competenza che deve usarli.",
+      "Due attività sovrapposte possono essere integrate con un mandato chiaro."
+    ]
+  },
+  "en": {
+    "route": "/resources/migliorare-attivita-ricorrenti/",
+    "title": "Improve a recurring AI activity through its results",
+    "description": "Revisit sources, method and connections when the activity's usefulness changes.",
+    "kind": "Competence",
+    "domain": "Method and learning",
+    "does": "Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation.",
+    "when": "When an automation keeps running but its context, sources or intended recipient have changed.",
+    "examples": [
+      "Help a research radar stop rediscovering the same news.",
+      "Connect research results to the competence that needs them.",
+      "Understand whether overlapping activities should be combined."
+    ]
+  },
+  "native_entry": "situated-activity-evolution",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/situated-activity-evolution/SKILL.md",
+      "guide": "skills/situated-activity-evolution/README.md",
+      "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
+      "examples": "skills/situated-activity-evolution/EXAMPLES.md",
+      "operating_guide": "skills/situated-activity-evolution/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/situated-activity-evolution/SKILL_IT.md",
+      "guide": "skills/situated-activity-evolution/README_IT.md",
+      "starter": "skills/situated-activity-evolution/AVVIO_CHAT_IT.txt",
+      "examples": "skills/situated-activity-evolution/ESEMPI_IT.md",
+      "operating_guide": "skills/situated-activity-evolution/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "situated-activity-evolution"
+}

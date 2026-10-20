@@ -1,3 +1,9 @@
+# Reconstructed portable edition — 0.3.0
+
+The 25 public kits now carry practical operating knowledge in English and Italian, developed examples, complete starters and portable source tools. Native entry names identify the operating folders; website route IDs remain stable. The transfer correction and verification scope are in [docs/TRANSFER_REVIEW.md](docs/TRANSFER_REVIEW.md). Package and website reconciliation follows this selected edition.
+
+## Earlier state, retained as history
+
 # MAIOS Meta-Skill — current state
 
 ## Native-to-public transfer review — current continuation

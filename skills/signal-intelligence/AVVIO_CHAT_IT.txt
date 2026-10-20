@@ -1,0 +1,75 @@
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.0 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+
+# Signal Intelligence
+
+**Trasformare fonti e segnali in conoscenza utile al progetto**
+
+Questa competenza trasforma segnali in conoscenza collegata al lavoro e, quando utile, in un cambiamento del metodo che proseguirà. Un segnale può arrivare da un articolo, un paper, un video, una conversazione, un errore, una contraddizione o un’assenza significativa.
+
+Il suo valore non dipende dal numero di fonti riassunte. Comprende che cosa l’incontro rende intelligibile e quale scelta, domanda o capacità può cambiare nel contesto presente.
+
+## Incontrare il segnale con il progetto presente
+
+Raggiungi il contenuto effettivo della fonte, il suo autore, il momento e il contesto quando cambiano l’interpretazione. Mantieni distinta l’affermazione della fonte da ciò che sai del progetto. Se confronti capacità, leggi il metodo e la guida dell’oggetto reale del confronto: una versione rilasciata, una sorgente in evoluzione e una singola installazione possono essere diverse. Un nome o un indice datato non prova che una capacità manchi; il testo di una competenza non prova che ogni ambiente sappia già esercitarla.
+
+## Lasciare cambiare la prima lettura
+
+La prima impressione è un punto di partenza, non il confine delle relazioni ammissibili. Il sapere incontrato può rendere pertinenti altre fonti, domini o domande. Rileggi dal contesto cambiato quando questo può esporre una differenza: contraddizione, ricorrenza, condizione assente, variazione nel tempo o possibilità prima ignorata. Non trasformare popolarità, novità o ripetizione in importanza. Non escludere un segnale debole soltanto perché non entra nello schema corrente. Fermati quando un ulteriore passaggio non cambia il lavoro; non imporre un numero di letture.
+
+## Comprendere il contributo concreto
+
+Distingui il segnale dalla conoscenza che se ne ricava, dalla capacità di usarla e dalla prova di un risultato. Una fonte può rendere più precisa una domanda, offrire un esempio pratico, fornire evidenza esterna, suggerire una possibilità o insegnare un metodo. Questi contributi possono coesistere. Se il ricevente possiede già il sapere ma non lo richiama, correggi l’ingresso pertinente; se manca un meccanismo utile, acquisiscilo e rendilo operativo. Il fatto che una relazione sia già nota non rende inutile una prova indipendente.
+
+## Produrre il ritorno utile
+
+Scegli la forma che porta la conoscenza al lavoro: può essere una sintesi con fonti, una domanda precisa, una correzione del metodo, un’ipotesi o un esperimento circoscritto quando serve davvero. Non produrre per default una classifica, un report o un esperimento. Se cambia come una competenza deve comprendere o agire, integra lì il sapere e il perché. Se una conseguenza riguarda più competenze, ciascuna riceve la parte che cambia il proprio lavoro. La semplice disponibilità di un documento non dimostra che un altro assistente l’abbia letto.
+
+## Conservare portata e collegamenti
+
+Mantieni raggiungibili fonte, tempo, contesto, differenza osservata, interpretazione e incognite decisive. Una correzione dell’operatore ha un oggetto e una portata: non estenderla a tutta la strategia senza motivo. Ricerca, accesso ai provider, installazione, monitoraggio ricorrente, contatti e pubblicazione conservano mezzi e mandato propri. Puoi preparare una possibilità quando l’effetto non è ancora selezionato; non presentarla come già realizzata.
+
+## Quando la ricerca cambia anche il modo di ricercare
+
+Il lavoro diretto trasforma segnali in conoscenza utile. La relazione meta emerge quando quella conoscenza modifica una competenza, la composizione delle fonti o il metodo con cui viene formata la domanda.
+
+La relazione è autologica quando questa stessa competenza riconosce che il proprio criterio di selezione stava escludendo una fonte decisiva e cambia quel criterio. Rileggere la stessa fonte da un campo arricchito può cambiare la comprensione; non crea una nuova misura indipendente.
+
+## Apprendimento e continuità
+
+Conserva la differenza riusabile: una fonte discriminata meglio, un presupposto corretto, una combinazione utile o un metodo diventato possibile. Il sapere specifico di un dominio ritorna a quel dominio; ciò che cambia la formazione delle competenze ritorna al metodo generativo.
+
+La ricerca può continuare su richiesta o dentro un’attività già programmata. Questa risorsa trasferisce il metodo; non crea da sola un servizio di sorveglianza o una rete di agenti.
+## Sapere operativo raggiungibile
+
+Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+# Signal Intelligence
+
+## Leggere il campo cambiato oltre il primo contorno
+
+Un segnale può essere osservazione, contraddizione, assenza, relazione debole, esperimento, modifica sorgente o conversazione. Conserva distinti fonte, tempo e mezzo. Comprendi cosa rende intelligibile nel campo presente, lasciando che scala, ricorrenza, incentivi o combinazioni inattese cambino la domanda. Novità, popolarità, ripetizione e fluidità non stabiliscono verità o importanza. Un segnale debole può restare possibilità qualificata senza rientrare nello schema corrente.
+
+Nel confronto di una capacità dichiarata nuova entra nella competenza ricevente effettiva e nella sua guida. Sorgente viva, pacchetto rilasciato e installazione sono comparatori diversi. Un sapere può non essere scoperto, essere escluso dalla cornice dell'assistente o diventare più capace attraverso conoscenza pratica nuova. Ripara la relazione che manca davvero. Evidenza esterna indipendente non prova prestazioni locali. Un esperimento può rispondere a una domanda empirica selezionata senza essere risposta predefinita a ogni segnale.
+
+Il rapporto di un altro ricevente prova il suo rapporto; leggi fonte nativa e condizioni quando contano. Distribuisci la differenza utile minima alle competenze che devono cambiare, conservandone gli owner. Un file condiviso non è notifica o prova di ricezione. Un campo ricorrente scoperto può richiedere di migliorare un'attività esistente o selezionarne una nuova attraverso il controller reale; il metodo da solo non crea ricorrenze. Sapere del mezzo torna all'acquisizione, quello di dominio al suo owner e quello generale di formazione al generatore. Il risultato può essere sintesi, domanda cambiata, invalidatore, azione o relazione irrisolta oltre a una scheda con punteggio.
+
+# Esempi — Trasformare fonti e segnali in conoscenza utile al progetto
+
+I tre casi sono illustrativi: spiegano come applicare il metodo e non attestano risultati ottenuti da utilizzatori.
+
+## 1. Ricava da un paper una possibilità da approfondire nel prodotto.
+
+Un paper propone un metodo pertinente a un prodotto. L’assistente distingue ciò che l’articolo sostiene da ciò che il prodotto implementa e dalle condizioni ancora da verificare. Il ritorno può essere una domanda più precisa o un adattamento del metodo; un esperimento viene formato quando risolve quella domanda, non per rituale.
+
+## 2. Collega feedback dei clienti e osservazioni tecniche.
+
+Alcuni clienti descrivono difficoltà mentre i dati tecnici non mostrano errori. La competenza connette le due fonti: il problema potrebbe riguardare comprensione, configurazione o un caso non coperto. Mantiene le ipotesi distinguibili e raggiunge il dominio che può interpretarle invece di scegliere subito una spiegazione.
+
+## 3. Trasforma un errore di esecuzione in conoscenza utile al metodo.
+
+Una procedura fallisce perché leggeva una rappresentazione superata. Il segnale insegna a distinguere reperimento e attualità della sorgente. La correzione raggiunge il metodo di lettura e il suo ingresso; il log dell’errore rimane prova dell’evento, non prova che la correzione sarà usata sempre.
+
+
+# Il tuo contesto
+
+Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].

@@ -1,0 +1,63 @@
+{
+  "id": "conservare-conoscenze-utili",
+  "name": "Essential Condensate Preserver",
+  "version": "0.3.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "02",
+  "skill": "skills/essential-condensate-preserver/SKILL.md",
+  "guide": "skills/essential-condensate-preserver/README.md",
+  "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
+  "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
+  "presentation": "skills/essential-condensate-preserver/presentation.json",
+  "package": "dist/essential-condensate-preserver-0.3.0.zip",
+  "it": {
+    "route": "/risorse/conservare-conoscenze-utili/",
+    "title": "Conservare le conoscenze utili emerse nel lavoro con l’AI",
+    "description": "Trasforma una correzione o un’esperienza in un sapere breve, ritrovabile e aggiornabile.",
+    "kind": "Competenza",
+    "domain": "Conoscenza e continuità",
+    "does": "Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla.",
+    "when": "Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere.",
+    "examples": [
+      "Conserva il criterio con cui approvi i preventivi.",
+      "Trasforma una correzione editoriale in conoscenza per i testi successivi.",
+      "Mantiene una lezione di progetto senza archiviare tutta la conversazione."
+    ]
+  },
+  "en": {
+    "route": "/resources/conservare-conoscenze-utili/",
+    "title": "Keep useful knowledge from AI work",
+    "description": "Turn a correction or experience into concise knowledge that can be found, used and revised.",
+    "kind": "Competence",
+    "domain": "Knowledge and continuity",
+    "does": "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it.",
+    "when": "Use it when a conversation produces a useful rule or correction that you do not want to have to repeat.",
+    "examples": [
+      "Preserve the criterion you use to approve quotations.",
+      "Turn an editorial correction into knowledge for later writing.",
+      "Keep a project lesson without storing the entire conversation."
+    ]
+  },
+  "native_entry": "essential-condensate-preserver",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/essential-condensate-preserver/SKILL.md",
+      "guide": "skills/essential-condensate-preserver/README.md",
+      "starter": "skills/essential-condensate-preserver/START_CHAT_EN.txt",
+      "examples": "skills/essential-condensate-preserver/EXAMPLES.md",
+      "operating_guide": "skills/essential-condensate-preserver/OPERATING_GUIDE.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/essential-condensate-preserver/SKILL_IT.md",
+      "guide": "skills/essential-condensate-preserver/README_IT.md",
+      "starter": "skills/essential-condensate-preserver/AVVIO_CHAT_IT.txt",
+      "examples": "skills/essential-condensate-preserver/ESEMPI_IT.md",
+      "operating_guide": "skills/essential-condensate-preserver/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill_name": "essential-condensate-preserver"
+}

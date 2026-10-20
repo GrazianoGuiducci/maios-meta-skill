@@ -1,0 +1,79 @@
+Apply this competence to the work described below. The public edition 0.3.0 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+
+# Maintain Causal Task Continuity
+
+Preserve what makes work resumable: intent, reasons for decisions, acquired knowledge, actions performed and open questions. A short current entry reaches a sufficiently detailed guide so an assistant can continue through the method already formed.
+
+Use this competence when a project crosses sessions, collaborators, interruptions or context reduction. Preserve the depth that would be costly or impossible to reconstruct.
+
+## Preserve reasons and capabilities alongside facts
+
+Identify the selected work, who determines its direction and where its knowledge belongs. Reach the existing guide before creating another container. Keep each decision's reason: its supporting source or condition, what it makes possible and what could change it. Distinguish the person's words, observations, inferences and proposals. An open possibility can remain reachable without becoming the next assignment. When several competences must continue, preserve each contribution, why it remains pertinent and the method from which it resumes. A list of names does not transfer that capability.
+
+## A reentry point that reaches working knowledge
+
+Keep a short current entry with objective, object, decisive sources, attained result, completed effects and next movement. Link it to the guide explaining intent, method, corrections and substantive passages. These are functions that can live in one document. Use the project's actual knowledge location, accessible to the recipient. If a page is regenerated, preserve reasons in a source regeneration will not overwrite. In a chat-only environment, return a complete note the person can save and bring to the next session.
+
+## Accumulate knowledge during work
+
+Integrate a new reason, discovery or correction where it changes the method, while its relation is still understandable. Link to evidence instead of duplicating every log. When direction changes, update the continuation and retain attribution to the previous situation; do not imply that present understanding existed earlier. Preserve a decisive relation at risk before expanding sources further. Routine actions need no diary: retain what will change a decision or reentry.
+
+## Resume from the present
+
+Compose the current request with the current entry, guide and necessary sources. Make the resumed relation recognizable. Recheck facts that may have changed when verification is pertinent and accessible. A previous summary is recovery evidence, not authority over the present. Preserve still-valid decisions and resolve differences through sources and the person's new signal. Do not repeat an effect already performed because a summary is incomplete. Keep authorization, results and proposals distinguishable. Proceed when the relation is sufficient, without habitually reloading the whole history.
+
+## When continuity improves its own method
+
+The direct work is continuing a project. A meta relation becomes pertinent when experience changes how a competence organizes the knowledge needed for later work.
+
+The relation becomes autological when continuity considers its own preservation method. A summary may have retained an outcome but lost a decision's reason; the method can learn to make that reason reachable. This does not imply unlimited memory or autonomous execution.
+
+## Learning and continuation
+
+When reentry requires a person to explain an already acquired relation again, determine whether the knowledge, its connection or use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.
+
+A written guide makes knowledge available. A later, different case can show whether it is actually resumed. Retain what changes continuation; this learning concerns accessible documents and instructions, not changes to model weights.
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+# Maintain Causal Task Continuity
+
+## Accumulate the context that makes continuation possible
+
+Use two connected functions. A short current margin identifies the present intention, selected object and owner, acquired understanding and its cause, current and next movement, and what could supersede them. An accumulated guide teaches the reasons, sources, decisions, corrections, relationships, performed work and open possibilities needed to continue. Existing files can carry both functions; the distinction does not prescribe separate documents.
+
+Integrate a meaningful difference where its meaning belongs while the work occurs. Repeated commands do not need another page; a new reason changing the next choice does. If a correction supersedes a direction, make the current direction clear and preserve the earlier event with its temporal attribution. Preserve a possibility without converting it into an assigned task. A short entry must not replace or delete the detailed knowledge it reaches.
+
+## Recover an instance without inventing its history
+
+Read the available chronology together with the actual artifacts and changed bodies when the selected task is to recover the whole instance. Recover substantial questions and possibilities as well as completed actions. Keep exact operator wording when its formulation carries meaning. Attribute assistant proposals separately; mark genuine gaps rather than fabricating a continuous story. A dirty repository can contain other instances' work. Reconstruct the selected contribution through actual changed paths, artifact identities and observed effects.
+
+## Reenter through the guide
+
+Reach the present and the sections explaining its reasons; follow a source when one relation is missing. State briefly what relation is being resumed when this helps the person orient. Let a new instruction correct the continuation without deleting acquired knowledge. At completion, close the active work margin while retaining the competence's usable knowledge. If later reentry still requires the person to reconstruct a missing relation, deepen this guide and the method that forms guides.
+
+# Maintain Causal Task Continuity — application examples
+
+[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+## Resume app development with decisions and open problems intact
+
+Before interrupting development, the guide preserves why a component was chosen, what has been checked and which defect remains open. At reentry, the assistant reads those connections and checks the current files before continuing. Observe whether it resumes the same problem without repeating completed changes.
+
+## Continue research after changing chat
+
+The research distinguishes its question, sources actually read, a hypothesis and an unresolved contradiction. The new chat receives the guide and accessible references. A new article may change the question while retaining attribution to what the research supported earlier.
+
+## Hand a business proposal to another assistant
+
+The next assistant receives the proposal’s purpose, recipient, reasons for its terms and choices still open. The guide distinguishes a prepared draft from a sent proposal. The collaborator can complete the draft; receiving context does not automatically authorize contacting the client.
+
+## Apply the method to your case
+
+Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+
+
+# Your context
+
+Intention, sources, existing work, available means and entrusted actions: [add here].

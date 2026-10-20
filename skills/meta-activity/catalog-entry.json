@@ -1,8 +1,8 @@
 {
   "id": "meta-activity",
   "name": "Meta-Activity",
-  "version": "0.2.0",
-  "state": "early_public_edition",
+  "version": "0.3.0",
+  "state": "public_edition",
   "instruction_language": "en",
   "skill": "skills/meta-activity/SKILL.md",
   "guide": "skills/meta-activity/README.md",
@@ -10,7 +10,7 @@
   "examples": "skills/meta-activity/EXAMPLES.md",
   "presentation": "skills/meta-activity/presentation.json",
   "contexts": "skills/meta-activity/contexts.json",
-  "package": "dist/meta-activity-0.2.0.zip",
+  "package": "dist/meta-activity-0.3.0.zip",
   "it": {
     "route": "/risorse/meta-activity/",
     "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -51,14 +51,19 @@
       "skill": "skills/meta-activity/SKILL.md",
       "guide": "skills/meta-activity/README.md",
       "starter": "skills/meta-activity/START_CHAT_EN.txt",
-      "examples": "skills/meta-activity/EXAMPLES.md"
+      "examples": "skills/meta-activity/EXAMPLES.md",
+      "operating_guide": "skills/meta-activity/OPERATING_GUIDE.md",
+      "runtime_sources": []
     },
     "it": {
       "skill": "skills/meta-activity/SKILL_IT.md",
       "guide": "skills/meta-activity/README_IT.md",
       "starter": "skills/meta-activity/AVVIO_CHAT_IT.txt",
-      "examples": "skills/meta-activity/ESEMPI_IT.md"
+      "examples": "skills/meta-activity/ESEMPI_IT.md",
+      "operating_guide": "skills/meta-activity/GUIDA_OPERATIVA_IT.md",
+      "runtime_sources": []
     }
   },
-  "contexts_en": "skills/meta-activity/contexts_en.json"
+  "contexts_en": "skills/meta-activity/contexts_en.json",
+  "skill_name": "meta-activity"
 }

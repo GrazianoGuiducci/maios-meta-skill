@@ -1,0 +1,138 @@
+{
+  "it": {
+    "title": "Ricavare conoscenze condivisibili dal lavoro interno",
+    "subtitle": "Riconosce quale metodo, osservazione o capacità conserva valore anche fuori dal contesto che l’ha prodotta.",
+    "kind": "Competenza",
+    "domain": "Prodotti e comunicazione",
+    "does": "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito.",
+    "when": "Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico.",
+    "examples": [
+      "Ricava una guida da un problema risolto nel lavoro.",
+      "Separa il metodo utile dai dati di un cliente.",
+      "Presenta un’osservazione di ricerca mantenendo chiaro ciò che resta una domanda."
+    ],
+    "intro": [
+      "Un progetto produce conoscenza mentre affronta problemi, riconosce limiti e cambia metodo. Una parte può essere utile anche a persone che non conoscono quel progetto.",
+      "La competenza individua questa relazione condivisibile e conserva le condizioni che le danno significato. La forma pubblica può essere un'osservazione, una guida, una capacità utilizzabile o una domanda di ricerca."
+    ],
+    "method": [
+      {
+        "title": "Riconoscere il contributo riutilizzabile",
+        "body": "Parti da un evento o da una conoscenza precisa: che cosa è accaduto, che cosa avete compreso e quale scelta successiva potrebbe cambiare. Cerca il valore per un destinatario esterno: comprensione, uso, verifica, collaborazione o ricerca. Una modifica tecnica o un nome nuovo non sono da soli una ragione per pubblicare. Anche una domanda aperta può avere valore se il suo stato è chiaro e la fonte permette di capirla."
+      },
+      {
+        "title": "Generalizzare conservando le condizioni",
+        "body": "Separa il meccanismo utile dai dettagli propri della persona, del cliente o dell'ambiente. Chiediti se la relazione conserva significato in un altro caso e quali condizioni devono accompagnarla. Rimuovere nomi non basta: un problema dipendente da uno specifico accesso o da una configurazione non diventa universale. Usa un esempio neutro quando consente di comprendere lo stesso meccanismo, dichiarandolo illustrativo."
+      },
+      {
+        "title": "Mantenere lo stato della conoscenza",
+        "body": "Distingui osservazione, interpretazione, implementazione, esercizio, ripetizione e validazione esterna. Non trasformare un buon caso interno in una prestazione generale, né ridurre una capacità effettivamente sostenuta a una vaga ipotesi. Mantieni visibili incertezza, portata e revisione necessarie a capire la proposta. Un dettaglio che cambia il significato della conclusione appartiene alla spiegazione principale, non a una nota nascosta."
+      },
+      {
+        "title": "Scegliere la forma e il destinatario",
+        "body": "La relazione determina la forma: un errore chiarito può diventare una nota pratica; un metodo ripetibile una guida; una capacità un kit; un'incognita una domanda di ricerca. Raggiungi l'owner pubblico già previsto per quella capacità, se esiste, prima di produrre derivazioni alternative. Chi possiede il prodotto conserva la verità della capacità; chi scrive ne forma l'espressione. Più destinatari possono ricevere contributi distinti dallo stesso evento."
+      },
+      {
+        "title": "Trasferire una capacità utilizzabile",
+        "body": "Se stai formando una risorsa operativa, includi il sapere necessario a svolgere e continuare il lavoro: fonti accessibili, decisioni, condizioni d'uso, strumenti richiesti e apprendimento. Un principio descritto bene non equivale a una capacità ricevuta. Sostituisci dipendenze private con ingressi reali e fai conoscere al destinatario il contributo del metodo. Per un semplice articolo non imporre installazioni o un pacchetto non necessario."
+      },
+      {
+        "title": "Conservare il ritorno della condivisione",
+        "body": "Prima di un effetto pubblico proteggi dati personali, credenziali, relazioni private e strategie non selezionate per la condivisione. La preparazione non invia né pubblica. Dopo un effetto autorizzato, usa incomprensioni, critiche e casi d'uso per capire che cosa deve cambiare: prodotto, testo, distribuzione o metodo di generalizzazione. Se la perdita nasce da come hai scelto ciò che era condivisibile, correggi questa stessa competenza."
+      }
+    ],
+    "depth": {
+      "title": "La relazione meta e il metodo che può imparare",
+      "paragraphs": [
+        "Il lavoro ha un livello meta quando prende come oggetto ciò che un'altra attività ha imparato e ne forma una capacità trasferibile. Non ogni osservazione richiede un nuovo prodotto.",
+        "La relazione autologica emerge quando il ritorno pubblico cambia il modo stesso di riconoscere e generalizzare l'apprendimento. Una guida che ha perso una condizione decisiva insegna a questa competenza cosa preservare nella prossima. Questo ritorno è distinto dalla pubblicazione automatica."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti."
+      },
+      {
+        "title": "Con o senza un kernel",
+        "body": "Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile."
+      }
+    ],
+    "learning": [
+      "Mantieni attribuiti evento, interpretazione iniziale e comprensione successiva. Una risposta del pubblico può migliorare la risorsa senza riscrivere ciò che il primo caso aveva effettivamente mostrato."
+    ],
+    "operating_guide": "skills/public-learning-promotion/GUIDA_OPERATIVA_IT.md"
+  },
+  "en": {
+    "title": "Turn internal project learning into shareable knowledge",
+    "subtitle": "Identify the method, observation or capability that remains useful outside its original context.",
+    "kind": "Competence",
+    "domain": "Products and communication",
+    "does": "Separates reusable learning from private details and chooses a public form faithful to what was observed or built.",
+    "when": "When project experience could become a guide, method, resource or public case.",
+    "examples": [
+      "Turn a solved problem into a useful guide.",
+      "Separate a transferable method from client data.",
+      "Present a research observation while preserving the open question."
+    ],
+    "intro": [
+      "A project produces knowledge while solving problems, recognizing limits and changing its method. Some of that knowledge can help people who know nothing about the original project.",
+      "This competence identifies the shareable relation and preserves the conditions that make it meaningful. Its public form may be an observation, a guide, a usable capability or a research question."
+    ],
+    "method": [
+      {
+        "title": "Identify reusable learning",
+        "body": "Start from a specific event or understanding: what happened, what was learned and which later choice could change. Identify value for an external recipient, such as understanding, use, inspection, collaboration or research. A code change or a new label is not by itself a reason to publish. An open question can still be useful when its status is clear."
+      },
+      {
+        "title": "Generalize while keeping the conditions",
+        "body": "Separate the useful mechanism from person-, client- and environment-specific details. Determine what survives in another case and which conditions must travel with it. Removing names is insufficient: a configuration-dependent problem does not become universal. A neutral example can explain the mechanism if it is identified as illustrative."
+      },
+      {
+        "title": "Preserve knowledge status",
+        "body": "Distinguish observation, interpretation, implementation, exercise, repetition and external validation. A successful internal case is not a general performance result. Conversely, describe an established capability at the level its evidence supports. Keep decision-relevant uncertainty and scope visible in the main explanation."
+      },
+      {
+        "title": "Choose the form and recipient",
+        "body": "Let the relation determine the form: a clarified failure can become a practical note, a repeatable method a guide, a capability a kit and an unresolved relation a research question. Use an existing public derivative when appropriate. Product truth and editorial expression remain distinct responsibilities; one event can inform several recipients."
+      },
+      {
+        "title": "Transfer usable capability",
+        "body": "When forming an operating resource, include the knowledge needed to perform and continue the work: accessible sources, decisions, conditions, tools and learning. A well-described principle is not the same as a received capability. Replace private dependencies with usable entries. A simple article does not need an unnecessary installation or package."
+      },
+      {
+        "title": "Learn from sharing",
+        "body": "Protect personal data, credentials, private relationships and undisclosed strategy before a public effect. Preparation does not send or publish. After authorized sharing, use misunderstandings, critique and use cases to identify what should change: product, writing, distribution or the generalization method itself."
+      }
+    ],
+    "depth": {
+      "title": "The meta relation and a method that can learn",
+      "paragraphs": [
+        "The work has a meta relation when it takes another activity's learning as its object and forms a transferable capability. Not every observation requires a new product.",
+        "An autological relation appears when public consequences change how learning is recognized and generalized. A guide that omitted a decisive condition teaches this competence what to preserve next time. That learning is distinct from automated publishing."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+      },
+      {
+        "title": "In an agent environment",
+        "body": "Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution."
+      },
+      {
+        "title": "With or without a kernel",
+        "body": "With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note."
+      }
+    ],
+    "learning": [
+      "Keep the event, initial interpretation and later understanding attributable. Public feedback can improve the resource without rewriting what the original case actually showed."
+    ],
+    "operating_guide": "skills/public-learning-promotion/OPERATING_GUIDE.md"
+  }
+}

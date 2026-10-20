@@ -2,7 +2,7 @@
 name: meta-activity
 description: "Creates complex scheduled activities that can understand what to do and evolve."
 metadata:
-  version: 0.2.0
+  version: 0.3.0
   language: en
 ---
 
@@ -89,3 +89,6 @@ If the authoritative location cannot be updated, return the precise delta and it
 ## Human entry points
 
 The [use guide](README.md) explains first use. The [complete chat starter](START_CHAT_EN.txt) includes this method. [Examples](EXAMPLES.md) illustrate contexts and services. An optional [activity continuity outline](ACTIVITY_CONTINUITY.md) adapts to existing project locations. [Italian translation](SKILL_IT.md).
+## Reachable operating knowledge
+
+Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
