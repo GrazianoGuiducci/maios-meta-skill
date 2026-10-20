@@ -1,4 +1,5 @@
 """Render the English primary README and its Italian counterpart."""
+import re
 
 
 def render(root, resources):
@@ -105,8 +106,9 @@ La coerenza dei file verifica l’identità della distribuzione. L’uso in un a
 
 Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
 '''
-        version=resources[0]['version']
-        text=text.replace('all25','all 25').replace('tutte le25','tutte le 25').replace('**0.3.1**',f'**{version}**')
+        text=text.replace('all25','all 25').replace('tutte le25','tutte le 25')
+        text=text.replace('The current public edition is **0.3.1**, with English public methods and Italian counterparts.', 'Each resource declares its own edition in the catalogue, with English operating knowledge and Italian counterparts.')
+        text=text.replace('L’edizione pubblica corrente è **0.3.1**: inglese principale, con corrispondenti file italiani.', 'Ogni risorsa dichiara nel catalogo la propria edizione: inglese principale, con sapere operativo italiano corrispondente.')
         if en:
             text=text.replace('[Use guide](docs/USE.md)', '[Install in Codex](docs/INSTALL.md) · [Use guide](docs/USE.md)', 1)
             text=text.replace('## Choose a resource', '''## Install in Codex
@@ -127,4 +129,10 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
 
 ## Scegliere una risorsa''', 1)
             text=text.replace('I nomi originali delle competenze restano uguali nelle due lingue.', 'I nomi tecnici delle skill restano uguali nelle due lingue; il catalogo conserva le intestazioni sorgenti originali.')
+        text=re.sub(r'\b25\b',str(len(resources)),text)
+        prepared=sum(resource.get('state')=='prepared_edition' for resource in resources)
+        if prepared:
+            note=(f'This branch prepares {prepared} additional resources for review. Each new kit declares its prepared state; website publication and receiving use retain their own status.' if en else f'Questo ramo prepara {prepared} risorse aggiuntive per revisione. Ogni nuovo kit dichiara il proprio stato di preparazione; pubblicazione del sito e uso nel ricevente mantengono il proprio stato.')
+            marker='## Start with your work' if en else '## Scegliere una risorsa'
+            text=text.replace(marker,note+'\n\n'+marker,1)
         (root/('README.md' if en else 'README_IT.md')).write_text(text,encoding='utf-8',newline='\n')

@@ -1,0 +1,67 @@
+{
+  "id": "dal-concetto-ai-media",
+  "name": "Concept-to-Media Formation",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "32",
+  "native_entry": "concept-to-media-formation",
+  "skill_name": "concept-to-media-formation",
+  "source_title": "Concept-to-Media Formation",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/concept-to-media-formation/SKILL.md",
+      "guide": "skills/concept-to-media-formation/README.md",
+      "starter": "skills/concept-to-media-formation/START_CHAT_EN.txt",
+      "examples": "skills/concept-to-media-formation/EXAMPLES.md",
+      "operating_guide": "skills/concept-to-media-formation/OPERATING_GUIDE.md",
+      "installation": "skills/concept-to-media-formation/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/concept-to-media-formation/SKILL_IT.md",
+      "guide": "skills/concept-to-media-formation/README_IT.md",
+      "starter": "skills/concept-to-media-formation/AVVIO_CHAT_IT.txt",
+      "examples": "skills/concept-to-media-formation/ESEMPI_IT.md",
+      "operating_guide": "skills/concept-to-media-formation/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/concept-to-media-formation/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/concept-to-media-formation/SKILL.md",
+  "guide": "skills/concept-to-media-formation/README.md",
+  "starter": "skills/concept-to-media-formation/START_CHAT_EN.txt",
+  "examples": "skills/concept-to-media-formation/EXAMPLES.md",
+  "presentation": "skills/concept-to-media-formation/presentation.json",
+  "package": "dist/concept-to-media-formation-0.1.0.zip",
+  "en": {
+    "title": "Turn a concept into a coherent family of media",
+    "kind": "Editorial metacompetence",
+    "domain": "Communication and media",
+    "does": "Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning.",
+    "when": "When an idea is understood but has not yet become a clear image, explanation, presentation or participatory artifact.",
+    "examples": [
+      "Show how a correction changes a later way of working.",
+      "Develop an infographic and presentation from the same concept.",
+      "Form a real question sequence rather than depicting a static questionnaire."
+    ],
+    "route": "/resources/dal-concetto-ai-media/",
+    "description": "Connect meaning, a recognizable case and perceptual form across images, presentations and other expressions."
+  },
+  "it": {
+    "title": "Da un concetto a una famiglia coerente di media",
+    "kind": "Metacompetenza editoriale",
+    "domain": "Comunicazione e media",
+    "does": "Forma il concetto e la relazione editoriale comuni da cui produrre media diversi conservando il significato sorgente.",
+    "when": "Quando un’idea è compresa ma non ha ancora una forma chiara come immagine, spiegazione, presentazione o artefatto partecipativo.",
+    "examples": [
+      "Mostra come una correzione cambia il lavoro successivo.",
+      "Forma infografica e presentazione dal medesimo concetto.",
+      "Progetta una sequenza di domande reale oltre all’immagine di un questionario."
+    ],
+    "route": "/risorse/dal-concetto-ai-media/",
+    "description": "Collega significato, caso riconoscibile e forma percettiva fra immagini, presentazioni e altre espressioni."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "sviluppare-possibilita-progetto",
+  "name": "Situated Possibility Formation",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "26",
+  "native_entry": "situated-possibility-formation",
+  "skill_name": "situated-possibility-formation",
+  "source_title": "Situated Possibility Formation",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/situated-possibility-formation/SKILL.md",
+      "guide": "skills/situated-possibility-formation/README.md",
+      "starter": "skills/situated-possibility-formation/START_CHAT_EN.txt",
+      "examples": "skills/situated-possibility-formation/EXAMPLES.md",
+      "operating_guide": "skills/situated-possibility-formation/OPERATING_GUIDE.md",
+      "installation": "skills/situated-possibility-formation/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/situated-possibility-formation/SKILL_IT.md",
+      "guide": "skills/situated-possibility-formation/README_IT.md",
+      "starter": "skills/situated-possibility-formation/AVVIO_CHAT_IT.txt",
+      "examples": "skills/situated-possibility-formation/ESEMPI_IT.md",
+      "operating_guide": "skills/situated-possibility-formation/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/situated-possibility-formation/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/situated-possibility-formation/SKILL.md",
+  "guide": "skills/situated-possibility-formation/README.md",
+  "starter": "skills/situated-possibility-formation/START_CHAT_EN.txt",
+  "examples": "skills/situated-possibility-formation/EXAMPLES.md",
+  "presentation": "skills/situated-possibility-formation/presentation.json",
+  "package": "dist/situated-possibility-formation-0.1.0.zip",
+  "en": {
+    "title": "Discover and develop possibilities for a project",
+    "kind": "Generative competence",
+    "domain": "Possibilities and projects",
+    "does": "Makes useful possibilities intelligible and develops the questions, relations or means that can turn them into work.",
+    "when": "When an idea is incomplete, the first solution feels narrow, or new knowledge can change what the project could become.",
+    "examples": [
+      "Discover a service from knowledge already held by a team.",
+      "Develop a product idea through sketches and progressive decisions.",
+      "Recognize a useful collaboration in an unexpected source."
+    ],
+    "route": "/resources/sviluppare-possibilita-progetto/",
+    "description": "Let intent, existing capabilities and new understanding shape a useful next movement."
+  },
+  "it": {
+    "title": "Scoprire e sviluppare possibilità per un progetto",
+    "kind": "Competenza generativa",
+    "domain": "Possibilità e progetti",
+    "does": "Rende comprensibili possibilità utili e sviluppa domande, relazioni o mezzi che possono trasformarle in lavoro.",
+    "when": "Quando un’idea è incompleta, la prima soluzione appare stretta o un nuovo sapere può cambiare ciò che il progetto può diventare.",
+    "examples": [
+      "Riconosce un servizio dal sapere già presente in un gruppo.",
+      "Sviluppa un’idea di prodotto con schizzi e decisioni progressive.",
+      "Coglie una collaborazione utile in una fonte inattesa."
+    ],
+    "route": "/risorse/sviluppare-possibilita-progetto/",
+    "description": "Intento, capacità presenti e nuova comprensione formano il prossimo movimento utile."
+  }
+}

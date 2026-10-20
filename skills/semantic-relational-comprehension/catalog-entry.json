@@ -1,0 +1,67 @@
+{
+  "id": "comprensione-relazionale",
+  "name": "Semantic Relational Comprehension",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "27",
+  "native_entry": "semantic-relational-comprehension",
+  "skill_name": "semantic-relational-comprehension",
+  "source_title": "Semantic Relational Comprehension",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/semantic-relational-comprehension/SKILL.md",
+      "guide": "skills/semantic-relational-comprehension/README.md",
+      "starter": "skills/semantic-relational-comprehension/START_CHAT_EN.txt",
+      "examples": "skills/semantic-relational-comprehension/EXAMPLES.md",
+      "operating_guide": "skills/semantic-relational-comprehension/OPERATING_GUIDE.md",
+      "installation": "skills/semantic-relational-comprehension/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/semantic-relational-comprehension/SKILL_IT.md",
+      "guide": "skills/semantic-relational-comprehension/README_IT.md",
+      "starter": "skills/semantic-relational-comprehension/AVVIO_CHAT_IT.txt",
+      "examples": "skills/semantic-relational-comprehension/ESEMPI_IT.md",
+      "operating_guide": "skills/semantic-relational-comprehension/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/semantic-relational-comprehension/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/semantic-relational-comprehension/SKILL.md",
+  "guide": "skills/semantic-relational-comprehension/README.md",
+  "starter": "skills/semantic-relational-comprehension/START_CHAT_EN.txt",
+  "examples": "skills/semantic-relational-comprehension/EXAMPLES.md",
+  "presentation": "skills/semantic-relational-comprehension/presentation.json",
+  "package": "dist/semantic-relational-comprehension-0.1.0.zip",
+  "en": {
+    "title": "Understand a method through the relations that make it work",
+    "kind": "Comprehension competence",
+    "domain": "Knowledge and methods",
+    "does": "Understands the actual object behind representations and uses its reasons to reform questions, comparisons and methods.",
+    "when": "When following instructions is insufficient to understand why they apply, or several descriptions appear consistent while their conditions differ.",
+    "examples": [
+      "Adapt a procedure when its original conditions change.",
+      "Compare observations made at different times without merging them into a false present.",
+      "Recognize an existing function behind a different name."
+    ],
+    "route": "/resources/comprensione-relazionale/",
+    "description": "Recover sources, reasons and conditions, then adapt the method without losing its meaning."
+  },
+  "it": {
+    "title": "Comprendere un metodo attraverso le relazioni che lo fanno operare",
+    "kind": "Competenza di comprensione",
+    "domain": "Conoscenza e metodi",
+    "does": "Comprende l’oggetto reale dietro le rappresentazioni e ne usa le ragioni per riformare domande, confronti e metodi.",
+    "when": "Quando seguire istruzioni non basta a comprendere perché si applicano, oppure descrizioni coerenti appartengono a condizioni diverse.",
+    "examples": [
+      "Adatta una procedura quando cambiano le condizioni originali.",
+      "Confronta osservazioni di tempi diversi senza fonderle in un falso presente.",
+      "Riconosce una funzione già esistente dietro un nome diverso."
+    ],
+    "route": "/risorse/comprensione-relazionale/",
+    "description": "Recupera fonti, ragioni e condizioni e adatta il metodo conservandone il significato."
+  }
+}

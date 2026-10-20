@@ -1,0 +1,67 @@
+{
+  "id": "fedelta-autoriale",
+  "name": "Authorial Source Discrimination",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "31",
+  "native_entry": "authorial-source-discrimination",
+  "skill_name": "authorial-source-discrimination",
+  "source_title": "Authorial Source Discrimination",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/authorial-source-discrimination/SKILL.md",
+      "guide": "skills/authorial-source-discrimination/README.md",
+      "starter": "skills/authorial-source-discrimination/START_CHAT_EN.txt",
+      "examples": "skills/authorial-source-discrimination/EXAMPLES.md",
+      "operating_guide": "skills/authorial-source-discrimination/OPERATING_GUIDE.md",
+      "installation": "skills/authorial-source-discrimination/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/authorial-source-discrimination/SKILL_IT.md",
+      "guide": "skills/authorial-source-discrimination/README_IT.md",
+      "starter": "skills/authorial-source-discrimination/AVVIO_CHAT_IT.txt",
+      "examples": "skills/authorial-source-discrimination/ESEMPI_IT.md",
+      "operating_guide": "skills/authorial-source-discrimination/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/authorial-source-discrimination/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/authorial-source-discrimination/SKILL.md",
+  "guide": "skills/authorial-source-discrimination/README.md",
+  "starter": "skills/authorial-source-discrimination/START_CHAT_EN.txt",
+  "examples": "skills/authorial-source-discrimination/EXAMPLES.md",
+  "presentation": "skills/authorial-source-discrimination/presentation.json",
+  "package": "dist/authorial-source-discrimination-0.1.0.zip",
+  "en": {
+    "title": "Preserve the author's thought through AI revisions",
+    "kind": "Editorial competence",
+    "domain": "Writing and authorship",
+    "does": "Recognizes what carries an author's meaning and preserves it while adapting only what the selected artifact and receiving situation require.",
+    "when": "When a revision sounds polished but no longer expresses the author's thought, or an assistant must write from actual examples of someone's work.",
+    "examples": [
+      "Keep an open question open through a revision.",
+      "Adapt a text to a shorter format without replacing its argument.",
+      "Separate original prose, quoted material and accepted AI drafts."
+    ],
+    "route": "/resources/fedelta-autoriale/",
+    "description": "Distinguish authorial preservation, necessary adaptation and normalization introduced by the model."
+  },
+  "it": {
+    "title": "Preservare il pensiero dell’autore nelle revisioni AI",
+    "kind": "Competenza editoriale",
+    "domain": "Scrittura e autorialità",
+    "does": "Riconosce ciò che porta il significato dell’autore e lo conserva adattando quanto richiedono l’artefatto e la situazione ricevente selezionati.",
+    "when": "Quando una revisione è scorrevole ma non esprime più il pensiero dell’autore, oppure serve scrivere da esempi reali del suo lavoro.",
+    "examples": [
+      "Conserva una domanda aperta attraverso la revisione.",
+      "Adatta un testo breve senza sostituirne l’argomento.",
+      "Distingue prosa originale, citazioni e bozze AI accettate."
+    ],
+    "route": "/risorse/fedelta-autoriale/",
+    "description": "Distingue conservazione autoriale, adattamento necessario e normalizzazione introdotta dal modello."
+  }
+}

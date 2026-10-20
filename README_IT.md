@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**25 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**33 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -16,7 +16,9 @@ Scegli una risorsa e copia o allega tutto AVVIO_CHAT_IT.txt alla tua AI. Aggiung
 
 Scarica il kit e copia l'intera cartella canonica in `.agents/skills/` del progetto, oppure seleziona i kit con `python tools/install_skills.py`. La [guida d'installazione](docs/INSTALL_IT.md) spiega percorsi, cartelle esistenti, discovery, primo uso e aggiornamenti. L'installer richiede una destinazione esplicita e non sovrascrive skill esistenti.
 
-La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
+La directory `skills/` contiene i 33 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
+
+Questo ramo prepara 8 risorse aggiuntive per revisione. Ogni nuovo kit dichiara il proprio stato di preparazione; pubblicazione del sito e uso nel ricevente mantengono il proprio stato.
 
 ## Scegliere una risorsa
 
@@ -49,16 +51,24 @@ La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza u
 | [Proto Movimento](skills/proto-movimento/README_IT.md) | Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma. | Competenza di formazione del kernel |
 | [KA — Kernel Assiomatico](skills/operate-ka/README_IT.md) | Contrasta bias cognitivi, filtri, presupposti e giudizi con cui i modelli linguistici (LLM) restringono il lavoro. Mantiene aperte le possibilità: intento, fonti, fatti e situazione reale formano il metodo, senza ridurre il progetto a ciò che l’AI conosce o presume. | Kernel semantico fondativo |
 | [Operate FDLA](skills/operate-fdla/README_IT.md) | Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato. Usa ciò che resta valido e ciò che emerge dalle conseguenze per correggere il lavoro mentre prende forma. | Funzione di correzione nel kernel |
+| [D-ND Learn From Demonstration](skills/dnd-learn-from-demonstration/README_IT.md) | Comprende le decisioni dietro un esempio e porta l’apprendimento sostenuto dalle fonti nella competenza o implementazione che deve operare diversamente. | Competenza di apprendimento |
+| [Situated Possibility Formation](skills/situated-possibility-formation/README_IT.md) | Rende comprensibili possibilità utili e sviluppa domande, relazioni o mezzi che possono trasformarle in lavoro. | Competenza generativa |
+| [Semantic Relational Comprehension](skills/semantic-relational-comprehension/README_IT.md) | Comprende l’oggetto reale dietro le rappresentazioni e ne usa le ragioni per riformare domande, confronti e metodi. | Competenza di comprensione |
+| [Cognitive Delegation Manager](skills/cognitive-delegation-manager/README_IT.md) | Collega contributi complementari attraverso intento, fonti accessibili, responsabilità concorrenti e ritorno significativo nel progetto. | Competenza di coordinamento |
+| [Transfer Kernel Potential](skills/transfer-kernel-potential/README_IT.md) | Comprende ciò che deve continuare da una capacità sorgente e ne forma un’incarnazione utilizzabile autonomamente attraverso i mezzi del ricevente. | Metacompetenza di trasferimento |
+| [Resource Need Formation](skills/resource-need-formation/README_IT.md) | Forma il bisogno di risorse da ciò che deve diventare possibile, prima di scegliere fornitore, strumento finanziario o altro portatore. | Competenza business |
+| [Authorial Source Discrimination](skills/authorial-source-discrimination/README_IT.md) | Riconosce ciò che porta il significato dell’autore e lo conserva adattando quanto richiedono l’artefatto e la situazione ricevente selezionati. | Competenza editoriale |
+| [Concept-to-Media Formation](skills/concept-to-media-formation/README_IT.md) | Forma il concetto e la relazione editoriale comuni da cui produrre media diversi conservando il significato sorgente. | Metacompetenza editoriale |
 
 ## Comporre le capacità
 
 Puoi insegnare un lavoro collegando formazione delle competenze, esempi e conservazione del sapere; sviluppare possibilità collegando metodo, ricerca e attività; continuare un progetto conservando ragioni ed eventi; coordinare contributi fra assistenti attraverso fonti e continuità. Sono possibilità da comporre nel contesto, non pipeline obbligatorie.
 
-Con un kernel esistente integra il contributo nelle competenze e guide già utili. Senza kernel applica direttamente il metodo. Non occorre caricare tutte le 25 risorse per ogni incarico. Strumenti, persistenza, account e risvegli dipendono dall’ambiente reale; il testo non li configura.
+Con un kernel esistente integra il contributo nelle competenze e guide già utili. Senza kernel applica direttamente il metodo. Non occorre caricare tutte le 33 risorse per ogni incarico. Strumenti, persistenza, account e risvegli dipendono dall’ambiente reale; il testo non li configura.
 
 ## Edizioni e apprendimento
 
-L’edizione pubblica corrente è **0.3.2**: inglese principale, con corrispondenti file italiani. [Catalogo](catalog.json) e [manifest](dist/manifest.json) collegano file, lingue, versioni e pacchetti. Gli avvii includono sapere operativo, casi articolati e sorgenti degli strumenti runtime forniti. Le vecchie edizioni conservano il proprio stato storico.
+Ogni risorsa dichiara nel catalogo la propria edizione: inglese principale, con sapere operativo italiano corrispondente. [Catalogo](catalog.json) e [manifest](dist/manifest.json) collegano file, lingue, versioni e pacchetti. Gli avvii includono sapere operativo, casi articolati e sorgenti degli strumenti runtime forniti. Le vecchie edizioni conservano il proprio stato storico.
 
 La coerenza dei file verifica l’identità della distribuzione. L’uso in un altro assistente e l’assimilazione di una correzione si osservano nel lavoro successivo. Un riscontro utile conserva caso, differenza e ragione, anche quando l’esito resta invariato.
 

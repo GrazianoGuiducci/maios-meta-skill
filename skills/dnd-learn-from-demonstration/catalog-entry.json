@@ -1,0 +1,67 @@
+{
+  "id": "apprendere-da-dimostrazioni",
+  "name": "D-ND Learn From Demonstration",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "25",
+  "native_entry": "dnd-learn-from-demonstration",
+  "skill_name": "dnd-learn-from-demonstration",
+  "source_title": "D-ND Learn From Demonstration",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/dnd-learn-from-demonstration/SKILL.md",
+      "guide": "skills/dnd-learn-from-demonstration/README.md",
+      "starter": "skills/dnd-learn-from-demonstration/START_CHAT_EN.txt",
+      "examples": "skills/dnd-learn-from-demonstration/EXAMPLES.md",
+      "operating_guide": "skills/dnd-learn-from-demonstration/OPERATING_GUIDE.md",
+      "installation": "skills/dnd-learn-from-demonstration/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/dnd-learn-from-demonstration/SKILL_IT.md",
+      "guide": "skills/dnd-learn-from-demonstration/README_IT.md",
+      "starter": "skills/dnd-learn-from-demonstration/AVVIO_CHAT_IT.txt",
+      "examples": "skills/dnd-learn-from-demonstration/ESEMPI_IT.md",
+      "operating_guide": "skills/dnd-learn-from-demonstration/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/dnd-learn-from-demonstration/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/dnd-learn-from-demonstration/SKILL.md",
+  "guide": "skills/dnd-learn-from-demonstration/README.md",
+  "starter": "skills/dnd-learn-from-demonstration/START_CHAT_EN.txt",
+  "examples": "skills/dnd-learn-from-demonstration/EXAMPLES.md",
+  "presentation": "skills/dnd-learn-from-demonstration/presentation.json",
+  "package": "dist/dnd-learn-from-demonstration-0.1.0.zip",
+  "en": {
+    "title": "Teach your AI a way of working through examples",
+    "kind": "Learning competence",
+    "domain": "Knowledge and practice",
+    "does": "Understands the decisions behind an example and turns supported learning into the competence or implementation that should work differently.",
+    "when": "When good results depend on practical knowledge that you repeatedly have to explain to your assistant.",
+    "examples": [
+      "Teach how to prepare a proposal from annotated examples.",
+      "Learn interaction and recovery from a demonstrated workflow.",
+      "Turn a corrected support case into an adaptable method."
+    ],
+    "route": "/resources/apprendere-da-dimostrazioni/",
+    "description": "Turn demonstrations, explanations and corrections into a method the assistant can adapt and continue."
+  },
+  "it": {
+    "title": "Insegnare un lavoro alla propria AI attraverso gli esempi",
+    "kind": "Competenza di apprendimento",
+    "domain": "Conoscenza e pratica",
+    "does": "Comprende le decisioni dietro un esempio e porta l’apprendimento sostenuto dalle fonti nella competenza o implementazione che deve operare diversamente.",
+    "when": "Quando un buon risultato dipende da sapere pratico che devi spiegare ripetutamente al tuo assistente.",
+    "examples": [
+      "Insegna a preparare proposte attraverso esempi commentati.",
+      "Apprende interazione e recupero da un flusso dimostrato.",
+      "Trasforma un caso di assistenza corretto in un metodo adattabile."
+    ],
+    "route": "/risorse/apprendere-da-dimostrazioni/",
+    "description": "Trasforma dimostrazioni, spiegazioni e correzioni in un metodo che l’assistente può adattare e continuare."
+  }
+}

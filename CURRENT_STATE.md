@@ -1,3 +1,13 @@
+# Eight additional resources — prepared for review, 20 October 2026
+
+This branch prepares eight bilingual, independently usable resources: D-ND Learn From Demonstration, Situated Possibility Formation, Semantic Relational Comprehension, Cognitive Delegation Manager, Transfer Kernel Potential, Resource Need Formation, Authorial Source Discrimination and Concept-to-Media Formation.
+
+Each new kit starts at 0.1.0 and carries its method, practical operating knowledge, three developed illustrative cases, complete starters and installation guidance in English and Italian. The catalogue records `prepared_edition`. The 25 existing resource entries and downloadable package identities are preserved. Collection tooling now derives its size from the actual catalogue.
+
+[Prepared expansion](docs/EXPANSION_EIGHT_PREPARED.md) explains the useful work and its current delivery boundary. Website pages, assistant knowledge and editorial derivatives are prepared from the selected source revision; publication and independent receiving use keep their own evidence.
+
+## Previous delivery
+
 # KA and FDLA: purpose clarification — 0.3.3
 
 The operator’s 20 October review restores the reason these system functions were created: counter LLM contamination through biases, filters, assumptions and judgments, prevent imposed limits from closing a project’s possibilities, and correct drift while work forms. KA keeps the founding relation; FDLA makes causal correction operative within it. The native axioms are unchanged.

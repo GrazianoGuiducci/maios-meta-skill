@@ -1,10 +1,12 @@
 # MAIOS Meta-Skill
 
-**25 resources for working with AI, forming competences and evolving their methods.**
+**33 resources for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
 [Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Install in Codex](docs/INSTALL.md) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
+
+This branch prepares 8 additional resources for review. Each new kit declares its prepared state; website publication and receiving use retain their own status.
 
 ## Start with your work
 
@@ -18,7 +20,7 @@ Edition 0.3.0 restores developed examples and practical operating knowledge from
 
 Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
 
-The `skills/` directory contains the 25 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
+The `skills/` directory contains the 33 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
 ## Choose a resource
 
@@ -51,6 +53,14 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Proto Movimento](skills/proto-movimento/README.md) | Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it. | Kernel formation competence |
 | [KA — Kernel Assiomatico](skills/operate-ka/README.md) | Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes. | Foundational semantic kernel |
 | [Operate FDLA](skills/operate-fdla/README.md) | Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift: the progressive departure from intent, sources and meaning. Uses what remains valid and what emerges from consequences to correct work while it is taking shape. | In-flow kernel correction function |
+| [D-ND Learn From Demonstration](skills/dnd-learn-from-demonstration/README.md) | Understands the decisions behind an example and turns supported learning into the competence or implementation that should work differently. | Learning competence |
+| [Situated Possibility Formation](skills/situated-possibility-formation/README.md) | Makes useful possibilities intelligible and develops the questions, relations or means that can turn them into work. | Generative competence |
+| [Semantic Relational Comprehension](skills/semantic-relational-comprehension/README.md) | Understands the actual object behind representations and uses its reasons to reform questions, comparisons and methods. | Comprehension competence |
+| [Cognitive Delegation Manager](skills/cognitive-delegation-manager/README.md) | Connects complementary contributions through shared intent, accessible sources, concurrent ownership and a meaningful return to the project. | Coordination competence |
+| [Transfer Kernel Potential](skills/transfer-kernel-potential/README.md) | Understands what must continue from a source capability and forms an independently usable incarnation through the recipient's own means. | Transfer metacompetence |
+| [Resource Need Formation](skills/resource-need-formation/README.md) | Forms the resource need from what must become possible, before selecting a provider, financial instrument or other carrier. | Business competence |
+| [Authorial Source Discrimination](skills/authorial-source-discrimination/README.md) | Recognizes what carries an author's meaning and preserves it while adapting only what the selected artifact and receiving situation require. | Editorial competence |
+| [Concept-to-Media Formation](skills/concept-to-media-formation/README.md) | Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning. | Editorial metacompetence |
 
 ## Compose capabilities around a real task
 
@@ -63,13 +73,13 @@ These are possible compositions, not compulsory pipelines.
 
 ## Use in your environment
 
-With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 25 resources for one assignment.
+With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 33 resources for one assignment.
 
 Host tools, persistence, accounts and recurring activation depend on the actual environment. A method file does not configure them. The [use guide](docs/USE.md) explains how to connect the method to real means and preserve the knowledge needed for reentry.
 
 ## Editions and learning
 
-The current public edition is **0.3.2**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
+Each resource declares its own edition in the catalogue, with English operating knowledge and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
 
 File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
 

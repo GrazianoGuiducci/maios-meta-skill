@@ -15,7 +15,8 @@ def main():
         assert Path(item['skill']).parent.name==item['skill_name']
         resources[item['id']]=item
     ordered=sorted(resources.values(),key=lambda x:x['review_id'])
-    assert {x['review_id'] for x in ordered}=={f'{x:02}' for x in range(25)}
+    assert [x['review_id'] for x in ordered]==[f'{x:02}' for x in range(len(ordered))]
+    assert len({x['native_entry'] for x in ordered})==len(ordered)
     assert all(x['instruction_language']=='en' and set(x['languages'])=={'en','it'} for x in ordered)
     catalog.update(primary_language='en',available_languages=['en','it'],resources=ordered)
     path.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')

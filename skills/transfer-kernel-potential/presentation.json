@@ -1,0 +1,140 @@
+{
+  "en": {
+    "title": "Transfer a competence so it can work and continue elsewhere",
+    "subtitle": "Carry functions, reasons and operating knowledge into the recipient's actual environment.",
+    "kind": "Transfer metacompetence",
+    "domain": "Kernels and receiving environments",
+    "does": "Understands what must continue from a source capability and forms an independently usable incarnation through the recipient's own means.",
+    "when": "When a method, competence or kernel must move between projects, assistants, packages or public and internal contexts.",
+    "intro": [
+      "A capability travels through the knowledge and method that let a recipient understand, choose, act and learn. The source's file layout is one incarnation of that relation.",
+      "The recipient has its own knowledge, history, means and authority. Source and receiving competence participate in forming what should travel and how it can continue."
+    ],
+    "examples": [
+      "Turn an internal competence into an independently usable public kit.",
+      "Adapt a kernel to a different assistant without copying its host topology.",
+      "Carry a partial source improvement to the entry that actually consumes it."
+    ],
+    "method": [
+      {
+        "title": "Understand the selected source relation",
+        "body": "Recover the person's intended result, source capability, reasons, qualified formulations and current work. Read the actual methods and pertinent guides, including instruments that carry a function. Recover a truncated necessary passage before relying on it. Distinguish original words, assistant interpretation and operative derivative. A summary or source pin does not contain the whole kernel. Use the existing competence to form understanding rather than substituting the nearest deliverable for the selected work."
+      },
+      {
+        "title": "Let knowledge change the comparison",
+        "body": "Understand what the capability knows, makes possible, depends on, can revise and learns from. Reach function, context, principles and reasons when the current representation hides them. New intent or recipient can reveal potential in unchanged source bytes. A comparison that stabilizes under one question does not exhaust that potential. Success, acquired knowledge and possibility can form competence before a failure appears. Preserve determinations genuinely produced by the work alongside unresolved relations."
+      },
+      {
+        "title": "Meet the actual recipient",
+        "body": "Inspect the recipient's native functions: instructions, source access, competences, memory, tools, continuity, interaction and exact effects. A limited connector does not describe every capability of its host. Distinguish common source, shared continuity and separate situated receivers. Express what must become possible before prescribing one host's paths or commands. Preserve local knowledge and adapt through the means actually present; do not import the originating operator's credentials, state, private identity or authority."
+      },
+      {
+        "title": "Reconcile both directions without losing contributions",
+        "body": "Work from the source to find relations not yet carried and from the recipient to discover equivalent or deeper local methods. Compare meaning, reason, conditions and actual possible work, beyond names and text equality. A newer source can be partial; a recipient can hold useful adaptation absent upstream. A partial update changes the affected relation while preserving earlier pending work. Before reviving an old owner or declaring a gap, follow whether its knowledge already acts through a current native method."
+      },
+      {
+        "title": "Transfer the ability to continue",
+        "body": "Provide enough independently reachable method and operating knowledge for real use. Removing private names and paths alone does not transfer a competence. Replace private dependencies with included knowledge or accessible permitted sources. Where an executable instrument carries a selected function, provide its portable means and use knowledge or build the missing relation; describing a smaller textual scope does not satisfy a full-function delivery. Include how changed context, new knowledge, competence formation and consequences can improve later work."
+      },
+      {
+        "title": "Follow the actual consumers and return learning",
+        "body": "Trace where the relation is formed, selected, transformed and read: competence, guide, generator, package, entry, configured context or runtime as pertinent. An updated source file does not update each consumer. Correct a loss at the first responsible transformation and carry it to active dependents. Distinguish source coherence, packaging, installation, discovery, observed behavior and later assimilation when claiming them. Let recipient consequences refine its method and, where reusable, the source or transfer competence. Stop when further reading adds no material relation to the selected result."
+      }
+    ],
+    "depth": {
+      "title": "Transfer can evolve the capability that transfers",
+      "paragraphs": [
+        "The object is itself a competence or kernel, giving the work a meta relation. The recipient receives the ability to understand and continue, alongside the selected operating functions.",
+        "The relation is autological when a source or recipient reveals that this method's question or selection criterion narrowed what could travel. The reusable correction changes the transfer method and its entry; it does not require automatic mutation of every source."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your intent, relevant sources and available means. Save the useful continuation for the next session."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable, start from SKILL.md and keep operating knowledge and examples beside it. The host determines actual tools, memory and actions."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect the method to the competence and project guides that already own the work. Preserve useful local knowledge when considering an update."
+      }
+    ],
+    "learning": [
+      "Acquire knowledge into the distinctions that change perception, source selection and action, beyond a reading list.",
+      "Preserve why a receiving difference matters and which owner should continue it. Different incarnations can remain coherent without mandatory synchronization."
+    ],
+    "operating_guide": "skills/transfer-kernel-potential/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Trasferire una competenza perché possa operare e continuare altrove",
+    "subtitle": "Porta funzioni, ragioni e sapere operativo nell’ambiente reale del destinatario.",
+    "kind": "Metacompetenza di trasferimento",
+    "domain": "Kernel e ambienti riceventi",
+    "does": "Comprende ciò che deve continuare da una capacità sorgente e ne forma un’incarnazione utilizzabile autonomamente attraverso i mezzi del ricevente.",
+    "when": "Quando metodo, competenza o kernel devono passare fra progetti, assistenti, pacchetti o contesti pubblici e interni.",
+    "intro": [
+      "Una capacità viaggia attraverso sapere e metodo che permettono al destinatario di comprendere, scegliere, agire e apprendere. La struttura dei file sorgente è una sua incarnazione.",
+      "Il destinatario possiede sapere, storia, mezzi e autorità propri. Sorgente e competenza ricevente partecipano a formare ciò che deve viaggiare e come potrà continuare."
+    ],
+    "examples": [
+      "Forma un kit pubblico autonomo da una competenza interna.",
+      "Adatta un kernel a un altro assistente senza copiarne la topologia.",
+      "Porta un miglioramento parziale della fonte nell’ingresso che lo consuma davvero."
+    ],
+    "method": [
+      {
+        "title": "Comprendere la relazione sorgente selezionata",
+        "body": "Recupera risultato desiderato dalla persona, capacità sorgente, ragioni, formulazioni qualificate e lavoro corrente. Leggi metodi effettivi e guide pertinenti, compresi gli strumenti che portano una funzione. Recupera il passaggio necessario troncato prima di usarlo. Distingui parole originali, interpretazione dell’assistente e derivazione operativa. Una sintesi o revisione sorgente non contiene l’intero kernel. Lascia che la competenza esistente formi la comprensione, senza sostituire al lavoro scelto la consegna più vicina."
+      },
+      {
+        "title": "Lasciare che il sapere cambi il confronto",
+        "body": "Comprendi cosa la capacità sa, rende possibile, richiede, può rivedere e da cosa apprende. Raggiungi funzione, contesto, principi e ragioni quando la rappresentazione li nasconde. Un nuovo intento o destinatario può rivelare potenziale in byte sorgente invariati. Un confronto stabile sotto una domanda non esaurisce quel potenziale. Successo, sapere acquisito e possibilità possono formare competenza prima di un errore. Conserva le determinazioni realmente prodotte dal lavoro insieme alle relazioni aperte."
+      },
+      {
+        "title": "Incontrare il destinatario effettivo",
+        "body": "Osserva le funzioni native del ricevente: istruzioni, accesso alle fonti, competenze, memoria, strumenti, continuità, interazione ed effetti esatti. Il limite di un connector non descrive ogni capacità del suo host. Distingui sorgente comune, continuità condivisa e riceventi situati distinti. Esprimi ciò che deve diventare possibile prima di prescrivere percorsi o comandi di un ambiente. Conserva il sapere locale e adatta attraverso mezzi reali, senza importare credenziali, stato, identità privata o autorità dell’operatore sorgente."
+      },
+      {
+        "title": "Riconciliare nelle due direzioni conservando i contributi",
+        "body": "Dalla sorgente riconosci relazioni non ancora trasferite; dal destinatario scopri metodi locali equivalenti o più profondi. Confronta significato, ragione, condizioni e lavoro effettivamente possibile oltre a nomi e uguaglianza testuale. Una fonte più recente può essere parziale; un ricevente può portare adattamenti utili assenti a monte. Un aggiornamento parziale cambia la relazione coinvolta preservando il lavoro pendente. Prima di riattivare un vecchio owner o dichiarare una lacuna, segui se il sapere opera già attraverso un metodo nativo corrente."
+      },
+      {
+        "title": "Trasferire la capacità di continuare",
+        "body": "Fornisci metodo e sapere operativo autonomamente raggiungibili sufficienti all’uso. Eliminare nomi e percorsi privati non trasferisce da solo una competenza. Sostituisci dipendenze private con conoscenza inclusa o fonti consentite accessibili. Quando uno strumento eseguibile porta una funzione selezionata, fornisci mezzi portabili e sapere d’uso o costruisci il raccordo mancante: dichiarare una portata testuale ridotta non soddisfa una consegna integrale. Includi come cambi di contesto, nuovo sapere, formazione di competenze e conseguenze possono migliorare il lavoro successivo."
+      },
+      {
+        "title": "Seguire i consumatori effettivi e restituire l’apprendimento",
+        "body": "Raggiungi dove la relazione è formata, scelta, trasformata e letta: competenza, guida, generatore, pacchetto, ingresso, contesto configurato o runtime quando pertinenti. Un file sorgente aggiornato non aggiorna ogni consumer. Correggi la perdita nella prima trasformazione responsabile e porta la differenza alle proiezioni attive dipendenti. Distingui coerenza sorgente, pacchetto, installazione, discovery, comportamento e assimilazione nelle rispettive claim. Le conseguenze nel destinatario affinano il suo metodo e, quando riusabili, sorgente o competenza di trasferimento. Fermati quando un’altra lettura non aggiunge relazioni materiali al risultato selezionato."
+      }
+    ],
+    "depth": {
+      "title": "Il trasferimento può evolvere la capacità che trasferisce",
+      "paragraphs": [
+        "L’oggetto è una competenza o un kernel: il lavoro porta una relazione meta. Il destinatario riceve capacità di comprendere e continuare insieme alle funzioni operative selezionate.",
+        "La relazione è autologica quando sorgente o destinatario mostrano che domanda o criterio di selezione di questo metodo hanno ristretto ciò che poteva viaggiare. La correzione riusabile cambia metodo e ingresso, senza richiedere una modifica automatica di ogni sorgente."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi intento, fonti pertinenti e mezzi disponibili. Conserva la continuazione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa, parti da SKILL.md e conserva accanto sapere operativo ed esempi. Il ricevente determina strumenti, memoria e azioni effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega il metodo alle competenze e guide che già possiedono il lavoro. Conserva il sapere locale utile quando valuti un aggiornamento."
+      }
+    ],
+    "learning": [
+      "Acquisisci il sapere nelle distinzioni che cambiano percezione, scelta delle fonti e azione, oltre all’elenco di lettura.",
+      "Conserva perché una differenza ricevente conta e quale owner deve continuarla. Incarnazioni diverse possono restare coerenti senza sincronizzazione obbligatoria."
+    ],
+    "operating_guide": "skills/transfer-kernel-potential/GUIDA_OPERATIVA_IT.md"
+  }
+}

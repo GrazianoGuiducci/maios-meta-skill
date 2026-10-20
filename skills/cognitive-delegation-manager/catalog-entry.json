@@ -1,0 +1,67 @@
+{
+  "id": "collaborazione-assistenti-ai",
+  "name": "Cognitive Delegation Manager",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "28",
+  "native_entry": "cognitive-delegation-manager",
+  "skill_name": "cognitive-delegation-manager",
+  "source_title": "Cognitive Delegation Manager",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/cognitive-delegation-manager/SKILL.md",
+      "guide": "skills/cognitive-delegation-manager/README.md",
+      "starter": "skills/cognitive-delegation-manager/START_CHAT_EN.txt",
+      "examples": "skills/cognitive-delegation-manager/EXAMPLES.md",
+      "operating_guide": "skills/cognitive-delegation-manager/OPERATING_GUIDE.md",
+      "installation": "skills/cognitive-delegation-manager/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/cognitive-delegation-manager/SKILL_IT.md",
+      "guide": "skills/cognitive-delegation-manager/README_IT.md",
+      "starter": "skills/cognitive-delegation-manager/AVVIO_CHAT_IT.txt",
+      "examples": "skills/cognitive-delegation-manager/ESEMPI_IT.md",
+      "operating_guide": "skills/cognitive-delegation-manager/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/cognitive-delegation-manager/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/cognitive-delegation-manager/SKILL.md",
+  "guide": "skills/cognitive-delegation-manager/README.md",
+  "starter": "skills/cognitive-delegation-manager/START_CHAT_EN.txt",
+  "examples": "skills/cognitive-delegation-manager/EXAMPLES.md",
+  "presentation": "skills/cognitive-delegation-manager/presentation.json",
+  "package": "dist/cognitive-delegation-manager-0.1.0.zip",
+  "en": {
+    "title": "Make several AI assistants contribute to the same work",
+    "kind": "Coordination competence",
+    "domain": "Projects and collaboration",
+    "does": "Connects complementary contributions through shared intent, accessible sources, concurrent ownership and a meaningful return to the project.",
+    "when": "When a project uses more than one assistant or needs knowledge or tools available in another environment.",
+    "examples": [
+      "Combine research, implementation and review around the same project.",
+      "Continue work in another assistant with different available tools.",
+      "Integrate a contribution that changes the original question."
+    ],
+    "route": "/resources/collaborazione-assistenti-ai/",
+    "description": "Form useful assignments, transmit the context they need and integrate their results and learning."
+  },
+  "it": {
+    "title": "Far contribuire più assistenti AI allo stesso lavoro",
+    "kind": "Competenza di coordinamento",
+    "domain": "Progetti e collaborazione",
+    "does": "Collega contributi complementari attraverso intento, fonti accessibili, responsabilità concorrenti e ritorno significativo nel progetto.",
+    "when": "Quando un progetto usa più assistenti o richiede sapere o strumenti disponibili in un altro ambiente.",
+    "examples": [
+      "Compone ricerca, implementazione e revisione dello stesso progetto.",
+      "Fa continuare il lavoro in un assistente con strumenti diversi.",
+      "Integra un contributo che cambia la domanda originale."
+    ],
+    "route": "/risorse/collaborazione-assistenti-ai/",
+    "description": "Forma incarichi utili, trasmetti il contesto necessario e integra risultati e apprendimento."
+  }
+}

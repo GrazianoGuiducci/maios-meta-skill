@@ -1,0 +1,132 @@
+{
+  "en": {
+    "title": "Make several AI assistants contribute to the same work",
+    "subtitle": "Form useful assignments, transmit the context they need and integrate their results and learning.",
+    "kind": "Coordination competence",
+    "domain": "Projects and collaboration",
+    "does": "Connects complementary contributions through shared intent, accessible sources, concurrent ownership and a meaningful return to the project.",
+    "when": "When a project uses more than one assistant or needs knowledge or tools available in another environment.",
+    "intro": [
+      "The contribution is chosen for the useful difference it can make. A model's name does not establish a hierarchy, a capability or authority over the project.",
+      "The method works with actual delegation mechanisms or a person carrying a prepared handoff between chats. Shared memory and background execution are not presumed."
+    ],
+    "examples": [
+      "Combine research, implementation and review around the same project.",
+      "Continue work in another assistant with different available tools.",
+      "Integrate a contribution that changes the original question."
+    ],
+    "method": [
+      {
+        "title": "Form the useful contribution",
+        "body": "Understand current intent, domain truth, established reasons and the uncertainty or capability another recipient can change. Consider available knowledge and means together with the cost of transfer and integration. Keep work local when a handoff adds only reconstruction. Broad synthesis, missing expertise, code, critique and verification can each be useful without a fixed score or role hierarchy. Wider project organization remains with the owner of that work."
+      },
+      {
+        "title": "Give the recipient the meaning it needs",
+        "body": "Prepare the smallest context that preserves the field: intent, source identity, reachable guides, established decisions and their reasons, consequential unknowns, current work and useful expected result. Explain how a newly introduced competence or source should change perception or action, beyond its name. Include concurrent work and effect boundaries where they matter. Leave the recipient enough freedom to exercise its competence rather than converting every assignment into a command list."
+      },
+      {
+        "title": "Use a real receiving mechanism",
+        "body": "Resolve the recipient's actual access to files, tools and sources. Supply a permitted excerpt or manual handoff when a pointer cannot be opened, preserving provenance and limits. Preparation, dispatch, receipt and work performed remain distinct. An AI delegate identifies its own role and the human source of its mandate; a model's return cannot manufacture a new human instruction. Dispatch, agent activation and data transfer follow the current authorization and host rules."
+      },
+      {
+        "title": "Preserve independent and concurrent work",
+        "body": "Let useful independent contributions proceed with their actual owners. Resolve an overlap before changing the same object; preserve original bytes, revisions and pending contributions. A difference between returns may expose a different source, condition or question. Understand that relation before choosing a result. Repeated agreement from a shared premise is not independent confirmation. Do not impose one serial delegation or a standing coordination service when the work does not need it."
+      },
+      {
+        "title": "Reconcile the return and its consequences",
+        "body": "Read the actual returned sources and distinguish proposals, implementation, reported checks, verified behavior and unresolved claims. A contribution may change the artifact, question, method or other assignments. Attach evidence to the identity it exercised; repeat a check when a new difference makes it pertinent. Integrate project knowledge into its owner and reusable coordination learning into this competence. Make the useful return discoverable from the next recipient's real entry, rather than assuming a pushed file was received or used."
+      }
+    ],
+    "depth": {
+      "title": "Collaboration can improve how collaboration is formed",
+      "paragraphs": [
+        "Direct work composes and integrates contributions. A meta relation appears when a return changes a competence or the way assignments and sources are formed.",
+        "The relation is autological when this coordination method recognizes that its own handoff caused missing context, unnecessary serialization or a false inference of receipt. The learned difference changes the next collaboration."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your intent, relevant sources and available means. Save the useful continuation for the next session."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable, start from SKILL.md and keep operating knowledge and examples beside it. The host determines actual tools, memory and actions."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect the method to the competence and project guides that already own the work. Preserve useful local knowledge when considering an update."
+      }
+    ],
+    "learning": [
+      "Preserve which contribution changed the result and which missing relation created reconstruction or rework.",
+      "Let later non-identical collaboration refine context selection and return. More assistants or a written assignment alone do not establish complementary work."
+    ],
+    "operating_guide": "skills/cognitive-delegation-manager/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Far contribuire più assistenti AI allo stesso lavoro",
+    "subtitle": "Forma incarichi utili, trasmetti il contesto necessario e integra risultati e apprendimento.",
+    "kind": "Competenza di coordinamento",
+    "domain": "Progetti e collaborazione",
+    "does": "Collega contributi complementari attraverso intento, fonti accessibili, responsabilità concorrenti e ritorno significativo nel progetto.",
+    "when": "Quando un progetto usa più assistenti o richiede sapere o strumenti disponibili in un altro ambiente.",
+    "intro": [
+      "Il contributo è scelto per la differenza utile che può produrre. Il nome del modello non stabilisce gerarchia, capacità o autorità sul progetto.",
+      "Il metodo opera con strumenti di delegazione effettivi oppure con una persona che porta un handoff fra chat. Memoria condivisa ed esecuzione di fondo non sono presunte."
+    ],
+    "examples": [
+      "Compone ricerca, implementazione e revisione dello stesso progetto.",
+      "Fa continuare il lavoro in un assistente con strumenti diversi.",
+      "Integra un contributo che cambia la domanda originale."
+    ],
+    "method": [
+      {
+        "title": "Formare il contributo utile",
+        "body": "Comprendi intento corrente, verità del dominio, ragioni acquisite e incertezza o capacità che un altro ricevente può cambiare. Considera sapere e mezzi disponibili insieme al costo di trasferimento e integrazione. Mantieni locale il lavoro quando l’handoff aggiunge soltanto ricostruzione. Sintesi ampia, competenza mancante, codice, critica e verifica possono essere utili senza uno score o una gerarchia fissa. L’organizzazione del campo più ampio resta al suo owner."
+      },
+      {
+        "title": "Portare al ricevente il significato necessario",
+        "body": "Prepara il contesto minimo che preserva il campo: intento, identità delle fonti, guide raggiungibili, decisioni e ragioni, ignoti decisivi, lavoro corrente e risultato utile. Spiega come una nuova competenza o fonte deve cambiare percezione o azione, oltre al nome. Includi lavori concorrenti e confini degli effetti dove contano. Lascia al ricevente la libertà di esercitare il sapere, senza trasformare ogni incarico in un elenco di comandi."
+      },
+      {
+        "title": "Usare una ricezione effettiva",
+        "body": "Risolvi l’accesso reale del destinatario a file, strumenti e fonti. Fornisci un estratto consentito o un passaggio manuale quando il rimando non è apribile, conservando provenienza e limiti. Preparazione, invio, ricezione e lavoro svolto restano distinti. Un delegato AI rende riconoscibili ruolo e fonte umana del mandato; il ritorno di un modello non crea una nuova istruzione umana. Invio, attivazione di agenti e trasferimento dati seguono autorità corrente e regole dell’ambiente."
+      },
+      {
+        "title": "Preservare lavoro indipendente e concorrente",
+        "body": "Lascia proseguire i contributi indipendenti utili con i rispettivi owner. Risolvi una sovrapposizione prima di modificare lo stesso oggetto; conserva byte, revisioni e contributi pendenti. Una differenza fra ritorni può mostrare un’altra fonte, condizione o domanda. Comprendi la relazione prima di scegliere. L’accordo ripetuto da una premessa condivisa non è conferma indipendente. Non imporre una sola delega seriale o un servizio permanente di coordinamento quando non servono."
+      },
+      {
+        "title": "Riconciliare ritorno e conseguenze",
+        "body": "Leggi le fonti effettivamente restituite e distingui proposte, implementazione, controlli riferiti, comportamento verificato e claim aperte. Un contributo può cambiare artefatto, domanda, metodo o altri incarichi. Collega la prova all’identità esercitata; ripeti un controllo quando una nuova differenza lo rende pertinente. Integra il sapere del progetto nel suo owner e l’apprendimento riusabile del coordinamento in questa competenza. Rendi il ritorno raggiungibile dall’ingresso reale del prossimo ricevente, senza presumere che un file condiviso sia stato ricevuto o usato."
+      }
+    ],
+    "depth": {
+      "title": "La collaborazione può migliorare il modo di formarla",
+      "paragraphs": [
+        "Il lavoro diretto compone e integra contributi. La relazione meta emerge quando un ritorno cambia una competenza o come vengono formati incarichi e fonti.",
+        "La relazione è autologica quando questo metodo riconosce che il proprio handoff ha causato perdita di contesto, serializzazione inutile o falsa attribuzione di ricezione. La differenza appresa cambia la collaborazione successiva."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi intento, fonti pertinenti e mezzi disponibili. Conserva la continuazione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa, parti da SKILL.md e conserva accanto sapere operativo ed esempi. Il ricevente determina strumenti, memoria e azioni effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega il metodo alle competenze e guide che già possiedono il lavoro. Conserva il sapere locale utile quando valuti un aggiornamento."
+      }
+    ],
+    "learning": [
+      "Conserva quale contributo ha cambiato il risultato e quale relazione mancante ha prodotto ricostruzione o rilavorazione.",
+      "Una collaborazione successiva diversa può affinare selezione del contesto e ritorno. Più assistenti o un incarico scritto non stabiliscono da soli complementarità effettiva."
+    ],
+    "operating_guide": "skills/cognitive-delegation-manager/GUIDA_OPERATIVA_IT.md"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "en": {
+    "title": "Teach your AI a way of working through examples",
+    "subtitle": "Turn demonstrations, explanations and corrections into a method the assistant can adapt and continue.",
+    "kind": "Learning competence",
+    "domain": "Knowledge and practice",
+    "does": "Understands the decisions behind an example and turns supported learning into the competence or implementation that should work differently.",
+    "when": "When good results depend on practical knowledge that you repeatedly have to explain to your assistant.",
+    "intro": [
+      "A demonstration can reveal what matters in a task, why a choice works and when another choice becomes necessary. This competence learns those relations and uses them in the actual work.",
+      "An artifact, explanation, good/bad pair or qualified session trace may provide complementary knowledge. The example is a source with its own conditions, rather than a template that defines every later case."
+    ],
+    "examples": [
+      "Teach how to prepare a proposal from annotated examples.",
+      "Learn interaction and recovery from a demonstrated workflow.",
+      "Turn a corrected support case into an adaptable method."
+    ],
+    "method": [
+      {
+        "title": "Understand the work being taught",
+        "body": "Recover the entrusted task, intended result and selected example. Identify what can actually be observed through files, images, a browser, narration or another available means. Distinguish the demonstrated product from the competence that will learn. Use an explicit explanation directly; ask only for missing meaning that changes a choice. A request to understand a demonstration does not itself select replay or modification of the demonstrated system."
+      },
+      {
+        "title": "Read evidence and its limits",
+        "body": "Locate decision-relevant moments and distinguish observed behavior, the person's stated reasons, your inference and what remains unknown. Preserve whether the material records an event, reconstructs one or illustrates a possibility. Editing can omit a decisive transition. Several accounts of one trace retain a shared origin. Use video or live observation only when the host supplies it; otherwise work from selected frames, a transcript or narration without pretending to have seen the missing motion."
+      },
+      {
+        "title": "Learn conditions, choices and qualities",
+        "body": "Understand purpose, inputs, critical order, decision points, invariants, acceptable variations, quality, exceptions, recovery and useful non-actions. Connect each retained relation to the difference it makes. A polished proposal can conceal why alternatives were compared; a gesture can conceal an authorization or missing prerequisite. Preserve a criterion when its reason is understood, and keep consequential uncertainty explicit instead of inventing hidden intent."
+      },
+      {
+        "title": "Make the learning operative",
+        "body": "Reuse the pertinent competence when it already knows the work. Reconnect knowledge that was not reached; deepen an existing method where knowledge is missing; form a distinct continuing competence when the actual capability needs one. Teach what to observe, which difference changes a decision, how to construct the result and when to adapt. A source's prestige or visible format does not supply its mechanism. Compose design or domain knowledge where it changes what the demonstration can teach."
+      },
+      {
+        "title": "Apply, discriminate and return the consequence",
+        "body": "Perform the entrusted work with the learned relation. A correction can change the method while the result forms. When an uncertain behavior claim needs a discriminating case, compare the critical states, result and recovery in an appropriate fixture or authorized setting. Do not require a replay to admit every internal lesson. Return practical learning to its owner and, when it changes how examples become capabilities, to the formation method too. Later different use can expose overgeneralization or confirm that the lesson participates."
+      }
+    ],
+    "depth": {
+      "title": "From a demonstrated task to a competence that learns",
+      "paragraphs": [
+        "The direct work is understanding and applying an example. A meta relation appears when the example forms or changes the competence that performs that work.",
+        "The relation is autological when a consequence corrects this learning method itself: for example, visible form was mistaken for the reason it worked. The practical competence and its generator can receive different lessons from the same event."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your intent, relevant sources and available means. Save the useful continuation for the next session."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable, start from SKILL.md and keep operating knowledge and examples beside it. The host determines actual tools, memory and actions."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect the method to the competence and project guides that already own the work. Preserve useful local knowledge when considering an update."
+      }
+    ],
+    "learning": [
+      "Preserve the causal difference that changes the next task, rather than collecting every gesture or correction.",
+      "A usable method, observed replay and later learning have their own scope. An unchanged later result can still teach which conditions matter."
+    ],
+    "operating_guide": "skills/dnd-learn-from-demonstration/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Insegnare un lavoro alla propria AI attraverso gli esempi",
+    "subtitle": "Trasforma dimostrazioni, spiegazioni e correzioni in un metodo che l’assistente può adattare e continuare.",
+    "kind": "Competenza di apprendimento",
+    "domain": "Conoscenza e pratica",
+    "does": "Comprende le decisioni dietro un esempio e porta l’apprendimento sostenuto dalle fonti nella competenza o implementazione che deve operare diversamente.",
+    "when": "Quando un buon risultato dipende da sapere pratico che devi spiegare ripetutamente al tuo assistente.",
+    "intro": [
+      "Una dimostrazione può far comprendere cosa conta in un lavoro, perché una scelta funziona e quando ne serve un’altra. Questa competenza apprende tali relazioni e le usa nel lavoro reale.",
+      "Un’opera, una spiegazione, una coppia di esempi e una traccia qualificata possono portare sapere complementare. L’esempio è una fonte con le proprie condizioni, anziché un modello che decide ogni caso successivo."
+    ],
+    "examples": [
+      "Insegna a preparare proposte attraverso esempi commentati.",
+      "Apprende interazione e recupero da un flusso dimostrato.",
+      "Trasforma un caso di assistenza corretto in un metodo adattabile."
+    ],
+    "method": [
+      {
+        "title": "Comprendere il lavoro insegnato",
+        "body": "Recupera incarico, risultato desiderato ed esempio selezionato. Riconosci cosa puoi osservare davvero attraverso file, immagini, browser, narrazione o altri mezzi disponibili. Distingui il prodotto dimostrato dalla competenza che apprenderà. Usa direttamente una spiegazione esplicita; chiedi soltanto il significato mancante che cambia una scelta. Comprendere una dimostrazione non seleziona di per sé la ripetizione o la modifica del sistema osservato."
+      },
+      {
+        "title": "Leggere l’evidenza e i suoi limiti",
+        "body": "Raggiungi i momenti che cambiano una decisione e distingui comportamento osservato, ragioni dichiarate dalla persona, tua inferenza e ciò che resta ignoto. Conserva se il materiale registra un evento, lo ricostruisce o illustra una possibilità. Il montaggio può omettere un passaggio decisivo. Più resoconti della stessa traccia conservano un’origine comune. Usa video o osservazione dal vivo soltanto quando l’ambiente li consente; altrimenti lavora da fotogrammi, trascrizione o narrazione, senza attribuirti il movimento non visto."
+      },
+      {
+        "title": "Apprendere condizioni, scelte e qualità",
+        "body": "Comprendi scopo, input, ordine decisivo, punti di scelta, invarianti, varianti accettabili, qualità, eccezioni, recupero e non-azioni utili. Collega ogni relazione conservata alla differenza che produce. Una proposta ben fatta può nascondere perché si confrontano alternative; un gesto può dipendere da un’autorizzazione o da un requisito non visibile. Conserva il criterio quando ne comprendi la ragione e mantieni esplicita l’incertezza materiale, senza inventare un intento nascosto."
+      },
+      {
+        "title": "Rendere operativo l’apprendimento",
+        "body": "Riusa la competenza pertinente quando già conosce il lavoro. Ricollega sapere non raggiunto; approfondisci il metodo esistente quando manca conoscenza; forma una competenza distinta quando la capacità reale richiede continuità propria. Insegna cosa osservare, quale differenza cambia una decisione, come costruire il risultato e quando adattare. Prestigio della fonte e forma visibile non ne forniscono il meccanismo. Componi Design o sapere di dominio quando cambiano ciò che la dimostrazione può insegnare."
+      },
+      {
+        "title": "Applicare, discriminare e restituire la conseguenza",
+        "body": "Svolgi il lavoro affidato con la relazione appresa. Una correzione può cambiare il metodo mentre il risultato si forma. Quando una claim comportamentale incerta richiede un caso discriminante, confronta stati decisivi, risultato e recupero in una fixture o situazione autorizzata. Non richiedere una ripetizione per ammettere ogni lezione interna. Restituisci il sapere pratico al suo owner e, quando cambia come gli esempi diventano capacità, anche al metodo di formazione. Un uso successivo diverso può mostrare una generalizzazione eccessiva o la partecipazione della lezione."
+      }
+    ],
+    "depth": {
+      "title": "Da un lavoro dimostrato a una competenza che apprende",
+      "paragraphs": [
+        "Il lavoro diretto comprende e applica un esempio. La relazione meta emerge quando quell’esempio forma o cambia la competenza che svolge il lavoro.",
+        "La relazione è autologica quando una conseguenza corregge questo stesso metodo di apprendimento: per esempio, la forma visibile era stata scambiata per la ragione che la rende utile. Competenza pratica e generatore possono ricevere lezioni diverse dal medesimo evento."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi intento, fonti pertinenti e mezzi disponibili. Conserva la continuazione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa, parti da SKILL.md e conserva accanto sapere operativo ed esempi. Il ricevente determina strumenti, memoria e azioni effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega il metodo alle competenze e guide che già possiedono il lavoro. Conserva il sapere locale utile quando valuti un aggiornamento."
+      }
+    ],
+    "learning": [
+      "Conserva la differenza causale che cambia il prossimo incarico, senza raccogliere ogni gesto o correzione.",
+      "Metodo utilizzabile, ripetizione osservata e apprendimento successivo conservano la propria portata. Anche un esito invariato può insegnare quali condizioni contano."
+    ],
+    "operating_guide": "skills/dnd-learn-from-demonstration/GUIDA_OPERATIVA_IT.md"
+  }
+}

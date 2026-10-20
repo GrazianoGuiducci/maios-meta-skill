@@ -1,0 +1,67 @@
+{
+  "id": "formare-fabbisogno-risorse",
+  "name": "Resource Need Formation",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "30",
+  "native_entry": "resource-need-formation",
+  "skill_name": "resource-need-formation",
+  "source_title": "Resource Need Formation",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/resource-need-formation/SKILL.md",
+      "guide": "skills/resource-need-formation/README.md",
+      "starter": "skills/resource-need-formation/START_CHAT_EN.txt",
+      "examples": "skills/resource-need-formation/EXAMPLES.md",
+      "operating_guide": "skills/resource-need-formation/OPERATING_GUIDE.md",
+      "installation": "skills/resource-need-formation/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/resource-need-formation/SKILL_IT.md",
+      "guide": "skills/resource-need-formation/README_IT.md",
+      "starter": "skills/resource-need-formation/AVVIO_CHAT_IT.txt",
+      "examples": "skills/resource-need-formation/ESEMPI_IT.md",
+      "operating_guide": "skills/resource-need-formation/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/resource-need-formation/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/resource-need-formation/SKILL.md",
+  "guide": "skills/resource-need-formation/README.md",
+  "starter": "skills/resource-need-formation/START_CHAT_EN.txt",
+  "examples": "skills/resource-need-formation/EXAMPLES.md",
+  "presentation": "skills/resource-need-formation/presentation.json",
+  "package": "dist/resource-need-formation-0.1.0.zip",
+  "en": {
+    "title": "Understand which resources a project actually needs",
+    "kind": "Business competence",
+    "domain": "Resources and project development",
+    "does": "Forms the resource need from what must become possible, before selecting a provider, financial instrument or other carrier.",
+    "when": "When a project asks for money, tools, people, access or time and needs to understand what would actually change the result.",
+    "examples": [
+      "Distinguish a need for computing capacity from a purchase decision.",
+      "Find whether existing knowledge can replace an external service.",
+      "Separate immediate continuity from resources for a later transition."
+    ],
+    "route": "/resources/formare-fabbisogno-risorse/",
+    "description": "Connect the intended result, enabling function, existing assets, substitutes and useful amount."
+  },
+  "it": {
+    "title": "Comprendere quali risorse servono davvero a un progetto",
+    "kind": "Competenza business",
+    "domain": "Risorse e sviluppo dei progetti",
+    "does": "Forma il bisogno di risorse da ciò che deve diventare possibile, prima di scegliere fornitore, strumento finanziario o altro portatore.",
+    "when": "Quando un progetto chiede denaro, strumenti, persone, accesso o tempo e serve capire cosa cambierebbe davvero il risultato.",
+    "examples": [
+      "Distingue il bisogno di capacità di calcolo dalla decisione di acquisto.",
+      "Riconosce se il sapere esistente può sostituire un servizio esterno.",
+      "Separa la continuità immediata dalle risorse per una transizione successiva."
+    ],
+    "route": "/risorse/formare-fabbisogno-risorse/",
+    "description": "Collega risultato desiderato, funzione abilitante, patrimonio disponibile, alternative e quantità utile."
+  }
+}

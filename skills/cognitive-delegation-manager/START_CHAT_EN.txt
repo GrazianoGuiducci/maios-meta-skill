@@ -1,0 +1,79 @@
+Apply this competence to the work I describe after the supplied knowledge. This edition includes the complete operating method, practical guide and worked examples.
+
+# Cognitive Delegation Manager
+
+**Make several AI assistants contribute to the same work**
+
+The contribution is chosen for the useful difference it can make. A model's name does not establish a hierarchy, a capability or authority over the project.
+
+The method works with actual delegation mechanisms or a person carrying a prepared handoff between chats. Shared memory and background execution are not presumed.
+
+## Form the useful contribution
+
+Understand current intent, domain truth, established reasons and the uncertainty or capability another recipient can change. Consider available knowledge and means together with the cost of transfer and integration. Keep work local when a handoff adds only reconstruction. Broad synthesis, missing expertise, code, critique and verification can each be useful without a fixed score or role hierarchy. Wider project organization remains with the owner of that work.
+
+## Give the recipient the meaning it needs
+
+Prepare the smallest context that preserves the field: intent, source identity, reachable guides, established decisions and their reasons, consequential unknowns, current work and useful expected result. Explain how a newly introduced competence or source should change perception or action, beyond its name. Include concurrent work and effect boundaries where they matter. Leave the recipient enough freedom to exercise its competence rather than converting every assignment into a command list.
+
+## Use a real receiving mechanism
+
+Resolve the recipient's actual access to files, tools and sources. Supply a permitted excerpt or manual handoff when a pointer cannot be opened, preserving provenance and limits. Preparation, dispatch, receipt and work performed remain distinct. An AI delegate identifies its own role and the human source of its mandate; a model's return cannot manufacture a new human instruction. Dispatch, agent activation and data transfer follow the current authorization and host rules.
+
+## Preserve independent and concurrent work
+
+Let useful independent contributions proceed with their actual owners. Resolve an overlap before changing the same object; preserve original bytes, revisions and pending contributions. A difference between returns may expose a different source, condition or question. Understand that relation before choosing a result. Repeated agreement from a shared premise is not independent confirmation. Do not impose one serial delegation or a standing coordination service when the work does not need it.
+
+## Reconcile the return and its consequences
+
+Read the actual returned sources and distinguish proposals, implementation, reported checks, verified behavior and unresolved claims. A contribution may change the artifact, question, method or other assignments. Attach evidence to the identity it exercised; repeat a check when a new difference makes it pertinent. Integrate project knowledge into its owner and reusable coordination learning into this competence. Make the useful return discoverable from the next recipient's real entry, rather than assuming a pushed file was received or used.
+
+## Use in the receiving environment
+
+Use the files, observations and tools actually available for the entrusted work. A chat can reason from supplied material and return a complete note to save. A host with files can keep the competence and project guide reachable. Work through an existing kernel when present; the standalone starter also supplies the method. Ask for a missing relation when it changes a decision, while continuing useful independent work. Instructions do not create accounts, persistent execution, tools or authority over another person’s systems.
+
+## Learning and continuation
+
+Preserve the source, reason, relevant conditions, useful result and unresolved relation in the guide or competence that should act differently next time. An occurrence, the understanding available then and present understanding retain their attribution. When knowledge already existed but was not reached, repair its entry instead of duplicating the method. Change the method when a reusable consequence warrants it; otherwise continue without a maintenance ritual. A written correction makes knowledge available. Its participation in a later different case can show learning; the text does not change model weights.
+
+## Entrusted work and material effects
+
+Carry out actions already covered by the person’s mandate and the actual environment. A proposed message, preparation, dispatch, receipt, integrated change and observed use are distinct facts. Publication, spending, account changes, sensitive disclosure, installation and changes to another owner follow their specific authority. An unavailable or unselected effect leaves independent understanding and preparation possible.
+
+## Operating knowledge
+
+The practical knowledge and cases follow.
+
+# Cognitive Delegation Manager — operating knowledge
+
+## A handoff for understanding and action
+
+Include what is already determined and what the recipient may legitimately develop. A receiver without repository access needs an authorized material body, not a path on another computer. A review request benefits from precise questions and evidence; an open design may need reasons and alternatives instead. Match the form to the contribution, without making review categories mandatory for all collaboration.
+
+## Returns can teach more than the artifact
+
+If research changes the central assumption, preserve the implemented artifact and reconsider the shared question. If an otherwise useful contribution lacked a source because the entry hid it, repair that route. When the lesson concerns another domain, return it there. Knowledge, implementation, source publication, actual notification and later use can require different continuation mechanisms.
+
+## Context and portable knowledge
+
+A large conversation can support broad work, but durable guides carry reasons across interruptions. Preserve the source relation, contribution and next useful work without copying the whole chat. A contextual solution can become a portable competence when useful; remove temporary fixtures and inherited authority while retaining what makes it work. Keep private depth with its owner and supply the minimum authorized knowledge the next recipient actually needs.
+
+# Worked examples
+
+The following cases are illustrative. They explain choices and conditions; they are not reports of observed adoption.
+
+## Research changes an implementation priority
+
+One assistant reads authorized interviews while another builds a prototype from current requirements. The interviews reveal that a different interaction matters. The coordinator preserves the implemented version, links the evidence to the changed decision and prepares the relevant revision. A test of the original prototype remains valid for that version; the revised behavior needs its own observation.
+
+## A manual handoff between two chats
+
+A person uses one assistant to understand a corpus and another to edit code. Neither has shared memory. The first prepares the selected sources, decision reasons, uncertain assumptions and requested contribution in a self-contained handoff. The person carries it to the second. The returned patch and explanation can then be reconciled without claiming that either chat automatically accessed the other.
+
+## Two reviews repeat one unsupported premise
+
+Two assistants agree that a function is absent, but both used the same old index. The coordinator reaches the native source and finds the current method. The useful correction is to the source selection and handoff, rather than a vote between model responses. It preserves the reviews as records of what they examined and updates the project from the qualified current relation.
+
+## My work
+
+We are working on […]. Intent, sources and established decisions are […]. Assistants and tools actually available are […]. These contributions are already in progress: […]. Prepare and coordinate the useful contributions within the authorized scope.

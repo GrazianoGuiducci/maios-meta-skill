@@ -1,0 +1,132 @@
+{
+  "en": {
+    "title": "Preserve the author's thought through AI revisions",
+    "subtitle": "Distinguish authorial preservation, necessary adaptation and normalization introduced by the model.",
+    "kind": "Editorial competence",
+    "domain": "Writing and authorship",
+    "does": "Recognizes what carries an author's meaning and preserves it while adapting only what the selected artifact and receiving situation require.",
+    "when": "When a revision sounds polished but no longer expresses the author's thought, or an assistant must write from actual examples of someone's work.",
+    "intro": [
+      "Understanding a concept does not by itself preserve how its author expresses it. Order, emphasis, rhythm, tension and degree of determination can carry meaning.",
+      "This competence makes that discrimination operative while the artifact forms. The author's original, a selected template and an AI proposal retain their actual attribution."
+    ],
+    "examples": [
+      "Keep an open question open through a revision.",
+      "Adapt a text to a shorter format without replacing its argument.",
+      "Separate original prose, quoted material and accepted AI drafts."
+    ],
+    "method": [
+      {
+        "title": "Recover the entrusted artifact and original",
+        "body": "Understand the current purpose, object, audience, medium and selected transformation. Preserve the original before proposing a revision. If another revision is still being considered, keep your proposal attributed and separate rather than silently selecting it as the new original. A narrow correction can already provide sufficient direction. Ask for missing source meaning only when it materially changes fidelity; do independent work that the unresolved relation does not affect."
+      },
+      {
+        "title": "Qualify actual evidence of expression",
+        "body": "Use the supplied draft, template or exemplar first and preserve its scope. When discovering a person's writing is selected, use the host's actual retrieval means, inspect the bodies and establish who wrote each relevant passage. A user-role message, repository owner, commit author, title or accepted draft does not prove authorship. Separate quoted, forwarded, collaborative and AI text from the person's original segments. A template can guide form without proving that the person authored it. Do not expand beyond a designated exemplar unless that scope is selected."
+      },
+      {
+        "title": "Recognize what the source makes the reader encounter",
+        "body": "Understand subject, object, causal direction, conceptual relations, emphasis, degree of openness, abstraction, meaningful lexical choices, rhythm and reader movement where they matter. Observe features supported by the examples rather than assigning generic qualities. Preserve a clear source determination as well as an intentional open relation. If the subject has been compressed away, recover it before inventing a category, objection or explanatory frame to make the rewritten sentence coherent."
+      },
+      {
+        "title": "Transform through the actual receiving need",
+        "body": "Distinguish preserving an authorial relation, adapting its expression to real surface conditions and model normalization. Change wording, density or order when that makes the same relation recoverable. A familiar explanatory, commercial or institutional pattern is not sufficient reason. Keep the source and proposed transformation comparable where a consequential choice remains. Explain the material difference outside the deliverable when useful, without filling the artifact with editorial machinery. Exact copy or a selected mechanical placement proceeds without an unrequested rewrite."
+      },
+      {
+        "title": "Learn the causal difference without freezing a profile",
+        "body": "When a correction teaches a reusable relation, retain the smallest source/candidate/correction comparison and what was added, removed or reordered. Preserve the reason and its scope, rather than the preferred sentence alone. Update the writing method that should perceive the nuance next time; reconnect its entry if the knowledge was already present but absent from the work. An author's register can change with task and time. Do not turn frequency, punctuation or past preference into permanent mimicry instructions."
+      }
+    ],
+    "depth": {
+      "title": "Revision can teach the assistant to perceive its own substitutions",
+      "paragraphs": [
+        "The direct work preserves authorial meaning through an artifact. A meta relation appears when a correction changes the continuing writing competence.",
+        "The relation becomes autological when the assistant recognizes its own preferred explanatory grammar as the source of the displacement. The correction changes how the next draft begins rather than merely repairing one sentence."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your intent, relevant sources and available means. Save the useful continuation for the next session."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable, start from SKILL.md and keep operating knowledge and examples beside it. The host determines actual tools, memory and actions."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect the method to the competence and project guides that already own the work. Preserve useful local knowledge when considering an update."
+      }
+    ],
+    "learning": [
+      "Keep the source-specific relation and why its loss changed meaning. An isolated preference can remain with the artifact.",
+      "A later different revision can reveal whether the discrimination participates or overfits an earlier example."
+    ],
+    "operating_guide": "skills/authorial-source-discrimination/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Preservare il pensiero dell’autore nelle revisioni AI",
+    "subtitle": "Distingue conservazione autoriale, adattamento necessario e normalizzazione introdotta dal modello.",
+    "kind": "Competenza editoriale",
+    "domain": "Scrittura e autorialità",
+    "does": "Riconosce ciò che porta il significato dell’autore e lo conserva adattando quanto richiedono l’artefatto e la situazione ricevente selezionati.",
+    "when": "Quando una revisione è scorrevole ma non esprime più il pensiero dell’autore, oppure serve scrivere da esempi reali del suo lavoro.",
+    "intro": [
+      "Comprendere un concetto non basta a preservare come l’autore lo esprime. Ordine, rilievo, ritmo, tensione e grado di determinazione possono portare significato.",
+      "Questa competenza rende operativa la discriminazione mentre l’artefatto si forma. Originale, modello scelto e proposta AI conservano la propria attribuzione effettiva."
+    ],
+    "examples": [
+      "Conserva una domanda aperta attraverso la revisione.",
+      "Adatta un testo breve senza sostituirne l’argomento.",
+      "Distingue prosa originale, citazioni e bozze AI accettate."
+    ],
+    "method": [
+      {
+        "title": "Recuperare artefatto affidato e originale",
+        "body": "Comprendi scopo corrente, oggetto, pubblico, mezzo e trasformazione selezionata. Conserva l’originale prima di proporre la revisione. Se un’altra revisione è ancora in discussione, mantieni distinta e attribuita la tua proposta, senza sceglierla silenziosamente come nuovo originale. Una correzione circoscritta può già dare direzione sufficiente. Chiedi il significato sorgente mancante soltanto quando cambia la fedeltà; prosegui il lavoro indipendente non condizionato da quella relazione."
+      },
+      {
+        "title": "Qualificare le prove effettive dell’espressione",
+        "body": "Usa prima bozza, modello o esempio forniti conservandone la portata. Quando è selezionata la scoperta della scrittura della persona, usa i mezzi di recupero effettivi, apri i corpi e stabilisci chi ha scritto i passaggi pertinenti. Ruolo user, proprietario della repository, autore del commit, titolo o bozza accettata non provano autorialità. Distingui citazioni, inoltri, collaborazioni e testo AI dai segmenti originali. Un modello può guidare la forma senza essere stato scritto dalla persona. Non ampliare il corpus oltre l’esempio designato senza quella selezione."
+      },
+      {
+        "title": "Riconoscere ciò che la fonte fa incontrare al lettore",
+        "body": "Comprendi soggetto, oggetto, direzione causale, nessi, rilievo, apertura, astrazione, scelte lessicali significative, ritmo e movimento del lettore dove contano. Osserva caratteristiche sostenute dagli esempi, oltre alle qualità generiche. Conserva la determinazione chiara della fonte come la relazione lasciata aperta. Se il soggetto è stato compresso via, recuperalo prima di inventare una categoria, un’obiezione o una cornice esplicativa per rendere coerente la riscrittura."
+      },
+      {
+        "title": "Trasformare attraverso il bisogno reale del ricevente",
+        "body": "Distingui conservazione della relazione autoriale, adattamento a condizioni effettive e normalizzazione del modello. Cambia parole, densità o ordine quando rendono recuperabile la stessa relazione. Un modello esplicativo, commerciale o istituzionale familiare non basta come ragione. Mantieni confrontabili fonte e proposta dove resta una scelta materiale. Spiega la differenza fuori dalla consegna quando serve, senza caricare l’artefatto di meccaniche editoriali. Copia esatta e collocazione meccanica selezionata proseguono senza una riscrittura non richiesta."
+      },
+      {
+        "title": "Apprendere la differenza causale senza fissare un profilo",
+        "body": "Quando la correzione insegna una relazione riusabile, conserva il minimo confronto fra fonte, candidato e correzione e ciò che è stato aggiunto, tolto o riordinato. Conserva ragione e portata, oltre alla frase preferita. Cambia il metodo editoriale che dovrà percepire la sfumatura; ricollega l’ingresso se il sapere esisteva ma non partecipava. Il registro dell’autore può cambiare con tempo e compito. Frequenza, punteggiatura e preferenza passata non diventano istruzioni permanenti di imitazione."
+      }
+    ],
+    "depth": {
+      "title": "La revisione può insegnare a percepire le proprie sostituzioni",
+      "paragraphs": [
+        "Il lavoro diretto conserva il significato autoriale nell’artefatto. La relazione meta emerge quando una correzione cambia la competenza editoriale che continuerà.",
+        "La relazione diventa autologica quando l’assistente riconosce la propria grammatica esplicativa preferita come fonte dello spostamento. La correzione cambia come inizia la prossima bozza, oltre a riparare una frase."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi intento, fonti pertinenti e mezzi disponibili. Conserva la continuazione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa, parti da SKILL.md e conserva accanto sapere operativo ed esempi. Il ricevente determina strumenti, memoria e azioni effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega il metodo alle competenze e guide che già possiedono il lavoro. Conserva il sapere locale utile quando valuti un aggiornamento."
+      }
+    ],
+    "learning": [
+      "Conserva la relazione specifica della fonte e perché la sua perdita ha cambiato il significato. Una preferenza isolata può restare nell’artefatto.",
+      "Una revisione successiva diversa può mostrare se la discriminazione partecipa o se si è adattata eccessivamente al vecchio esempio."
+    ],
+    "operating_guide": "skills/authorial-source-discrimination/GUIDA_OPERATIVA_IT.md"
+  }
+}

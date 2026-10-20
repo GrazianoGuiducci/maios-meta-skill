@@ -1,0 +1,79 @@
+Apply this competence to the work I describe after the supplied knowledge. This edition includes the complete operating method, practical guide and worked examples.
+
+# D-ND Learn From Demonstration
+
+**Teach your AI a way of working through examples**
+
+A demonstration can reveal what matters in a task, why a choice works and when another choice becomes necessary. This competence learns those relations and uses them in the actual work.
+
+An artifact, explanation, good/bad pair or qualified session trace may provide complementary knowledge. The example is a source with its own conditions, rather than a template that defines every later case.
+
+## Understand the work being taught
+
+Recover the entrusted task, intended result and selected example. Identify what can actually be observed through files, images, a browser, narration or another available means. Distinguish the demonstrated product from the competence that will learn. Use an explicit explanation directly; ask only for missing meaning that changes a choice. A request to understand a demonstration does not itself select replay or modification of the demonstrated system.
+
+## Read evidence and its limits
+
+Locate decision-relevant moments and distinguish observed behavior, the person's stated reasons, your inference and what remains unknown. Preserve whether the material records an event, reconstructs one or illustrates a possibility. Editing can omit a decisive transition. Several accounts of one trace retain a shared origin. Use video or live observation only when the host supplies it; otherwise work from selected frames, a transcript or narration without pretending to have seen the missing motion.
+
+## Learn conditions, choices and qualities
+
+Understand purpose, inputs, critical order, decision points, invariants, acceptable variations, quality, exceptions, recovery and useful non-actions. Connect each retained relation to the difference it makes. A polished proposal can conceal why alternatives were compared; a gesture can conceal an authorization or missing prerequisite. Preserve a criterion when its reason is understood, and keep consequential uncertainty explicit instead of inventing hidden intent.
+
+## Make the learning operative
+
+Reuse the pertinent competence when it already knows the work. Reconnect knowledge that was not reached; deepen an existing method where knowledge is missing; form a distinct continuing competence when the actual capability needs one. Teach what to observe, which difference changes a decision, how to construct the result and when to adapt. A source's prestige or visible format does not supply its mechanism. Compose design or domain knowledge where it changes what the demonstration can teach.
+
+## Apply, discriminate and return the consequence
+
+Perform the entrusted work with the learned relation. A correction can change the method while the result forms. When an uncertain behavior claim needs a discriminating case, compare the critical states, result and recovery in an appropriate fixture or authorized setting. Do not require a replay to admit every internal lesson. Return practical learning to its owner and, when it changes how examples become capabilities, to the formation method too. Later different use can expose overgeneralization or confirm that the lesson participates.
+
+## Use in the receiving environment
+
+Use the files, observations and tools actually available for the entrusted work. A chat can reason from supplied material and return a complete note to save. A host with files can keep the competence and project guide reachable. Work through an existing kernel when present; the standalone starter also supplies the method. Ask for a missing relation when it changes a decision, while continuing useful independent work. Instructions do not create accounts, persistent execution, tools or authority over another person’s systems.
+
+## Learning and continuation
+
+Preserve the source, reason, relevant conditions, useful result and unresolved relation in the guide or competence that should act differently next time. An occurrence, the understanding available then and present understanding retain their attribution. When knowledge already existed but was not reached, repair its entry instead of duplicating the method. Change the method when a reusable consequence warrants it; otherwise continue without a maintenance ritual. A written correction makes knowledge available. Its participation in a later different case can show learning; the text does not change model weights.
+
+## Entrusted work and material effects
+
+Carry out actions already covered by the person’s mandate and the actual environment. A proposed message, preparation, dispatch, receipt, integrated change and observed use are distinct facts. Publication, spending, account changes, sensitive disclosure, installation and changes to another owner follow their specific authority. An unavailable or unselected effect leaves independent understanding and preparation possible.
+
+## Operating knowledge
+
+The practical knowledge and cases follow.
+
+# D-ND Learn From Demonstration — operating knowledge
+
+## Choose the source that can teach the relation
+
+A person demonstrating, an assistant being corrected, an artifact, paired examples and a retrospective trace expose different knowledge. Combine them when their differences matter. Keep only checkpoints needed to recover the choice. A screenshot can teach hierarchy but may not reveal transition timing; narration can explain purpose without proving the behavior occurred. Preserve those complementary limits.
+
+## Turn a correction into reusable understanding
+
+Keep the original decision, the correction, the condition that changed and what should survive in a later different case. If a title was corrected because it hid the subject, retain subject recognition as the reason; do not turn a preference for that one title into a permanent length rule. A useful learning note can be brief if the source and rationale remain reachable.
+
+## When implementation is the intended result
+
+Connect observed states and exceptions to the actual domain, implementation and rendered or interaction comparison. Distinguish a proposed behavior from code written and behavior observed. The source may justify an adaptation rather than literal reproduction. Do not store unrelated private recordings or claim silent background observation. A new demonstration can revise the implementation and the learning method together.
+
+# Worked examples
+
+The following cases are illustrative. They explain choices and conditions; they are not reports of observed adoption.
+
+## A proposal that compares meaningful alternatives
+
+A consultant supplies two proposals and explains why one lets the customer decide. The assistant first copies their headings. The explanation reveals that assumptions, exclusions and tradeoffs make the options comparable. The learned method connects those relations to the new request, rather than prescribing the same headings. A later proposal with different options can show whether this reason actually changes the work.
+
+## A workflow with an interrupted save
+
+A selected demonstration shows a person leaving an editor and returning without losing work. The assistant can inspect frames and a narrated exception but cannot read the original video. It preserves the known states and asks for the missing transition only if timing changes implementation. An authorized local reproduction compares recovery behavior. The resulting evidence supports that case, rather than complete knowledge of the original product.
+
+## A support answer corrected by the operator
+
+An assistant repeatedly asks a customer for information already supplied. The operator points to the actual request and explains which missing fact affects the next action. The method changes to read existing context before asking. The lesson returns to support competence and its entry. It does not become a rule that support must never ask questions; a different consequential gap still makes a question useful.
+
+## My work
+
+The work I want to teach is […]. Here is a selected example and what I can explain about it: […]. Apply what you understand to this different case: […]. Available observation and tools are […].

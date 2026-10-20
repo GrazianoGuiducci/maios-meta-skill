@@ -1,0 +1,140 @@
+{
+  "en": {
+    "title": "Understand a method through the relations that make it work",
+    "subtitle": "Recover sources, reasons and conditions, then adapt the method without losing its meaning.",
+    "kind": "Comprehension competence",
+    "domain": "Knowledge and methods",
+    "does": "Understands the actual object behind representations and uses its reasons to reform questions, comparisons and methods.",
+    "when": "When following instructions is insufficient to understand why they apply, or several descriptions appear consistent while their conditions differ.",
+    "intro": [
+      "A method carries reasons, conditions and an object. Understanding those relations makes it possible to use and revise the method in a different situation.",
+      "This competence acts when comprehension itself can change the work. An exact transformation whose native method already suffices can proceed directly."
+    ],
+    "examples": [
+      "Adapt a procedure when its original conditions change.",
+      "Compare observations made at different times without merging them into a false present.",
+      "Recognize an existing function behind a different name."
+    ],
+    "method": [
+      {
+        "title": "Recover the actual object and the present relation",
+        "body": "Reach the source, current intent, acquired knowledge, examples and consequences that determine the object. When the person has already supplied the correction that changes the field, let it change your understanding before turning it into another research task. A new signal may materially change the field without taking ownership of the whole project. Preserve what was already determined and the wider work alongside what the new encounter makes intelligible."
+      },
+      {
+        "title": "Understand function, reason and determination",
+        "body": "Find why a rule, architecture, term or procedure was useful. Distinguish what the source determines, one situated implementation, a proposal and what remains open. A determination continues until a relevant causal difference transforms it; changing host or folder does not alone reopen its meaning. Openness does not erase a clear result, and a clear result does not predetermine the next unknown. Source reasons and your inferred explanation retain different provenance."
+      },
+      {
+        "title": "Preserve the observation frame",
+        "body": "Keep enough context to understand who or what observed a relation, when, through which medium and under which conditions. Track the transformations through which the current form arose. Individually correct observations may belong to incompatible times, modalities or situations. Establish whether they can be composed, transformed, ordered or must remain separate. The same named object does not by itself make observations co-referential or simultaneous."
+      },
+      {
+        "title": "Move the representation when it changes observability",
+        "body": "When prose, a table, code, a diagram or another form hides a consequential relation, choose the smallest different representation that can expose it. Keep the source and object fixed without prescribing what must appear. A dependency graph can expose coupling; prose can restore meaning lost in formal compression. Return any difference to the source relation and remove artifacts introduced by the probe. Agreement among representations derived from one premise is not independent proof; discard a probe that adds nothing material."
+      },
+      {
+        "title": "Qualify apparent novelty or absence",
+        "body": "Look for the function under another wording, owner, depth or pertinent historical incarnation before declaring it absent or new. Compare function, reason, scope, actual consumer and consequence, rather than names. The result can be already explicit, represented more deeply elsewhere, partly embodied, superseded, genuinely missing or still unknown from the sources examined. Follow only the routes capable of changing that judgment; do not turn this relation into exhaustive archaeology."
+      },
+      {
+        "title": "Regenerate the situated method",
+        "body": "Let source knowledge and domain competence change the question, comparison and means of working. A difference between nodes can preserve valid local reasons without requiring synchronization. When recursive work has lost its source, time or context, recover the last point where source and movement were causally present together, then compose it with consequences that actually occurred. This supports forward continuation rather than restoring an earlier awareness. Return reusable correction to the method that will otherwise repeat the loss."
+      }
+    ],
+    "depth": {
+      "title": "Comprehension can reform its own frame",
+      "paragraphs": [
+        "The direct work understands an object and its relations. A meta relation appears when that understanding changes the method that interprets, compares or forms capabilities.",
+        "The relation becomes autological when this competence recognizes its own representation as the cause of a lost relation. It changes how later comprehension begins, without adding a detached controller or a requirement to doubt every sufficient result."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy or attach START_CHAT_EN.txt and add your intent, relevant sources and available means. Save the useful continuation for the next session."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable, start from SKILL.md and keep operating knowledge and examples beside it. The host determines actual tools, memory and actions."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect the method to the competence and project guides that already own the work. Preserve useful local knowledge when considering an update."
+      }
+    ],
+    "learning": [
+      "Preserve which source relation changed perception or choice, and the reason a later different case should be handled differently.",
+      "If the knowledge was already present but did not participate, correct its discovery or entry. A new explanation alone does not prove later assimilation."
+    ],
+    "operating_guide": "skills/semantic-relational-comprehension/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Comprendere un metodo attraverso le relazioni che lo fanno operare",
+    "subtitle": "Recupera fonti, ragioni e condizioni e adatta il metodo conservandone il significato.",
+    "kind": "Competenza di comprensione",
+    "domain": "Conoscenza e metodi",
+    "does": "Comprende l’oggetto reale dietro le rappresentazioni e ne usa le ragioni per riformare domande, confronti e metodi.",
+    "when": "Quando seguire istruzioni non basta a comprendere perché si applicano, oppure descrizioni coerenti appartengono a condizioni diverse.",
+    "intro": [
+      "Un metodo porta ragioni, condizioni e un oggetto. Comprendere tali relazioni permette di usarlo e rivederlo in una situazione differente.",
+      "Questa competenza partecipa quando la comprensione stessa può cambiare il lavoro. Una trasformazione esatta il cui metodo è già sufficiente può procedere direttamente."
+    ],
+    "examples": [
+      "Adatta una procedura quando cambiano le condizioni originali.",
+      "Confronta osservazioni di tempi diversi senza fonderle in un falso presente.",
+      "Riconosce una funzione già esistente dietro un nome diverso."
+    ],
+    "method": [
+      {
+        "title": "Recuperare oggetto reale e relazione presente",
+        "body": "Raggiungi fonte, intento corrente, sapere acquisito, esempi e conseguenze che determinano l’oggetto. Quando la persona ha già fornito la correzione che cambia il campo, lascia che cambi la comprensione prima di trasformarla in un’altra ricerca. Un nuovo segnale può riformare materialmente il campo senza acquisire la proprietà dell’intero progetto. Conserva determinazioni e lavoro più ampio insieme a ciò che il nuovo incontro rende comprensibile."
+      },
+      {
+        "title": "Comprendere funzione, ragione e determinazione",
+        "body": "Ritrova perché una regola, architettura, parola o procedura era utile. Distingui ciò che la fonte determina, un’implementazione situata, una proposta e ciò che resta aperto. Una determinazione continua finché una differenza causale pertinente non la trasforma; cambiare ambiente o cartella non ne riapre da solo il significato. L’apertura non cancella un risultato chiaro e un risultato chiaro non predetermina il prossimo ignoto. Ragioni della fonte e tua spiegazione inferita mantengono provenienze diverse."
+      },
+      {
+        "title": "Preservare la cornice d’osservazione",
+        "body": "Conserva il contesto necessario a capire chi o cosa ha osservato una relazione, quando, con quale mezzo e in quali condizioni. Segui le trasformazioni che hanno prodotto la forma corrente. Osservazioni singolarmente corrette possono appartenere a tempi, modalità o situazioni incompatibili. Comprendi se possono essere composte, trasformate, ordinate o devono restare distinte. Lo stesso nome dell’oggetto non rende da solo le osservazioni co-riferite o simultanee."
+      },
+      {
+        "title": "Muovere la rappresentazione quando cambia l’osservabilità",
+        "body": "Quando prosa, tabella, codice, diagramma o altra forma nascondono una relazione decisiva, scegli la più piccola rappresentazione diversa che possa renderla percepibile. Mantieni fonte e oggetto senza prescrivere ciò che deve apparire. Un grafo può mostrare accoppiamento; la prosa può restituire significato perso nella compressione formale. Riconduci la differenza alla fonte e correggi gli artefatti introdotti dalla sonda. L’accordo fra forme derivate dalla stessa premessa non è prova indipendente; lascia una sonda che non aggiunge differenze materiali."
+      },
+      {
+        "title": "Qualificare novità o assenze apparenti",
+        "body": "Cerca la funzione in altre parole, owner, profondità o incarnazioni storiche pertinenti prima di dichiararla assente o nuova. Confronta funzione, ragione, portata, consumatore reale e conseguenza, oltre ai nomi. Il risultato può essere già esplicito, rappresentato più in profondità altrove, incarnato in parte, superato, realmente mancante o ancora ignoto dalle fonti esaminate. Segui soltanto le vie capaci di cambiare il giudizio, senza trasformare questa relazione in archeologia esaustiva."
+      },
+      {
+        "title": "Rigenerare il metodo situato",
+        "body": "Lascia che sapere sorgente e competenza di dominio cambino domanda, confronto e mezzi. Una differenza tra nodi può conservare valide ragioni locali senza richiedere sincronizzazione. Quando il lavoro ricorsivo perde fonte, tempo o contesto, recupera l’ultimo punto in cui fonte e movimento erano causalmente presenti insieme e ricomponilo con le conseguenze realmente avvenute. È una continuazione in avanti, senza reinstallare la consapevolezza precedente. Restituisci la correzione riusabile al metodo che altrimenti ripeterebbe la perdita."
+      }
+    ],
+    "depth": {
+      "title": "La comprensione può riformare la propria cornice",
+      "paragraphs": [
+        "Il lavoro diretto comprende un oggetto e le sue relazioni. La relazione meta emerge quando quella comprensione cambia il metodo che interpreta, confronta o forma capacità.",
+        "La relazione diventa autologica quando questa competenza riconosce nella propria rappresentazione la causa di una perdita. Cambia l’ingresso della comprensione successiva, senza un controllore separato o un obbligo di dubitare di ogni risultato sufficiente."
+      ]
+    },
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia o allega AVVIO_CHAT_IT.txt e aggiungi intento, fonti pertinenti e mezzi disponibili. Conserva la continuazione utile per la sessione successiva."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa, parti da SKILL.md e conserva accanto sapere operativo ed esempi. Il ricevente determina strumenti, memoria e azioni effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega il metodo alle competenze e guide che già possiedono il lavoro. Conserva il sapere locale utile quando valuti un aggiornamento."
+      }
+    ],
+    "learning": [
+      "Conserva quale relazione sorgente ha cambiato percezione o scelta e perché un caso successivo diverso dovrebbe essere affrontato diversamente.",
+      "Se il sapere era già presente ma non partecipava, correggine discovery o ingresso. Una nuova spiegazione non prova da sola assimilazione successiva."
+    ],
+    "operating_guide": "skills/semantic-relational-comprehension/GUIDA_OPERATIVA_IT.md"
+  }
+}
