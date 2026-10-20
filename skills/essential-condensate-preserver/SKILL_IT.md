@@ -1,6 +1,6 @@
 ---
 name: essential-condensate-preserver
-description: "Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla. Usare quando: Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere."
+description: "Preserve concise, source-linked knowledge without losing the reasons for its use. Use when a conversation, correction or successful decision contains a lesson that should survive compression or later reentry."
 ---
 
 # Essential Condensate Preserver

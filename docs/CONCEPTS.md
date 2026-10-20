@@ -34,6 +34,6 @@ Foundational formulations retain their attribution and invariant meaning. Public
 
 ## Resources carrying these relations
 
-[Meta_Metodo](../skills/organizzare-lavoro-complesso/README.md) forms a situated method. [Meta_Skill](../skills/creare-comporre-competenze/README.md) recognizes, composes and forms competences. [Competence evolution](../skills/evolvere-competenze/README.md) carries reusable knowledge into the method that must act differently. [Kernel continuity](../skills/coerenza-kernel-ai/README.md) maintains live relations when the system itself becomes the relevant object.
+[Meta_Metodo](../skills/meta-metodo/README.md) forms a situated method. [Meta_Skill](../skills/meta-skill-semantic-kernel/README.md) recognizes, composes and forms competences. [Competence evolution](../skills/dnd-skill-evolution-guard/README.md) carries reusable knowledge into the method that must act differently. [Kernel continuity](../skills/kernel-continuum-awareness/README.md) maintains live relations when the system itself becomes the relevant object.
 
-[KA](../skills/ka-kernel-assiomatico/README.md) and [FDLA](../skills/fdla-correzione-ai/README.md) have a different nature from application functions. Each page explains the contribution actually transferred by its body, with examples and usage conditions.
+[KA](../skills/operate-ka/README.md) and [FDLA](../skills/operate-fdla/README.md) have a different nature from application functions. Each page explains the contribution actually transferred by its body, with examples and usage conditions.

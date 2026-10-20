@@ -1,8 +1,8 @@
 ---
 name: compose-agreement-contract
-description: "Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely."
+description: "Form agreement architecture and document structure from parties, intended outcomes, exchanges and dependencies. Use for collaborations, services or partnerships needing clear contributions, rights, obligations and unresolved choices."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

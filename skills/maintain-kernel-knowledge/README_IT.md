@@ -61,3 +61,8 @@ Questa edizione contiene sapere operativo ed esempi illustrativi. Formato, dispo
 ## Licenza
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.
+
+
+## Installare in Codex
+
+Leggi [INSTALL_IT.md](INSTALL_IT.md). Copia l'intera cartella `maintain-kernel-knowledge` nella directory `.agents/skills/` del progetto, poi richiama `$maintain-kernel-knowledge` con fonti e lavoro da svolgere. Conserva un'eventuale copia esistente per confrontarla, senza sovrascriverla.

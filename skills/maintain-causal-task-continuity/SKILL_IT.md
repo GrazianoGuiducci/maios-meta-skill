@@ -1,6 +1,6 @@
 ---
 name: maintain-causal-task-continuity
-description: "Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti. Usare quando: Quando un progetto dura più sessioni, passa a un’altra istanza o richiede di conservare decisioni che un semplice riepilogo perderebbe."
+description: "Preserve intent, decision reasons, operating knowledge and the current continuation of work. Use across sessions, context reduction, interruptions, collaborator handoffs or project reentry."
 ---
 
 # Maintain Causal Task Continuity

@@ -1,3 +1,9 @@
+# Public edition 0.3.2 — installation and canonical discovery
+
+All 25 canonical skills include a self-contained Codex installation guide. The repository installer validates release archives and installs only into an explicit destination, without overwriting existing skills. Former README-only folders are replaced by docs/LEGACY_PATHS.md. English readable names and discovery descriptions are aligned with the canonical entries. Portable operating methods and runtime tools retain edition 0.3.1 behavior.
+
+## Previous delivery, retained as history
+
 # Public edition 0.3.1 — standalone kit links and license
 
 The quick recipient-side review corrected links to optional online common guides that escaped individually extracted kits. Apache-2.0 was selected by Graziano on 20 October 2026; LICENSE and NOTICE are included in all packages. Operating methods, developed examples and runtime behavior retain edition 0.3.0 functionality.

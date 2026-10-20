@@ -1,6 +1,6 @@
 ---
 name: meta-skill-semantic-kernel
-description: Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.
+description: "Recognize, compose, form and evolve competences through actual work. Use when a capability is missing, complementary knowledge changes a task, examples should become reusable know-how, or competence formation itself needs to learn."
 ---
 
 # Meta_Skill Semantic Kernel

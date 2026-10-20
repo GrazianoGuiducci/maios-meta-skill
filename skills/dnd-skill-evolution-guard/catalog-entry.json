@@ -1,7 +1,7 @@
 {
   "id": "evolvere-competenze",
   "name": "D-ND Skill Evolution Guard",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "06",
@@ -10,7 +10,7 @@
   "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
   "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
   "presentation": "skills/dnd-skill-evolution-guard/presentation.json",
-  "package": "dist/dnd-skill-evolution-guard-0.3.1.zip",
+  "package": "dist/dnd-skill-evolution-guard-0.3.2.zip",
   "it": {
     "route": "/risorse/evolvere-competenze/",
     "title": "Far evolvere una competenza AI attraverso il lavoro",
@@ -48,7 +48,8 @@
       "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
       "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
       "operating_guide": "skills/dnd-skill-evolution-guard/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/dnd-skill-evolution-guard/INSTALL.md"
     },
     "it": {
       "skill": "skills/dnd-skill-evolution-guard/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/dnd-skill-evolution-guard/AVVIO_CHAT_IT.txt",
       "examples": "skills/dnd-skill-evolution-guard/ESEMPI_IT.md",
       "operating_guide": "skills/dnd-skill-evolution-guard/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/dnd-skill-evolution-guard/INSTALL_IT.md"
     }
   },
   "skill_name": "dnd-skill-evolution-guard",

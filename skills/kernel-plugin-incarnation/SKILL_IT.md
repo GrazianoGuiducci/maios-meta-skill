@@ -1,6 +1,6 @@
 ---
 name: kernel-plugin-incarnation
-description: Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.
+description: "Carry semantic capabilities into usable plugins and improve their later incarnations. Use for plugin research, use cases, skill/MCP/UI boundaries, packaging, discovery, authentication, security, testing, distribution or cross-host porting."
 ---
 
 # Kernel Plugin Incarnation

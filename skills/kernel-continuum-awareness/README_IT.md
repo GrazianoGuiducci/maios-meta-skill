@@ -68,3 +68,8 @@ La prima edizione rende questa capacità raggiungibile; un uso diverso permette 
 ## Licenza
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Il kit scaricabile include LICENSE e NOTICE. Copyright 2026 Graziano Guiducci. Le guide comuni della repository sono riferimenti online facoltativi; metodo e sapere operativo pratico sono inclusi nel kit.
+
+
+## Installare in Codex
+
+Leggi [INSTALL_IT.md](INSTALL_IT.md). Copia l'intera cartella `kernel-continuum-awareness` nella directory `.agents/skills/` del progetto, poi richiama `$kernel-continuum-awareness` con fonti e lavoro da svolgere. Conserva un'eventuale copia esistente per confrontarla, senza sovrascriverla.

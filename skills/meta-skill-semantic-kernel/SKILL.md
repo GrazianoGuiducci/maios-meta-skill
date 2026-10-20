@@ -1,8 +1,8 @@
 ---
 name: meta-skill-semantic-kernel
-description: "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs."
+description: "Recognize, compose, form and evolve competences through actual work. Use when a capability is missing, complementary knowledge changes a task, examples should become reusable know-how, or competence formation itself needs to learn."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

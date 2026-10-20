@@ -1,8 +1,8 @@
 ---
 name: essential-condensate-preserver
-description: "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it."
+description: "Preserve concise, source-linked knowledge without losing the reasons for its use. Use when a conversation, correction or successful decision contains a lesson that should survive compression or later reentry."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

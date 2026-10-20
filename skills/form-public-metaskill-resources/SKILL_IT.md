@@ -1,9 +1,9 @@
 ---
 name: form-public-metaskill-resources
-description: "Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI. Usare quando: Quando un team vuole condividere un metodo o una skill maturati nel lavoro e renderli utili anche ad altri."
+description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 ---
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 **Trasformare una competenza interna in una risorsa pubblica**
 

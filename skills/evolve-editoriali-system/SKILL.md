@@ -1,12 +1,12 @@
 ---
 name: evolve-editoriali-system
-description: "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system."
+description: "Organize and evolve an editorial system's knowledge and work. Use when writing methods, authorial sources, domain expertise, individual works and accumulated corrections need reachable owners and useful continuity."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 ## Object of the work
 

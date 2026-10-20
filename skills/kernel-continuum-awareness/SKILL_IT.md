@@ -1,6 +1,6 @@
 ---
 name: kernel-continuum-awareness
-description: Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.
+description: "Maintain source-bound operating understanding while a kernel or its incarnations change. Use for kernel reentry, meaning/configuration drift, competence continuity or autological correction of the system's own way of operating."
 ---
 
 # Kernel Continuum Awareness

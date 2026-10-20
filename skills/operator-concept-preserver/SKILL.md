@@ -1,8 +1,8 @@
 ---
 name: operator-concept-preserver
-description: "Separates the author's words from assistant output, reduces noise and duplication, and organises useful concepts with source references."
+description: "Recover an author's concepts and corrections from selected conversations, notes or transcripts. Use when separating original words from assistant interpretations, extracting ideas or preserving source attribution for later writing."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

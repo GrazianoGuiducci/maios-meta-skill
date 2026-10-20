@@ -1,8 +1,8 @@
 ---
 name: meta-activity
-description: "Creates complex scheduled activities that can understand what to do and evolve."
+description: "Form and evolve context-aware recurring AI activities. Use when entrusted work needs a schedule or event trigger, connected functions, persistent knowledge, self-management or adaptation of an existing activity."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

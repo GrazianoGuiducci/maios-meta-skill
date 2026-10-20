@@ -1,4 +1,4 @@
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 ## Transfer the capability, then derive its presentation
 

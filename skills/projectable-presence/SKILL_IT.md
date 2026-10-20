@@ -1,6 +1,6 @@
 ---
 name: projectable-presence
-description: "Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione. Quando un prodotto deve spiegarsi, un assistente rappresenta un servizio o più incontri devono mantenere la stessa identità."
+description: "Form a recognizable presence for a kernel, product or assistant. Use when identity, capabilities, available knowledge and the continuity of a public encounter must remain connected across explanations and interactions."
 ---
 
 # Projectable Presence

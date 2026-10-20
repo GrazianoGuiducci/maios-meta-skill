@@ -1,8 +1,8 @@
 ---
 name: classify-content-with-taxonomic-titles-and-descriptions
-description: "Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter."
+description: "Write titles, subtitles and descriptions that identify content before it is opened. Use for articles, resource cards, pages, documents or sections whose subject, use or distinguishing context is unclear."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

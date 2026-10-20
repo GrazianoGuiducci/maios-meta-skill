@@ -1,4 +1,4 @@
-Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.1 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.2 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
 
 # Projectable Presence
 

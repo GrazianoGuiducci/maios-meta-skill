@@ -1,6 +1,6 @@
 ---
 name: incarnate-neutral-kernel-node
-description: Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà.
+description: "Form or update an AI recipient from shared kernel capabilities while preserving its own purpose and learning. Use for node setup, source-to-receiver adaptation, migration or read-only inspection of kernel/source differences."
 ---
 
 # Incarnate Neutral Kernel Node

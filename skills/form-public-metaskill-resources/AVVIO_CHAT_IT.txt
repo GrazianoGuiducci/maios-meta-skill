@@ -1,6 +1,6 @@
-Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.1 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
+Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.2 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 **Trasformare una competenza interna in una risorsa pubblica**
 
@@ -43,7 +43,7 @@ Conserva fonte, ragione e conseguenza che miglioreranno la prossima risorsa. Una
 
 Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 ## Trasferire la capacità e derivarne la presentazione
 

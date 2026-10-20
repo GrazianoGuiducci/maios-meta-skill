@@ -1,8 +1,8 @@
 ---
 name: incarnate-neutral-kernel-node
-description: "Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows."
+description: "Form or update an AI recipient from shared kernel capabilities while preserving its own purpose and learning. Use for node setup, source-to-receiver adaptation, migration or read-only inspection of kernel/source differences."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

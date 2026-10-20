@@ -1,8 +1,8 @@
 ---
 name: operate-fdla
-description: "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming."
+description: "Correct assistant-introduced changes to source, object, status or possibilities while working. Use when a summary drifts, an interpretation replaces its source, or consequences require recomposing the method and next action."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

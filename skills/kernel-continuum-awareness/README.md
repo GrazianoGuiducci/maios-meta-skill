@@ -96,3 +96,8 @@ With files, make this whole folder readable and use the host’s supported entry
 ## License
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). The downloaded kit includes LICENSE and NOTICE. Copyright 2026 Graziano Guiducci. Common repository guides are optional online references; the method and practical operating knowledge are included in this kit.
+
+
+## Install in Codex
+
+Read [INSTALL.md](INSTALL.md). Copy the complete `kernel-continuum-awareness` folder into your project's `.agents/skills/` directory, then invoke `$kernel-continuum-awareness` with your sources and intended work. Keep an existing copy for comparison instead of overwriting it.

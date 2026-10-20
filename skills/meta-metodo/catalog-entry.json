@@ -1,7 +1,7 @@
 {
   "id": "organizzare-lavoro-complesso",
   "name": "Meta_Metodo",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "04",
@@ -10,7 +10,7 @@
   "starter": "skills/meta-metodo/START_CHAT_EN.txt",
   "examples": "skills/meta-metodo/EXAMPLES.md",
   "presentation": "skills/meta-metodo/presentation.json",
-  "package": "dist/meta-metodo-0.3.1.zip",
+  "package": "dist/meta-metodo-0.3.2.zip",
   "it": {
     "route": "/risorse/organizzare-lavoro-complesso/",
     "title": "Organizzare un lavoro complesso con l’AI",
@@ -48,7 +48,8 @@
       "starter": "skills/meta-metodo/START_CHAT_EN.txt",
       "examples": "skills/meta-metodo/EXAMPLES.md",
       "operating_guide": "skills/meta-metodo/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/meta-metodo/INSTALL.md"
     },
     "it": {
       "skill": "skills/meta-metodo/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/meta-metodo/AVVIO_CHAT_IT.txt",
       "examples": "skills/meta-metodo/ESEMPI_IT.md",
       "operating_guide": "skills/meta-metodo/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/meta-metodo/INSTALL_IT.md"
     }
   },
   "skill_name": "meta-metodo",

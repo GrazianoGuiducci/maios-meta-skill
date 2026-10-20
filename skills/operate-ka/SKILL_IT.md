@@ -1,6 +1,6 @@
 ---
 name: operate-ka
-description: Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.
+description: "Exercise KA, Kernel Assiomatico, through source, intent, the actual situation and its possibilities. Use as operating orientation when a partial context, representation or first solution risks replacing the wider field."
 ---
 
 # KA — Kernel Assiomatico

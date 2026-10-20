@@ -1,8 +1,8 @@
 ---
 name: dnd-material-work-continuity
-description: "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects."
+description: "Reconstruct and preserve requests, actions, corrections and observed effects. Use when changing requirements, interrupted work or disputed history requires source attribution; includes an optional deterministic event recorder and reconstruction tools."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

@@ -1,7 +1,7 @@
 {
   "id": "avviare-nodo-ai",
   "name": "Incarnate Neutral Kernel Node",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "20",
@@ -10,7 +10,7 @@
   "starter": "skills/incarnate-neutral-kernel-node/START_CHAT_EN.txt",
   "examples": "skills/incarnate-neutral-kernel-node/EXAMPLES.md",
   "presentation": "skills/incarnate-neutral-kernel-node/presentation.json",
-  "package": "dist/incarnate-neutral-kernel-node-0.3.1.zip",
+  "package": "dist/incarnate-neutral-kernel-node-0.3.2.zip",
   "it": {
     "title": "Avviare un assistente AI con identità e continuità proprie",
     "kind": "Metacompetenza di trasferimento",
@@ -51,7 +51,8 @@
       "runtime_sources": [
         "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
         "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
-      ]
+      ],
+      "installation": "skills/incarnate-neutral-kernel-node/INSTALL.md"
     },
     "it": {
       "skill": "skills/incarnate-neutral-kernel-node/SKILL_IT.md",
@@ -62,7 +63,8 @@
       "runtime_sources": [
         "skills/incarnate-neutral-kernel-node/scripts/inspect_kernel_pair.py",
         "skills/incarnate-neutral-kernel-node/references/port-map.example.json"
-      ]
+      ],
+      "installation": "skills/incarnate-neutral-kernel-node/INSTALL_IT.md"
     }
   },
   "skill_name": "incarnate-neutral-kernel-node",

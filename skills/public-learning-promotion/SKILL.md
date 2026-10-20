@@ -1,8 +1,8 @@
 ---
 name: public-learning-promotion
-description: "Separates reusable learning from private details and chooses a public form faithful to what was observed or built."
+description: "Identify and communicate learning that remains useful outside its original project. Use when a private observation, experiment, method or consequence may become a public guide, resource or case while preserving its source and limits."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

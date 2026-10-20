@@ -1,6 +1,6 @@
 ---
 name: dnd-material-work-continuity
-description: "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati. Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale."
+description: "Reconstruct and preserve requests, actions, corrections and observed effects. Use when changing requirements, interrupted work or disputed history requires source attribution; includes an optional deterministic event recorder and reconstruction tools."
 ---
 
 # D-ND Material Work Continuity

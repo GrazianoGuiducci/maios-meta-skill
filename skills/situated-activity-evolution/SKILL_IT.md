@@ -1,6 +1,6 @@
 ---
 name: situated-activity-evolution
-description: "Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente. Quando un’automazione continua a girare ma il contesto, le fonti o il lavoro che deve servire sono cambiati."
+description: "Improve an existing recurring AI activity when its usefulness, sources or context change. Use for repeated unused output, overlapping jobs, weak handoffs or new possibilities that should change how the activity continues."
 ---
 
 # Situated Activity Evolution

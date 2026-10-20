@@ -1,6 +1,6 @@
 ---
 name: public-learning-promotion
-description: "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito. Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico."
+description: "Identify and communicate learning that remains useful outside its original project. Use when a private observation, experiment, method or consequence may become a public guide, resource or case while preserving its source and limits."
 ---
 
 # Public Learning Promotion

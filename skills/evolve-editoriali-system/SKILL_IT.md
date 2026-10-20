@@ -1,9 +1,9 @@
 ---
 name: evolve-editoriali-system
-description: Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.
+description: "Organize and evolve an editorial system's knowledge and work. Use when writing methods, authorial sources, domain expertise, individual works and accumulated corrections need reachable owners and useful continuity."
 ---
 
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 **Organizzare un sistema editoriale AI che impara dal lavoro**
 

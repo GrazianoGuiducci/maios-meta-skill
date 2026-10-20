@@ -1,4 +1,4 @@
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 **Organize an AI editorial system that learns from its work**
 
@@ -94,3 +94,8 @@ With files, make this whole folder readable and use the host’s supported entry
 ## License
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). The downloaded kit includes LICENSE and NOTICE. Copyright 2026 Graziano Guiducci. Common repository guides are optional online references; the method and practical operating knowledge are included in this kit.
+
+
+## Install in Codex
+
+Read [INSTALL.md](INSTALL.md). Copy the complete `evolve-editoriali-system` folder into your project's `.agents/skills/` directory, then invoke `$evolve-editoriali-system` with your sources and intended work. Keep an existing copy for comparison instead of overwriting it.

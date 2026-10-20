@@ -1,8 +1,8 @@
 ---
 name: meta-activity
-description: Forma e fa evolvere attività agentiche dal contesto del lavoro. Usa per trasformare un intento in un'attività o servizio AI, riconoscere e comporre funzioni e competenze, continuare un incarico o adattarne metodo, conoscenza e organizzazione; l'attivazione può avvenire su richiesta, evento o cadenza.
+description: "Form and evolve context-aware recurring AI activities. Use when entrusted work needs a schedule or event trigger, connected functions, persistent knowledge, self-management or adaptation of an existing activity."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
 ---
 
 # Meta-Activity

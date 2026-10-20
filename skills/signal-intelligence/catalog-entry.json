@@ -1,7 +1,7 @@
 {
   "id": "fonti-segnali-conoscenza",
   "name": "Signal Intelligence",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "05",
@@ -10,7 +10,7 @@
   "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
   "examples": "skills/signal-intelligence/EXAMPLES.md",
   "presentation": "skills/signal-intelligence/presentation.json",
-  "package": "dist/signal-intelligence-0.3.1.zip",
+  "package": "dist/signal-intelligence-0.3.2.zip",
   "it": {
     "route": "/risorse/fonti-segnali-conoscenza/",
     "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
@@ -48,7 +48,8 @@
       "starter": "skills/signal-intelligence/START_CHAT_EN.txt",
       "examples": "skills/signal-intelligence/EXAMPLES.md",
       "operating_guide": "skills/signal-intelligence/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/signal-intelligence/INSTALL.md"
     },
     "it": {
       "skill": "skills/signal-intelligence/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/signal-intelligence/AVVIO_CHAT_IT.txt",
       "examples": "skills/signal-intelligence/ESEMPI_IT.md",
       "operating_guide": "skills/signal-intelligence/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/signal-intelligence/INSTALL_IT.md"
     }
   },
   "skill_name": "signal-intelligence",

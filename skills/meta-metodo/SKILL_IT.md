@@ -1,6 +1,6 @@
 ---
 name: meta-metodo
-description: "Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove. Usare quando: Quando idee, attività, strumenti e priorità sono mescolati e una lista di task non basta a comprendere come procedere."
+description: "Form a situated method for complex work. Use when intent, sources, possibilities, tools and priorities are mixed, an initial solution narrows the question, or a consequential discovery should change the method."
 ---
 
 # Meta_Metodo

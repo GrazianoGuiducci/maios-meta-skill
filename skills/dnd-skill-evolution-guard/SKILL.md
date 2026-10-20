@@ -1,8 +1,8 @@
 ---
 name: dnd-skill-evolution-guard
-description: "Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference."
+description: "Improve the competence through which reusable learning must continue. Use when a correction, successful outcome, recurring loss or new possibility should change an operating method, guide, entry or connection to another capability."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

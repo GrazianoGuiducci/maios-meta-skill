@@ -1,4 +1,4 @@
-# Formare risorse pubbliche dalle metacompetenze — application examples
+# Form Public Meta-Skill Resources — application examples
 
 [Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
 

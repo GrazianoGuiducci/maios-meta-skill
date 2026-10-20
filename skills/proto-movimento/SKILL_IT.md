@@ -1,6 +1,6 @@
 ---
 name: proto-movimento
-description: Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.
+description: "Let construction and receiver experience shape a new kernel and the method forming it. Use when kernel transfer, recipient feedback or the relation between source capability and medium should change the next formation."
 ---
 
 # Proto Movimento

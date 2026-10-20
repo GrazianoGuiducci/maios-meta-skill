@@ -1,4 +1,4 @@
-# Comprendere e organizzare Editoriali — application examples
+# Evolve Editoriali System — application examples
 
 [Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
 

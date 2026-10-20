@@ -1,7 +1,7 @@
 {
   "id": "organizzare-sistema-editoriale",
-  "name": "Comprendere e organizzare Editoriali",
-  "version": "0.3.1",
+  "name": "Evolve Editoriali System",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "17",
@@ -10,7 +10,7 @@
   "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
   "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
   "presentation": "skills/evolve-editoriali-system/presentation.json",
-  "package": "dist/evolve-editoriali-system-0.3.1.zip",
+  "package": "dist/evolve-editoriali-system-0.3.2.zip",
   "it": {
     "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
     "kind": "Metacompetenza organizzativa",
@@ -48,7 +48,8 @@
       "starter": "skills/evolve-editoriali-system/START_CHAT_EN.txt",
       "examples": "skills/evolve-editoriali-system/EXAMPLES.md",
       "operating_guide": "skills/evolve-editoriali-system/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/evolve-editoriali-system/INSTALL.md"
     },
     "it": {
       "skill": "skills/evolve-editoriali-system/SKILL_IT.md",
@@ -56,9 +57,11 @@
       "starter": "skills/evolve-editoriali-system/AVVIO_CHAT_IT.txt",
       "examples": "skills/evolve-editoriali-system/ESEMPI_IT.md",
       "operating_guide": "skills/evolve-editoriali-system/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/evolve-editoriali-system/INSTALL_IT.md"
     }
   },
   "skill_name": "evolve-editoriali-system",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "source_title": "Comprendere e organizzare Editoriali"
 }

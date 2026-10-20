@@ -1,3 +1,9 @@
+# Edizione pubblica 0.3.2 — installazione e discovery canonica
+
+Tutte le 25 skill canoniche includono una guida di installazione Codex autonoma. L'installer controlla gli archivi e scrive soltanto nella destinazione esplicita, senza sovrascrivere skill esistenti. I rinvii storici sono nella mappa docs/LEGACY_PATHS.md. Nomi pubblici inglesi e descrizioni di discovery seguono le entry canoniche. Metodi e strumenti mantengono il comportamento della 0.3.1.
+
+## Consegne precedenti, conservate come storia
+
 # MAIOS Meta-Skill — stato corrente
 
 ## Edizione pubblica 0.3.1 — kit autonomi e licenza

@@ -1,8 +1,8 @@
 ---
 name: ux-ai-kernel-design
-description: "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work."
+description: "Make an AI agent's work and human intervention points understandable. Use when explanations, depth, interface state or representations should help a person orient, correct, guide or continue actual work."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

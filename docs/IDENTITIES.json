@@ -1,5 +1,5 @@
 {
-  "edition": "0.3.1",
+  "edition": "0.3.2",
   "resources": [
     {
       "resource_id": "meta-activity",
@@ -91,14 +91,15 @@
     },
     {
       "resource_id": "formare-risorse-pubbliche",
-      "name": "Formare risorse pubbliche dalle metacompetenze",
+      "name": "Form Public Meta-Skill Resources",
       "skill_name": "form-public-metaskill-resources",
       "folder": "skills/form-public-metaskill-resources",
       "previous_folder": "skills/formare-risorse-pubbliche",
       "routes": {
         "en": "/resources/formare-risorse-pubbliche/",
         "it": "/risorse/formare-risorse-pubbliche/"
-      }
+      },
+      "source_title": "Formare risorse pubbliche dalle metacompetenze"
     },
     {
       "resource_id": "ricostruire-lavoro-decisioni",
@@ -190,14 +191,15 @@
     },
     {
       "resource_id": "organizzare-sistema-editoriale",
-      "name": "Comprendere e organizzare Editoriali",
+      "name": "Evolve Editoriali System",
       "skill_name": "evolve-editoriali-system",
       "folder": "skills/evolve-editoriali-system",
       "previous_folder": "skills/organizzare-sistema-editoriale",
       "routes": {
         "en": "/resources/organizzare-sistema-editoriale/",
         "it": "/risorse/organizzare-sistema-editoriale/"
-      }
+      },
+      "source_title": "Comprendere e organizzare Editoriali"
     },
     {
       "resource_id": "creare-comporre-competenze",

@@ -1,8 +1,8 @@
 ---
 name: maintain-repository-continuity
-description: "Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity."
+description: "Continue and share work in a selected Git repository while preserving concurrent contributions. Use for local changes, commits, divergent revisions or handoffs where collaborators need the same source identity and decision reasons."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

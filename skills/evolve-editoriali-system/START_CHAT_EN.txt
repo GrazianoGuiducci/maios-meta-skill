@@ -1,6 +1,6 @@
-Apply this competence to the work described below. The public edition 0.3.1 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+Apply this competence to the work described below. The public edition 0.3.2 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 ## Object of the work
 
@@ -45,7 +45,7 @@ A MAIOS public adaptation of evolve-editoriali-system. It preserves general orga
 
 Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
 
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 ## Organize the knowledge that makes editorial work possible
 
@@ -57,7 +57,7 @@ Design relationships between meaning, topology and method together: who knows, w
 
 An individual article or book may need a continuing competence carrying sources, choices, contradictions and relations among parts. An existing work guide can already supply it. A correction then follows dependent parts while preserving valid and concurrent work; reusable knowledge returns to the appropriate editorial faculty. This is a possible supported function, not a requirement to produce a work merely to organize the system. Apply organizational changes only on the selected surfaces and preserve source authority and actual publication effects.
 
-# Comprendere e organizzare Editoriali — application examples
+# Evolve Editoriali System — application examples
 
 [Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
 

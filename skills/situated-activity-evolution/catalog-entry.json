@@ -1,7 +1,7 @@
 {
   "id": "migliorare-attivita-ricorrenti",
   "name": "Situated Activity Evolution",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "11",
@@ -10,7 +10,7 @@
   "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
   "examples": "skills/situated-activity-evolution/EXAMPLES.md",
   "presentation": "skills/situated-activity-evolution/presentation.json",
-  "package": "dist/situated-activity-evolution-0.3.1.zip",
+  "package": "dist/situated-activity-evolution-0.3.2.zip",
   "it": {
     "route": "/risorse/migliorare-attivita-ricorrenti/",
     "title": "Far migliorare un’attività AI attraverso i suoi risultati",
@@ -48,7 +48,8 @@
       "starter": "skills/situated-activity-evolution/START_CHAT_EN.txt",
       "examples": "skills/situated-activity-evolution/EXAMPLES.md",
       "operating_guide": "skills/situated-activity-evolution/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/situated-activity-evolution/INSTALL.md"
     },
     "it": {
       "skill": "skills/situated-activity-evolution/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/situated-activity-evolution/AVVIO_CHAT_IT.txt",
       "examples": "skills/situated-activity-evolution/ESEMPI_IT.md",
       "operating_guide": "skills/situated-activity-evolution/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/situated-activity-evolution/INSTALL_IT.md"
     }
   },
   "skill_name": "situated-activity-evolution",

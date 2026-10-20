@@ -1,6 +1,6 @@
 ---
 name: classify-content-with-taxonomic-titles-and-descriptions
-description: "Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto. Usare quando: Quando i titoli sono generici, promozionali o comprensibili soltanto a chi conosce già la conversazione."
+description: "Write titles, subtitles and descriptions that identify content before it is opened. Use for articles, resource cards, pages, documents or sections whose subject, use or distinguishing context is unclear."
 ---
 
 # Classify Content With Taxonomic Titles And Descriptions

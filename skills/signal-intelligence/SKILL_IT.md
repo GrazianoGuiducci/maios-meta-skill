@@ -1,6 +1,6 @@
 ---
 name: signal-intelligence
-description: "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente. Usare quando: Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare."
+description: "Turn articles, papers, observations and emerging signals into source-linked project knowledge. Use when provenance, timing, contradictions or neglected relations can change a decision or the competence that will continue the work."
 ---
 
 # Signal Intelligence

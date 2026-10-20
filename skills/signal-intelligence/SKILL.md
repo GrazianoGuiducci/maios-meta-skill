@@ -1,8 +1,8 @@
 ---
 name: signal-intelligence
-description: "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently."
+description: "Turn articles, papers, observations and emerging signals into source-linked project knowledge. Use when provenance, timing, contradictions or neglected relations can change a decision or the competence that will continue the work."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

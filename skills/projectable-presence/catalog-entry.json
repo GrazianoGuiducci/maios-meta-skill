@@ -1,7 +1,7 @@
 {
   "id": "presenza-prodotto-assistente",
   "name": "Projectable Presence",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "14",
@@ -10,7 +10,7 @@
   "starter": "skills/projectable-presence/START_CHAT_EN.txt",
   "examples": "skills/projectable-presence/EXAMPLES.md",
   "presentation": "skills/projectable-presence/presentation.json",
-  "package": "dist/projectable-presence-0.3.1.zip",
+  "package": "dist/projectable-presence-0.3.2.zip",
   "it": {
     "route": "/risorse/presenza-prodotto-assistente/",
     "title": "Creare la presenza di un prodotto o di un assistente AI",
@@ -48,7 +48,8 @@
       "starter": "skills/projectable-presence/START_CHAT_EN.txt",
       "examples": "skills/projectable-presence/EXAMPLES.md",
       "operating_guide": "skills/projectable-presence/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/projectable-presence/INSTALL.md"
     },
     "it": {
       "skill": "skills/projectable-presence/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/projectable-presence/AVVIO_CHAT_IT.txt",
       "examples": "skills/projectable-presence/ESEMPI_IT.md",
       "operating_guide": "skills/projectable-presence/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/projectable-presence/INSTALL_IT.md"
     }
   },
   "skill_name": "projectable-presence",

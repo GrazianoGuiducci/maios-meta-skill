@@ -1,8 +1,8 @@
 ---
 name: maintain-causal-task-continuity
-description: "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources."
+description: "Preserve intent, decision reasons, operating knowledge and the current continuation of work. Use across sessions, context reduction, interruptions, collaborator handoffs or project reentry."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

@@ -4,15 +4,21 @@
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
-[Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
+[Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Install in Codex](docs/INSTALL.md) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
 
 ## Start with your work
 
 Choose a resource below, open its **START_CHAT_EN.txt**, then copy or attach the whole file to your AI conversation. Add your intent, sources, existing work and available means. The starter contains the complete method. With file access, make the whole competence folder readable and use SKILL.md as its entry.
 
-English is the primary language of methods, guides, examples and starters. Italian versions are included and linked. Original competence names stay the same across languages.
+English is the primary language of methods, guides, examples and starters. Italian versions are included and linked. Canonical skill names stay the same across languages; original source titles remain recorded in the catalogue.
 
 Edition 0.3.0 restores developed examples and practical operating knowledge from the native competences, including the portable continuity, orientation and receiver-inspection tools. The [transfer record](docs/TRANSFER_REVIEW.md) explains what changed and the scope of the checks. Native entry names identify the operating folders; website routes retain their stable resource IDs.
+
+## Install in Codex
+
+Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
+
+The `skills/` directory contains the 25 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
 ## Choose a resource
 
@@ -28,7 +34,7 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Signal Intelligence](skills/signal-intelligence/README.md) | Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently. | Competence |
 | [D-ND Skill Evolution Guard](skills/dnd-skill-evolution-guard/README.md) | Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference. | Meta-competence |
 | [Classify Content With Taxonomic Titles And Descriptions](skills/classify-content-with-taxonomic-titles-and-descriptions/README.md) | Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter. | Editorial faculty |
-| [Formare risorse pubbliche dalle metacompetenze](skills/form-public-metaskill-resources/README.md) | Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI. | Meta-competence |
+| [Form Public Meta-Skill Resources](skills/form-public-metaskill-resources/README.md) | Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI. | Meta-competence |
 | [D-ND Material Work Continuity](skills/dnd-material-work-continuity/README.md) | Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects. | Competence |
 | [Public Learning Promotion](skills/public-learning-promotion/README.md) | Separates reusable learning from private details and chooses a public form faithful to what was observed or built. | Competence |
 | [Situated Activity Evolution](skills/situated-activity-evolution/README.md) | Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation. | Competence |
@@ -37,7 +43,7 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Projectable Presence](skills/projectable-presence/README.md) | Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues. | Meta-competence |
 | [Maintain Repository Continuity](skills/maintain-repository-continuity/README.md) | Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity. | Technical competence |
 | [Compose Agreement Contract](skills/compose-agreement-contract/README.md) | Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely. | Domain competence |
-| [Comprendere e organizzare Editoriali](skills/evolve-editoriali-system/README.md) | Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system. | Organizational metacompetence |
+| [Evolve Editoriali System](skills/evolve-editoriali-system/README.md) | Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system. | Organizational metacompetence |
 | [Meta_Skill Semantic Kernel](skills/meta-skill-semantic-kernel/README.md) | Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs. | Generative competence kernel |
 | [Kernel Plugin Incarnation](skills/kernel-plugin-incarnation/README.md) | Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected. | Product metacompetence |
 | [Incarnate Neutral Kernel Node](skills/incarnate-neutral-kernel-node/README.md) | Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows. | Transfer metacompetence |
@@ -63,7 +69,7 @@ Host tools, persistence, accounts and recurring activation depend on the actual 
 
 ## Editions and learning
 
-The current public edition is **0.3.1**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
+The current public edition is **0.3.2**, with English public methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages, operating knowledge and worked examples. Starters include that knowledge and the sources of supplied runtime tools. Older downloadable editions retain their own meaning and history.
 
 File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
 

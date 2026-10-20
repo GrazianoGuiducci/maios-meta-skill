@@ -1,8 +1,8 @@
 ---
 name: projectable-presence
-description: "Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues."
+description: "Form a recognizable presence for a kernel, product or assistant. Use when identity, capabilities, available knowledge and the continuity of a public encounter must remain connected across explanations and interactions."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

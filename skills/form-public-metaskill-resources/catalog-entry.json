@@ -1,7 +1,7 @@
 {
   "id": "formare-risorse-pubbliche",
-  "name": "Formare risorse pubbliche dalle metacompetenze",
-  "version": "0.3.1",
+  "name": "Form Public Meta-Skill Resources",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "08",
@@ -10,7 +10,7 @@
   "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
   "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
   "presentation": "skills/form-public-metaskill-resources/presentation.json",
-  "package": "dist/form-public-metaskill-resources-0.3.1.zip",
+  "package": "dist/form-public-metaskill-resources-0.3.2.zip",
   "it": {
     "route": "/risorse/formare-risorse-pubbliche/",
     "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -48,7 +48,8 @@
       "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
       "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
       "operating_guide": "skills/form-public-metaskill-resources/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/form-public-metaskill-resources/INSTALL.md"
     },
     "it": {
       "skill": "skills/form-public-metaskill-resources/SKILL_IT.md",
@@ -56,9 +57,11 @@
       "starter": "skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt",
       "examples": "skills/form-public-metaskill-resources/ESEMPI_IT.md",
       "operating_guide": "skills/form-public-metaskill-resources/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/form-public-metaskill-resources/INSTALL_IT.md"
     }
   },
   "skill_name": "form-public-metaskill-resources",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "source_title": "Formare risorse pubbliche dalle metacompetenze"
 }

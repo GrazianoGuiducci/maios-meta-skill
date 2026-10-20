@@ -1,8 +1,8 @@
 ---
 name: meta-metodo
-description: "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge."
+description: "Form a situated method for complex work. Use when intent, sources, possibilities, tools and priorities are mixed, an initial solution narrows the question, or a consequential discovery should change the method."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

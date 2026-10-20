@@ -1,6 +1,6 @@
 ---
 name: operator-concept-preserver
-description: "Distingue le parole dell’autore dalle risposte dell’assistente, elimina duplicazioni e rumore e organizza i concetti utili con il loro riferimento sorgente. Usare quando: Quando il sapere è disperso in chat, appunti o trascrizioni e vuoi ricavarne idee o metodi utilizzabili."
+description: "Recover an author's concepts and corrections from selected conversations, notes or transcripts. Use when separating original words from assistant interpretations, extracting ideas or preserving source attribution for later writing."
 ---
 
 # Operator Concept Preserver

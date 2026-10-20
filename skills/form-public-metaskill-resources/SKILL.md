@@ -1,12 +1,12 @@
 ---
 name: form-public-metaskill-resources
-description: "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI."
+description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 Turn internal know-how into a resource people and assistants outside its originating context can understand, start and adapt. Hold together transferred method, guide, first use, repository or other distribution location, presentation page and editorial adaptations.
 

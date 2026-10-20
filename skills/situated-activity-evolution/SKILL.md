@@ -1,8 +1,8 @@
 ---
 name: situated-activity-evolution
-description: "Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation."
+description: "Improve an existing recurring AI activity when its usefulness, sources or context change. Use for repeated unused output, overlapping jobs, weak handoffs or new possibilities that should change how the activity continues."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

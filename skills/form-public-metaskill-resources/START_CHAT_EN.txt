@@ -1,6 +1,6 @@
-Apply this competence to the work described below. The public edition 0.3.1 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+Apply this competence to the work described below. The public edition 0.3.2 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 Turn internal know-how into a resource people and assistants outside its originating context can understand, start and adapt. Hold together transferred method, guide, first use, repository or other distribution location, presentation page and editorial adaptations.
 
@@ -43,7 +43,7 @@ Keep the source, reason and consequence that improve the next resource. An initi
 
 Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
 
-# Formare risorse pubbliche dalle metacompetenze
+# Form Public Meta-Skill Resources
 
 ## Transfer the capability, then derive its presentation
 
@@ -63,7 +63,7 @@ Derive the article from the actual resource and adapt it for the selected channe
 
 The formation method learns from its own transfer. If examples were generated from catalog slogans, repair the example source consumed by the generator. If a body already taught a relation but was bypassed, reconnect that knowledge at the decision that displaced it. An audit is useful when it changes the actual transfer; diagnosis alone does not complete the selected delivery.
 
-# Formare risorse pubbliche dalle metacompetenze — application examples
+# Form Public Meta-Skill Resources — application examples
 
 [Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
 

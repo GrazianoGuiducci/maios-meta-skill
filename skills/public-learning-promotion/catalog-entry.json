@@ -1,7 +1,7 @@
 {
   "id": "condividere-apprendimenti",
   "name": "Public Learning Promotion",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "10",
@@ -10,7 +10,7 @@
   "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
   "examples": "skills/public-learning-promotion/EXAMPLES.md",
   "presentation": "skills/public-learning-promotion/presentation.json",
-  "package": "dist/public-learning-promotion-0.3.1.zip",
+  "package": "dist/public-learning-promotion-0.3.2.zip",
   "it": {
     "route": "/risorse/condividere-apprendimenti/",
     "title": "Ricavare conoscenze condivisibili dal lavoro interno",
@@ -48,7 +48,8 @@
       "starter": "skills/public-learning-promotion/START_CHAT_EN.txt",
       "examples": "skills/public-learning-promotion/EXAMPLES.md",
       "operating_guide": "skills/public-learning-promotion/OPERATING_GUIDE.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/public-learning-promotion/INSTALL.md"
     },
     "it": {
       "skill": "skills/public-learning-promotion/SKILL_IT.md",
@@ -56,7 +57,8 @@
       "starter": "skills/public-learning-promotion/AVVIO_CHAT_IT.txt",
       "examples": "skills/public-learning-promotion/ESEMPI_IT.md",
       "operating_guide": "skills/public-learning-promotion/GUIDA_OPERATIVA_IT.md",
-      "runtime_sources": []
+      "runtime_sources": [],
+      "installation": "skills/public-learning-promotion/INSTALL_IT.md"
     }
   },
   "skill_name": "public-learning-promotion",

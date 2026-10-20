@@ -1,8 +1,8 @@
 ---
 name: proto-movimento
-description: "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it."
+description: "Let construction and receiver experience shape a new kernel and the method forming it. Use when kernel transfer, recipient feedback or the relation between source capability and medium should change the next formation."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

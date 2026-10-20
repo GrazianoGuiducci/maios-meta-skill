@@ -1,6 +1,6 @@
 ---
 name: operate-fdla
-description: Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.
+description: "Correct assistant-introduced changes to source, object, status or possibilities while working. Use when a summary drifts, an interpretation replaces its source, or consequences require recomposing the method and next action."
 ---
 
 # Operate FDLA

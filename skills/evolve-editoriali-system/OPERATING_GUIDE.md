@@ -1,4 +1,4 @@
-# Comprendere e organizzare Editoriali
+# Evolve Editoriali System
 
 ## Organize the knowledge that makes editorial work possible
 

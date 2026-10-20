@@ -1,8 +1,8 @@
 ---
 name: maintain-kernel-knowledge
-description: "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become."
+description: "Organize source-linked knowledge of an AI system's meaning, architecture, capabilities and direction. Use when documentation or research must distinguish system knowledge, current state, observed behavior and future possibilities."
 metadata:
-  version: 0.3.1
+  version: 0.3.2
   language: en
 ---
 

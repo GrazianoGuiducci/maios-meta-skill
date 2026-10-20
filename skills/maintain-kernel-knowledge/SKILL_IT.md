@@ -1,6 +1,6 @@
 ---
 name: maintain-kernel-knowledge
-description: "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare. Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo."
+description: "Organize source-linked knowledge of an AI system's meaning, architecture, capabilities and direction. Use when documentation or research must distinguish system knowledge, current state, observed behavior and future possibilities."
 ---
 
 # Maintain Kernel Knowledge

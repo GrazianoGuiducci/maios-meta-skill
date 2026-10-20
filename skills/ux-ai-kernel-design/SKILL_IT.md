@@ -1,6 +1,6 @@
 ---
 name: ux-ai-kernel-design
-description: "Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro. Quando un sistema AI restituisce risultati ma chi lo usa non riesce a capire cosa cambia o come partecipare."
+description: "Make an AI agent's work and human intervention points understandable. Use when explanations, depth, interface state or representations should help a person orient, correct, guide or continue actual work."
 ---
 
 # UX-AI Kernel Design

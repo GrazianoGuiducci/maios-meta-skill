@@ -1,7 +1,7 @@
 {
   "id": "creare-comporre-competenze",
   "name": "Meta_Skill Semantic Kernel",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "18",
@@ -10,7 +10,7 @@
   "starter": "skills/meta-skill-semantic-kernel/START_CHAT_EN.txt",
   "examples": "skills/meta-skill-semantic-kernel/EXAMPLES.md",
   "presentation": "skills/meta-skill-semantic-kernel/presentation.json",
-  "package": "dist/meta-skill-semantic-kernel-0.3.1.zip",
+  "package": "dist/meta-skill-semantic-kernel-0.3.2.zip",
   "it": {
     "title": "Creare e comporre competenze per un sistema AI",
     "kind": "Kernel generativo di competenze",
@@ -51,7 +51,8 @@
       "runtime_sources": [
         "skills/meta-skill-semantic-kernel/scripts/system_field.py",
         "skills/meta-skill-semantic-kernel/references/system-field.example.json"
-      ]
+      ],
+      "installation": "skills/meta-skill-semantic-kernel/INSTALL.md"
     },
     "it": {
       "skill": "skills/meta-skill-semantic-kernel/SKILL_IT.md",
@@ -62,7 +63,8 @@
       "runtime_sources": [
         "skills/meta-skill-semantic-kernel/scripts/system_field.py",
         "skills/meta-skill-semantic-kernel/references/system-field.example.json"
-      ]
+      ],
+      "installation": "skills/meta-skill-semantic-kernel/INSTALL_IT.md"
     }
   },
   "skill_name": "meta-skill-semantic-kernel",

@@ -67,3 +67,8 @@ Se condividi un riscontro nella repository, descrivi la situazione e il risultat
 Ogni kit include GUIDA_OPERATIVA_IT.md e il corrispondente inglese. L'avvio porta metodo, sapere ed esempi articolati. Quando la funzione nativa fornisce un tool runtime, le sorgenti sono incluse nella cartella e nell'avvio. Una chat senza esecuzione può usare il metodo e preparare lavoro; l'esecuzione impiega Python, Git o altri mezzi reali dell'host. La guida selezionata spiega ingressi, comandi e test significativi. Non vengono fornite credenziali o stato privato dei nodi.
 
 Le cartelle usano le entry native. Gli identificatori delle risorse continuano a individuare le rotte del sito; docs/IDENTITIES.json collega queste coordinate. Le precedenti cartelle rimandano ai kit correnti.
+
+
+## Installare in Codex
+
+Segui [INSTALL_IT.md](INSTALL_IT.md) per kit scaricato o installer della repository, discovery, primo uso e aggiornamenti. La [mappa dei percorsi precedenti](LEGACY_PATHS.md) raggiunge le cartelle operative.

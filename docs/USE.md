@@ -45,3 +45,8 @@ For feedback, describe situation and result while removing private data. A resul
 Each kit includes OPERATING_GUIDE.md and its Italian counterpart. The starter carries the method, this knowledge and developed examples. Where the native function supplies a runtime tool, its source is included in the folder and starter too. A chat without execution can reason with the method and prepare work; execution uses the host's actual Python, Git or other means. Follow the selected guide for inputs, command use and meaningful tests. No credentials or private node state are supplied.
 
 Operating folders use native entry names. Stable resource IDs still identify website routes; docs/IDENTITIES.json maps those coordinates. Former distribution folders link to current kits.
+
+
+## Install in Codex
+
+Follow [INSTALL.md](INSTALL.md) for a downloaded kit or the repository installer, discovery, first use and updates. [Previous path mapping](LEGACY_PATHS.md) reaches the canonical folders.

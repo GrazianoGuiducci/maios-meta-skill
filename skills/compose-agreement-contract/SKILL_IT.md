@@ -1,6 +1,6 @@
 ---
 name: compose-agreement-contract
-description: "Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni. Quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro."
+description: "Form agreement architecture and document structure from parties, intended outcomes, exchanges and dependencies. Use for collaborations, services or partnerships needing clear contributions, rights, obligations and unresolved choices."
 ---
 
 # Compose Agreement Contract

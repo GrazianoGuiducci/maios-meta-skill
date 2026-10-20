@@ -1,6 +1,6 @@
 ---
 name: dnd-skill-evolution-guard
-description: "Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza. Usare quando: Quando un errore si ripete, una capacità migliora con l’uso o il sapere esiste ma non viene richiamato nel lavoro."
+description: "Improve the competence through which reusable learning must continue. Use when a correction, successful outcome, recurring loss or new possibility should change an operating method, guide, entry or connection to another capability."
 ---
 
 # D-ND Skill Evolution Guard

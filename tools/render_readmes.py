@@ -105,5 +105,26 @@ La coerenza dei file verifica l’identità della distribuzione. L’uso in un a
 
 Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
 '''
-        text=text.replace('all25','all 25').replace('tutte le25','tutte le 25')
+        version=resources[0]['version']
+        text=text.replace('all25','all 25').replace('tutte le25','tutte le 25').replace('**0.3.1**',f'**{version}**')
+        if en:
+            text=text.replace('[Use guide](docs/USE.md)', '[Install in Codex](docs/INSTALL.md) · [Use guide](docs/USE.md)', 1)
+            text=text.replace('## Choose a resource', '''## Install in Codex
+
+Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
+
+The `skills/` directory contains the 25 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
+
+## Choose a resource''', 1)
+            text=text.replace('Original competence names stay the same across languages.', 'Canonical skill names stay the same across languages; original source titles remain recorded in the catalogue.')
+        else:
+            text=text.replace('[Guida d’uso](docs/USO.md)', '[Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md)', 1)
+            text=text.replace('## Scegliere una risorsa', '''## Installare in Codex
+
+Scarica il kit e copia l'intera cartella canonica in `.agents/skills/` del progetto, oppure seleziona i kit con `python tools/install_skills.py`. La [guida d'installazione](docs/INSTALL_IT.md) spiega percorsi, cartelle esistenti, discovery, primo uso e aggiornamenti. L'installer richiede una destinazione esplicita e non sovrascrive skill esistenti.
+
+La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
+
+## Scegliere una risorsa''', 1)
+            text=text.replace('I nomi originali delle competenze restano uguali nelle due lingue.', 'I nomi tecnici delle skill restano uguali nelle due lingue; il catalogo conserva le intestazioni sorgenti originali.')
         (root/('README.md' if en else 'README_IT.md')).write_text(text,encoding='utf-8',newline='\n')
