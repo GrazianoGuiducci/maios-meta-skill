@@ -108,7 +108,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--list', action='store_true', help='List canonical names and stable resource IDs')
     parser.add_argument('--skill', action='append', default=[], help='Canonical skill name or stable resource ID; repeatable')
-    parser.add_argument('--all', action='store_true', help='Install all 25 resources')
+    parser.add_argument('--all', action='store_true', help='Install the complete resource collection')
     parser.add_argument('--dest', type=Path, help='Explicit destination, such as a project .agents/skills directory')
     parser.add_argument('--dry-run', action='store_true', help='Validate and show the plan without writing')
     args = parser.parse_args()
