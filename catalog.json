@@ -48,11 +48,12 @@
         "format": "Competence · guide · chat starter · examples in Italian",
         "status": "First edition · 0.1.0"
       },
-      "review_id": "00"
+      "review_id": "00",
+      "native_entry": "meta-activity"
     },
     {
       "id": "continuita-del-lavoro-ai",
-      "name": "Continuità del lavoro AI",
+      "name": "Maintain Causal Task Continuity",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -90,11 +91,12 @@
           "Continue research after changing chats.",
           "Hand a business proposal to another assistant with its objective and reasons."
         ]
-      }
+      },
+      "native_entry": "maintain-causal-task-continuity"
     },
     {
       "id": "conservare-conoscenze-utili",
-      "name": "Conoscenze utili",
+      "name": "Essential Condensate Preserver",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -132,11 +134,12 @@
           "Turn an editorial correction into knowledge for later writing.",
           "Keep a project lesson without storing the entire conversation."
         ]
-      }
+      },
+      "native_entry": "essential-condensate-preserver"
     },
     {
       "id": "estrarre-idee-dalle-conversazioni",
-      "name": "Idee dalle conversazioni",
+      "name": "Operator Concept Preserver",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -174,7 +177,8 @@
           "Extract product requirements from project conversations.",
           "Recover corrections that should change an assistant's working method."
         ]
-      }
+      },
+      "native_entry": "operator-concept-preserver"
     },
     {
       "id": "organizzare-lavoro-complesso",
@@ -216,11 +220,12 @@
           "Organise a project from notes presented out of order.",
           "Revise the method when a new source changes the research question."
         ]
-      }
+      },
+      "native_entry": "meta-metodo"
     },
     {
       "id": "fonti-segnali-conoscenza",
-      "name": "Fonti, segnali e conoscenza",
+      "name": "Signal Intelligence",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -258,11 +263,12 @@
           "Connect customer feedback with technical observations.",
           "Turn an execution error into useful methodological knowledge."
         ]
-      }
+      },
+      "native_entry": "signal-intelligence"
     },
     {
       "id": "evolvere-competenze",
-      "name": "Evolvere le competenze AI",
+      "name": "D-ND Skill Evolution Guard",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -300,11 +306,12 @@
           "Successful research enriches an analysis competence.",
           "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
         ]
-      }
+      },
+      "native_entry": "dnd-skill-evolution-guard"
     },
     {
       "id": "titoli-e-sottotitoli",
-      "name": "Titoli e sottotitoli",
+      "name": "Classify Content With Taxonomic Titles And Descriptions",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -342,11 +349,12 @@
           "Make a product card understandable at first encounter.",
           "Organise document titles and names so they can be found in a project."
         ]
-      }
+      },
+      "native_entry": "classify-content-with-taxonomic-titles-and-descriptions"
     },
     {
       "id": "formare-risorse-pubbliche",
-      "name": "Formare risorse pubbliche",
+      "name": "Formare risorse pubbliche dalle metacompetenze",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -384,11 +392,12 @@
           "Prepare a card and dedicated page for an open-source resource.",
           "Derive an article and social adaptations from the same resource version."
         ]
-      }
+      },
+      "native_entry": "form-public-metaskill-resources"
     },
     {
       "id": "ricostruire-lavoro-decisioni",
-      "name": "Continuità delle decisioni",
+      "name": "D-ND Material Work Continuity",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -426,11 +435,12 @@
           "Preserve an action already performed after a change of direction.",
           "Hand over a project with identifiable sources, effects and unresolved questions."
         ]
-      }
+      },
+      "native_entry": "dnd-material-work-continuity"
     },
     {
       "id": "condividere-apprendimenti",
-      "name": "Apprendimenti condivisibili",
+      "name": "Public Learning Promotion",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -468,11 +478,12 @@
           "Separate a transferable method from client data.",
           "Present a research observation while preserving the open question."
         ]
-      }
+      },
+      "native_entry": "public-learning-promotion"
     },
     {
       "id": "migliorare-attivita-ricorrenti",
-      "name": "Evoluzione delle attività",
+      "name": "Situated Activity Evolution",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -510,11 +521,12 @@
           "Connect research results to the competence that needs them.",
           "Understand whether overlapping activities should be combined."
         ]
-      }
+      },
+      "native_entry": "situated-activity-evolution"
     },
     {
       "id": "conoscenza-del-sistema-ai",
-      "name": "Conoscenza del sistema",
+      "name": "Maintain Kernel Knowledge",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -552,11 +564,12 @@
           "Keep the reasons behind architectural decisions.",
           "Supply coherent sources for guides, presentations and research."
         ]
-      }
+      },
+      "native_entry": "maintain-kernel-knowledge"
     },
     {
       "id": "comprendere-lavoro-agente",
-      "name": "Comprensione del lavoro AI",
+      "name": "UX-AI Kernel Design",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -594,11 +607,12 @@
           "Show which sources support the state of an activity.",
           "Let everyday work progressively teach how to use the system's capabilities."
         ]
-      }
+      },
+      "native_entry": "ux-ai-kernel-design"
     },
     {
       "id": "presenza-prodotto-assistente",
-      "name": "Presenza di prodotto",
+      "name": "Projectable Presence",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -636,11 +650,12 @@
           "Continue an encounter with the relevant context.",
           "Keep public presence coherent with product changes."
         ]
-      }
+      },
+      "native_entry": "projectable-presence"
     },
     {
       "id": "continuita-repository",
-      "name": "Continuità del repository",
+      "name": "Maintain Repository Continuity",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -678,11 +693,12 @@
           "Reconcile independent local and remote contributions.",
           "Give another assistant the exact revision to read."
         ]
-      }
+      },
+      "native_entry": "maintain-repository-continuity"
     },
     {
       "id": "accordi-collaborazioni",
-      "name": "Architettura degli accordi",
+      "name": "Compose Agreement Contract",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -720,11 +736,12 @@
           "Prepare a structure of terms for a service.",
           "Identify dependencies between delivery, acceptance and payment."
         ]
-      }
+      },
+      "native_entry": "compose-agreement-contract"
     },
     {
       "id": "organizzare-sistema-editoriale",
-      "name": "Sistema editoriale AI",
+      "name": "Comprendere e organizzare Editoriali",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -762,11 +779,12 @@
         ],
         "route": "/resources/organizzare-sistema-editoriale/",
         "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
-      }
+      },
+      "native_entry": "evolve-editoriali-system"
     },
     {
       "id": "creare-comporre-competenze",
-      "name": "Meta_Skill",
+      "name": "Meta_Skill Semantic Kernel",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -804,11 +822,12 @@
         ],
         "route": "/resources/creare-comporre-competenze/",
         "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use."
-      }
+      },
+      "native_entry": "meta-skill-semantic-kernel"
     },
     {
       "id": "kernel-in-plugin",
-      "name": "Kernel in plugin",
+      "name": "Kernel Plugin Incarnation",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -846,11 +865,12 @@
         ],
         "route": "/resources/kernel-in-plugin/",
         "description": "Connect the source capability to the recipient’s skills, tools and interface while preserving the knowledge that lets it continue."
-      }
+      },
+      "native_entry": "kernel-plugin-incarnation"
     },
     {
       "id": "avviare-nodo-ai",
-      "name": "Avviare un nodo AI",
+      "name": "Incarnate Neutral Kernel Node",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -888,11 +908,12 @@
         ],
         "route": "/resources/avviare-nodo-ai/",
         "description": "Adapt shared capabilities to a new recipient while preserving its project, local state and learning."
-      }
+      },
+      "native_entry": "incarnate-neutral-kernel-node"
     },
     {
       "id": "coerenza-kernel-ai",
-      "name": "Continuità del kernel AI",
+      "name": "Kernel Continuum Awareness",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -930,7 +951,8 @@
         ],
         "route": "/resources/coerenza-kernel-ai/",
         "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
-      }
+      },
+      "native_entry": "kernel-continuum-awareness"
     },
     {
       "id": "formare-kernel-esperienza",
@@ -972,7 +994,8 @@
         ],
         "route": "/resources/formare-kernel-esperienza/",
         "description": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry."
-      }
+      },
+      "native_entry": "proto-movimento"
     },
     {
       "id": "ka-kernel-assiomatico",
@@ -1014,11 +1037,12 @@
         ],
         "route": "/resources/ka-kernel-assiomatico/",
         "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
-      }
+      },
+      "native_entry": "KA / operate-ka"
     },
     {
       "id": "fdla-correzione-ai",
-      "name": "FDLA — correzione nel lavoro",
+      "name": "Operate FDLA",
       "version": "0.1.0",
       "state": "initial_public_edition",
       "instruction_language": "it",
@@ -1056,7 +1080,8 @@
         ],
         "route": "/resources/fdla-correzione-ai/",
         "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
-      }
+      },
+      "native_entry": "FDLA / operate-fdla"
     }
   ]
 }

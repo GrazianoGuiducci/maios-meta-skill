@@ -1,6 +1,6 @@
 {
   "id": "conservare-conoscenze-utili",
-  "name": "Conoscenze utili",
+  "name": "Essential Condensate Preserver",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Turn an editorial correction into knowledge for later writing.",
       "Keep a project lesson without storing the entire conversation."
     ]
-  }
+  },
+  "native_entry": "essential-condensate-preserver"
 }

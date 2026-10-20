@@ -1,6 +1,6 @@
 {
   "id": "condividere-apprendimenti",
-  "name": "Apprendimenti condivisibili",
+  "name": "Public Learning Promotion",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Separate a transferable method from client data.",
       "Present a research observation while preserving the open question."
     ]
-  }
+  },
+  "native_entry": "public-learning-promotion"
 }

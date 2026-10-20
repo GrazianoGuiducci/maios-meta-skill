@@ -38,5 +38,6 @@
     ],
     "route": "/resources/ka-kernel-assiomatico/",
     "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
-  }
+  },
+  "native_entry": "KA / operate-ka"
 }

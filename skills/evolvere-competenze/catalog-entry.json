@@ -1,6 +1,6 @@
 {
   "id": "evolvere-competenze",
-  "name": "Evolvere le competenze AI",
+  "name": "D-ND Skill Evolution Guard",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Successful research enriches an analysis competence.",
       "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
     ]
-  }
+  },
+  "native_entry": "dnd-skill-evolution-guard"
 }

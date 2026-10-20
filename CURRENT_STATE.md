@@ -1,5 +1,15 @@
 # MAIOS Meta-Skill — stato corrente
 
+## Identità delle competenze — 20 ottobre 2026
+
+Il catalogo conserva ora i nomi originali delle competenze sorgenti, identici
+nelle pagine italiane e inglesi. I titoli funzionali rimangono tradotti e
+spiegano il lavoro affidabile alla risorsa. `native_entry` collega ciascuna
+risorsa all'ingresso sorgente; KA mantiene il nome del kernel fondativo.
+Questa correzione riguarda la presentazione: metodi, identificatori, percorsi
+e versione 0.1.0 restano quelli della raccolta. I pacchetti aggiornano i propri
+metadati di catalogo, senza riscrivere i corpi operativi.
+
 ## Raccolta delle 25 risorse — 20 ottobre 2026
 
 La raccolta comprende Meta-Activity e 24 nuove risorse formate dalle competenze sorgente. Il catalogo conserva il diverso contributo di competenze, metacompetenze, funzioni e fondamenti: KA e FDLA non vengono equiparati a un’attività applicativa. Ogni nuovo kit include corpo operativo autonomo, guida, avvio integrale, tre esempi illustrativi e presentazione IT/EN. Le istruzioni sono in italiano.

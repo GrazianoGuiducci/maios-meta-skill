@@ -1,6 +1,6 @@
 {
   "id": "creare-comporre-competenze",
-  "name": "Meta_Skill",
+  "name": "Meta_Skill Semantic Kernel",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/creare-comporre-competenze/",
     "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use."
-  }
+  },
+  "native_entry": "meta-skill-semantic-kernel"
 }

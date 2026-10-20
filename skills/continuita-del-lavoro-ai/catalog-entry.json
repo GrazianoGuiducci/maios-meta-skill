@@ -1,6 +1,6 @@
 {
   "id": "continuita-del-lavoro-ai",
-  "name": "Continuità del lavoro AI",
+  "name": "Maintain Causal Task Continuity",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Continue research after changing chats.",
       "Hand a business proposal to another assistant with its objective and reasons."
     ]
-  }
+  },
+  "native_entry": "maintain-causal-task-continuity"
 }

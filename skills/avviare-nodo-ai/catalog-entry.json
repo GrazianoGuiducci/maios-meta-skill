@@ -1,6 +1,6 @@
 {
   "id": "avviare-nodo-ai",
-  "name": "Avviare un nodo AI",
+  "name": "Incarnate Neutral Kernel Node",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/avviare-nodo-ai/",
     "description": "Adapt shared capabilities to a new recipient while preserving its project, local state and learning."
-  }
+  },
+  "native_entry": "incarnate-neutral-kernel-node"
 }

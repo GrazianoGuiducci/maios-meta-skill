@@ -1,6 +1,6 @@
 {
   "id": "presenza-prodotto-assistente",
-  "name": "Presenza di prodotto",
+  "name": "Projectable Presence",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Continue an encounter with the relevant context.",
       "Keep public presence coherent with product changes."
     ]
-  }
+  },
+  "native_entry": "projectable-presence"
 }

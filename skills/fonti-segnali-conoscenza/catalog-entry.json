@@ -1,6 +1,6 @@
 {
   "id": "fonti-segnali-conoscenza",
-  "name": "Fonti, segnali e conoscenza",
+  "name": "Signal Intelligence",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Connect customer feedback with technical observations.",
       "Turn an execution error into useful methodological knowledge."
     ]
-  }
+  },
+  "native_entry": "signal-intelligence"
 }

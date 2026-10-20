@@ -1,6 +1,6 @@
 {
   "id": "estrarre-idee-dalle-conversazioni",
-  "name": "Idee dalle conversazioni",
+  "name": "Operator Concept Preserver",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Extract product requirements from project conversations.",
       "Recover corrections that should change an assistant's working method."
     ]
-  }
+  },
+  "native_entry": "operator-concept-preserver"
 }

@@ -1,6 +1,6 @@
 {
   "id": "comprendere-lavoro-agente",
-  "name": "Comprensione del lavoro AI",
+  "name": "UX-AI Kernel Design",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Show which sources support the state of an activity.",
       "Let everyday work progressively teach how to use the system's capabilities."
     ]
-  }
+  },
+  "native_entry": "ux-ai-kernel-design"
 }

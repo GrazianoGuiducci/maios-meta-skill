@@ -1,6 +1,6 @@
 {
   "id": "coerenza-kernel-ai",
-  "name": "Continuità del kernel AI",
+  "name": "Kernel Continuum Awareness",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/coerenza-kernel-ai/",
     "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
-  }
+  },
+  "native_entry": "kernel-continuum-awareness"
 }

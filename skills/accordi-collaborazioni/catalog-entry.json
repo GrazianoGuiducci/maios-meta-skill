@@ -1,6 +1,6 @@
 {
   "id": "accordi-collaborazioni",
-  "name": "Architettura degli accordi",
+  "name": "Compose Agreement Contract",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Prepare a structure of terms for a service.",
       "Identify dependencies between delivery, acceptance and payment."
     ]
-  }
+  },
+  "native_entry": "compose-agreement-contract"
 }

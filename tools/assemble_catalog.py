@@ -21,7 +21,7 @@ def main():
     rows = ['| Risorsa | Cosa permette di fare | Tipo |', '| --- | --- | --- |']
     for r in ordered:
         p=r['it']
-        title = r['name'] if r['id']=='meta-activity' else p['title']
+        title = r['name']
         rows.append(f"| [{title}]({r['guide']}) | {p.get('does',p.get('what_it_does'))} | {p.get('kind',p.get('type'))} |")
     readme='''# MAIOS Meta-Skill
 

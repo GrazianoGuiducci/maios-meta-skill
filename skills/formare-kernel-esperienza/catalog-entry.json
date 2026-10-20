@@ -38,5 +38,6 @@
     ],
     "route": "/resources/formare-kernel-esperienza/",
     "description": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry."
-  }
+  },
+  "native_entry": "proto-movimento"
 }

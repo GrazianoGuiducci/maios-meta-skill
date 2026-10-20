@@ -1,6 +1,6 @@
 {
   "id": "continuita-repository",
-  "name": "Continuità del repository",
+  "name": "Maintain Repository Continuity",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Reconcile independent local and remote contributions.",
       "Give another assistant the exact revision to read."
     ]
-  }
+  },
+  "native_entry": "maintain-repository-continuity"
 }

@@ -1,6 +1,6 @@
 {
   "id": "ricostruire-lavoro-decisioni",
-  "name": "Continuità delle decisioni",
+  "name": "D-ND Material Work Continuity",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Preserve an action already performed after a change of direction.",
       "Hand over a project with identifiable sources, effects and unresolved questions."
     ]
-  }
+  },
+  "native_entry": "dnd-material-work-continuity"
 }

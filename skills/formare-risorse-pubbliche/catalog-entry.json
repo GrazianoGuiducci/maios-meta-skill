@@ -1,6 +1,6 @@
 {
   "id": "formare-risorse-pubbliche",
-  "name": "Formare risorse pubbliche",
+  "name": "Formare risorse pubbliche dalle metacompetenze",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Prepare a card and dedicated page for an open-source resource.",
       "Derive an article and social adaptations from the same resource version."
     ]
-  }
+  },
+  "native_entry": "form-public-metaskill-resources"
 }

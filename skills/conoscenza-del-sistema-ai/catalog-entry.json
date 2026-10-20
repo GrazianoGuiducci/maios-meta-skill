@@ -1,6 +1,6 @@
 {
   "id": "conoscenza-del-sistema-ai",
-  "name": "Conoscenza del sistema",
+  "name": "Maintain Kernel Knowledge",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Keep the reasons behind architectural decisions.",
       "Supply coherent sources for guides, presentations and research."
     ]
-  }
+  },
+  "native_entry": "maintain-kernel-knowledge"
 }

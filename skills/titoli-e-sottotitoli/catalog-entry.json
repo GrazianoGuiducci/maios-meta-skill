@@ -1,6 +1,6 @@
 {
   "id": "titoli-e-sottotitoli",
-  "name": "Titoli e sottotitoli",
+  "name": "Classify Content With Taxonomic Titles And Descriptions",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Make a product card understandable at first encounter.",
       "Organise document titles and names so they can be found in a project."
     ]
-  }
+  },
+  "native_entry": "classify-content-with-taxonomic-titles-and-descriptions"
 }

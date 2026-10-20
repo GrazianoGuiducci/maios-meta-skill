@@ -1,6 +1,6 @@
 {
   "id": "kernel-in-plugin",
-  "name": "Kernel in plugin",
+  "name": "Kernel Plugin Incarnation",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/kernel-in-plugin/",
     "description": "Connect the source capability to the recipient’s skills, tools and interface while preserving the knowledge that lets it continue."
-  }
+  },
+  "native_entry": "kernel-plugin-incarnation"
 }

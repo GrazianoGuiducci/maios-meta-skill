@@ -1,6 +1,6 @@
 {
   "id": "fdla-correzione-ai",
-  "name": "FDLA — correzione nel lavoro",
+  "name": "Operate FDLA",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/fdla-correzione-ai/",
     "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
-  }
+  },
+  "native_entry": "FDLA / operate-fdla"
 }

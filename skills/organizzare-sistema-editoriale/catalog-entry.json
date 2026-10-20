@@ -1,6 +1,6 @@
 {
   "id": "organizzare-sistema-editoriale",
-  "name": "Sistema editoriale AI",
+  "name": "Comprendere e organizzare Editoriali",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
     ],
     "route": "/resources/organizzare-sistema-editoriale/",
     "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
-  }
+  },
+  "native_entry": "evolve-editoriali-system"
 }

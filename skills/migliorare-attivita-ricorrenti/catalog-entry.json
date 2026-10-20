@@ -1,6 +1,6 @@
 {
   "id": "migliorare-attivita-ricorrenti",
-  "name": "Evoluzione delle attività",
+  "name": "Situated Activity Evolution",
   "version": "0.1.0",
   "state": "initial_public_edition",
   "instruction_language": "it",
@@ -38,5 +38,6 @@
       "Connect research results to the competence that needs them.",
       "Understand whether overlapping activities should be combined."
     ]
-  }
+  },
+  "native_entry": "situated-activity-evolution"
 }
