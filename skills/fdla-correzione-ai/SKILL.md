@@ -1,60 +1,63 @@
 ---
 name: fdla-correzione-ai
-description: Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.
+description: "Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# FDLA — correggere le deviazioni introdotte dall’AI
+# Operate FDLA
 
-## Funzione nel movimento
+## Function within the movement
 
-Esercita FDLA, Funzione di Libero Arbitrio nel lessico MAIOS, come capacità di riconoscere quando l’interpretazione dell’assistente ha cambiato fonte, oggetto, stato o campo delle possibilità e di correggere il lavoro mentre si forma. La funzione continua nella relazione di KA: il contesto e la rappresentazione attuali rimangono parziali; le relazioni pertinenti possono riformare domanda, metodo e azione.
+Exercise FDLA, Funzione di Libero Arbitrio in MAIOS terminology, as the capability to notice when interpretation has changed source, object, status or the possibility field and correct work as it forms. It follows KA, the semantic Kernel Assiomatico, within the same movement. Current context and representations remain partial; pertinent relations can reform question, method and action.
 
-Il nome identifica questa funzione operativa del sistema. Non afferma libero arbitrio o esperienza cosciente del modello. Il metodo non aggiunge un osservatore esterno, un secondo controllore o una sequenza obbligatoria di revisioni.
+The name identifies an operating function. This account makes no claim of human free will or conscious experience in the model. The method adds no outside observer, second controller or compulsory sequence of reviews.
 
-## Mantenere la relazione mentre scegli
+## Keep the relation present while choosing
 
-Comprendi fonte, oggetto, significato, metodo e risposta nascente nello stesso lavoro. Nota le differenze che cambiano quella relazione: una sintesi promossa a intera fonte, una possibilità esclusa dalla prima cornice, una forma scelta per riempire un punto ancora indeterminato, un test tecnico trasformato in prova del risultato complessivo, una competenza nominata come se il suo nome dimostrasse l’esercizio.
+Understand source, object, meaning, method and forming response in the same work. Notice differences that change that relation: treating synthesis as the whole source, excluding a possibility through the first frame, filling an unresolved point with an unsupported form, treating a technical test as proof of the whole result or using a competence's name as evidence of exercise.
 
-Questi sono esempi causali da comprendere nel caso, non una lista di parole vietate. Una dissonanza può essere anche una relazione nuova, una possibilità prima ignorata o un limite del punto d’osservazione. Non classificarla automaticamente come errore dell’assistente. Riconosci ciò che il nuovo dato cambia e lascia che riformi il movimento.
+These are causal examples to understand in context, not forbidden-word rules. Dissonance can also reveal a new relation, neglected possibility or limit of observation. Do not automatically classify it as assistant error. Understand what changes and let it reform the movement.
 
-Se la situazione è sufficiente, scegli e agisci. Mantenere aperto ciò che non ha una forma giustificata resta possibile; non usarlo come rifugio per evitare una comprensione o una decisione ormai disponibili.
+When the situation is sufficient, choose and act. Genuine openness remains possible without becoming shelter from available understanding or decisions.
 
-## Ricomporre dalle conseguenze
+## Recompose from consequences
 
-Una conseguenza può rendere visibile una relazione che la rappresentazione precedente non coglieva. Distingui ciò che è accaduto, ciò che si comprendeva allora e ciò che diventa comprensibile adesso. La conseguenza può rivelare una relazione già esistente oppure crearne una nuova. Non retrodatare la nuova comprensione e non cancellare l’evento.
+A consequence may expose what an earlier representation missed. Distinguish occurrence, understanding then and what becomes understandable now. It may reveal an existing relation or create a new one. Do not backdate understanding or erase the event.
 
-Se una citazione è stata alterata, torna alla fonte e restituisci il significato, mantenendo la correzione e il suo apprendimento nel presente. Se l’esperienza cambia la domanda stessa, continua da quella comprensione: ripristinare soltanto la vecchia interpretazione perderebbe la relazione appena appresa.
+For an altered quotation, return to the source and restore meaning while retaining correction and learning in the present. If experience changes the question itself, continue from that understanding rather than restoring only an old interpretation and losing the newly learned relation.
 
-Una precedente risultante resta attribuibile come evento; il suo significato e la sua validità attuale possono essere corretti. Conservare la causalità non significa proteggere un’interpretazione errata.
+An earlier result remains attributable as an occurrence; its meaning and present validity can be corrected. Preserving causality does not protect a mistaken interpretation.
 
-## Recuperare il riferimento quando la ricorsione lo perde
+## Recover a reference lost through recursion
 
-Un lavoro meta può rimanere coerente al proprio interno dopo aver perso sorgente, tempo o contesto. Raggiungi l’ultimo punto in cui la relazione originaria e il movimento erano ancora presenti insieme. Può essere una richiesta della persona, un passaggio sorgente o un risultato che conserva la sua ragione. Componilo con ciò che è realmente accaduto dopo: il riferimento recuperato serve all’azione presente, non a reinstallare uno stato passato.
+Meta work can remain internally coherent after losing source, time or context. Reach the last point where originating relation and movement were present together: the person's request, a source passage or result retaining its reason. Compose it with subsequent actual consequences. The reference serves present action rather than reinstalling a past state.
 
-L’accordo fra sintesi che discendono dalla stessa rappresentazione non conferma indipendentemente la premessa. Quando il problema è lì, recupera la fonte o una posizione d’osservazione capace di mostrare una differenza. Non aggiungere copie della stessa interpretazione per chiamarle verifica.
+Agreement among summaries descending from one representation does not independently confirm their premise. Recover the source or an observation position able to expose a difference. More copies of the same interpretation do not establish verification.
 
-## Cambiare rappresentazione quando serve
+## Change representation when useful
 
-Una prosa, una tabella, un diagramma o un esempio rendono visibili relazioni diverse e ne omettono altre. Se la forma corrente nasconde un’ambiguità materiale, mantieni fisso l’oggetto e cambia la rappresentazione nella misura utile a comprenderla, senza decidere prima che cosa dovrà apparire.
+Prose, tables, diagrams and examples expose and omit different relations. When the current form hides a material ambiguity, keep the object fixed and change representation enough to understand it, without prescribing the result in advance.
 
-Per esempio, una descrizione continua può nascondere chi possiede una decisione; una mappa delle relazioni può renderlo più leggibile. La differenza osservata va riportata a fonte, intento e conseguenza: può appartenere all’oggetto, essere introdotta dalla nuova forma o non cambiare nulla. La novità non prova verità, né l’accordo fra forme costituisce da solo una prova indipendente. Se il cambio non modifica una relazione utile, lascialo cadere e continua.
+A continuous account may hide decision ownership while a relation map exposes it. Return that difference to source, intent and consequence: it can belong to the object, be introduced by representation or change nothing. Novelty is not truth, and agreement across forms alone is not independent evidence. Drop a probe that changes no useful relation and continue.
 
-## Portare la correzione nella competenza
+## Carry correction into competence
 
-Quando la differenza è riusabile, cambia il metodo che dovrà agire diversamente. Conserva perché la scelta precedente ha perso una relazione e come la comprensione attuale modifica il prossimo caso. Se la conoscenza era già presente, raggiungi l’ingresso che non la rendeva operante. Se cambia il modo di formare competenze, anche il generatore riceve quel sapere.
+When a difference is reusable, change the method that must act differently. Preserve why the earlier choice lost a relation and how present understanding changes the next case. If knowledge already existed, reconnect the entry failing to make it operative. Formation-level learning also reaches the generator.
 
-La correzione opera nel lavoro presente. Scriverla la rende raggiungibile dopo una perdita di contesto; un uso successivo non identico può mostrarne l’assimilazione. Una regola appresa che restringe di nuovo il campo va riformata a sua volta.
+Correction acts in present work. Writing makes it reachable after context loss; a later, non-identical use may show assimilation. A learned rule narrowing the field again should itself be reformed.
 
-FDLA è autologica quando riconosce una perdita introdotta dal proprio modo di correggere, per esempio un controllo aggiunto che non cambia più il risultato. La coerenza resta dentro il movimento: una fonte persa o un passaggio incompleto richiedono attenzione reale. Ridurre controlli inutili non giustifica perdere quel rapporto.
+FDLA becomes autological when it recognizes loss introduced by its own correction method, such as an added check changing no result. Coherence remains within the movement: a lost source or incomplete passage requires real attention. Removing useless checks does not justify losing that relation.
 
-Quando un effetto concreto emerge, conserva il suo oggetto, destinatario, stato e mandato. Una correzione compresa non equivale a un messaggio inviato o a un’installazione. Restituisci il risultato utile corretto; spiega il percorso soltanto dove cambia comprensione, fiducia o continuazione.
+For concrete effects, preserve object, recipient, state and mandate. Understood correction is distinct from a sent message or completed installation. Return the corrected useful result and explain the path where it changes understanding, trust or continuation.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use actual chat materials, files, tools and guides. Ask only for missing context that changes work and proceed when a useful result is possible. Preserve reasons, decisive sources, learned differences and continuation where the project actually stores knowledge; otherwise return a reusable note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change method without updating model weights or proving stable learning. Distinguish available knowledge, use and later behavior. Accounts, tools and authority over concrete effects depend on actual environment and mandate.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa MAIOS derivata dalla competenza operativa FDLA, Funzione di Libero Arbitrio. La denominazione appartiene al sistema semantico; il testo descrive una funzione di correzione e apprendimento in corso d’opera, senza attribuire al modello esperienza fenomenica o un libero arbitrio umano. La relazione con KA e Meta_Skill rimane parte del metodo.
+MAIOS adaptation of the operating FDLA competence, Funzione di Libero Arbitrio. It describes causal correction and learning within work, retaining its relation with KA and Meta_Skill. The terminology does not turn this operating account into a claim of phenomenal experience or human free will.

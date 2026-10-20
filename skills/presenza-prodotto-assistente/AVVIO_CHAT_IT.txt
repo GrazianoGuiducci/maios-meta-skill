@@ -1,9 +1,8 @@
----
-name: presenza-prodotto-assistente
-description: "Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione. Quando un prodotto deve spiegarsi, un assistente rappresenta un servizio o più incontri devono mantenere la stessa identità."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Creare la presenza di un prodotto o di un assistente AI
+# Projectable Presence
+
+**Creare la presenza di un prodotto o di un assistente AI**
 
 Collega identità, capacità e contesto d’incontro nel modo in cui il sistema si presenta e agisce.
 
@@ -53,14 +52,6 @@ Il prodotto può conservare una presenza viva collegando fonti, incontri e conse
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

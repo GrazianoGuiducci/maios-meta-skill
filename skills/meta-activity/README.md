@@ -1,55 +1,79 @@
 # Meta-Activity
 
-**Creare e far evolvere attività AI dal contesto del proprio lavoro.**
+**Form and evolve AI activities from the context of your work.**
 
-Meta-Activity è una metacompetenza MAIOS: porta il sapere con cui l'AI può comprendere una situazione, riconoscere funzioni utili, comporre o formare competenze e organizzare attività capaci di proseguire e migliorare.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-Un radar di ricerca, un servizio di preparazione editoriale o la cura della conoscenza aziendale sono applicazioni possibili. La stessa competenza può aiutare a formarne altre dal contesto. Si può iniziare su richiesta e aggiungere eventi o ricorrenze quando il lavoro e l'ambiente lo rendono utile.
+## What it does
 
-## Il primo uso
+Creates complex scheduled activities that can understand what to do and evolve.
 
-1. Condividi con l'AI l'[avvio completo](AVVIO_CHAT_IT.txt) oppure la cartella della competenza, a partire da [SKILL.md](SKILL.md).
-2. Descrivi la situazione, l'intento, il lavoro già presente e gli strumenti disponibili.
-3. Affidale il primo contributo utile e indica quali azioni può compiere. La conoscenza necessaria a continuare resta nel tuo contesto.
+## When to use it
 
-Puoi partire così, dopo aver condiviso la risorsa:
+When you want to give your AI recurring work that needs connected actions, continuity and adaptation.
 
-> Usiamo Meta-Activity in questa situazione: […]. Voglio ottenere […]. Qui trovi fonti, lavoro esistente e mezzi disponibili: […]. Comprendi quali attività e competenze servono, svolgi il lavoro già affidato e conserva ciò che permetterà di continuare. Puoi agire su […]; coinvolgimi per […].
+Meta-Activity is a MAIOS competence for understanding intent, recognising useful functions, composing or developing competences, and organising activities and services. Research, knowledge, content and relationships can become work entrusted to AI, with a method that preserves what it learns.
+Activities can start on request, from an event or on an agreed schedule. With suitable tools and entrusted actions, AI can continue the work, improve its method and involve a person when needed.
 
-I campi fra parentesi sono da adattare. Non occorre completare un questionario se il progetto contiene già queste informazioni.
+## First use
 
-## Un servizio di ricerca clienti
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Un'azienda può affidare all'AI l'intento di trovare opportunità coerenti con la propria offerta. Meta-Activity può comporre ricerca di segnali, verifica del bisogno, qualificazione della relazione, organizzazione dell'archivio e preparazione dei contatti.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-Il servizio usa competenze commerciali e conoscenze effettive dell'offerta. Per ogni opportunità conserva fonte, ragione della pertinenza, stato del lavoro e prossimo passo. Se un segnale si ripete, aggiorna il caso esistente; se cambiano le condizioni, può riaprirlo. L'invio segue le azioni affidate dalla persona e gli strumenti del ricevente.
+## Method
 
-Questo è un esempio di composizione. Il [sapere di formazione delle funzioni](references/formare-funzioni.md) aiuta a progettare servizi diversi.
+### The work to be done
 
-## Autogestione nelle attività programmate
+Intent, sources, knowledge and means
 
-L'AI può conservare e migliorare il metodo: affinare una ricerca, riconoscere duplicati, aggiornare istruzioni superate, cambiare la sede delle informazioni o imparare quando una notifica è utile. La modifica resta legata alla ragione e al mandato dell'attività.
+### Capabilities to compose
 
-Quando la persona affida anche la gestione della cadenza, il controller può essere aggiornato con i suoi strumenti reali. Preparazione delle istruzioni, configurazione del job e comportamento osservato al risveglio restano passaggi riconoscibili.
+Functions, competences and organisation
 
-## Quattro modi di usarla
+### The AI contribution
 
-| Ambiente | Ingresso | Dove continua il sapere |
-| --- | --- | --- |
-| Chat senza kernel | Avvio completo e contesto della persona | Documento o testo da restituire al prossimo avvio |
-| Chat con kernel | Risorsa e guida corrente del progetto | Memoria e guide già presenti |
-| Harness senza kernel | Intera cartella e strumenti del progetto | Sede raggiungibile dall'esecutore successivo |
-| Harness con kernel | Competenza integrata nell'ingresso del progetto | Owner e competenze già responsabili del lavoro |
+Activities, services and continuing knowledge
 
-In Codex puoi copiare questa intera cartella in .agents/skills/meta-activity nel progetto, mantenendo i collegamenti fra i file. Verifica che l'ambiente la renda disponibile, poi richiamala con il lavoro da svolgere. La [guida comune](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md) approfondisce ricezione, integrazione locale e ricorrenze. Non è necessario installare un kernel MAIOS per iniziare.
+## Use in your environment
 
-## File della risorsa
+### Chat without a kernel
 
-- [SKILL.md](SKILL.md): corpo operativo per l'AI.
-- [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt): ingresso autonomo da copiare o allegare.
-- [ESEMPI_IT.md](ESEMPI_IT.md): contesti applicabili e apprendimenti da attività MAIOS.
-- [Formare funzioni](references/formare-funzioni.md): comprendere il contesto e comporre un servizio.
-- [Continuità e autogestione](references/continuita-e-autogestione.md): ripresa, adattamento e apprendimento.
-- [CONTINUITA_ATTIVITA.md](CONTINUITA_ATTIVITA.md): una traccia facoltativa da adattare.
+Copy the complete starter, add context and preserve the guide for the next session.
 
-Versione 0.1.0 · Prima incarnazione pubblica · Conoscenza e istruzioni in italiano.
+### Chat with a kernel
+
+Share the resource and current guide. Work continues through the project's knowledge and competences.
+
+### Harness without a kernel
+
+Make the full competence folder readable and connect sources, tools and a place for continuity.
+
+### Harness with a kernel
+
+Integrate Meta-Activity into the project's entry and compose it with the capabilities already responsible for its work.
+
+## Application examples
+
+- Finds clients, contacts them, monitors and notifies you of events.
+- Monitors the system and acts according to instructions.
+- Manages social campaigns and email inboxes.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+Meta-Activity includes understanding context, forming functions and developing competences. A new need may lead to a different service or knowledge to acquire. Capabilities are composed according to the situation.
+The activity preserves the reason for a change. Later use shows whether that knowledge changes what follows.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

@@ -1,42 +1,45 @@
 ---
 name: titoli-e-sottotitoli
-description: "Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto. Usare quando: Quando i titoli sono generici, promozionali o comprensibili soltanto a chi conosce già la conversazione."
+description: "Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Scrivere titoli e sottotitoli che fanno capire il contenuto
+# Classify Content With Taxonomic Titles And Descriptions
 
-Questa competenza forma titoli, sottotitoli e descrizioni che permettono al lettore di riconoscere il contenuto prima di aprirlo. Il nome orienta; il titolo identifica l’oggetto o la relazione; il sottotitolo aggiunge ciò che serve a distinguerne uso e contesto.
+Form titles, subtitles and descriptions that let readers recognize content before opening it. A name provides orientation; a title identifies the object or relation; a subtitle supplies what distinguishes use and context.
 
-Opera su articoli, schede, pagine, documenti, sezioni e nomi di file. La chiarezza nasce dalla comprensione della sorgente, non da una formula promozionale applicata a ogni contenuto.
+Apply this knowledge to articles, cards, pages, documents, sections and filenames. Clarity comes from understanding the source, not imposing one promotional formula on all content.
 
-## Comprendere ciò che si sta nominando
+## Understand what is being named
 
-Leggi il contenuto e le sue fonti abbastanza da identificare soggetto, oggetto e relazione effettivi. Considera che cosa il lettore conosce già e quale riferimento concreto gli manca. Conserva un nome proprio o un titolo approvato quando va mantenuto esatto; affiancagli la descrizione necessaria anziché cambiarne silenziosamente l’identità. Se il contenuto non è ancora chiaro, torna alla fonte: un titolo accattivante non risolve un’incertezza di significato.
+Read content and sources deeply enough to identify their actual subject, object and relation. Consider what a reader already knows and which concrete reference is missing. Preserve a proper name or approved title when its exact identity matters, adding an explanation instead of silently renaming it. Return to the source when meaning is unclear; an attractive title cannot resolve that uncertainty.
 
-## Dare a titolo e sottotitolo funzioni complementari
+## Give title and subtitle complementary functions
 
-Il titolo colloca il contenuto in una classe riconoscibile e conserva soltanto i termini che ne difendono l’identità. Se può essere applicato invariato a oggetti estranei, cerca il riferimento mancante. Il sottotitolo aggiunge il caso, l’attività, la dinamica o l’utilità che distingue questa pagina. Non ripetere con sinonimi la stessa frase. La coppia deve funzionare per una persona che incontra il testo per la prima volta, senza chiederle di ricostruire la conversazione che lo ha generato.
+The title places content in a recognizable class while retaining the words defending its identity. If it fits unrelated objects unchanged, find the missing reference. The subtitle adds the case, activity, dynamic or use distinguishing this page. Do not repeat the same phrase with synonyms. The pair should work for a first-time reader without requiring reconstruction of its originating conversation.
 
-## Organizzare i titoli secondo la superficie
+## Organize headings for their surface
 
-Per il titolo principale usa l’identità della pagina o del suo oggetto; il nome proprio può bastare se la riga di supporto spiega il contesto. I titoli delle sezioni formano una mappa: ciascuno nomina un oggetto, una decisione o una relazione realmente trattata. Nelle schede di scelta rendi visibile l’azione e ciò che la persona ottiene, nel dominio e nel contesto pertinenti. Una chiamata all’azione nomina il gesto disponibile dopo che la pagina ne ha chiarito il senso. Adatta la forma, senza trasformare questi ruoli in uno schema da ripetere meccanicamente.
+Use the main heading to identify the page or its object; a proper name may suffice when its supporting line explains context. Section headings form a map, each naming an object, decision or relation actually discussed. Choice cards should make the action and useful result visible within their domain and context. A call to action names the available gesture after the page has explained its purpose. Adapt these roles without mechanically repeating a template.
 
-## Conservare coerenza tra nome e contenuto
+## Keep naming and content coherent
 
-L’attacco e il corpo devono confermare il soggetto indicato dall’header. Un titolo non introduce un beneficio, una maturità o un effetto che la fonte non sostiene. Quando il lavoro è una correzione del testo, modifica il contenuto selezionato mantenendo struttura e funzioni non coinvolte; se una diversa struttura diventa necessaria, rendi riconoscibile quella differenza. Nelle traduzioni conserva identità, relazione, azione e portata, anche quando cambia la sintassi.
+The opening and body should sustain the subject identified by the header. A title must not introduce an unsupported benefit, maturity level or effect. In a selected text correction, preserve unaffected structure and functions. If another structure becomes necessary, make that difference recognizable. Translations preserve identity, relation, action and scope even when syntax changes.
 
-## Rendere ritrovabili documenti e risorse
+## Make documents and resources findable
 
-Per un artefatto persistente collega il nome leggibile, la descrizione, il percorso e lo stato. Un nome utile contiene l’oggetto o la relazione che una persona cercherà; data e versione distinguono stati senza sostituirne l’identità. Etichette come tipo e ambito possono aiutare l’orientamento, ma non descrivono tutte le capacità. Una classificazione locale non diventa automaticamente una tassonomia dell’intero sistema. Il nome non conferisce autorità: è il contenuto e la sua fonte a sostenere ciò che afferma.
+For persistent artifacts, connect readable name, description, location and state. Useful names include the object or relation people will seek; dates and versions distinguish states without replacing identity. Type and field labels can aid orientation without describing the whole capability. A local classification does not automatically define a system-wide taxonomy. Naming confers no authority: content and source support the claim.
 
-## Dalla chiarezza di un titolo al metodo editoriale
+## From a clear heading to an editorial method
 
-Il lavoro diretto è rendere comprensibile un header. La relazione meta compare quando una correzione cambia come la competenza editoriale riconosce e presenta gli oggetti nelle opere successive.
+The direct work makes a header understandable. A meta relation appears when a correction changes how editorial competence recognizes and presents objects in later work.
 
-La relazione autologica è presente quando questo stesso metodo si accorge di produrre titoli formalmente corretti ma ancora generici. Torna allora al contenuto e modifica il criterio di denominazione. Nessuna forma di titolo garantisce da sola attenzione, iscrizioni o altri risultati di distribuzione.
+The relation is autological when this method notices it still produces generic titles despite formal correctness. Return to the content and change the naming criterion. No title form alone guarantees attention, subscriptions or distribution outcomes.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Un titolo corretto insegna quando una parola mancava, quando un termine era rumore e quale distinzione il lettore doveva percepire. Conserva questa ragione nel metodo, con un esempio attribuito o illustrativo utile al prossimo uso.
+A correction teaches when a word was missing, when a term was noise and which distinction the reader needed. Preserve the reason in the method with a useful attributed or illustrative example.
 
-Rivedi il risultato dal punto di vista di chi incontra il contenuto senza la chat d’origine. Questo controllo riguarda la comprensibilità dell’oggetto, non una promessa di efficacia commerciale.
+Read the result from the position of someone without the originating conversation. This concerns understanding the object rather than promising commercial effectiveness.

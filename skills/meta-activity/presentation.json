@@ -6,9 +6,18 @@
     "autonomy": "Le attività possono partire su richiesta, da un evento o a una cadenza concordata. Con strumenti e azioni affidate, l'AI può proseguire il lavoro, correggere il metodo e coinvolgere la persona quando serve.",
     "visual_title": "Dal contesto alle attività agentiche",
     "visual_steps": [
-      {"title": "Il lavoro da svolgere", "body": "Intento, fonti, conoscenze e mezzi"},
-      {"title": "Le capacità da comporre", "body": "Funzioni, competenze e organizzazione"},
-      {"title": "Il contributo dell'AI", "body": "Attività, servizi e conoscenza che continua"}
+      {
+        "title": "Il lavoro da svolgere",
+        "body": "Intento, fonti, conoscenze e mezzi"
+      },
+      {
+        "title": "Le capacità da comporre",
+        "body": "Funzioni, competenze e organizzazione"
+      },
+      {
+        "title": "Il contributo dell'AI",
+        "body": "Attività, servizi e conoscenza che continua"
+      }
     ],
     "visual_caption": "Ciò che si impara cambia il lavoro successivo.",
     "cases_title": "Le funzioni di un'attività AI.",
@@ -54,28 +63,71 @@
     "learning_title": "Come Meta-Activity apprende dal lavoro.",
     "learning_intro": "Meta-Activity porta dentro la comprensione del contesto, la formazione delle funzioni e lo sviluppo delle competenze. Una nuova necessità può far emergere un servizio diverso o un saper fare da acquisire. Le capacità si compongono secondo la situazione.",
     "learning_rows": [
-      {"title": "Conoscenza", "body": "Fonti, decisioni e ragioni restano raggiungibili al prossimo avvio."},
-      {"title": "Metodo", "body": "Ricerche, funzioni, istruzioni e notifiche si affinano attraverso gli esiti."},
-      {"title": "Competenze", "body": "Un criterio riusabile cambia la capacità che condurrà il prossimo lavoro."}
+      {
+        "title": "Conoscenza",
+        "body": "Fonti, decisioni e ragioni restano raggiungibili al prossimo avvio."
+      },
+      {
+        "title": "Metodo",
+        "body": "Ricerche, funzioni, istruzioni e notifiche si affinano attraverso gli esiti."
+      },
+      {
+        "title": "Competenze",
+        "body": "Un criterio riusabile cambia la capacità che condurrà il prossimo lavoro."
+      }
     ],
     "learning_note": "L'attività conserva la ragione di una modifica. L'uso successivo mostra se quella conoscenza cambia davvero il seguito.",
     "contexts_title": "Contesti per le attività agentiche.",
     "contexts_intro": "Questi contesti aprono applicazioni diverse. Il pacchetto contiene diciotto esempi, con fonti, adattamenti e momenti in cui coinvolgere la persona.",
     "context_groups": [
-      {"title": "Ricerca", "body": "Radar tematici, bibliografie ed esperimenti."},
-      {"title": "Sviluppo", "body": "Dipendenze software, documentazione e manutenzione."},
-      {"title": "Contenuti", "body": "Articoli, distribuzione e conversazioni."},
-      {"title": "Azienda", "body": "Conoscenza interna, supporto e procedure."},
-      {"title": "Operazioni", "body": "Dati, percorsi del sito e continuità di progetto."},
-      {"title": "Studio e servizi", "body": "Apprendimento, opportunità e servizi di dominio."}
+      {
+        "title": "Ricerca",
+        "body": "Radar tematici, bibliografie ed esperimenti."
+      },
+      {
+        "title": "Sviluppo",
+        "body": "Dipendenze software, documentazione e manutenzione."
+      },
+      {
+        "title": "Contenuti",
+        "body": "Articoli, distribuzione e conversazioni."
+      },
+      {
+        "title": "Azienda",
+        "body": "Conoscenza interna, supporto e procedure."
+      },
+      {
+        "title": "Operazioni",
+        "body": "Dati, percorsi del sito e continuità di progetto."
+      },
+      {
+        "title": "Studio e servizi",
+        "body": "Apprendimento, opportunità e servizi di dominio."
+      }
     ],
     "use_title": "Usare Meta-Activity nella propria AI.",
     "use_intro": "Puoi ricevere la competenza da sola o integrarla in un kernel esistente. Il metodo è incluso nella risorsa; strumenti, account, memoria e risvegli dipendono dal tuo ambiente.",
     "modes": [
-      {"id": "chat", "title": "Chat senza kernel", "body": "Copia l'avvio completo, aggiungi il contesto e conserva la guida per la sessione successiva."},
-      {"id": "chat-kernel", "title": "Chat con kernel", "body": "Condividi la risorsa e la guida corrente. Il lavoro continua nelle conoscenze e nelle competenze del progetto."},
-      {"id": "harness", "title": "Harness senza kernel", "body": "Rendi leggibile l'intera cartella della competenza e collega fonti, strumenti e una sede di continuità."},
-      {"id": "harness-kernel", "title": "Harness con kernel", "body": "Integra Meta-Activity nell'ingresso del progetto e componila con le capacità già responsabili del lavoro."}
+      {
+        "id": "chat",
+        "title": "Chat senza kernel",
+        "body": "Copia l'avvio completo, aggiungi il contesto e conserva la guida per la sessione successiva."
+      },
+      {
+        "id": "chat-kernel",
+        "title": "Chat con kernel",
+        "body": "Condividi la risorsa e la guida corrente. Il lavoro continua nelle conoscenze e nelle competenze del progetto."
+      },
+      {
+        "id": "harness",
+        "title": "Harness senza kernel",
+        "body": "Rendi leggibile l'intera cartella della competenza e collega fonti, strumenti e una sede di continuità."
+      },
+      {
+        "id": "harness-kernel",
+        "title": "Harness con kernel",
+        "body": "Integra Meta-Activity nell'ingresso del progetto e componila con le capacità già responsabili del lavoro."
+      }
     ],
     "use_note": "In Codex la cartella può essere ricevuta come skill locale. La guida descrive l'integrazione e le ricorrenze, con collegamenti alla documentazione ufficiale.",
     "start_title": "Preparare il primo incarico per la tua AI.",
@@ -90,9 +142,18 @@
     "autonomy": "Activities can start on request, from an event or on an agreed schedule. With suitable tools and entrusted actions, AI can continue the work, improve its method and involve a person when needed.",
     "visual_title": "From context to agentic activities",
     "visual_steps": [
-      {"title": "The work to be done", "body": "Intent, sources, knowledge and means"},
-      {"title": "Capabilities to compose", "body": "Functions, competences and organisation"},
-      {"title": "The AI contribution", "body": "Activities, services and continuing knowledge"}
+      {
+        "title": "The work to be done",
+        "body": "Intent, sources, knowledge and means"
+      },
+      {
+        "title": "Capabilities to compose",
+        "body": "Functions, competences and organisation"
+      },
+      {
+        "title": "The AI contribution",
+        "body": "Activities, services and continuing knowledge"
+      }
     ],
     "visual_caption": "What is learned changes the next activity.",
     "cases_title": "The functions of an AI activity.",
@@ -138,32 +199,75 @@
     "learning_title": "How Meta-Activity learns from work.",
     "learning_intro": "Meta-Activity includes understanding context, forming functions and developing competences. A new need may lead to a different service or knowledge to acquire. Capabilities are composed according to the situation.",
     "learning_rows": [
-      {"title": "Knowledge", "body": "Sources, decisions and reasons remain reachable at the next start."},
-      {"title": "Method", "body": "Searches, functions, instructions and notifications improve through results."},
-      {"title": "Competences", "body": "Reusable knowledge changes the capability that will guide later work."}
+      {
+        "title": "Knowledge",
+        "body": "Sources, decisions and reasons remain reachable at the next start."
+      },
+      {
+        "title": "Method",
+        "body": "Searches, functions, instructions and notifications improve through results."
+      },
+      {
+        "title": "Competences",
+        "body": "Reusable knowledge changes the capability that will guide later work."
+      }
     ],
     "learning_note": "The activity preserves the reason for a change. Later use shows whether that knowledge changes what follows.",
     "contexts_title": "Contexts for agentic activities.",
     "contexts_intro": "These contexts open different applications. The package includes eighteen examples, with sources, adaptations and moments for human attention.",
     "context_groups": [
-      {"title": "Research", "body": "Thematic radars, bibliographies and experiments."},
-      {"title": "Development", "body": "Software dependencies, documentation and maintenance."},
-      {"title": "Content", "body": "Articles, distribution and conversations."},
-      {"title": "Business", "body": "Internal knowledge, support and procedures."},
-      {"title": "Operations", "body": "Data, website journeys and project continuity."},
-      {"title": "Learning and services", "body": "Study, opportunities and domain services."}
+      {
+        "title": "Research",
+        "body": "Thematic radars, bibliographies and experiments."
+      },
+      {
+        "title": "Development",
+        "body": "Software dependencies, documentation and maintenance."
+      },
+      {
+        "title": "Content",
+        "body": "Articles, distribution and conversations."
+      },
+      {
+        "title": "Business",
+        "body": "Internal knowledge, support and procedures."
+      },
+      {
+        "title": "Operations",
+        "body": "Data, website journeys and project continuity."
+      },
+      {
+        "title": "Learning and services",
+        "body": "Study, opportunities and domain services."
+      }
     ],
     "use_title": "Use Meta-Activity with your AI.",
     "use_intro": "Receive the competence on its own or integrate it into an existing kernel. The method is included; tools, accounts, memory and automatic activation depend on your environment.",
     "modes": [
-      {"id": "chat", "title": "Chat without a kernel", "body": "Copy the complete starter, add context and preserve the guide for the next session."},
-      {"id": "chat-kernel", "title": "Chat with a kernel", "body": "Share the resource and current guide. Work continues through the project's knowledge and competences."},
-      {"id": "harness", "title": "Harness without a kernel", "body": "Make the full competence folder readable and connect sources, tools and a place for continuity."},
-      {"id": "harness-kernel", "title": "Harness with a kernel", "body": "Integrate Meta-Activity into the project's entry and compose it with the capabilities already responsible for its work."}
+      {
+        "id": "chat",
+        "title": "Chat without a kernel",
+        "body": "Copy the complete starter, add context and preserve the guide for the next session."
+      },
+      {
+        "id": "chat-kernel",
+        "title": "Chat with a kernel",
+        "body": "Share the resource and current guide. Work continues through the project's knowledge and competences."
+      },
+      {
+        "id": "harness",
+        "title": "Harness without a kernel",
+        "body": "Make the full competence folder readable and connect sources, tools and a place for continuity."
+      },
+      {
+        "id": "harness-kernel",
+        "title": "Harness with a kernel",
+        "body": "Integrate Meta-Activity into the project's entry and compose it with the capabilities already responsible for its work."
+      }
     ],
-    "use_note": "The first edition's operating instructions and guides are in Italian. An AI assistant can read them and work with you in English. The guide includes local Codex integration and official documentation links.",
+    "use_note": "The complete operating method, guide, starter and examples are in English, with Italian translations included. Use the whole folder or the self-contained starter in your chosen environment.",
     "start_title": "Prepare the first assignment for your AI.",
-    "start_intro": "Choose an example and environment, then add the work you want to entrust to AI. The prepared starter includes Meta-Activity's essential method in Italian and your context; you can copy it or attach the package files.",
+    "start_intro": "Choose an example and environment, then add the work to entrust to AI. The prepared starter includes the complete English operating method and your context.",
     "related_title": "Meta-Activity in the MAIOS collection.",
     "related_intro": "Meta-Activity is the collection's first public resource. The repository keeps its competence, guide, examples and descriptions in the same version. Future resources will develop through work and use."
   }

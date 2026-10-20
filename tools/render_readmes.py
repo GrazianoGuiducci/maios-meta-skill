@@ -1,0 +1,97 @@
+"""Render the English primary README and its Italian counterpart."""
+
+
+def render(root, resources):
+    for lang in ('en','it'):
+        en=lang=='en'
+        label='Resource' if en else 'Risorsa'
+        effect='What it enables' if en else 'Cosa permette di fare'
+        kind='Type' if en else 'Tipo'
+        rows=[f'| {label} | {effect} | {kind} |','| --- | --- | --- |']
+        for resource in resources:
+            r=resource[lang]
+            guide=resource['languages'][lang]['guide']
+            rows.append(f"| [{resource['name']}]({guide}) | {r.get('does',r.get('what_it_does'))} | {r.get('kind',r.get('type'))} |")
+        if en:
+            text='''# MAIOS Meta-Skill
+
+**25 resources for working with AI, forming competences and evolving their methods.**
+
+Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
+
+[Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
+
+## Start with your work
+
+Choose a resource below, open its **START_CHAT_EN.txt**, then copy or attach the whole file to your AI conversation. Add your intent, sources, existing work and available means. The starter contains the complete method. With file access, make the whole competence folder readable and use SKILL.md as its entry.
+
+English is the primary language of methods, guides, examples and starters. Italian versions are included and linked. Original competence names stay the same across languages.
+
+## Choose a resource
+
+The collection includes operating competences, metacompetences, functions and kernel foundations. These types describe different contributions rather than a quality hierarchy. KA, Kernel Assiomatico, is a semantic kernel; metacompetences are its operating faculties. Meta_Skill forms and evolves competences in that same field. FDLA makes causal correction operative within the work, without another external controller.
+
+'''+ '\n'.join(rows)+'''
+
+## Compose capabilities around a real task
+
+- **Teach your AI a way of working:** combine competence formation, learning from examples and useful knowledge preservation. A correction can improve both the practical method and how it is learned.
+- **Develop a project's possibilities:** combine situated method formation, signal intelligence and activity formation when their knowledge changes what becomes possible.
+- **Continue a project:** connect causal continuity, material event history and essential knowledge. Preserve decision reasons, collaborators and completed effects across sessions.
+- **Coordinate assistants:** combine situated method, recipient formation and continuity to preserve complementary contributions through shared sources and reasons.
+
+These are possible compositions, not compulsory pipelines.
+
+## Use in your environment
+
+With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all25 resources for one assignment.
+
+Host tools, persistence, accounts and recurring activation depend on the actual environment. A method file does not configure them. The [use guide](docs/USE.md) explains how to connect the method to real means and preserve the knowledge needed for reentry.
+
+## Editions and learning
+
+The current public edition is **0.2.0**, with complete English methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages. Older downloadable editions retain their own meaning and history.
+
+File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
+
+[How resources are formed and distributed](docs/DISTRIBUTION.md) · [Report an issue or contribute](https://github.com/GrazianoGuiducci/maios-meta-skill/issues)
+
+Origin and direction: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
+'''
+        else:
+            text='''# MAIOS Meta-Skill
+
+**25 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+
+[English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
+
+La lingua principale della repository è l’inglese. Ogni risorsa comprende metodo operativo, guida, avvio completo ed esempi inglesi, con i corrispondenti file italiani collegati. I nomi originali delle competenze restano uguali nelle due lingue.
+
+## Primo uso
+
+Scegli una risorsa e copia o allega tutto AVVIO_CHAT_IT.txt alla tua AI. Aggiungi intento, fonti, lavoro esistente e mezzi disponibili. Il file contiene il metodo completo. In un ambiente con file puoi rendere leggibile la cartella e usare SKILL_IT.md per la versione italiana.
+
+## Scegliere una risorsa
+
+La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza una gerarchia di qualità. KA, Kernel Assiomatico, è un kernel semantico: le metacompetenze ne sono facoltà operative. Meta_Skill forma ed evolve competenze nello stesso campo; FDLA rende operativa la correzione nel lavoro, senza aggiungere un controllore esterno.
+
+'''+ '\n'.join(rows)+'''
+
+## Comporre le capacità
+
+Puoi insegnare un lavoro collegando formazione delle competenze, esempi e conservazione del sapere; sviluppare possibilità collegando metodo, ricerca e attività; continuare un progetto conservando ragioni ed eventi; coordinare contributi fra assistenti attraverso fonti e continuità. Sono possibilità da comporre nel contesto, non pipeline obbligatorie.
+
+Con un kernel esistente integra il contributo nelle competenze e guide già utili. Senza kernel applica direttamente il metodo. Non occorre caricare tutte le25 risorse per ogni incarico. Strumenti, persistenza, account e risvegli dipendono dall’ambiente reale; il testo non li configura.
+
+## Edizioni e apprendimento
+
+L’edizione pubblica corrente è **0.2.0**: inglese principale, con corrispondenti file italiani. [Catalogo](catalog.json) e [manifest](dist/manifest.json) collegano file, lingue, versioni e pacchetti. Le vecchie edizioni conservano il proprio stato storico.
+
+La coerenza dei file verifica l’identità della distribuzione. L’uso in un altro assistente e l’assimilazione di una correzione si osservano nel lavoro successivo. Un riscontro utile conserva caso, differenza e ragione, anche quando l’esito resta invariato.
+
+[Formazione e distribuzione](docs/DISTRIBUZIONE.md) · [Contributi e riscontri](https://github.com/GrazianoGuiducci/maios-meta-skill/issues)
+
+Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
+'''
+        text=text.replace('all25','all 25').replace('tutte le25','tutte le 25')
+        (root/('README.md' if en else 'README_IT.md')).write_text(text,encoding='utf-8',newline='\n')

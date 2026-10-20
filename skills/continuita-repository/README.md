@@ -1,51 +1,92 @@
-# Condividere il lavoro AI tra repository e collaboratori
+# Maintain Repository Continuity
 
-Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.
+**Share AI project work across repositories and collaborators**
 
-Versione **0.1.0** · Istruzioni e guida in italiano · Presentazione IT/EN.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-Un lavoro salvato può restare invisibile a chi deve continuarlo. Questa competenza collega il risultato locale alla sorgente condivisa del progetto, mantenendo chiaro che cosa appartiene alla modifica selezionata.
+## What it does
 
-La continuità comprende le ragioni del cambiamento, i contributi concorrenti e la revisione che il collaboratore può davvero leggere. Commit, condivisione e pubblicazione del prodotto restano effetti distinti.
+Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity.
 
-## Cosa puoi affidarle
+## When to use it
 
-Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa.
+When people and assistants share a project and useful work should not remain hidden in a local checkout.
 
-Quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale.
+Saved work can remain invisible to the person who needs to continue it. This competence connects a local result to the project's shared source while keeping the selected change identifiable.
+Continuity includes the reasons for the change, concurrent contributions and the revision a collaborator can actually read. Commit, sharing and product deployment remain distinct effects.
 
-- Condivide un cambiamento senza includere file di un altro autore.
-- Riconcilia lavori locali e remoti indipendenti.
-- Dà a un secondo assistente il riferimento esatto della revisione da leggere.
+## First use
 
-## Primo uso
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Apri [l'avvio completo](AVVIO_CHAT_IT.txt), incollalo o allegalo alla tua AI e compila il contesto finale. Contiene l'intero metodo, senza richiedere accesso a sorgenti private. Se il tuo ambiente legge file, può partire da [SKILL.md](SKILL.md).
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
+
+## Method
+
+### Identify the selected repository and result
+
+Reach the repository that owns the work and its current instructions. Understand what should become shared and why. A containing folder may hold several repositories. Continuity matters at meaningful results or handovers; it does not require Git closure after every edit or publication during a read-only request.
+
+### Understand the current identities
+
+Distinguish working files, local commits, tracking references, verified remote revision and generated or ignored artifacts. Use the project's Git tools and access policy to inspect branch, differences and remote relation. A local tracking reference can be stale; a successful fetch does not mean selected content is already shared.
+
+### Preserve concurrent contributions
+
+Understand changes before staging. Select only the files or portions belonging to authorized work. Older or uncommitted work is not disposable noise. Integrate independent local and remote contributions while preserving both lines. Resolve overlapping changes according to their meaning rather than deleting valid work for an apparently clean state.
+
+### Complete the authorized effect
+
+When the current mandate covers committing and sharing, review the selected payload, perform proportionate checks, create a coherent commit and share it on the intended branch using the recipient's authentication policy. If authority or access is missing, preserve the work and identify the exact open step without claiming shared source.
+
+### Verify what the collaborator can receive
+
+After sharing, verify the remote revision and its relation to local work and tracking. If reconciliation produces different identities, explain which commits or contents correspond. Provide an exact reference with relevant reasons and checks. Reachable source does not prove reading, installation or execution; deployment and release need their own evidence.
+
+### Continue the knowledge of the change
+
+Preserve the useful change, its reason, revision, checks and any remaining local-only work in the project guide. If a later case exposes loss or unnecessary procedure, improve the continuity method. Its purpose is shared, reconstructable work rather than a Git ritual or forced synchronization of every repository.
+
+## Meta and autological relations
+
+This is a technical source-continuity competence. The number of repositories or agents does not automatically give it a meta level.
+
+Its method can become an object of learning when a handover shows that shared work was not reachable by the collaborator. Repairing that entry changes continuity practice. This differs from an autonomous process that pushes on a schedule and does not authorize one.
+
+## Use in your environment
 
 ### In chat
 
-Allega o incolla AVVIO_CHAT_IT.txt, che contiene l'intero metodo, e aggiungi il tuo contesto. L'AI può lavorare nella lingua della conversazione. Conserva il risultato e la guida utile se vuoi riprenderli in una nuova chat.
+Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat.
 
-### In un ambiente agentico
+### In an agent environment
 
-Rendi leggibile la cartella della competenza e fai leggere SKILL.md prima del lavoro pertinente. Collega fonti e strumenti reali secondo le istruzioni dell'ambiente. Il kit non installa account, memoria o esecuzioni ricorrenti.
+Make the competence folder readable and have the agent read SKILL.md for the relevant work. Connect real sources and tools according to the environment's instructions. The kit does not install accounts, memory or recurring execution.
 
-### Con o senza un kernel
+### With or without a kernel
 
-Con un kernel esistente, collega il metodo alla competenza o guida che già possiede il lavoro. Senza kernel, applica direttamente le istruzioni e conserva la conoscenza utile nel progetto o in una nota riutilizzabile.
+With an existing kernel, connect the method to the competence or guide already responsible for the work. Without one, apply the instructions directly and preserve useful knowledge in the project or a reusable note.
 
-## Come proseguire
+## Application examples
 
-Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perdita e senza dover ricostruire la situazione. Un controllo tecnico resta legato alla revisione che ha effettivamente verificato.
+- Share a change without including another author's files.
+- Reconcile independent local and remote contributions.
+- Give another assistant the exact revision to read.
 
-La guida dell'attività o del progetto conserva il punto utile, le ragioni e le fonti. Riprendila quando cambi chat o ambiente. Se una correzione modifica il metodo di questa risorsa, mantieni riconoscibile la revisione usata e il caso che ha insegnato la differenza.
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
 
-## Metodo e limiti della prima edizione
+## Learning and continuation
 
-Questa è una competenza tecnica di continuità sorgente. Il numero di repository o di agenti non le attribuisce automaticamente un livello meta.
+A later case shows whether work reaches shared source without loss or repeated reconstruction. A technical check remains attached to the revision it actually verified.
 
-Il metodo può diventare oggetto di apprendimento quando un passaggio di consegne mostra che una modifica condivisa non era raggiungibile dal collaboratore. Correggere quell'ingresso cambia il modo di conservare la continuità. È diverso da un processo autonomo che esegue push a intervalli, e non autorizza tale processo.
+## Resource files
 
-Questa edizione contiene sapere operativo ed esempi illustrativi. Formato, disponibilità e lettura dei file non certificano l'esercizio in un altro assistente. Usa i mezzi effettivi del tuo ambiente e l'autorizzazione pertinente alle azioni che vuoi affidargli.
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
 
-[Leggi i tre esempi](ESEMPI_IT.md) · [Pagina della risorsa](https://maios.it/risorse/continuita-repository/) · [Raccolta MAIOS Meta-Skill](https://github.com/GrazianoGuiducci/maios-meta-skill)
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

@@ -1,16 +1,16 @@
 {
   "id": "organizzare-lavoro-complesso",
   "name": "Meta_Metodo",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "04",
   "skill": "skills/organizzare-lavoro-complesso/SKILL.md",
   "guide": "skills/organizzare-lavoro-complesso/README.md",
-  "starter": "skills/organizzare-lavoro-complesso/AVVIO_CHAT_IT.txt",
-  "examples": "skills/organizzare-lavoro-complesso/ESEMPI_IT.md",
+  "starter": "skills/organizzare-lavoro-complesso/START_CHAT_EN.txt",
+  "examples": "skills/organizzare-lavoro-complesso/EXAMPLES.md",
   "presentation": "skills/organizzare-lavoro-complesso/presentation.json",
-  "package": "dist/organizzare-lavoro-complesso-0.1.0.zip",
+  "package": "dist/organizzare-lavoro-complesso-0.2.0.zip",
   "it": {
     "route": "/risorse/organizzare-lavoro-complesso/",
     "title": "Organizzare un lavoro complesso con l’AI",
@@ -39,5 +39,20 @@
       "Revise the method when a new source changes the research question."
     ]
   },
-  "native_entry": "meta-metodo"
+  "native_entry": "meta-metodo",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/organizzare-lavoro-complesso/SKILL.md",
+      "guide": "skills/organizzare-lavoro-complesso/README.md",
+      "starter": "skills/organizzare-lavoro-complesso/START_CHAT_EN.txt",
+      "examples": "skills/organizzare-lavoro-complesso/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/organizzare-lavoro-complesso/SKILL_IT.md",
+      "guide": "skills/organizzare-lavoro-complesso/README_IT.md",
+      "starter": "skills/organizzare-lavoro-complesso/AVVIO_CHAT_IT.txt",
+      "examples": "skills/organizzare-lavoro-complesso/ESEMPI_IT.md"
+    }
+  }
 }

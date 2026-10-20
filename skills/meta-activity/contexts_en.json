@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ricerca",
+    "area": "Research",
+    "title": "Research radar",
+    "task": "Follow a research topic and return differences that can change the project.",
+    "sources": "Primary sources, research questions, existing knowledge and decisions.",
+    "adaptation": "Refine sources and criteria, retain reopening conditions and avoid duplicate notifications.",
+    "attention": "A difference opening an experiment, correcting a hypothesis or requiring a choice."
+  },
+  {
+    "id": "bibliografia",
+    "area": "Research",
+    "title": "Reasoned bibliography",
+    "task": "Update a work’s bibliography and connect contributions to open questions.",
+    "sources": "Manuscript, references and accessible original publications.",
+    "adaptation": "Improve search relevance while preserving disagreement and study limitations.",
+    "attention": "A source changing an argument or method choice."
+  },
+  {
+    "id": "esperimenti",
+    "area": "Research",
+    "title": "Experiment continuity",
+    "task": "Resume authorized experiments, compare outcomes and prepare the next useful step.",
+    "sources": "Protocols, data, logs and tools available in the project.",
+    "adaptation": "Distinguish useful differences from repetition and return reusable criteria to the competence.",
+    "attention": "A result changing a hypothesis, an error or the next experiment decision."
+  },
+  {
+    "id": "dipendenze",
+    "area": "Development",
+    "title": "Software dependencies",
+    "task": "Follow changes in dependencies actually used and prepare pertinent interventions.",
+    "sources": "Repository, installed versions, release notes and official documentation.",
+    "adaptation": "Connect notices to actual use, remove repetition and improve sources.",
+    "attention": "A change requiring a product decision or intervention."
+  },
+  {
+    "id": "documentazione",
+    "area": "Development",
+    "title": "Product documentation",
+    "task": "Reconcile selected product changes with the guides describing them.",
+    "sources": "Source changes, product state, guides and project conventions.",
+    "adaptation": "Learn which surfaces depend on a change and preserve concurrent work.",
+    "attention": "An inaccurate guide or a proposal ready for review."
+  },
+  {
+    "id": "issue",
+    "area": "Development",
+    "title": "Issue triage",
+    "task": "Group similar reports and prepare reproducible cases for pertinent problems.",
+    "sources": "Issues, accessible logs, versions and team criteria.",
+    "adaptation": "Improve duplicate recognition and the information needed to reproduce failures.",
+    "attention": "A regression, reproducible case or priority decision."
+  },
+  {
+    "id": "editoria",
+    "area": "Content",
+    "title": "Editorial preparation",
+    "task": "Follow sources and prepare content in the forms selected for the project.",
+    "sources": "Originals, selected revisions, editorial guide and content state.",
+    "adaptation": "Preserve authorial distinctions and improve clarity, sources and adaptations.",
+    "attention": "A useful draft for review or a question changing the content."
+  },
+  {
+    "id": "distribuzione",
+    "area": "Content",
+    "title": "Content distribution",
+    "task": "Prepare channel adaptations of selected content and follow their outcomes.",
+    "sources": "Main resource, revision state, channel context and available feedback.",
+    "adaptation": "Learn from responses and channel conditions while preserving source meaning.",
+    "attention": "An adaptation to choose or a response deserving continuation."
+  },
+  {
+    "id": "conversazioni",
+    "area": "Content",
+    "title": "Industry discussions",
+    "task": "Find pertinent conversations and prepare contributions useful to their context.",
+    "sources": "Current discussions, community rules and public project knowledge.",
+    "adaptation": "Improve relevance and timing without repeating the same proposal.",
+    "attention": "A conversation where the project can offer a concrete contribution."
+  },
+  {
+    "id": "conoscenza",
+    "area": "Business",
+    "title": "Organizational knowledge",
+    "task": "Keep knowledge and decision reasons affecting team work reachable.",
+    "sources": "Authorized documents, decisions, guides and existing competences.",
+    "adaptation": "Recognize duplicate or superseded knowledge and return changes to the relevant location.",
+    "attention": "An operational contradiction or knowledge update to integrate."
+  },
+  {
+    "id": "supporto",
+    "area": "Business",
+    "title": "Customer support",
+    "task": "Prepare replies and documentation improvements from recurring questions.",
+    "sources": "Authorized requests, product information and validated answers.",
+    "adaptation": "Learn useful categories and cases needing a person; keep drafting distinct from sending.",
+    "attention": "A prepared reply or a case requiring human expertise."
+  },
+  {
+    "id": "procedure",
+    "area": "Business",
+    "title": "Operating procedures",
+    "task": "Observe differences between a procedure and actual work and prepare situated corrections.",
+    "sources": "Procedures, team feedback, tools and activity state.",
+    "adaptation": "Remove exhausted steps and preserve correction reasons.",
+    "attention": "A difference changing work quality or feasibility."
+  },
+  {
+    "id": "dati",
+    "area": "Operations",
+    "title": "Data quality",
+    "task": "Follow selected data sources and prepare corrections useful to their consumers.",
+    "sources": "Authorized datasets, definitions, update processes and available checks.",
+    "adaptation": "Distinguish new errors from known ones and improve detection criteria.",
+    "attention": "A difference altering data use or a correction ready for assessment."
+  },
+  {
+    "id": "sito",
+    "area": "Operations",
+    "title": "Website and public paths",
+    "task": "Keep pages, links and public information connected to the current product.",
+    "sources": "Site sources, accessible pages, product state and available feedback.",
+    "adaptation": "Learn dependencies between changes, pages and paths without repeating unchanged checks.",
+    "attention": "A broken path or information that has become inaccurate."
+  },
+  {
+    "id": "coordinamento",
+    "area": "Operations",
+    "title": "Project continuity",
+    "task": "Prepare useful reentry across sessions or people while retaining purpose, reasons and valid work.",
+    "sources": "Current guides, decisions, concurrent contributions and project sources.",
+    "adaptation": "Condense context while preserving relations needed for continuation.",
+    "attention": "A choice, real conflict or handoff enabling the next work."
+  },
+  {
+    "id": "studio",
+    "area": "Learning and services",
+    "title": "Learning path",
+    "task": "Prepare study and exercises from goals, acquired knowledge and encountered difficulties.",
+    "sources": "The person’s goals, selected materials and exercise outcomes.",
+    "adaptation": "Change examples and depth through observed understanding.",
+    "attention": "A useful passage to practice or a difficulty changing the path."
+  },
+  {
+    "id": "opportunita",
+    "area": "Learning and services",
+    "title": "Opportunity radar",
+    "task": "Follow project-relevant opportunities and prepare a concretely useful next step.",
+    "sources": "Project direction, real conditions, programs and original sources.",
+    "adaptation": "Distinguish interest, accessibility and attention cost; retain reopening conditions.",
+    "attention": "A possibility enabling concrete preparation or a choice."
+  },
+  {
+    "id": "servizio",
+    "area": "Learning and services",
+    "title": "Domain service",
+    "task": "Form recurring work for a particular domain together with its competences.",
+    "sources": "The person’s mandate, domain knowledge, tools and usage feedback.",
+    "adaptation": "Let work form further methods and capabilities in the recipient’s context.",
+    "attention": "A useful result, choice or difference changing the service."
+  }
+]

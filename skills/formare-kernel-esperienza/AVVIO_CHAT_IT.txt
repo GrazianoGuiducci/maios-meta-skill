@@ -1,4 +1,8 @@
-# Formare un nuovo kernel AI attraverso l’esperienza d’uso
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Proto Movimento
+
+**Formare un nuovo kernel AI attraverso l’esperienza d’uso**
 
 ## Oggetto della formazione
 
@@ -48,8 +52,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Risorsa pubblica specializzata derivata da Proto Movimento, nato nel lavoro di formazione del MAIOS Project Kernel. Il metodo generale maturato nello stesso percorso è rappresentato separatamente da Meta_Metodo. Questo kit non è una nuova release del prodotto MAIOS e non trasferisce lo stato delle sue implementazioni.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

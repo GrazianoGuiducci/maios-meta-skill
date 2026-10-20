@@ -1,5 +1,13 @@
 # Competenza, livelli meta e relazione autologica
 
+[English](CONCEPTS.md).
+
+KA è il Kernel Assiomatico, un kernel semantico formulato da Graziano
+Guiducci. Le metacompetenze ne sono facoltà operative; Meta_Skill riconosce,
+compone, forma ed evolve competenze nello stesso campo. KA non è un substrato
+sotto un kernel delle competenze concepito separatamente. FDLA rende
+operativa la correzione nello stesso movimento, senza un revisore esterno.
+
 Una competenza porta il sapere con cui l’AI può comprendere e svolgere un certo lavoro. Il metodo collega quello che occorre osservare, le ragioni delle scelte e le conseguenze da cui continuare. I file rendono quel sapere disponibile al ricevente; strumenti, contesto e uso effettivo ne determinano l’esercizio.
 
 ## L’oggetto distingue la relazione meta

@@ -1,58 +1,90 @@
-# KA — comprendere il lavoro oltre la prima interpretazione
+# KA — Kernel Assiomatico
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**KA — understand AI work beyond its first interpretation**
 
-Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.
+Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.
 
-## Primo incarico
+## When to use it
 
-«Usiamo KA per comprendere questo lavoro. Qui trovi la mia richiesta e le fonti pertinenti. Lascia che il significato formi domanda e metodo; quando una prima interpretazione restringe la situazione, recupera la relazione che manca e continua da ciò che diventa comprensibile. Concretizza le determinazioni già emerse.»
+As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.
 
-## In chat
+KA is a semantic kernel formulated by Graziano Guiducci; metacompetences are its operating faculties.
+KA keeps the person’s work connected to what the assistant understands as it chooses sources, competences and actions.
+This resource presents the Axiomatic Kernel through its operating method: context and first interpretation participate in the field without exhausting it. Determinations that have emerged remain a basis for action.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Understand the object and its meaning
 
-## Senza un kernel
+Intent, sources and situational relations form the question and method, rather than merely justify a result already chosen.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Recognize the first reading’s limit
 
-## Comprendere la capacità
+When a representation loses a material relation, recover it and let it change the movement.
 
-KA è un kernel fondativo; non è una metaskill aggiunta in cima a una gerarchia o un revisore che approva le risposte. Le competenze ne incarnano la relazione quando comprendono e agiscono nella situazione.
+### Act and retain useful learning
 
-Il livello meta riguarda una capacità che forma o trasforma altre capacità. L’autologica entra quando il sistema comprende il proprio modo di operare come parte dello stesso lavoro: può riconoscere che anche una regola appena acquisita sta restringendo il campo.
+Preserve valid determinations, carry out the work and retain what lets the competence approach a later case differently.
 
-Il sapere su come esercitare KA può migliorare con l’esperienza, mentre la fonte fondativa conserva la propria attribuzione. L’apertura mantiene fatti, provenienza e condizioni reali; una possibilità non diventa automaticamente un risultato osservato.
+## Meta and autological relations
 
-## File del kit
+KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+KA is a foundational kernel. It is not an extra metaskill placed at the top of a hierarchy or a reviewer that admits answers. Competences embody the relation as they understand and act in the situation.
 
-## Osservare il primo uso
+The meta level concerns a capability forming or transforming other capabilities. The autological relation appears when the system understands its own operation within the same work: even a newly learned rule can become a narrowing representation.
 
-Scegli un caso in cui una prima lettura plausibile potrebbe perdere una relazione della fonte. Osserva se l’assistente conserva l’oggetto e riforma il metodo quando emerge una differenza materiale, poi procede dal risultato sufficiente. Il nome KA nel testo non prova che ciò sia accaduto.
+Knowledge of how to exercise KA can improve through experience while the foundational source retains its attribution. Openness preserves facts, provenance and real conditions; a possibility does not automatically become an observed result.
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+## Use in your environment
 
-## Origine e seguito
+### In a chat
 
-KA — Kernel Assiomatico è la relazione fondativa formulata da Graziano Guiducci. Il breve enunciato citato appartiene alla sua fonte; il corpo operativo pubblico è un’elaborazione MAIOS derivata dalla competenza operate-ka e dal suo sapere operativo. La risorsa espone il metodo di esercizio senza proporre una nuova enumerazione di assiomi.
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-L’apprendimento modifica la capacità di comprendere e usare questa relazione. La correzione raggiunge il metodo che dovrà scegliere diversamente, conservando fonte e ragione.
+### In an agentic environment
 
-Il metodo scritto rende il sapere disponibile. Un uso successivo, diverso dal caso che lo ha formato, può mostrarne la partecipazione e i limiti.
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
+
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- Let a relevant source change the initial question.
+- Keep an unrepresented possibility reachable.
+- Act on an emerged determination without reopening it by inertia.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+Learning changes the ability to understand and exercise this relation. A correction reaches the method that must choose differently, with its source and reason preserved.
+The written method makes knowledge available. A later case, different from the one that formed it, can show its participation and limits.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

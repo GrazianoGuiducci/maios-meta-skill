@@ -1,42 +1,47 @@
 ---
 name: formare-risorse-pubbliche
-description: "Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI. Usare quando: Quando un team vuole condividere un metodo o una skill maturati nel lavoro e renderli utili anche ad altri."
+description: "Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Trasformare una competenza interna in una risorsa pubblica
+# Formare risorse pubbliche dalle metacompetenze
 
-Questa metacompetenza trasforma un saper fare interno in una risorsa che persone e assistenti esterni possono comprendere, avviare e adattare. Tiene insieme metodo trasferito, guida, primo uso, repository o altro luogo di distribuzione, pagina di presentazione e derivazioni editoriali.
+Turn internal know-how into a resource people and assistants outside its originating context can understand, start and adapt. Hold together transferred method, guide, first use, repository or other distribution location, presentation page and editorial adaptations.
 
-La risorsa nasce dal lavoro che il destinatario potrà affidarle. Una funzione concreta, una competenza o una composizione possono essere utili: il nome “meta” non ne determina da solo il valore.
+Begin with work the recipient can entrust to the resource. A concrete function, competence or composition can be useful; the label “meta” does not determine its value.
 
-## Partire dalla capacità e dal destinatario
+## Begin with capability and recipient
 
-Leggi la competenza sorgente, le ragioni della sua formazione e la guida del lavoro. Comprendi che cosa il ricevente potrà fare, quando gli servirà e quale conoscenza gli permetterà di adattare il metodo. Cerca il sapere anche nelle guide e nelle relazioni con altre capacità: una cartella o una descrizione non esauriscono la funzione. Quando la risorsa compone più competenze, trasferisci il ponte che collega conoscenza e scelta; un elenco di nomi lascia quel lavoro al destinatario.
+Read the source competence, reasons for its formation and work guide. Understand what the recipient can do, when it matters and what knowledge enables adaptation. Reach knowledge in guides and relations with other capabilities too: a folder or description does not exhaust a function. When composing competences, transfer the bridge from knowledge to choice rather than leaving the recipient to reconstruct it from names.
 
-## Formare un metodo utilizzabile fuori dal contesto d’origine
+## Form a method usable outside its originating context
 
-Preserva significato, ragioni, capacità e possibilità di revisione. Sostituisci dipendenze private con conoscenza inclusa o fonti accessibili. Togliere percorsi e nomi non basta: il ricevente deve sapere cosa osservare, quale relazione cambia una decisione e come continuare. Mantieni le condizioni che rendono vera una lezione e distingui metodo proposto, capacità implementata, esercizio osservato e assimilazione. Gli esempi nuovi restano illustrativi. Rimuovi credenziali, stato degli account, contatti, cronologie e dettagli privati non necessari.
+Preserve meaning, reasons, capabilities and revisability. Replace private dependencies with included knowledge or accessible sources. Removing paths and names alone is insufficient: the recipient needs to know what to observe, which relation changes a decision and how to continue. Preserve the conditions making a lesson valid. Distinguish proposed method, implemented capability, observed exercise and assimilation. New examples remain illustrative. Remove credentials, account state, contacts, histories and unnecessary private details.
 
-## Costruire corpo, guida e primo uso
+## Build the method, guide and first use
 
-Forma il corpo operativo nella profondità richiesta dal lavoro. La guida spiega come usarlo e adattarlo; gli esempi rendono riconoscibili casi differenti. Un avvio dichiarato autonomo deve includere il metodo necessario; un ingresso che rimanda a file deve raggiungere file effettivamente disponibili. Spiega le differenze fra chat, ambiente agentico e kernel esistente dove cambiano l’uso. Indica come conservare il sapere attraverso documenti o un testo da salvare. Le istruzioni non installano strumenti, memoria, account o scheduler.
+Form an operating body at the depth required by the work. The guide explains use and adaptation; examples make different cases recognizable. A self-contained starter includes the necessary method. An entry referring to files must reach files actually available. Explain differences between chat, an agentic environment and an existing kernel where they affect use. Show how knowledge can continue through documents or a saved note. Instructions do not install tools, memory, accounts or schedulers.
 
-## Presentare la capacità senza perdere profondità
+## Present capability without losing depth
 
-La scheda rende immediati cosa fa, quando usarla e casi riconoscibili. Titolo e sottotitolo identificano l’oggetto e il contesto per chi non conosce il progetto. La pagina dedicata rende raggiungibili spiegazione del metodo, avvio, esempi e profondità concettuale pertinente. Chiarisci quale oggetto viene trasformato: una relazione meta forma o modifica metodi e competenze; una relazione autologica riguarda il proprio modo di operare. Composizione, automazione e autonomia non sono sinonimi di questi concetti.
+The card makes what it does, when to use it and recognizable cases immediate. Title and subtitle identify object and context for a new reader. The dedicated page reaches method, starter, examples and pertinent conceptual depth. Clarify what is transformed: a meta relation forms or changes methods and competences; an autological relation concerns its own operation. Composition, automation and autonomy are not synonyms for these relations.
 
-## Far continuare la stessa risorsa nelle sue proiezioni
+## Continue the same resource across its projections
 
-Assegna un’identità e una versione coerenti a corpo, guida, avvio e presentazione. Quando un pacchetto dichiara una revisione, costruiscilo dagli stessi contenuti e verifica quella corrispondenza; non attribuire a una versione file concorrenti diversi. Gli articoli e gli adattamenti derivano dalla capacità selezionata: la riduzione conserva tesi, stato e condizioni, la traduzione conserva significato. Preserva gli originali umani distinguendoli dalle proposte dell’assistente. Sorgente condivisa, anteprima, deploy, invio e uso da parte di altri sono effetti e osservazioni distinti, governati dal mandato e dai mezzi reali.
+Keep identity and version coherent across body, guide, starter and presentation. Build a package from the content of its declared revision and verify that correspondence; do not attribute differing concurrent files to one version. Articles and adaptations derive from the selected capability. Shortening preserves thesis, state and conditions; translation preserves meaning. Attribute human originals separately from assistant proposals. Shared source, preview, deployment, sending and another person's use are distinct effects and observations, governed through actual mandate and means.
 
-## Una risorsa che insegna anche a formare risorse
+The source competence's name identifies the resource in both languages. Translate its explanation rather than inventing or translating its identity. Verify that relation against the native source, not only against a catalogue that may repeat the same editorial substitution.
 
-La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.
+## A resource that also teaches resource formation
 
-La relazione autologica compare quando una difficoltà del destinatario corregge il metodo di formazione: se il prompt rinvia a una guida privata, non manca solo un link, manca conoscenza operativa nel ricevente. Quel riscontro cambia come il prossimo kit viene costruito. Il ritorno al metodo non implica distribuzione autonoma.
+The meta relation is its object: forming a usable capability from internal knowledge and connecting its entries. The method can be applied to its own public transformation.
 
-## Apprendimento e continuità
+The autological relation appears when recipient difficulty corrects formation itself. A prompt pointing to a private guide lacks operating knowledge in the recipient, not merely a working link. That feedback changes how the next kit is built. Return to the method does not imply autonomous distribution.
 
-Un problema di comprensione cambia la scheda o la spiegazione; una lacuna d’uso cambia metodo, guida o attivazione; una divergenza fra sorgente e pacchetto cambia il meccanismo di costruzione. Correggi le proiezioni realmente dipendenti, preservando gli altri lavori.
+## Learning and continuation
 
-Conserva fonte, ragione e conseguenza che miglioreranno la prossima risorsa. Una prima realizzazione rende il metodo disponibile e documenta il proprio caso; una diversa adozione successiva può mostrarne limiti e capacità.
+An understanding problem changes a card or explanation; a usage gap changes method, guide or activation; source/package divergence changes the build mechanism. Correct the projections actually depending on the difference while preserving other work.
+
+Keep the source, reason and consequence that improve the next resource. An initial implementation makes the method available and documents its case. A different later adoption may reveal its capabilities and limits.

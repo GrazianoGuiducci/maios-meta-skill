@@ -1,16 +1,16 @@
 {
   "id": "accordi-collaborazioni",
   "name": "Compose Agreement Contract",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "16",
   "skill": "skills/accordi-collaborazioni/SKILL.md",
   "guide": "skills/accordi-collaborazioni/README.md",
-  "starter": "skills/accordi-collaborazioni/AVVIO_CHAT_IT.txt",
-  "examples": "skills/accordi-collaborazioni/ESEMPI_IT.md",
+  "starter": "skills/accordi-collaborazioni/START_CHAT_EN.txt",
+  "examples": "skills/accordi-collaborazioni/EXAMPLES.md",
   "presentation": "skills/accordi-collaborazioni/presentation.json",
-  "package": "dist/accordi-collaborazioni-0.1.0.zip",
+  "package": "dist/accordi-collaborazioni-0.2.0.zip",
   "it": {
     "route": "/risorse/accordi-collaborazioni/",
     "title": "Preparare accordi e collaborazioni con l’AI",
@@ -39,5 +39,20 @@
       "Identify dependencies between delivery, acceptance and payment."
     ]
   },
-  "native_entry": "compose-agreement-contract"
+  "native_entry": "compose-agreement-contract",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/accordi-collaborazioni/SKILL.md",
+      "guide": "skills/accordi-collaborazioni/README.md",
+      "starter": "skills/accordi-collaborazioni/START_CHAT_EN.txt",
+      "examples": "skills/accordi-collaborazioni/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/accordi-collaborazioni/SKILL_IT.md",
+      "guide": "skills/accordi-collaborazioni/README_IT.md",
+      "starter": "skills/accordi-collaborazioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/accordi-collaborazioni/ESEMPI_IT.md"
+    }
+  }
 }

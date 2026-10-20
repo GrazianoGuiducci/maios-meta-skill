@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Trasformare fonti e segnali in conoscenza utile al progetto
+# Signal Intelligence
+
+**Trasformare fonti e segnali in conoscenza utile al progetto**
 
 Questa competenza trasforma segnali in conoscenza collegata al lavoro e, quando utile, in un cambiamento del metodo che proseguirà. Un segnale può arrivare da un articolo, un paper, un video, una conversazione, un errore, una contraddizione o un’assenza significativa.
 
@@ -38,8 +40,6 @@ Conserva la differenza riusabile: una fonte discriminata meglio, un presupposto 
 
 La ricerca può continuare su richiesta o dentro un’attività già programmata. Questa risorsa trasferisce il metodo; non crea da sola un servizio di sorveglianza o una rete di agenti.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

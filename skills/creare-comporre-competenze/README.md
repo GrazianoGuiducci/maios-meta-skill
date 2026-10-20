@@ -1,58 +1,89 @@
-# Creare e comporre competenze per un sistema AI
+# Meta_Skill Semantic Kernel
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Create and compose competences for an AI system**
 
-Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Quando un sistema deve sviluppare un saper fare duraturo e la sola istruzione per il task non ne conserva metodo e apprendimento.
+Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs.
 
-## Primo incarico
+## When to use it
 
-«Qui trovi due esempi del lavoro che voglio affidare all’AI, le ragioni delle scelte e un nuovo caso. Comprendi quale saper fare trasferire, usa le competenze già presenti e forma ciò che manca. Applica il metodo al nuovo caso e conserva ciò che cambia anche il modo di formare questa capacità.»
+When a system needs lasting know-how and a task instruction alone does not preserve its method or learning.
 
-## In chat
+Useful work can leave both a result and new know-how. Meta_Skill makes that relation usable: recognizing capabilities, composing them and forming what lets a system act in its actual context.
+Knowledge, exemplary works, explanations, successes, corrections and possibilities can all contribute. The method connects what is learned to the choices that should change.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Understand what makes the work effective
 
-## Senza un kernel
+Connect purpose, conditions, choices and consequences in sources and examples. Preserve the reasons that allow adaptation.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Form the needed capability
 
-## Comprendere la capacità
+Reuse or compose existing methods, repair a missed entry or form operating knowledge that needs to continue.
 
-Il lavoro su un oggetto e la formazione della competenza che lo svolge hanno oggetti diversi. La relazione meta nasce da questa differenza; non dal numero di skill o da una gerarchia fissata a priori.
+### Return learning to the right method
 
-Il generatore diventa autologico quando il proprio modo di conoscere e formare entra nello stesso lavoro. Se un esempio è stato copiato senza comprenderne le condizioni, l’esperienza può correggere sia la competenza prodotta sia il metodo di formazione.
+The result can change the practical competence and, when relevant, the method through which other competences are formed.
 
-Il ritorno autopoietico conserva quel cambiamento nella forma che renderà possibile il prossimo uso. Le istruzioni e le guide possono evolvere; ciò non significa modificare i pesi del modello o aver provato un apprendimento stabile.
+## Meta and autological relations
 
-## File del kit
+KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+Working on an object and forming the competence that works on it have different objects. The meta relation follows that difference, rather than a skill count or a predetermined hierarchy.
 
-## Osservare il primo uso
+The generator becomes autological when its own way of knowing and forming enters the same work. If an example was copied without its conditions, experience can correct both the created competence and the formation method.
 
-Scegli un secondo caso con condizioni differenti dal primo. Osserva se l’assistente adatta una decisione usando la ragione appresa, invece di ripetere il formato dell’esempio. Conserva la differenza nel metodo pratico e, se generale, nel metodo generativo.
+Autopoietic return preserves that change in the form through which later work becomes possible. Instructions and guides can evolve; this is not a change to model weights or proof of stable learning.
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+## Use in your environment
 
-## Origine e seguito
+### In a chat
 
-Edizione pubblica del nucleo generativo Meta_Skill, nella relazione con KA e FDLA. Trasferisce il metodo di formazione e composizione, incluse le acquisizioni sulla formazione da opere, insegnamenti e pratica. Non costituisce una copia dello stato di un nodo MAIOS o una garanzia di autoapprendimento del modello.
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-Una nuova fonte può cambiare quali altre fonti sembrano pertinenti. La formazione conserva questa apertura anche quando dispone già di un metodo efficace.
+### In an agentic environment
 
-La prima edizione rende disponibile il sapere operativo. L’uso in situazioni diverse permette di osservare e affinare il suo trasferimento.
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
+
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- Form a competence from a method developed in a project.
+- Compose research and writing for a particular piece of work.
+- Let a created competence improve how later competences are formed.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+A new source can change which other sources seem relevant. Formation retains this openness even when a useful method already exists.
+The first edition makes operating knowledge available. Use in different situations can show and refine its transfer.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

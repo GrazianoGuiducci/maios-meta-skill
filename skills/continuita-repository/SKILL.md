@@ -1,54 +1,49 @@
 ---
 name: continuita-repository
-description: "Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa. Quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale."
+description: "Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Condividere il lavoro AI tra repository e collaboratori
+# Maintain Repository Continuity
 
-Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.
+Understand the selected repository and share relevant changes while preserving concurrent work and the identity of the shared revision. Keep local changes, commits and shared source recognizably connected.
 
-## Scopo e situazione
+Use this competence when people or assistants share a project and useful work must become reachable beyond a local checkout. Continuity includes reasons, concurrent contributions and the revision a collaborator can actually read. Commit, source sharing and product publication remain distinct effects.
 
-Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa.
+## Identify repository and selected result
 
-Usa questa competenza: quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale.
+Reach the repository owning the work and its current instructions. Understand what should become shared and why continuation needs it. A container folder may hold several repositories; do not treat them as one. Continuity becomes pertinent for a meaningful result or handoff, rather than requiring Git closure after every edit or publication during read-only work.
 
-Un lavoro salvato può restare invisibile a chi deve continuarlo. Questa competenza collega il risultato locale alla sorgente condivisa del progetto, mantenendo chiaro che cosa appartiene alla modifica selezionata.
+## Understand current identities
 
-La continuità comprende le ragioni del cambiamento, i contributi concorrenti e la revisione che il collaboratore può davvero leggere. Commit, condivisione e pubblicazione del prodotto restano effetti distinti.
+Distinguish working files, local commits, tracking references, verified remote revision and generated or ignored artifacts. Use the project's actual Git tools and access to inspect branch, differences and relation to the remote. A local tracking ref can be stale; successful fetching does not prove the selected content is shared. Do not print or persist credentials while gathering these facts.
 
-## Individuare repository e risultato selezionati
+## Preserve concurrent contributions
 
-Raggiungi il repository che possiede il lavoro e le sue istruzioni attuali. Comprendi che cosa deve diventare condiviso e perché serve al seguito. Una cartella contenitore può ospitare più repository: non trattarli come un unico oggetto. La continuità diventa pertinente a un risultato significativo o a un passaggio di consegne, non richiede una chiusura Git dopo ogni modifica o una pubblicazione durante una richiesta di sola lettura.
+Understand changes before preparing a commit. Select files or portions belonging to the authorized work. Old or uncommitted work is not disposable noise. Integrate independent local and remote contributions while preserving both lines. For overlapping work on one object, resolve their relation before selecting content. Do not create apparent order by deleting valid work.
 
-## Comprendere le identità presenti
+## Complete the authorized effect
 
-Distingui file di lavoro, commit locali, riferimento di tracciamento, revisione remota verificata e artefatti generati o ignorati. Usa gli strumenti Git e l'accesso previsti dal progetto per vedere ramo, differenze e rapporto con il remoto. Un riferimento locale può essere vecchio; un fetch riuscito non dimostra che il contenuto selezionato sia già condiviso. Evita di stampare o salvare credenziali mentre acquisisci queste informazioni.
+When the mandate includes committing and sharing, inspect relevant content, run proportionate checks, create a coherent commit and share to the intended branch through the recipient's authentication. Do not import another environment's credential or push policy. If authority or means are absent, preserve work and identify the particular remaining step without claiming shared source.
 
-## Preservare i contributi concorrenti
+## Verify what collaborators receive
 
-Leggi il significato delle modifiche prima di preparare il commit. Seleziona solo i file o le porzioni appartenenti al lavoro autorizzato. Un cambiamento vecchio o non ancora salvato in un commit non è per questo rumore eliminabile. Con contributi locali e remoti indipendenti, integra preservando entrambe le linee; se si sovrappongono sullo stesso oggetto, risolvi la relazione prima di scegliere il contenuto. Non ottenere ordine apparente cancellando lavoro valido.
+After sharing, verify the remote revision and its relation to local result and tracking ref. When reconciliation produces distinct identities, explain which commits or content correspond and which remain different. Give an exact reference with pertinent reasons and checks. Reachable source does not prove reading, installation or execution. Deployment, release and activation need their own observation.
 
-## Completare l'effetto autorizzato
+## Continue the change's knowledge
 
-Quando il mandato corrente copre commit e condivisione, controlla il contenuto pertinente, esegui verifiche proporzionate, crea un commit coerente e condividi sul ramo previsto attraverso l'autenticazione del destinatario. Non trasferire la policy di credenziali o di push di un altro ambiente. Se l'effetto non è autorizzato o il mezzo manca, conserva il lavoro e indica il passaggio specifico ancora aperto senza dichiarare la sorgente condivisa.
+Preserve the useful change, reason, revision, checks and remaining local work in the project guide. Improve the continuity method when a new case exposes loss or unnecessary procedure. Its purpose is shareable, reconstructable work, not Git ritual or forced synchronization of every repository.
 
-## Verificare ciò che il collaboratore riceverà
+## Method depth
 
-Dopo la condivisione, verifica la revisione remota e la relazione con il risultato locale e il tracking. Se una riconciliazione produce identità diverse, spiega quali commit o contenuti corrispondono e quali restano distinti. Dai al collaboratore un riferimento esatto con ragioni e controlli rilevanti. Una sorgente raggiungibile non prova che sia stata letta, installata o eseguita. Deploy, release e attivazione richiedono il loro riscontro.
+This is a technical source-continuity competence. Repository or agent counts do not automatically confer a meta level.
 
-## Far continuare la conoscenza del cambiamento
+The method becomes an object of learning when a handoff reveals that a shared change was not reachable by the collaborator. Correcting that entry changes continuity itself. This is distinct from, and does not authorize, a process that pushes on a timer.
 
-Conserva nella guida del progetto il cambiamento utile, il perché, la revisione, le verifiche e l'eventuale lavoro rimasto locale. Se un nuovo caso espone una perdita o una procedura superflua, correggi il metodo di continuità. Il suo scopo è rendere il lavoro condivisibile e ricostruibile, non creare un rituale di Git o mantenere tutti i repository dell'ambiente sincronizzati per forza.
+## Learning and continuation
 
-## Profondità del metodo
+A later case shows whether work reaches shared source without loss or reconstruction. A technical check remains tied to the revision actually verified.
 
-Questa è una competenza tecnica di continuità sorgente. Il numero di repository o di agenti non le attribuisce automaticamente un livello meta.
-
-Il metodo può diventare oggetto di apprendimento quando un passaggio di consegne mostra che una modifica condivisa non era raggiungibile dal collaboratore. Correggere quell'ingresso cambia il modo di conservare la continuità. È diverso da un processo autonomo che esegue push a intervalli, e non autorizza tale processo.
-
-## Continuità e apprendimento
-
-Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perdita e senza dover ricostruire la situazione. Un controllo tecnico resta legato alla revisione che ha effettivamente verificato.
-
-Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+Begin with available context, sources and means. Chat can exercise the method; persistence, tools and external effects depend on actual mandate. Observe behavior and value in real work.

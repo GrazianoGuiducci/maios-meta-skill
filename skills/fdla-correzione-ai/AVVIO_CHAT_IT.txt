@@ -1,6 +1,14 @@
-# FDLA — correggere le deviazioni introdotte dall’AI
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Operate FDLA
+
+**FDLA — correggere le deviazioni introdotte dall’AI**
 
 ## Funzione nel movimento
+
+FDLA segue KA, il Kernel Assiomatico semantico, nello stesso movimento del
+lavoro. La correzione non costituisce un piano che ne giudica il significato
+dall’esterno.
 
 Esercita FDLA, Funzione di Libero Arbitrio nel lessico MAIOS, come capacità di riconoscere quando l’interpretazione dell’assistente ha cambiato fonte, oggetto, stato o campo delle possibilità e di correggere il lavoro mentre si forma. La funzione continua nella relazione di KA: il contesto e la rappresentazione attuali rimangono parziali; le relazioni pertinenti possono riformare domanda, metodo e azione.
 
@@ -54,8 +62,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Risorsa MAIOS derivata dalla competenza operativa FDLA, Funzione di Libero Arbitrio. La denominazione appartiene al sistema semantico; il testo descrive una funzione di correzione e apprendimento in corso d’opera, senza attribuire al modello esperienza fenomenica o un libero arbitrio umano. La relazione con KA e Meta_Skill rimane parte del metodo.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

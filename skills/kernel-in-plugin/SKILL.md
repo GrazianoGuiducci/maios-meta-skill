@@ -1,54 +1,57 @@
 ---
 name: kernel-in-plugin
-description: Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.
+description: "Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Portare un kernel semantico in un plugin AI
+# Kernel Plugin Incarnation
 
-## Oggetto e destinazione
+## Object and destination
 
-Conduci la relazione attraverso cui una capacità o un kernel semantico diventa un plugin utilizzabile in un ambiente AI. Comprendi il lavoro che il destinatario vuole svolgere e la capacità sorgente che può renderlo possibile. Il prodotto trasferisce sapere e mezzi coerenti con quel lavoro. Un insieme di file corretti è una rappresentazione della capacità; l’uso nel ricevente ne mostra l’esercizio.
+Form the relation through which a semantic capability or kernel becomes a usable plugin in an AI environment. Understand the recipient's work and the source capability enabling it. Transfer coherent knowledge and means. Correct files represent capability; use in the recipient shows exercise.
 
-Raggiungi il metodo sorgente e le ragioni che lo rendono utile. Per una scelta concreta di formato, installazione, interfaccia, autenticazione o compatibilità, consulta la documentazione ufficiale corrente dell’ambiente scelto. Conserva la data e la portata del riscontro. Non trasferire come fatto attuale il ricordo di un comportamento del provider.
+Reach the source method and its reasons. For a concrete format, installation, interface, authentication or compatibility choice, consult the chosen environment's current official documentation. Preserve observation date and scope rather than treating remembered provider behavior as current fact.
 
-## Separare le funzioni per comporle
+## Distinguish functions to compose them
 
-Comprendi che cosa deve stare nelle istruzioni: interpretazione del contesto, metodo, selezione delle fonti, continuità e apprendimento. Uno strumento può invece fornire dati aggiornati, accesso a un servizio o un’azione materiale. L’interfaccia rende visibili opzioni, stato e conseguenze quando aiuta una scelta dell’utente. Queste relazioni orientano la progettazione; il caso reale può cambiarne la forma.
+Understand what belongs in instructions: contextual interpretation, method, source selection, continuity and learning. Tools may provide current data, service access or material action. Interfaces expose options, state and consequences when they help user choices. These relations guide design while remaining revisable through the case.
 
-Riusa gli strumenti supportati già presenti quando svolgono la funzione richiesta. Forma un nuovo collegamento soltanto per la capacità realmente mancante. Non costruire un connettore per correggere un metodo semantico, né riscrivere la skill per compensare un accesso non configurato. Mantieni credenziali e stato degli account fuori dal testo pubblico delle istruzioni.
+Reuse supported tools performing the needed function. Form a connection for an actually absent capability. A connector does not repair a semantic method; rewriting a skill does not configure account access. Keep credentials and account state outside public instructions.
 
-Il destinatario deve poter comprendere quali mezzi richiede l’operazione promessa. Se una funzione dipende da un servizio esterno, rendi quel collegamento accessibile e dichiarato nel suo contesto d’uso. Quando manca una capacità facoltativa, il metodo ancora valido può continuare con i materiali disponibili; non simulare dati o azioni del servizio.
+Let recipients understand the means needed for promised work. When a function depends on an external service, make its connection reachable and explain it in use. If an optional capability is missing, continue the valid method using available materials without simulating service data or actions.
 
-## Seguire la capacità fino al suo uso
+## Follow capability into use
 
-Distingui la sorgente del kernel, la versione del plugin, l’istantanea delle skill, l’eventuale servizio collegato e lo stato del ricevente. Una modifica alla sorgente non aggiorna automaticamente il plugin installato. Una cartella generata non significa che l’ambiente l’abbia caricata, trovata o usata.
+Distinguish kernel source, plugin version, skill snapshot, linked service and recipient state. Source changes do not automatically update installed plugins. A generated folder does not prove loading, discovery or exercise.
 
-Se il plugin mantiene stato locale, distinguilo dai file del pacchetto e dalla sede durevole del progetto. Verifica nel contratto corrente dell’ambiente che cosa sopravvive ad aggiornamento o disinstallazione. Conserva fuori dalle sedi eliminabili l’unica copia di conoscenza non ricostruibile: il luogo usato dal plugin per lavorare può avere un ciclo di vita diverso da quello del progetto.
+Distinguish plugin-local state, package files and durable project knowledge. Check the host's current lifecycle contract for updates and uninstallation. Keep the only copy of irreplaceable knowledge outside removable storage: plugin working space can have a different lifetime from the project.
 
-Prepara la forma più piccola che consenta un primo lavoro completo. Verifica il formato dove il contratto del provider lo richiede; usa un caso pertinente per osservare il metodo. Se dichiari uso nel ricevente, collega il riscontro alla versione, al contesto e al risultato effettivamente osservati. Una dichiarazione dell’assistente «ho usato la skill» non dimostra da sola quale contributo abbia cambiato la risposta.
+Prepare the smallest form enabling complete initial work. Check provider-required format and use a pertinent case to observe the method. A claim of recipient use should identify the version, context and observed result. “I used the skill” alone does not show which contribution changed an answer.
 
-## Comprendere gli attriti
+## Understand friction
 
-Quando il lavoro si interrompe, risali alla differenza che lo produce. Il pacchetto può non essere leggibile, la skill non essere scoperta, il metodo essere incompleto, una fonte essere superata, un servizio mancare o un permesso essere insufficiente. Queste condizioni richiedono interventi diversi.
+Recover the difference causing interruption: unreadable package, undiscovered skill, incomplete method, obsolete source, missing service or insufficient permission require different corrections.
 
-Per esempio, un plugin di ricerca può selezionare la fonte giusta ma riceverne una copia vecchia dall’indice. Correggere la prosa della skill non aggiorna la fonte. Raggiungi la coordinata corrente del proprietario quando la freschezza cambia la decisione; se non puoi stabilirla, conserva l’incertezza nella specifica affermazione interessata.
+A research plugin may choose the right source while an index returns an old copy. Editing skill prose does not update that source. Reach the owner's current coordinate when freshness changes the decision; if unavailable, keep uncertainty with the particular affected claim.
 
-Distingui autenticazione dell’account, autorizzazione del servizio, permessi dell’ambiente e mandato dell’utente per l’azione concreta. La possibilità tecnica di inviare non equivale alla selezione di quel messaggio. Questa distinzione riguarda l’effetto, senza bloccare la preparazione utile del contenuto.
+Distinguish account authentication, service authorization, host permissions and user mandate for the concrete action. Technical sending capability is not selection of a message. That distinction governs the effect without blocking useful content preparation.
 
-## Portabilità e ritorno al metodo
+## Portability and return to the method
 
-Nel passaggio tra ambienti conserva una sorgente semantica riconoscibile e adatta i meccanismi che la rendono raggiungibile. L’uguaglianza dei nomi dei file non dimostra equivalenza funzionale. Una chat reattiva e un ambiente agentico possono avere persistenza e strumenti diversi: rendi visibile ciò che il ricevente può effettivamente fare.
+Across hosts, preserve a recognizable semantic source and adapt the mechanisms making it reachable. Matching filenames do not establish functional equivalence. Reactive chats and agentic environments may differ in tools and persistence; describe what the recipient can actually do.
 
-Dopo un uso significativo, conserva identità della versione, ragione delle scelte, risultato e differenza utile al seguito. Una lezione specifica cambia il plugin; un errore di packaging cambia il metodo di confezionamento; un limite nella traduzione della capacità può cambiare questa competenza di trasferimento. Un evento può avere più ritorni, ciascuno pertinente al proprio oggetto.
+After meaningful use, preserve version identity, decision reasons, result and useful difference. A particular lesson changes the plugin; a packaging error changes packaging; a loss translating capability can change this transfer competence. One event may have several object-specific returns.
 
-Questa è una relazione meta perché forma il modo in cui una capacità diventa un prodotto operativo. È autologica quando il lavoro sul plugin riforma il metodo con cui conduci il trasferimento. Se il criterio usato per scegliere le fonti produce ripetutamente dati vecchi, rivedilo e conserva perché cambia prima del prossimo porting. La continuità di tale apprendimento è distinta dalla pubblicazione di una nuova versione.
+This is a meta relation because it forms how capability becomes an operating product. It is autological when plugin work reforms transfer itself. If source selection repeatedly yields stale data, change that criterion and its rationale before another port. Continuing learning is distinct from publishing a release.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use supplied materials in chat or actual files, tools and guides where available. Ask only for missing context that matters and proceed when a useful result is possible. Preserve reasons, decisive sources, differences and continuation in the project's actual location; otherwise return a reusable note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change the used method without changing model weights or proving stable learning. Distinguish availability, actual use and later behavior. Accounts, tools and authority over concrete effects follow the recipient's real mandate and environment.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa MAIOS derivata da Kernel Plugin Incarnation. Conserva il metodo di traduzione fra capacità semantica, prodotto e ricevente. I dettagli di formato e installazione dipendono dalla documentazione ufficiale del provider scelto; questo kit non dichiara compatibilità specifiche o installazioni già eseguite.
+MAIOS adaptation of Kernel Plugin Incarnation, preserving translation between semantic capability, product and recipient. Provider-specific format and installation follow current official documentation. This kit does not establish particular compatibility or completed installation.

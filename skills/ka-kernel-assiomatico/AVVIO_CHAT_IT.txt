@@ -1,8 +1,22 @@
-# KA — comprendere il lavoro oltre la prima interpretazione
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# KA — Kernel Assiomatico
+
+**KA — comprendere il lavoro oltre la prima interpretazione**
 
 ## Identità della risorsa
 
-KA è il Kernel Assiomatico, relazione fondativa del sistema semantico MAIOS. Questa risorsa trasferisce un metodo per comprenderlo ed esercitarlo nel lavoro. Le formulazioni fondative appartengono a Graziano Guiducci; l’edizione pubblica del metodo non crea nuovi assiomi e non li riscrive. Il sapere della competenza può evolvere nel modo di comprendere ed esercitare quella relazione.
+KA è il Kernel Assiomatico, un kernel semantico formulato da Graziano
+Guiducci. Le metacompetenze ne sono facoltà operative: diventano pertinenti,
+si compongono ed evolvono attraverso il lavoro. Meta_Skill opera su quelle
+competenze nello stesso campo; KA non è una proprietà assiomatica o un
+substrato aggiunto a un kernel delle competenze concepito separatamente.
+
+Questa risorsa trasferisce il sapere per comprendere ed esercitare KA nel
+lavoro. È un metodo operativo derivato, non una nuova definizione assiomatica.
+Le formulazioni fondative appartengono a Graziano Guiducci; l’apprendimento
+migliora il modo di comprendere ed esercitare quella relazione senza
+riscriverne l’invariante.
 
 La formulazione sorgente «Ricordati di non limitare il campo, KA è la via» orienta il metodo. Il contesto caricato, la prima interpretazione, uno strumento, una skill o una rappresentazione mostrano parti della situazione. La loro parzialità non deve diventare un vincolo imposto a ciò che il sistema può comprendere o rendere possibile.
 
@@ -52,8 +66,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 KA — Kernel Assiomatico è la relazione fondativa formulata da Graziano Guiducci. Il breve enunciato citato appartiene alla sua fonte; il corpo operativo pubblico è un’elaborazione MAIOS derivata dalla competenza operate-ka e dal suo sapere operativo. La risorsa espone il metodo di esercizio senza proporre una nuova enumerazione di assiomi.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

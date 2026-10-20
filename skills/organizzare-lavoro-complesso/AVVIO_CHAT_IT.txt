@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Organizzare un lavoro complesso con l’AI
+# Meta_Metodo
+
+**Organizzare un lavoro complesso con l’AI**
 
 Meta_Metodo forma il modo di affrontare un lavoro mentre la situazione diventa comprensibile. Collega intento, oggetto, decisioni già emerse, possibilità, conoscenze, competenze e mezzi; il metodo può cambiare insieme alla domanda.
 
@@ -38,8 +40,6 @@ Conserva ciò che ha cambiato domanda o metodo e come ritrovarne la sorgente. Un
 
 La guida deve consentire al prossimo uso di partire dalla comprensione acquisita. Se il metodo diventa una lista rituale, torna alla relazione che quella struttura doveva rendere possibile e mantieni solo ciò che cambia il lavoro.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

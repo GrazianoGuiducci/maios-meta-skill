@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Riprendere un progetto con l’AI dopo un’interruzione
+# Maintain Causal Task Continuity
+
+**Riprendere un progetto con l’AI dopo un’interruzione**
 
 Questa competenza conserva ciò che rende possibile riprendere un lavoro: intento, ragioni delle scelte, sapere acquisito, operazioni svolte e questioni aperte. Il punto corrente raggiunge una guida abbastanza dettagliata da permettere all’assistente di continuare attraverso il metodo già formato.
 
@@ -34,8 +36,6 @@ Quando un rientro richiede di rispiegare una relazione già acquisita, individua
 
 Una guida scritta rende il sapere disponibile. Un successivo lavoro diverso può mostrare se viene davvero ripreso. Conserva solo ciò che cambia il seguito; l’apprendimento riguarda documenti e istruzioni accessibili, non i pesi del modello.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

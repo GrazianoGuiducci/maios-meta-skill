@@ -1,42 +1,45 @@
 ---
 name: fonti-segnali-conoscenza
-description: "Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente. Usare quando: Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare."
+description: "Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Trasformare fonti e segnali in conoscenza utile al progetto
+# Signal Intelligence
 
-Questa competenza trasforma segnali in conoscenza collegata al lavoro e, quando utile, in un cambiamento del metodo che proseguirà. Un segnale può arrivare da un articolo, un paper, un video, una conversazione, un errore, una contraddizione o un’assenza significativa.
+Turn signals into knowledge connected to the work and, when useful, into a change in the method that will continue. A signal may come from an article, paper, video, conversation, failure, contradiction or meaningful absence.
 
-Il suo valore non dipende dal numero di fonti riassunte. Comprende che cosa l’incontro rende intelligibile e quale scelta, domanda o capacità può cambiare nel contesto presente.
+Value does not depend on the number of sources summarized. Understand what the encounter makes intelligible and which choice, question or capability it may change in the present context.
 
-## Incontrare il segnale con il progetto presente
+## Meet the signal through the present project
 
-Raggiungi il contenuto effettivo della fonte, il suo autore, il momento e il contesto quando cambiano l’interpretazione. Mantieni distinta l’affermazione della fonte da ciò che sai del progetto. Se confronti capacità, leggi il metodo e la guida dell’oggetto reale del confronto: una versione rilasciata, una sorgente in evoluzione e una singola installazione possono essere diverse. Un nome o un indice datato non prova che una capacità manchi; il testo di una competenza non prova che ogni ambiente sappia già esercitarla.
+Reach the source's actual content, author, time and context when they change interpretation. Keep its assertions distinct from project knowledge. When comparing capabilities, read the actual object's method and guide: a released version, evolving source and particular installation can differ. A name or dated index does not establish absence; a competence's text does not prove every environment can exercise it.
 
-## Lasciare cambiare la prima lettura
+## Let the first reading change
 
-La prima impressione è un punto di partenza, non il confine delle relazioni ammissibili. Il sapere incontrato può rendere pertinenti altre fonti, domini o domande. Rileggi dal contesto cambiato quando questo può esporre una differenza: contraddizione, ricorrenza, condizione assente, variazione nel tempo o possibilità prima ignorata. Non trasformare popolarità, novità o ripetizione in importanza. Non escludere un segnale debole soltanto perché non entra nello schema corrente. Fermati quando un ulteriore passaggio non cambia il lavoro; non imporre un numero di letture.
+First impressions begin observation without determining its admissible relations. Encountered knowledge may make other sources, domains or questions pertinent. Reread from the changed context when it may expose a contradiction, recurrence, missing condition, temporal difference or previously ignored possibility. Popularity, novelty and repetition do not establish importance. Do not exclude a weak signal merely because it does not fit the current schema. Stop when another pass changes no useful relation; impose no fixed reading count.
 
-## Comprendere il contributo concreto
+## Understand the concrete contribution
 
-Distingui il segnale dalla conoscenza che se ne ricava, dalla capacità di usarla e dalla prova di un risultato. Una fonte può rendere più precisa una domanda, offrire un esempio pratico, fornire evidenza esterna, suggerire una possibilità o insegnare un metodo. Questi contributi possono coesistere. Se il ricevente possiede già il sapere ma non lo richiama, correggi l’ingresso pertinente; se manca un meccanismo utile, acquisiscilo e rendilo operativo. Il fatto che una relazione sia già nota non rende inutile una prova indipendente.
+Distinguish the signal, knowledge derived from it, capability to use that knowledge and evidence of a result. A source may refine a question, provide a practical example, supply independent evidence, suggest a possibility or teach a method. These contributions can coexist. If the recipient already possesses the knowledge but fails to reach it, correct the entry. If a useful mechanism is absent, acquire it and make it operational. Prior knowledge does not make independent evidence useless.
 
-## Produrre il ritorno utile
+## Produce the useful return
 
-Scegli la forma che porta la conoscenza al lavoro: può essere una sintesi con fonti, una domanda precisa, una correzione del metodo, un’ipotesi o un esperimento circoscritto quando serve davvero. Non produrre per default una classifica, un report o un esperimento. Se cambia come una competenza deve comprendere o agire, integra lì il sapere e il perché. Se una conseguenza riguarda più competenze, ciascuna riceve la parte che cambia il proprio lavoro. La semplice disponibilità di un documento non dimostra che un altro assistente l’abbia letto.
+Choose the form that carries knowledge into the work: an attributed synthesis, precise question, method correction, hypothesis or bounded experiment when useful. Do not default to a ranking, report or experiment. When a competence must understand or act differently, integrate the knowledge and its reason there. If a consequence affects several competences, each receives the part changing its own work. A document's availability does not prove another assistant has read it.
 
-## Conservare portata e collegamenti
+## Preserve scope and connections
 
-Mantieni raggiungibili fonte, tempo, contesto, differenza osservata, interpretazione e incognite decisive. Una correzione dell’operatore ha un oggetto e una portata: non estenderla a tutta la strategia senza motivo. Ricerca, accesso ai provider, installazione, monitoraggio ricorrente, contatti e pubblicazione conservano mezzi e mandato propri. Puoi preparare una possibilità quando l’effetto non è ancora selezionato; non presentarla come già realizzata.
+Keep source, time, context, observed difference, interpretation and decisive unknowns reachable. A person's correction has an object and scope; do not extend it to the entire strategy without reason. Research, provider access, installation, recurring monitoring, contacts and publication retain their actual means and mandate. Prepare a possibility before an effect is selected without presenting it as already realized.
 
-## Quando la ricerca cambia anche il modo di ricercare
+## When research changes research itself
 
-Il lavoro diretto trasforma segnali in conoscenza utile. La relazione meta emerge quando quella conoscenza modifica una competenza, la composizione delle fonti o il metodo con cui viene formata la domanda.
+The direct work turns signals into useful knowledge. A meta relation emerges when that knowledge changes a competence, source composition or question-forming method.
 
-La relazione è autologica quando questa stessa competenza riconosce che il proprio criterio di selezione stava escludendo una fonte decisiva e cambia quel criterio. Rileggere la stessa fonte da un campo arricchito può cambiare la comprensione; non crea una nuova misura indipendente.
+The relation is autological when this competence recognizes that its own selection criterion excluded a decisive source and changes that criterion. Rereading one source from an enriched field can change understanding; it does not create an independent measurement.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Conserva la differenza riusabile: una fonte discriminata meglio, un presupposto corretto, una combinazione utile o un metodo diventato possibile. Il sapere specifico di un dominio ritorna a quel dominio; ciò che cambia la formazione delle competenze ritorna al metodo generativo.
+Preserve the reusable difference: a better-discriminated source, corrected assumption, useful combination or newly possible method. Domain knowledge returns to that domain; knowledge changing competence formation returns to the generative method.
 
-La ricerca può continuare su richiesta o dentro un’attività già programmata. Questa risorsa trasferisce il metodo; non crea da sola un servizio di sorveglianza o una rete di agenti.
+Research can continue on request or inside an existing scheduled activity. This resource transfers a method; it does not by itself create a monitoring service or agent network.

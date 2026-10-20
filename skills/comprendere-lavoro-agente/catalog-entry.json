@@ -1,16 +1,16 @@
 {
   "id": "comprendere-lavoro-agente",
   "name": "UX-AI Kernel Design",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "13",
   "skill": "skills/comprendere-lavoro-agente/SKILL.md",
   "guide": "skills/comprendere-lavoro-agente/README.md",
-  "starter": "skills/comprendere-lavoro-agente/AVVIO_CHAT_IT.txt",
-  "examples": "skills/comprendere-lavoro-agente/ESEMPI_IT.md",
+  "starter": "skills/comprendere-lavoro-agente/START_CHAT_EN.txt",
+  "examples": "skills/comprendere-lavoro-agente/EXAMPLES.md",
   "presentation": "skills/comprendere-lavoro-agente/presentation.json",
-  "package": "dist/comprendere-lavoro-agente-0.1.0.zip",
+  "package": "dist/comprendere-lavoro-agente-0.2.0.zip",
   "it": {
     "route": "/risorse/comprendere-lavoro-agente/",
     "title": "Rendere comprensibile il lavoro di un agente AI",
@@ -39,5 +39,20 @@
       "Let everyday work progressively teach how to use the system's capabilities."
     ]
   },
-  "native_entry": "ux-ai-kernel-design"
+  "native_entry": "ux-ai-kernel-design",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/comprendere-lavoro-agente/SKILL.md",
+      "guide": "skills/comprendere-lavoro-agente/README.md",
+      "starter": "skills/comprendere-lavoro-agente/START_CHAT_EN.txt",
+      "examples": "skills/comprendere-lavoro-agente/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/comprendere-lavoro-agente/SKILL_IT.md",
+      "guide": "skills/comprendere-lavoro-agente/README_IT.md",
+      "starter": "skills/comprendere-lavoro-agente/AVVIO_CHAT_IT.txt",
+      "examples": "skills/comprendere-lavoro-agente/ESEMPI_IT.md"
+    }
+  }
 }

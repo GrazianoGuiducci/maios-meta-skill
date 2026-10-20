@@ -1,16 +1,16 @@
 {
   "id": "creare-comporre-competenze",
   "name": "Meta_Skill Semantic Kernel",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "18",
   "skill": "skills/creare-comporre-competenze/SKILL.md",
   "guide": "skills/creare-comporre-competenze/README.md",
-  "starter": "skills/creare-comporre-competenze/AVVIO_CHAT_IT.txt",
-  "examples": "skills/creare-comporre-competenze/ESEMPI_IT.md",
+  "starter": "skills/creare-comporre-competenze/START_CHAT_EN.txt",
+  "examples": "skills/creare-comporre-competenze/EXAMPLES.md",
   "presentation": "skills/creare-comporre-competenze/presentation.json",
-  "package": "dist/creare-comporre-competenze-0.1.0.zip",
+  "package": "dist/creare-comporre-competenze-0.2.0.zip",
   "it": {
     "title": "Creare e comporre competenze per un sistema AI",
     "kind": "Kernel generativo di competenze",
@@ -39,5 +39,20 @@
     "route": "/resources/creare-comporre-competenze/",
     "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use."
   },
-  "native_entry": "meta-skill-semantic-kernel"
+  "native_entry": "meta-skill-semantic-kernel",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/creare-comporre-competenze/SKILL.md",
+      "guide": "skills/creare-comporre-competenze/README.md",
+      "starter": "skills/creare-comporre-competenze/START_CHAT_EN.txt",
+      "examples": "skills/creare-comporre-competenze/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/creare-comporre-competenze/SKILL_IT.md",
+      "guide": "skills/creare-comporre-competenze/README_IT.md",
+      "starter": "skills/creare-comporre-competenze/AVVIO_CHAT_IT.txt",
+      "examples": "skills/creare-comporre-competenze/ESEMPI_IT.md"
+    }
+  }
 }

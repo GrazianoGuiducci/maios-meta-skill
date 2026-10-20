@@ -1,38 +1,41 @@
 ---
 name: continuita-del-lavoro-ai
-description: "Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti. Usare quando: Quando un progetto dura più sessioni, passa a un’altra istanza o richiede di conservare decisioni che un semplice riepilogo perderebbe."
+description: "Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Riprendere un progetto con l’AI dopo un’interruzione
+# Maintain Causal Task Continuity
 
-Questa competenza conserva ciò che rende possibile riprendere un lavoro: intento, ragioni delle scelte, sapere acquisito, operazioni svolte e questioni aperte. Il punto corrente raggiunge una guida abbastanza dettagliata da permettere all’assistente di continuare attraverso il metodo già formato.
+Preserve what makes work resumable: intent, reasons for decisions, acquired knowledge, actions performed and open questions. A short current entry reaches a sufficiently detailed guide so an assistant can continue through the method already formed.
 
-Usala quando un progetto attraversa sessioni, collaboratori, interruzioni o una riduzione del contesto. La profondità della conservazione segue ciò che sarebbe costoso o impossibile ricostruire.
+Use this competence when a project crosses sessions, collaborators, interruptions or context reduction. Preserve the depth that would be costly or impossible to reconstruct.
 
-## Conservare ragioni e capacità, insieme ai fatti
+## Preserve reasons and capabilities alongside facts
 
-Individua il lavoro selezionato, chi ne decide la direzione e dove vive il suo sapere. Recupera la guida già esistente prima di creare un nuovo contenitore. Conserva il perché delle decisioni insieme alla scelta: quale fonte o condizione la sostiene, che cosa permette di fare, cosa potrebbe cambiarla. Distingui parole dell’operatore, fatti osservati, inferenze e proposte. Una possibilità ancora aperta può restare raggiungibile senza diventare il prossimo incarico. Quando più competenze devono continuare, conserva il contributo di ciascuna, la ragione per cui resta pertinente e il metodo da cui riprende; un elenco di nomi non trasferisce quella capacità.
+Identify the selected work, who determines its direction and where its knowledge belongs. Reach the existing guide before creating another container. Keep each decision's reason: its supporting source or condition, what it makes possible and what could change it. Distinguish the person's words, observations, inferences and proposals. An open possibility can remain reachable without becoming the next assignment. When several competences must continue, preserve each contribution, why it remains pertinent and the method from which it resumes. A list of names does not transfer that capability.
 
-## Un punto di rientro che raggiunge il sapere
+## A reentry point that reaches working knowledge
 
-Mantieni un punto corrente breve con obiettivo, oggetto, fonti decisive, risultato raggiunto, effetti compiuti e prossimo movimento. Collegalo alla guida che spiega intenzioni, metodo, correzioni e passaggi sostanziali. Punto corrente e guida sono funzioni: possono stare nello stesso documento. Usa il luogo realmente proprietario del progetto e raggiungibile dal ricevente. Se una pagina viene rigenerata, conserva le ragioni in una sorgente che la rigenerazione non cancelli. Se puoi operare soltanto in chat, restituisci un testo completo da salvare e riportare alla prossima sessione.
+Keep a short current entry with objective, object, decisive sources, attained result, completed effects and next movement. Link it to the guide explaining intent, method, corrections and substantive passages. These are functions that can live in one document. Use the project's actual knowledge location, accessible to the recipient. If a page is regenerated, preserve reasons in a source regeneration will not overwrite. In a chat-only environment, return a complete note the person can save and bring to the next session.
 
-## Accumulare durante il lavoro
+## Accumulate knowledge during work
 
-Integra una nuova ragione, scoperta o correzione dove cambia il metodo, mentre la relazione è comprensibile. Conserva riferimenti alle prove invece di duplicare tutti i log. Quando una direzione cambia, aggiorna il seguito e lascia attribuita la precedente situazione; non far apparire la nuova comprensione come già disponibile in passato. Prima di ampliare ancora le fonti, preserva una relazione decisiva che rischia di perdersi. Una singola operazione ordinaria non richiede un diario: scrivi ciò che cambierà una scelta o un rientro.
+Integrate a new reason, discovery or correction where it changes the method, while its relation is still understandable. Link to evidence instead of duplicating every log. When direction changes, update the continuation and retain attribution to the previous situation; do not imply that present understanding existed earlier. Preserve a decisive relation at risk before expanding sources further. Routine actions need no diary: retain what will change a decision or reentry.
 
-## Riprendere dal presente
+## Resume from the present
 
-Al rientro componi la richiesta attuale con il punto corrente, la guida e le fonti necessarie. Rendi riconoscibile da dove riparti. Verifica i fatti che possono essere cambiati quando la verifica è pertinente e accessibile. Tratta un riassunto precedente come indicazione di recupero, non come autorità sul presente. Conserva le decisioni ancora valide; risolvi le differenze attraverso la fonte e il nuovo segnale dell’operatore. Un effetto già compiuto non va ripetuto perché il riepilogo è incompleto. Autorizzazioni, risultati e proposte restano distinguibili. Prosegui quando la relazione è sufficiente, senza ricaricare per inerzia tutta la cronologia.
+Compose the current request with the current entry, guide and necessary sources. Make the resumed relation recognizable. Recheck facts that may have changed when verification is pertinent and accessible. A previous summary is recovery evidence, not authority over the present. Preserve still-valid decisions and resolve differences through sources and the person's new signal. Do not repeat an effect already performed because a summary is incomplete. Keep authorization, results and proposals distinguishable. Proceed when the relation is sufficient, without habitually reloading the whole history.
 
-## Quando la continuità migliora il proprio metodo
+## When continuity improves its own method
 
-Il lavoro diretto è far continuare un progetto. La relazione meta diventa pertinente quando l’esperienza cambia come una competenza organizza la conoscenza necessaria al lavoro successivo.
+The direct work is continuing a project. A meta relation becomes pertinent when experience changes how a competence organizes the knowledge needed for later work.
 
-La relazione è autologica quando la continuità considera il proprio modo di conservare: se un riepilogo ha mantenuto il risultato ma perso la ragione di una scelta, il metodo può imparare a rendere raggiungibile quella ragione. Questo non equivale a memoria illimitata o autonomia esecutiva.
+The relation becomes autological when continuity considers its own preservation method. A summary may have retained an outcome but lost a decision's reason; the method can learn to make that reason reachable. This does not imply unlimited memory or autonomous execution.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Quando un rientro richiede di rispiegare una relazione già acquisita, individua se mancava la conoscenza, il collegamento o l’uso della guida. Correggi quel punto nel progetto e, se riusabile, nel metodo di continuità.
+When reentry requires a person to explain an already acquired relation again, determine whether the knowledge, its connection or use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.
 
-Una guida scritta rende il sapere disponibile. Un successivo lavoro diverso può mostrare se viene davvero ripreso. Conserva solo ciò che cambia il seguito; l’apprendimento riguarda documenti e istruzioni accessibili, non i pesi del modello.
+A written guide makes knowledge available. A later, different case can show whether it is actually resumed. Retain what changes continuation; this learning concerns accessible documents and instructions, not changes to model weights.

@@ -1,9 +1,8 @@
----
-name: migliorare-attivita-ricorrenti
-description: "Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente. Quando un’automazione continua a girare ma il contesto, le fonti o il lavoro che deve servire sono cambiati."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Far migliorare un’attività AI attraverso i suoi risultati
+# Situated Activity Evolution
+
+**Far migliorare un’attività AI attraverso i suoi risultati**
 
 Rivede fonti, metodo e collegamenti di un’attività ricorrente quando il lavoro ne cambia l’utilità.
 
@@ -53,14 +52,6 @@ Conserva un cambiamento quando aiuta il prossimo uso. La stessa competenza può 
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

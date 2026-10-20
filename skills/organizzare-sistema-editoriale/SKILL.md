@@ -1,46 +1,49 @@
 ---
 name: organizzare-sistema-editoriale
-description: Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema.
+description: "Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Organizzare un sistema editoriale AI che impara dal lavoro
+# Comprendere e organizzare Editoriali
 
-## Oggetto del lavoro
+## Object of the work
 
-Comprendi e organizza il sapere attraverso cui un sistema editoriale produce e continua articoli, guide, libri, pagine o altre forme. Parti dal lavoro scelto e dai materiali realmente presenti: intenzione dell’autore, contenuti in corso, fonti, modi di scrivere e correzioni. Organizzare significa rendere queste conoscenze raggiungibili e utilizzabili quando servono. Il numero di cartelle o la quantità di contenuti prodotti non misura questa capacità.
+Understand and organize the knowledge through which an editorial system produces and continues articles, guides, books, pages and other forms. Begin with selected work and actual materials: authorial intention, current content, sources, writing methods and corrections. Organization makes this knowledge reachable and usable when needed. Folder counts and output volume do not measure that capability.
 
-## Leggere le relazioni editoriali
+## Read editorial relations
 
-Individua dove nasce il significato, chi conosce il dominio, quale metodo forma il testo e dove continua la conoscenza dell’opera. Leggi i passaggi decisivi dei materiali: una mappa di link orienta la ricerca ma non sostituisce il sapere. Conserva separatamente parole dell’autore e interpretazioni dell’assistente. Quando una fonte cambia la domanda, lascia che cambino anche il genere, il destinatario o il metodo proposti, mantenendo le scelte ancora valide.
+Identify where meaning originates, who knows the domain, which method forms the text and where the work's knowledge continues. Read decisive passages; a link map orients retrieval without replacing knowledge. Attribute the author's words separately from assistant interpretations. When a source changes the question, let genre, recipient or proposed method change too while preserving valid choices.
 
-Il sapere comune può riguardare titoli, fedeltà alle fonti o comprensibilità. Un dominio porta fatti e condizioni specifiche; un’opera conserva la propria tesi, struttura, ragioni e contraddizioni aperte. Queste funzioni possono abitare sedi già esistenti. Collegale dove una relazione serve realmente, senza creare un nuovo contenitore per ogni funzione.
+Shared knowledge may concern headings, source fidelity or comprehensibility. A domain brings particular facts and conditions; an individual work retains thesis, structure, reasons and open contradictions. These functions can inhabit existing locations. Connect them where the relation serves work rather than creating a new container for every function.
 
-Per esempio, se gli articoli ripetono titoli comprensibili solo al team, raggiungi il metodo che forma gli header e il suo ingresso d’uso. Insegna a identificare soggetto e oggetto per un lettore nuovo, affidando al sottotitolo il contesto mancante. Se il metodo esiste già ma non viene letto, correggi l’ingresso; se manca il criterio, approfondisci il metodo. Un altro registro di errori non risolve da solo nessuno dei due casi.
+If articles repeatedly use titles understood only by the team, reach the heading method and its entry. Teach recognizable subject and object for new readers, with missing context in the subtitle. Repair the entry if the knowledge exists but is unread; deepen the method if the criterion is absent. Another error register alone resolves neither case.
 
-## Comporre il sapere necessario
+## Compose the needed knowledge
 
-Fai partecipare competenze di dominio, ricerca, comunicazione o valore quando possono cambiare ciò che l’opera deve rendere comprensibile. Un contributo commerciale non rende ogni testo promozionale; un contributo scientifico mantiene la propria portata. Chi conduce dipende dall’oggetto presente. Un’incertezza di contenuto ritorna alla fonte competente, una difficoltà di espressione al metodo editoriale.
+Let domain, research, communication and value competences contribute when they change what the work should make understandable. Business contribution does not make every text promotional; scientific contribution retains its scope. The present object determines who leads. Content uncertainty returns to its knowledgeable source; expression difficulty returns to editorial method.
 
-Riconosci le duplicazioni dalla loro funzione. Una citazione nella storia dell’opera e un criterio nel metodo generale possono servire entrambi. Due copie dello stesso stato mutabile possono invece divergere: chiarisci quale sede ne possiede il valore e come le altre la raggiungono. Cambia soltanto le copie e gli ingressi che orientano ancora il lavoro, preservando storia utile e contributi concorrenti.
+Recognize duplication by function. A historical quotation and a general method criterion may both serve a purpose. Competing copies of mutable state may diverge: establish which location owns it and how others reach it. Change active copies and entries while preserving useful history and concurrent contributions.
 
-## Dare continuità a un’opera
+## Continue an individual work
 
-Quando un libro o articolo richiede un sapere proprio, usa una guida dell’opera che colleghi intento, fonti, ragioni delle scelte, parti dipendenti e questioni aperte. La guida può diventare la sede di una competenza situata dell’opera. Una modifica alla tesi cambia le sezioni che ne dipendono; una correzione locale non obbliga a riscrivere tutto. Conserva ciò che permette di continuare e raggiungi il dettaglio solo quando serve.
+When a book or article needs knowledge of its own, use a work guide connecting intent, sources, decision reasons, dependent parts and open questions. It can become the location of a situated competence for that work. A thesis change reaches dependent sections; local correction does not require rewriting everything. Preserve what enables continuation and reach detail when needed.
 
-Forma l’organizzazione nella forma più piccola che rende queste relazioni praticabili. Rendi leggibile quale perdita corregge o quale possibilità apre. Non chiedere un inventario totale o una diagnosi di ogni futuro genere per iniziare. Il risultato richiesto può essere un disegno organizzativo, una guida o un intervento concreto: attua le modifiche selezionate sui loro oggetti reali.
+Form the smallest organization making these relations usable. Make the corrected loss or opened possibility understandable. Do not require a total inventory or diagnosis of every future genre before beginning. A useful result may be organizational design, a guide or implementation; carry selected changes into their actual objects.
 
-## Far evolvere anche l’organizzazione
+## Let organization evolve too
 
-Durante il lavoro confronta significato, metodo e conseguenza. Se una regola produce ricostruzione inutile, risali alla ragione per cui esiste: conserva ciò che rende possibile e ricomponi la forma superata. Se un nuovo dominio mostra che il criterio comune era troppo stretto, aggiorna quel criterio lasciando il sapere specifico nel dominio.
+Keep meaning, method and consequence connected during work. When a rule causes unnecessary reconstruction, recover its reason, preserve its useful relation and reform its exhausted structure. If a new domain exposes an overly narrow common criterion, change the criterion while retaining domain-specific knowledge locally.
 
-La relazione meta riguarda l’organizzazione delle capacità editoriali; quella autologica compare quando questa stessa competenza riconosce che il proprio modo di organizzare sta causando la perdita. Per esempio, una classificazione per canale può nascondere una fonte comune: la competenza rivede quel criterio e conserva perché è cambiato. Il ritorno rende il metodo successivo diverso. Non richiede un controllore aggiuntivo o una revisione rituale di tutti i testi.
+The meta relation concerns organization of editorial capabilities. An autological relation appears when this competence recognizes loss caused by its own organizing: channel classification may hide a shared source, prompting revision of that criterion and preservation of its reason. The return changes later method without creating another controller or ritual review of all texts.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use actual means. A chat can work with supplied materials; a file-enabled environment can connect sources and maintain guides. Ask only for missing context that changes the work, and proceed when a useful result is possible. Keep reasons, decisive sources, acquired differences and continuation in the project's actual location. Without persistence, return a reusable reentry note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change the method used, without changing model weights or alone establishing stable learning. Distinguish available knowledge, actual use and later observed behavior. Accounts, tools and authority to publish, send, install or distribute depend on the real mandate and environment.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa MAIOS derivata dalla competenza organizzativa evolve-editoriali-system. Il metodo pubblico conserva le relazioni generali maturate nel lavoro; esempi e spiegazioni sono elaborazioni redazionali. La produzione e la pubblicazione dei singoli contenuti restano lavori distinti.
+A MAIOS public adaptation of evolve-editoriali-system. It preserves general organizational relations learned through work; examples and explanations are editorial elaborations. Producing and publishing individual content remain separate work.

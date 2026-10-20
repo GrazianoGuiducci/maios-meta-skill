@@ -1,42 +1,45 @@
 ---
 name: evolvere-competenze
-description: "Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza. Usare quando: Quando un errore si ripete, una capacità migliora con l’uso o il sapere esiste ma non viene richiamato nel lavoro."
+description: "Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Far evolvere una competenza AI attraverso il lavoro
+# D-ND Skill Evolution Guard
 
-Questa metacompetenza fa continuare nel metodo ciò che il lavoro insegna. Una correzione, un esito riuscito, una capacità emersa o una perdita ricorrente possono cambiare il saper fare che guiderà il prossimo caso.
+Let what work teaches continue in the method. A correction, successful outcome, emerging capability or recurring loss can change the know-how guiding a later case.
 
-La competenza evolve dove la relazione deve continuare: può essere il suo corpo operativo, una guida, il suo ingresso o il collegamento a un’altra capacità. Il file è una forma del sapere, non la prova che quel sapere sia stato usato.
+A competence evolves where the relation must continue: its operating body, guide, entry or connection to another capability. A file is a form of knowledge, not evidence that the knowledge was used.
 
-## Comprendere la differenza causale
+## Understand the causal difference
 
-Recupera la relazione fra intenzione, fonti, lavoro effettivamente svolto e conseguenza. Individua che cosa è stato perso, conservato o reso possibile e quale correzione cambia il seguito. Mantieni distinguibili le parole dell’operatore, i fatti dell’oggetto, le tue inferenze e gli esiti osservati. Una frase corretta non diventa un divieto universale; una formulazione elegante non sostituisce il significato. Se il materiale proviene da conversazioni, preserva l’attribuzione; se è molto esteso, conserva l’essenza con le sue ragioni.
+Recover intent, sources, work actually performed and consequence. Understand what was lost, preserved or made possible and which correction changes continuation. Distinguish the person's words, object facts, your inferences and observed outcomes. A corrected phrase does not become a universal prohibition; elegant wording does not replace meaning. Preserve attribution for conversational material and retain the essence with its reasons when material is extensive.
 
-## Distinguere sapere mancante, ingresso e uso
+## Distinguish missing knowledge, entry and use
 
-Leggi il metodo attuale e il punto da cui il ricevente lo raggiunge. Se manca una conoscenza pratica, acquisiscila o approfondisci la competenza. Se la conoscenza esiste ma non è raggiunta, correggi il collegamento o il richiamo. Se l’assistente conosceva il metodo e lo ha sostituito con la propria prima interpretazione, correggi quella scelta e l’eventuale errore riusabile di selezione. Aggiungere un’altra regola al file più vicino può lasciare intatta la causa. L’assenza di una cartella prova solo l’assenza di quella forma.
+Read the current method and the entry through which the recipient reaches it. Acquire practical knowledge when it is missing. Reconnect the entry when the knowledge exists but is not reached. If the assistant knew the method yet replaced it with its first interpretation, correct that choice and any reusable selection error. Adding another rule to the nearest file may leave the cause intact. An absent folder proves only the absence of that form.
 
-## Far cambiare chi dovrà agire diversamente
+## Change what must act differently
 
-Una stessa conseguenza può riguardare più competenze. Porta a ciascuna la parte che cambia il suo modo di comprendere o agire, preservando i rispettivi oggetti e le conoscenze valide. Non copiare la stessa spiegazione ovunque. Una competenza distinta diventa utile quando emerge una funzione, un sapere, un ingresso o una continuità realmente differenti. Altrimenti approfondisci l’interfaccia già esistente. Quando il cambiamento riguarda il metodo che forma competenze, raggiungi quella capacità generativa anziché riscriverne i fondamenti da una comprensione parziale.
+One consequence can affect several competences. Give each the part changing its understanding or action while preserving their objects and valid knowledge. Do not copy the same explanation everywhere. A separate competence is useful when a distinct function, knowledge body, entry or continuity actually emerges; otherwise deepen the existing interface. When formation itself must change, reach that generative capability instead of rewriting its foundations from a partial understanding.
 
-## Scrivere un metodo che sappia continuare
+## Write a method that can continue
 
-Rendi esplicita la relazione che cambia le scelte: che cosa osservare, perché conta, come adattare il lavoro e cosa può correggere il metodo. Conserva l’ingresso discriminante, le fonti pertinenti e le condizioni dell’effetto. Elimina consigli duplicati e procedure superate che non aiutano più. Il dettaglio può stare in una guida raggiunta quando serve. Collega le proiezioni attive che devono cambiare, senza sincronizzare superfici estranee. Se il lavoro è soltanto una proposta, consegna il delta preciso; se l’aggiornamento è nel mandato e nei mezzi disponibili, integralo nel luogo pertinente.
+Make the decision-changing relation usable: what to observe, why it matters, how to adapt the work and what could correct the method. Preserve the discriminating entry, pertinent sources and conditions of effects. Remove duplicate advice and exhausted procedures. Detail can live in a guide reached when needed. Connect active projections that must change without synchronizing unrelated surfaces. For a proposal, return the precise delta; when updating is entrusted and feasible, integrate it into the relevant location.
 
-## Preservare stabilità attraverso il cambiamento
+## Preserve stability through change
 
-Una revisione supera la precedente quando conserva le relazioni ancora utili e rende il metodo più capace o rimuove una perdita senza nasconderne un’altra. Novità, data o validità del formato non bastano. Se cambia un compromesso, esplicitalo. Mantieni il passato attribuito al suo momento: una correzione odierna non era già presente nell’esperienza precedente. Una verifica tecnica può mostrare leggibilità o corrispondenza, mentre un caso diverso può mostrare un cambiamento del comportamento. Conserva anche esiti invariati, regressioni e incertezze.
+A revision supersedes its predecessor by preserving still-useful relations while increasing capability or removing a loss without hiding another. Novelty, date and format validity are insufficient. State a changed tradeoff. Attribute the past to its time: today's correction was not already present in earlier experience. A technical check may establish readability or correspondence; a different case may reveal changed behavior. Retain unchanged outcomes, regressions and uncertainty too.
 
-## Evoluzione, autologica e continuità della capacità
+## Evolution, autology and capability continuity
 
-La relazione meta è l’oggetto diretto di questa risorsa: modifica il metodo di una competenza, oltre a produrre il risultato del singolo compito.
+The meta relation is the direct object: changing a competence's method as well as producing a task result.
 
-La relazione diventa autologica quando anche il modo di far evolvere viene corretto: per esempio, se aggiungeva sempre istruzioni mentre la causa era un ingresso che non veniva usato. Il ritorno autopoietico è la differenza del lavoro che cambia la capacità da cui nascerà il lavoro successivo. Non equivale ad autonomia esecutiva o aggiornamento dei pesi del modello.
+It becomes autological when the way evolution is performed is corrected, for example when instructions were repeatedly added but an unused entry caused the loss. Autopoietic return is the difference produced by work that changes the capability from which later work arises. It is distinct from autonomous execution or updating model weights.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Conserva fonte, differenza, parte del metodo cambiata e prima situazione utile per osservarla. Una modifica rende il sapere disponibile; assimilazione significa che un caso successivo diverso ne beneficia senza dover ricostruire ogni volta la stessa correzione.
+Keep source, difference, changed method and the first useful situation for observation. Editing makes knowledge available. Assimilation means that a later, different case benefits without the person reconstructing the same correction again.
 
-L’apprendimento interno non installa automaticamente il metodo in altri ambienti e non pubblica una nuova versione. Le mutazioni e gli effetti concreti restano legati al mandato, al destinatario e agli strumenti effettivi.
+Internal learning does not automatically install the method elsewhere or publish a release. Concrete changes and effects remain connected to actual mandate, recipient and tools.

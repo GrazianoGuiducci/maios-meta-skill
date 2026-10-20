@@ -1,16 +1,16 @@
 {
   "id": "continuita-del-lavoro-ai",
   "name": "Maintain Causal Task Continuity",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "01",
   "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
   "guide": "skills/continuita-del-lavoro-ai/README.md",
-  "starter": "skills/continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt",
-  "examples": "skills/continuita-del-lavoro-ai/ESEMPI_IT.md",
+  "starter": "skills/continuita-del-lavoro-ai/START_CHAT_EN.txt",
+  "examples": "skills/continuita-del-lavoro-ai/EXAMPLES.md",
   "presentation": "skills/continuita-del-lavoro-ai/presentation.json",
-  "package": "dist/continuita-del-lavoro-ai-0.1.0.zip",
+  "package": "dist/continuita-del-lavoro-ai-0.2.0.zip",
   "it": {
     "route": "/risorse/continuita-del-lavoro-ai/",
     "title": "Riprendere un progetto con l’AI dopo un’interruzione",
@@ -39,5 +39,20 @@
       "Hand a business proposal to another assistant with its objective and reasons."
     ]
   },
-  "native_entry": "maintain-causal-task-continuity"
+  "native_entry": "maintain-causal-task-continuity",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/continuita-del-lavoro-ai/SKILL.md",
+      "guide": "skills/continuita-del-lavoro-ai/README.md",
+      "starter": "skills/continuita-del-lavoro-ai/START_CHAT_EN.txt",
+      "examples": "skills/continuita-del-lavoro-ai/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/continuita-del-lavoro-ai/SKILL_IT.md",
+      "guide": "skills/continuita-del-lavoro-ai/README_IT.md",
+      "starter": "skills/continuita-del-lavoro-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/continuita-del-lavoro-ai/ESEMPI_IT.md"
+    }
+  }
 }

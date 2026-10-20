@@ -1,16 +1,16 @@
 {
   "id": "fonti-segnali-conoscenza",
   "name": "Signal Intelligence",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "05",
   "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
   "guide": "skills/fonti-segnali-conoscenza/README.md",
-  "starter": "skills/fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt",
-  "examples": "skills/fonti-segnali-conoscenza/ESEMPI_IT.md",
+  "starter": "skills/fonti-segnali-conoscenza/START_CHAT_EN.txt",
+  "examples": "skills/fonti-segnali-conoscenza/EXAMPLES.md",
   "presentation": "skills/fonti-segnali-conoscenza/presentation.json",
-  "package": "dist/fonti-segnali-conoscenza-0.1.0.zip",
+  "package": "dist/fonti-segnali-conoscenza-0.2.0.zip",
   "it": {
     "route": "/risorse/fonti-segnali-conoscenza/",
     "title": "Trasformare fonti e segnali in conoscenza utile al progetto",
@@ -39,5 +39,20 @@
       "Turn an execution error into useful methodological knowledge."
     ]
   },
-  "native_entry": "signal-intelligence"
+  "native_entry": "signal-intelligence",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/fonti-segnali-conoscenza/SKILL.md",
+      "guide": "skills/fonti-segnali-conoscenza/README.md",
+      "starter": "skills/fonti-segnali-conoscenza/START_CHAT_EN.txt",
+      "examples": "skills/fonti-segnali-conoscenza/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/fonti-segnali-conoscenza/SKILL_IT.md",
+      "guide": "skills/fonti-segnali-conoscenza/README_IT.md",
+      "starter": "skills/fonti-segnali-conoscenza/AVVIO_CHAT_IT.txt",
+      "examples": "skills/fonti-segnali-conoscenza/ESEMPI_IT.md"
+    }
+  }
 }

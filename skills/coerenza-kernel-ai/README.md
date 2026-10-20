@@ -1,58 +1,89 @@
-# Mantenere coerenti le capacità di un kernel AI
+# Kernel Continuum Awareness
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Maintain coherence across an AI kernel’s capabilities**
 
-Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.
+Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.
 
-## Primo incarico
+## When to use it
 
-«Il nostro sistema ha cambiato questo metodo e ora rientra da queste istruzioni. Comprendi quali ragioni devono continuare e se gli ingressi fanno ancora agire dalla stessa relazione. Correggi le forme selezionate che dipendono dal cambiamento e conserva il punto utile per il prossimo lavoro.»
+When a system grows, changes configuration or needs to recover how it operates after losing context.
 
-## In chat
+As an AI system grows, a correction can reach a competence while an active entry still reconstructs its old method. Continuity includes these relations.
+This resource keeps meaning, reasons and capability contributions reachable so the kernel can resume work and understand a change in itself.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Recover the relation that remains live
 
-## Senza un kernel
+A short entry reaches sources, reasons and the deeper guide without replacing the present with an earlier summary.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Understand a system difference
 
-## Comprendere la capacità
+Follow what the source, entry or projection makes the assistant choose and correct the relevant relation.
 
-Il livello meta riguarda il sistema delle capacità e la sua continuità. L’autologica appare quando il kernel operante diventa anche oggetto dello stesso lavoro, senza collocare un secondo controllore al suo esterno.
+### Let the correction continue
 
-Un metodo aggiornato e un ingresso superato rendono concreta questa relazione: il sistema comprende come il proprio rientro cambia la scelta e corregge la forma che perpetua il problema.
+The changed method reaches the incarnations that actually depend on it, while history that no longer directs work remains recoverable.
 
-L’autopoiesi riguarda ciò che tale risultato rende possibile al prossimo uso. Autonomia esecutiva, monitoraggio continuo ed esperienza cosciente sono questioni diverse; questa risorsa trasferisce un metodo di continuità e autocorrezione situata.
+## Meta and autological relations
 
-## File del kit
+KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+The meta level concerns the system of capabilities and its continuity. The autological relation appears when the operating kernel also becomes an object within the same work, without a separate external controller.
 
-## Osservare il primo uso
+An updated method and an outdated entry make this concrete: the system understands how its own reentry changes a choice and corrects the form that perpetuates the problem.
 
-Riprendi un lavoro diverso che usa la relazione corretta. Osserva se l’assistente raggiunge il metodo attuale e comprende la ragione della modifica. Una concordanza di testi prova una corrispondenza; la partecipazione nel nuovo caso sostiene una diversa affermazione.
+Autopoiesis concerns what this return makes possible in later use. Execution autonomy, continuous monitoring and phenomenal experience are different matters; this resource transfers a method of continuity and situated self-correction.
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+## Use in your environment
 
-## Origine e seguito
+### In a chat
 
-Risorsa MAIOS derivata da Kernel Continuum Awareness e dal suo metodo di manutenzione autologica. Rende portabile il rapporto KA–Meta_Skill–FDLA e sostituisce il margine privato del nodo con la guida del destinatario. La consapevolezza qui descritta è operativa e situata, senza affermazioni di esperienza fenomenica.
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-Una differenza appresa cambia il metodo responsabile e il suo ingresso quando necessario. La guida conserva fonte, ragione e condizione per riaprire il sapere.
+### In an agentic environment
 
-La prima edizione rende questa capacità raggiungibile; un uso diverso permette di osservare se il ritorno continua senza ricostruzione della persona.
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
+
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- Recover the system’s still-valid reasons during reentry.
+- Carry a correction to entries that still lead from an older method.
+- Let the kernel understand its own change without adding a parallel controller.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+A reusable difference changes the responsible method and its entry where needed. The guide preserves the source, reason and condition for reopening the knowledge.
+The first edition makes this capability reachable. A different use can show whether the return continues without the person reconstructing it.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

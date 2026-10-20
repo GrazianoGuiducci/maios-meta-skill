@@ -1,50 +1,53 @@
 ---
 name: avviare-nodo-ai
-description: Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà.
+description: "Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Avviare un assistente AI con identità e continuità proprie
+# Incarnate Neutral Kernel Node
 
-## Il destinatario nasce dal proprio lavoro
+## The recipient begins from its own work
 
-Aiuta un nuovo assistente o nodo AI a iniziare con capacità condivise, uno scopo riconoscibile e una continuità propria. Comprendi prima il destinatario: quale lavoro deve rendere possibile, quali fonti appartengono al progetto, quali mezzi offre l’ambiente e che cosa deve restare valido attraverso conversazioni diverse. La neutralità conserva l’identità del destinatario; non richiede un sistema vuoto o privo di esperienza ereditata.
+Help a new assistant or AI node begin with shared capabilities, recognizable purpose and continuity of its own. Understand the work it should enable, sources belonging to the project, host means and relations that should continue across conversations. Neutrality preserves recipient identity; it does not require an empty system without inherited experience.
 
-Raggiungi il metodo da trasferire e le ragioni che lo rendono utile. Porta capacità e conoscenza trasferibile, lasciando all’origine identità privata, stato temporale, credenziali, topologia locale e autorità sugli effetti. Un assistente di un nuovo progetto non eredita i task ancora aperti di quello che ha prodotto il metodo.
+Reach the transferred method and its reasons. Carry capability and transferable knowledge while leaving private identity, temporal state, credentials, local topology and effect authority at their origin. A new project's assistant does not inherit unfinished tasks from the project that formed the method.
 
-## Comprendere le forme del nodo
+## Understand the node's forms
 
-Distingui il pacchetto condiviso che offre il metodo, la copia o il profilo di cui il destinatario è responsabile, la configurazione adatta all’ambiente, le istruzioni effettivamente disponibili in quel luogo e il lavoro delle conversazioni. Queste forme hanno relazioni reali, ma nessuna da sola dimostra le altre.
+Distinguish shared method package, recipient-owned copy or profile, host-adapted configuration, instructions actually available there and conversational work. These forms are related, but none alone establishes the others.
 
-Un repository può essere la sorgente del nodo; una chat può essere il suo presente locale; una configurazione può rendere il metodo raggiungibile. Il nodo ha continuità quando scopo, fonti, sapere utile e modo di rientrare possono attraversare il suo lavoro reale. Non attribuire al pacchetto uno stato utente o un comportamento che appartiene soltanto al ricevente.
+A repository may be the node's source, a chat its local present and a configuration an entry into its method. Continuity exists when purpose, sources, useful knowledge and reentry can traverse actual work. Do not attribute user state or recipient-only behavior to the package.
 
-## Formare il primo movimento completo
+## Form a complete first movement
 
-Parti da un risultato utile e realizzabile con i mezzi presenti. Forma l’ingresso che permette di comprendere il contesto, richiamare il sapere pertinente, agire e conservare ciò che è emerso. Se il progetto usa file, collega la guida a un punto di rientro stabile. Se usa soltanto la chat, restituisci la guida da portare al seguito. Se una capacità richiede uno strumento assente, separa la parte che puoi svolgere dalla parte che lo richiede.
+Begin with a useful result feasible through present means. Form an entry enabling context comprehension, pertinent knowledge, action and preservation of what emerges. With files, connect a guide to a stable reentry point; with chat alone, return the guide to carry forward. Separate work feasible now from a part requiring an absent tool.
 
-Rendi praticabile la formazione di nuove competenze: quando il primo lavoro insegna una scelta riutilizzabile, collega causa, condizioni e conseguenza al metodo che dovrà usarla. Rendi praticabile anche la comprensione del proprio funzionamento: se l’ingresso o la persistenza del nodo stanno perdendo conoscenza, quel rapporto può diventare oggetto del lavoro. Queste funzioni possono stare in poche sedi profonde, senza un catalogo obbligatorio di componenti.
+Make competence formation usable: when initial work teaches a reusable choice, connect cause, conditions and consequence to the method needing it. Make understanding its own operation usable too: if an entry or persistence loses knowledge, that relation can become an object of work. A few deep locations can carry these functions without a mandatory component catalogue.
 
-Adatta discovery, strumenti e memoria al ricevente conservando il significato. Un meccanismo di un harness non è automaticamente presente in una chat. Consulta le istruzioni ufficiali correnti quando una configurazione concreta dipende dal provider. Non dichiarare installato ciò che è soltanto scritto in un file.
+Adapt discovery, tools and memory while preserving meaning. A harness mechanism is not automatically present in chat. Consult current official instructions when a concrete configuration depends on a provider. A written file alone does not establish installation.
 
-## Nascita e aggiornamento
+## Birth and updates
 
-Un nodo nuovo può partire dalla capacità condivisa corrente e formare il proprio primo caso. Un nodo già esistente porta anche decisioni, conoscenza e modifiche locali. Per aggiornarlo, confronta il contributo ricevuto con ciò che il nodo ha imparato; integra la differenza pertinente senza sovrascrivere la sua identità o lo stato di progetto.
+A new node can begin from current shared capability and form its first case. An existing node also carries decisions, knowledge and local changes. Compare incoming contribution with what it learned and integrate the relevant difference without overwriting identity or project state.
 
-Segui le proiezioni effettivamente interessate: metodo, ingresso, guida, eventuale configurazione e istruzioni installate. Una release del pacchetto non aggiorna da sola le copie dei destinatari. Conserva le integrazioni ancora aperte anche quando la sorgente non cambia di nuovo; l’assenza di un nuovo delta non completa il lavoro precedente.
+Follow affected method, entry, guide, configuration and installed instructions. Package release does not update recipient copies automatically. Preserve pending integrations even without another source change; absence of a new delta does not complete previous work.
 
-## Apprendimento locale e ritorno condivisibile
+## Local learning and shareable return
 
-Il nodo apprende nel proprio contesto. Una difficoltà di rientro può correggere la sua guida; un esempio riuscito può affinare una competenza. Quando emerge un sapere utile ad altri, separa la relazione trasferibile dai dati privati e dalle particolarità dell’account. Conserva che cosa è accaduto, quale scelta cambia e in quali condizioni quel sapere può essere riusato.
+The node learns in its own context. Reentry difficulty can correct its guide; a successful example can refine a competence. Separate reusable relations from private data and account details before sharing. Preserve what happened, which choice changes and conditions for reuse.
 
-Il ritorno alla sorgente condivisa è un effetto distinto dalla modifica locale. Può avvenire quando selezionato, portando il metodo utile e lasciando al nodo la propria memoria. Due nodi possono condividere capacità e apprendere reciprocamente senza diventare copie l’uno dell’altro.
+Return to shared source is a distinct effect from local editing. When selected, transfer the method while leaving the node its own memory. Nodes can share capabilities and learn reciprocally without becoming copies of one another.
 
-La relazione meta riguarda la formazione delle condizioni in cui il nodo può lavorare e far evolvere le sue competenze. La relazione autologica emerge quando il metodo di avvio riconosce un proprio limite e si modifica: per esempio, il secondo rientro rivela che erano state conservate azioni ma non le ragioni. Correggi la guida del nodo e il metodo con cui prepari il prossimo avvio. Il primo caso documenta il proprio risultato; un caso diverso può mostrare se la correzione continua.
+The meta relation concerns formation of conditions for node work and competence evolution. It becomes autological when startup recognizes and reforms its own limit. A second reentry may reveal that actions survived but reasons did not; correct both the guide and the startup method. The first case documents itself; a different later case can show whether correction continues.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use supplied chat materials or actual files, tools and guides. Ask only for missing context changing work and act when a useful result is possible. Preserve reasons, sources, learned differences and continuation where the project actually stores knowledge; otherwise return a reusable note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change the method used without changing model weights or proving stable learning. Distinguish available knowledge, use and later behavior. Account access, tools and authority to publish, send, install or distribute depend on the real environment and mandate.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa MAIOS derivata da Incarnate Neutral Kernel Node. Il kit conserva il metodo di nascita e coltivazione del destinatario, senza trasferire identità, stato o autorità di altri nodi. Le forme tecniche di un host restano adattamenti da realizzare nel suo contesto.
+MAIOS adaptation of Incarnate Neutral Kernel Node. It transfers recipient formation and cultivation without importing another node's identity, state or authority. Host-specific technical forms remain adaptations for that destination.

@@ -1,4 +1,8 @@
-# Portare un kernel semantico in un plugin AI
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Kernel Plugin Incarnation
+
+**Portare un kernel semantico in un plugin AI**
 
 ## Oggetto e destinazione
 
@@ -48,8 +52,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Risorsa MAIOS derivata da Kernel Plugin Incarnation. Conserva il metodo di traduzione fra capacità semantica, prodotto e ricevente. I dettagli di formato e installazione dipendono dalla documentazione ufficiale del provider scelto; questo kit non dichiara compatibilità specifiche o installazioni già eseguite.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

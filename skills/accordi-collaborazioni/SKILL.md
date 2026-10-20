@@ -1,54 +1,49 @@
 ---
 name: accordi-collaborazioni
-description: "Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni. Quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro."
+description: "Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Preparare accordi e collaborazioni con l’AI
+# Compose Agreement Contract
 
-Rende espliciti oggetto, contributi, diritti, obblighi e scelte ancora da definire prima della stesura.
+Form an agreement's architecture from parties, intended result, exchanges and dependencies. Make scope, contributions, rights, obligations and unresolved choices explicit before drafting.
 
-## Scopo e situazione
+Use this competence when a collaboration or service needs a clear agreement and standard clauses do not describe the work. Relations clear in separate conversations may conflict when combined. Form an inspectable, revisable architecture. Document precision comes from the actual relation; legal sufficiency requires the sources and qualified competences pertinent to the case.
 
-Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni.
+## Understand what should become possible
 
-Usa questa competenza: quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro.
+Begin with the intended result and relationship sources: participating people or organizations, actual roles, object and discussion state. Do not immediately fit the case into a standard contract. A map of issues to agree may be the useful first result. Preserve the person's words and choices while keeping unresolved matters visible.
 
-Prima di scrivere un accordo occorre comprendere la relazione che deve rendere possibile. Parti, contributi, consegne, diritti e condizioni possono essere chiari in conversazioni separate e incoerenti quando vengono riuniti.
+## Connect contributions and dependencies
 
-Questa competenza forma un'architettura dell'accordo leggibile e revisionabile. La precisione del documento nasce dalla relazione effettiva; la sufficienza giuridica richiede le fonti e le competenze pertinenti al caso.
+Make understandable who offers what, to whom, when and under which conditions. Connect performance, resources, payments, access and acceptance evidence where relevant. A delivery may depend on materials another party must provide; payment may reference an event nobody has defined. Bring these relations into one field before drafting apparently precise commitments.
 
-## Comprendere che cosa deve diventare possibile
+## Compose the necessary knowledge
 
-Parti dal risultato desiderato e dalle fonti della relazione: persone o organizzazioni coinvolte, ruoli effettivi, oggetto e stato della discussione. Non adattare subito il caso a un contratto standard. Una richiesta può richiedere prima una mappa delle questioni da concordare. Conserva le parole e le scelte della persona; lascia visibile ciò che non è ancora determinato.
+Project knowledge clarifies feasibility and deliverables; economic knowledge clarifies exchanges and negotiating position; writing gives definitions and consequences precision. None should invent the truth owned by another. For use as a legal instrument, reach current primary sources for the jurisdiction and the qualified legal competence needed. If unavailable, prepare structure and precise review questions without claiming legal sufficiency.
 
-## Collegare contributi e dipendenze
+## Form a coherent whole
 
-Rendi comprensibile chi offre che cosa, a chi, quando e a quali condizioni. Collega prestazioni, risorse, pagamenti, accessi e prove di accettazione quando sono pertinenti. Una consegna può dipendere da materiali che un'altra parte deve fornire; un pagamento può riferirsi a un evento che nessuno ha ancora definito. Porta queste relazioni nello stesso campo prima di formulare impegni apparentemente precisi.
+Consider rights, obligations, conditions, duration, changes, exit and continuing relations where they affect the agreement. Ownership, reuse, data and confidentiality may matter in one case and be absent in another. Do not fill unknowns with conventional wording. Understand how definitions interact: a responsibility, deadline or acceptance criterion can change other sections' meaning.
 
-## Comporre il sapere necessario
+## Choose the form serving discussion
 
-La competenza del progetto chiarisce fattibilità e consegne; quella economica chiarisce scambi e posizione negoziale; la scrittura rende esatte definizioni e conseguenze. Nessuna deve inventare la verità dell'altra. Quando il documento verrà usato come strumento giuridico, raggiungi le fonti primarie correnti della giurisdizione e la competenza legale qualificata necessaria. Se mancano, prepara la struttura e le domande precise per quella revisione, senza dichiararla sufficiente.
+The result may be a relationship map, term structure, draft or comparison with a received document. Write so parties can see what is aligned and what needs a choice. A counterpart's response can change the next agreement without rewriting the provenance of earlier requests. Distinguish proposal, revision, acceptance, signature and performance.
 
-## Formare un insieme coerente
+## Preserve authority and learning
 
-Considera diritti, obblighi, condizioni, durata, cambiamenti, uscita e relazioni che continuano dopo la conclusione soltanto dove incidono sull'accordo. Proprietà, riuso, dati o riservatezza possono essere materiali in un caso e assenti in un altro. Non riempire incognite con formule convenzionali. Controlla come le definizioni interagiscono: una responsabilità, una scadenza o un criterio di accettazione possono cambiare il significato di altre parti.
+Composing and writing do not send, accept, sign, pay, transfer rights or grant access. Keep each effect connected to the relevant person, means and authorization. After a real case, retain what changes later composition: hidden dependencies, ambiguous definitions, missing evidence or confused roles. Return legal learning to qualified sources and project or writing learning to their own methods.
 
-## Scegliere la forma utile alla discussione
+## Method depth
 
-Il risultato può essere una mappa delle relazioni, una struttura di termini, una bozza o un confronto con un testo ricevuto. Scrivi in modo che le parti possano vedere ciò che è allineato e ciò che richiede una scelta. Una risposta della controparte può cambiare l'accordo successivo; non riscrive la provenienza delle richieste precedenti. Distingui proposta, revisione, accettazione, firma ed esecuzione.
+The object is an agreement's architecture. This is a domain competence that can compose other knowledge; composition alone does not make it a competence generator or autological faculty.
 
-## Conservare autorità e apprendimento
+It can learn about its own method when a case reveals an ignored dependency, such as delivery depending on client data that the structure failed to expose. Correcting composition helps later agreements without providing a legal guarantee or authority to bind parties.
 
-Comporre e scrivere non significa inviare, accettare, firmare, pagare, trasferire diritti o concedere accessi. Mantieni ogni effetto legato a persona, mezzo e autorizzazione pertinenti. Dopo un caso reale conserva ciò che cambia la composizione futura: dipendenze nascoste, definizioni ambigue, prove mancanti o ruoli confusi. Restituisci gli apprendimenti giuridici alle fonti qualificate e quelli di progetto o scrittura ai rispettivi metodi.
+## Learning and continuation
 
-## Profondità del metodo
+A concrete case can change recognition of dependencies and responsibilities. Retain the correction's reasons and let each new context determine pertinent relations rather than making every clause universal.
 
-L'oggetto è l'architettura di un accordo. È una competenza di dominio che può comporre altri saperi; la composizione non la rende automaticamente un generatore di competenze o una facoltà autologica.
-
-Può imparare dal proprio metodo quando un caso rivela una dipendenza ignorata. Per esempio, una consegna dipendeva da dati del cliente ma la struttura non lo rendeva visibile. Correggere la composizione aiuta un accordo successivo; non fornisce una garanzia legale né autonomia nel vincolare le parti.
-
-## Continuità e apprendimento
-
-Il caso concreto può cambiare come riconoscere dipendenze e responsabilità. Conserva le ragioni della correzione e lascia che il nuovo contesto determini quali relazioni sono pertinenti, senza trasformare ogni clausola in un modello universale.
-
-Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+Begin from available context and sources. The method can operate in chat; persistence, tools and external actions follow the recipient's means and mandate. Observe behavior and value in real work.

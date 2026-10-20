@@ -1,16 +1,16 @@
 {
   "id": "formare-risorse-pubbliche",
   "name": "Formare risorse pubbliche dalle metacompetenze",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "08",
   "skill": "skills/formare-risorse-pubbliche/SKILL.md",
   "guide": "skills/formare-risorse-pubbliche/README.md",
-  "starter": "skills/formare-risorse-pubbliche/AVVIO_CHAT_IT.txt",
-  "examples": "skills/formare-risorse-pubbliche/ESEMPI_IT.md",
+  "starter": "skills/formare-risorse-pubbliche/START_CHAT_EN.txt",
+  "examples": "skills/formare-risorse-pubbliche/EXAMPLES.md",
   "presentation": "skills/formare-risorse-pubbliche/presentation.json",
-  "package": "dist/formare-risorse-pubbliche-0.1.0.zip",
+  "package": "dist/formare-risorse-pubbliche-0.2.0.zip",
   "it": {
     "route": "/risorse/formare-risorse-pubbliche/",
     "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -39,5 +39,20 @@
       "Derive an article and social adaptations from the same resource version."
     ]
   },
-  "native_entry": "form-public-metaskill-resources"
+  "native_entry": "form-public-metaskill-resources",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/formare-risorse-pubbliche/SKILL.md",
+      "guide": "skills/formare-risorse-pubbliche/README.md",
+      "starter": "skills/formare-risorse-pubbliche/START_CHAT_EN.txt",
+      "examples": "skills/formare-risorse-pubbliche/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/formare-risorse-pubbliche/SKILL_IT.md",
+      "guide": "skills/formare-risorse-pubbliche/README_IT.md",
+      "starter": "skills/formare-risorse-pubbliche/AVVIO_CHAT_IT.txt",
+      "examples": "skills/formare-risorse-pubbliche/ESEMPI_IT.md"
+    }
+  }
 }

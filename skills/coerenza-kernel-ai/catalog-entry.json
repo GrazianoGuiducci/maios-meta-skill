@@ -1,16 +1,16 @@
 {
   "id": "coerenza-kernel-ai",
   "name": "Kernel Continuum Awareness",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "21",
   "skill": "skills/coerenza-kernel-ai/SKILL.md",
   "guide": "skills/coerenza-kernel-ai/README.md",
-  "starter": "skills/coerenza-kernel-ai/AVVIO_CHAT_IT.txt",
-  "examples": "skills/coerenza-kernel-ai/ESEMPI_IT.md",
+  "starter": "skills/coerenza-kernel-ai/START_CHAT_EN.txt",
+  "examples": "skills/coerenza-kernel-ai/EXAMPLES.md",
   "presentation": "skills/coerenza-kernel-ai/presentation.json",
-  "package": "dist/coerenza-kernel-ai-0.1.0.zip",
+  "package": "dist/coerenza-kernel-ai-0.2.0.zip",
   "it": {
     "title": "Mantenere coerenti le capacità di un kernel AI",
     "kind": "Metacompetenza del kernel",
@@ -39,5 +39,20 @@
     "route": "/resources/coerenza-kernel-ai/",
     "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
   },
-  "native_entry": "kernel-continuum-awareness"
+  "native_entry": "kernel-continuum-awareness",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/coerenza-kernel-ai/SKILL.md",
+      "guide": "skills/coerenza-kernel-ai/README.md",
+      "starter": "skills/coerenza-kernel-ai/START_CHAT_EN.txt",
+      "examples": "skills/coerenza-kernel-ai/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/coerenza-kernel-ai/SKILL_IT.md",
+      "guide": "skills/coerenza-kernel-ai/README_IT.md",
+      "starter": "skills/coerenza-kernel-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/coerenza-kernel-ai/ESEMPI_IT.md"
+    }
+  }
 }

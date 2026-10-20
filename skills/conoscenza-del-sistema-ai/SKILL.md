@@ -1,54 +1,49 @@
 ---
 name: conoscenza-del-sistema-ai
-description: "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare. Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo."
+description: "Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Organizzare la conoscenza di un sistema AI
+# Maintain Kernel Knowledge
 
-Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.
+Preserve the system's meaning, reasons and direction for people who need to understand and evolve it. Keep knowledge connected to sources and distinguish what the system is, what it has shown and what it intends to become.
 
-## Scopo e situazione
+Use this competence when architecture, documentation, research and explanations are scattered or confused with operational state. State says where a project stands; system knowledge also preserves why it has that form, what capabilities mean and which directions remain open. Guides, research, documentation and presentations can then use that knowledge without reconstructing everything.
 
-Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare.
+## Preserve relations that change understanding
 
-Usa questa competenza: quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo.
+Preserve knowledge when it changes identity, meaning, architecture, method, perspective or use. Begin from an attributable source, learning from work or observed behavior. Keep what became understandable and why it matters to someone building or explaining the system. Availability alone is no reason to accumulate every message, log or implementation detail.
 
-Lo stato di un progetto dice dove siamo. La conoscenza del sistema conserva anche perché è fatto così, che cosa significano le sue capacità e quali direzioni rimangono aperte.
+## Distinguish meaning, fact and direction
 
-Questa competenza mantiene quel sapere raggiungibile dalle fonti. Guide, documentazione, ricerca e presentazioni possono usarlo senza ricostruire ogni volta l'intero sistema.
+Attribute the person's formulations, AI interpretations, observed capabilities and research hypotheses. A development intention remains a direction until its realization is evidenced. An observed result concerns the version and case actually exercised. A derived guide does not retroactively become the concept's source. Keep useful relations together without imposing compulsory classification stages.
 
-## Conservare le relazioni che cambiano comprensione
+## Organize for the recipient
 
-Preserva una conoscenza quando cambia identità, significato, architettura, metodo, prospettiva o modo d'uso del sistema. Parti da una fonte attribuibile, da un apprendimento del lavoro o da un comportamento osservato. Mantieni che cosa si è compreso e perché conta per chi dovrà costruire o spiegare il sistema. Non accumulare ogni messaggio, log o dettaglio di implementazione soltanto perché è disponibile.
+Use an existing knowledge base or guide and connect detail to pertinent sources. A short entry orients current work; extended knowledge preserves reasons and relations for deeper reading. Make definitions, decisions and open questions accessible according to real need. An index or graph can expose useful relations without exhausting the system or requiring everything to be loaded each time.
 
-## Distinguere significato, fatto e direzione
+## Integrate changed understanding
 
-Attribuisci le formulazioni della persona, le interpretazioni dell'AI, le capacità osservate e le ipotesi di ricerca. Un'intenzione di sviluppo resta una direzione finché non ha la prova della propria realizzazione. Un risultato osservato riguarda la versione e il caso realmente esercitati. Una guida derivata non diventa retroattivamente la fonte del concetto. Mantieni insieme le relazioni utili senza trasformarle in una sequenza obbligatoria di classificazioni.
+When an event changes understanding, preserve source, earlier interpretation, new relation and consequence. Update the knowledge that must continue from that difference. An old formulation can be superseded without losing provenance. Separate distinct objects when they emerge instead of forcing them under one name. Keep unknowns explicit when sources do not resolve them.
 
-## Organizzare il sapere per chi dovrà usarlo
+## Serve different projections
 
-Usa una base di conoscenza o una guida esistente e collega il dettaglio alle fonti pertinenti. Un ingresso breve orienta il lavoro corrente; il sapere esteso conserva ragioni e relazioni per gli approfondimenti. Mantieni raggiungibili definizioni, decisioni e questioni aperte secondo il bisogno reale. Un indice o un grafo può aiutare quando rende visibile una relazione; la sua forma non esaurisce il sistema né richiede di caricare tutto a ogni uso.
+Documentation, usage guides, presentations and research can use the same knowledge for different purposes. Give each its pertinent relation and state without inventing capability or maturity. Public explanations follow selected data and authorization. Knowledge maintenance does not itself publish, establish a scientific thesis or change the product or runtime. Those surfaces retain their own responsibility for effects.
 
-## Integrare una nuova comprensione
+## Learn better preservation
 
-Quando un evento cambia ciò che si capisce, conserva la fonte, ciò che era stato compreso prima, la nuova relazione e la conseguenza. Aggiorna il punto della conoscenza che deve continuare da quella differenza. Una vecchia formulazione può essere superata senza perdere la propria provenienza. Se emergono oggetti diversi, separali invece di forzarli sotto lo stesso nome. Lascia esplicita l'incognita che le fonti non risolvono.
+Notice when reentry or explanation reconstructs knowledge that should already be reachable. Integrate absent knowledge, reconnect an entry that failed to reach it or correct compression that lost a decisive reason. A new file makes knowledge available; a later, different use shows whether it helps understanding and choice.
 
-## Servire proiezioni diverse
+## Method depth
 
-Documentazione, guida d'uso, presentazione e ricerca possono partire dallo stesso sapere con scopi diversi. Fornisci a ciascuna il nesso pertinente e il suo stato, senza inventare capacità o maturità. Le spiegazioni pubbliche seguono i dati e le autorizzazioni selezionati. Il mantenimento della conoscenza non pubblica, non certifica una tesi scientifica e non modifica automaticamente prodotto o runtime. Chi possiede quelle superfici conserva la decisione sul proprio effetto.
+This competence preserves durable system understanding. Individual task continuity and operational state have different objects.
 
-## Imparare a conservare meglio
+It can support a meta relation by making reasons for forming other capabilities available. An autological relation appears when it applies that understanding to its own knowledge selection and organization, such as correcting a summary that hid the difference between current capability and direction. This does not imply an autonomous monitor or formal proof of the system.
 
-Osserva dove una ripresa o una spiegazione richiede di ricostruire ciò che doveva essere già raggiungibile. Se il sapere mancava, integralo; se esisteva ma l'ingresso non lo raggiungeva, ripara il collegamento. Se il modo di comprimere ha perso una ragione decisiva, correggi il metodo di conservazione. Un nuovo file rende il sapere disponibile; un uso successivo diverso mostra se aiuta davvero comprensione e scelta.
+## Learning and continuation
 
-## Profondità del metodo
+Knowledge evolves through sources and consequences. Keep useful lineage while leaving history that changes no present relation outside daily reentry.
 
-Questa competenza conserva la comprensione durevole del sistema; la continuità del singolo task e il controllo del suo stato operativo hanno oggetti diversi.
-
-Può sostenere un livello meta rendendo disponibili le ragioni con cui si formano altre capacità. Una relazione autologica appare quando applica lo stesso sapere al proprio modo di selezionare e organizzare conoscenza: per esempio, cambia una sintesi che nascondeva la distinzione fra capacità attuale e direzione. Non implica un monitor autonomo o una prova formale del sistema.
-
-## Continuità e apprendimento
-
-La conoscenza si evolve dalle fonti e dalle conseguenze. Conserva la genealogia utile, lasciando fuori dal percorso quotidiano la cronologia che non cambia il movimento.
-
-Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+Begin from available context and sources. Exercise the method in chat or connect actual tools and persistence. External actions retain their mandate. Instructions support use; behavior and value require observation in real work.

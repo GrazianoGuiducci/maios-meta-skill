@@ -1,16 +1,16 @@
 {
   "id": "condividere-apprendimenti",
   "name": "Public Learning Promotion",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "10",
   "skill": "skills/condividere-apprendimenti/SKILL.md",
   "guide": "skills/condividere-apprendimenti/README.md",
-  "starter": "skills/condividere-apprendimenti/AVVIO_CHAT_IT.txt",
-  "examples": "skills/condividere-apprendimenti/ESEMPI_IT.md",
+  "starter": "skills/condividere-apprendimenti/START_CHAT_EN.txt",
+  "examples": "skills/condividere-apprendimenti/EXAMPLES.md",
   "presentation": "skills/condividere-apprendimenti/presentation.json",
-  "package": "dist/condividere-apprendimenti-0.1.0.zip",
+  "package": "dist/condividere-apprendimenti-0.2.0.zip",
   "it": {
     "route": "/risorse/condividere-apprendimenti/",
     "title": "Ricavare conoscenze condivisibili dal lavoro interno",
@@ -39,5 +39,20 @@
       "Present a research observation while preserving the open question."
     ]
   },
-  "native_entry": "public-learning-promotion"
+  "native_entry": "public-learning-promotion",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/condividere-apprendimenti/SKILL.md",
+      "guide": "skills/condividere-apprendimenti/README.md",
+      "starter": "skills/condividere-apprendimenti/START_CHAT_EN.txt",
+      "examples": "skills/condividere-apprendimenti/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/condividere-apprendimenti/SKILL_IT.md",
+      "guide": "skills/condividere-apprendimenti/README_IT.md",
+      "starter": "skills/condividere-apprendimenti/AVVIO_CHAT_IT.txt",
+      "examples": "skills/condividere-apprendimenti/ESEMPI_IT.md"
+    }
+  }
 }

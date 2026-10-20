@@ -1,68 +1,70 @@
 # MAIOS Meta-Skill
 
-**25 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**25 resources for working with AI, forming competences and evolving their methods.**
 
-La raccolta porta il sapere nato nel lavoro MAIOS in competenze utilizzabili nella propria chat o nel proprio ambiente agentico. Ogni risorsa include metodo completo, guida, avvio da copiare ed esempi. Le pagine MAIOS spiegano subito cosa fa e quando usarla, poi ne approfondiscono il funzionamento.
+Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
-[Aprire la raccolta sul sito](https://maios.it/risorse/) · [English pages](https://maios.it/resources/) · [Guida comune](docs/USO.md) · [Concetti: competenza, meta e autologica](docs/CONCETTI.md)
+[Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
 
-## Scegliere una risorsa
+## Start with your work
 
-La raccolta comprende competenze operative, metacompetenze, funzioni e fondamenti del kernel. I tipi esprimono contributi diversi. KA è il kernel fondativo; FDLA è la funzione di correzione nel movimento. Il numero di componenti o la parola “meta” non indicano un grado di qualità.
+Choose a resource below, open its **START_CHAT_EN.txt**, then copy or attach the whole file to your AI conversation. Add your intent, sources, existing work and available means. The starter contains the complete method. With file access, make the whole competence folder readable and use SKILL.md as its entry.
 
-| Risorsa | Cosa permette di fare | Tipo |
+English is the primary language of methods, guides, examples and starters. Italian versions are included and linked. Original competence names stay the same across languages.
+
+## Choose a resource
+
+The collection includes operating competences, metacompetences, functions and kernel foundations. These types describe different contributions rather than a quality hierarchy. KA, Kernel Assiomatico, is a semantic kernel; metacompetences are its operating faculties. Meta_Skill forms and evolves competences in that same field. FDLA makes causal correction operative within the work, without another external controller.
+
+| Resource | What it enables | Type |
 | --- | --- | --- |
-| [Meta-Activity](skills/meta-activity/README.md) | Crea attività programmate complesse, capaci di comprendere cosa fare e di evolvere. | Metacompetenza |
-| [Maintain Causal Task Continuity](skills/continuita-del-lavoro-ai/README.md) | Organizza il sapere del lavoro in una guida aggiornabile e mantiene un punto di rientro che permette all’AI di continuare dalle fonti pertinenti. | Competenza |
-| [Essential Condensate Preserver](skills/conservare-conoscenze-utili/README.md) | Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla. | Competenza |
-| [Operator Concept Preserver](skills/estrarre-idee-dalle-conversazioni/README.md) | Distingue le parole dell’autore dalle risposte dell’assistente, elimina duplicazioni e rumore e organizza i concetti utili con il loro riferimento sorgente. | Competenza |
-| [Meta_Metodo](skills/organizzare-lavoro-complesso/README.md) | Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove. | Metacompetenza |
-| [Signal Intelligence](skills/fonti-segnali-conoscenza/README.md) | Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente. | Competenza |
-| [D-ND Skill Evolution Guard](skills/evolvere-competenze/README.md) | Comprende quale relazione ha cambiato il risultato e aggiorna la competenza pertinente, il suo ingresso o le proiezioni che devono continuare da quella differenza. | Metacompetenza |
-| [Classify Content With Taxonomic Titles And Descriptions](skills/titoli-e-sottotitoli/README.md) | Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto. | Facoltà editoriale |
-| [Formare risorse pubbliche dalle metacompetenze](skills/formare-risorse-pubbliche/README.md) | Forma una risorsa utilizzabile fuori dal contesto d’origine, conservando il metodo e rendendo chiaro come iniziare nella propria AI. | Metacompetenza |
-| [D-ND Material Work Continuity](skills/ricostruire-lavoro-decisioni/README.md) | Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati. | Competenza |
-| [Public Learning Promotion](skills/condividere-apprendimenti/README.md) | Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito. | Competenza |
-| [Situated Activity Evolution](skills/migliorare-attivita-ricorrenti/README.md) | Comprende perché un’attività produce conoscenza utile, ripete risultati inutilizzati o incontra nuove possibilità e ne forma il seguito pertinente. | Competenza |
-| [Maintain Kernel Knowledge](skills/conoscenza-del-sistema-ai/README.md) | Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare. | Competenza |
-| [UX-AI Kernel Design](skills/comprendere-lavoro-agente/README.md) | Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro. | Competenza UX-AI |
-| [Projectable Presence](skills/presenza-prodotto-assistente/README.md) | Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione. | Metacompetenza |
-| [Maintain Repository Continuity](skills/continuita-repository/README.md) | Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa. | Competenza tecnica |
-| [Compose Agreement Contract](skills/accordi-collaborazioni/README.md) | Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni. | Competenza di dominio |
-| [Comprendere e organizzare Editoriali](skills/organizzare-sistema-editoriale/README.md) | Comprende come organizzare il sapere editoriale, le sue relazioni con i domini e la continuità delle opere, lasciando che l’esperienza cambi il sistema. | Metacompetenza organizzativa |
-| [Meta_Skill Semantic Kernel](skills/creare-comporre-competenze/README.md) | Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione. | Kernel generativo di competenze |
-| [Kernel Plugin Incarnation](skills/kernel-in-plugin/README.md) | Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento. | Metacompetenza di prodotto |
-| [Incarnate Neutral Kernel Node](skills/avviare-nodo-ai/README.md) | Fa iniziare un nodo dal proprio scopo e dai propri mezzi, distinguendo il pacchetto ricevuto dalla sua installazione e dal lavoro che vi nascerà. | Metacompetenza di trasferimento |
-| [Kernel Continuum Awareness](skills/coerenza-kernel-ai/README.md) | Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti. | Metacompetenza del kernel |
-| [Proto Movimento](skills/formare-kernel-esperienza/README.md) | Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma. | Competenza di formazione del kernel |
-| [KA — Kernel Assiomatico](skills/ka-kernel-assiomatico/README.md) | Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo. | Kernel fondativo |
-| [Operate FDLA](skills/fdla-correzione-ai/README.md) | Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma. | Funzione di correzione nel kernel |
+| [Meta-Activity](skills/meta-activity/README.md) | Creates complex scheduled activities that can understand what to do and evolve. | Metacompetence |
+| [Maintain Causal Task Continuity](skills/continuita-del-lavoro-ai/README.md) | Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources. | Competence |
+| [Essential Condensate Preserver](skills/conservare-conoscenze-utili/README.md) | Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it. | Competence |
+| [Operator Concept Preserver](skills/estrarre-idee-dalle-conversazioni/README.md) | Separates the author's words from assistant output, reduces noise and duplication, and organises useful concepts with source references. | Competence |
+| [Meta_Metodo](skills/organizzare-lavoro-complesso/README.md) | Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge. | Meta-competence |
+| [Signal Intelligence](skills/fonti-segnali-conoscenza/README.md) | Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently. | Competence |
+| [D-ND Skill Evolution Guard](skills/evolvere-competenze/README.md) | Understands which relationship changed the result and updates the competence, entry point or active projection that should continue from that difference. | Meta-competence |
+| [Classify Content With Taxonomic Titles And Descriptions](skills/titoli-e-sottotitoli/README.md) | Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter. | Editorial faculty |
+| [Formare risorse pubbliche dalle metacompetenze](skills/formare-risorse-pubbliche/README.md) | Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI. | Meta-competence |
+| [D-ND Material Work Continuity](skills/ricostruire-lavoro-decisioni/README.md) | Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects. | Competence |
+| [Public Learning Promotion](skills/condividere-apprendimenti/README.md) | Separates reusable learning from private details and chooses a public form faithful to what was observed or built. | Competence |
+| [Situated Activity Evolution](skills/migliorare-attivita-ricorrenti/README.md) | Understands why an activity creates useful knowledge, repeats unused output or encounters new possibilities, then forms an appropriate continuation. | Competence |
+| [Maintain Kernel Knowledge](skills/conoscenza-del-sistema-ai/README.md) | Builds source-linked understanding and distinguishes what the system is, what it has shown and what it may become. | Competence |
+| [UX-AI Kernel Design](skills/comprendere-lavoro-agente/README.md) | Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work. | UX-AI competence |
+| [Projectable Presence](skills/presenza-prodotto-assistente/README.md) | Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues. | Meta-competence |
+| [Maintain Repository Continuity](skills/continuita-repository/README.md) | Understands the selected repository state and carries relevant changes forward while preserving concurrent work and shared revision identity. | Technical competence |
+| [Compose Agreement Contract](skills/accordi-collaborazioni/README.md) | Forms the agreement architecture from parties, intended outcome, exchanges and dependencies so the document can express those relations precisely. | Domain competence |
+| [Comprendere e organizzare Editoriali](skills/organizzare-sistema-editoriale/README.md) | Organizes editorial knowledge, its connections to domain expertise and the continuity of individual works, allowing experience to change the system. | Organizational metacompetence |
+| [Meta_Skill Semantic Kernel](skills/creare-comporre-competenze/README.md) | Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs. | Generative competence kernel |
+| [Kernel Plugin Incarnation](skills/kernel-in-plugin/README.md) | Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected. | Product metacompetence |
+| [Incarnate Neutral Kernel Node](skills/avviare-nodo-ai/README.md) | Helps a node begin from its own purpose and means, distinguishing the shared package from installation and the work that follows. | Transfer metacompetence |
+| [Kernel Continuum Awareness](skills/coerenza-kernel-ai/README.md) | Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations. | Kernel metacompetence |
+| [Proto Movimento](skills/formare-kernel-esperienza/README.md) | Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it. | Kernel formation competence |
+| [KA — Kernel Assiomatico](skills/ka-kernel-assiomatico/README.md) | Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field. | Foundational semantic kernel |
+| [Operate FDLA](skills/fdla-correzione-ai/README.md) | Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming. | In-flow kernel correction function |
 
-## Comporre le capacità intorno al lavoro
+## Compose capabilities around a real task
 
-Un incarico può rendere pertinenti più risorse. Questi ingressi aiutano a riconoscerne il contributo senza imporre una sequenza fissa:
+- **Teach your AI a way of working:** combine competence formation, learning from examples and useful knowledge preservation. A correction can improve both the practical method and how it is learned.
+- **Develop a project's possibilities:** combine situated method formation, signal intelligence and activity formation when their knowledge changes what becomes possible.
+- **Continue a project:** connect causal continuity, material event history and essential knowledge. Preserve decision reasons, collaborators and completed effects across sessions.
+- **Coordinate assistants:** combine situated method, recipient formation and continuity to preserve complementary contributions through shared sources and reasons.
 
-- **Insegnare un lavoro alla propria AI:** [formare competenze](skills/creare-comporre-competenze/README.md), [farle evolvere](skills/evolvere-competenze/README.md) e [conservare il sapere utile](skills/conservare-conoscenze-utili/README.md). Gli esempi e le correzioni possono cambiare anche il metodo con cui l’AI apprende quel lavoro.
-- **Sviluppare possibilità per un progetto:** [formare il metodo](skills/organizzare-lavoro-complesso/README.md), [comprendere fonti e segnali](skills/fonti-segnali-conoscenza/README.md) e [formare attività](skills/meta-activity/README.md). Il contesto può far emergere un contributo diverso dalla prima rappresentazione del problema.
-- **Continuare un progetto:** [continuità del lavoro](skills/continuita-del-lavoro-ai/README.md), [ricostruzione degli eventi](skills/ricostruire-lavoro-decisioni/README.md) e [condensato del sapere](skills/conservare-conoscenze-utili/README.md) conservano ragioni, fatti e seguito fra sessioni e collaboratori.
-- **Coordinare assistenti AI:** [metodo situato](skills/organizzare-lavoro-complesso/README.md), [avvio di un nodo](skills/avviare-nodo-ai/README.md) e [continuità del progetto](skills/continuita-del-lavoro-ai/README.md) aiutano a formare contributi complementari e a integrarli attraverso fonti e ragioni condivise.
+These are possible compositions, not compulsory pipelines.
 
-## Primo uso
+## Use in your environment
 
-Scegli la risorsa e apri il suo **AVVIO_CHAT_IT.txt**. Copia tutto il testo o allegalo alla chat, poi aggiungi intento, progetto, fonti e strumenti disponibili. L’avvio include il metodo completo del kit. In un ambiente agentico puoi invece rendere leggibile l’intera cartella e indicare SKILL.md come ingresso.
+With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 25 resources for one assignment.
 
-Con un kernel esistente, integra la capacità nel sapere e nelle guide del progetto. Senza kernel, parti direttamente dal metodo fornito. I file non creano accessi agli account, memoria del modello o ricorrenze: la guida spiega come collegare la capacità ai mezzi realmente presenti.
+Host tools, persistence, accounts and recurring activation depend on the actual environment. A method file does not configure them. The [use guide](docs/USE.md) explains how to connect the method to real means and preserve the knowledge needed for reentry.
 
-## Edizioni e apprendimento
+## Editions and learning
 
-Le risorse sono prime edizioni pubbliche 0.1.0. Istruzioni e guide sono in italiano; le presentazioni sul sito sono in italiano e inglese. Un assistente può leggere il metodo italiano e lavorare con te nella lingua scelta.
+The current public edition is **0.2.0**, with complete English methods and Italian counterparts. The [catalogue](catalog.json) connects files, languages and versions; [dist/manifest.json](dist/manifest.json) records package identities and file hashes. Packages contain both languages. Older downloadable editions retain their own meaning and history.
 
-Il [catalogo](catalog.json) collega file e versioni; [dist/manifest.json](dist/manifest.json) registra pacchetti e impronte. La verifica di questi file riguarda la coerenza del kit. I casi sono illustrativi; l’efficacia nel tuo ambiente e l’uso delle correzioni si osservano nel lavoro reale.
+File consistency establishes delivery identity. Actual use in another assistant and assimilation of a correction are observed through later work, including unchanged outcomes and limitations. Preserve a case, the difference noticed and its reason when offering feedback.
 
-Un riscontro può migliorare il metodo, la guida o il modo di raggiungere la competenza. Conserva la situazione, la differenza osservata e la ragione della modifica. Il [metodo di distribuzione](docs/DISTRIBUZIONE.md) accompagna questo ritorno e le proiezioni editoriali.
+[How resources are formed and distributed](docs/DISTRIBUTION.md) · [Report an issue or contribute](https://github.com/GrazianoGuiducci/maios-meta-skill/issues)
 
-Origine e direzione: **Graziano Guiducci · MAIOS**. [maios.it](https://maios.it/) · [Contributi e riscontri](https://github.com/GrazianoGuiducci/maios-meta-skill/issues).
-
----
-
-**English:** MAIOS Meta-Skill provides 25 public resources for AI work, competence formation, continuity and semantic kernels. Each includes an operating method, a complete chat starter, a guide and examples. The operating kits are in Italian; [the website presents the collection in English](https://maios.it/resources/). Types identify different contributions, including operating competences, meta-level methods, KA as a foundation and FDLA as in-flow correction.
+Origin and direction: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).

@@ -1,16 +1,16 @@
 {
   "id": "migliorare-attivita-ricorrenti",
   "name": "Situated Activity Evolution",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "11",
   "skill": "skills/migliorare-attivita-ricorrenti/SKILL.md",
   "guide": "skills/migliorare-attivita-ricorrenti/README.md",
-  "starter": "skills/migliorare-attivita-ricorrenti/AVVIO_CHAT_IT.txt",
-  "examples": "skills/migliorare-attivita-ricorrenti/ESEMPI_IT.md",
+  "starter": "skills/migliorare-attivita-ricorrenti/START_CHAT_EN.txt",
+  "examples": "skills/migliorare-attivita-ricorrenti/EXAMPLES.md",
   "presentation": "skills/migliorare-attivita-ricorrenti/presentation.json",
-  "package": "dist/migliorare-attivita-ricorrenti-0.1.0.zip",
+  "package": "dist/migliorare-attivita-ricorrenti-0.2.0.zip",
   "it": {
     "route": "/risorse/migliorare-attivita-ricorrenti/",
     "title": "Far migliorare un’attività AI attraverso i suoi risultati",
@@ -39,5 +39,20 @@
       "Understand whether overlapping activities should be combined."
     ]
   },
-  "native_entry": "situated-activity-evolution"
+  "native_entry": "situated-activity-evolution",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/migliorare-attivita-ricorrenti/SKILL.md",
+      "guide": "skills/migliorare-attivita-ricorrenti/README.md",
+      "starter": "skills/migliorare-attivita-ricorrenti/START_CHAT_EN.txt",
+      "examples": "skills/migliorare-attivita-ricorrenti/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/migliorare-attivita-ricorrenti/SKILL_IT.md",
+      "guide": "skills/migliorare-attivita-ricorrenti/README_IT.md",
+      "starter": "skills/migliorare-attivita-ricorrenti/AVVIO_CHAT_IT.txt",
+      "examples": "skills/migliorare-attivita-ricorrenti/ESEMPI_IT.md"
+    }
+  }
 }

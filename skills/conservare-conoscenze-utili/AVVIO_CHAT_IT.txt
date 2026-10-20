@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Conservare le conoscenze utili emerse nel lavoro con l’AI
+# Essential Condensate Preserver
+
+**Conservare le conoscenze utili emerse nel lavoro con l’AI**
 
 Questa competenza conserva una conoscenza breve senza perdere le ragioni che la rendono utile. Può nascere da una correzione, una scelta riuscita, una spiegazione o una possibilità che sarebbe difficile ricostruire.
 
@@ -34,8 +36,6 @@ Durante l’uso, riconosci che cosa il testo ha permesso di capire e che cosa ha
 
 La guida accumula soltanto le ragioni che cambiano il prossimo lavoro. Distingui una conoscenza disponibile da un caso successivo che mostra di averla usata; conserva anche un risultato invariato o un compromesso.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

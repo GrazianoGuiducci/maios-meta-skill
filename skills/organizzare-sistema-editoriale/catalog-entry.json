@@ -1,16 +1,16 @@
 {
   "id": "organizzare-sistema-editoriale",
   "name": "Comprendere e organizzare Editoriali",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "17",
   "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
   "guide": "skills/organizzare-sistema-editoriale/README.md",
-  "starter": "skills/organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt",
-  "examples": "skills/organizzare-sistema-editoriale/ESEMPI_IT.md",
+  "starter": "skills/organizzare-sistema-editoriale/START_CHAT_EN.txt",
+  "examples": "skills/organizzare-sistema-editoriale/EXAMPLES.md",
   "presentation": "skills/organizzare-sistema-editoriale/presentation.json",
-  "package": "dist/organizzare-sistema-editoriale-0.1.0.zip",
+  "package": "dist/organizzare-sistema-editoriale-0.2.0.zip",
   "it": {
     "title": "Organizzare un sistema editoriale AI che impara dal lavoro",
     "kind": "Metacompetenza organizzativa",
@@ -39,5 +39,20 @@
     "route": "/resources/organizzare-sistema-editoriale/",
     "description": "Make sources, writing methods and corrections available to the people and assistants creating the next piece."
   },
-  "native_entry": "evolve-editoriali-system"
+  "native_entry": "evolve-editoriali-system",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/organizzare-sistema-editoriale/SKILL.md",
+      "guide": "skills/organizzare-sistema-editoriale/README.md",
+      "starter": "skills/organizzare-sistema-editoriale/START_CHAT_EN.txt",
+      "examples": "skills/organizzare-sistema-editoriale/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/organizzare-sistema-editoriale/SKILL_IT.md",
+      "guide": "skills/organizzare-sistema-editoriale/README_IT.md",
+      "starter": "skills/organizzare-sistema-editoriale/AVVIO_CHAT_IT.txt",
+      "examples": "skills/organizzare-sistema-editoriale/ESEMPI_IT.md"
+    }
+  }
 }

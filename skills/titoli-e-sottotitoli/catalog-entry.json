@@ -1,16 +1,16 @@
 {
   "id": "titoli-e-sottotitoli",
   "name": "Classify Content With Taxonomic Titles And Descriptions",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "07",
   "skill": "skills/titoli-e-sottotitoli/SKILL.md",
   "guide": "skills/titoli-e-sottotitoli/README.md",
-  "starter": "skills/titoli-e-sottotitoli/AVVIO_CHAT_IT.txt",
-  "examples": "skills/titoli-e-sottotitoli/ESEMPI_IT.md",
+  "starter": "skills/titoli-e-sottotitoli/START_CHAT_EN.txt",
+  "examples": "skills/titoli-e-sottotitoli/EXAMPLES.md",
   "presentation": "skills/titoli-e-sottotitoli/presentation.json",
-  "package": "dist/titoli-e-sottotitoli-0.1.0.zip",
+  "package": "dist/titoli-e-sottotitoli-0.2.0.zip",
   "it": {
     "route": "/risorse/titoli-e-sottotitoli/",
     "title": "Scrivere titoli e sottotitoli che fanno capire il contenuto",
@@ -39,5 +39,20 @@
       "Organise document titles and names so they can be found in a project."
     ]
   },
-  "native_entry": "classify-content-with-taxonomic-titles-and-descriptions"
+  "native_entry": "classify-content-with-taxonomic-titles-and-descriptions",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/titoli-e-sottotitoli/SKILL.md",
+      "guide": "skills/titoli-e-sottotitoli/README.md",
+      "starter": "skills/titoli-e-sottotitoli/START_CHAT_EN.txt",
+      "examples": "skills/titoli-e-sottotitoli/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/titoli-e-sottotitoli/SKILL_IT.md",
+      "guide": "skills/titoli-e-sottotitoli/README_IT.md",
+      "starter": "skills/titoli-e-sottotitoli/AVVIO_CHAT_IT.txt",
+      "examples": "skills/titoli-e-sottotitoli/ESEMPI_IT.md"
+    }
+  }
 }

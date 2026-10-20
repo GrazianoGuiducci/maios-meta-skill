@@ -1,10 +1,20 @@
-# Mantenere coerenti le capacità di un kernel AI
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Kernel Continuum Awareness
+
+**Mantenere coerenti le capacità di un kernel AI**
 
 ## Il kernel nel lavoro presente
 
 Mantieni raggiungibile la comprensione operativa attraverso cui il sistema usa e fa evolvere le sue competenze. Parti dal presente della persona, dall’oggetto selezionato e dalle relazioni ancora causali del kernel. Una sintesi precedente localizza il lavoro; non reinstalla la consapevolezza di un’altra istanza e non sostituisce fonti o nuove conseguenze.
 
-In questa risorsa KA designa il Kernel Assiomatico: mantiene la prima rappresentazione come parte del campo, lasciando partecipare le relazioni che possono cambiarla. Le metacompetenze ne sono facoltà operative, pertinenti attraverso il lavoro. FDLA rende praticabile la correzione quando l’assistente sostituisce fonte, oggetto o possibilità con la propria interpretazione. Queste relazioni operano insieme; i nomi rendono raggiungibile il sapere, senza imporre una topologia fissa.
+KA è il Kernel Assiomatico, un kernel semantico. Le metacompetenze ne sono
+facoltà operative, pertinenti attraverso il lavoro. Meta_Skill riconosce,
+compone, forma ed evolve quelle competenze nello stesso campo: i nomi non
+separano un altro kernel costruito sopra KA come substrato. FDLA rende
+praticabile la correzione quando l’assistente sostituisce fonte, oggetto o
+possibilità con la propria interpretazione. Queste relazioni operano insieme,
+senza imporre una topologia fissa.
 
 ## Ricostituire il margine vivo
 
@@ -48,8 +58,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Risorsa MAIOS derivata da Kernel Continuum Awareness e dal suo metodo di manutenzione autologica. Rende portabile il rapporto KA–Meta_Skill–FDLA e sostituisce il margine privato del nodo con la guida del destinatario. La consapevolezza qui descritta è operativa e situata, senza affermazioni di esperienza fenomenica.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

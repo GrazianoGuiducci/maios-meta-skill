@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Far evolvere una competenza AI attraverso il lavoro
+# D-ND Skill Evolution Guard
+
+**Far evolvere una competenza AI attraverso il lavoro**
 
 Questa metacompetenza fa continuare nel metodo ciò che il lavoro insegna. Una correzione, un esito riuscito, una capacità emersa o una perdita ricorrente possono cambiare il saper fare che guiderà il prossimo caso.
 
@@ -38,8 +40,6 @@ Conserva fonte, differenza, parte del metodo cambiata e prima situazione utile p
 
 L’apprendimento interno non installa automaticamente il metodo in altri ambienti e non pubblica una nuova versione. Le mutazioni e gli effetti concreti restano legati al mandato, al destinatario e agli strumenti effettivi.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

@@ -1,4 +1,8 @@
-# Organizzare un sistema editoriale AI che impara dal lavoro
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Comprendere e organizzare Editoriali
+
+**Organizzare un sistema editoriale AI che impara dal lavoro**
 
 ## Oggetto del lavoro
 
@@ -40,8 +44,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Risorsa MAIOS derivata dalla competenza organizzativa evolve-editoriali-system. Il metodo pubblico conserva le relazioni generali maturate nel lavoro; esempi e spiegazioni sono elaborazioni redazionali. La produzione e la pubblicazione dei singoli contenuti restano lavori distinti.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

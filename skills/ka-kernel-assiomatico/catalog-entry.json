@@ -1,19 +1,19 @@
 {
   "id": "ka-kernel-assiomatico",
   "name": "KA — Kernel Assiomatico",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "23",
   "skill": "skills/ka-kernel-assiomatico/SKILL.md",
   "guide": "skills/ka-kernel-assiomatico/README.md",
-  "starter": "skills/ka-kernel-assiomatico/AVVIO_CHAT_IT.txt",
-  "examples": "skills/ka-kernel-assiomatico/ESEMPI_IT.md",
+  "starter": "skills/ka-kernel-assiomatico/START_CHAT_EN.txt",
+  "examples": "skills/ka-kernel-assiomatico/EXAMPLES.md",
   "presentation": "skills/ka-kernel-assiomatico/presentation.json",
-  "package": "dist/ka-kernel-assiomatico-0.1.0.zip",
+  "package": "dist/ka-kernel-assiomatico-0.2.0.zip",
   "it": {
     "title": "KA — comprendere il lavoro oltre la prima interpretazione",
-    "kind": "Kernel fondativo",
+    "kind": "Kernel semantico fondativo",
     "domain": "Fondamenti del sistema",
     "does": "Orienta l’assistente a comprendere fonte, intento, situazione e possibilità, mantenendo il contesto e il metodo disponibili come parti del campo.",
     "when": "Come relazione fondativa di un sistema che deve comprendere e agire nel contesto, anche mentre usa competenze specialistiche.",
@@ -27,7 +27,7 @@
   },
   "en": {
     "title": "KA — understand AI work beyond its first interpretation",
-    "kind": "Foundational kernel",
+    "kind": "Foundational semantic kernel",
     "domain": "System foundations",
     "does": "Orients the assistant through sources, intent, situation and possibilities, treating its available context and methods as parts of the field.",
     "when": "As a foundational relation in a system that needs to understand and act in context, including while using specialist competences.",
@@ -39,5 +39,20 @@
     "route": "/resources/ka-kernel-assiomatico/",
     "description": "The Axiomatic Kernel keeps sources, intent, situation and possibilities connected while the assistant works."
   },
-  "native_entry": "KA / operate-ka"
+  "native_entry": "KA / operate-ka",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/ka-kernel-assiomatico/SKILL.md",
+      "guide": "skills/ka-kernel-assiomatico/README.md",
+      "starter": "skills/ka-kernel-assiomatico/START_CHAT_EN.txt",
+      "examples": "skills/ka-kernel-assiomatico/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/ka-kernel-assiomatico/SKILL_IT.md",
+      "guide": "skills/ka-kernel-assiomatico/README_IT.md",
+      "starter": "skills/ka-kernel-assiomatico/AVVIO_CHAT_IT.txt",
+      "examples": "skills/ka-kernel-assiomatico/ESEMPI_IT.md"
+    }
+  }
 }

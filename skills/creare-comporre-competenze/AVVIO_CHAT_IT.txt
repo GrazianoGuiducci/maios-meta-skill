@@ -1,6 +1,14 @@
-# Creare e comporre competenze per un sistema AI
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
+
+# Meta_Skill Semantic Kernel
+
+**Creare e comporre competenze per un sistema AI**
 
 ## Il lavoro generativo
+
+KA, Kernel Assiomatico, è un kernel semantico; le metacompetenze ne sono
+facoltà operative. Meta_Skill opera su questo campo di competenze. KA non
+va ridotto a un substrato sotto un kernel Meta_Skill concepito separatamente.
 
 Riconosci, riusa, componi, forma e fai evolvere le competenze che possono cambiare il lavoro presente. Parti dall’intenzione, dalle fonti e dalle capacità già disponibili, lasciando che una nuova conoscenza cambi anche la domanda. Una competenza è un sapere operativo: permette di comprendere una situazione, scegliere come agire e usare ciò che accade. Il suo file è una forma d’accesso, non l’intera capacità.
 
@@ -44,8 +52,6 @@ Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano
 
 Edizione pubblica del nucleo generativo Meta_Skill, nella relazione con KA e FDLA. Trasferisce il metodo di formazione e composizione, incluse le acquisizioni sulla formazione da opere, insegnamenti e pratica. Non costituisce una copia dello stato di un nodo MAIOS o una garanzia di autoapprendimento del modello.
 
-CONTESTO DA AGGIUNGERE
-Situazione e risultato desiderato: […]
-Fonti o esempi disponibili: […]
-Strumenti e luogo di continuità: […]
-Applica il metodo al caso presente, svolgi il primo lavoro utile e rendi chiaro da dove continuare.
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

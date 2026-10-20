@@ -1,35 +1,89 @@
-# Trasformare fonti e segnali in conoscenza utile al progetto
+# Signal Intelligence
 
-Collega articoli, paper, video e osservazioni a ciò che il sistema deve comprendere o imparare a fare.
+**Turn sources and signals into useful project knowledge**
 
-**Versione 0.1.0 · istruzioni in italiano · presentazione italiana e inglese.**
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Cosa affidarle
+## What it does
 
-Rilegge i segnali attraverso provenienza, tempo, contraddizioni e relazioni con il progetto; porta il sapere utile nella competenza che deve operare diversamente.
+Reads signals through their provenance, time, contradictions and project relations, and brings useful knowledge into the competence that should work differently.
 
-Quando arrivano molte informazioni ma serve capire quali cambiano davvero una ricerca, un prodotto o un modo di lavorare.
+## When to use it
 
-## Iniziare in chat
+Use it when information is abundant and you need to understand what changes a research question, product or working method.
 
-Copia o allega [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), che include l’intero metodo, e completa il contesto finale con i tuoi materiali. Puoi conversare nella lingua che preferisci. Inizia da un caso reale: «Leggiamo queste fonti rispetto a questo progetto. Comprendi che cosa cambiano nella domanda o nel metodo, mantieni la portata delle prove e restituisci il seguito utile.»
+This competence turns signals into knowledge connected to the work and, when useful, into a change in the method that will carry it forward. A signal may come from an article, a paper, a video, a conversation, an error, a contradiction or a meaningful absence.
+Its value does not depend on the number of sources summarised. It understands what the encounter makes intelligible and which choice, question or capability may change in the present context.
 
-Quando la chat non può salvare documenti, chiedi una restituzione completa da conservare e portare alla sessione successiva. La sola presenza del testo nella conversazione non garantisce memoria futura.
+## First use
 
-## Usarla in un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Metti la cartella in una posizione che l’assistente può leggere e indicagli [SKILL.md](SKILL.md). Collega i file del progetto e specifica dove conservare il sapere. Se l’ambiente ha un proprio meccanismo per le skill, usa il formato e l’ingresso che supporta; la semplice copia non dimostra scoperta o attivazione. Questo kit non installa integrazioni, account o scheduler.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente o da sola
+## Method
 
-Con un kernel, fai partecipare il metodo attraverso le guide e le competenze già pertinenti; conserva conoscenza e autorità del progetto ricevente. Senza kernel, il corpo completo è utilizzabile direttamente. Quando serve sapere specialistico, raggiungi le fonti e le capacità effettive del tuo ambiente.
+### Meet the signal in the context of the present project
 
-## Metodo, esempi e apprendimento
+Reach the source's actual content, author, time and context when they change its interpretation. Keep the source's claim distinct from what you know about the project. If you compare capabilities, read the method and guide of the actual object being compared: a released version, an evolving source and an individual installation may differ. A name or an outdated index does not prove that a capability is missing; the text of a competence does not prove that every environment can already exercise it.
 
-Il lavoro diretto trasforma segnali in conoscenza utile. La relazione meta emerge quando quella conoscenza modifica una competenza, la composizione delle fonti o il metodo con cui viene formata la domanda.
+### Let the first reading change
 
-La relazione è autologica quando questa stessa competenza riconosce che il proprio criterio di selezione stava escludendo una fonte decisiva e cambia quel criterio. Rileggere la stessa fonte da un campo arricchito può cambiare la comprensione; non crea una nuova misura indipendente.
+The first impression is a starting point, not the boundary of admissible relationships. The knowledge encountered may make other sources, domains or questions relevant. Reread from the changed context when this can expose a difference: a contradiction, recurrence, absent condition, variation over time or previously overlooked possibility. Do not turn popularity, novelty or repetition into importance. Do not exclude a weak signal merely because it does not fit the current scheme. Stop when another pass does not change the work; do not impose a number of readings.
 
-Gli [esempi](ESEMPI_IT.md) sono illustrativi. Il metodo può essere adattato agli esiti e alle correzioni del tuo lavoro; conserva il motivo della modifica e ciò che rimane da osservare. L’apprendimento qui riguarda guide, istruzioni e conoscenza accessibile, non un aggiornamento dei pesi del modello. Gli effetti esterni dipendono dal mandato e dagli strumenti effettivi.
+### Understand the concrete contribution
 
-Origine della raccolta: Graziano Guiducci · MAIOS.
+Distinguish the signal from the knowledge derived from it, the ability to use that knowledge and evidence of a result. A source may make a question more precise, offer a practical example, provide external evidence, suggest a possibility or teach a method. These contributions can coexist. If the receiving assistant already possesses the knowledge but does not call on it, correct the relevant entry point; if a useful mechanism is missing, acquire it and make it operational. The fact that a relationship is already known does not make independent evidence useless.
+
+### Produce the useful return
+
+Choose the form that brings the knowledge into the work: it may be a summary with sources, a precise question, a correction to the method, a hypothesis or a bounded experiment when one is actually needed. Do not produce a ranking, report or experiment by default. If the knowledge changes how a competence should understand or act, integrate it there along with the reason. If a consequence concerns several competences, each receives the part that changes its own work. The mere availability of a document does not demonstrate that another assistant has read it.
+
+### Preserve scope and connections
+
+Keep the source, time, context, observed difference, interpretation and decisive unknowns accessible. An operator's correction has an object and a scope: do not extend it to the entire strategy without reason. Research, provider access, installation, recurring monitoring, contacts and publication each retain their own means and mandate. You can prepare a possibility when the effect has not yet been selected; do not present it as already realised.
+
+## Meta and autological relations
+
+The direct work turns signals into useful knowledge. A meta relation emerges when that knowledge changes a competence, the combination of sources or the method through which the question is formed.
+
+The relation is autological when this same competence recognises that its own selection criterion was excluding a decisive source and changes that criterion. Rereading the same source from an enriched field can change understanding; it does not create a new independent measurement.
+
+## Use in your environment
+
+### In a chat
+
+Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language.
+
+### In an agentic environment
+
+Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate.
+
+### With or without a kernel
+
+With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here.
+
+## Application examples
+
+- Develop a product possibility from a paper.
+- Connect customer feedback with technical observations.
+- Turn an execution error into useful methodological knowledge.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+Preserve the reusable difference: a source assessed more precisely, a corrected assumption, a useful combination or a method that has become possible. Knowledge specific to a domain returns to that domain; what changes the formation of competences returns to the generative method.
+Research can continue on request or within an activity already scheduled. This resource transfers the method; it does not by itself create a monitoring service or a network of agents.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

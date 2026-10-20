@@ -1,16 +1,16 @@
 {
   "id": "estrarre-idee-dalle-conversazioni",
   "name": "Operator Concept Preserver",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "03",
   "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL.md",
   "guide": "skills/estrarre-idee-dalle-conversazioni/README.md",
-  "starter": "skills/estrarre-idee-dalle-conversazioni/AVVIO_CHAT_IT.txt",
-  "examples": "skills/estrarre-idee-dalle-conversazioni/ESEMPI_IT.md",
+  "starter": "skills/estrarre-idee-dalle-conversazioni/START_CHAT_EN.txt",
+  "examples": "skills/estrarre-idee-dalle-conversazioni/EXAMPLES.md",
   "presentation": "skills/estrarre-idee-dalle-conversazioni/presentation.json",
-  "package": "dist/estrarre-idee-dalle-conversazioni-0.1.0.zip",
+  "package": "dist/estrarre-idee-dalle-conversazioni-0.2.0.zip",
   "it": {
     "route": "/risorse/estrarre-idee-dalle-conversazioni/",
     "title": "Estrarre le idee dell’autore dalle conversazioni con l’AI",
@@ -39,5 +39,20 @@
       "Recover corrections that should change an assistant's working method."
     ]
   },
-  "native_entry": "operator-concept-preserver"
+  "native_entry": "operator-concept-preserver",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL.md",
+      "guide": "skills/estrarre-idee-dalle-conversazioni/README.md",
+      "starter": "skills/estrarre-idee-dalle-conversazioni/START_CHAT_EN.txt",
+      "examples": "skills/estrarre-idee-dalle-conversazioni/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/estrarre-idee-dalle-conversazioni/SKILL_IT.md",
+      "guide": "skills/estrarre-idee-dalle-conversazioni/README_IT.md",
+      "starter": "skills/estrarre-idee-dalle-conversazioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/estrarre-idee-dalle-conversazioni/ESEMPI_IT.md"
+    }
+  }
 }

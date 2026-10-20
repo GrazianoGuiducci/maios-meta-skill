@@ -1,58 +1,87 @@
-# Formare un nuovo kernel AI attraverso l’esperienza d’uso
+# Proto Movimento
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Form a new AI kernel through recipient experience**
 
-Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Quando stai costruendo o trasferendo un kernel e il caso reale deve cambiare sia il ricevente sia il modo di progettarlo.
+Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it.
 
-## Primo incarico
+## When to use it
 
-«Questo è il kernel sorgente, questo è ciò che il ricevente legge e questo è il suo primo resoconto d’uso. Comprendi quali relazioni arrivano, quali cambiano nel passaggio e che cosa l’esperienza insegna alla capacità e al modo di formarla. Sviluppa la differenza selezionata conservando il patrimonio ancora valido.»
+When building or transferring a kernel and a real case should change both the recipient and the way it is designed.
 
-## In chat
+A kernel may contain a capability that reaches its recipient in a reduced form or through an entry that changes its meaning. Use can show where the difference arises.
+Proto Movimento makes a method from the MAIOS Project Kernel formation case transferable: experience can change both what the kernel can do and how it is formed.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Follow the function to the recipient
 
-## Senza un kernel
+Read the body, descriptor, acquisition mechanism and use. The skill catalogue is one possible entry into that relation.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Compose experience with source knowledge
 
-## Comprendere la capacità
+A useful report can locate a cause incorrectly. Preserve its signal and reach the actual relation together with local knowledge.
 
-La specializzazione di Proto Movimento riguarda la formazione del kernel attraverso l’esperienza del destinatario. La funzione generale di organizzare il metodo di un lavoro rimane distinguibile.
+### Form the generative return
 
-La relazione autologica emerge quando il modo stesso di leggere, confrontare e trasferire diventa oggetto del lavoro. Se il confronto si ferma ai file generati, l’esperienza può aprirlo alla comprensione e all’ingresso del ricevente.
+The learned difference changes the recipient kernel and, where relevant, the capability through which later kernels are formed.
 
-Il ritorno autopoietico fa continuare quella conoscenza nel kernel e nel metodo generativo pertinenti. Non equivale ad aggiungere un modulo o a dichiarare una nuova release: la forma segue la funzione compresa.
+## Meta and autological relations
 
-## File del kit
+Proto Movimento specializes in kernel formation through recipient experience. The general function of organizing a work method remains distinguishable.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+The autological relation appears when reading, comparing and transferring become objects of the same work. If comparison stops at generated files, experience may open it to the recipient’s entry and understanding.
 
-## Osservare il primo uso
+Autopoietic return lets that knowledge continue in the relevant kernel and generative method. It does not imply another module or a new release: the form follows the understood function.
 
-Segui una funzione dal corpo sorgente al materiale realmente ricevuto, poi al caso d’uso. Identifica se la differenza dipende dal metodo, dall’ingresso, dalla porzione acquisita o dall’ambiente. Un secondo caso può mostrare se è cambiato anche il modo di formare il kernel.
+## Use in your environment
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+### In a chat
 
-## Origine e seguito
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-Risorsa pubblica specializzata derivata da Proto Movimento, nato nel lavoro di formazione del MAIOS Project Kernel. Il metodo generale maturato nello stesso percorso è rappresentato separatamente da Meta_Metodo. Questo kit non è una nuova release del prodotto MAIOS e non trasferisce lo stato delle sue implementazioni.
+### In an agentic environment
 
-Una capacità già presente può richiedere un ingresso diverso o un uso più profondo. Il metodo conserva questa possibilità prima di proporre nuove parti.
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
 
-I casi della prima edizione sono illustrativi. Il contributo di un’installazione o di un uso concreto resta attribuito al suo contesto e alla versione esercitata.
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- An installation reveals a capability the recipient cannot reach.
+- A new relation changes how the kernel presents its entry.
+- Recipient experience improves the next transfer.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+An existing capability may need a different entry or deeper use. The method retains that possibility before proposing new parts.
+First-edition cases are illustrative. An actual installation or use retains its own context and exercised version.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

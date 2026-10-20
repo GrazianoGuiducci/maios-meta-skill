@@ -1,16 +1,16 @@
 {
   "id": "conoscenza-del-sistema-ai",
   "name": "Maintain Kernel Knowledge",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "12",
   "skill": "skills/conoscenza-del-sistema-ai/SKILL.md",
   "guide": "skills/conoscenza-del-sistema-ai/README.md",
-  "starter": "skills/conoscenza-del-sistema-ai/AVVIO_CHAT_IT.txt",
-  "examples": "skills/conoscenza-del-sistema-ai/ESEMPI_IT.md",
+  "starter": "skills/conoscenza-del-sistema-ai/START_CHAT_EN.txt",
+  "examples": "skills/conoscenza-del-sistema-ai/EXAMPLES.md",
   "presentation": "skills/conoscenza-del-sistema-ai/presentation.json",
-  "package": "dist/conoscenza-del-sistema-ai-0.1.0.zip",
+  "package": "dist/conoscenza-del-sistema-ai-0.2.0.zip",
   "it": {
     "route": "/risorse/conoscenza-del-sistema-ai/",
     "title": "Organizzare la conoscenza di un sistema AI",
@@ -39,5 +39,20 @@
       "Supply coherent sources for guides, presentations and research."
     ]
   },
-  "native_entry": "maintain-kernel-knowledge"
+  "native_entry": "maintain-kernel-knowledge",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/conoscenza-del-sistema-ai/SKILL.md",
+      "guide": "skills/conoscenza-del-sistema-ai/README.md",
+      "starter": "skills/conoscenza-del-sistema-ai/START_CHAT_EN.txt",
+      "examples": "skills/conoscenza-del-sistema-ai/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/conoscenza-del-sistema-ai/SKILL_IT.md",
+      "guide": "skills/conoscenza-del-sistema-ai/README_IT.md",
+      "starter": "skills/conoscenza-del-sistema-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/conoscenza-del-sistema-ai/ESEMPI_IT.md"
+    }
+  }
 }

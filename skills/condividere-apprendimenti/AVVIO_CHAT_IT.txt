@@ -1,9 +1,8 @@
----
-name: condividere-apprendimenti
-description: "Distingue il contributo riutilizzabile dai dettagli privati e propone una forma coerente con ciò che è stato osservato o costruito. Quando un’esperienza di progetto potrebbe diventare una guida, un metodo, una risorsa o un caso pubblico."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Ricavare conoscenze condivisibili dal lavoro interno
+# Public Learning Promotion
+
+**Ricavare conoscenze condivisibili dal lavoro interno**
 
 Riconosce quale metodo, osservazione o capacità conserva valore anche fuori dal contesto che l’ha prodotta.
 
@@ -53,14 +52,6 @@ Mantieni attribuiti evento, interpretazione iniziale e comprensione successiva. 
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

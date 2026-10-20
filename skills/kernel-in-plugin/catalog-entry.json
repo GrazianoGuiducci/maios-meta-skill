@@ -1,16 +1,16 @@
 {
   "id": "kernel-in-plugin",
   "name": "Kernel Plugin Incarnation",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "19",
   "skill": "skills/kernel-in-plugin/SKILL.md",
   "guide": "skills/kernel-in-plugin/README.md",
-  "starter": "skills/kernel-in-plugin/AVVIO_CHAT_IT.txt",
-  "examples": "skills/kernel-in-plugin/ESEMPI_IT.md",
+  "starter": "skills/kernel-in-plugin/START_CHAT_EN.txt",
+  "examples": "skills/kernel-in-plugin/EXAMPLES.md",
   "presentation": "skills/kernel-in-plugin/presentation.json",
-  "package": "dist/kernel-in-plugin-0.1.0.zip",
+  "package": "dist/kernel-in-plugin-0.2.0.zip",
   "it": {
     "title": "Portare un kernel semantico in un plugin AI",
     "kind": "Metacompetenza di prodotto",
@@ -39,5 +39,20 @@
     "route": "/resources/kernel-in-plugin/",
     "description": "Connect the source capability to the recipient’s skills, tools and interface while preserving the knowledge that lets it continue."
   },
-  "native_entry": "kernel-plugin-incarnation"
+  "native_entry": "kernel-plugin-incarnation",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/kernel-in-plugin/SKILL.md",
+      "guide": "skills/kernel-in-plugin/README.md",
+      "starter": "skills/kernel-in-plugin/START_CHAT_EN.txt",
+      "examples": "skills/kernel-in-plugin/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/kernel-in-plugin/SKILL_IT.md",
+      "guide": "skills/kernel-in-plugin/README_IT.md",
+      "starter": "skills/kernel-in-plugin/AVVIO_CHAT_IT.txt",
+      "examples": "skills/kernel-in-plugin/ESEMPI_IT.md"
+    }
+  }
 }

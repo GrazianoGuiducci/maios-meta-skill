@@ -1,16 +1,16 @@
 {
   "id": "continuita-repository",
   "name": "Maintain Repository Continuity",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "15",
   "skill": "skills/continuita-repository/SKILL.md",
   "guide": "skills/continuita-repository/README.md",
-  "starter": "skills/continuita-repository/AVVIO_CHAT_IT.txt",
-  "examples": "skills/continuita-repository/ESEMPI_IT.md",
+  "starter": "skills/continuita-repository/START_CHAT_EN.txt",
+  "examples": "skills/continuita-repository/EXAMPLES.md",
   "presentation": "skills/continuita-repository/presentation.json",
-  "package": "dist/continuita-repository-0.1.0.zip",
+  "package": "dist/continuita-repository-0.2.0.zip",
   "it": {
     "route": "/risorse/continuita-repository/",
     "title": "Condividere il lavoro AI tra repository e collaboratori",
@@ -39,5 +39,20 @@
       "Give another assistant the exact revision to read."
     ]
   },
-  "native_entry": "maintain-repository-continuity"
+  "native_entry": "maintain-repository-continuity",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/continuita-repository/SKILL.md",
+      "guide": "skills/continuita-repository/README.md",
+      "starter": "skills/continuita-repository/START_CHAT_EN.txt",
+      "examples": "skills/continuita-repository/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/continuita-repository/SKILL_IT.md",
+      "guide": "skills/continuita-repository/README_IT.md",
+      "starter": "skills/continuita-repository/AVVIO_CHAT_IT.txt",
+      "examples": "skills/continuita-repository/ESEMPI_IT.md"
+    }
+  }
 }

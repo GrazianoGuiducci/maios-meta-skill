@@ -1,9 +1,8 @@
----
-name: continuita-repository
-description: "Comprende lo stato del repository selezionato e porta avanti le modifiche pertinenti preservando lavoro concorrente e identità della revisione condivisa. Quando più assistenti o persone lavorano sullo stesso progetto e il risultato non deve restare nascosto in un checkout locale."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Condividere il lavoro AI tra repository e collaboratori
+# Maintain Repository Continuity
+
+**Condividere il lavoro AI tra repository e collaboratori**
 
 Mantiene riconoscibile la relazione tra modifiche locali, commit e sorgente condivisa.
 
@@ -53,14 +52,6 @@ Un caso successivo mostra se il lavoro arriva alla sorgente condivisa senza perd
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

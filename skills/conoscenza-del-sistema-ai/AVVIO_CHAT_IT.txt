@@ -1,9 +1,8 @@
----
-name: conoscenza-del-sistema-ai
-description: "Costruisce una conoscenza raggiungibile dalle fonti e distingue ciò che il sistema è, ciò che ha mostrato e ciò che intende diventare. Quando architettura, documentazione, ricerca e spiegazioni di un sistema AI sono disperse o si confondono con lo stato operativo."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Organizzare la conoscenza di un sistema AI
+# Maintain Kernel Knowledge
+
+**Organizzare la conoscenza di un sistema AI**
 
 Conserva significato, ragioni e direzione del sistema per chi deve comprenderlo e farlo evolvere.
 
@@ -53,14 +52,6 @@ La conoscenza si evolve dalle fonti e dalle conseguenze. Conserva la genealogia 
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

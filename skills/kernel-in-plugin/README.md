@@ -1,58 +1,91 @@
-# Portare un kernel semantico in un plugin AI
+# Kernel Plugin Incarnation
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**Bring a semantic kernel into an AI plugin**
 
-Forma l’incarnazione del kernel nel plugin e ne mantiene riconoscibili confini, mezzi, installazione, uso e apprendimento.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Quando una capacità deve diventare un plugin installabile o passare a un ecosistema diverso.
+Forms the kernel’s plugin incarnation while keeping its methods, tools, installation, use and learning connected.
 
-## Primo incarico
+## When to use it
 
-«Questa è la capacità che voglio rendere utilizzabile come plugin e questo è l’ambiente destinatario. Comprendi quale lavoro deve consentire, quali strumenti sono già disponibili e quale forma serve. Prepara il primo caso utilizzabile e conserva le ragioni delle scelte e i limiti ancora da osservare.»
+When a capability needs an installable plugin form or must move to a different AI ecosystem.
 
-## In chat
+Bringing a capability into a plugin means preserving the knowledge that makes it useful and connecting it to the recipient environment’s actual means.
+This resource helps decide what belongs in the method, what needs a tool and how use should change the next incarnation.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Connect the capability to the recipient’s work
 
-## Senza un kernel
+Reach the source method and use case, then consult current provider contracts for the technical choices that matter.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Compose instructions, tools and interface
 
-## Comprendere la capacità
+Instructions carry the method, integrations provide data and actions, and the interface supports the user’s decisions.
 
-La relazione meta riguarda il passaggio dalla capacità al prodotto operativo. Il plugin resta una forma del kernel nel ricevente, con propri mezzi e stato.
+### Correct the cause of the friction
 
-La relazione autologica emerge quando la competenza di trasferimento diventa oggetto del proprio lavoro: un criterio d’integrazione può essere corretto da ciò che accade nel ricevente.
+Distinguish discovery, method, source freshness, access and authority before changing the capability.
 
-Un pacchetto aggiornato, un’installazione, un uso e un apprendimento continuativo sono risultati differenti. Il ritorno autopoietico riguarda il metodo che cambia la prossima incarnazione; non implica un aggiornamento automatico degli account.
+### Preserve knowledge beyond local plugin state
 
-## File del kit
+Distinguish package files, local plugin data and the project’s durable source. Check their lifecycle in the recipient and preserve irreplaceable knowledge outside locations that may be removed.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+## Meta and autological relations
 
-## Osservare il primo uso
+The meta relation concerns the passage from a capability to an operating product. A plugin remains an incarnation in a recipient environment, with its own means and state.
 
-Dopo la preparazione, osserva un caso nel ricevente scelto. Verifica separatamente che il pacchetto sia riconosciuto, che il metodo possa essere raggiunto e che il lavoro produca l’effetto dichiarato. Quando emerge un attrito, identifica la relazione causale prima di cambiare il componente. Se il plugin conserva stato locale, osserva che cosa il contratto del ricevente mantiene dopo aggiornamento o disinstallazione e conserva altrove l’unica copia del sapere non ricostruibile.
+The relation becomes autological when the transfer competence enters its own work: an integration criterion can change through what the recipient reveals.
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+An updated package, an installation, an exercise and sustained learning are different results. Autopoietic return changes the method of the next incarnation; it does not automatically update accounts.
 
-## Origine e seguito
+## Use in your environment
 
-Risorsa MAIOS derivata da Kernel Plugin Incarnation. Conserva il metodo di traduzione fra capacità semantica, prodotto e ricevente. I dettagli di formato e installazione dipendono dalla documentazione ufficiale del provider scelto; questo kit non dichiara compatibilità specifiche o installazioni già eseguite.
+### In a chat
 
-Mantieni le ragioni della forma scelta e ciò che l’uso ha realmente mostrato. Ogni lezione raggiunge il metodo o il componente che dovrà comportarsi diversamente.
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-Le istruzioni pubbliche rimangono generiche rispetto ai provider, così la scelta concreta si fonda sui loro contratti correnti.
+### In an agentic environment
+
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
+
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- Decide which part belongs in instructions and which requires a tool.
+- Adapt a capability to a receiving environment.
+- Use a discovery problem to improve the next plugin incarnation.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+Retain why the form was chosen and what use actually showed. Each lesson returns to the method or component that must behave differently.
+The public instructions remain provider-neutral so concrete integration choices can use current official contracts.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

@@ -109,7 +109,7 @@
     "use": [
       {
         "title": "In a chat",
-        "body": "Paste or attach AVVIO_CHAT_IT.txt and add your context. It includes the complete Italian method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+        "body": "Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
       },
       {
         "title": "In an agentic environment",

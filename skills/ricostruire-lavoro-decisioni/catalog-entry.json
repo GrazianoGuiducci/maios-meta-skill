@@ -1,16 +1,16 @@
 {
   "id": "ricostruire-lavoro-decisioni",
   "name": "D-ND Material Work Continuity",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "09",
   "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
   "guide": "skills/ricostruire-lavoro-decisioni/README.md",
-  "starter": "skills/ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt",
-  "examples": "skills/ricostruire-lavoro-decisioni/ESEMPI_IT.md",
+  "starter": "skills/ricostruire-lavoro-decisioni/START_CHAT_EN.txt",
+  "examples": "skills/ricostruire-lavoro-decisioni/EXAMPLES.md",
   "presentation": "skills/ricostruire-lavoro-decisioni/presentation.json",
-  "package": "dist/ricostruire-lavoro-decisioni-0.1.0.zip",
+  "package": "dist/ricostruire-lavoro-decisioni-0.2.0.zip",
   "it": {
     "route": "/risorse/ricostruire-lavoro-decisioni/",
     "title": "Ricostruire il lavoro e le decisioni di un progetto AI",
@@ -39,5 +39,20 @@
       "Hand over a project with identifiable sources, effects and unresolved questions."
     ]
   },
-  "native_entry": "dnd-material-work-continuity"
+  "native_entry": "dnd-material-work-continuity",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/ricostruire-lavoro-decisioni/SKILL.md",
+      "guide": "skills/ricostruire-lavoro-decisioni/README.md",
+      "starter": "skills/ricostruire-lavoro-decisioni/START_CHAT_EN.txt",
+      "examples": "skills/ricostruire-lavoro-decisioni/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/ricostruire-lavoro-decisioni/SKILL_IT.md",
+      "guide": "skills/ricostruire-lavoro-decisioni/README_IT.md",
+      "starter": "skills/ricostruire-lavoro-decisioni/AVVIO_CHAT_IT.txt",
+      "examples": "skills/ricostruire-lavoro-decisioni/ESEMPI_IT.md"
+    }
+  }
 }

@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Scrivere titoli e sottotitoli che fanno capire il contenuto
+# Classify Content With Taxonomic Titles And Descriptions
+
+**Scrivere titoli e sottotitoli che fanno capire il contenuto**
 
 Questa competenza forma titoli, sottotitoli e descrizioni che permettono al lettore di riconoscere il contenuto prima di aprirlo. Il nome orienta; il titolo identifica l’oggetto o la relazione; il sottotitolo aggiunge ciò che serve a distinguerne uso e contesto.
 
@@ -38,8 +40,6 @@ Un titolo corretto insegna quando una parola mancava, quando un termine era rumo
 
 Rivedi il risultato dal punto di vista di chi incontra il contenuto senza la chat d’origine. Questo controllo riguarda la comprensibilità dell’oggetto, non una promessa di efficacia commerciale.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

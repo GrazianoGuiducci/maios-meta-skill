@@ -1,16 +1,16 @@
 {
   "id": "avviare-nodo-ai",
   "name": "Incarnate Neutral Kernel Node",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "20",
   "skill": "skills/avviare-nodo-ai/SKILL.md",
   "guide": "skills/avviare-nodo-ai/README.md",
-  "starter": "skills/avviare-nodo-ai/AVVIO_CHAT_IT.txt",
-  "examples": "skills/avviare-nodo-ai/ESEMPI_IT.md",
+  "starter": "skills/avviare-nodo-ai/START_CHAT_EN.txt",
+  "examples": "skills/avviare-nodo-ai/EXAMPLES.md",
   "presentation": "skills/avviare-nodo-ai/presentation.json",
-  "package": "dist/avviare-nodo-ai-0.1.0.zip",
+  "package": "dist/avviare-nodo-ai-0.2.0.zip",
   "it": {
     "title": "Avviare un assistente AI con identità e continuità proprie",
     "kind": "Metacompetenza di trasferimento",
@@ -39,5 +39,20 @@
     "route": "/resources/avviare-nodo-ai/",
     "description": "Adapt shared capabilities to a new recipient while preserving its project, local state and learning."
   },
-  "native_entry": "incarnate-neutral-kernel-node"
+  "native_entry": "incarnate-neutral-kernel-node",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/avviare-nodo-ai/SKILL.md",
+      "guide": "skills/avviare-nodo-ai/README.md",
+      "starter": "skills/avviare-nodo-ai/START_CHAT_EN.txt",
+      "examples": "skills/avviare-nodo-ai/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/avviare-nodo-ai/SKILL_IT.md",
+      "guide": "skills/avviare-nodo-ai/README_IT.md",
+      "starter": "skills/avviare-nodo-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/avviare-nodo-ai/ESEMPI_IT.md"
+    }
+  }
 }

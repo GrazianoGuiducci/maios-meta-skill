@@ -1,38 +1,41 @@
 ---
 name: conservare-conoscenze-utili
-description: "Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla. Usare quando: Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere."
+description: "Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Conservare le conoscenze utili emerse nel lavoro con l’AI
+# Essential Condensate Preserver
 
-Questa competenza conserva una conoscenza breve senza perdere le ragioni che la rendono utile. Può nascere da una correzione, una scelta riuscita, una spiegazione o una possibilità che sarebbe difficile ricostruire.
+Preserve concise knowledge without losing the reasons that make it useful. It may arise from a correction, a successful choice, an explanation or a possibility that would be difficult to reconstruct.
 
-Il condensato mantiene l’essenziale disponibile finché viene approfondito, integrato, corretto o superato. La brevità serve il prossimo uso; il testo non diventa una legge permanente perché è stato salvato.
+The condensate keeps the essential relation available until it is deepened, integrated, corrected or superseded. Brevity serves the next use; saving a text does not make it a permanent law.
 
-## Riconoscere che cosa deve continuare
+## Recognize what should continue
 
-Comprendi il lavoro in corso e quale differenza cambierà una scelta futura. Una frase merita conservazione quando impedisce una perdita ricorrente, rende più comprensibile un oggetto, migliora il metodo o mantiene raggiungibile una possibilità. Non salvare per inerzia ogni conferma, stato momentaneo o formulazione equivalente. Una conoscenza ancora incerta può essere utile: conserva la domanda e il motivo per cui tenerla aperta, senza trasformarla in un fatto.
+Understand the work and the difference that will change a future choice. Preserve a formulation when it prevents recurring loss, clarifies an object, improves a method or keeps a possibility reachable. Do not retain every confirmation, temporary state or equivalent wording by inertia. Uncertain knowledge can be useful: preserve the question and why it should remain open without turning it into fact.
 
-## Conservare significato e condizioni
+## Preserve meaning and conditions
 
-Esprimi l’essenza con le parole necessarie a riusarla. Conserva la fonte, il contesto in cui vale, la ragione che cambia una scelta e ciò che resta ignoto. Se la formulazione dell’autore è parte del significato, mantienila accanto alla tua rielaborazione attribuita. Non trasformare un caso in un divieto universale. Per esempio, da un titolo incomprensibile può emergere la necessità di nominare il soggetto, non una regola che imponga la stessa lunghezza a tutti i titoli.
+Express the essence with the words needed to reuse it. Keep its source, context of validity, decision-relevant reason and remaining unknowns. When the author's wording carries meaning, retain it beside your attributed interpretation. Do not turn a case into a universal prohibition. An incomprehensible title may reveal the need to name its subject, rather than a rule imposing the same length on every title.
 
-## Collocare il sapere dove potrà agire
+## Place knowledge where it can act
 
-Individua il documento, la guida o la competenza che userà questa conoscenza. Integra il condensato nel luogo già adatto quando è autorizzato e raggiungibile; altrimenti consegna il testo con il suo uso e una destinazione proposta. Può bastare un paragrafo che conservi essenza, perché, quando usarla, fonte e condizione di revisione. Non aggiungere classificazioni o registri che non aiutano il seguito. In chat, rendi esplicito quale testo la persona deve salvare e riportare; un messaggio non prova memoria futura.
+Identify the document, guide or competence that will use this knowledge. Integrate it into the existing suitable location when authorized and accessible; otherwise return the text, its use and a proposed destination. A paragraph carrying the essence, why it matters, when to use it, source and revision condition may suffice. Add classifications or registers only when they help continuation. In a chat, identify what the person should save and bring back; a message does not prove future memory.
 
-## Integrare, rivedere e superare
+## Integrate, revise and supersede
 
-Quando il sapere entra nel metodo pertinente, collega il condensato a quel metodo invece di mantenere due istruzioni in competizione. Rivedilo se cambia la fonte, se una nuova conseguenza ne mostra un limite o se il suo uso produce una perdita. Superarlo richiede preservare le relazioni ancora utili, non soltanto una data più recente. Mantieni una possibilità come tale se manca ancora la condizione che la renderebbe operativa. La conservazione orienta il lavoro ma non autorizza invii, pubblicazioni o modifiche estranee al mandato.
+When knowledge enters the relevant method, connect the condensate to that method instead of maintaining competing instructions. Revisit it when the source changes, a consequence exposes a limit or its use causes loss. Supersession preserves still-useful relations; a newer date alone does not establish it. Keep a possibility as a possibility while its enabling condition is absent. Preservation can guide work without authorizing messages, publication or changes outside the assignment.
 
-## L’essenziale e il metodo che lo riconosce
+## The essential relation and the method recognizing it
 
-Il lavoro diretto produce un condensato riutilizzabile. La relazione meta compare quando quella conoscenza cambia una competenza o il modo con cui il sistema seleziona e organizza il proprio sapere.
+The direct work produces a reusable condensate. The meta relation appears when that knowledge changes a competence or the way the system selects and organizes its knowledge.
 
-L’autologica emerge se il metodo di condensazione osserva una propria perdita: per esempio, aveva conservato una regola e scartato l’eccezione che ne rendeva possibile l’adattamento. La correzione migliora il modo di condensare. Questa funzione non coincide con un archivio totale o con la memoria garantita di un modello.
+An autological relation emerges when condensation recognizes its own loss: it may have kept a rule but removed the exception that allowed adaptation. The correction improves condensation itself. This function is distinct from a complete archive or guaranteed model memory.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Durante l’uso, riconosci che cosa il testo ha permesso di capire e che cosa ha cancellato. Se la perdita è riusabile, modifica il criterio di conservazione e l’ingresso da cui il condensato viene recuperato.
+During use, recognize what the text made understandable and what it erased. If the loss is reusable, change the preservation criterion and the entry through which the condensate is recovered.
 
-La guida accumula soltanto le ragioni che cambiano il prossimo lavoro. Distingui una conoscenza disponibile da un caso successivo che mostra di averla usata; conserva anche un risultato invariato o un compromesso.
+The guide accumulates reasons that change later work. Distinguish available knowledge from a later case showing its use, and retain unchanged outcomes or tradeoffs honestly.

@@ -1,35 +1,85 @@
-# Conservare le conoscenze utili emerse nel lavoro con l’AI
+# Essential Condensate Preserver
 
-Trasforma una correzione o un’esperienza in un sapere breve, ritrovabile e aggiornabile.
+**Keep useful knowledge from AI work**
 
-**Versione 0.1.0 · istruzioni in italiano · presentazione italiana e inglese.**
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Cosa affidarle
+## What it does
 
-Riconosce quale conoscenza merita di continuare, ne conserva significato e contesto d’uso e indica dove integrarla o quando superarla.
+Recognises knowledge worth carrying forward, preserves its meaning and conditions of use, and identifies where to integrate or revise it.
 
-Quando una conversazione produce una regola utile o una correzione che non vuoi dover ripetere.
+## When to use it
 
-## Iniziare in chat
+Use it when a conversation produces a useful rule or correction that you do not want to have to repeat.
 
-Copia o allega [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), che include l’intero metodo, e completa il contesto finale con i tuoi materiali. Puoi conversare nella lingua che preferisci. Inizia da un caso reale: «Da questa correzione ricava ciò che sarà utile al prossimo lavoro, preservandone ragione, fonte e condizioni; indica dove conservarlo.»
+This competence preserves a concise piece of knowledge without losing the reasons that make it useful. It may arise from a correction, a successful choice, an explanation or a possibility that would be difficult to reconstruct.
+The condensate keeps the essential knowledge available until it is deepened, integrated, corrected or superseded. Brevity serves its next use; the text does not become a permanent law because it has been saved.
 
-Quando la chat non può salvare documenti, chiedi una restituzione completa da conservare e portare alla sessione successiva. La sola presenza del testo nella conversazione non garantisce memoria futura.
+## First use
 
-## Usarla in un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Metti la cartella in una posizione che l’assistente può leggere e indicagli [SKILL.md](SKILL.md). Collega i file del progetto e specifica dove conservare il sapere. Se l’ambiente ha un proprio meccanismo per le skill, usa il formato e l’ingresso che supporta; la semplice copia non dimostra scoperta o attivazione. Questo kit non installa integrazioni, account o scheduler.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente o da sola
+## Method
 
-Con un kernel, fai partecipare il metodo attraverso le guide e le competenze già pertinenti; conserva conoscenza e autorità del progetto ricevente. Senza kernel, il corpo completo è utilizzabile direttamente. Quando serve sapere specialistico, raggiungi le fonti e le capacità effettive del tuo ambiente.
+### Recognise what needs to continue
 
-## Metodo, esempi e apprendimento
+Understand the work in progress and which difference will change a future choice. A statement merits preservation when it prevents a recurring loss, makes an object more understandable, improves the method or keeps a possibility accessible. Do not save every acknowledgement, temporary state or equivalent formulation out of habit. Knowledge that is still uncertain can be useful: preserve the question and the reason for keeping it open without turning it into a fact.
 
-Il lavoro diretto produce un condensato riutilizzabile. La relazione meta compare quando quella conoscenza cambia una competenza o il modo con cui il sistema seleziona e organizza il proprio sapere.
+### Preserve meaning and conditions
 
-L’autologica emerge se il metodo di condensazione osserva una propria perdita: per esempio, aveva conservato una regola e scartato l’eccezione che ne rendeva possibile l’adattamento. La correzione migliora il modo di condensare. Questa funzione non coincide con un archivio totale o con la memoria garantita di un modello.
+Express the essence with the words needed to reuse it. Keep its source, the context in which it applies, the reason that changes a decision and what remains unknown. If the author's wording is part of the meaning, keep it alongside your attributed reworking. Do not turn one case into a universal prohibition. For example, an incomprehensible title may reveal the need to name the subject, rather than a rule requiring every title to have the same length.
 
-Gli [esempi](ESEMPI_IT.md) sono illustrativi. Il metodo può essere adattato agli esiti e alle correzioni del tuo lavoro; conserva il motivo della modifica e ciò che rimane da osservare. L’apprendimento qui riguarda guide, istruzioni e conoscenza accessibile, non un aggiornamento dei pesi del modello. Gli effetti esterni dipendono dal mandato e dagli strumenti effettivi.
+### Place knowledge where it can act
 
-Origine della raccolta: Graziano Guiducci · MAIOS.
+Identify the document, guide or competence that will use this knowledge. Integrate the condensate in the place already suited to it when that place is accessible and the change is authorised; otherwise deliver the text with its intended use and a proposed destination. A paragraph preserving the essence, why it matters, when to use it, its source and the condition for revision may be enough. Do not add classifications or registers that do not help the continuation. In chat, make clear which text the person should save and bring back; a message does not prove future memory.
+
+### Integrate, revise and supersede
+
+When the knowledge enters the relevant method, connect the condensate to that method instead of maintaining two competing instructions. Revise it if the source changes, a new consequence reveals a limit or its use causes a loss. Superseding it requires preserving relationships that remain useful, not merely carrying a more recent date. Keep a possibility as a possibility if the condition that would make it operational is still missing. Preservation guides the work but does not authorise sending, publication or changes outside the mandate.
+
+## Meta and autological relations
+
+The direct work produces a reusable condensate. A meta relation appears when that knowledge changes a competence or the way the system selects and organises its own knowledge.
+
+The autological relation emerges if the condensation method observes a loss of its own: for example, it preserved a rule and discarded the exception that made adaptation possible. The correction improves how it condenses knowledge. This function is not a complete archive or a guarantee of a model's memory.
+
+## Use in your environment
+
+### In a chat
+
+Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language.
+
+### In an agentic environment
+
+Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate.
+
+### With or without a kernel
+
+With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here.
+
+## Application examples
+
+- Preserve the criterion you use to approve quotations.
+- Turn an editorial correction into knowledge for later writing.
+- Keep a project lesson without storing the entire conversation.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+During use, recognise what the text made understandable and what it removed. If the loss reveals a reusable lesson, change the preservation criterion and the entry point through which the condensate is retrieved.
+The guide accumulates only the reasons that change the next piece of work. Distinguish available knowledge from a later case showing that it was used; also preserve an unchanged result or a trade-off.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

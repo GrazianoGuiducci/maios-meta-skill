@@ -1,42 +1,45 @@
 ---
 name: estrarre-idee-dalle-conversazioni
-description: "Distingue le parole dell’autore dalle risposte dell’assistente, elimina duplicazioni e rumore e organizza i concetti utili con il loro riferimento sorgente. Usare quando: Quando il sapere è disperso in chat, appunti o trascrizioni e vuoi ricavarne idee o metodi utilizzabili."
+description: "Separates the author's words from assistant output, reduces noise and duplication, and organises useful concepts with source references."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Estrarre le idee dell’autore dalle conversazioni con l’AI
+# Operator Concept Preserver
 
-Questa competenza recupera concetti, correzioni e intuizioni dell’autore da un corpus scelto di chat, appunti o trascrizioni. Mantiene raggiungibile la fonte e distingue ciò che la persona ha espresso da quanto l’assistente ha elaborato.
+Recover an author's concepts, corrections and insights from a selected corpus of conversations, notes or transcripts. Keep the source reachable and distinguish the person's expression from the assistant's elaboration.
 
-Lavora sul corpus effettivamente selezionato. La restituzione rende le idee utilizzabili per una ricerca, un progetto o una scrittura senza trasformare una sintesi del modello nella voce dell’autore.
+Work on the corpus actually selected. Make ideas usable for research, a project or writing without presenting a model's summary as the author's voice.
 
-## Comprendere il corpus e lo scopo
+## Understand the corpus and purpose
 
-Individua quali documenti, conversazioni, intervalli e persone sono nel lavoro richiesto. Comprendi se servono idee per un testo, requisiti, correzioni del metodo o una ricostruzione concettuale. Usa i materiali disponibili nell’ambiente autorizzato; un collegamento o il nome di una chat non equivale ad averne letto il contenuto. Se manca una parte, dichiarane la copertura e prosegui dove il materiale è sufficiente. Non estendere l’analisi ad archivi personali non selezionati.
+Identify the documents, conversations, time ranges and people included in the requested work. Understand whether the purpose is ideas for writing, requirements, method corrections or conceptual reconstruction. Use materials available within the authorized environment; a link or conversation title does not mean its contents have been read. State coverage when part is missing and proceed where the available material is sufficient. Do not extend the analysis to unselected personal archives.
 
-## Attribuire le parole prima di ricavarne il concetto
+## Attribute words before deriving concepts
 
-Riconosci autore, interlocutori e tipo di passaggio. Separa parole della persona, riassunti dell’assistente, testo citato, messaggi di strumenti e materiale allegato. Un semplice assenso non rende automaticamente dell’autore l’intera risposta precedente del modello. Conserva il riferimento che permette di riaprire il passaggio: file e posizione, identificatore o data quando disponibile. Leggi il contesto necessario a comprendere a che cosa si riferisce una correzione; non attribuire l’ultima formulazione a un momento in cui non era ancora presente.
+Recognize authors, participants and passage types. Separate the person's words, assistant summaries, quoted text, tool messages and attachments. Simple assent does not automatically make the entire preceding model answer the person's own statement. Keep a reference that reopens the passage: file and position, identifier or date when available. Read enough context to understand the object of a correction. Do not attribute the latest formulation to an earlier time when it did not yet exist.
 
-## Ridurre il rumore preservando il significato
+## Reduce noise while preserving meaning
 
-Raggruppa duplicazioni effettive e lascia fuori dalla restituzione operativa log, navigazione, conferme ordinarie e dati riservati non necessari. Non riscrivere le fonti per pulirle. Una ripetizione può chiarire un concetto o modificarne il significato: conserva quella differenza invece di deduplicare solo per somiglianza. Un’intuizione incompleta può meritare di restare aperta; l’assenza di una formulazione definitiva non autorizza a completarla con una tua tesi.
+Group actual duplicates and omit logs, navigation, routine confirmations and unnecessary private data from the working account. Do not rewrite the sources to clean them. Repetition may clarify or change a concept; preserve that difference instead of deduplicating by resemblance alone. An incomplete insight may deserve to stay open. The absence of a final formulation does not authorize completing it with your own thesis.
 
-## Formare una restituzione verificabile
+## Form an inspectable account
 
-Per ogni nucleo utile rendi riconoscibili il concetto, la fonte, la situazione a cui risponde e il possibile uso. Mantieni una citazione breve quando le parole sono decisive e separala dalla tua parafrasi. Attribuisci esplicitamente interpretazioni, collegamenti e possibili sviluppi proposti dall’assistente. Distingui una preferenza personale, un fatto di progetto e un metodo generalizzabile quando questo cambia il seguito; non assegnare livelli o importanza con un sistema fisso. I temi possono intersecarsi senza diventare categorie chiuse.
+Make each useful concept, source, responding situation and possible use recognizable. Keep a short quotation when wording is decisive and separate it from your paraphrase. Explicitly attribute interpretations, connections and possible developments proposed by the assistant. Distinguish a personal preference, project fact and generalizable method when that changes continuation; do not impose a fixed ranking system. Themes can intersect without becoming closed categories.
 
-## Far continuare le idee nel luogo pertinente
+## Let ideas continue in the relevant place
 
-Una correzione può cambiare una competenza, un requisito entrare nel progetto, un’intuizione alimentare una bozza. Collega ogni ritorno alla parte che dovrà usarlo. Una raccolta di idee non comporta pubblicazione, riscrittura dell’originale o approvazione dei contenuti derivati. Quando una citazione contiene dettagli privati, conserva la fonte nel suo ambiente e prepara soltanto la porzione necessaria al lavoro selezionato. La capacità di attribuzione deve accompagnare anche gli estratti che passeranno a un altro assistente.
+A correction may change a competence, a requirement enter a project or an insight inform a draft. Connect each return to the part that must use it. An idea collection does not imply publication, rewriting the original or approval of derived content. When a quotation contains private details, keep the source in its own environment and prepare only the portion needed for the selected work. Attribution must accompany extracts passed to another assistant too.
 
-## Dalla conversazione alla competenza
+## From conversation to competence
 
-Il lavoro diretto è l’estrazione attribuita. La relazione meta appare quando una correzione ricavata dal corpus modifica il modo di scrivere, ricercare o formare altre competenze.
+The direct work is attributed extraction. The meta relation appears when a correction recovered from the corpus changes writing, research or competence formation.
 
-La relazione è autologica quando l’estrazione riconosce che il proprio metodo stava sostituendo la voce dell’autore: per esempio attribuendogli una generalizzazione prodotta dal modello. Corregge allora sia l’estratto sia il criterio di attribuzione. La ricostruzione rimane limitata alle fonti realmente disponibili.
+The relation becomes autological when extraction recognizes that its own method was replacing the author's voice, for example by attributing a model-generated generalization to the author. Correct both the extract and attribution method. Reconstruction remains bounded by sources actually available.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Conserva nella guida del lavoro le decisioni di copertura, i riferimenti e le ambiguità che cambiano la lettura. Una correzione dell’autore può aggiornare l’estratto senza riscrivere ciò che era stato detto prima.
+Keep coverage decisions, references and interpretation-relevant ambiguities in the work guide. An author's correction can update an extract without rewriting what was said earlier.
 
-Restituisci il sapere alla competenza che deve agire diversamente. Una raccolta ben referenziata rende possibile controllare e usare i concetti; non certifica da sola completezza, originalità assoluta o assimilazione.
+Return knowledge to the competence that must act differently. A referenced collection makes concepts inspectable and usable; it does not by itself certify completeness, absolute originality or assimilation.

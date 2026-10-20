@@ -1,35 +1,89 @@
-# Scrivere titoli e sottotitoli che fanno capire il contenuto
+# Classify Content With Taxonomic Titles And Descriptions
 
-Rende riconoscibili soggetto, oggetto e contesto prima che il lettore apra un articolo o una scheda.
+**Write titles and subtitles that identify the content**
 
-**Versione 0.1.0 · istruzioni in italiano · presentazione italiana e inglese.**
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Cosa affidarle
+## What it does
 
-Dà al titolo l’identità del contenuto e al sottotitolo la relazione che manca: uso, situazione o contenuto concreto.
+Gives the title the identity of the content and lets the subtitle add the missing relation: use, situation or concrete subject matter.
 
-Quando i titoli sono generici, promozionali o comprensibili soltanto a chi conosce già la conversazione.
+## When to use it
 
-## Iniziare in chat
+Use it when titles are generic, promotional or understandable only to someone who already knows the conversation.
 
-Copia o allega [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), che include l’intero metodo, e completa il contesto finale con i tuoi materiali. Puoi conversare nella lingua che preferisci. Inizia da un caso reale: «Questo è il contenuto e questo è il lettore. Forma titolo e sottotitolo che identifichino l’oggetto e chiariscano il caso, preservando il significato.»
+This competence forms titles, subtitles and descriptions that allow readers to recognise the content before opening it. The name provides orientation; the title identifies the object or relationship; the subtitle adds what is needed to distinguish its use and context.
+It works on articles, cards, pages, documents, sections and filenames. Clarity comes from understanding the source, not from applying a promotional formula to every piece of content.
 
-Quando la chat non può salvare documenti, chiedi una restituzione completa da conservare e portare alla sessione successiva. La sola presenza del testo nella conversazione non garantisce memoria futura.
+## First use
 
-## Usarla in un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Metti la cartella in una posizione che l’assistente può leggere e indicagli [SKILL.md](SKILL.md). Collega i file del progetto e specifica dove conservare il sapere. Se l’ambiente ha un proprio meccanismo per le skill, usa il formato e l’ingresso che supporta; la semplice copia non dimostra scoperta o attivazione. Questo kit non installa integrazioni, account o scheduler.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente o da sola
+## Method
 
-Con un kernel, fai partecipare il metodo attraverso le guide e le competenze già pertinenti; conserva conoscenza e autorità del progetto ricevente. Senza kernel, il corpo completo è utilizzabile direttamente. Quando serve sapere specialistico, raggiungi le fonti e le capacità effettive del tuo ambiente.
+### Understand what is being named
 
-## Metodo, esempi e apprendimento
+Read the content and its sources sufficiently to identify the actual subject, object and relationship. Consider what the reader already knows and which concrete reference is missing. Preserve a proper name or approved title when it must remain exact; add the necessary description rather than silently changing its identity. If the content is not yet clear, return to the source: a catchy title does not resolve uncertainty about meaning.
 
-Il lavoro diretto è rendere comprensibile un header. La relazione meta compare quando una correzione cambia come la competenza editoriale riconosce e presenta gli oggetti nelle opere successive.
+### Give title and subtitle complementary functions
 
-La relazione autologica è presente quando questo stesso metodo si accorge di produrre titoli formalmente corretti ma ancora generici. Torna allora al contenuto e modifica il criterio di denominazione. Nessuna forma di titolo garantisce da sola attenzione, iscrizioni o altri risultati di distribuzione.
+The title places the content in a recognisable class and retains only the terms that sustain its identity. If it can be applied unchanged to unrelated objects, look for the missing reference. The subtitle adds the case, activity, dynamics or usefulness that distinguishes this page. Do not repeat the same sentence through synonyms. The pair should work for someone encountering the text for the first time, without requiring them to reconstruct the conversation that generated it.
 
-Gli [esempi](ESEMPI_IT.md) sono illustrativi. Il metodo può essere adattato agli esiti e alle correzioni del tuo lavoro; conserva il motivo della modifica e ciò che rimane da osservare. L’apprendimento qui riguarda guide, istruzioni e conoscenza accessibile, non un aggiornamento dei pesi del modello. Gli effetti esterni dipendono dal mandato e dagli strumenti effettivi.
+### Organise headings according to their surface
 
-Origine della raccolta: Graziano Guiducci · MAIOS.
+For the main title, use the identity of the page or its object; a proper name may be sufficient if the supporting line explains the context. Section headings form a map: each names an object, decision or relationship actually discussed. In cards used to choose a route, make the action and what the person receives visible within the relevant domain and context. A call to action names the available gesture after the page has clarified its meaning. Adapt the form without turning these roles into a scheme to repeat mechanically.
+
+### Keep name and content coherent
+
+The opening and body should confirm the subject identified by the header. A title does not introduce a benefit, level of maturity or effect unsupported by the source. When the work is a text correction, change the selected content while preserving the structure and functions not involved; if a different structure becomes necessary, make that difference recognisable. In translations, preserve identity, relationship, action and scope even when the syntax changes.
+
+### Make documents and resources retrievable
+
+For a persistent artefact, connect the readable name, description, path and state. A useful name contains the object or relationship a person will search for; date and version distinguish states without replacing identity. Labels such as type and domain can help orientation, but they do not describe every capability. A local classification does not automatically become a taxonomy of the whole system. The name does not confer authority: the content and its source support what it claims.
+
+## Meta and autological relations
+
+The direct work is to make a header understandable. A meta relation appears when a correction changes how the editorial competence recognises and presents objects in subsequent works.
+
+The autological relation is present when this same method notices that it produces titles which are formally correct but still generic. It then returns to the content and changes its naming criterion. No title form alone guarantees attention, subscriptions or other distribution results.
+
+## Use in your environment
+
+### In a chat
+
+Copy or attach START_CHAT_EN.txt and add your working context. It includes the complete method in English. Keep the useful return for the next session; the assistant may converse in your language.
+
+### In an agentic environment
+
+Make the resource folder readable to the assistant, point it to SKILL.md, and choose the project documents that will carry continuity. Tools and actions depend on the actual environment and mandate.
+
+### With or without a kernel
+
+With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here.
+
+## Application examples
+
+- Correct an article title without changing its subject.
+- Make a product card understandable at first encounter.
+- Organise document titles and names so they can be found in a project.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+A corrected title teaches when a word was missing, when a term was noise and which distinction the reader needed to perceive. Preserve that reason in the method, with an attributed or illustrative example useful to the next use.
+Review the result from the perspective of someone encountering the content without the originating chat. This check concerns the comprehensibility of the object, not a promise of commercial effectiveness.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

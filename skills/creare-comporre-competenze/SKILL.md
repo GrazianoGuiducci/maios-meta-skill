@@ -1,50 +1,55 @@
 ---
 name: creare-comporre-competenze
-description: Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.
+description: "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Creare e comporre competenze per un sistema AI
+# Meta_Skill Semantic Kernel
 
-## Il lavoro generativo
+## Generative work
 
-Riconosci, riusa, componi, forma e fai evolvere le competenze che possono cambiare il lavoro presente. Parti dall’intenzione, dalle fonti e dalle capacità già disponibili, lasciando che una nuova conoscenza cambi anche la domanda. Una competenza è un sapere operativo: permette di comprendere una situazione, scegliere come agire e usare ciò che accade. Il suo file è una forma d’accesso, non l’intera capacità.
+KA, Kernel Assiomatico, is a semantic kernel; metacompetences are its operating faculties. Meta_Skill operates on this competence field. Do not reduce KA to a substrate under a separately conceived Meta_Skill kernel.
 
-Comprendi ciò che il destinatario deve poter fare, perché e in quali condizioni. Un risultato utile, un esempio, un insegnamento, una memoria, un errore o una possibilità possono alimentare la formazione. Non occorre prima diagnosticare un difetto. Mantieni aperte le relazioni che il contesto caricato non rappresenta ancora, preservando le determinazioni effettivamente emerse.
+Recognize, reuse, compose, form and evolve competences that can change present work. Begin from intent, sources and available capabilities, allowing new knowledge to change the question too. A competence is operating knowledge for understanding a situation, choosing action and using consequences. Its file is an entry, not the entire capability.
 
-## Dal sapere alle decisioni
+Understand what the recipient should be able to do, why and under which conditions. A useful result, example, teaching, memory, error or possibility can inform formation; diagnosing a defect is not a prerequisite. Keep unrepresented relations reachable while preserving determinations actually reached.
 
-Leggi le fonti necessarie per comprendere il fare. Da un esempio ricava il rapporto tra scopo, condizioni, scelta e conseguenza, senza scambiare la forma visibile per il meccanismo. Un buon preventivo, per esempio, può insegnare come rendere confrontabili alternative e ipotesi: copiare soltanto le sue sezioni perderebbe quel rapporto. Un insegnamento può spiegare una scelta che l’esempio lascia implicita. La pratica in una situazione diversa può correggere entrambi.
+## From knowledge to decisions
 
-Trasforma questo sapere in metodo: che cosa osservare; quale differenza cambia una decisione; come costruire il risultato; quando adattare; quale conseguenza rende necessaria una revisione. Le domande servono a capire il caso, non sono campi obbligatori da compilare. Rendi raggiungibili ragioni e fonti decisive nella guida, così l’assistente può riformare il metodo quando cambiano le condizioni.
+Read sources needed to understand the doing. Derive the relation between purpose, conditions, choice and consequence from examples, without confusing visible form with mechanism. A useful cost estimate, for example, may teach how to make alternatives and assumptions comparable; copying its sections loses that relation. Teaching may explain a choice an example leaves implicit. Practice in another situation can correct both.
 
-## Riuso, composizione e formazione
+Make that knowledge operational: what to observe, which difference changes a decision, how to construct the result, when to adapt and which consequence calls for revision. These questions aid understanding rather than forming compulsory fields. Keep reasons and decisive sources in a reachable guide so changing conditions can reform the method.
 
-Se una competenza presente sa già svolgere il lavoro, falla partecipare. Se il sapere esiste ma non viene trovato, correggi il collegamento d’ingresso. Se manca una relazione operativa, approfondisci il metodo che deve possederla. Quando una capacità distinta richiede continuità propria, forma il corpo più piccolo che la rende utilizzabile.
+## Reuse, composition and formation
 
-Una composizione può far partecipare ricerca, analisi e scrittura allo stesso risultato. I contributi possono cambiare la domanda e il metodo, mantenendo le rispettive fonti. Non fissare in anticipo tutte le competenze, l’ordine o il numero dei passaggi. Una composizione temporanea può esaurirsi nel lavoro; una relazione condivisa che continua e apprende può giustificare una sede propria.
+Let an existing competent capability participate. Reconnect its entry when knowledge exists but is not found. Deepen the responsible method when an operating relation is missing. Form the smallest usable body when a distinct capability needs continuity of its own.
 
-Il corpo formato deve conoscere anche le condizioni che ne rendono utile l’azione. Non limitarti a dire «analizza bene» o «conserva il contesto»: insegna come una fonte, una contraddizione o una conseguenza modifica la scelta pertinente. Includi un ingresso riconoscibile, il sapere per agire e una guida per continuare. Se il risultato deve diventare una skill tecnica, applica il formato supportato dal ricevente senza lasciare che quel formato decida la capacità.
+Research, analysis and writing can contribute to one result, changing question and method while preserving their sources. Do not predetermine every competence, order or pass count. A temporary composition may end with the task; a continuing shared relation that learns may warrant its own location.
 
-## Applicare e riformare
+The formed method must know its enabling conditions. Do not merely instruct “analyze well” or “preserve context”: teach how a source, contradiction or consequence changes the relevant choice. Include a recognizable entry, knowledge for action and a continuation guide. When a technical skill is needed, use the recipient's supported format without allowing format to determine capability.
 
-Usa il metodo nel lavoro reale selezionato. Mantieni collegati fonte, oggetto, significato, metodo e conseguenza mentre il risultato si forma. Se una sintesi ha cambiato il concetto dell’autore, recupera la relazione fedele prima di continuare. Se una nuova osservazione apre un’altra possibilità, lascia che modifichi la composizione. Una rappresentazione internamente coerente può avere perso il suo oggetto.
+## Apply and reform
 
-Quando l’esperienza cambia il saper fare, integra la differenza nella competenza che continuerà. Conserva la causa che cambia il prossimo uso, non soltanto il resoconto dell’errore. Più competenze possono ricevere differenze diverse dallo stesso evento. Una lezione del dominio non diventa automaticamente una regola generale.
+Exercise the method in selected real work. Keep source, object, meaning, method and consequence connected as the result forms. If a synthesis changed the author's concept, recover the faithful relation before continuing. Let new observations change composition when they open a different possibility. Internal coherence can coexist with loss of the object.
 
-## Il generatore come oggetto del proprio lavoro
+When experience changes know-how, integrate the difference into the competence that continues. Preserve the cause changing later use, not only an error report. Several competences may receive different changes from one event. A domain lesson does not automatically become a general rule.
 
-Anche questo metodo è una competenza. Se hai formato una skill copiando l’aspetto di un esempio e il nuovo caso mostra la perdita delle sue condizioni, cambia sia la skill sia il modo con cui estrai sapere dagli esempi. Questo ritorno è autologico: il generatore comprende e riforma il proprio fare nello stesso campo. È autopoietico quando tale ritorno cambia la forma con cui potrà generare e lavorare ancora.
+## The generator as an object of its own work
 
-I livelli meta seguono l’oggetto: svolgere un preventivo, formare la capacità di preparare preventivi, migliorare come si formano quelle capacità. Non sono un rango fisso o una misura di qualità. L’autonomia riguarda invece quali azioni l’ambiente può svolgere senza intervento nel mandato ricevuto.
+This method is itself a competence. If formation copied an example's appearance and another case exposes lost conditions, change both the skill and the method extracting knowledge from examples. That return is autological: the generator understands and reforms its doing in the same field. It is autopoietic when it changes the form through which further generation and work become possible.
 
-Conserva la comprensione acquisita prima che la perdita di contesto la renda irraggiungibile. Al rientro leggi il presente e le ragioni ancora valide, senza reinstallare la conclusione precedente come verità immutabile. Continua finché una nuova differenza cambia il lavoro; se un’altra rilettura aggiunge soltanto procedura, procedi dal risultato sufficiente.
+Meta levels follow the object: preparing a cost estimate, forming the capability to prepare cost estimates, improving how those capabilities are formed. They are not a fixed rank or quality measure. Autonomy concerns actions the environment can perform within its entrusted mandate without intervention.
 
-## Uso e continuità nel ricevente
+Preserve acquired understanding before context loss makes it unreachable. At reentry, reach the present and still-valid reasons rather than reinstalling an earlier conclusion as immutable truth. Continue while another difference changes the work; when rereading only adds procedure, proceed from the sufficient result.
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+## Use and continuity in the recipient
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Use actual means: supplied materials in chat, or files, tools and guides where available. Ask for missing context only when it changes the work. Preserve reasons, sources, learned differences and continuation in the project's actual location; without persistence, return a reusable note.
 
-## Natura e provenienza
+Instructions make knowledge available without updating model weights or proving stable learning. Distinguish available method, actual use and later observed behavior. Accounts, tools and authority over publication, sending, installation and distribution depend on the actual environment and mandate.
 
-Edizione pubblica del nucleo generativo Meta_Skill, nella relazione con KA e FDLA. Trasferisce il metodo di formazione e composizione, incluse le acquisizioni sulla formazione da opere, insegnamenti e pratica. Non costituisce una copia dello stato di un nodo MAIOS o una garanzia di autoapprendimento del modello.
+## Nature and provenance
+
+Public adaptation of the generative Meta_Skill kernel in its relation with KA and FDLA, including formation from works, teaching and practice. It transfers a formation and composition method rather than a particular node's state or a guarantee of model self-learning.

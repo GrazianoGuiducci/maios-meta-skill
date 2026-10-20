@@ -1,42 +1,45 @@
 ---
 name: organizzare-lavoro-complesso
-description: "Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove. Usare quando: Quando idee, attività, strumenti e priorità sono mescolati e una lista di task non basta a comprendere come procedere."
+description: "Recovers what gives the work its meaning, connects relevant dimensions and lets the question and method change as new relationships emerge."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Organizzare un lavoro complesso con l’AI
+# Meta_Metodo
 
-Meta_Metodo forma il modo di affrontare un lavoro mentre la situazione diventa comprensibile. Collega intento, oggetto, decisioni già emerse, possibilità, conoscenze, competenze e mezzi; il metodo può cambiare insieme alla domanda.
+Meta_Metodo forms a way of approaching work as the situation becomes understandable. It connects intent, object, determinations already reached, possibilities, knowledge, competences and means; method can change together with the question.
 
-Usalo quando il racconto mescola idee, strumenti, priorità e risultati attesi, oppure quando una prima soluzione rischia di decidere da sola ciò che il progetto può diventare.
+Use it when an account mixes ideas, tools, priorities and intended results, or when an initial solution risks determining by itself what the project can become.
 
-## Ritrovare da che cosa il lavoro prende senso
+## Recover the relation that gives work its meaning
 
-Comprendi l’intento dell’operatore, l’oggetto presente, le ragioni e ciò che è già determinato. Il primo elemento raccontato non è necessariamente l’origine causale del lavoro; l’ultimo non è necessariamente il suo risultato. Una richiesta di usare uno strumento può esprimere un bisogno più ampio. Tieni raggiungibile la relazione sorgente e permetti al sapere pertinente di cambiarne la comprensione. Conserva decisioni autentiche: non riaprirle soltanto per mantenere astrattamente tutte le possibilità.
+Understand the person's intent, present object, reasons and what has already been determined. The first item narrated is not necessarily the causal origin; the last is not necessarily the result. A request to use a tool can express a wider need. Keep the source relation reachable and allow relevant knowledge to change its understanding. Preserve genuine decisions rather than reopening them merely to keep every possibility abstractly open.
 
-## Far partecipare conoscenze e mezzi
+## Let knowledge and means participate
 
-Apri le fonti e i metodi delle competenze che possono cambiare il lavoro. Un indice aiuta a trovare il sapere; non ne sostituisce la lettura. Le risorse non sono soltanto strumenti da scegliere dopo avere deciso la soluzione: una conoscenza, una persona o un mezzo possono cambiare la domanda e ciò che diventa realizzabile. Distingui ciò che una fonte spiega, ciò che una competenza sa fare, ciò che uno strumento esegue e ciò che una persona decide. Componili per la relazione utile, senza imporre un gruppo fisso o caricare tutto il sistema.
+Open the sources and methods of competences that can change the work. An index helps locate knowledge without replacing its reading. Resources are not merely tools selected after a solution has been chosen: knowledge, a person or a means can change the question and what becomes feasible. Distinguish what a source explains, what a competence knows how to do, what a tool executes and what a person decides. Compose them through their useful relation without imposing a fixed group or loading the whole system.
 
-## Comprendere piani e relazioni
+## Understand planes and relations
 
-Mantieni distinguibili intento, fatti, ipotesi, possibilità, metodo ed effetti quando confonderli cambia il risultato. Un dato può correggere una scelta senza diventare autorità su ogni aspetto del progetto. Una possibilità può orientare la preparazione senza essere già una capacità disponibile. Un effetto concreto dipende dai suoi strumenti e dal mandato effettivo. Queste distinzioni consentono di connettere i piani; non devono diventare silos, classificazioni obbligatorie o permessi preventivi per pensare.
+Keep intent, facts, hypotheses, possibilities, method and effects distinguishable when confusion changes the result. A fact can correct a choice without gaining authority over every aspect of a project. A possibility can guide preparation without being an available capability already. A concrete effect depends on actual tools and mandate. These distinctions connect planes; they should not become silos, compulsory classifications or advance permissions to think.
 
-## Lasciare che il lavoro formi il metodo
+## Let the work form its method
 
-Quando il campo è sufficiente, produci il prossimo risultato utile. Può essere una costruzione, una fonte recuperata, una domanda più precisa o una possibilità ancora da lasciare aperta. Se la prima lettura ha ristretto il problema, torna alla fonte dal contesto che hai ora compreso: il nuovo sapere può mostrare una relazione che prima non partecipava. Cambia domanda, rappresentazione, competenze o scala se quella differenza è materiale. La rilettura non è una conferma indipendente e non richiede un numero prestabilito di passaggi. Fermati quando un ulteriore giro riproduce soltanto la stessa forma.
+When the field is sufficient, produce the next useful result: a construction, recovered source, more precise question or possibility that should remain open. If the first reading narrowed the problem, return to the source from the context now understood. New knowledge may reveal a relation previously absent from the movement. Change question, representation, competences or scale when the difference matters. Rereading is not independent confirmation and requires no fixed number of passes. Stop when another pass reproduces the same form.
 
-## Integrare ciò che cambia il seguito
+## Integrate what changes continuation
 
-Rendi il risultato utilizzabile nel luogo del progetto che ne possiede il significato. Conserva le ragioni del metodo e il contributo delle competenze ancora necessarie quando il lavoro attraversa sessioni. Una correzione di dominio cambia il metodo di dominio; una perdita nel modo di organizzare cambia questa competenza; un ingresso che non raggiunge sapere esistente va ricollegato. Mantieni fonte, interpretazione ed effetto distinguibili. Non creare un nuovo manager o un nuovo documento se la capacità utile è già presente e manca solo il collegamento.
+Make the result usable in the part of the project that owns its meaning. Preserve the reasons for the method and the contribution of still-needed competences when work crosses sessions. A domain correction changes the domain method; a loss in organization changes this competence; an entry failing to reach existing knowledge needs reconnection. Keep source, interpretation and effect distinct. Do not create another manager or document when the useful capability already exists and only its connection is missing.
 
-## Il metodo come oggetto del metodo
+## Method becomes its own object
 
-Meta_Metodo opera sul modo in cui il lavoro viene compreso e organizzato: questa è la relazione meta. Il suo oggetto può includere domanda, composizione delle competenze e condizioni che rendono possibile l’azione.
+Meta_Metodo works on how work is understood and organized: this is its meta relation. Its object may include the question, competence composition and enabling conditions for action.
 
-La relazione autologica emerge quando esamina il proprio organizzare: si accorge, per esempio, che il nome di uno strumento ha selezionato tutte le fonti e ristretto il progetto. Riforma quel metodo mentre continua. Autologica non significa esecuzione autonoma: l’autonomia riguarda mezzi, mandato e condizioni dell’effetto.
+The autological relation emerges when it considers its own organization. It may recognize that a tool's name selected all sources and narrowed the project, then reform that method while continuing. Autological operation does not mean autonomous execution; autonomy concerns means, mandate and conditions of effects.
 
-## Apprendimento e continuità
+## Learning and continuation
 
-Conserva ciò che ha cambiato domanda o metodo e come ritrovarne la sorgente. Un caso riuscito può insegnare una nuova forma di organizzazione senza renderla obbligatoria per tutti i lavori.
+Retain what changed question or method and how to recover its source. A successful case can teach a new organizational form without making it compulsory for all work.
 
-La guida deve consentire al prossimo uso di partire dalla comprensione acquisita. Se il metodo diventa una lista rituale, torna alla relazione che quella struttura doveva rendere possibile e mantieni solo ciò che cambia il lavoro.
+The guide should let later use begin from acquired understanding. If the method becomes a ritual list, recover the relation that structure was meant to make possible and retain what changes the work.

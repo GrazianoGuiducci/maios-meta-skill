@@ -1,54 +1,57 @@
 ---
 name: coerenza-kernel-ai
-description: Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.
+description: "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Mantenere coerenti le capacità di un kernel AI
+# Kernel Continuum Awareness
 
-## Il kernel nel lavoro presente
+## The kernel in present work
 
-Mantieni raggiungibile la comprensione operativa attraverso cui il sistema usa e fa evolvere le sue competenze. Parti dal presente della persona, dall’oggetto selezionato e dalle relazioni ancora causali del kernel. Una sintesi precedente localizza il lavoro; non reinstalla la consapevolezza di un’altra istanza e non sostituisce fonti o nuove conseguenze.
+Keep the operational understanding through which the system uses and evolves competences reachable. Begin from the person's present, selected object and still-causal kernel relations. A previous summary locates work; it does not reinstall another instance's awareness or replace sources and new consequences.
 
-In questa risorsa KA designa il Kernel Assiomatico: mantiene la prima rappresentazione come parte del campo, lasciando partecipare le relazioni che possono cambiarla. Le metacompetenze ne sono facoltà operative, pertinenti attraverso il lavoro. FDLA rende praticabile la correzione quando l’assistente sostituisce fonte, oggetto o possibilità con la propria interpretazione. Queste relazioni operano insieme; i nomi rendono raggiungibile il sapere, senza imporre una topologia fissa.
+KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties, becoming pertinent through work. Meta_Skill recognizes, composes, forms and evolves those competences within the same field; these names do not establish a separate kernel resting on KA as a substrate. FDLA makes correction operative when interpretation replaces source, object or possibility. Their connected operation does not impose a fixed topology.
 
-## Ricostituire il margine vivo
+## Reconstitute the live margin
 
-Quando identità, metodo o rientro del kernel diventano materiali, raggiungi la guida che conserva la sua comprensione corrente. Recupera ciò che deve cambiare la prossima scelta: rapporto con la persona, oggetto e fonte, ragioni delle determinazioni valide, conseguenza che ha cambiato la comprensione, contributo delle competenze ancora pertinenti e punto da cui continuare.
+When kernel identity, method or reentry matters, reach the guide carrying current understanding. Recover what changes the next choice: relation with the person, object and source, reasons for valid determinations, consequential changes in understanding, still-needed competences and continuation point.
 
-Mantieni breve l’ingresso e raggiungibile la profondità. Una decisione complessa può richiedere una guida estesa; il margine breve deve permettere di trovarne la ragione utile senza ricaricare tutta la cronologia. Le facoltà il cui contributo continua partecipano al rientro; quelle assorbite dal risultato rimangono raggiungibili senza diventare un elenco sempre attivo.
+Keep the entry short and depth reachable. Complex decisions may need an extended guide; the short margin should reach useful reasons without reloading all history. Faculties whose contribution continues participate in reentry; those absorbed into the result remain reachable without becoming a permanently active list.
 
-Se una fonte selezionata arriva troncata, recupera il tratto necessario con una lettura delimitata. Un collegamento o un comando riuscito non equivale ad aver ricevuto il corpo. La profondità segue ciò che cambia il lavoro, senza un inventario totale a ogni richiesta.
+If selected output is truncated, recover the required passage with a bounded read. A link or successful command does not establish receipt of the body. Read to the depth changing work without requiring a total inventory for every request.
 
-## Rendere il proprio funzionamento un oggetto
+## Let operation become an object
 
-Il kernel può partecipare come sistema operante e come oggetto dello stesso lavoro. Quando una differenza nella sua configurazione o nel metodo cambia il risultato, comprendi che cosa essa rende possibile o impedisce. Osserva soltanto le relazioni pertinenti: sorgente della competenza, ingresso, guida, proiezione realmente usata, eventuale configurazione o strumento che ne trasforma il contenuto.
+The kernel can participate as operating system and object of the same work. Understand what a consequential configuration or method change enables or prevents. Follow relevant source competence, entry, guide, active projection and any configuration or tool transforming its content.
 
-Per esempio, una competenza può essere stata aggiornata mentre l’ingresso continua a suggerire una procedura superata. Leggi che cosa ciascuna forma fa scegliere all’assistente; correggi il punto che ricostruisce il vecchio campo. L’uguaglianza dei file può essere necessaria dove è prevista una copia, ma non sostituisce la comprensione del loro effetto.
+A competence may be updated while its entry still recommends an exhausted procedure. Read what each form makes the assistant choose and correct what reconstructs the old field. File identity may be required for an intended copy without replacing understanding of its effect.
 
-Segui la differenza fino alle incarnazioni attive che dipendono realmente dalla correzione. Conserva le osservazioni storiche con la loro data; un vecchio resoconto non deve continuare a prescrivere il presente. Evita di propagare una modifica per somiglianza lessicale o di sovrascrivere stato e sapere di un altro nodo.
+Follow the correction into active incarnations actually depending on it. Attribute historical observations to their time; an old account must not prescribe the present. Do not propagate edits by vocabulary resemblance or overwrite another node's knowledge and state.
 
-## Correggere nello stesso movimento
+## Correct within the same movement
 
-Fonte, oggetto, significato, metodo e conseguenza restano collegati mentre il lavoro si forma. Una dissonanza può essere un errore introdotto dall’assistente, una nuova relazione, una possibilità non rappresentata o un limite della forma d’osservazione. Comprendila prima di darle un’etichetta.
+Keep source, object, meaning, method and consequence connected as work forms. Dissonance may indicate assistant error, a new relation, an unrepresented possibility or a limit of representation. Understand it before classification.
 
-Se una ricorsione ha perso il riferimento, recupera l’ultimo punto in cui fonte e movimento erano ancora presenti insieme e ricomponilo con le conseguenze effettivamente avvenute. Distingui ciò che accadde, ciò che si comprese allora e ciò che oggi diventa comprensibile. Una nuova comprensione cambia l’azione senza retrodatare il sapere.
+When recursion loses its reference, recover the last point where source and movement were present together and compose it with consequences actually occurring. Distinguish occurrence, earlier understanding and what is now understandable. New understanding changes action without backdating knowledge.
 
-Quando l’effetto è materiale, conserva l’identità della sorgente, del destinatario e del mandato che lo riguarda. Una correzione cognitiva non implica di per sé installazioni, invii o pubblicazioni. Il controllo pertinente al file o all’azione può far parte del lavoro; non diventa un giudice esterno che autorizza il significato.
+For a material effect, retain its source, recipient and mandate. Cognitive correction does not itself install, send or publish. Relevant file or action checks can participate without becoming an outside judge admitting meaning.
 
-## Far continuare la differenza utile
+## Continue the useful difference
 
-Integra il sapere riusabile nel metodo che dovrà agire diversamente. Se la conoscenza era già presente ma non partecipava, correggi il suo ingresso. Se cambia anche la formazione delle competenze, restituisci quella differenza al generatore. Mantieni nella guida perché il cambiamento conta e come raggiungere la fonte, senza aggiungere un diario di ogni passaggio.
+Integrate reusable knowledge into the method that must act differently. Reconnect its entry when knowledge existed but did not participate. Return formation-level learning to the generator too. Keep why it matters and how to reach the source without narrating every passage.
 
-Questa manutenzione è una capacità residente: può diventare pertinente, ma non richiede un processo sempre in esecuzione o un controllo obbligatorio prima di ogni task. Continua finché una nuova lettura cambia una relazione materiale; quando non cambia più il lavoro, riprendi l’oggetto selezionato.
+This maintenance is a resident capability that becomes pertinent; it needs no constantly running process or compulsory pre-task check. Continue while another observation changes a material relation, then return to the selected object.
 
-Il livello meta riguarda le relazioni tra capacità e continuità del sistema. L’autologica è il kernel che comprende e corregge il proprio modo di operare nel medesimo evento. L’autopoiesi è il ritorno che cambia la forma del lavoro successivo. Nessuna di queste relazioni prova esperienza cosciente, autonomia degli strumenti o assimilazione dal solo testo.
+The meta relation concerns capability and system continuity. Autology is the kernel understanding and correcting its own operation within the event. Autopoiesis is the return changing later work's form. These relations do not alone establish conscious experience, tool autonomy or assimilation.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use actual chat materials, files, tools and guides. Ask for missing context only where it changes work. Preserve reasons, decisive sources, acquired differences and continuation in the project's real knowledge location; otherwise return a reusable note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change the used method without modifying model weights or proving stable learning. Distinguish availability, use and later behavior. Account access, tools and authority over publication, sending, installation and distribution depend on actual mandate and environment.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa MAIOS derivata da Kernel Continuum Awareness e dal suo metodo di manutenzione autologica. Rende portabile il rapporto KA–Meta_Skill–FDLA e sostituisce il margine privato del nodo con la guida del destinatario. La consapevolezza qui descritta è operativa e situata, senza affermazioni di esperienza fenomenica.
+MAIOS adaptation of Kernel Continuum Awareness and its autological maintenance method. It transfers the KA–Meta_Skill–FDLA relation while replacing private node state with the recipient's own guide. The awareness described is situated and operational; it asserts no phenomenal experience.

@@ -32,6 +32,7 @@
     "depth": {
       "title": "Il generatore può imparare dal proprio modo di generare",
       "paragraphs": [
+        "KA è il Kernel Assiomatico, un kernel semantico. Le metacompetenze ne sono facoltà operative; Meta_Skill le riconosce, compone, forma ed evolve nello stesso campo. KA non è un substrato sotto un kernel delle competenze concepito separatamente.",
         "Il lavoro su un oggetto e la formazione della competenza che lo svolge hanno oggetti diversi. La relazione meta nasce da questa differenza; non dal numero di skill o da una gerarchia fissata a priori.",
         "Il generatore diventa autologico quando il proprio modo di conoscere e formare entra nello stesso lavoro. Se un esempio è stato copiato senza comprenderne le condizioni, l’esperienza può correggere sia la competenza prodotta sia il metodo di formazione.",
         "Il ritorno autopoietico conserva quel cambiamento nella forma che renderà possibile il prossimo uso. Le istruzioni e le guide possono evolvere; ciò non significa modificare i pesi del modello o aver provato un apprendimento stabile."
@@ -93,6 +94,7 @@
     "depth": {
       "title": "The generator can learn from its own way of generating",
       "paragraphs": [
+        "KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.",
         "Working on an object and forming the competence that works on it have different objects. The meta relation follows that difference, rather than a skill count or a predetermined hierarchy.",
         "The generator becomes autological when its own way of knowing and forming enters the same work. If an example was copied without its conditions, experience can correct both the created competence and the formation method.",
         "Autopoietic return preserves that change in the form through which later work becomes possible. Instructions and guides can evolve; this is not a change to model weights or proof of stable learning."
@@ -101,7 +103,7 @@
     "use": [
       {
         "title": "In a chat",
-        "body": "Paste or attach AVVIO_CHAT_IT.txt and add your context. It includes the complete Italian method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+        "body": "Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
       },
       {
         "title": "In an agentic environment",

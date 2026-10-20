@@ -13,7 +13,8 @@
     ],
     "intro": [
       "Un assistente può produrre un testo coerente e avere nel frattempo cambiato il significato della fonte, la domanda della persona o lo stato del lavoro.",
-      "FDLA rende operativa la correzione nel medesimo movimento. Recupera le relazioni ancora valide e usa ciò che le conseguenze permettono di comprendere, senza riscrivere il passato."
+      "FDLA rende operativa la correzione nel medesimo movimento. Recupera le relazioni ancora valide e usa ciò che le conseguenze permettono di comprendere, senza riscrivere il passato.",
+      "FDLA segue KA, Kernel Assiomatico semantico, nello stesso movimento; la correzione opera dall’interno del lavoro."
     ],
     "method": [
       {
@@ -74,7 +75,8 @@
     ],
     "intro": [
       "An assistant can produce a coherent text while changing the source’s meaning, the person’s question or the state of the work.",
-      "FDLA makes correction operative within the same movement. It recovers still-valid relations and uses what consequences make understandable without rewriting the past."
+      "FDLA makes correction operative within the same movement. It recovers still-valid relations and uses what consequences make understandable without rewriting the past.",
+      "FDLA follows KA, the semantic Kernel Assiomatico, within the same movement; correction operates inside the work."
     ],
     "method": [
       {
@@ -101,7 +103,7 @@
     "use": [
       {
         "title": "In a chat",
-        "body": "Paste or attach AVVIO_CHAT_IT.txt and add your context. It includes the complete Italian method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
+        "body": "Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation."
       },
       {
         "title": "In an agentic environment",

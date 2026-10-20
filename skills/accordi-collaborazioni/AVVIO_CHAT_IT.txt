@@ -1,9 +1,8 @@
----
-name: accordi-collaborazioni
-description: "Forma l’architettura dell’accordo a partire da parti, risultato atteso, scambi e dipendenze; la scrittura dà forma precisa a queste relazioni. Quando una collaborazione o un servizio devono diventare un accordo chiaro e le sole clausole standard non descrivono il lavoro."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Preparare accordi e collaborazioni con l’AI
+# Compose Agreement Contract
+
+**Preparare accordi e collaborazioni con l’AI**
 
 Rende espliciti oggetto, contributi, diritti, obblighi e scelte ancora da definire prima della stesura.
 
@@ -53,14 +52,6 @@ Il caso concreto può cambiare come riconoscere dipendenze e responsabilità. Co
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

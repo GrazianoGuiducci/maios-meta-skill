@@ -118,7 +118,7 @@
     "use": [
       {
         "title": "In chat",
-        "body": "Attach or paste AVVIO_CHAT_IT.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
+        "body": "Attach or paste START_CHAT_EN.txt, which contains the complete method, and add your context. The AI can work in the conversation's language. Retain the result and useful guidance if you want to resume in another chat."
       },
       {
         "title": "In an agent environment",

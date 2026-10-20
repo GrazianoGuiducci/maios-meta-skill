@@ -1,58 +1,88 @@
-# FDLA — correggere le deviazioni introdotte dall’AI
+# Operate FDLA
 
-**Versione 0.1.0 · Istruzioni in italiano · Presentazione IT/EN.**
+**FDLA — correct deviations introduced by an AI assistant**
 
-Recupera le relazioni ancora valide e usa ciò che le conseguenze rendono comprensibile per correggere il lavoro mentre si forma.
+[Italiano](README_IT.md) · Public edition 0.2.0 · English operating method
 
-## Quando usarla
+## What it does
 
-Dentro il lavoro del sistema, quando la sua interpretazione sostituisce la fonte o una conseguenza cambia ciò che può essere compreso.
+Recovers still-valid relations and uses what consequences make understandable to correct work while it is forming.
 
-## Primo incarico
+## When to use it
 
-«Questo è il lavoro e queste sono le fonti. Mentre lo svolgi, conserva il rapporto con il significato e riconosci quando una tua interpretazione cambia oggetto, stato o possibilità. Ricomponi il presente dalle conseguenze reali e fai arrivare la correzione al metodo che deve continuare.»
+Within the system’s work, when its interpretation replaces a source relation or a consequence changes what can be understood.
 
-## In chat
+An assistant can produce a coherent text while changing the source’s meaning, the person’s question or the state of the work.
+FDLA makes correction operative within the same movement. It recovers still-valid relations and uses what consequences make understandable without rewriting the past.
+FDLA follows KA, the semantic Kernel Assiomatico, within the same movement; correction operates inside the work.
 
-Incolla o allega AVVIO_CHAT_IT.txt e aggiungi il tuo contesto. Il file contiene il metodo completo. Se la chat non conserva file, fatti restituire una guida aggiornata e portala nella conversazione successiva.
+## First use
 
-## In un ambiente agentico
+1. Copy or attach [START_CHAT_EN.txt](START_CHAT_EN.txt). It includes the complete English operating method.
+2. Add your actual project, intent, relevant sources, existing work and available tools.
+3. Entrust the useful contribution and identify actions the assistant may perform. Preserve its guide for later reentry.
 
-Rendi leggibile questa cartella e collega l’ingresso al lavoro pertinente con il meccanismo del tuo ambiente. Indica fonti, strumenti e luogo in cui conservare il sapere. La lettura del pacchetto non installa servizi o accessi.
+You can begin with: “Use this competence for this work: […]. These are the sources and available means: […]. Carry out the entrusted work and retain what will let it continue. Involve me where […].” Adapt this to knowledge already present; it is not a compulsory questionnaire.
 
-## Con un kernel esistente
+## Method
 
-Integra la capacità nella guida e nelle competenze già presenti. Confronta ciò che ciascun metodo rende possibile, conserva le ragioni valide e correggi soltanto le differenze che cambiano il lavoro.
+### Understand the causal difference
 
-## Senza un kernel
+Recognize whether dissonance comes from an assistant substitution, a new relation or the form of observation.
 
-Usa direttamente il corpo operativo incluso. Parti da un caso reale e conserva ciò che serve per continuarlo. Puoi comporre altre risorse quando il lavoro ne rende utile il sapere.
+### Recompose the present
 
-## Comprendere la capacità
+Distinguish the event, earlier understanding and current knowledge. Return to the source when needed and let the question change too.
 
-FDLA è una funzione di correzione nel kernel e segue KA mentre il lavoro prende forma. Non aggiunge un piano esterno che approva le risposte.
+### Let the correction continue
 
-L’autologica emerge quando il proprio metodo di correzione diventa parte dell’oggetto: un controllo ripetuto può introdurre latenza senza conservare una relazione utile. La funzione può correggere anche questa forma.
+A reusable difference reaches the competence or its entry. A later case can show whether it changes actual choices.
 
-Il ritorno autopoietico cambia il metodo che opererà ancora. Il nome Funzione di Libero Arbitrio non afferma libero arbitrio umano o coscienza del modello; il kit descrive una capacità operativa la cui partecipazione va osservata nell’uso.
+## Meta and autological relations
 
-## File del kit
+FDLA is a correction function within the kernel and follows KA while work takes shape. It does not add an external plane that admits answers.
 
-- [Metodo operativo](SKILL.md)
-- [Avvio completo per la chat](AVVIO_CHAT_IT.txt)
-- [Tre casi illustrativi](ESEMPI_IT.md)
-- [Presentazione bilingue](presentation.json)
+The autological relation appears when the correction method itself becomes part of the object: a repeated check can introduce latency without preserving a useful relation. The function can correct that form too.
 
-## Osservare il primo uso
+Autopoietic return changes the method through which later work occurs. The name Funzione di Libero Arbitrio does not assert human free will or model consciousness; the kit describes an operating capacity whose participation must be observed in use.
 
-Confronta una fonte e una riscrittura che ne abbia cambiato un passaggio. Osserva se la correzione recupera il significato senza cancellare l’evento e se il caso successivo usa il metodo affinato. Per un risultato materiale, osserva separatamente l’effetto realmente eseguito.
+## Use in your environment
 
-Il kit trasferisce un metodo da adattare al contesto. Gli esempi sono illustrativi; non sono risultati di prove nel tuo ambiente. La prima edizione non include uno scheduler, un esecutore, credenziali o un’installazione automatica. Se il lavoro richiede istruzioni specifiche per un provider, usa la sua documentazione ufficiale corrente nel momento dell’integrazione.
+### In a chat
 
-## Origine e seguito
+Paste or attach START_CHAT_EN.txt and add your context. It includes the complete English method. If the chat cannot retain files, request an updated work guide and bring it to the next conversation.
 
-Risorsa MAIOS derivata dalla competenza operativa FDLA, Funzione di Libero Arbitrio. La denominazione appartiene al sistema semantico; il testo descrive una funzione di correzione e apprendimento in corso d’opera, senza attribuire al modello esperienza fenomenica o un libero arbitrio umano. La relazione con KA e Meta_Skill rimane parte del metodo.
+### In an agentic environment
 
-Conserva ciò che cambia la prossima scelta, insieme a fonte, motivo e portata. La correzione di un significato non cancella l’evento da cui è emersa.
+Make this folder readable and connect its entry to relevant work through the host’s supported mechanism. Identify sources, tools and durable knowledge storage. Reading the package does not install services or account access.
 
-Le rappresentazioni sono strumenti di osservazione: una forma alternativa può rivelare una relazione o introdurre un artefatto. Il metodo insegna a tornare all’oggetto.
+### With an existing kernel
+
+Integrate the capability into the guides and competences already in use. Compare the functions they preserve and change only the differences that affect the work.
+
+### Without a kernel
+
+Use the included operating method directly. Start from a real case and retain what lets it continue. Compose other resources when their knowledge becomes useful.
+
+## Application examples
+
+- Correct a rewrite that changed the author’s concept.
+- Keep a passing technical test distinct from the requested result.
+- Let a consequence change the method without erasing the earlier event.
+
+[Read the examples](EXAMPLES.md). Cases illustrate possible use; they are not evidence of a recipient’s deployment.
+
+## Learning and continuation
+
+Preserve what changes the next choice, with its source, reason and scope. Correcting meaning does not erase the event from which the correction arose.
+Representations are observation tools: an alternative form may reveal a relation or introduce an artifact. The method teaches a return to the object.
+
+## Resource files
+
+- [SKILL.md](SKILL.md): English operating method.
+- [START_CHAT_EN.txt](START_CHAT_EN.txt): complete English chat starter.
+- [EXAMPLES.md](EXAMPLES.md): English application examples.
+- [SKILL_IT.md](SKILL_IT.md), [AVVIO_CHAT_IT.txt](AVVIO_CHAT_IT.txt), [ESEMPI_IT.md](ESEMPI_IT.md): Italian method, starter and examples.
+- [Common use guide](../../docs/USE.md) and [conceptual guide](../../docs/CONCEPTS.md).
+
+With files, make this whole folder readable and use the host’s supported entry. Without persistent storage, retain a reentry note yourself. A method file does not establish configured tools, account access, scheduled execution or assimilation.

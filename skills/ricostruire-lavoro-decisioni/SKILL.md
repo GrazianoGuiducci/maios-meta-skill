@@ -1,50 +1,45 @@
 ---
 name: ricostruire-lavoro-decisioni
-description: "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati. Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale."
+description: "Keeps a trace of material events and distinguishes the person's source, the assistant's interpretation and observed effects."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Ricostruire il lavoro e le decisioni di un progetto AI
+# D-ND Material Work Continuity
 
-Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.
+Preserve original requests, actions, corrections and the present position without rewriting what happened. Keep material events connected and distinguish the person's source from assistant interpretations and observed effects.
 
-## Scopo e situazione
+Use this competence when requirements or direction change, or when a project’s present state needs causal reconstruction. A decision can change without erasing earlier events. Connect original request, AI interpretation, actual work and later correction. Keep detailed history reachable while the current entry contains what is needed to continue.
 
-Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati.
+## Preserve the source before its account
 
-Usa questa competenza: quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale.
+When a request, decision or correction materially changes work, preserve its original words or an exact accessible reference. Keep uncertainty and unusual wording. Attribute the assistant's summary and inferences separately. If the source is absent, identify what cannot be reconstructed rather than recreating a quotation from memory or a summary. Use the existing continuity location when suitable.
 
-Una decisione può cambiare senza cancellare ciò che è avvenuto prima. Questa competenza conserva il collegamento fra richiesta originale, interpretazione dell'AI, lavoro svolto e correzione successiva.
+## Follow events and effects
 
-Il risultato è una ricostruzione utilizzabile da chi riprende il progetto. La storia dettagliata resta raggiungibile; il punto corrente contiene quanto serve per continuare.
+Record events that change reconstruction: a source, AI proposal, evidenced action, correction, authorization change or decisive unknown. Connect each effect to its evidence and observation time. Preparing a file, sending it and receiving a reply are different facts. Retain the action that occurred even when its producing plan is later abandoned.
 
-## Conservare la fonte prima del racconto
+## Correct without rewriting the past
 
-Quando una richiesta, una decisione o una correzione cambia materialmente il lavoro, conserva le parole originali o un riferimento esatto alla fonte accessibile nel progetto. Mantieni incertezze e formulazioni insolite. Attribuisci separatamente il riassunto dell'assistente e le sue inferenze. Se la fonte manca, dichiara la parte non ricostruibile: non ricreare una citazione da un ricordo o da un riepilogo. Usa il luogo di continuità già presente quando è adeguato.
+A correction adds a relation to history: identify the interpretation or instruction superseded and the continuation changed. Do not erase the previous event or backdate later understanding. Revoking permission changes what can happen now without undoing an earlier effect. An AI summary cannot create authorization; retain the person's or responsible party's actual decision reference.
 
-## Seguire eventi ed effetti
+## Make the present reconstructable
 
-Registra soltanto gli eventi che cambiano la ricostruzione: una fonte, una proposta dell'AI, un'azione con riscontro, una correzione, un cambiamento delle autorizzazioni o un'incognita decisiva. Collega ogni effetto alla sua prova e al momento in cui è stato osservato. Un file preparato, un invio eseguito e una risposta ricevuta sono fatti diversi. Conserva l'azione effettiva anche se il piano che l'ha prodotta viene successivamente abbandonato.
+Keep a short entry connecting still-valid sources, decisions, completed effects, unknowns and the pertinent next movement. Detailed register and current entry have different functions. Use identified events and predecessor references when complexity requires them; attributed dated notes may otherwise suffice. At reentry, check that useful references are reachable and identify absent or changed material. Do not claim coverage of an unread source.
 
-## Correggere senza riscrivere il passato
+## Preserve work and improve reconstruction
 
-Una correzione aggiunge una nuova relazione alla storia: indica quale interpretazione o istruzione supera e quale seguito cambia. Non cancellare l'evento precedente né attribuire al passato una comprensione emersa dopo. La revoca di un permesso cambia ciò che si può fare ora, non annulla un effetto già avvenuto. Una sintesi dell'AI non può creare un'autorizzazione: conserva il riferimento alla decisione della persona o del responsabile effettivo.
+Write within the selected project while preserving concurrent contributions. If persistence is unavailable, prepare a note the person can retain. Do not build a universal diary. Exclude unrelated private data and secrets, including derived fingerprints. When reentry exposes causal loss, improve the continuity method so the next note supports better reconstruction rather than adding volume alone.
 
-## Rendere ricostruibile il punto corrente
+## Method depth
 
-Mantieni un ingresso breve che colleghi fonti ancora valide, decisioni, effetti compiuti, incognite e prossimo movimento pertinente. Il registro dettagliato e l'ingresso corrente svolgono funzioni diverse. Se la complessità lo richiede, usa eventi identificati e riferimenti ai predecessori; altrimenti bastano note attribuite e datate. Nel riprendere verifica che i riferimenti utili siano raggiungibili e segnala contenuti mancanti o cambiati. Non dichiarare copertura di una fonte non letta.
+This competence concerns material continuity: what happened and the sources it derives from. It does not alone determine a decision's meaning or the whole project's state.
 
-## Proteggere il lavoro e migliorare la ricostruzione
+The relation becomes meta when reconstruction failure changes preservation itself. A summary may have mixed proposal and approval; continuation makes both recognizable. This is distinct from autonomous execution, and a well-formed register does not establish infallible memory.
 
-Scrivi nel progetto selezionato e preserva contributi concorrenti; se la destinazione di persistenza manca, prepara una nota che la persona possa conservare. Non costruire un diario universale. Escludi segreti e dati privati estranei, senza conservarne impronte derivate. Quando una ripresa rivela una perdita causale, correggi il modo in cui la continuità viene mantenuta: la nuova nota deve permettere una ricostruzione migliore, non soltanto aggiungere volume.
+## Learning and continuation
 
-## Profondità del metodo
+A handoff reveals which connections suffice and which are missing. Retain the correction in continuity while leaving project choices with the responsible party.
 
-Questa competenza opera sulla continuità materiale: conserva che cosa è accaduto e da quali fonti deriva. Non decide da sola il significato di una scelta né lo stato complessivo del progetto.
-
-La relazione diventa meta quando un errore di ricostruzione cambia il metodo con cui si conserva il lavoro. Per esempio, un riepilogo aveva mescolato proposta e approvazione: il seguito rende riconoscibili entrambe. Non è autonomia esecutiva, e un registro ben formato non dimostra memoria infallibile.
-
-## Continuità e apprendimento
-
-Un passaggio di consegne mostra quali collegamenti sono sufficienti e quali mancano. Conserva la correzione nel metodo di continuità, lasciando le scelte di progetto al loro responsabile.
-
-Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+Begin with available context and sources. The method can operate in chat; persistence, tools and external actions depend on the recipient's actual means and mandate. Instructions make a capability usable; its behavior and value are observed in real work.

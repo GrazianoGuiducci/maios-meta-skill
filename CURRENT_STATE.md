@@ -1,39 +1,24 @@
-# MAIOS Meta-Skill — stato corrente
+# MAIOS Meta-Skill — current state
 
-## Identità delle competenze — 20 ottobre 2026
+## English primary edition 0.2.0 — 20 October 2026
 
-Il catalogo conserva ora i nomi originali delle competenze sorgenti, identici
-nelle pagine italiane e inglesi. I titoli funzionali rimangono tradotti e
-spiegano il lavoro affidabile alla risorsa. `native_entry` collega ciascuna
-risorsa all'ingresso sorgente; KA mantiene il nome del kernel fondativo.
-Questa correzione riguarda la presentazione: metodi, identificatori, percorsi
-e versione 0.1.0 restano quelli della raccolta. I pacchetti aggiornano i propri
-metadati di catalogo, senza riscrivere i corpi operativi.
+The 25 resources provide complete English operating methods, guides, starters
+and examples, with Italian counterparts. The catalogue identifies languages,
+original competence names and the public distribution version. Names remain
+unchanged between languages. Meta-Activity includes 18 English activity
+contexts and English references for function formation and self-management.
 
-## Raccolta delle 25 risorse — 20 ottobre 2026
+The source-led meaning review restores an explicit identity: KA is Kernel
+Assiomatico, a semantic kernel, and metacompetences are its operating faculties.
+Meta_Skill works on that competence field, rather than a separate kernel
+resting on KA as a substrate. FDLA performs causal correction inside the same
+movement. These explanations preserve the foundational sources; they do not
+rewrite their axioms.
 
-La raccolta comprende Meta-Activity e 24 nuove risorse formate dalle competenze sorgente. Il catalogo conserva il diverso contributo di competenze, metacompetenze, funzioni e fondamenti: KA e FDLA non vengono equiparati a un’attività applicativa. Ogni nuovo kit include corpo operativo autonomo, guida, avvio integrale, tre esempi illustrativi e presentazione IT/EN. Le istruzioni sono in italiano.
+Dependent pages and prepared editorial texts follow the reviewed resource.
+Source delivery, website deployment, controller configuration, publication and
+recipient use remain distinct observations. File correspondence establishes
+its own delivery property, not universal semantic correctness or assimilation.
 
-Le pagine dedicate descrivono cosa fa la risorsa e quando usarla, poi il metodo, la relazione meta e l’eventuale relazione autologica pertinente. [Concetti e relazioni](docs/CONCETTI.md) approfondisce il significato comune senza trasformarlo in una gerarchia numerica. Le quattro composizioni proposte dal riesame orientano i percorsi nel README; le risorse di questa edizione restano 25.
-
-Il catalogo e i pacchetti sono distribuiti insieme; il sito riceve un’unica revisione Git e ne conserva le impronte. Substack e social proiettano una risorsa al giorno tramite controller distinti. Pubblicazione della repository, deploy del sito, configurazione delle attività e invii editoriali conservano i propri riscontri negli owner; questo repository non crea scheduler.
-
-Il comportamento delle nuove risorse in un ricevente esterno resta da osservare. Controlli dei file, avvii, pacchetti e pagine riguardano la coerenza della distribuzione. I paragrafi sotto conservano la fase del primo caso.
-
-19 ottobre 2026.
-
-## Prima incarnazione pubblica
-
-Meta-Activity 0.1.0 è la prima risorsa della raccolta: una competenza per formare e far evolvere attività agentiche a partire dal contesto. Include comprensione della situazione, formazione delle funzioni, composizione o sviluppo delle competenze, uso dei mezzi, continuità, autogestione e apprendimento.
-
-La risorsa contiene corpo operativo, avvio autonomo in chat, guida, esempi e sapere di approfondimento. Il catalogo collega descrizioni e file della medesima versione. La presentazione MAIOS e i testi editoriali derivano dalla stessa risorsa.
-
-## Come prosegue la raccolta
-
-Il primo uso può correggere il metodo della risorsa. Conservare insieme situazione, esito osservato e ragione della modifica; distinguere una difficoltà di comprensione da una capacità che manca o da uno strumento non disponibile.
-
-Le altre metacompetenze non sono ancora incluse. Il [metodo di distribuzione](docs/DISTRIBUZIONE.md) permette di formarle singolarmente o in composizioni utili, senza assumere che tutte richiedano la stessa pagina o gli stessi file.
-
-## Portata delle verifiche
-
-La validazione del formato, dei collegamenti e del pacchetto dimostra la leggibilità e la coerenza dei file. L'esercizio nel ricevente, il comportamento di uno scheduler e l'apprendimento nei cicli successivi richiedono il proprio riscontro. Nessuna attività o connessione viene creata dall'apertura di questa repository.
+[Italian historical state](CURRENT_STATE_IT.md) · [Use](docs/USE.md) ·
+[Concepts](docs/CONCEPTS.md) · [Distribution](docs/DISTRIBUTION.md).

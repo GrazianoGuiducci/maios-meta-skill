@@ -1,9 +1,8 @@
----
-name: ricostruire-lavoro-decisioni
-description: "Mantiene una traccia degli eventi materiali e distingue la fonte dell’operatore dalle interpretazioni dell’assistente e dagli effetti osservati. Quando cambiano requisiti e direzione o serve ricostruire perché un progetto si trova nello stato attuale."
----
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Ricostruire il lavoro e le decisioni di un progetto AI
+# D-ND Material Work Continuity
+
+**Ricostruire il lavoro e le decisioni di un progetto AI**
 
 Conserva richieste originali, azioni, correzioni e punto attuale senza riscrivere ciò che è avvenuto.
 
@@ -49,14 +48,6 @@ Un passaggio di consegne mostra quali collegamenti sono sufficienti e quali manc
 
 Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
 
+## Il mio contesto e il lavoro affidato
 
-CONTESTO DEL MIO PRIMO USO
-
-Situazione e risultato desiderato: […]
-Fonti o documenti disponibili: […]
-Decisioni già prese e ragioni: […]
-Strumenti e luogo in cui conservare il lavoro: […]
-Azioni già autorizzate e persone coinvolte: […]
-Questioni ancora aperte: […]
-
-Applica il metodo a questa situazione. Usa le informazioni già presenti e chiedi solo ciò che cambia materialmente il lavoro. Restituisci il primo risultato utile e il punto da cui continuare.
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

@@ -1,6 +1,8 @@
-Applica questa competenza al lavoro che descrivo in fondo. Il testo seguente contiene il metodo operativo completo della risorsa, versione 0.1.0.
+Applica questa competenza al lavoro descritto in fondo. Il file contiene il metodo completo, edizione pubblica 0.2.0.
 
-# Trasformare una competenza interna in una risorsa pubblica
+# Formare risorse pubbliche dalle metacompetenze
+
+**Trasformare una competenza interna in una risorsa pubblica**
 
 Questa metacompetenza trasforma un saper fare interno in una risorsa che persone e assistenti esterni possono comprendere, avviare e adattare. Tiene insieme metodo trasferito, guida, primo uso, repository o altro luogo di distribuzione, pagina di presentazione e derivazioni editoriali.
 
@@ -38,8 +40,6 @@ Un problema di comprensione cambia la scheda o la spiegazione; una lacuna d’us
 
 Conserva fonte, ragione e conseguenza che miglioreranno la prossima risorsa. Una prima realizzazione rende il metodo disponibile e documenta il proprio caso; una diversa adozione successiva può mostrarne limiti e capacità.
 
-CONTESTO DA COMPLETARE
-Il mio lavoro e il risultato desiderato: […]
-Fonti o materiali che metto a disposizione: […]
-Mezzi e documenti disponibili per continuare: […]
-Decisioni già prese e indicazioni sugli effetti: […]
+## Il mio contesto e il lavoro affidato
+
+[Intento, progetto, fonti pertinenti, mezzi disponibili e azioni affidate.]

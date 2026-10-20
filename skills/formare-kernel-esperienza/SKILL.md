@@ -1,54 +1,57 @@
 ---
 name: formare-kernel-esperienza
-description: Fa diventare l’esperienza di costruzione e trasferimento sapere utile a formare un nuovo kernel e il metodo con cui lo si forma.
+description: "Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Formare un nuovo kernel AI attraverso l’esperienza d’uso
+# Proto Movimento
 
-## Oggetto della formazione
+## Object of formation
 
-Usa questa competenza quando l’esperienza di un ricevente deve contribuire alla formazione o al trasferimento di un kernel AI. Comprendi insieme la capacità sorgente, ciò che il destinatario incontra e il lavoro che deve diventare possibile. La risorsa nasce dal caso MAIOS Project Kernel e conserva una specializzazione: imparare dal rapporto fra nucleo, ingresso, mezzo di trasferimento e uso del ricevente.
+Let a recipient's experience contribute to forming or transferring an AI kernel. Understand source capability, the recipient's encounter and the work that should become possible together. This resource comes from MAIOS Project Kernel formation and retains a specialization: learning from relations between kernel, entry, transfer medium and recipient use.
 
-Il metodo generale di organizzare un lavoro complesso può accompagnare questo caso. Qui l’oggetto concreto rimane la formazione del kernel attraverso l’esperienza. Non assumere che una nuova domanda richieda un nuovo modulo, un nuovo livello o una riscrittura totale del prodotto.
+A general complex-work method can contribute, while kernel formation through experience remains the concrete object. Do not assume a new question requires a module, level or complete product rewrite.
 
-## Seguire la funzione nelle sue forme
+## Follow the function through its forms
 
-Una capacità può attraversare un corpo semantico, un descrittore, un tool che restituisce il testo, una guida iniziale e l’assistente che lo interpreta. Raggiungi le sorgenti che possono spiegare tale percorso, anche oltre il catalogo delle skill. Comprendi che cosa ciascuna forma rende possibile, quale relazione conserva e dove il significato viene ristretto.
+A capability may traverse a semantic body, descriptor, tool returning text, startup guide and interpreting assistant. Reach sources explaining that path beyond the skill catalogue. Understand what each form enables, preserves or narrows.
 
-Un resoconto del ricevente può segnalare un attrito reale e attribuirgli una causa inesatta. Conserva il segnale, poi confrontalo con la sorgente e con ciò che il ricevente ha realmente acquisito. Non trovare un termine in una ricerca non dimostra l’assenza della funzione; contare file non misura il sapere effettivamente ricevuto.
+A recipient report can reveal real friction while misattributing its cause. Preserve the signal and compare it with the source and knowledge actually received. Failure to find a term does not establish absence of its function; file counts do not measure transferred knowledge.
 
-Per esempio, il corpo del kernel può ammettere lavoro aperto mentre il descrittore iniziale chiede sempre di creare un progetto. Il problema non richiede automaticamente un nuovo nucleo: segui il punto in cui il destinatario riceve quella restrizione. Conserva la capacità sorgente e correggi la forma che cambia l’incontro con essa, quando l’intervento è selezionato.
+A kernel may allow open work while its startup descriptor always requests a project. Follow the point imposing that restriction instead of automatically forming another core. Preserve source capability and correct the form changing the encounter when intervention is selected.
 
-## Comprendere il nuovo con il patrimonio disponibile
+## Understand the new through existing knowledge
 
-Il ricevente porta anche sapere locale e ragioni delle sue scelte. Componi il contributo nuovo con quel patrimonio, preservando le relazioni ancora utili. Una copia prevista dal contratto richiede identità; una traduzione nell’ambiente richiede conservazione della funzione. Mantieni riconoscibili queste due forme di confronto.
+The recipient brings local knowledge and reasons. Compose the contribution with that knowledge while preserving valid relations. An intended copy requires identity; adaptation into a host requires preservation of function. Keep these comparisons distinguishable.
 
-Quando la lettura acquisisce solo un frammento, recupera la profondità omessa prima di concludere che la sorgente manca di metodo. Il mezzo di lettura può evolvere: un estratto indicizzato, il corpo nativo e una guida fanno vedere aspetti diversi. Lascia che ciò che apprendi cambi anche la domanda o le fonti che sembravano pertinenti.
+When reading acquires only a fragment, recover omitted depth before deciding the source lacks method. Reading mechanisms can evolve: indexed extracts, native bodies and guides reveal different aspects. Let learning change the question and apparently relevant sources too.
 
-Conserva ciò che è stato detto o osservato, la sua origine, ciò che significava nel caso e la differenza che cambia il movimento attuale. Una possibilità proposta dal ricevente, una funzionalità presente e un risultato osservato mantengono il proprio statuto.
+Preserve what was said or observed, its origin, case meaning and difference changing present work. A recipient proposal, present function and observed result retain distinct states.
 
-## Formare una capacità che può continuare a formarsi
+## Form a capability able to continue forming
 
-Il nuovo kernel deve poter comprendere il proprio lavoro, collegare conseguenze e ragioni e far evolvere la competenza pertinente. Quando trasferisci un metodo, rendi praticabile anche questo ritorno: dove conserva la conoscenza, come la raggiunge e quale scelta dovrà cambiare al prossimo caso.
+The new kernel should understand its work, connect consequences and reasons and evolve the pertinent competence. Make that return practicable: where knowledge persists, how it is reached and which later choice should change.
 
-Il sapere generativo può essere interno al kernel formato. Non occorre stabilire in anticipo un componente separato che governi tutti gli altri. Una o più competenze possono comprendere, comporre e far continuare l’apprendimento nelle forme richieste dal destinatario. Il mezzo che genera file viene scelto in funzione di ciò che deve consegnare, mantenendo distinta la capacità dal suo trasporto.
+Generative knowledge can be internal to the formed kernel. There is no need to predetermine a separate component governing all others. One or several competences can understand, compose and continue learning in the recipient's needed forms. Choose file-generation means for the intended delivery while distinguishing capability from transport.
 
-Una domanda, un successo o una possibilità possono far maturare il metodo prima che emerga un difetto. Segui ciò che cambia l’uso futuro, senza trasformare l’esperienza in una ricerca obbligatoria di errori. Quando una forma concreta emerge, realizzala nel perimetro selezionato e lascia che il suo risultato formi il campo successivo.
+A question, success or possibility can mature the method before a defect appears. Follow what changes later use without making experience an obligatory error hunt. When a concrete form emerges, realize it within the selected scope and let its result form the next field.
 
-## Comprendere la formazione mentre avviene
+## Understand formation as it occurs
 
-Anche la competenza che conduce questo lavoro partecipa come oggetto. Comprendi quale domanda stai formando, quali fonti e mezzi la rendono possibile e come il tuo criterio di trasferimento influenza ciò che il ricevente può sapere. Se il confronto limitato al compiler ti fa ignorare l’ingresso semantico, cambia subito il criterio e le fonti: una nota aggiunta dopo la consegna non ricostruisce la scelta perduta.
+The competence doing this work participates as an object too. Understand the question being formed, enabling sources and means, and how transfer criteria shape what the recipient can know. If compiler-only comparison hides the semantic entry, change sources and criterion within the work. A note added after delivery does not restore the lost choice.
 
-Porta la differenza al kernel in formazione quando ne cambia il metodo, e a questa competenza quando cambia come si forma un kernel. Sono ritorni distinti che possono nascere nello stesso evento. Conserva il perché nella guida del lavoro e usa il sapere nel seguito, senza moltiplicare testi che ripetono la stessa conclusione.
+Return a difference to the forming kernel when its method changes and to this competence when kernel formation changes. These are distinct returns possible within one event. Keep why in the work guide and use that knowledge next without multiplying equivalent conclusions.
 
-La relazione meta riguarda il sapere che forma il kernel; l’autologica riguarda quel sapere quando comprende e riforma se stesso. Il ritorno autopoietico cambia la capacità del prossimo movimento. La struttura del pacchetto e un controllo tecnico possono sostenere affermazioni precise; l’uso del destinatario rimane la sede in cui osservare la funzione trasferita.
+The meta relation concerns knowledge forming a kernel; the autological relation concerns that knowledge understanding and reforming itself. Autopoietic return changes the next movement's capability. Package structure and technical checks support precise claims; recipient use is where the transferred function is observed.
 
-## Uso e continuità nel ricevente
+## Use and continuity in the recipient
 
-Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
+Use actual chat materials, files, tools and guides. Ask only for missing context changing the work and proceed when a useful result is possible. Preserve reasons, decisive sources, acquired differences and continuation in the project's actual location; otherwise return a reusable note.
 
-Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
+Instructions can change method without modifying model weights or proving stable learning. Distinguish available knowledge, use and later behavior. Accounts, tools and authority over concrete effects depend on the actual environment and mandate.
 
-## Natura e provenienza
+## Nature and provenance
 
-Risorsa pubblica specializzata derivata da Proto Movimento, nato nel lavoro di formazione del MAIOS Project Kernel. Il metodo generale maturato nello stesso percorso è rappresentato separatamente da Meta_Metodo. Questo kit non è una nuova release del prodotto MAIOS e non trasferisce lo stato delle sue implementazioni.
+Specialized public adaptation of Proto Movimento, formed through MAIOS Project Kernel work. Meta_Metodo separately carries the general method developed along that path. This kit is not a new MAIOS product release and does not import implementation state.

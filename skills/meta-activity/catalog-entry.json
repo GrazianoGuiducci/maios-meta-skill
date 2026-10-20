@@ -1,0 +1,64 @@
+{
+  "id": "meta-activity",
+  "name": "Meta-Activity",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
+  "skill": "skills/meta-activity/SKILL.md",
+  "guide": "skills/meta-activity/README.md",
+  "starter": "skills/meta-activity/START_CHAT_EN.txt",
+  "examples": "skills/meta-activity/EXAMPLES.md",
+  "presentation": "skills/meta-activity/presentation.json",
+  "contexts": "skills/meta-activity/contexts.json",
+  "package": "dist/meta-activity-0.2.0.zip",
+  "it": {
+    "route": "/risorse/meta-activity/",
+    "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
+    "description": "Comprende l'intento, riconosce funzioni utili, compone o sviluppa competenze e organizza attività e servizi che possono continuare e migliorare.",
+    "type": "Metacompetenza",
+    "field": "Attività agentiche",
+    "what_it_does": "Crea attività programmate complesse, capaci di comprendere cosa fare e di evolvere.",
+    "when_to_use": "Quando vuoi affidare alla tua AI un lavoro ricorrente che richiede più azioni collegate, continuità e adattamento.",
+    "use_examples": [
+      "Cerca clienti, li contatta, monitora e notifica gli eventi.",
+      "Monitora il sistema e agisce secondo le istruzioni.",
+      "Gestisce campagne social e caselle email."
+    ],
+    "format": "Competenza · guida · avvio in chat · esempi",
+    "status": "Edizione pubblica · 0.2.0"
+  },
+  "en": {
+    "route": "/resources/meta-activity/",
+    "title": "Form and evolve AI activities from the context of your work.",
+    "description": "Understand intent, recognise useful functions, compose or develop competences, and organise activities and services that can continue and improve.",
+    "type": "Metacompetence",
+    "field": "Agentic activities",
+    "what_it_does": "Creates complex scheduled activities that can understand what to do and evolve.",
+    "when_to_use": "When you want to give your AI recurring work that needs connected actions, continuity and adaptation.",
+    "use_examples": [
+      "Finds clients, contacts them, monitors and notifies you of events.",
+      "Monitors the system and acts according to instructions.",
+      "Manages social campaigns and email inboxes."
+    ],
+    "format": "Competence · guide · complete chat starter · examples in English and Italian",
+    "status": "Public edition · 0.2.0"
+  },
+  "review_id": "00",
+  "native_entry": "meta-activity",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/meta-activity/SKILL.md",
+      "guide": "skills/meta-activity/README.md",
+      "starter": "skills/meta-activity/START_CHAT_EN.txt",
+      "examples": "skills/meta-activity/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/meta-activity/SKILL_IT.md",
+      "guide": "skills/meta-activity/README_IT.md",
+      "starter": "skills/meta-activity/AVVIO_CHAT_IT.txt",
+      "examples": "skills/meta-activity/ESEMPI_IT.md"
+    }
+  },
+  "contexts_en": "skills/meta-activity/contexts_en.json"
+}

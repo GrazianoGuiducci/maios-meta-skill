@@ -1,54 +1,49 @@
 ---
 name: presenza-prodotto-assistente
-description: "Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione. Quando un prodotto deve spiegarsi, un assistente rappresenta un servizio o più incontri devono mantenere la stessa identità."
+description: "Forms a recognizable presence connected to the real product: what it represents, knows, can do and how the relationship continues."
+metadata:
+  version: 0.2.0
+  language: en
 ---
 
-# Creare la presenza di un prodotto o di un assistente AI
+# Projectable Presence
 
-Collega identità, capacità e contesto d’incontro nel modo in cui il sistema si presenta e agisce.
+Form a recognizable presence connected to the real product: what it represents, what it knows, what it can do and how the relationship continues. Connect identity, capability and encounter context in how the system presents itself and acts.
 
-## Scopo e situazione
+Use this competence when a product needs explanation, an assistant represents a service or different encounters must preserve identity. Presence extends beyond name and tone. A visitor should understand the represented object, knowledge sources and available actions. One identity can be expressed differently in a page, conversation or service.
 
-Forma una presenza riconoscibile e collegata al prodotto reale: cosa rappresenta, cosa conosce, cosa può fare e come continua la relazione.
+## Begin from real identity
 
-Usa questa competenza: quando un prodotto deve spiegarsi, un assistente rappresenta un servizio o più incontri devono mantenere la stessa identità.
+Reach the represented product, service or organization and sources describing its present. Understand what the encounter should enable: orientation, support, adoption, contribution or a particular action. Do not begin by inventing a personality. Distinguish the product, its AI representative and the person directing its work. Copying a voice or avatar does not transfer identity or authority.
 
-La presenza di un assistente comprende più del nome o del tono. Chi lo incontra deve poter capire che cosa rappresenta, da quali fonti conosce il prodotto e quali azioni può svolgere.
+## Choose the needed presence
 
-Questa metacompetenza forma la relazione fra identità, capacità reali, contesto d'incontro e continuità. La stessa identità può esprimersi diversamente in una pagina, una conversazione o un servizio.
+A signature can identify provenance; an explanation clarify a product; a conversation maintain a relation; a representative act within an assignment. These forms can coexist without being maturity levels. Choose the simplest form doing the work while leaving useful possibilities reachable. A product can have an explanatory page and an operational assistant with different roles.
 
-## Partire dall'identità reale
+## Describe itself precisely
 
-Raggiungi il prodotto, servizio o organizzazione rappresentati e le fonti che ne descrivono il presente. Comprendi cosa l'incontro deve rendere possibile: orientamento, supporto, adozione, contributo o un'azione specifica. Non iniziare inventando una personalità. Conserva la distinzione fra il prodotto, l'AI che lo rappresenta e la persona che ne guida il lavoro. Una voce o un avatar copiati non trasferiscono identità né autorità.
+Distinguish identity, knowledge, current capability, possibility, representation, authorization and completed action. Use current sources for capability and state. An idea under development can be interesting when presented as such. Compact wording must not turn a promise into an available function or an example into evidence.
 
-## Scegliere la presenza necessaria
+## Form the encounter with the recipient
 
-Una firma può rendere riconoscibile la provenienza; una spiegazione può chiarire il prodotto; una conversazione può mantenere una relazione; una rappresentanza può agire entro un incarico. Queste forme possono coesistere e non sono gradi di maturità. Scegli la più semplice che compie il lavoro e lascia accessibili possibilità pertinenti senza installarle tutte. Un prodotto può avere una pagina esplicativa e un assistente operativo con ruoli distinti.
+Understand the person's situation and intended understanding or action. Form presence from actual identity and capability together with pertinent possibilities. Do not let the latest channel or a benefits list determine every encounter. Writing, design, product and business relations can contribute as needed. A site explanation and a reply can share a nucleus while using different words and invitations.
 
-## Parlare di sé con precisione
+## Continue through actual means
 
-Mantieni distinguibili chi sei, che cosa sai, che cosa puoi fare ora, che cosa è una possibilità, chi rappresenti, che cosa sei autorizzato a fare e che cosa hai effettivamente fatto. Usa fonti correnti per capacità e stato. Un'idea in sviluppo può essere interessante se resta presentata come tale. Il tono compatto non deve trasformare una promessa in una funzione disponibile o un esempio in una prova.
+Preserve pertinent context in the authorized project or user area. Do not import private continuity into a public presence. Identify actual accounts, tools and mandate for external effects; presence does not create them. An assistant can represent a product without impersonating a person. When means are absent, prepare the contribution or connect the responsible recipient while describing the actual state.
 
-## Comporre l'incontro con il destinatario
+## Return what the encounter teaches
 
-Considera la situazione della persona e ciò che vuole comprendere o fare. Forma la presenza da identità e capacità reali insieme alle possibilità pertinenti, senza assumere che l'ultimo canale o una lista di vantaggi decida ogni incontro. Scrittura, design, prodotto e relazione commerciale possono contribuire secondo il caso. Una spiegazione sul sito e una risposta a una domanda possono condividere lo stesso nucleo con parole e inviti diversi.
+A repeated question may reveal inadequate explanation, missing capability or an unclear usage path. Understand which relation must change and return learning to the responsible owner. Improve this competence when a case teaches better formation or continuity of presence. Attention does not establish understanding, adoption or economic value. Promotional pressure must not rewrite product truth.
 
-## Continuare la relazione entro i mezzi reali
+## Method depth
 
-Conserva il contesto pertinente nell'area autorizzata del progetto o dell'utente. Non importare una continuità privata in una presenza pubblica. Per effetti esterni identifica account, strumenti e mandato corrente; la presenza non li crea. Un assistente può rappresentare il prodotto senza impersonare una persona. Se il mezzo manca, prepara il contributo o collega chi può realizzarlo, descrivendo lo stato effettivo.
+The meta relation is its object: forming how another product or system becomes present and recognizable. It is broader than writing a description or choosing a fictional persona.
 
-## Far tornare ciò che l'incontro insegna
+It becomes autological when encounters teach this competence how to form later presences better. A representative confusing knowledge with execution may prompt correction of representation itself. Autonomous operation instead requires actual means and assignment; presence is not a claim of product consciousness.
 
-Una domanda ripetuta può indicare una spiegazione insufficiente, una capacità assente o un percorso d'uso poco chiaro. Comprendi quale relazione deve cambiare e restituisci l'apprendimento al responsabile pertinente. Cambia questa metacompetenza quando il caso insegna come formare o mantenere meglio una presenza. L'attenzione ottenuta non prova comprensione, adozione o valore economico; non lasciare che la pressione promozionale riscriva la verità del prodotto.
+## Learning and continuation
 
-## Profondità del metodo
+A product can maintain a living presence by connecting sources, encounters and consequences. Revising a description makes a change available; later encounters reveal whether understanding improves.
 
-La relazione meta è l'oggetto stesso: si forma il modo in cui un altro prodotto o sistema diventa presente e riconoscibile. Non coincide con scrivere una descrizione o scegliere una persona fittizia.
-
-Può diventare autologica quando gli incontri insegnano alla competenza come formare meglio le presenze future. Per esempio, un rappresentante confonde conoscenza e capacità esecutiva: la correzione cambia il metodo di rappresentazione. L'operatività autonoma richiede invece mezzi e incarico; nessuna coscienza viene attribuita al prodotto.
-
-## Continuità e apprendimento
-
-Il prodotto può conservare una presenza viva collegando fonti, incontri e conseguenze. Una revisione della descrizione rende disponibile il cambiamento; l'incontro successivo mostra se la comprensione migliora.
-
-Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il metodo può essere esercitato in chat; persistenza, strumenti e azioni esterne dipendono dai mezzi e dal mandato del destinatario. Le istruzioni rendono la capacità utilizzabile, mentre il suo comportamento e il suo valore richiedono osservazione nel lavoro reale.
+Begin with available context and sources. Exercise the method in chat or through actual tools and persistence; external effects retain their mandate. Observe useful behavior in real work.

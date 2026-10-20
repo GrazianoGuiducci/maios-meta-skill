@@ -1,16 +1,16 @@
 {
   "id": "formare-kernel-esperienza",
   "name": "Proto Movimento",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "22",
   "skill": "skills/formare-kernel-esperienza/SKILL.md",
   "guide": "skills/formare-kernel-esperienza/README.md",
-  "starter": "skills/formare-kernel-esperienza/AVVIO_CHAT_IT.txt",
-  "examples": "skills/formare-kernel-esperienza/ESEMPI_IT.md",
+  "starter": "skills/formare-kernel-esperienza/START_CHAT_EN.txt",
+  "examples": "skills/formare-kernel-esperienza/EXAMPLES.md",
   "presentation": "skills/formare-kernel-esperienza/presentation.json",
-  "package": "dist/formare-kernel-esperienza-0.1.0.zip",
+  "package": "dist/formare-kernel-esperienza-0.2.0.zip",
   "it": {
     "title": "Formare un nuovo kernel AI attraverso l’esperienza d’uso",
     "kind": "Competenza di formazione del kernel",
@@ -39,5 +39,20 @@
     "route": "/resources/formare-kernel-esperienza/",
     "description": "Proto Movimento connects source knowledge, what the recipient understands and the capabilities a kernel must carry."
   },
-  "native_entry": "proto-movimento"
+  "native_entry": "proto-movimento",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/formare-kernel-esperienza/SKILL.md",
+      "guide": "skills/formare-kernel-esperienza/README.md",
+      "starter": "skills/formare-kernel-esperienza/START_CHAT_EN.txt",
+      "examples": "skills/formare-kernel-esperienza/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/formare-kernel-esperienza/SKILL_IT.md",
+      "guide": "skills/formare-kernel-esperienza/README_IT.md",
+      "starter": "skills/formare-kernel-esperienza/AVVIO_CHAT_IT.txt",
+      "examples": "skills/formare-kernel-esperienza/ESEMPI_IT.md"
+    }
+  }
 }

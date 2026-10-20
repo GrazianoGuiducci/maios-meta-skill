@@ -1,16 +1,16 @@
 {
   "id": "fdla-correzione-ai",
   "name": "Operate FDLA",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "24",
   "skill": "skills/fdla-correzione-ai/SKILL.md",
   "guide": "skills/fdla-correzione-ai/README.md",
-  "starter": "skills/fdla-correzione-ai/AVVIO_CHAT_IT.txt",
-  "examples": "skills/fdla-correzione-ai/ESEMPI_IT.md",
+  "starter": "skills/fdla-correzione-ai/START_CHAT_EN.txt",
+  "examples": "skills/fdla-correzione-ai/EXAMPLES.md",
   "presentation": "skills/fdla-correzione-ai/presentation.json",
-  "package": "dist/fdla-correzione-ai-0.1.0.zip",
+  "package": "dist/fdla-correzione-ai-0.2.0.zip",
   "it": {
     "title": "FDLA — correggere le deviazioni introdotte dall’AI",
     "kind": "Funzione di correzione nel kernel",
@@ -39,5 +39,20 @@
     "route": "/resources/fdla-correzione-ai/",
     "description": "Recognize when interpretation changes the source, object or possibilities and recompose the work as it forms."
   },
-  "native_entry": "FDLA / operate-fdla"
+  "native_entry": "FDLA / operate-fdla",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/fdla-correzione-ai/SKILL.md",
+      "guide": "skills/fdla-correzione-ai/README.md",
+      "starter": "skills/fdla-correzione-ai/START_CHAT_EN.txt",
+      "examples": "skills/fdla-correzione-ai/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/fdla-correzione-ai/SKILL_IT.md",
+      "guide": "skills/fdla-correzione-ai/README_IT.md",
+      "starter": "skills/fdla-correzione-ai/AVVIO_CHAT_IT.txt",
+      "examples": "skills/fdla-correzione-ai/ESEMPI_IT.md"
+    }
+  }
 }

@@ -1,5 +1,7 @@
 # Usare una competenza MAIOS nella propria AI
 
+[English](USE.md). L’inglese è la lingua principale della raccolta; questa guida è la versione italiana.
+
 Una competenza contiene sapere operativo: aiuta l'AI a comprendere e svolgere un certo tipo di lavoro. Per usarla servono anche un intento reale, le fonti pertinenti e i mezzi che quell'ambiente può impiegare.
 
 ## In una chat
@@ -8,7 +10,7 @@ Per scegliere fra le 25 risorse, parti dal [catalogo del sito](https://maios.it/
 
 Per Meta-Activity, apri [AVVIO_CHAT_IT.txt](../skills/meta-activity/AVVIO_CHAT_IT.txt), copia tutto il testo oppure allega il file alla conversazione. Aggiungi il tuo contesto: cosa stai facendo, quali risultati servono, che cosa esiste già e quali strumenti l'AI può usare.
 
-L'avvio include il metodo essenziale: funziona anche se la chat non può aprire il resto della repository. Per un lavoro più ampio, allega anche [SKILL.md](../skills/meta-activity/SKILL.md) e i riferimenti pertinenti. Se l'AI può leggere i file, puoi darle direttamente la cartella.
+L'avvio include il metodo essenziale: funziona anche se la chat non può aprire il resto della repository. Per un lavoro più ampio, allega anche [SKILL_IT.md](../skills/meta-activity/SKILL_IT.md) e i riferimenti pertinenti. Se l'AI può leggere i file, puoi darle direttamente la cartella.
 
 Una chat senza risvegli automatici può comunque formare e svolgere un'attività insieme a te. Per riprendere in una nuova sessione, salva la guida che contiene scopo, fonti, punto raggiunto, conoscenza utile e seguito, poi restituiscila all'AI.
 

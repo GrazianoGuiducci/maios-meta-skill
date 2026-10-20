@@ -1,5 +1,7 @@
 # Formare e distribuire una risorsa da una metacompetenza
 
+[English](DISTRIBUTION.md). L’inglese è la lingua principale della raccolta; questa guida è la versione italiana.
+
 La raccolta nasce dal lavoro MAIOS. Una competenza privata diventa una risorsa pubblica quando un destinatario esterno può comprenderne l'utilità, riceverne il sapere e usarlo nel proprio contesto.
 
 ## La capacità da rendere utilizzabile

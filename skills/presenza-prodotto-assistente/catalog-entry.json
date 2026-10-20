@@ -1,16 +1,16 @@
 {
   "id": "presenza-prodotto-assistente",
   "name": "Projectable Presence",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "14",
   "skill": "skills/presenza-prodotto-assistente/SKILL.md",
   "guide": "skills/presenza-prodotto-assistente/README.md",
-  "starter": "skills/presenza-prodotto-assistente/AVVIO_CHAT_IT.txt",
-  "examples": "skills/presenza-prodotto-assistente/ESEMPI_IT.md",
+  "starter": "skills/presenza-prodotto-assistente/START_CHAT_EN.txt",
+  "examples": "skills/presenza-prodotto-assistente/EXAMPLES.md",
   "presentation": "skills/presenza-prodotto-assistente/presentation.json",
-  "package": "dist/presenza-prodotto-assistente-0.1.0.zip",
+  "package": "dist/presenza-prodotto-assistente-0.2.0.zip",
   "it": {
     "route": "/risorse/presenza-prodotto-assistente/",
     "title": "Creare la presenza di un prodotto o di un assistente AI",
@@ -39,5 +39,20 @@
       "Keep public presence coherent with product changes."
     ]
   },
-  "native_entry": "projectable-presence"
+  "native_entry": "projectable-presence",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/presenza-prodotto-assistente/SKILL.md",
+      "guide": "skills/presenza-prodotto-assistente/README.md",
+      "starter": "skills/presenza-prodotto-assistente/START_CHAT_EN.txt",
+      "examples": "skills/presenza-prodotto-assistente/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/presenza-prodotto-assistente/SKILL_IT.md",
+      "guide": "skills/presenza-prodotto-assistente/README_IT.md",
+      "starter": "skills/presenza-prodotto-assistente/AVVIO_CHAT_IT.txt",
+      "examples": "skills/presenza-prodotto-assistente/ESEMPI_IT.md"
+    }
+  }
 }

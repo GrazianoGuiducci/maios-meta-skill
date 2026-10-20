@@ -1,16 +1,16 @@
 {
   "id": "evolvere-competenze",
   "name": "D-ND Skill Evolution Guard",
-  "version": "0.1.0",
-  "state": "initial_public_edition",
-  "instruction_language": "it",
+  "version": "0.2.0",
+  "state": "early_public_edition",
+  "instruction_language": "en",
   "review_id": "06",
   "skill": "skills/evolvere-competenze/SKILL.md",
   "guide": "skills/evolvere-competenze/README.md",
-  "starter": "skills/evolvere-competenze/AVVIO_CHAT_IT.txt",
-  "examples": "skills/evolvere-competenze/ESEMPI_IT.md",
+  "starter": "skills/evolvere-competenze/START_CHAT_EN.txt",
+  "examples": "skills/evolvere-competenze/EXAMPLES.md",
   "presentation": "skills/evolvere-competenze/presentation.json",
-  "package": "dist/evolvere-competenze-0.1.0.zip",
+  "package": "dist/evolvere-competenze-0.2.0.zip",
   "it": {
     "route": "/risorse/evolvere-competenze/",
     "title": "Far evolvere una competenza AI attraverso il lavoro",
@@ -39,5 +39,20 @@
       "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
     ]
   },
-  "native_entry": "dnd-skill-evolution-guard"
+  "native_entry": "dnd-skill-evolution-guard",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "skill": "skills/evolvere-competenze/SKILL.md",
+      "guide": "skills/evolvere-competenze/README.md",
+      "starter": "skills/evolvere-competenze/START_CHAT_EN.txt",
+      "examples": "skills/evolvere-competenze/EXAMPLES.md"
+    },
+    "it": {
+      "skill": "skills/evolvere-competenze/SKILL_IT.md",
+      "guide": "skills/evolvere-competenze/README_IT.md",
+      "starter": "skills/evolvere-competenze/AVVIO_CHAT_IT.txt",
+      "examples": "skills/evolvere-competenze/ESEMPI_IT.md"
+    }
+  }
 }
