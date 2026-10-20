@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
   language: en
 ---
 
@@ -32,7 +32,7 @@ The card makes what it does, when to use it and recognizable cases immediate. Ti
 
 Keep identity and version coherent across body, guide, starter and presentation. Build a package from the content of its declared revision and verify that correspondence; do not attribute differing concurrent files to one version. Articles and adaptations derive from the selected capability. Shortening preserves thesis, state and conditions; translation preserves meaning. Attribute human originals separately from assistant proposals. Shared source, preview, deployment, sending and another person's use are distinct effects and observations, governed through actual mandate and means.
 
-The source competence's name identifies the resource in both languages. Translate its explanation rather than inventing or translating its identity. Verify that relation against the native source, not only against a catalogue that may repeat the same editorial substitution.
+Keep the canonical entry identifier stable and retain the native source title with its attribution. A public display name can use the collection's primary language when it names the same competence; use that public name in both language editions. Preserve proper names such as KA, Meta_Metodo and Proto Movimento. Functional titles explain what the competence does and remain distinct from its name and identifier. Verify these relations against the native source, not only against a catalogue that may repeat an editorial substitution.
 
 ## A resource that also teaches resource formation
 

@@ -1,3 +1,9 @@
+# Resource-formation patch 0.3.3
+
+Form Public Meta-Skill Resources now distinguishes the canonical entry, attributed source title, public display name and localized functional title in both languages and in its complete starters. This patch changes that one kit; the other 24 operating kits retain version 0.3.2.
+
+## Previous delivery
+
 # Public edition 0.3.2 — installation and canonical discovery
 
 All 25 canonical skills include a self-contained Codex installation guide. The repository installer validates release archives and installs only into an explicit destination, without overwriting existing skills. Former README-only folders are replaced by docs/LEGACY_PATHS.md. English readable names and discovery descriptions are aligned with the canonical entries. Portable operating methods and runtime tools retain edition 0.3.1 behavior.

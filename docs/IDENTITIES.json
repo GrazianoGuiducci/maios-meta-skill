@@ -1,5 +1,5 @@
 {
-  "edition": "0.3.2",
+  "edition": "0.3.3",
   "resources": [
     {
       "resource_id": "meta-activity",
@@ -278,5 +278,11 @@
         "it": "/risorse/fdla-correzione-ai/"
       }
     }
-  ]
+  ],
+  "identity_fields": {
+    "skill_name": "Stable canonical entry and installable folder identifier.",
+    "source_title": "Attributed original source heading when it differs from the public display name.",
+    "name": "Public display name shared by the English and Italian presentations.",
+    "localized_title": "Functional explanation in the page language; not a replacement identity."
+  }
 }

@@ -1,3 +1,9 @@
+# Patch 0.3.3 della formazione delle risorse
+
+Form Public Meta-Skill Resources distingue ingresso canonico, intestazione sorgente attribuita, denominazione pubblica e titolo funzionale localizzato, nelle due lingue e negli avvii completi. La patch riguarda questo solo kit; gli altri 24 mantengono la versione 0.3.2.
+
+## Consegna precedente
+
 # Edizione pubblica 0.3.2 — installazione e discovery canonica
 
 Tutte le 25 skill canoniche includono una guida di installazione Codex autonoma. L'installer controlla gli archivi e scrive soltanto nella destinazione esplicita, senza sovrascrivere skill esistenti. I rinvii storici sono nella mappa docs/LEGACY_PATHS.md. Nomi pubblici inglesi e descrizioni di discovery seguono le entry canoniche. Metodi e strumenti mantengono il comportamento della 0.3.1.

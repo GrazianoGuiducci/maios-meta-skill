@@ -1,6 +1,6 @@
 # Installare Form Public Meta-Skill Resources in Codex
 
-Questo kit è alla versione 0.3.2. Conserva tutti i file della cartella `form-public-metaskill-resources`.
+Questo kit è alla versione 0.3.3. Conserva tutti i file della cartella `form-public-metaskill-resources`.
 
 1. Estrai lo ZIP scaricato.
 2. Copia `form-public-metaskill-resources` nella directory `.agents/skills/` del progetto. L'ingresso è `.agents/skills/form-public-metaskill-resources/SKILL.md`. Conserva un'eventuale cartella esistente, senza sovrascriverla.

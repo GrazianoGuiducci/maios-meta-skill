@@ -1,4 +1,4 @@
-Apply this competence to the work described below. The public edition 0.3.2 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
+Apply this competence to the work described below. The public edition 0.3.3 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
 # Form Public Meta-Skill Resources
 
@@ -26,7 +26,7 @@ The card makes what it does, when to use it and recognizable cases immediate. Ti
 
 Keep identity and version coherent across body, guide, starter and presentation. Build a package from the content of its declared revision and verify that correspondence; do not attribute differing concurrent files to one version. Articles and adaptations derive from the selected capability. Shortening preserves thesis, state and conditions; translation preserves meaning. Attribute human originals separately from assistant proposals. Shared source, preview, deployment, sending and another person's use are distinct effects and observations, governed through actual mandate and means.
 
-The source competence's name identifies the resource in both languages. Translate its explanation rather than inventing or translating its identity. Verify that relation against the native source, not only against a catalogue that may repeat the same editorial substitution.
+Keep the canonical entry identifier stable and retain the native source title with its attribution. A public display name can use the collection's primary language when it names the same competence; use that public name in both language editions. Preserve proper names such as KA, Meta_Metodo and Proto Movimento. Functional titles explain what the competence does and remain distinct from its name and identifier. Verify these relations against the native source, not only against a catalogue that may repeat an editorial substitution.
 
 ## A resource that also teaches resource formation
 
@@ -49,7 +49,7 @@ Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when formin
 
 Reach the native entry and the guides, tools and examples that supply its actual know-how. A body can correctly name a function while its usable method lives elsewhere. Separate private case identity, node configuration, credentials and local authority from portable knowledge. Neutralize the former while preserving the decisions and mechanisms the recipient needs. When all functions are selected, a narrower description cannot substitute for missing knowledge or means.
 
-For each material function, make its operating contribution reachable in the public method, guide or supplied tool. Preserve why an observation changes a choice and what would cause adaptation. Keep original competence identity separate from a distribution identifier and a functional title. English and Italian versions must preserve mechanisms, conditions and causal choices, including worked examples; equal section or word counts do not establish equivalence.
+For each material function, make its operating contribution reachable in the public method, guide or supplied tool. Preserve why an observation changes a choice and what would cause adaptation. Keep the canonical entry identifier stable and retain the native source title with its attribution. A public display name can use the collection's primary language when it names the same competence; use that public name in both language editions. Preserve proper names such as KA, Meta_Metodo and Proto Movimento. Functional titles explain what the competence does and remain distinct from its name and identifier. Verify these relations against the native source, not only against a catalogue that may repeat an editorial substitution. English and Italian versions must preserve mechanisms, conditions and causal choices, including worked examples; equal section or word counts do not establish equivalence.
 
 ## Deliver a self-contained resource
 

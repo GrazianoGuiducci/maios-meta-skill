@@ -31,6 +31,8 @@ La scheda rende immediati cosa fa, quando usarla e casi riconoscibili. Titolo e 
 
 Assegna un’identità e una versione coerenti a corpo, guida, avvio e presentazione. Quando un pacchetto dichiara una revisione, costruiscilo dagli stessi contenuti e verifica quella corrispondenza; non attribuire a una versione file concorrenti diversi. Gli articoli e gli adattamenti derivano dalla capacità selezionata: la riduzione conserva tesi, stato e condizioni, la traduzione conserva significato. Preserva gli originali umani distinguendoli dalle proposte dell’assistente. Sorgente condivisa, anteprima, deploy, invio e uso da parte di altri sono effetti e osservazioni distinti, governati dal mandato e dai mezzi reali.
 
+Conserva l'identificatore canonico dell'ingresso e l'intestazione sorgente con la sua attribuzione. La denominazione pubblica può usare la lingua principale della raccolta quando identifica la stessa competenza; usa quella denominazione in entrambe le edizioni linguistiche. Mantieni nomi propri come KA, Meta_Metodo e Proto Movimento. I titoli funzionali spiegano che cosa fa la competenza e rimangono distinti dal nome e dall'identificatore. Verifica queste relazioni con la sorgente nativa, oltre al catalogo che potrebbe ripetere una sostituzione editoriale.
+
 ## Una risorsa che insegna anche a formare risorse
 
 La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.

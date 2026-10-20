@@ -1,7 +1,7 @@
 {
   "id": "formare-risorse-pubbliche",
   "name": "Form Public Meta-Skill Resources",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "08",
@@ -10,7 +10,7 @@
   "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
   "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
   "presentation": "skills/form-public-metaskill-resources/presentation.json",
-  "package": "dist/form-public-metaskill-resources-0.3.2.zip",
+  "package": "dist/form-public-metaskill-resources-0.3.3.zip",
   "it": {
     "route": "/risorse/formare-risorse-pubbliche/",
     "title": "Trasformare una competenza interna in una risorsa pubblica",
