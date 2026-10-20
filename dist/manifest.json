@@ -1051,7 +1051,7 @@
       "id": "fdla-correzione-ai",
       "version": "0.3.3",
       "package": "dist/operate-fdla-0.3.3.zip",
-      "sha256": "877e7d3971471cd7f67f3a045a61e53a61640ae7bc8cc3ff6a97811d9affc976",
+      "sha256": "38fa65eda8d795b7bea022b7bd5d12fc2045ffe48c393737881c3eb8508d2517",
       "files": {
         "operate-fdla/AVVIO_CHAT_IT.txt": "24caebba151a7476648215c54dd3576ff6c9ca01ac0073629b62e734f4bc3e6d",
         "operate-fdla/ESEMPI_IT.md": "7845d3bcc5ed32e8087305df6adaaf8f9130ff7f18b8c7e2ab2d1d63f800ba63",
@@ -1065,8 +1065,8 @@
         "operate-fdla/SKILL.md": "7fe0ef7913183746df61683f82fe7171a7967b5049aa02a073c05d775066f312",
         "operate-fdla/SKILL_IT.md": "623146fe7e3fbc40b9a3dc703fd33156bb4b4716333245d09c7e50250c76de53",
         "operate-fdla/START_CHAT_EN.txt": "89e899b284436fc6bd480aa907cb5a07ac960b3948ae4f3252763b271c958800",
-        "operate-fdla/catalog-entry.json": "9ad60ad3c6250502774b597ba04645c943ae5b2a7c5fadd6bd661e33deb7e3e7",
-        "operate-fdla/presentation.json": "9de4ed481b0dc113c1a93fa0bd65086ccf9d5f77e0a58a9fcf6ce844545f81a8",
+        "operate-fdla/catalog-entry.json": "f602a603bb1fa1f1484bc39a68c23bcec0f149ee885023645f9fc82230b073b5",
+        "operate-fdla/presentation.json": "b38309188f332f8a003b2b6af805ecb3b1bed58044a0f45dd92b8cde0bbf26e7",
         "operate-fdla/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "operate-fdla/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },
