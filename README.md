@@ -50,7 +50,7 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Kernel Continuum Awareness](skills/kernel-continuum-awareness/README.md) | Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations. | Kernel metacompetence |
 | [Proto Movimento](skills/proto-movimento/README.md) | Turns construction and transfer experience into knowledge that shapes a new kernel and the method used to form it. | Kernel formation competence |
 | [KA — Kernel Assiomatico](skills/operate-ka/README.md) | Counters the cognitive biases, filters, assumptions and judgments through which language models (LLMs) restrict work. Keeps possibilities open: intent, sources, facts and the actual situation form the method, without reducing the project to what AI already knows or assumes. | Foundational semantic kernel |
-| [Operate FDLA](skills/operate-fdla/README.md) | Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable. | In-flow kernel correction function |
+| [Operate FDLA](skills/operate-fdla/README.md) | Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift: the progressive departure from intent, sources and meaning. Uses what remains valid and what emerges from consequences to correct work while it is taking shape. | In-flow kernel correction function |
 
 ## Compose capabilities around a real task
 

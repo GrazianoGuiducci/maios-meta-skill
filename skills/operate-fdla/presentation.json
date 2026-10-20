@@ -4,7 +4,7 @@
     "subtitle": "FDLA corregge contaminazioni e drift introdotti dall’AI mentre il lavoro si forma, preservando il rapporto con intento, fonti e significato.",
     "kind": "Funzione di correzione nel kernel",
     "domain": "Fondamenti del sistema",
-    "does": "Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato, ricomponendo il presente anche attraverso ciò che le conseguenze rendono comprensibile.",
+    "does": "Riconosce e corregge presupposti, giudizi e interpretazioni con cui l’AI altera il lavoro. Contrasta il drift, cioè lo scostamento progressivo da intento, fonti e significato. Usa ciò che resta valido e ciò che emerge dalle conseguenze per correggere il lavoro mentre prende forma.",
     "when": "Insieme a KA, mentre l’AI comprende, decide e agisce: la correzione avviene nel lavoro e raggiunge il metodo che deve cambiare.",
     "examples": [
       "Una sintesi sta cambiando l’obiettivo del progetto: la deviazione viene riconosciuta e corretta.",
@@ -67,7 +67,7 @@
     "subtitle": "FDLA corrects AI-introduced contamination and drift while work is forming, keeping intent, sources and meaning connected.",
     "kind": "In-flow kernel correction function",
     "domain": "System foundations",
-    "does": "Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift—the progressive departure from intent, sources and meaning—by recomposing the present field, including what consequences make understandable.",
+    "does": "Recognizes and corrects assumptions, judgments and interpretations through which AI alters work. Counters drift: the progressive departure from intent, sources and meaning. Uses what remains valid and what emerges from consequences to correct work while it is taking shape.",
     "when": "Alongside KA, while AI understands, decides and acts: correction takes place within the work and reaches the method that needs to change.",
     "examples": [
       "A summary is changing the project’s objective: the deviation is recognized and corrected.",
