@@ -24,6 +24,6 @@ La relazione è autologica quando sorgente o destinatario mostrano che domanda o
 
 Derivazione pubblica di Transfer Kernel Potential, informata da Kernel Incarnation Design relativo al ricevente e dal sapere di incarnazione situata. Cronologia privata, riferimenti sorgenti e meccaniche dei nodi restano ai loro owner; il kit porta la relazione operativa per un destinatario esterno.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

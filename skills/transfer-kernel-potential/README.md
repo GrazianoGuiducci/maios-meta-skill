@@ -24,6 +24,6 @@ The relation is autological when a source or recipient reveals that this method'
 
 Public derivation of Transfer Kernel Potential, informed by receiver-relative Kernel Incarnation Design and situated incarnation knowledge. Private chronology, source bindings and node mechanics remain with their owners; this kit supplies the operating relation for an external recipient.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

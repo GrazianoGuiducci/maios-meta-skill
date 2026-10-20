@@ -2,7 +2,7 @@
   "id": "collaborazione-assistenti-ai",
   "name": "Cognitive Delegation Manager",
   "version": "0.1.0",
-  "state": "prepared_edition",
+  "state": "public_edition",
   "instruction_language": "en",
   "review_id": "28",
   "native_entry": "cognitive-delegation-manager",

@@ -24,6 +24,6 @@ La relazione è autologica quando questa competenza riconosce che il primo filtr
 
 Derivazione pubblica di Situated Possibility Formation, con sapere complementare di consapevolezza e illuminazione del campo. Programmi privati, decisioni di contatto e attività programmate restano ai loro owner. Il metodo può operare direttamente dal progetto di una persona.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

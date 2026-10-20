@@ -24,6 +24,6 @@ La relazione diventa autologica quando l’assistente riconosce la propria gramm
 
 Derivazione pubblica di Authorial Source Discrimination della facoltà di scrittura Editoriali. Porta qualificazione delle fonti, confronto semantico e apprendimento senza esporre un corpus personale o richiedere un profilo autoriale fisso.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

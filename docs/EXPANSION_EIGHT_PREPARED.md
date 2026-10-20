@@ -1,6 +1,6 @@
 # Eight additional MAIOS resources
 
-This source branch prepares eight new resource kits alongside the 25 existing ones. New kits declare version 0.1.0 and prepared state. English methods and Italian counterparts carry the same decision relations and developed cases.
+This source edition adds eight new resource kits alongside the 25 existing ones. Each new kit declares its public 0.1.0 edition. English methods and Italian counterparts carry the same decision relations and developed cases.
 
 | Competence | Work it makes possible |
 | --- | --- |
@@ -17,4 +17,6 @@ The competence names preserve their source identities. Localized titles explain 
 
 The methods are public derivations of competences developed through MAIOS work across different owners. Private traces, individual writing corpora, account state and original node authority are not dependencies of these kits. The new cases are illustrative and do not claim observed adoption or behavioral assimilation.
 
-Repository source, downloadable archive, website, assistant context, installation and use retain their own identities. The prepared edition supplies reviewable material; a later publication or receiving exercise has its own selected effect and evidence. Existing installations and knowledge evolved by their users should be preserved when considering an update.
+Repository source, downloadable archive, website, assistant context, installation and use retain their own identities. The public edition supplies usable methods; website publication and receiving exercise retain their own selected effects and evidence. Existing installations and knowledge evolved by their users should be preserved when considering an update.
+
+[How competences participate in one project](COMPETENCES_IN_WORK.md) · [Il caso italiano](COMPETENZE_NEL_LAVORO.md).

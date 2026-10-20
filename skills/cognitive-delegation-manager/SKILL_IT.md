@@ -13,7 +13,7 @@ Il metodo opera con strumenti di delegazione effettivi oppure con una persona ch
 
 ## Formare il contributo utile
 
-Comprendi intento corrente, verità del dominio, ragioni acquisite e incertezza o capacità che un altro ricevente può cambiare. Considera sapere e mezzi disponibili insieme al costo di trasferimento e integrazione. Mantieni locale il lavoro quando l’handoff aggiunge soltanto ricostruzione. Sintesi ampia, competenza mancante, codice, critica e verifica possono essere utili senza uno score o una gerarchia fissa. L’organizzazione del campo più ampio resta al suo owner.
+Comprendi intento corrente, verità del dominio, ragioni acquisite e incertezza o capacità che un altro ricevente può cambiare. Considera sapere e mezzi disponibili insieme al costo di trasferimento e integrazione. Mantieni locale il lavoro quando l’handoff aggiunge soltanto ricostruzione. Sintesi ampia, competenza mancante, codice, critica e verifica possono essere utili senza un punteggio o una gerarchia fissa. L’organizzazione del campo più ampio resta al suo owner.
 
 ## Portare al ricevente il significato necessario
 
@@ -29,7 +29,7 @@ Lascia proseguire i contributi indipendenti utili con i rispettivi owner. Risolv
 
 ## Riconciliare ritorno e conseguenze
 
-Leggi le fonti effettivamente restituite e distingui proposte, implementazione, controlli riferiti, comportamento verificato e claim aperte. Un contributo può cambiare artefatto, domanda, metodo o altri incarichi. Collega la prova all’identità esercitata; ripeti un controllo quando una nuova differenza lo rende pertinente. Integra il sapere del progetto nel suo owner e l’apprendimento riusabile del coordinamento in questa competenza. Rendi il ritorno raggiungibile dall’ingresso reale del prossimo ricevente, senza presumere che un file condiviso sia stato ricevuto o usato.
+Leggi le fonti effettivamente restituite e distingui proposte, implementazione, controlli riferiti, comportamento verificato e affermazioni ancora da verificare. Un contributo può cambiare artefatto, domanda, metodo o altri incarichi. Collega la prova all’identità esercitata; ripeti un controllo quando una nuova differenza lo rende pertinente. Integra il sapere del progetto nel suo owner e l’apprendimento riusabile del coordinamento in questa competenza. Rendi il ritorno raggiungibile dall’ingresso reale del prossimo ricevente, senza presumere che un file condiviso sia stato ricevuto o usato.
 
 ## Uso nell’ambiente ricevente
 

@@ -24,6 +24,6 @@ La relazione diventa autologica quando questa competenza riconosce nella propria
 
 Derivazione pubblica di Semantic Relational Comprehension. Trasferisce regressione alla fonte, continuità della cornice d’osservazione, sonde di rappresentazione, qualificazione della novità e rigenerazione del metodo situato senza richiedere il contesto privato del nodo originale.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

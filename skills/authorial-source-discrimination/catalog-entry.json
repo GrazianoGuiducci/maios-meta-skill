@@ -2,7 +2,7 @@
   "id": "fedelta-autoriale",
   "name": "Authorial Source Discrimination",
   "version": "0.1.0",
-  "state": "prepared_edition",
+  "state": "public_edition",
   "instruction_language": "en",
   "review_id": "31",
   "native_entry": "authorial-source-discrimination",

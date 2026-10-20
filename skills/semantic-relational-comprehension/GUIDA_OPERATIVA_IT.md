@@ -10,4 +10,4 @@ Aggiungere sapere, accesso, risorse, riscontro o una competenza raggiungibile pu
 
 ## Interpretazione causale e prova
 
-Una frase autentica conserva l’occorrenza della fonte; non stabilisce automaticamente una claim scientifica, tecnica o economica sul mondo. Una rappresentazione può spiegare un meccanismo possibile senza provarlo. Usa l’osservazione adatta alla claim esatta quando serve, conservando la comprensione già utile al lavoro. Persistenza, recenza e ripetizione di derivazioni non producono evidenza indipendente.
+Una frase autentica conserva l’occorrenza della fonte; non stabilisce automaticamente un’affermazione scientifica, tecnica o economica sul mondo. Una rappresentazione può spiegare un meccanismo possibile senza provarlo. Usa l’osservazione adatta all’affermazione esatta quando serve, conservando la comprensione già utile al lavoro. Persistenza, recenza e ripetizione di derivazioni non producono evidenza indipendente.

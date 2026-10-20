@@ -13,7 +13,7 @@ Questa competenza forma cosa serve e perché, comprendendo quantità e tempi qua
 
 ## Partire da ciò che deve diventare possibile
 
-Comprendi capacità, milestone o continuazione desiderata, patrimonio presente, relazione limitante reale e pressione temporale decisiva. Non ricavare il bisogno dal massimale di un bando, dal pacchetto del fornitore o da un budget familiare. Una risorsa può cambiare una condizione, preservare un’operazione o aprire una possibilità. Mantieni distinti i risultati quando unirli farebbe sostenere un obiettivo estraneo attraverso lo stesso racconto.
+Comprendi capacità, milestone o continuazione desiderata, patrimonio presente, relazione limitante reale e pressione temporale decisiva. Non ricavare il bisogno dal massimale di un bando, dal pacchetto del fornitore o da uno schema di budget già noto. Una risorsa può cambiare una condizione, preservare un’operazione o aprire una possibilità. Mantieni distinti i risultati quando unirli farebbe sostenere un obiettivo estraneo attraverso lo stesso racconto.
 
 ## Formare la funzione e la sua ragione causale
 

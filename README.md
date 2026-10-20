@@ -6,7 +6,7 @@ Turn knowledge developed through MAIOS work into methods you can use in your own
 
 [Italiano](README_IT.md) · [Explore the resources](https://maios.it/resources/) · [Install in Codex](docs/INSTALL.md) · [Use guide](docs/USE.md) · [Concepts](docs/CONCEPTS.md)
 
-This branch prepares 8 additional resources for review. Each new kit declares its prepared state; website publication and receiving use retain their own status.
+See [how competences participate in one MAIOS project](docs/COMPETENCES_IN_WORK.md), through an illustrative case.
 
 ## Start with your work
 

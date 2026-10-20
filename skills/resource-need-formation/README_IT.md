@@ -24,6 +24,6 @@ Il metodo diventa oggetto quando la risorsa acquisita non cambia la condizione p
 
 Derivazione pubblica di Resource Need Formation, facoltà nativa del Business Manager. Trasferisce distinzione funzione/portatore, bisogno causale, sostituzione, orizzonti temporali, quantità e ritorno delle conseguenze senza dati finanziari privati o autorità d’acquisto ereditata.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

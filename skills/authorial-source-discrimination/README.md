@@ -24,6 +24,6 @@ The relation becomes autological when the assistant recognizes its own preferred
 
 Public derivation of Authorial Source Discrimination from the Editoriali writing faculty. It carries source qualification, semantic comparison and learning without exposing a personal corpus or requiring a fixed author profile.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

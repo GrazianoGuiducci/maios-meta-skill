@@ -18,7 +18,7 @@ Scarica il kit e copia l'intera cartella canonica in `.agents/skills/` del proge
 
 La directory `skills/` contiene i 33 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
 
-Questo ramo prepara 8 risorse aggiuntive per revisione. Ogni nuovo kit dichiara il proprio stato di preparazione; pubblicazione del sito e uso nel ricevente mantengono il proprio stato.
+Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).
 
 ## Scegliere una risorsa
 

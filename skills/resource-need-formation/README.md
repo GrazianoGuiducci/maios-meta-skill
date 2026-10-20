@@ -24,6 +24,6 @@ The method becomes its own object when the acquired resource fails to change the
 
 Public derivation of Resource Need Formation, a native Business Manager faculty. It transfers the function/carrier distinction, causal need, substitution, time horizons, quantity and consequence readback without private financial data or inherited procurement authority.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

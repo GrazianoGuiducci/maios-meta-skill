@@ -24,6 +24,6 @@ La relazione è autologica quando questo metodo riconosce che il proprio handoff
 
 Derivazione pubblica di Cognitive Delegation Manager, con sapere di handoff intent-first e preparazione del ricevente. Conserva formazione dei contributi, concorrenza, ritorno e apprendimento reciproco senza importare identità private dei nodi, stato dei progetti o autorità d’invio.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

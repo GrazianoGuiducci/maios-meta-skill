@@ -24,6 +24,6 @@ The relation becomes autological when this competence recognizes its own represe
 
 Public derivation of Semantic Relational Comprehension. It carries source regression, observation-frame continuity, representation probes, qualification of novelty and situated method regeneration without requiring the original node's private context.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

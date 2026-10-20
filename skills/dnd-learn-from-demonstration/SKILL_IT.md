@@ -29,7 +29,7 @@ Riusa la competenza pertinente quando già conosce il lavoro. Ricollega sapere n
 
 ## Applicare, discriminare e restituire la conseguenza
 
-Svolgi il lavoro affidato con la relazione appresa. Una correzione può cambiare il metodo mentre il risultato si forma. Quando una claim comportamentale incerta richiede un caso discriminante, confronta stati decisivi, risultato e recupero in una fixture o situazione autorizzata. Non richiedere una ripetizione per ammettere ogni lezione interna. Restituisci il sapere pratico al suo owner e, quando cambia come gli esempi diventano capacità, anche al metodo di formazione. Un uso successivo diverso può mostrare una generalizzazione eccessiva o la partecipazione della lezione.
+Svolgi il lavoro affidato con la relazione appresa. Una correzione può cambiare il metodo mentre il risultato si forma. Quando un’affermazione incerta sul comportamento richiede un caso discriminante, confronta stati decisivi, risultato e recupero in una fixture o situazione autorizzata. Non richiedere una ripetizione per ammettere ogni lezione interna. Restituisci il sapere pratico al suo owner e, quando cambia come gli esempi diventano capacità, anche al metodo di formazione. Un uso successivo diverso può mostrare una generalizzazione eccessiva o la partecipazione della lezione.
 
 ## Uso nell’ambiente ricevente
 

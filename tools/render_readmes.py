@@ -129,6 +129,9 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
 
 ## Scegliere una risorsa''', 1)
             text=text.replace('I nomi originali delle competenze restano uguali nelle due lingue.', 'I nomi tecnici delle skill restano uguali nelle due lingue; il catalogo conserva le intestazioni sorgenti originali.')
+        narrative=('See [how competences participate in one MAIOS project](docs/COMPETENCES_IN_WORK.md), through an illustrative case.' if en else 'Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).')
+        marker='## Start with your work' if en else '## Scegliere una risorsa'
+        text=text.replace(marker,narrative+'\n\n'+marker,1)
         text=re.sub(r'\b25\b',str(len(resources)),text)
         prepared=sum(resource.get('state')=='prepared_edition' for resource in resources)
         if prepared:

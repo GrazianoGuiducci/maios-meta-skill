@@ -6,7 +6,7 @@ Le fasi rendono visibili ruoli che cambiano. Un percorso di ritorno o espansione
 
 ## Una possibilità riconoscibile senza una garanzia inventata
 
-Mostra lavoro significativo e la relazione reale che potrebbe cambiarlo. Non fabbricare un prima incapace per idealizzare il dopo, inventare un avversario o trasformare la possibilità aperta in risultato garantito. Una conseguenza pratica può essere spiegata senza claim misurate di ROI o produttività. Conserva capacità corrente e partecipazione futura senza confonderne gli stati. Le etichette interne qualificano il significato, senza dover diventare l’argomento pubblico.
+Mostra lavoro significativo e la relazione reale che potrebbe cambiarlo. Non fabbricare un prima incapace per idealizzare il dopo, inventare un avversario o trasformare la possibilità aperta in risultato garantito. Una conseguenza pratica può essere spiegata senza affermazioni misurate di ROI o produttività. Conserva capacità corrente e partecipazione futura senza confonderne gli stati. Le etichette interne qualificano il significato, senza dover diventare l’argomento pubblico.
 
 ## Dal brief all’uso effettivo
 

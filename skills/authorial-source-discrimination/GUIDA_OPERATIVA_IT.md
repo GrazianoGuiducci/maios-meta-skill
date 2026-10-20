@@ -2,7 +2,7 @@
 
 ## Fedeltà e recupero delle fonti
 
-Il sapere corrente dell’owner porta fatti e impegni; gli esempi autoriali portano espressione. Non importare vecchi prezzi, persone, promesse o contesto privato dal campione di stile. Raggiungi le fonti consentite con il mezzo effettivo, conservando provenienza sufficiente a riaprire il passaggio. Non formare per inerzia una cache privata o corpus generale. Se l’evidenza non sostiene una claim di stile personale, parti dalla bozza selezionata o chiedi un esempio pertinente, senza dichiarare una voce recuperata.
+Il sapere corrente dell’owner porta fatti e impegni; gli esempi autoriali portano espressione. Non importare vecchi prezzi, persone, promesse o contesto privato dal campione di stile. Raggiungi le fonti consentite con il mezzo effettivo, conservando provenienza sufficiente a riaprire il passaggio. Non formare per inerzia una cache privata o corpus generale. Se l’evidenza non sostiene un’affermazione di stile personale, parti dalla bozza selezionata o chiedi un esempio pertinente, senza dichiarare una voce recuperata.
 
 ## Tre operazioni con ragioni diverse
 

@@ -23,9 +23,9 @@ Forma una domanda visiva o temporale prima di un mezzo familiare o dello spazio 
 
 Quando più superfici servono il concetto, forma un nucleo comune con soggetto riconoscibile, relazione dominante e conseguenza o domanda aperta. Un manifesto rende visibile l’insieme, una pillola una distinzione, una presentazione un dispiegamento progressivo e un video un cambiamento nel tempo. I derivati conservano la tesi oltre al ritaglio o layout. Forma la famiglia utile all’incontro selezionato. L’aspettativa può invitare un uso più ricco quando resta collegata a capacità effettive e possibilità raggiungibili.
 
-## Formare la partecipazione prima del controllo
+## Formare la partecipazione prima di scegliere l’interfaccia
 
-Se la persona esplora o risponde, comprendi domanda significativa, scelta disponibile, riscontro, uso della risposta e conseguenza permessa. Sondaggio nativo, commenti a un’immagine, guida interattiva collegata e avanzamento di slide hanno interazioni diverse. Un’esportazione statica non raccoglie risposte. Personalizzazione, inferenza e trasporto fra account richiedono mezzi reali. Conserva proprietà dei dati e pubblicazione dove diventano materiali; un’interfaccia attraente non crea una claim di capacità verificata.
+Se la persona esplora o risponde, comprendi domanda significativa, scelta disponibile, riscontro, uso della risposta e conseguenza permessa. Sondaggio nativo, commenti a un’immagine, guida interattiva collegata e avanzamento di slide hanno interazioni diverse. Un’esportazione statica non raccoglie risposte. Personalizzazione, inferenza e trasporto fra account richiedono mezzi reali. Conserva proprietà dei dati e pubblicazione dove diventano materiali; un’interfaccia attraente non crea un’affermazione di capacità verificata.
 
 ## Comporre la produzione e osservare l’artefatto
 
@@ -33,7 +33,7 @@ Porta al contributo di Design o produzione verità sorgente, concetto, caso rico
 
 ## Restituire l’apprendimento agli owner pertinenti
 
-Osserva artefatto e conseguenze reali nei riceventi quando disponibili. Concetto e argomento ritornano al metodo editoriale; gerarchia e mezzo al Design percettivo; nessi spaziali all’infografica; tempi allo storyboard; comportamento all’interazione; fatti al prodotto. Più ritorni possono nascere dallo stesso evento senza fondere gli owner. Conserva sorgente modificabile, varianti significative e ragioni. Quando una nuova grammatica porta una funzione riusabile, evolve la competenza pertinente senza trasformare un espediente visivo in modello universale.
+Osserva artefatto e conseguenze reali nei riceventi quando disponibili. Concetto e argomento ritornano al metodo editoriale; gerarchia e mezzo al Design percettivo; nessi spaziali all’infografica; tempi allo storyboard; comportamento all’interazione; fatti al prodotto. Più ritorni possono nascere dallo stesso evento senza fondere gli owner. Conserva sorgente modificabile, varianti significative e ragioni. Quando una nuova grammatica porta una funzione riusabile, fai evolvere la competenza pertinente senza trasformare un espediente visivo in modello universale.
 
 ## Uso nell’ambiente ricevente
 

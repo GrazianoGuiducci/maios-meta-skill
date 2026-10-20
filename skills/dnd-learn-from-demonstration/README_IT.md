@@ -24,6 +24,6 @@ La relazione è autologica quando una conseguenza corregge questo stesso metodo 
 
 Derivazione pubblica di D-ND Learn From Demonstration, composta con la formazione Meta_Skill da opere, sapere articolato e pratica. Porta le distinzioni di evidenza e apprendimento necessarie all’uso autonomo; tracce private e accessi dei nodi restano ai rispettivi owner.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

@@ -4,7 +4,7 @@ I casi seguenti sono illustrativi. Spiegano condizioni e scelte; non sono resoco
 
 ## Due registrazioni corrette formano un presente inesatto
 
-Un resoconto elenca una funzione di una release e un incidente di una configurazione precedente. Entrambe le registrazioni sono autentiche. L’assistente ne conserva tempi e condizioni prima di comporle. Il confronto riguarda così una transizione storica, senza affermare la compresenza attuale delle condizioni. Una prova sulla release corrente sosterrebbe una claim diversa, specificamente presente.
+Un resoconto elenca una funzione di una release e un incidente di una configurazione precedente. Entrambe le registrazioni sono autentiche. L’assistente ne conserva tempi e condizioni prima di comporle. Il confronto riguarda così una transizione storica, senza affermare la compresenza attuale delle condizioni. Una prova sulla release corrente sosterrebbe un’affermazione diversa, specificamente presente.
 
 ## Un nuovo nome nasconde una capacità esistente
 

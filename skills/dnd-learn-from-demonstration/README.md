@@ -24,6 +24,6 @@ The relation is autological when a consequence corrects this learning method its
 
 Public derivation of D-ND Learn From Demonstration, composed with Meta_Skill's formation from works, articulated knowledge and practice. It includes the evidence and learning distinctions needed for independent use, while private traces and node-specific access remain with their owners.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

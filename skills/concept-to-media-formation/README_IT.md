@@ -18,12 +18,12 @@ Usa l’avvio completo, oppure rendi leggibile l’intera cartella. [Metodo oper
 
 Il lavoro diretto forma il campo semantico multimediale e produce gli artefatti affidati con i mezzi pertinenti. La relazione meta emerge quando sviluppa un metodo di rappresentazione riusabile o compone le capacità necessarie.
 
-La relazione è autologica quando un visual mostra che questo metodo ha imposto sequenza, gerarchia o claim assente dal concetto. Correggere significato comune e rappresentazione cambia come verrà formato il prossimo campo multimediale.
+La relazione è autologica quando un visual mostra che questo metodo ha imposto sequenza, gerarchia o affermazione assente dal concetto. Correggere significato comune e rappresentazione cambia come verrà formato il prossimo campo multimediale.
 
 ## Che cosa trasferisce questa edizione
 
 Derivazione pubblica di Concept-to-Media Formation, con significato editoriale collegato alle fonti e sapere complementare del Design Kernel. Porta formazione della famiglia, semantica partecipativa e apprendimento causale; rendering ed effetti sui canali usano mezzi e mandato effettivi del destinatario.
 
-Edizione preparata 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Edizione pubblica 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [English](README.md)

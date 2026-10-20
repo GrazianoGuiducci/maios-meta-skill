@@ -24,6 +24,6 @@ The relation is autological when this competence recognizes that its first filte
 
 Public derivation of Situated Possibility Formation, with complementary field-awareness and field-illumination knowledge. Private programmes, contact decisions and scheduled activities remain with their owners. The method can operate directly from a person's project.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

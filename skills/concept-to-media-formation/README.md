@@ -24,6 +24,6 @@ The relation is autological when a visual reveals that this method imposed a seq
 
 Public derivation of Concept-to-Media Formation, with source-bound editorial meaning and complementary Design Kernel knowledge. The kit carries media-family formation, participatory semantics and causal learning; rendering and channel effects use the recipient's actual tools and mandate.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

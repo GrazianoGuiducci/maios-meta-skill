@@ -24,6 +24,6 @@ The relation is autological when this coordination method recognizes that its ow
 
 Public derivation of Cognitive Delegation Manager, with intent-first handoff and receiver-preparation knowledge. It retains contribution formation, concurrency, return and reciprocal learning without importing private node identities, project state or messaging authority.
 
-Prepared edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
+Public edition 0.1.0. [Apache-2.0](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/LICENSE).
 
 [Italiano](README_IT.md)

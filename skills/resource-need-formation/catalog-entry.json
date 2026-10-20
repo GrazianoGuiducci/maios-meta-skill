@@ -2,7 +2,7 @@
   "id": "formare-fabbisogno-risorse",
   "name": "Resource Need Formation",
   "version": "0.1.0",
-  "state": "prepared_edition",
+  "state": "public_edition",
   "instruction_language": "en",
   "review_id": "30",
   "native_entry": "resource-need-formation",
