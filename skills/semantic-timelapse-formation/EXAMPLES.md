@@ -13,5 +13,9 @@ Use actual ordered observations. Generate A as a reference, not as purported foo
 
 A source records a change in a work object after an operator action. Form A as an explanatory illustration of the scene, person, object and relevant gesture, with its illustrated status explicit. Observe it before coding B. Use editable layers, masks or real geometry for only those movements that can be faithfully reconstructed. The final motion must not suggest that a person or AI performed extra undocumented steps. Do not choose 3D merely because the illustration has volume.
 
+## When image A needs independently moving parts
+
+The first image-generator output A depicts an illustrated character holding an object. It establishes composition and appearance, not the hidden rig or separate hand/object layers. If the action requires a hand to lift that object, generate or build only the required coherent parts and their contact relationships before coding B. If this cannot be done faithfully, change the shot so the existing image can remain whole. Keep the original generated reference distinct from later derived assets; neither is an actual recording of an event.
+
 ## Missing image generator
 A code-only renderer can create B but cannot honestly claim to have produced A with an image model. Ask for an actual reference or use an accessible image generator.
