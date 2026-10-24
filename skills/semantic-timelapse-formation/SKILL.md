@@ -62,6 +62,12 @@ The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Mo
 
 **Image-first is not timeline-first.** In the VC-30s method, a genuinely generated and observed image A may be a key reference rather than the frame at `t=0`; the code-built scene B has its own initial state. When the subject describes actions, the actor, prop, camera and any caption or sound should express consistent aspects of the same source-grounded situation, without a mandatory state-machine architecture. A reusable template applies when the meaningful relationship persists; a different object may require a new visual grammar. See [VC-30s](VC30_OPERATIONAL_KERNEL.md).
 
+## VC-30s Studio-Lab — specialized operating competences
+
+When the short film materially requires several disciplines, reach the [VC-30s Studio-Lab](VC30_STUDIO_LAB_EN.md). It brings **eleven conditional working stations** for source/meaning, art direction, image A generation/inspection, actors/assets, storyboard/time, code/2.5D/3D, text/voice, sound, render/inspection, delivery and learning. Each station can use specialist knowledge **during** a real production, with an explicit contribution and return to the responsible competence. They are not eleven steps every film must complete or an installed studio software suite.
+
+The image generator is a **real capability required for image A** in the selected image-first path; A is generated before coding B but may show a scene different from the film's opening `t=0`. Actors, objects, camera, captions and optional sound must represent a coherent source-bound situation. A reference file must genuinely reach whichever receiver codes B. The [Studio-Lab guide](VC30_STUDIO_LAB_EN.md) includes a minimal real-case record, material handoff and learning return; simply creating these instructions does not render a film.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
