@@ -63,6 +63,8 @@ Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, R
 
 **Altro giro sulle fonti VC-30s — concetto e riceventi.** Un video breve può derivare da un concetto source-bound già capace di formare infografica, articolo o guida interattiva. Preservare il significato, non copiare il layout. L'ordine dei frame non dimostra da solo causalità, gerarchia o progresso inevitabile. Se A è generata altrove, il ricevente che codifica B deve raggiungere realmente i suoi byte: una descrizione non è l'immagine osservata. Un cursore simulato su una schermata resta esplicativo se l'operazione non è stata osservata. Sono capacità di pertinenza e di metodo, illustrate nel [VC-30s](VC30_KERNEL_OPERATIVO_IT.md), non nuovi requisiti software.
 
+**Generare A prima del codice non significa metterla al tempo zero.** Nel metodo VC-30s l'immagine A, davvero generata e osservata, può essere il riferimento visivo di un gesto o una relazione rappresentativa, non il frame `t=0`; la scena B codificata possiede il proprio stato iniziale. Quando il soggetto descrive azioni, attore, oggetto, camera, didascalia e suono rendono aspetti coerenti della medesima situazione, senza imporre una macchina a stati. Un template è riusabile se permane la relazione; un altro oggetto può richiedere nuova grammatica. Vedi [VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
@@ -98,11 +100,13 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 **Immagine A non equivale a parti mobili indipendenti.** Dopo aver osservato A, riconoscere se il gesto richiede parti, altre pose/viste, maschere o geometrie. Formare solo quelle necessarie coerenti con la fonte e con A, custodendo identità e provenienza. Se non si possono costruire senza inventare elementi, cambiare camera o modalità della rappresentazione. Non spacciare una bitmap per rig 3D. Comprendere inoltre quali parti dovranno restare modificabili nei diversi renderer, anziché scegliere il carrier dal solo MP4 risultante.
 
+**Riferimento visivo e tempo di apertura del film.** Genera e osserva A prima, ma non dedurre che sia lo stato `t=0`: può essere una posa significativa o una relazione che guida tutta la scena. Prima di codificare B, riconoscere cosa rende identificabile il referente e quale stato deve davvero aprire il video. Quando il gesto conta, attore, oggetto, camera e cue devono descrivere una relazione di fonte comune, non tracce animate scollegate. Una fonte nuova può richiedere un'altra scena, non soltanto didascalie cambiate.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.3.2, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.3.3, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 ## Formare il filmato dall'oggetto reale
 
@@ -175,6 +179,14 @@ Un altro rientro sulle sorgenti mette in luce capacità che **non richiedono un 
 **Dimostrazione da screenshot ≠ esecuzione del prodotto.** Un cursore animato può illustrare un workflow, ma non attesta che il click o la risposta siano realmente avvenuti nel runtime. Distinguere schermata osservata, ricostruzione esplicativa ed esecuzione osservata quando il claim lo richiede.
 
 Il trasferimento è di **conoscenze e metodi**, non di codice altrui o nuove tappe imposte.
+
+## Immagine A prima del codice, non necessariamente al secondo zero
+
+La prima immagine A è generata e osservata **prima di programmare l'animazione**, ma non deve necessariamente rappresentare il tempo `t=0` del film. Può essere un'immagine guida, l'identità di un personaggio, il gesto più significativo, una relazione spaziale o un momento rappresentativo. La scena codificata B possiede il **proprio** stato iniziale; la relazione utile con A può apparire anche più avanti. Non imporre una copia pixel per pixel come primo frame solo perché A è stata prodotta per prima nel lavoro.
+
+**Una situazione rappresentata, più espressioni visibili.** Quando il soggetto contiene gesti o cambiamenti di stato, attori, oggetti tenuti in mano, camere, parole e suoni devono rendere aspetti coerenti **della stessa situazione ancorata alla fonte**. Un click, gesto o cambio di punto di vista non dimostra automaticamente che un evento sia accaduto. Alcuni video richiedono solo una relazione condivisa, altri un modello di stati/eventi più ricco: nessuna macchina a stati è universalmente obbligatoria.
+
+**Una variante dei dati non è sempre un nuovo soggetto.** Una scena può produrre nuove varianti quando il tipo di relazione rimane pertinente. Un caso realmente diverso può richiedere un'altra prospettiva, grammatica percettiva, comprensione della fonte o prompt per A, non soltanto sostituire nomi e colori del vecchio template. La capacità riusabile riguarda *come formare* scene, non imporre la loro geometria ai casi futuri.
 
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
