@@ -6,6 +6,10 @@
 
 **Tradurre in B.** Dopo aver visto A, costruisci la scena modificabile. Scegli se ricostruire geometrie, usare l'immagine come asset o comporre i metodi. La bitmap non rivela automaticamente livelli, profondità, traiettorie o fatti nascosti. Produci e osserva il primo frame codificato t=0, distinto da A.
 
+**Narrazione visiva dalla fonte.** Non partire da un nucleo luminoso, un diagramma fisso o un look 3D generico. Quando persone e oggetti rendono più leggibile la trasformazione, formare per ognuno referente di fonte, ruolo, segni riconoscibili, stato, azione e conseguenza. Le istruzioni per generare A possono includere ambiente, gesto, strumenti, materia, prospettiva, luce e spazi per didascalie. A è un riferimento osservato, non una documentazione di eventi non osservati.
+
+**2.5D e vero 3D.** A può diventare sfondo/texture o essere tradotta in livelli, maschere, sprite e parallax realmente costruiti. Muovere la camera su un'immagine piatta non genera retro o rig del personaggio. Usare geometrie e animazioni 3D soltanto quando lo spazio modifica la comprensione e il ricevente possiede i mezzi. Distinguere identità dell'attore e trasformazioni dei singoli frame. Le correzioni su occlusione/continuità tornano a Code Medium/Design, quelle sul significato all'owner semantico.
+
 **Formare il tempo.** Usa un parametro t esplicito e identità stabili. L'esempio 30 s × 24 fps contiene 720 campioni. Fai dipendere testo e geometria dalla sorgente, senza irrigidire in codice una prima allegoria. Osserva collisioni, didascalie, finale e implicazioni del montaggio.
 
 **La memoria è un'altra questione.** L'operatore intendeva evitare di costruire il primo frame soltanto «andando a memoria»; l'immagine generata serve da esempio osservabile. Limitare la RAM inviando un frame alla volta a FFmpeg è un'ottimizzazione tecnica diversa.
