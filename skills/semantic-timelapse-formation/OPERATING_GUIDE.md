@@ -6,6 +6,10 @@
 
 **Translate to B.** Build editable scene code after seeing A. Choose whether to reconstruct visible structures, use the picture as an asset or combine methods. The bitmap does not reveal hidden layers, depth, paths or facts. Render the separate coded first frame t=0 and observe it.
 
+**Visual narrative from the source.** Do not begin from a predetermined glowing kernel, a mandatory diagram or a generic 3D look. When an event is made clearer by people or objects, form a minimal visual identity for each: source referent, role, appearance anchors, state, action and consequence. The image-generator prompt may include setting, gesture, props, material, perspective, light and empty space for later captions. A is an observed design reference, never a true record of unobserved events.
+
+**2.5D or genuine 3D.** Image A may be used as a backdrop/texture, or rebuilt into actual layers, masks, sprites and parallax. Moving the camera around a flat picture does not give it a real backside or a character rig. Use 3D geometry and animation only when spatial relations require it and the executing host has the necessary means. Separate the actor's identity from the positions and transformations of individual frames. Return a continuity or occlusion correction to Code Medium/Design, and a source distortion to the semantic owner.
+
 **Form the temporal change.** Use an explicit time parameter and stable object identities. A 30 s × 24 fps example has 720 samples. Let source data change text and geometry rather than hard-coding the first example as universal. Inspect later occlusion, text boundaries, the end state and unexpected implications of camera or montage.
 
 **Memory is not the same issue.** The operator meant that the first coded frame should not be designed only "from memory"; an image-generator example is the visual starting point. Buffering only one frame for FFmpeg is a useful but separate RAM optimisation.
