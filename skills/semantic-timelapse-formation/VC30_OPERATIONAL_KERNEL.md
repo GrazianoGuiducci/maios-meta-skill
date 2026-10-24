@@ -42,6 +42,22 @@ Two passes over the external sources refine **what the competence knows how to d
 
 The learned faculty is **situated perceptual translation**: understanding a source, forming an observable visual reference, and deriving a reproducible temporal expression that keeps the subject's meaning. Code and runtime decisions remain with the technical owner; no source project's code, assets or styles are bundled here.
 
+## Recheck of previously unread sources: the generated image is not an animation rig
+
+An audit of seven originally named repositories, all **18 iart package README entry points**, and the **seven top-level HyperFrames skills** found a missing distinction. This is **not** a claim to have read every iart skill (55 declared by the hub), every HyperFrames block or Remotion implementation.
+
+The first genuinely generated and inspected **image A remains the visual reference**. It may establish art direction, the relation between characters/objects and the readable whole. But a single flattened illustration cannot independently animate a hand, held tool, background, eye movement or the reverse view of an object. When the actual motion needs them, form **additional source-bound visual elements, poses, masks or geometry**; when a single whole image suffices, keep it whole. Additional assets should remain coherent with the subject and A, while their provenance and roles stay identifiable. They are not retroactively relabelled as the first A.
+
+This distinction was learned from [Generative Illustration](https://github.com/iart-ai/generative-illustration-skills), whose working methods separate illustrations into independently animable units. One of that project's source documents cautions that naïve SVG background removal can delete a foreground object. The lesson is to **preserve the subject when isolating parts**, not import a particular algorithm, template or vector file.
+
+[HyperFrames media-use](https://github.com/heygen-com/hyperframes) also teaches that reused assets require source identity and separation across projects. An asset belongs to its context; a vaguely similar cached logo or illustration does not acquire the right identity. For a new video receiver, preserve the provenance/role needed to use media correctly, without assuming HyperFrames' own file manifest.
+
+**What remains editable matters.** A scene translated into native editable elements, hosted time-seekable code or a finished rendered clip preserves different editing abilities. The rendered clip is not the same as a freely movable character. [Remotion ThreeCanvas](https://github.com/remotion-dev/remotion) is one example of 3D tied to absolute frame time, if that renderer is actually chosen.
+
+**Format and language belong before the render.** A 16:9 master often must be **recomposed**, not merely cropped, for 9:16 while preserving people, objects and titles. Exact words should remain editable and, where appropriate, accessible through captions or transcripts, not be guessed from pixels in A. Current social platform overlay dimensions need case-specific confirmation.
+
+No third-party source code or assets have been imported, and no new film is claimed.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
