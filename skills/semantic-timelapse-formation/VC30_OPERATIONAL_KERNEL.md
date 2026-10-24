@@ -58,6 +58,22 @@ This distinction was learned from [Generative Illustration](https://github.com/i
 
 No third-party source code or assets have been imported, and no new film is claimed.
 
+## Before and beyond the film: concept, non-linear relation, real asset transfer
+
+A further source reentry reveals three missing capabilities that **do not require another renderer**.
+
+**A media concept can precede the clip.** When an existing editorial or product concept already has a source-grounded core, a short video is one possible expression of that core alongside a still infographic, presentation or interactive guide. Recover the source, dominant relation, real-world consequence and audience before forming the image A prompt; do not derive the claim solely from a prior clip's visual treatment. Other derivatives preserve the thesis, not the same crop. A new A should still be actually generated and observed when this image-first workflow is selected.
+
+**Linear playback does not make the subject linear.** A video can show co-presence, alternative interpretations, contrast, a recursive return that changes future possibilities, or present capability beside an open future horizon. Do not silently turn adjacency of shots into cause and effect, or a loop into an identical return. The appropriate temporal grammar emerges from the **kind of relation**, not from the number of seconds.
+
+**Presentation and cognitive navigation are different capabilities.** A video may introduce a system through space, action and consequence, and share a visual identity with an interactive guide. The MP4 itself cannot accept selections, maintain live state or perform operations. Preserve that boundary when deriving other media from the same concept.
+
+**Receiving an image is not receiving its description.** If one host generates A and another builds code scene B, the coding host must be able to **access the original image bytes or a genuinely accessible asset**, and know what was observed in it. A prompt, screenshot shown only in another chat or link to an instruction file does not complete that handoff. Use the existing storage/attachment/connector channel when available; do not invent an always-on bridge or require a universal metadata schema.
+
+**Screenshot-based demos are not necessarily live product demonstrations.** An animated cursor can illustrate a possible flow, but does not establish that the UI click or automated result occurred in a running product. Distinguish captured screen, illustrative reconstruction and observed execution where the difference affects the claim.
+
+These are reusable **perceptual and capability distinctions**, not copied code or mandatory preproduction stages.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
