@@ -6,4 +6,4 @@ This public resource preserves the distinction between an image-generator refere
 
 Open [SKILL.md](SKILL.md), [OPERATING_GUIDE.md](OPERATING_GUIDE.md) and [EXAMPLES.md](EXAMPLES.md), or copy the complete [START_CHAT_EN.txt](START_CHAT_EN.txt) into a chat. Supply your sources and real tools. [Italiano](README_IT.md).
 
-State: prepared candidate 0.1.0. Historical MAIOS study videos were code-only; an independent exercise of the corrected image-generator-first workflow has not yet been observed. Publication, download packaging, website and social remain separate.
+State: prepared candidate 0.2.0 (narrative infographic, characters, objects, 2.5D/3D method; no character/3D film yet exercised). Historical MAIOS study videos were code-only; an independent exercise of the corrected image-generator-first workflow has not yet been observed. Publication, download packaging, website and social remain separate.
