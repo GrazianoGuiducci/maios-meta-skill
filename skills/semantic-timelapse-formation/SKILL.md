@@ -68,6 +68,8 @@ When the short film materially requires several disciplines, reach the [VC-30s S
 
 The image generator is a **real capability required for image A** in the selected image-first path; A is generated before coding B but may show a scene different from the film's opening `t=0`. Actors, objects, camera, captions and optional sound must represent a coherent source-bound situation. A reference file must genuinely reach whichever receiver codes B. The [Studio-Lab guide](VC30_STUDIO_LAB_EN.md) includes a minimal real-case record, material handoff and learning return; simply creating these instructions does not render a film.
 
+**MKCV, not just VC-30s.** The [Mini Kernel Code Video](VC30_STUDIO_LAB_EN.md#mkcv--mini-kernel-code-video-beyond-the-thirty-second-profile) is the general production capability. VC-30s remains one output profile; the eleven specialist Studio-Lab stations need not be duplicated for other duration or style. A real image generator, coded B, observed film and a non-identical later use must still be exercised in the reader's actual environment.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
