@@ -70,6 +70,8 @@ Il percorso selezionato richiede una **vera capacità di generare A**; A è prim
 
 **MKCV, non solo VC-30s.** Il [Mini Kernel Code Video](VC30_STUDIO_LAB_IT.md#mkcv--mini-kernel-code-video-oltre-il-profilo-di-30-secondi) è il campo generale di produzione, mentre VC-30s è un suo possibile formato. Le conoscenze e le undici postazioni sono disponibili; generatore A, codec, scene B, video integrato e secondo caso non identico rimangono da esercitare nel ricevente reale. Non creare nuove copie dello Studio-Lab per variare durata o linguaggio visivo.
 
+**Ritorno autoriale dopo il primo film MKCV.** Una immagine A realmente generata e una clip B realmente esportata non bastano se B anima **nuovi diagrammi sovrapposti**, mentre il destinatario chiedeva di **animare il soggetto di A**. Quando questa è la richiesta, formare movimento interno all'immagine (attori, props, ambiente, camera) con asset/livelli o image-to-video effettivamente disponibili; non assumere mesh/rig inesistenti. [Studio-Lab](VC30_STUDIO_LAB_IT.md#correzione-emersa-dallosservazione-reale-animare-a-non-sovrapporvi-un-altro-film) include l'apprendimento e [Motion.so MCP](https://docs.motion.so/guides/mcp) come eventuale mezzo da provare, non come provider installato o pubblicatore social.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
