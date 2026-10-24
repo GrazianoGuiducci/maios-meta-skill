@@ -30,6 +30,14 @@ Stations are **available when materially relevant**, not eleven mandatory phases
 | **Delivery and derivatives** — channel competence | Adapts formats, subtitle and editability; recomposes layouts when crops destroy meaning | Actual carrier for the selected receiver/destination |
 | **Learning and continuity** — meta competence | Distinguishes a completed artifact from knowledge that should change later work | Returned method, updated case and next point of reentry |
 
+## Learning from a real film: animate image A rather than overlay a different film
+
+In the first MKCV promo, genuine images A and a coded 2.5D clip were produced. The recipient clarified the desired outcome: **animate the image itself** — its characters, objects, environment, gestures and camera. The actual film used A mainly as a **backdrop for separately coded diagrams**. The video was technically rendered, while the creative intention was not fulfilled.
+
+When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. Code Medium may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
+
+**Optional technical receiver, not a dependency:** [Motion.so MCP](https://docs.motion.so/guides/mcp) documents agent-driven creation/revision, media uploads and video outputs. It does not prove that a given source image will be animated faithfully. It needs account permissions/OAuth and may consume credits; a local file must be uploaded before Motion can read it. The Motion product advertises social connections, but the documented MCP video tool list does **not itself establish direct social-posting tools**. Publication authority remains with the channel owner.
+
 ## Operating from an actual case
 
 Reach the **current source** and the material question first; do not activate all stations because they are listed.
