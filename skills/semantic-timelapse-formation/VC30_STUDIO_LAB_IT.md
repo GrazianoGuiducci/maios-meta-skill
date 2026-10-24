@@ -1,6 +1,6 @@
 # VC-30s Studio-Lab — produrre video in codice con competenze specializzate
 
-**Stato:** metodo pubblico **candidato 0.4.2**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+**Stato:** metodo pubblico **candidato 0.4.3**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
 ## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
 
@@ -37,6 +37,16 @@ In un primo film promo MKCV sono state prodotte vere immagini A e una clip 2.5D,
 Quando la richiesta è image-to-motion, la postazione di A deve formare/riconoscere un gesto **dentro l'immagine**. Code Medium può usare maschere, strati 2.5D, asset aggiuntivi coerenti, ricostruzione delle zone occluse, modello 3D reale se pertinente o un provider image-to-video quando effettivamente disponibile. Non inferire rig, retro o movimenti nascosti da un'immagine piatta. I diagrammi sovrapposti sono ammessi quando aiutano davvero, non sono un surrogato del movimento del soggetto.
 
 **Possibilità tecnologica, non dipendenza:** [Motion.so MCP](https://docs.motion.so/guides/mcp) permette a un agente connesso di creare/rivedere video, allegare media tramite upload e ricevere un filmato. Questo non dimostra la fedeltà dell'animazione dell'immagine di partenza. Il servizio richiede accesso account/OAuth e può consumare crediti; un file locale va caricato realmente. Il prodotto Motion presenta integrazioni social, ma gli strumenti MCP video documentati **non confermano una pubblicazione social diretta**. L'owner del canale e l'autorizzazione restano distinti.
+
+## Conoscenza esercitata — immagine A che diventa movimento (24 ottobre 2026)
+
+Un esperimento successivo al primo promo ha **animato la stessa immagine A**, senza aggiungere nuovi pannelli sopra la reference. Testa e braccio del personaggio illustrato sono stati estratti dalla sua immagine reale, con movimenti controllati da pivot; le zone scoperte sono state ricostruite come **ipotesi di sfondo**, mentre luce e camera hanno agito nello stesso mondo. MP4 da **9 s / 30 fps / 270 frame / H.264 + AAC** realmente decodificato. L'audio è sintetizzato da codice originale; nessuna dipendenza o codice altrui è stato trasferito.
+
+L'esercizio ha corretto il metodo in tre direzioni: **(1)** animare i pixel della A in 2.5D è possibile quando bastano viste e articolazioni limitate; **(2)** ricostruire un modello geometrico 3D a partire da A è un'altra capacità, ancora da esercitare, necessaria per camera libera e occlusioni reali; **(3)** una scena inventata interamente in codice non equivale automaticamente a «usa questa immagine e animala». L'animazione provata appartiene al **primo** caso, non al secondo o al terzo.
+
+Le competenze [cinetic](https://github.com/Leonxlnx/cinetic) e [img2threejs](https://github.com/img2threejs/img2threejs) forniscono sapere sul film diretto da un soggetto e sulla analisi di componenti/giunti/materiali rispetto ad una reference. [Remotion skills](https://github.com/remotion-dev/skills) rende esplicite le capacità di composizione, preview e render. Prendiamo **metodi**, non il codice, le palette o le norme stilistiche interne di questi progetti.
+
+**Limite osservato:** un tentativo di ricostruire le palpebre degradava il volto ed è stato escluso. I cartelli visibili nel film erano già presenti nel riferimento originale: non sono nuove grafica sovrapposte, ma nemmeno una scena priva di infografica. Per un diverso effetto cinematografico, può servire una nuova A o un altro modello, non un ulteriore diagramma davanti al soggetto. Una prova sul medesimo robot non equivale al comportamento assimilato in un caso non identico.
 
 ## Come entrare operativamente
 
