@@ -27,4 +27,6 @@
 
 **Immagine A non equivale a parti mobili indipendenti.** Dopo aver osservato A, riconoscere se il gesto richiede parti, altre pose/viste, maschere o geometrie. Formare solo quelle necessarie coerenti con la fonte e con A, custodendo identità e provenienza. Se non si possono costruire senza inventare elementi, cambiare camera o modalità della rappresentazione. Non spacciare una bitmap per rig 3D. Comprendere inoltre quali parti dovranno restare modificabili nei diversi renderer, anziché scegliere il carrier dal solo MP4 risultante.
 
+**Riferimento visivo e tempo di apertura del film.** Genera e osserva A prima, ma non dedurre che sia lo stato `t=0`: può essere una posa significativa o una relazione che guida tutta la scena. Prima di codificare B, riconoscere cosa rende identificabile il referente e quale stato deve davvero aprire il video. Quando il gesto conta, attore, oggetto, camera e cue devono descrivere una relazione di fonte comune, non tracce animate scollegate. Una fonte nuova può richiedere un'altra scena, non soltanto didascalie cambiate.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
