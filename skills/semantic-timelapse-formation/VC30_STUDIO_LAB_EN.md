@@ -1,6 +1,6 @@
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **candidate 0.4.2** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **candidate 0.4.3** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
@@ -37,6 +37,16 @@ In the first MKCV promo, genuine images A and a coded 2.5D clip were produced. T
 When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. Code Medium may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
 
 **Optional technical receiver, not a dependency:** [Motion.so MCP](https://docs.motion.so/guides/mcp) documents agent-driven creation/revision, media uploads and video outputs. It does not prove that a given source image will be animated faithfully. It needs account permissions/OAuth and may consume credits; a local file must be uploaded before Motion can read it. The Motion product advertises social connections, but the documented MCP video tool list does **not itself establish direct social-posting tools**. Publication authority remains with the channel owner.
+
+## Exercised knowledge — animated content of generated image A (24 October 2026)
+
+A new experiment animated the **actual source image A**, rather than overlaying another infographic. The same robot's head and pointing arm were taken from image A as editable alpha layers with code-controlled joint pivots; areas revealed behind moving parts were reconstructed **hypothetically**, while camera and illumination changed within the same world. A **9 s / 30 fps / 270 frames / H.264 + AAC** MP4 was encoded and fully decoded; original code synthesized the score. No third-party code was copied.
+
+The result establishes three **distinct production modes**. **(1)** Image A itself animated with 2.5D layers/pivots, exercised here for limited single-view motion. **(2)** An actual procedural 3D model rebuilt from reference A with real geometry/materials/joints, **not yet exercised**. **(3)** A wholly new native code scene from a source concept, which does not by itself satisfy 'animate this existing image'.
+
+The work drew **methods** from [cinetic](https://github.com/Leonxlnx/cinetic) (subject-owned movement and film direction), [img2threejs](https://github.com/img2threejs/img2threejs) (component inventory, hierarchy and unseen-part uncertainty), and [Remotion agent skills](https://github.com/remotion-dev/skills) (composition versus rendered outcome). Neither their implementation code, stylistic constraints nor templates were imported.
+
+A blink reconstruction was **rejected after preview** because it damaged the character's face identity. The original reference already contained signs/panels; the new animation did not add any, but it did not erase them either. This case does not establish true 3D capability or transfer of learning to a new subject.
 
 ## Operating from an actual case
 
