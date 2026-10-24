@@ -61,6 +61,8 @@ Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, R
 
 **Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo; l'audit delle fonti è stato selettivo, non lettura di ogni file.
 
+**Altro giro sulle fonti VC-30s — concetto e riceventi.** Un video breve può derivare da un concetto source-bound già capace di formare infografica, articolo o guida interattiva. Preservare il significato, non copiare il layout. L'ordine dei frame non dimostra da solo causalità, gerarchia o progresso inevitabile. Se A è generata altrove, il ricevente che codifica B deve raggiungere realmente i suoi byte: una descrizione non è l'immagine osservata. Un cursore simulato su una schermata resta esplicativo se l'operazione non è stata osservata. Sono capacità di pertinenza e di metodo, illustrate nel [VC-30s](VC30_KERNEL_OPERATIVO_IT.md), non nuovi requisiti software.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
@@ -100,7 +102,7 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.3.1, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.3.2, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 ## Formare il filmato dall'oggetto reale
 
@@ -157,6 +159,22 @@ La competenza [HyperFrames media-use](https://github.com/heygen-com/hyperframes)
 **Destinazione e testo:** un 16:9 spesso richiede *ri-composizione* per un 9:16, non ritaglio; persone, elementi, testi e aree coperte dall'interfaccia partecipano già alla richiesta per A. Parole e caption che devono essere esatte restano modificabili e, dove pertinente, accessibili; non sono lettere immaginate dall'immagine generata. Le specifiche di una piattaforma vanno confermate nel caso effettivo.
 
 Nessun codice/asset di terzi importato e nessun nuovo video dichiarato realizzato.
+
+## Prima e oltre il video: concetto, relazione non lineare e trasferimento reale di A
+
+Un altro rientro sulle sorgenti mette in luce capacità che **non richiedono un nuovo renderer**.
+
+**Un concetto può precedere il filmato.** Quando esiste già un nucleo editoriale o di prodotto ancorato alle fonti, il video breve è una possibile espressione accanto a immagine, infografica, presentazione e guida interattiva. Recuperare oggetto, relazione, conseguenza e destinatario prima di formare il prompt di A; non ricavare la tesi soltanto dallo stile della clip precedente. I derivati conservano il significato, non lo stesso ritaglio. Nel percorso image-first selezionato la prima A rimane realmente generata e osservata.
+
+**Un film lineare non rende lineare il soggetto.** La sequenza può mostrare co-presenza, confronto, alternative, ritorno ricorsivo che modifica ciò che segue, oppure capacità presente e orizzonte futuro in uno stesso campo. La vicinanza dei fotogrammi non autorizza un nesso causale, né un loop significa automaticamente tornare identici al punto iniziale. La grammatica temporale deriva dal **tipo di relazione** che si vuole mostrare.
+
+**Presentazione e guida navigabile sono capacità distinte.** Una clip può introdurre un sistema attraverso spazi, azioni e conseguenze e condividere la rappresentazione con una guida interattiva. L'MP4 non riceve input, non conserva stato operativo e non esegue funzioni. La parentela visuale non prova identità funzionale.
+
+**La descrizione di A non consegna la sua immagine.** Se un host genera A e un altro costruisce B, chi codifica deve poter **leggere davvero il file visivo o un asset effettivamente accessibile**, insieme a ciò che vi è stato osservato. Prompt, immagine vista soltanto in un'altra chat o link a una skill non completano il passaggio. Usare i mezzi già disponibili per il trasferimento reale quando serve; non presumere un servizio permanente o uno schema di metadati universale.
+
+**Dimostrazione da screenshot ≠ esecuzione del prodotto.** Un cursore animato può illustrare un workflow, ma non attesta che il click o la risposta siano realmente avvenuti nel runtime. Distinguere schermata osservata, ricostruzione esplicativa ed esecuzione osservata quando il claim lo richiede.
+
+Il trasferimento è di **conoscenze e metodi**, non di codice altrui o nuove tappe imposte.
 
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
