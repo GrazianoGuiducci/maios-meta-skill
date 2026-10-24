@@ -72,6 +72,8 @@ Il percorso selezionato richiede una **vera capacità di generare A**; A è prim
 
 **Ritorno autoriale dopo il primo film MKCV.** Una immagine A realmente generata e una clip B realmente esportata non bastano se B anima **nuovi diagrammi sovrapposti**, mentre il destinatario chiedeva di **animare il soggetto di A**. Quando questa è la richiesta, formare movimento interno all'immagine (attori, props, ambiente, camera) con asset/livelli o image-to-video effettivamente disponibili; non assumere mesh/rig inesistenti. [Studio-Lab](VC30_STUDIO_LAB_IT.md#correzione-emersa-dallosservazione-reale-animare-a-non-sovrapporvi-un-altro-film) include l'apprendimento e [Motion.so MCP](https://docs.motion.so/guides/mcp) come eventuale mezzo da provare, non come provider installato o pubblicatore social.
 
+**Prima prova di animazione della stessa immagine A.** Dopo la correzione dell'operatore è stato eseguito un piccolo filmato originale che muove realmente parti di A (testa/braccio con pivot, sfondo ricostruito, luce/camera nella stessa scena), **9 secondi e 270 frame MP4 decodificati**. Non è ancora un modello 3D; non è una scena non identica che dimostri apprendimento generalizzato. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md#conoscenza-esercitata--immagine-a-che-diventa-movimento-24-ottobre-2026) distingue A animata, ricostruzione procedurale e scena inventata in codice; apprende metodi da cinetic/img2threejs/Remotion senza importarne il codice.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
