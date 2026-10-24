@@ -68,6 +68,8 @@ Quando un film breve coinvolge più discipline, raggiungere [VC-30s Studio-Lab](
 
 Il percorso selezionato richiede una **vera capacità di generare A**; A è prima del codice ma può rappresentare un momento diverso dall'apertura `t=0` del video. Attori, oggetti, camera, didascalie e suono facoltativo devono esprimere una situazione fonte coerente. Chi codifica B deve raggiungere davvero il file A, non solo la sua descrizione. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md) conserva il fascicolo minimo di caso e il ritorno dell'apprendimento; le istruzioni da sole non producono un video.
 
+**MKCV, non solo VC-30s.** Il [Mini Kernel Code Video](VC30_STUDIO_LAB_IT.md#mkcv--mini-kernel-code-video-oltre-il-profilo-di-30-secondi) è il campo generale di produzione, mentre VC-30s è un suo possibile formato. Le conoscenze e le undici postazioni sono disponibili; generatore A, codec, scene B, video integrato e secondo caso non identico rimangono da esercitare nel ricevente reale. Non creare nuove copie dello Studio-Lab per variare durata o linguaggio visivo.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
