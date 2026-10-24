@@ -1,0 +1,110 @@
+{
+  "en": {
+    "title": "Create timelapses from an image-generated reference",
+    "kind": "Generative media competence",
+    "domain": "Visual creation",
+    "does": "Generates a visual reference before constructing an editable coded first frame and meaningful short animation.",
+    "when": "When coding a first frame would otherwise rely on an imagined picture rather than an observed generated image.",
+    "examples": [
+      "Explain a documented competence result.",
+      "Animate a source-bound design change.",
+      "Show a recorded process without inventing stages."
+    ],
+    "route": "/resources/creare-timelapse-semantici/",
+    "description": "Use an image generator before coding a 30-second visual sequence.",
+    "subtitle": "Use an image generator before coding a 30-second visual sequence.",
+    "intro": [
+      "First observe a generated image A, then code B; image-generation and RAM optimisation are different functions."
+    ],
+    "method": [
+      {
+        "title": "Understand the object",
+        "body": "Use the source and intent to form the visual question."
+      },
+      {
+        "title": "Generate A",
+        "body": "Use an actual image generator and inspect its result."
+      },
+      {
+        "title": "Code B",
+        "body": "Build editable geometry or use the reference as an asset."
+      },
+      {
+        "title": "Animate and learn",
+        "body": "Use explicit time, inspect meaningful moments and return reusable learning."
+      }
+    ],
+    "depth": [
+      {
+        "title": "Distinct origins",
+        "body": "The image generator produces A; render(t=0) creates B, and neither proves unobserved cognition."
+      }
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copy START_CHAT_EN.txt."
+      },
+      {
+        "title": "In a harness",
+        "body": "Use native image and coding tools."
+      }
+    ],
+    "learning": "The corrected image-first method is documented; independent exercise remains unobserved.",
+    "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Creare timelapse da un'immagine di riferimento generata",
+    "kind": "Competenza visiva generativa",
+    "domain": "Creazione visiva",
+    "does": "Genera un riferimento prima di costruire il primo frame editabile in codice e una breve animazione significativa.",
+    "when": "Quando serve vedere un esempio prima di progettare la prima scena in codice.",
+    "examples": [
+      "Spiega una risultante documentata.",
+      "Anima un cambiamento progettuale.",
+      "Rappresenta un processo osservato senza inventare fasi."
+    ],
+    "route": "/risorse/creare-timelapse-semantici/",
+    "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
+    "subtitle": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
+    "intro": [
+      "Prima osserva A generata, poi codifica B. La memoria visiva e la RAM sono funzioni diverse."
+    ],
+    "method": [
+      {
+        "title": "Comprendere",
+        "body": "Forma la domanda visiva da fonte e intento."
+      },
+      {
+        "title": "Generare A",
+        "body": "Usa un vero generatore e osserva il risultato."
+      },
+      {
+        "title": "Codificare B",
+        "body": "Costruisci la scena editabile dal riferimento."
+      },
+      {
+        "title": "Animare e apprendere",
+        "body": "Usa il tempo esplicito, osserva e restituisci sapere riusabile."
+      }
+    ],
+    "depth": [
+      {
+        "title": "Origini distinte",
+        "body": "A viene dal generatore; B da render(t=0). Nessuno prova stati cognitivi non osservati."
+      }
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Copia AVVIO_CHAT_IT.txt."
+      },
+      {
+        "title": "In harness",
+        "body": "Usa strumenti nativi realmente disponibili."
+      }
+    ],
+    "learning": "Il metodo corretto è descritto; il suo esercizio indipendente resta non osservato.",
+    "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md"
+  }
+}

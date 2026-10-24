@@ -1,0 +1,11 @@
+# Semantic Timelapse Formation
+
+**MKCV — Mini Kernel Code Video** is the general studio/competence field; **VC-30s** is a short-film profile. The [Studio-Lab](VC30_STUDIO_LAB_EN.md) is method-ready, not a runtime installed here.
+
+**Generate an image example first, then build the first frame in editable code and form a 30-second timelapse.**
+
+This public resource preserves the distinction between an image-generator reference (A) and the coded first frame (B). A is first in production, but may be a key visual rather than the film's opening frame. The reason to generate A first is not to build B "from memory"; buffering fewer frames in RAM is a separate technical choice.
+
+Open [SKILL.md](SKILL.md), [OPERATING_GUIDE.md](OPERATING_GUIDE.md), the [VC30 operating field](VC30_OPERATIONAL_KERNEL.md), the [VC-30s Studio-Lab](VC30_STUDIO_LAB_EN.md) and [EXAMPLES.md](EXAMPLES.md), or copy the complete [START_CHAT_EN.txt](START_CHAT_EN.txt) into a chat. Supply your sources and real tools. [Italiano](README_IT.md).
+
+State: prepared candidate 0.4.1 (VC-30s operating competence field + narrative/2.5D/3D method; no new character/3D film yet exercised). Historical MAIOS study videos were code-only; an independent exercise of the corrected image-generator-first workflow has not yet been observed. Publication, download packaging, website and social remain separate.
