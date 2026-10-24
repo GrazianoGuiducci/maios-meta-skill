@@ -29,4 +29,6 @@
 
 **Riferimento visivo e tempo di apertura del film.** Genera e osserva A prima, ma non dedurre che sia lo stato `t=0`: può essere una posa significativa o una relazione che guida tutta la scena. Prima di codificare B, riconoscere cosa rende identificabile il referente e quale stato deve davvero aprire il video. Quando il gesto conta, attore, oggetto, camera e cue devono descrivere una relazione di fonte comune, non tracce animate scollegate. Una fonte nuova può richiedere un'altra scena, non soltanto didascalie cambiate.
 
+**Instradamento alle postazioni Studio-Lab.** Quando il video richiede comprensione della fonte, immagine A, personaggi/asset, 3D o sonoro oltre una semplice scena, usare [VC-30s Studio-Lab](VC30_STUDIO_LAB_IT.md) per raggiungere **solo le competenze specialistiche pertinenti**. Il movimento può tornare dal frame B al riferimento A o alla domanda editoriale; non prescrive una filiera di undici stazioni. Il fascicolo distingue accesso reale all'asset, generazione/osservazione, MP4 realmente codificato ed eventuale consegna autorizzata.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
