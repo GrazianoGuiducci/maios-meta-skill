@@ -1,0 +1,45 @@
+# VC-30s — Operational competence field for code-made short videos
+
+**State:** candidate 0.3.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+
+## Form the film from the actual subject
+
+The subject, its source, what is observed vs illustrated, the receiving viewer and the meaningful change determine which capabilities should participate. The mini-kernel can combine source understanding, generated visual references, storyboard/design, 2D/2.5D/3D scene implementation, timeline composition, optional narration/sound, encoding/inspection and return of reusable learning. Not every video needs characters, Three.js, voiceover or an independent image sequence.
+
+**Image A** is a real output from an image generator, generated from source-bound instructions and **observed before writing the first visual frame in code**. The purpose is to avoid relying only on the model's visual recollection. **Image B** is the coded first frame of an editable scene, not a substitute for A. A bitmap does not provide hidden depth, character rigging or real events; the executable scene must acquire these if the film requires them.
+
+An actor or object needs a recognisable identity across time: referent, role, visual features, observable state, actions, relations and, if necessary, pose, prop contacts and camera visibility. Isometric SVG/CSS or layered 2.5D can communicate depth; true 3D requires actual geometry, lighting and camera when they materially help understanding.
+
+## Composing possible technical carriers
+
+**HTML/video:** [HyperFrames](https://github.com/heygen-com/hyperframes) uses timed HTML clips and seekable timelines, with GSAP and custom `hf-seek` rendering for Canvas/Three.js. Its framework is Apache-2.0.
+
+**React/video:** [Remotion](https://github.com/remotion-dev/remotion) uses `useCurrentFrame()`, compositions and sequences. Its Remotion License is **not** an unrestricted MIT or Apache license: consult current free/company terms for the user's organization.
+
+**2D/interaction:** [PixiJS/GSAP example](https://github.com/AhmadDinkaa/pixijs-tic-tac-toe) separates scene objects, game state, feedback animations and sound. For a film, convert real-time event callbacks to frame-addressable states.
+
+**Web/3D:** [GSAP/Three.js example](https://github.com/TheWebxite/phans-custom-tailor) provides shader-based fabric/photo effects and fallbacks, but a WebGL realtime loop cannot be assumed seekable. The source's license for code/asset reuse must be resolved separately.
+
+**Narration/audio:** [Motion Video](https://github.com/bestagentkits/motion-video-skill) offers beat-aligned speech/captions/music and a measured export loop; its provider credentials and specific thresholds do not become universal requirements.
+
+**Motion craft:** [iart motion-skills](https://github.com/iart-ai/motion-skills) links targeted skills for storytelling, character drawing, isometric projection, data infographics, WebGL, audio and frame inspection. Acquire only the relevant competence and treat each pack's examples separately from its general craft.
+
+**Web motion language:** [modern-portfolio](https://github.com/sanidhyy/modern-portfolio) uses Framer Motion variants and layered page transitions; learn the coordination, not the website's styles or automatic video support.
+
+These sources are **mechanisms and learning resources**, not installed providers. No code, images, fonts, music or shader assets are copied into this public skill. Resolve dependencies and permissions in the actual receiving environment.
+
+## A video must be addressable in time
+
+The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
+
+Separate **source time** (real recorded events and intervals) from **presentation time** (the timeline of the explanatory animation). When only the latter exists, the output is an explanatory short rather than documented time-lapse footage.
+
+Audio and caption cues should share time data with the film if they contribute meaning. Silence can be the correct result. Check actual encoded duration, dimensions and track presence plus representative decoded frames when those claims matter; observing a clip is not proof of viewer understanding.
+
+## Reusable recursive return
+
+An image may introduce a false hierarchy; a character may lose its identity while turning; an HTML animation may fail to seek; a caption or soundtrack may create a misleading temporal implication. Correct the source interpretation, image instruction, visual design, code, sound or receiver method **at the owner that must act differently next time**. If a method already existed but was not reached, improve discovery, not the number of skill files. No claim that an exported film changes model weights or self-installs tools.
+
+**Not yet exercised in this public edition:** the complete A generated → A observed → B coded with characters/objects → video chain, a new 3D render, external audio providers, publication. The kernel makes those capacities **discoverable**, not automatically active.
+
+**Source coordinates and provenance:** this portable text distills methods from the linked projects as read on 24 October 2026. Source versions and licenses may change; re-open the actual repository where an integration/asset choice becomes material.
