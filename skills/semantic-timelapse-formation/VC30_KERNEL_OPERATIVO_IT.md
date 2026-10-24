@@ -74,6 +74,14 @@ Un altro rientro sulle sorgenti mette in luce capacità che **non richiedono un 
 
 Il trasferimento è di **conoscenze e metodi**, non di codice altrui o nuove tappe imposte.
 
+## Immagine A prima del codice, non necessariamente al secondo zero
+
+La prima immagine A è generata e osservata **prima di programmare l'animazione**, ma non deve necessariamente rappresentare il tempo `t=0` del film. Può essere un'immagine guida, l'identità di un personaggio, il gesto più significativo, una relazione spaziale o un momento rappresentativo. La scena codificata B possiede il **proprio** stato iniziale; la relazione utile con A può apparire anche più avanti. Non imporre una copia pixel per pixel come primo frame solo perché A è stata prodotta per prima nel lavoro.
+
+**Una situazione rappresentata, più espressioni visibili.** Quando il soggetto contiene gesti o cambiamenti di stato, attori, oggetti tenuti in mano, camere, parole e suoni devono rendere aspetti coerenti **della stessa situazione ancorata alla fonte**. Un click, gesto o cambio di punto di vista non dimostra automaticamente che un evento sia accaduto. Alcuni video richiedono solo una relazione condivisa, altri un modello di stati/eventi più ricco: nessuna macchina a stati è universalmente obbligatoria.
+
+**Una variante dei dati non è sempre un nuovo soggetto.** Una scena può produrre nuove varianti quando il tipo di relazione rimane pertinente. Un caso realmente diverso può richiedere un'altra prospettiva, grammatica percettiva, comprensione della fonte o prompt per A, non soltanto sostituire nomi e colori del vecchio template. La capacità riusabile riguarda *come formare* scene, non imporre la loro geometria ai casi futuri.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
