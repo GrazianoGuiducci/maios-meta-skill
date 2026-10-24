@@ -28,6 +28,20 @@ Un attore/oggetto conserva identità riconoscibile nel tempo: referente, ruolo, 
 
 Questi sono **metodi e sorgenti di sapere**, non dipendenze installate. Nessun asset, logo, foto, shader o codice di terzi è copiato in questa risorsa. Il ricevente reale sceglie i mezzi e risolve i relativi permessi/licenze.
 
+## Apprendere dai metodi altrui, senza trasferire le implementazioni
+
+Due giri sulle sorgenti esterne affinano **che cosa sa fare la competenza**, non quali repository deve installare.
+
+**Dalle etichette a una materia visiva percepibile.** «Cinematografico» o «moderno» non specificano una scena. Lasciare che il soggetto determini materia, forma, inquadratura, luce e comportamento dell'immagine A. Osservare A come **ipotesi visiva**, senza importare nella scena B una composizione arbitraria o una causalità inventata. Le liste di stili vietati, i numeri di timing e i preset dei progetti sorgente non diventano invarianti MAIOS.
+
+**Dal personaggio illustrato al gesto coerente.** Se un attore o oggetto è pertinente, riconoscere segni visivi, posa, sguardo, contatti e relazioni che devono continuare. Mano con attrezzo, sguardo verso l'oggetto e props che attraversano un cambio camera descrivono un rapporto persistente, non soltanto pixel animati. Un'immagine A appiattita non rivela retro, rig o volumi nascosti: cambiare prospettiva o acquisire gli asset reali necessari invece di inventarli.
+
+**Dal movimento al primo incontro.** Una scena è comprensibile attraverso azione, conseguenza, pausa, cambio d'inquadratura, parole e silenzio. Il tempo può rappresentare sequenza, confronto, incertezza o causa: il montaggio non deve obbligare ogni inquadratura successiva a essere effetto della precedente. Voce e musica, se pertinenti, condividono gli eventi significativi, non timestamps arbitrari; il video muto resta possibile.
+
+**Dall'osservazione al sapere.** Un fotogramma rende visibile la geometria, la visione in movimento il ritmo, un frame codificato un problema di export. Queste osservazioni possono correggere il metodo che le produce, senza tribunali di approvazione. La nostra valutazione «come primo spettatore» non è prova che un pubblico reale abbia compreso.
+
+La capacità acquisita è la **trasduzione percettiva situata**: comprendere la fonte, formare un riferimento visivo osservabile e derivarne una rappresentazione temporale riproducibile conservando il significato del soggetto. Codice e runtime restano all'owner tecnico; qui non si importano codice, asset o stili di terzi.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
