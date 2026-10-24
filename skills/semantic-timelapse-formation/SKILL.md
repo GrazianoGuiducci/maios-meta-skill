@@ -50,6 +50,12 @@ The generated example may reveal a missing source relation; the coded frame may 
 
 KA keeps the possibility field open; FDLA corrects source/intent substitutions in-flow. The competence's recursive learning changes usable method and knowledge when materialized by a capable host. It is not a claim that a text file or video modifies LLM weights or automatically executes actions.
 
+## VC-30s: an operating mini-kernel, not a required technology stack
+
+A short film can need source comprehension, image A generation, editable B, visual actors and objects, 2.5D/3D motion, sound, rendering and learning. These are complementary capabilities bound by one video object, **not eight mandatory phases or eight installed tools**. The [VC-30s operating competence field](VC30_OPERATIONAL_KERNEL.md) makes the relation portable; its public edition contains source links and technical distinctions without private MAIOS topology or third-party code.
+
+The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. No new 3D or character film is claimed.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
