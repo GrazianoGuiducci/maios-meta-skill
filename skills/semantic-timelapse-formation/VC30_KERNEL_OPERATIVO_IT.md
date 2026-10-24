@@ -42,6 +42,22 @@ Due giri sulle sorgenti esterne affinano **che cosa sa fare la competenza**, non
 
 La capacità acquisita è la **trasduzione percettiva situata**: comprendere la fonte, formare un riferimento visivo osservabile e derivarne una rappresentazione temporale riproducibile conservando il significato del soggetto. Codice e runtime restano all'owner tecnico; qui non si importano codice, asset o stili di terzi.
 
+## Rientro sulle fonti non ancora lette: l'immagine generata non è un rig
+
+L'audit dei sette repository originali, dei **18 README di ingresso iart** e delle **sette skill principali HyperFrames** ha recuperato una distinzione mancante. **Non** significa che siano state lette tutte le 55 skill iart, tutti i blocchi HyperFrames o l'intera documentazione Remotion.
+
+La prima **immagine A realmente generata e osservata** rimane il riferimento. Può definire direzione visiva, composizione e rapporti fra personaggi e oggetti. Ma una figura appiattita non permette automaticamente di animare braccio, oggetto impugnato, sfondo o retro. Quando il movimento realmente lo richiede, far formare **ulteriori elementi source-bound, pose, maschere, livelli o geometrie**; quando basta muovere l'immagine intera, non forzare la scomposizione. Gli asset successivi devono restare coerenti col soggetto e A, conservando ruolo, provenienza e identità: non sono retroattivamente «la prima immagine A».
+
+La [competenza Generative Illustration](https://github.com/iart-ai/generative-illustration-skills) insegna a separare elementi animabili. Una sua guida riporta anche un falso positivo in un ritaglio SVG che ha cancellato una parte della figura. Il metodo acquisito è **separare senza perdere il referente**, non trasferire quel codice o una sua particolare euristica.
+
+La competenza [HyperFrames media-use](https://github.com/heygen-com/hyperframes) mostra come non riusare asset di un altro progetto per semplice somiglianza di prompt: identità, fonte e condizioni di riuso partecipano alla formazione della scena. Non serve copiare il manifest della sua cache.
+
+**Gradi diversi di modificabilità:** componenti nativi, codice che disegna un frame al tempo T e clip già renderizzata non conservano le stesse possibilità di intervento. Un MP4 terminato non contiene più un personaggio con arti modificabili. [Remotion ThreeCanvas](https://github.com/remotion-dev/remotion) è una possibilità di 3D controllato dal frame quando il ricevente reale la possiede.
+
+**Destinazione e testo:** un 16:9 spesso richiede *ri-composizione* per un 9:16, non ritaglio; persone, elementi, testi e aree coperte dall'interfaccia partecipano già alla richiesta per A. Parole e caption che devono essere esatte restano modificabili e, dove pertinente, accessibili; non sono lettere immaginate dall'immagine generata. Le specifiche di una piattaforma vanno confermate nel caso effettivo.
+
+Nessun codice/asset di terzi importato e nessun nuovo video dichiarato realizzato.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
