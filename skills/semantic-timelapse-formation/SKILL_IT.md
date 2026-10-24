@@ -29,6 +29,13 @@ Usa un renderer con tempo esplicito, ad esempio frame(t, scena). Un video di 30 
 
 Produrre e codificare i frame uno per volta può contenere la **memoria computazionale**: è una questione tecnica separata dal motivo per cui si genera A.
 
+## Lasciare che la sorgente determini geometria e significato del tempo
+
+Un terzo esercizio MAIOS, diverso dai primi due, ha mostrato che il **tipo di relazione sorgente** deve poter cambiare la **topologia della scena**, non soltanto le didascalie. Due correzioni indipendenti possono richiedere percorsi paralleli invece di un centro luminoso. Quella geometria era la risultante di quel particolare oggetto, non un nuovo modello grafico da imporre. Quando il renderer non possiede il mezzo per rappresentare una relazione, conservarne la differenza invece di forzarla nella forma disponibile.
+
+Distingui **tempo della sorgente** e **tempo dell'animazione**. Un video esplicativo di 30 secondi può mettere in relazione eventi e correzioni senza accelerare una cronologia realmente registrata. Chiamalo timelapse documentario soltanto se gli eventi e gli intervalli sorgente sono effettivamente disponibili e usati; altrimenti esplicita che è un'animazione temporale esplicativa. Il significato del tempo partecipa al prompt visivo, al primo frame e alla sequenza.
+
+
 ## Apprendimento e ricorsione
 
 L'esempio generato può far emergere una relazione assente, il frame codificato può mostrarne una traduzione falsa, la sequenza può perdere leggibilità o identità. Lascia che le conseguenze correggano interpretazione, istruzioni visive, codice o metodo temporale. Il sapere riusabile torna alla competenza che dovrà operare diversamente: dominio, Editoriali, Design, codice o formazione generale. Se il sapere c'era già ma non ha partecipato, correggi la scoperta invece di duplicarlo.

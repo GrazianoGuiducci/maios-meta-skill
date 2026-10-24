@@ -10,6 +10,13 @@
 
 **Memory is not the same issue.** The operator meant that the first coded frame should not be designed only "from memory"; an image-generator example is the visual starting point. Buffering only one frame for FFmpeg is a useful but separate RAM optimisation.
 
+**Source-defined topology.** An actual MAIOS comparison of two renderer corrections replaced the earlier radial metaphor with two independent paths, because the source comprised two different observations. The reusable lesson is not a new "two-lane" template: the kind and count of source relationships must be able to change geometry and code. An unsupported relation must not be silently forced into the renderer's nearest known type.
+
+**Two clocks.** The factual time of source events and the playback time of a 30-second video are not interchangeable. A narrated explanation of dated technical corrections is not automatically a timelapse of those actual events. Documentary time-lapse requires evidence of the underlying source intervals, while conceptual animations can have their own explicit display time.
+
+**Continuity of the public edition.** When MAIOS use materially changes the owner-native competence, maintainers must reconcile the public receiving method too: EN/IT skill and guide, complete standalone starters, examples and, where the public contract changes, version, catalogue, package, website and the context really consumed by an AI interface. Avoid replacing all public files for a local renderer adjustment. Recording a lesson privately is not equivalent to delivering it to users; changing a public branch is not equivalent to releasing or deploying it. Public feedback may return to the native owner.
+
+
 **Return learning.** Differences can change source comprehension, the generator instruction, the editing scene or the method. Preserve what occurred and what was understood then. Return reusable knowledge to the appropriate competence. If there was no image generator, do not mislabel render(t=0) as its output.
 
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.

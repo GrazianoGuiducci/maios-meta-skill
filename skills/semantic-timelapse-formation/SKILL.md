@@ -29,6 +29,13 @@ Use a time-explicit renderer, e.g. frame(t, scene). A 30-second film at 24 fps s
 
 Producing and encoding frames one at a time can limit **computer-memory use**. This is a separate technical issue from why A was requested.
 
+## Let the source determine topology and the meaning of time
+
+A non-identical MAIOS construction revealed that changing the **kind of relationship** should be able to change the **geometry** of the scene, not merely its captions. Two independent corrections may call for two parallel paths instead of a central glowing hub. That layout was an outcome of its particular source, not a new preset or universal recommendation. If the coding medium cannot express a requested relation, retain that difference explicitly instead of forcing it into a supported shape.
+
+Separate **time in the source** from **time in the animation**. A 30-second explanatory motion may represent a process or comparison without compressing any real recorded timeline. Call it a documentary timelapse only when underlying events and intervals are actually available and used; otherwise describe the artifact as an explanatory temporal animation. Keep that distinction in image prompts, first-frame construction and the final film.
+
+
 ## Learning and recursion
 
 The generated example may reveal a missing source relation; the coded frame may expose an inaccurate translation; later frames may reveal occlusion or lost identity. Let those consequences correct source understanding, the image prompt, the code or the temporal method while work is occurring. Return reusable learning to the owner that should behave differently on another task: domain, editorial meaning, design, code construction or general competence formation. If the knowledge already existed but was not reached, repair discovery instead of duplicating it.

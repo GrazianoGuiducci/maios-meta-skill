@@ -32,6 +32,13 @@ Use a time-explicit renderer, e.g. frame(t, scene). A 30-second film at 24 fps s
 
 Producing and encoding frames one at a time can limit **computer-memory use**. This is a separate technical issue from why A was requested.
 
+## Let the source determine topology and the meaning of time
+
+A non-identical MAIOS construction revealed that changing the **kind of relationship** should be able to change the **geometry** of the scene, not merely its captions. Two independent corrections may call for two parallel paths instead of a central glowing hub. That layout was an outcome of its particular source, not a new preset or universal recommendation. If the coding medium cannot express a requested relation, retain that difference explicitly instead of forcing it into a supported shape.
+
+Separate **time in the source** from **time in the animation**. A 30-second explanatory motion may represent a process or comparison without compressing any real recorded timeline. Call it a documentary timelapse only when underlying events and intervals are actually available and used; otherwise describe the artifact as an explanatory temporal animation. Keep that distinction in image prompts, first-frame construction and the final film.
+
+
 ## Learning and recursion
 
 The generated example may reveal a missing source relation; the coded frame may expose an inaccurate translation; later frames may reveal occlusion or lost identity. Let those consequences correct source understanding, the image prompt, the code or the temporal method while work is occurring. Return reusable learning to the owner that should behave differently on another task: domain, editorial meaning, design, code construction or general competence formation. If the knowledge already existed but was not reached, repair discovery instead of duplicating it.
@@ -55,6 +62,13 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 **Form the temporal change.** Use an explicit time parameter and stable object identities. A 30 s × 24 fps example has 720 samples. Let source data change text and geometry rather than hard-coding the first example as universal. Inspect later occlusion, text boundaries, the end state and unexpected implications of camera or montage.
 
 **Memory is not the same issue.** The operator meant that the first coded frame should not be designed only "from memory"; an image-generator example is the visual starting point. Buffering only one frame for FFmpeg is a useful but separate RAM optimisation.
+
+**Source-defined topology.** An actual MAIOS comparison of two renderer corrections replaced the earlier radial metaphor with two independent paths, because the source comprised two different observations. The reusable lesson is not a new "two-lane" template: the kind and count of source relationships must be able to change geometry and code. An unsupported relation must not be silently forced into the renderer's nearest known type.
+
+**Two clocks.** The factual time of source events and the playback time of a 30-second video are not interchangeable. A narrated explanation of dated technical corrections is not automatically a timelapse of those actual events. Documentary time-lapse requires evidence of the underlying source intervals, while conceptual animations can have their own explicit display time.
+
+**Continuity of the public edition.** When MAIOS use materially changes the owner-native competence, maintainers must reconcile the public receiving method too: EN/IT skill and guide, complete standalone starters, examples and, where the public contract changes, version, catalogue, package, website and the context really consumed by an AI interface. Avoid replacing all public files for a local renderer adjustment. Recording a lesson privately is not equivalent to delivering it to users; changing a public branch is not equivalent to releasing or deploying it. Public feedback may return to the native owner.
+
 
 **Return learning.** Differences can change source comprehension, the generator instruction, the editing scene or the method. Preserve what occurred and what was understood then. Return reusable knowledge to the appropriate competence. If there was no image generator, do not mislabel render(t=0) as its output.
 
