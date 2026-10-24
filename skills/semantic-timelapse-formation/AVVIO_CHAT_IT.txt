@@ -124,7 +124,7 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.4.2, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.4.3, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 **Identità attuale:** la competenza generale si chiama **MKCV — Mini Kernel Code Video**; questo testo conserva il profilo originario `VC-30s` e conduce al [medesimo Studio-Lab](VC30_STUDIO_LAB_IT.md). MKCV non prescrive una durata, un formato o undici fasi fisse. Il completamento produttivo resta distinto dalla descrizione metodologica.
 
