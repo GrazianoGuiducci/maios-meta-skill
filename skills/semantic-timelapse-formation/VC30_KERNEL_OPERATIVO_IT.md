@@ -1,6 +1,6 @@
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.3.3, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.4.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 ## Formare il filmato dall'oggetto reale
 
@@ -81,6 +81,10 @@ La prima immagine A è generata e osservata **prima di programmare l'animazione*
 **Una situazione rappresentata, più espressioni visibili.** Quando il soggetto contiene gesti o cambiamenti di stato, attori, oggetti tenuti in mano, camere, parole e suoni devono rendere aspetti coerenti **della stessa situazione ancorata alla fonte**. Un click, gesto o cambio di punto di vista non dimostra automaticamente che un evento sia accaduto. Alcuni video richiedono solo una relazione condivisa, altri un modello di stati/eventi più ricco: nessuna macchina a stati è universalmente obbligatoria.
 
 **Una variante dei dati non è sempre un nuovo soggetto.** Una scena può produrre nuove varianti quando il tipo di relazione rimane pertinente. Un caso realmente diverso può richiedere un'altra prospettiva, grammatica percettiva, comprensione della fonte o prompt per A, non soltanto sostituire nomi e colori del vecchio template. La capacità riusabile riguarda *come formare* scene, non imporre la loro geometria ai casi futuri.
+
+## Studio-Lab: il sapere partecipa nella postazione competente
+
+L'ampliamento VC-30s selezionato dall'operatore ha formato [Studio-Lab](VC30_STUDIO_LAB_IT.md) con undici **postazioni specialistiche** anziché una filiera obbligatoria. Permettono a conoscenza di fonte, direzione visiva, immagine A e asset, storyboard, codice, voce/sonoro, rendering, consegna e apprendimento ricorsivo di partecipare quando cambiano il film effettivo. Entrare nella [guida portabile](VC30_STUDIO_LAB_IT.md) quando un progetto attraversa più discipline. Il metodo scritto non installa generatori, renderer o istanze autonome.
 
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
