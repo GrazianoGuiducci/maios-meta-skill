@@ -70,6 +70,8 @@ The image generator is a **real capability required for image A** in the selecte
 
 **MKCV, not just VC-30s.** The [Mini Kernel Code Video](VC30_STUDIO_LAB_EN.md#mkcv--mini-kernel-code-video-beyond-the-thirty-second-profile) is the general production capability. VC-30s remains one output profile; the eleven specialist Studio-Lab stations need not be duplicated for other duration or style. A real image generator, coded B, observed film and a non-identical later use must still be exercised in the reader's actual environment.
 
+**Operator learning after the first real MKCV film.** Generating A and rendering B do not fulfill the intent when B animates **new overlays** while the user expected the **world depicted in A itself to move**. When that is the task, form character/prop/environment/camera motion *inside the reference* using actual editable assets or available image-to-video capabilities; do not infer hidden rigs. The [Studio-Lab](VC30_STUDIO_LAB_EN.md#learning-from-a-real-film-animate-image-a-rather-than-overlay-a-different-film) carries this learning and [Motion.so MCP](https://docs.motion.so/guides/mcp) as an optional provider requiring actual connection, asset upload and credits.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
