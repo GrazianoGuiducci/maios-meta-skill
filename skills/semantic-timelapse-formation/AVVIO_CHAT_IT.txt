@@ -26,6 +26,14 @@ Se manca un generatore accessibile, dichiara A non eseguita oppure ricevi un'imm
 
 A e B hanno origini e funzioni diverse: il rendering t=0 non sostituisce retroattivamente il generatore di immagini.
 
+## Infografiche narrative, attori visivi e 2.5D/3D
+
+La fonte può richiedere **una persona, un oggetto, uno strumento, un ambiente, un gesto o un cambiamento materiale**, non soltanto un diagramma con nodi e linee. La competenza può formare un'infografica strutturale, una scena con personaggi e oggetti, uno spazio illustrato 2.5D o un vero 3D. Sono **possibilità componibili, non categorie obbligatorie**; maggiore profondità non significa maggiore fedeltà o comprensione.
+
+Quando è pertinente, il sapere forma per ogni attore visivo **ruolo, stato osservabile, segni riconoscibili, azione e relazione agli altri**. Genera A da queste distinzioni e osserva se inventa identità, autorità, capacità o causalità. L'animazione conserva il referente mentre mutano camera, gesto, oggetto e testo. Un personaggio illustrato non dimostra che un umano o agente stia realmente operando.
+
+Dopo A, costruisci B come codice e scena modificabili, con asset e geometria effettivamente disponibili. Una bitmap non contiene automaticamente parti mobili, retro, mesh 3D, rig o profondità. Il 2.5D può usare livelli, maschere e parallax; il vero 3D richiede modelli, camera, materiali e runtime reali. Il mezzo segue la trasformazione source-bound. Il nuovo percorso è **metodo formato**, non ancora un film con personaggi o 3D esercitato.
+
 ## Tempo e video breve
 
 Usa un renderer con tempo esplicito, ad esempio frame(t, scena). Un video di 30 secondi a 24 fps campiona 720 istanti. Determina che cosa cambia e che cosa resta riconoscibile. Osserva B e gli istanti significativi, incluso il finale. Un centro può inventare autorità, un ciclo ripetizione e una successione causalità. Correggi la rappresentazione rispetto alla sorgente.
@@ -59,6 +67,10 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 **Tradurre in B.** Dopo aver visto A, costruisci la scena modificabile. Scegli se ricostruire geometrie, usare l'immagine come asset o comporre i metodi. La bitmap non rivela automaticamente livelli, profondità, traiettorie o fatti nascosti. Produci e osserva il primo frame codificato t=0, distinto da A.
 
+**Narrazione visiva dalla fonte.** Non partire da un nucleo luminoso, un diagramma fisso o un look 3D generico. Quando persone e oggetti rendono più leggibile la trasformazione, formare per ognuno referente di fonte, ruolo, segni riconoscibili, stato, azione e conseguenza. Le istruzioni per generare A possono includere ambiente, gesto, strumenti, materia, prospettiva, luce e spazi per didascalie. A è un riferimento osservato, non una documentazione di eventi non osservati.
+
+**2.5D e vero 3D.** A può diventare sfondo/texture o essere tradotta in livelli, maschere, sprite e parallax realmente costruiti. Muovere la camera su un'immagine piatta non genera retro o rig del personaggio. Usare geometrie e animazioni 3D soltanto quando lo spazio modifica la comprensione e il ricevente possiede i mezzi. Distinguere identità dell'attore e trasformazioni dei singoli frame. Le correzioni su occlusione/continuità tornano a Code Medium/Design, quelle sul significato all'owner semantico.
+
 **Formare il tempo.** Usa un parametro t esplicito e identità stabili. L'esempio 30 s × 24 fps contiene 720 campioni. Fai dipendere testo e geometria dalla sorgente, senza irrigidire in codice una prima allegoria. Osserva collisioni, didascalie, finale e implicazioni del montaggio.
 
 **La memoria è un'altra questione.** L'operatore intendeva evitare di costruire il primo frame soltanto «andando a memoria»; l'immagine generata serve da esempio osservabile. Limitare la RAM inviando un frame alla volta a FFmpeg è un'ottimizzazione tecnica diversa.
@@ -84,6 +96,10 @@ Il brief descrive uno stesso oggetto come schizzo e proposta successiva. Genera 
 
 ## Un processo fisico documentato
 Usa osservazioni reali ordinate. Genera A come esempio, non come finta ripresa. Costruisci B e la sequenza dall'evidenza. Il generatore e il montaggio non autorizzano a inventare eventi o cause mancanti.
+
+## Un personaggio illustrato e un oggetto che cambia
+
+La fonte documenta un cambiamento in un oggetto di lavoro dopo un'azione dell'operatore. Forma A come illustrazione esplicativa con persona, oggetto e gesto pertinente, dichiarando lo statuto illustrativo. Osservala prima di scrivere B. Usa livelli, maschere o geometrie reali solo per i movimenti che il codice può ricostruire fedelmente. Il video non deve attribuire alla persona o all'AI altri passaggi mai documentati. Non scegliere 3D soltanto perché l'immagine mostra volume.
 
 ## Generatore mancante
 Il renderer in codice può creare B, ma non può affermare che A sia stata generata da un modello visivo. Recupera un vero riferimento o un generatore accessibile.
