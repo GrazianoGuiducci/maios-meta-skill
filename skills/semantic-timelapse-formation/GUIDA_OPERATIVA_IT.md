@@ -23,4 +23,6 @@
 
 **Ritorno dell'apprendimento.** La correzione può cambiare comprensione, prompt, scena o metodo. Conserva accaduto e comprensione di allora; porta il sapere riusabile alla competenza pertinente. Se non è stato usato un generatore, non chiamare la prima immagine del codice «generata» da quel mezzo.
 
+**Composizione VC-30s.** Quando il video rende pertinenti più capacità, entra nel [mini-kernel VC30](VC30_KERNEL_OPERATIVO_IT.md) prima di assumere il vecchio renderer procedurale come mezzo fisso. Il sapere combina significato della fonte, immagine A generata, identità di attori e oggetti, animazione con seek e sonoro facoltativo. HyperFrames e Remotion sono carrier alternativi; esempi GSAP/Three/Pixi/Framer Motion sono spesso UI realtime e richiedono un modello di tempo esplicito per esportare video ripetibili. Leggere le repository non le installa. La licenza Remotion non è MIT/Apache.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
