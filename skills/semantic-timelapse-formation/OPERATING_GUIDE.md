@@ -29,4 +29,6 @@
 
 **Visual reference versus the film's first time.** Generate and inspect A first, but do not presume it is the `t=0` state. It may be the scene's signature pose or strongest relation. Before coding B, understand what identity A contributes and which scene state should actually start the film. When actions matter, build the actor, object, camera and cue descriptions from a consistent source relation rather than unrelated animation tracks. A different source may require a newly formed scene, not only a changed text prop.
 
+**Studio-Lab operating station routing.** When the production needs source interpretation, generated imagery, character assets, 3D or sound beyond one simple scene, use the [VC-30s Studio-Lab](VC30_STUDIO_LAB_EN.md) to reach the **smallest relevant set of specialist competences**. The work may return from coded B to image A or editorial meaning; no one-pass, eleven-stage pipeline is assumed. A case record distinguishes actual asset access, generated vs observed frames, rendered MP4 and any real delivery effect.
+
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
