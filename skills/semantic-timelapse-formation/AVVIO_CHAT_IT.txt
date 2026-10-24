@@ -3,6 +3,8 @@ Genera prima A con un vero generatore di immagini e osservala; solo DOPO costrui
 
 Se il film richiede più discipline, componi le postazioni dello Studio-Lab VC-30s incluse sotto; sono conoscenze e metodi, non software già installato.
 
+MKCV — Mini Kernel Code Video è il campo generale di produzione, VC-30s un profilo; nessun renderer è installato per la sola lettura.
+
 ---
 name: semantic-timelapse-formation
 description: Forma video brevi dal sapere, generando prima un'immagine di esempio con un generatore di immagini, poi costruendo il primo frame in codice e la sequenza temporale.
@@ -73,6 +75,8 @@ Quando un film breve coinvolge più discipline, raggiungere [VC-30s Studio-Lab](
 
 Il percorso selezionato richiede una **vera capacità di generare A**; A è prima del codice ma può rappresentare un momento diverso dall'apertura `t=0` del video. Attori, oggetti, camera, didascalie e suono facoltativo devono esprimere una situazione fonte coerente. Chi codifica B deve raggiungere davvero il file A, non solo la sua descrizione. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md) conserva il fascicolo minimo di caso e il ritorno dell'apprendimento; le istruzioni da sole non producono un video.
 
+**MKCV, non solo VC-30s.** Il [Mini Kernel Code Video](VC30_STUDIO_LAB_IT.md#mkcv--mini-kernel-code-video-oltre-il-profilo-di-30-secondi) è il campo generale di produzione, mentre VC-30s è un suo possibile formato. Le conoscenze e le undici postazioni sono disponibili; generatore A, codec, scene B, video integrato e secondo caso non identico rimangono da esercitare nel ricevente reale. Non creare nuove copie dello Studio-Lab per variare durata o linguaggio visivo.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
@@ -116,7 +120,9 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.4.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.4.1, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+
+**Identità attuale:** la competenza generale si chiama **MKCV — Mini Kernel Code Video**; questo testo conserva il profilo originario `VC-30s` e conduce al [medesimo Studio-Lab](VC30_STUDIO_LAB_IT.md). MKCV non prescrive una durata, un formato o undici fasi fisse. Il completamento produttivo resta distinto dalla descrizione metodologica.
 
 ## Formare il filmato dall'oggetto reale
 
@@ -220,7 +226,13 @@ Un'immagine può introdurre una gerarchia inesistente; un personaggio può perde
 
 # VC-30s Studio-Lab — produrre video in codice con competenze specializzate
 
-**Stato:** metodo pubblico **candidato 0.4.0**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+**Stato:** metodo pubblico **candidato 0.4.1**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+
+## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
+
+**MKCV** è il nome del mini-kernel di competenze per produrre video in codice. **VC-30s** identifica un **profilo di durata** e i primi esercizi che hanno contribuito a formarlo, non il limite dei video che MKCV può affrontare. Questo Studio-Lab è **un solo laboratorio**: le sue undici postazioni restano facoltà riutilizzabili per altri durate, formati, personaggi, 2.5D/3D, audio e forme di rappresentazione quando il soggetto le richiede.
+
+**Stato del metodo pubblico candidato:** struttura e sapere sono leggibili in queste istruzioni; non significa image generator, renderer o lavoro multi-agente installati nel ricevente. Il completamento produttivo si potrà osservare in un caso con A realmente generata/osservata, scena B programmata, film decodificato e lavoro recuperabile. Un secondo caso non identico permetterà di comprendere quale apprendimento è diventato effettivamente riusabile. Pubblicare una clip o una release rimane una decisione separata.
 
 ## Perché è uno studio-lab e non una lista di applicazioni
 
