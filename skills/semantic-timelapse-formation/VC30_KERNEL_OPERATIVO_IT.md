@@ -2,6 +2,8 @@
 
 **Stato:** candidata 0.4.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
+**Identità attuale:** la competenza generale si chiama **MKCV — Mini Kernel Code Video**; questo testo conserva il profilo originario `VC-30s` e conduce al [medesimo Studio-Lab](VC30_STUDIO_LAB_IT.md). MKCV non prescrive una durata, un formato o undici fasi fisse. Il completamento produttivo resta distinto dalla descrizione metodologica.
+
 ## Formare il filmato dall'oggetto reale
 
 Soggetto, fonti, distinzione fra osservato e illustrato, destinatario e trasformazione significativa determinano quali capacità partecipano. Il mini-kernel può comporre comprensione della fonte, generatore d'immagini, storyboard/design, scena 2D/2.5D/3D, temporalità, narrazione/suono facoltativi, esportazione/osservazione e ritorno del sapere. Non tutti i film richiedono personaggi, Three.js, voce o sequenze multiple di immagini.
