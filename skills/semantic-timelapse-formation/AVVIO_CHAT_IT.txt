@@ -59,6 +59,8 @@ Un breve filmato può richiedere sapere della fonte, generazione di A, scena B m
 
 Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, Remotion e Framer Motion emerge la capacità di **ricostruire una scena a tempo arbitrario**, conservare identità di persone/oggetti e statuto delle fonti, attendere le risorse, comporre audio quando utile, osservare i frame codificati e far ritornare apprendimento all'owner. `real-time update(dt)` non equivale automaticamente a `render(t)` seekable. L'immagine A resta distinta da B; shader, rig e librerie sono mezzi tecnici, non fonti dei fatti. Nessun nuovo video con personaggi o 3D è dichiarato eseguito.
 
+**Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo; l'audit delle fonti è stato selettivo, non lettura di ogni file.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
@@ -91,6 +93,8 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 **Ritorno dell'apprendimento.** La correzione può cambiare comprensione, prompt, scena o metodo. Conserva accaduto e comprensione di allora; porta il sapere riusabile alla competenza pertinente. Se non è stato usato un generatore, non chiamare la prima immagine del codice «generata» da quel mezzo.
 
 **Composizione VC-30s.** Quando il video rende pertinenti più capacità, entra nel [mini-kernel VC30](VC30_KERNEL_OPERATIVO_IT.md) prima di assumere il vecchio renderer procedurale come mezzo fisso. Il sapere combina significato della fonte, immagine A generata, identità di attori e oggetti, animazione con seek e sonoro facoltativo. HyperFrames e Remotion sono carrier alternativi; esempi GSAP/Three/Pixi/Framer Motion sono spesso UI realtime e richiedono un modello di tempo esplicito per esportare video ripetibili. Leggere le repository non le installa. La licenza Remotion non è MIT/Apache.
+
+**Immagine A non equivale a parti mobili indipendenti.** Dopo aver osservato A, riconoscere se il gesto richiede parti, altre pose/viste, maschere o geometrie. Formare solo quelle necessarie coerenti con la fonte e con A, custodendo identità e provenienza. Se non si possono costruire senza inventare elementi, cambiare camera o modalità della rappresentazione. Non spacciare una bitmap per rig 3D. Comprendere inoltre quali parti dovranno restare modificabili nei diversi renderer, anziché scegliere il carrier dal solo MP4 risultante.
 
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
 
@@ -138,6 +142,22 @@ Due giri sulle sorgenti esterne affinano **che cosa sa fare la competenza**, non
 
 La capacità acquisita è la **trasduzione percettiva situata**: comprendere la fonte, formare un riferimento visivo osservabile e derivarne una rappresentazione temporale riproducibile conservando il significato del soggetto. Codice e runtime restano all'owner tecnico; qui non si importano codice, asset o stili di terzi.
 
+## Rientro sulle fonti non ancora lette: l'immagine generata non è un rig
+
+L'audit dei sette repository originali, dei **18 README di ingresso iart** e delle **sette skill principali HyperFrames** ha recuperato una distinzione mancante. **Non** significa che siano state lette tutte le 55 skill iart, tutti i blocchi HyperFrames o l'intera documentazione Remotion.
+
+La prima **immagine A realmente generata e osservata** rimane il riferimento. Può definire direzione visiva, composizione e rapporti fra personaggi e oggetti. Ma una figura appiattita non permette automaticamente di animare braccio, oggetto impugnato, sfondo o retro. Quando il movimento realmente lo richiede, far formare **ulteriori elementi source-bound, pose, maschere, livelli o geometrie**; quando basta muovere l'immagine intera, non forzare la scomposizione. Gli asset successivi devono restare coerenti col soggetto e A, conservando ruolo, provenienza e identità: non sono retroattivamente «la prima immagine A».
+
+La [competenza Generative Illustration](https://github.com/iart-ai/generative-illustration-skills) insegna a separare elementi animabili. Una sua guida riporta anche un falso positivo in un ritaglio SVG che ha cancellato una parte della figura. Il metodo acquisito è **separare senza perdere il referente**, non trasferire quel codice o una sua particolare euristica.
+
+La competenza [HyperFrames media-use](https://github.com/heygen-com/hyperframes) mostra come non riusare asset di un altro progetto per semplice somiglianza di prompt: identità, fonte e condizioni di riuso partecipano alla formazione della scena. Non serve copiare il manifest della sua cache.
+
+**Gradi diversi di modificabilità:** componenti nativi, codice che disegna un frame al tempo T e clip già renderizzata non conservano le stesse possibilità di intervento. Un MP4 terminato non contiene più un personaggio con arti modificabili. [Remotion ThreeCanvas](https://github.com/remotion-dev/remotion) è una possibilità di 3D controllato dal frame quando il ricevente reale la possiede.
+
+**Destinazione e testo:** un 16:9 spesso richiede *ri-composizione* per un 9:16, non ritaglio; persone, elementi, testi e aree coperte dall'interfaccia partecipano già alla richiesta per A. Parole e caption che devono essere esatte restano modificabili e, dove pertinente, accessibili; non sono lettere immaginate dall'immagine generata. Le specifiche di una piattaforma vanno confermate nel caso effettivo.
+
+Nessun codice/asset di terzi importato e nessun nuovo video dichiarato realizzato.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
@@ -168,6 +188,10 @@ Usa osservazioni reali ordinate. Genera A come esempio, non come finta ripresa. 
 ## Un personaggio illustrato e un oggetto che cambia
 
 La fonte documenta un cambiamento in un oggetto di lavoro dopo un'azione dell'operatore. Forma A come illustrazione esplicativa con persona, oggetto e gesto pertinente, dichiarando lo statuto illustrativo. Osservala prima di scrivere B. Usa livelli, maschere o geometrie reali solo per i movimenti che il codice può ricostruire fedelmente. Il video non deve attribuire alla persona o all'AI altri passaggi mai documentati. Non scegliere 3D soltanto perché l'immagine mostra volume.
+
+## Quando l'immagine A richiede parti mobili indipendenti
+
+La prima immagine generata A mostra un personaggio illustrato che tiene un oggetto. Definisce composizione e aspetto, ma non il rig nascosto né strati separati di mano e oggetto. Se il gesto richiede che una mano sollevi quell'oggetto, formare soltanto le parti coerenti necessarie e i loro punti di contatto prima di codificare B. Se non è possibile farlo con fedeltà, cambiare inquadratura e mantenere integra l'immagine. Il riferimento A rimane distinto dagli asset derivati; nessuno dei due è una ripresa effettiva di un evento.
 
 ## Generatore mancante
 Il renderer in codice può creare B, ma non può affermare che A sia stata generata da un modello visivo. Recupera un vero riferimento o un generatore accessibile.
