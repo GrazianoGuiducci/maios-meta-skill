@@ -50,6 +50,12 @@ L'esempio generato può far emergere una relazione assente, il frame codificato 
 
 KA mantiene aperto il possibile; FDLA corregge nel movimento le sostituzioni di sorgente e intento. L'apprendimento ricorsivo cambia conoscenza e metodo quando un ricevente capace lo incarna; non significa che un file o un video modifichi da solo i pesi dell'LLM o avvii azioni.
 
+## VC-30s: mini-kernel operativo, non stack tecnologico obbligatorio
+
+Un breve filmato può richiedere sapere della fonte, generazione di A, scena B modificabile, attori e oggetti, movimento 2.5D/3D, suono, rendering e apprendimento. Sono funzioni complementari di **un solo oggetto video**, non otto fasi o strumenti da installare. Il [campo operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) rende il sapere utilizzabile anche fuori da MAIOS, con link alle fonti e distinzioni tecniche senza importare codice altrui o topologia privata.
+
+Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, Remotion e Framer Motion emerge la capacità di **ricostruire una scena a tempo arbitrario**, conservare identità di persone/oggetti e statuto delle fonti, attendere le risorse, comporre audio quando utile, osservare i frame codificati e far ritornare apprendimento all'owner. `real-time update(dt)` non equivale automaticamente a `render(t)` seekable. L'immagine A resta distinta da B; shader, rig e librerie sono mezzi tecnici, non fonti dei fatti. Nessun nuovo video con personaggi o 3D è dichiarato eseguito.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
