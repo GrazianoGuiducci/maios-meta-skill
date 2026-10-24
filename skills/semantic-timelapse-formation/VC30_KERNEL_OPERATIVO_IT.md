@@ -58,6 +58,22 @@ La competenza [HyperFrames media-use](https://github.com/heygen-com/hyperframes)
 
 Nessun codice/asset di terzi importato e nessun nuovo video dichiarato realizzato.
 
+## Prima e oltre il video: concetto, relazione non lineare e trasferimento reale di A
+
+Un altro rientro sulle sorgenti mette in luce capacità che **non richiedono un nuovo renderer**.
+
+**Un concetto può precedere il filmato.** Quando esiste già un nucleo editoriale o di prodotto ancorato alle fonti, il video breve è una possibile espressione accanto a immagine, infografica, presentazione e guida interattiva. Recuperare oggetto, relazione, conseguenza e destinatario prima di formare il prompt di A; non ricavare la tesi soltanto dallo stile della clip precedente. I derivati conservano il significato, non lo stesso ritaglio. Nel percorso image-first selezionato la prima A rimane realmente generata e osservata.
+
+**Un film lineare non rende lineare il soggetto.** La sequenza può mostrare co-presenza, confronto, alternative, ritorno ricorsivo che modifica ciò che segue, oppure capacità presente e orizzonte futuro in uno stesso campo. La vicinanza dei fotogrammi non autorizza un nesso causale, né un loop significa automaticamente tornare identici al punto iniziale. La grammatica temporale deriva dal **tipo di relazione** che si vuole mostrare.
+
+**Presentazione e guida navigabile sono capacità distinte.** Una clip può introdurre un sistema attraverso spazi, azioni e conseguenze e condividere la rappresentazione con una guida interattiva. L'MP4 non riceve input, non conserva stato operativo e non esegue funzioni. La parentela visuale non prova identità funzionale.
+
+**La descrizione di A non consegna la sua immagine.** Se un host genera A e un altro costruisce B, chi codifica deve poter **leggere davvero il file visivo o un asset effettivamente accessibile**, insieme a ciò che vi è stato osservato. Prompt, immagine vista soltanto in un'altra chat o link a una skill non completano il passaggio. Usare i mezzi già disponibili per il trasferimento reale quando serve; non presumere un servizio permanente o uno schema di metadati universale.
+
+**Dimostrazione da screenshot ≠ esecuzione del prodotto.** Un cursore animato può illustrare un workflow, ma non attesta che il click o la risposta siano realmente avvenuti nel runtime. Distinguere schermata osservata, ricostruzione esplicativa ed esecuzione osservata quando il claim lo richiede.
+
+Il trasferimento è di **conoscenze e metodi**, non di codice altrui o nuove tappe imposte.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
