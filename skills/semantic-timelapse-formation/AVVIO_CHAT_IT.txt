@@ -1,6 +1,8 @@
 SEMANTIC TIMELAPSE FORMATION — AVVIO AUTONOMO
 Genera prima A con un vero generatore di immagini e osservala; solo DOPO costruisci B in codice. Serve a non andare a memoria, non a risparmiare RAM.
 
+Se il film richiede più discipline, componi le postazioni dello Studio-Lab VC-30s incluse sotto; sono conoscenze e metodi, non software già installato.
+
 ---
 name: semantic-timelapse-formation
 description: Forma video brevi dal sapere, generando prima un'immagine di esempio con un generatore di immagini, poi costruendo il primo frame in codice e la sequenza temporale.
@@ -65,6 +67,12 @@ Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, R
 
 **Generare A prima del codice non significa metterla al tempo zero.** Nel metodo VC-30s l'immagine A, davvero generata e osservata, può essere il riferimento visivo di un gesto o una relazione rappresentativa, non il frame `t=0`; la scena B codificata possiede il proprio stato iniziale. Quando il soggetto descrive azioni, attore, oggetto, camera, didascalia e suono rendono aspetti coerenti della medesima situazione, senza imporre una macchina a stati. Un template è riusabile se permane la relazione; un altro oggetto può richiedere nuova grammatica. Vedi [VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
+## VC-30s Studio-Lab — competenze specifiche durante la produzione
+
+Quando un film breve coinvolge più discipline, raggiungere [VC-30s Studio-Lab](VC30_STUDIO_LAB_IT.md), con **undici postazioni condizionali**: soggetto/fonte, direzione visiva, generatore/visione di A, attori/asset, storyboard/tempo, codice/2.5D/3D, parole/voce, sonoro, render/osservazione, consegna e apprendimento. Ogni postazione partecipa **nel lavoro reale**, con sapere specifico, risultato e ritorno alla competenza proprietaria. Non sono undici fasi da eseguire sempre o un software studio già installato.
+
+Il percorso selezionato richiede una **vera capacità di generare A**; A è prima del codice ma può rappresentare un momento diverso dall'apertura `t=0` del video. Attori, oggetti, camera, didascalie e suono facoltativo devono esprimere una situazione fonte coerente. Chi codifica B deve raggiungere davvero il file A, non solo la sua descrizione. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md) conserva il fascicolo minimo di caso e il ritorno dell'apprendimento; le istruzioni da sole non producono un video.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
@@ -102,11 +110,13 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 **Riferimento visivo e tempo di apertura del film.** Genera e osserva A prima, ma non dedurre che sia lo stato `t=0`: può essere una posa significativa o una relazione che guida tutta la scena. Prima di codificare B, riconoscere cosa rende identificabile il referente e quale stato deve davvero aprire il video. Quando il gesto conta, attore, oggetto, camera e cue devono descrivere una relazione di fonte comune, non tracce animate scollegate. Una fonte nuova può richiedere un'altra scena, non soltanto didascalie cambiate.
 
+**Instradamento alle postazioni Studio-Lab.** Quando il video richiede comprensione della fonte, immagine A, personaggi/asset, 3D o sonoro oltre una semplice scena, usare [VC-30s Studio-Lab](VC30_STUDIO_LAB_IT.md) per raggiungere **solo le competenze specialistiche pertinenti**. Il movimento può tornare dal frame B al riferimento A o alla domanda editoriale; non prescrive una filiera di undici stazioni. Il fascicolo distingue accesso reale all'asset, generazione/osservazione, MP4 realmente codificato ed eventuale consegna autorizzata.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.3.3, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** candidata 0.4.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 ## Formare il filmato dall'oggetto reale
 
@@ -188,6 +198,10 @@ La prima immagine A è generata e osservata **prima di programmare l'animazione*
 
 **Una variante dei dati non è sempre un nuovo soggetto.** Una scena può produrre nuove varianti quando il tipo di relazione rimane pertinente. Un caso realmente diverso può richiedere un'altra prospettiva, grammatica percettiva, comprensione della fonte o prompt per A, non soltanto sostituire nomi e colori del vecchio template. La capacità riusabile riguarda *come formare* scene, non imporre la loro geometria ai casi futuri.
 
+## Studio-Lab: il sapere partecipa nella postazione competente
+
+L'ampliamento VC-30s selezionato dall'operatore ha formato [Studio-Lab](VC30_STUDIO_LAB_IT.md) con undici **postazioni specialistiche** anziché una filiera obbligatoria. Permettono a conoscenza di fonte, direzione visiva, immagine A e asset, storyboard, codice, voce/sonoro, rendering, consegna e apprendimento ricorsivo di partecipare quando cambiano il film effettivo. Entrare nella [guida portabile](VC30_STUDIO_LAB_IT.md) quando un progetto attraversa più discipline. Il metodo scritto non installa generatori, renderer o istanze autonome.
+
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
 Il renderer destinato all'export rende `frame(t, scena, asset)` o equivalente da un tempo/frame assoluto, **anche fuori ordine**. Ticker GSAP e `update(dt)` Three.js descrivono animazione realtime, non garantiscono filmati deterministici. Servono random ripetibile, disponibilità di font/asset/GPU e identità persistenti fra scene. 30 s × 24 fps = 720 frame, ma formato e fps non diventano regole generali.
@@ -203,6 +217,63 @@ Un'immagine può introdurre una gerarchia inesistente; un personaggio può perde
 **Ancora non esercitato nel candidato pubblico:** percorso completo A generata→osservata→B con personaggi/oggetti→video, nuovo render 3D, provider audio, pubblicazione. Il mini-kernel rende queste capacità **raggiungibili**, non automaticamente attive.
 
 **Provenienza:** conoscenza tratta dai repository linkati, letti il 24 ottobre 2026. Alla scelta concreta di un framework o asset recuperare licenze e versione correnti della fonte, perché possono cambiare.
+
+# VC-30s Studio-Lab — produrre video in codice con competenze specializzate
+
+**Stato:** metodo pubblico **candidato 0.4.0**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+
+## Perché è uno studio-lab e non una lista di applicazioni
+
+Un video breve richiede capacità diverse: capire l'oggetto, idearlo, formare un'immagine di riferimento, conservare identità di persone e oggetti, costruire il loro movimento, formare testo e suono, renderizzare, osservare, consegnare e imparare dal risultato. **Ogni postazione possiede uno specifico saper fare**, con un ingresso e un contributo. Possono operare nello stesso assistente o comporsi attraverso più riceventi: la presenza del documento non li avvia da sola.
+
+Le postazioni sono **competenze attivabili quando pertinenti**, non undici passaggi obbligatori né una sequenza inviolabile. Un'immagine statica può concludere correttamente un lavoro; una voce può precedere la regia; il riferimento generato può far cambiare il soggetto.
+
+## Le undici postazioni del laboratorio
+
+| Postazione / competenza | Sapere che attiva nel lavoro | Contributo riusabile |
+| --- | --- | --- |
+| **Sorgente e concetto** — competenza del dominio/editoriale | Distingue fatto, interpretazione, ricostruzione e possibilità; individua soggetto, relazione, conseguenza e destinatario | Nucleo del film; ciò che può essere rappresentato senza inventare eventi |
+| **Direzione visiva** — composizione percettiva | Forma la domanda visiva e la grammatica di materia, attori, geometria, luce e profondità; non impone look già usati | Condizioni per l'immagine generata e per la gerarchia |
+| **Immagine A** — formazione generativa | Forma istruzioni source-bound, usa un vero generatore e osserva l'immagine; A è prima nel lavoro, non necessariamente `t=0` | Asset A accessibile, prompt/provenienza, comprensioni e ambiguità |
+| **Attori e asset** — asset craft/continuità | Riconosce che cosa deve muoversi autonomamente, se servono pose, strati, sprite, rig o volumi reali; preserva identità e provenienza | Elementi realmente disponibili e relazione fra i loro gesti |
+| **Regia e storyboard** — competenza temporale | Distingue causa, successione, simultaneità, confronto e ritorno; rende visibile la trasformazione e gli istanti da comprendere | Scene, attenzione, cue e continuità di mondo/camera |
+| **Scena B e animazione** — programmazione del medium | Traduce il riferimento in scena editabile 2D/2.5D/3D, calcola stato/posa a un tempo T, gestisce asset e preview | Primo frame B codificato, scena e capacità di render |
+| **Parole e voce** — scrittura/comunicazione | Mantiene frasi e dati esatti e editabili, forma narrazione e didascalie, sceglie spazi di lettura e tempi reali della voce | Copia, caption e battute legate ai gesti, o scelta del silenzio |
+| **Suono** — sound design | Riconosce eventi sonori, atmosfera, musica, timing e diritti; non inserisce una colonna sonora perché “serve sempre” | Cue/tracce/mix pertinenti o nessun audio |
+| **Render e osservazione** — produzione e percezione | Esporta con mezzi esistenti e osserva frame significativi e file reale; distingue export, estetica e verità rappresentata | Video/file misurato, fotogrammi osservati, correzioni locali |
+| **Consegna e derivati** — produzione/canale | Rende adatte varianti, formati, sottotitoli e file editabili; riconosce quando 9:16 richiede nuova composizione | Uscita realmente accessibile nel canale selezionato |
+| **Apprendimento e continuità** — meta-competenza | Distingue il risultato da una correzione riusabile; fa tornare il sapere al metodo che deve agire diversamente | Capacità migliorata, caso aggiornato e ingresso per il lavoro successivo |
+
+## Come entrare operativamente
+
+Quando c'è un soggetto concreto, iniziare dalle **fonti reali del caso**. Identificare che cosa deve cambiare nella percezione e raggiungere la competenza adatta; non compilare tutte le postazioni per rito.
+
+Nel percorso di questa competenza, formare le istruzioni e **generare con un image generator una vera immagine A**, poi osservarla. L'immagine può essere un personaggio, una vista centrale, una scena madre, un momento di azione non iniziale: *prima nella produzione non equivale a primo frame del film*. Se servono parti animate indipendentemente, creare soltanto le risorse pertinenti coerenti con A, senza attribuirle una mesh o un rig invisibile.
+
+Progettare il cambiamento temporale dal **tipo di relazione del soggetto**. Costruire la scena in codice B e il suo primo frame `t=0`, con le effettive capacità del ricevente. Un renderer video dovrebbe poter ricostruire il frame a un tempo richiesto senza dipendere da un timer libero del browser. Video da screenshot con cursore simulato sono **ricostruzioni**, non registrazioni di un prodotto operativo.
+
+Se immagini, asset e codice vivono in riceventi diversi, il receiver che costruisce B deve poter **aprire davvero il file A**. Una descrizione testuale o una skill letta non trasferisce i byte dell'immagine. Tracce audio, licenze e credenziali dei provider rimangono condizioni reali da risolvere.
+
+Osservare l'artefatto prima di dichiararlo consegnato: durata, formato e codec richiedono evidenza del file, mentre leggibilità e continuità richiedono vedere fotogrammi/movimento. Nessuna osservazione interna certifica da sola che il pubblico reale abbia compreso il contenuto.
+
+## Fascicolo minimo per una produzione
+
+Creare un fascicolo **solo quando un caso è selezionato**, con la profondità necessaria:
+
+- **Oggetto:** fonte/versione, soggetto, situazione di ricezione e statuto (fatto, ricostruzione, allegoria, possibilità).
+- **Competenze effettivamente partecipanti:** perché sono entrate e quale contributo hanno prodotto.
+- **A:** prompt, asset davvero generato, percorso realmente accessibile, osservazioni e limite; non confonderlo con B.
+- **B:** scena/asset codificati, primo frame, tempo e capacità del renderer; A può rappresentare un altro momento.
+- **Output:** MP4/altri file realmente esistenti, durata/fps/risoluzione o audio quando misurati, canale/destinazione.
+- **Ritorno:** differenza causalmente riusabile, competenza che deve cambiare, dove il sapere è stato conservato e condizione per il seguito.
+
+Il fascicolo è un mezzo di continuità, non un modulo da riempire sempre. File generati e diritti rimangono nel proprio spazio; non pubblicare asset personali/riservati per facilitare il passaggio fra AI.
+
+## Conoscenza acquisita, senza incorporare codice di terzi
+
+I metodi sono stati approfonditi a partire da [HyperFrames](https://github.com/heygen-com/hyperframes), [Remotion](https://github.com/remotion-dev/remotion), [PixiJS + GSAP](https://github.com/AhmadDinkaa/pixijs-tic-tac-toe), [GSAP + Three.js](https://github.com/TheWebxite/phans-custom-tailor), [Motion Video](https://github.com/bestagentkits/motion-video-skill), [iart motion skills](https://github.com/iart-ai/motion-skills) e [modern-portfolio](https://github.com/sanidhyy/modern-portfolio). L'apprendimento riguarda scene, tempo, asset e movimento **situati**. Non abbiamo importato codice, effetti, font o immagini dai repository indicati e non dichiariamo studiati tutti i loro file. Dipendenze e licenze si risolvono soltanto quando un lavoro realmente le usa.
+
+**Arresto:** la competenza può concludere con un film, con un metodo migliorato o con una diversa rappresentazione più adeguata. Un laboratorio operativo non prescrive una durata o un formato indipendenti dal caso.
 
 # Tre situazioni
 
