@@ -1,6 +1,8 @@
 SEMANTIC TIMELAPSE FORMATION — STANDALONE CHAT STARTER
 Generate image A with a real image generator first and inspect it; only THEN construct coded frame B. This prevents coding B from visual recollection alone; video RAM is separate.
 
+When a film requires several disciplines, use the VC-30s Studio-Lab competence stations included below; the knowledge is method, not installed software.
+
 ---
 name: semantic-timelapse-formation
 description: Create source-grounded short videos by generating an example image first, observing it, building the first frame in editable code, then animating and learning from the result.
@@ -65,6 +67,12 @@ The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Mo
 
 **Image-first is not timeline-first.** In the VC-30s method, a genuinely generated and observed image A may be a key reference rather than the frame at `t=0`; the code-built scene B has its own initial state. When the subject describes actions, the actor, prop, camera and any caption or sound should express consistent aspects of the same source-grounded situation, without a mandatory state-machine architecture. A reusable template applies when the meaningful relationship persists; a different object may require a new visual grammar. See [VC-30s](VC30_OPERATIONAL_KERNEL.md).
 
+## VC-30s Studio-Lab — specialized operating competences
+
+When the short film materially requires several disciplines, reach the [VC-30s Studio-Lab](VC30_STUDIO_LAB_EN.md). It brings **eleven conditional working stations** for source/meaning, art direction, image A generation/inspection, actors/assets, storyboard/time, code/2.5D/3D, text/voice, sound, render/inspection, delivery and learning. Each station can use specialist knowledge **during** a real production, with an explicit contribution and return to the responsible competence. They are not eleven steps every film must complete or an installed studio software suite.
+
+The image generator is a **real capability required for image A** in the selected image-first path; A is generated before coding B but may show a scene different from the film's opening `t=0`. Actors, objects, camera, captions and optional sound must represent a coherent source-bound situation. A reference file must genuinely reach whichever receiver codes B. The [Studio-Lab guide](VC30_STUDIO_LAB_EN.md) includes a minimal real-case record, material handoff and learning return; simply creating these instructions does not render a film.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
@@ -102,11 +110,13 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 
 **Visual reference versus the film's first time.** Generate and inspect A first, but do not presume it is the `t=0` state. It may be the scene's signature pose or strongest relation. Before coding B, understand what identity A contributes and which scene state should actually start the film. When actions matter, build the actor, object, camera and cue descriptions from a consistent source relation rather than unrelated animation tracks. A different source may require a newly formed scene, not only a changed text prop.
 
+**Studio-Lab operating station routing.** When the production needs source interpretation, generated imagery, character assets, 3D or sound beyond one simple scene, use the [VC-30s Studio-Lab](VC30_STUDIO_LAB_EN.md) to reach the **smallest relevant set of specialist competences**. The work may return from coded B to image A or editorial meaning; no one-pass, eleven-stage pipeline is assumed. A case record distinguishes actual asset access, generated vs observed frames, rendered MP4 and any real delivery effect.
+
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
 
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.3.3, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.4.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 ## Form the film from the actual subject
 
@@ -188,6 +198,10 @@ The first generated visual reference A is made and inspected **before programmin
 
 **A data variation is not always a different subject.** A reusable scene can render new values or variants when the underlying relationship remains appropriate. A truly different case may require a new perspective, visual grammar, source interpretation or initial image prompt rather than merely swapping names and colours in an old template. Preserve the *way of forming* scenes as reusable knowledge, not the scene geometry as a universal style.
 
+## Studio-Lab: use knowledge at the working station
+
+The user's selected expansion of VC-30s is a [working Studio-Lab](VC30_STUDIO_LAB_EN.md) with eleven **specialist stations** rather than an obligatory processing chain. They allow source knowledge, art direction, image A and image assets, storyboard, code, voice/sound, render, delivery and recursive learning to participate where they change the actual film. Use its [portable operating guide](VC30_STUDIO_LAB_EN.md) when a project crosses multiple disciplines. Do not claim an installed image generator, video runtime or autonomous agents from this Markdown method alone.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
@@ -203,6 +217,63 @@ An image may introduce a false hierarchy; a character may lose its identity whil
 **Not yet exercised in this public edition:** the complete A generated → A observed → B coded with characters/objects → video chain, a new 3D render, external audio providers, publication. The kernel makes those capacities **discoverable**, not automatically active.
 
 **Source coordinates and provenance:** this portable text distills methods from the linked projects as read on 24 October 2026. Source versions and licenses may change; re-open the actual repository where an integration/asset choice becomes material.
+
+# VC-30s Studio-Lab — building code-made video with specialized competences
+
+**State:** public **candidate 0.4.0** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+
+## A production studio, not a software catalog
+
+A short film can require different faculties: source understanding, visual direction, generated reference, people and objects, spatial/temporal grammar, code, speech and audio, rendering, delivery and learning. **Each station contributes situated know-how** and returns its causal learning to the nearest semantic owner. These faculties can work in one assistant or across multiple receivers with actual file access. The document alone does not invoke them.
+
+Stations are **available when materially relevant**, not eleven mandatory phases in a fixed sequence. An image may be the right final result; voice may shape the storyboard before it is settled; viewing the generated image may change the source interpretation.
+
+## Eleven competent production stations
+
+| Station / competence | Know-how used during production | Contribution to the shared case |
+| --- | --- | --- |
+| **Source and concept** — domain/editorial | Distinguishes observed facts, interpretation, illustration and future possibility; identifies the subject and audience | A source-grounded film nucleus |
+| **Art direction** — perceptual composition | Selects visual relations, material, light, frame, space and depth from meaning rather than presets | Direction for generated reference and readable hierarchy |
+| **Image A** — image-reference formation | Forms a source-bound prompt, generates a real image using an available generator, observes it | Accessible A asset, origin and what it teaches; A need not be film `t=0` |
+| **Actors and assets** — visual continuity | Discerns needed independently moving elements, poses, props, layers, masks and actual geometry | Consistent identity and genuinely available resources |
+| **Storyboard and time** — temporal direction | Distinguishes cause, co-presence, contrast, return and sequential change | Scene relation, beats/cues, world and camera continuity |
+| **Coded scene B and animation** — code medium | Builds an editable 2D/2.5D/3D scene that can be rendered at time T | The actual coded first frame B, time-addressable movement |
+| **Words and voice** — editorial expression | Holds exact claims/values and readable, editable captions, narration timing and accessibility | Spoken/on-screen text, or justified silence |
+| **Sound** — audio craft | Forms sound events, atmosphere and music when they matter; recognizes rights and timing | Cue/mix/tracks or an audio-free result |
+| **Render and inspect** — technical/perceptual readback | Exports through a real renderer and inspects frames and video files | Actually existing output and consequential corrections |
+| **Delivery and derivatives** — channel competence | Adapts formats, subtitle and editability; recomposes layouts when crops destroy meaning | Actual carrier for the selected receiver/destination |
+| **Learning and continuity** — meta competence | Distinguishes a completed artifact from knowledge that should change later work | Returned method, updated case and next point of reentry |
+
+## Operating from an actual case
+
+Reach the **current source** and the material question first; do not activate all stations because they are listed.
+
+For the image-first path, form instructions and **generate a real image A**, then inspect it. A can be a key visual, character, representative scene or important moment; being first **in the production process** does not mean showing frame zero **of the film**. When the action needs independent movable parts, acquire only the necessary additional assets coherent with A and the source, rather than imagining unseen body parts or 3D rigs.
+
+Let the **type of relation** determine temporal expression. Build coded scene B with its real opening state and a renderer that can address time T (or an equivalent frame index) independently from uncontrolled browser timing. A simulated cursor over screenshots is an illustrative walkthrough, not evidence of an observed product action.
+
+If image A and scene B are handled in different environments, the coding receiver must **actually access A's file bytes**. Merely providing a prompt, a text description or a skill link does not transfer the visual reference. Audio files, fonts and provider rights/credentials likewise require actual availability.
+
+Inspect the delivered output as an artifact: read file metadata for duration, codec and dimensions; see representative frames/real playback to understand motion and legibility. Internal inspection is not proof that a real audience has understood the film.
+
+## Minimal production case record
+
+Create this **only after a case is selected**; retain just what changes continuation:
+
+- **Subject:** source/version, intended audience and factual status (observed, reconstructed, allegorical, possible).
+- **Active competences:** why each participated, real inputs/outputs and responsible owner.
+- **A:** prompt, generated reference file actually reachable, provenance, observations and limits.
+- **B:** editable scene, first coded frame, available assets, meaningful temporal model.
+- **Output:** real film/other carrier, measured technical details and any actual distribution state.
+- **Learning:** causal difference to apply in another case, owner whose future method changes, path/receipt and next state.
+
+This is a continuity method, not a mandatory form. Keep private/client media and secrets in authorized locations.
+
+## Research sources and limits
+
+Know-how was studied from [HyperFrames](https://github.com/heygen-com/hyperframes), [Remotion](https://github.com/remotion-dev/remotion), [PixiJS/GSAP](https://github.com/AhmadDinkaa/pixijs-tic-tac-toe), [GSAP/Three.js](https://github.com/TheWebxite/phans-custom-tailor), [Motion Video](https://github.com/bestagentkits/motion-video-skill), [iart motion skills](https://github.com/iart-ai/motion-skills), and [modern-portfolio](https://github.com/sanidhyy/modern-portfolio). We transfer **knowledge and method**, not their source code, shaders, images, fonts or templates. This is selective research, not a claim to have read every repository file. Runtime and licensing must be resolved in the environment that actually uses them.
+
+**Stopping condition:** a case may conclude with a film, a better image, a corrected method or another medium altogether. Duration, format and number of stations are not axioms.
 
 # Three situations
 
