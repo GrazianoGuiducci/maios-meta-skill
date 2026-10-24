@@ -23,6 +23,14 @@ Se manca un generatore accessibile, dichiara A non eseguita oppure ricevi un'imm
 
 A e B hanno origini e funzioni diverse: il rendering t=0 non sostituisce retroattivamente il generatore di immagini.
 
+## Infografiche narrative, attori visivi e 2.5D/3D
+
+La fonte può richiedere **una persona, un oggetto, uno strumento, un ambiente, un gesto o un cambiamento materiale**, non soltanto un diagramma con nodi e linee. La competenza può formare un'infografica strutturale, una scena con personaggi e oggetti, uno spazio illustrato 2.5D o un vero 3D. Sono **possibilità componibili, non categorie obbligatorie**; maggiore profondità non significa maggiore fedeltà o comprensione.
+
+Quando è pertinente, il sapere forma per ogni attore visivo **ruolo, stato osservabile, segni riconoscibili, azione e relazione agli altri**. Genera A da queste distinzioni e osserva se inventa identità, autorità, capacità o causalità. L'animazione conserva il referente mentre mutano camera, gesto, oggetto e testo. Un personaggio illustrato non dimostra che un umano o agente stia realmente operando.
+
+Dopo A, costruisci B come codice e scena modificabili, con asset e geometria effettivamente disponibili. Una bitmap non contiene automaticamente parti mobili, retro, mesh 3D, rig o profondità. Il 2.5D può usare livelli, maschere e parallax; il vero 3D richiede modelli, camera, materiali e runtime reali. Il mezzo segue la trasformazione source-bound. Il nuovo percorso è **metodo formato**, non ancora un film con personaggi o 3D esercitato.
+
 ## Tempo e video breve
 
 Usa un renderer con tempo esplicito, ad esempio frame(t, scena). Un video di 30 secondi a 24 fps campiona 720 istanti. Determina che cosa cambia e che cosa resta riconoscibile. Osserva B e gli istanti significativi, incluso il finale. Un centro può inventare autorità, un ciclo ripetizione e una successione causalità. Correggi la rappresentazione rispetto alla sorgente.
