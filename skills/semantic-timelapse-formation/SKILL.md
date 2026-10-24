@@ -23,6 +23,14 @@ If no image generator is accessible, acknowledge that A is not yet made, or rece
 
 Image A and image B have different origins and functions; rendering t=0 cannot retroactively replace image generation.
 
+## Narrative infographics, visible actors and 2.5D/3D
+
+The source may call for a **person, object, tool, setting, gesture or material change**, not just a node-and-line diagram. The method can form a structural infographic, a scene with characters and objects, an illustrated 2.5D space or a genuinely 3D scene. These are **composable possibilities, not obligatory categories**, and more depth is not automatically more truthful or understandable.
+
+When relevant, let the source specify each visual actor's **role, observable state, recognisable features, action and relation to others**. Form image A with these material distinctions and observe whether it invents a character's identity, authority, capability or causation. The animation should preserve the referent while camera, gesture, object state and text change. A representational character is not proof of a real human or autonomous agent.
+
+After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The illustration-first path is **formed method here**, not yet an independently exercised character/3D video.
+
 ## Time and the short film
 
 Use a time-explicit renderer, e.g. frame(t, scene). A 30-second film at 24 fps samples 720 times. Decide what changes and what remains recognisable. Observe B and meaningful moments through the sequence, including the ending. Motion, camera and labels can invent implications: a center may imply authority, a loop recurrence, and succession causality. Correct them against the actual source.
