@@ -77,6 +77,8 @@ The image generator is a **real capability required for image A** in the selecte
 
 **MKCV, not just VC-30s.** The [Mini Kernel Code Video](VC30_STUDIO_LAB_EN.md#mkcv--mini-kernel-code-video-beyond-the-thirty-second-profile) is the general production capability. VC-30s remains one output profile; the eleven specialist Studio-Lab stations need not be duplicated for other duration or style. A real image generator, coded B, observed film and a non-identical later use must still be exercised in the reader's actual environment.
 
+**Operator learning after the first real MKCV film.** Generating A and rendering B do not fulfill the intent when B animates **new overlays** while the user expected the **world depicted in A itself to move**. When that is the task, form character/prop/environment/camera motion *inside the reference* using actual editable assets or available image-to-video capabilities; do not infer hidden rigs. The [Studio-Lab](VC30_STUDIO_LAB_EN.md#learning-from-a-real-film-animate-image-a-rather-than-overlay-a-different-film) carries this learning and [Motion.so MCP](https://docs.motion.so/guides/mcp) as an optional provider requiring actual connection, asset upload and credits.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
@@ -120,7 +122,7 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.4.1, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.4.2, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 **Current identity:** the general capability is **MKCV — Mini Kernel Code Video**. This guide retains the historical `VC-30s` profile and links to the [same Studio-Lab](VC30_STUDIO_LAB_EN.md). MKCV does not impose a duration, output aspect or eleven mandatory phases; its production exercise remains distinct from written methodology.
 
@@ -226,7 +228,7 @@ An image may introduce a false hierarchy; a character may lose its identity whil
 
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **candidate 0.4.1** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **candidate 0.4.2** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
@@ -255,6 +257,14 @@ Stations are **available when materially relevant**, not eleven mandatory phases
 | **Render and inspect** — technical/perceptual readback | Exports through a real renderer and inspects frames and video files | Actually existing output and consequential corrections |
 | **Delivery and derivatives** — channel competence | Adapts formats, subtitle and editability; recomposes layouts when crops destroy meaning | Actual carrier for the selected receiver/destination |
 | **Learning and continuity** — meta competence | Distinguishes a completed artifact from knowledge that should change later work | Returned method, updated case and next point of reentry |
+
+## Learning from a real film: animate image A rather than overlay a different film
+
+In the first MKCV promo, genuine images A and a coded 2.5D clip were produced. The recipient clarified the desired outcome: **animate the image itself** — its characters, objects, environment, gestures and camera. The actual film used A mainly as a **backdrop for separately coded diagrams**. The video was technically rendered, while the creative intention was not fulfilled.
+
+When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. Code Medium may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
+
+**Optional technical receiver, not a dependency:** [Motion.so MCP](https://docs.motion.so/guides/mcp) documents agent-driven creation/revision, media uploads and video outputs. It does not prove that a given source image will be animated faithfully. It needs account permissions/OAuth and may consume credits; a local file must be uploaded before Motion can read it. The Motion product advertises social connections, but the documented MCP video tool list does **not itself establish direct social-posting tools**. Publication authority remains with the channel owner.
 
 ## Operating from an actual case
 
