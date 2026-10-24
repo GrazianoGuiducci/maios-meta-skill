@@ -1,6 +1,6 @@
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.3.1, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.3.2, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 ## Form the film from the actual subject
 
