@@ -30,6 +30,14 @@ Le postazioni sono **competenze attivabili quando pertinenti**, non undici passa
 | **Consegna e derivati** — produzione/canale | Rende adatte varianti, formati, sottotitoli e file editabili; riconosce quando 9:16 richiede nuova composizione | Uscita realmente accessibile nel canale selezionato |
 | **Apprendimento e continuità** — meta-competenza | Distingue il risultato da una correzione riusabile; fa tornare il sapere al metodo che deve agire diversamente | Capacità migliorata, caso aggiornato e ingresso per il lavoro successivo |
 
+## Correzione emersa dall'osservazione reale: animare A, non sovrapporvi un altro film
+
+In un primo film promo MKCV sono state prodotte vere immagini A e una clip 2.5D, ma il destinatario ha chiarito di volere **l'immagine A stessa che si anima**: personaggi, oggetti, ambiente, gesti e camera. Il film aveva invece utilizzato A prevalentemente come **sfondo per diagrammi codificati separatamente**. L'esercizio tecnico rimane reale, mentre il risultato espressivo è da migliorare.
+
+Quando la richiesta è image-to-motion, la postazione di A deve formare/riconoscere un gesto **dentro l'immagine**. Code Medium può usare maschere, strati 2.5D, asset aggiuntivi coerenti, ricostruzione delle zone occluse, modello 3D reale se pertinente o un provider image-to-video quando effettivamente disponibile. Non inferire rig, retro o movimenti nascosti da un'immagine piatta. I diagrammi sovrapposti sono ammessi quando aiutano davvero, non sono un surrogato del movimento del soggetto.
+
+**Possibilità tecnologica, non dipendenza:** [Motion.so MCP](https://docs.motion.so/guides/mcp) permette a un agente connesso di creare/rivedere video, allegare media tramite upload e ricevere un filmato. Questo non dimostra la fedeltà dell'animazione dell'immagine di partenza. Il servizio richiede accesso account/OAuth e può consumare crediti; un file locale va caricato realmente. Il prodotto Motion presenta integrazioni social, ma gli strumenti MCP video documentati **non confermano una pubblicazione social diretta**. L'owner del canale e l'autorizzazione restano distinti.
+
 ## Come entrare operativamente
 
 Quando c'è un soggetto concreto, iniziare dalle **fonti reali del caso**. Identificare che cosa deve cambiare nella percezione e raggiungere la competenza adatta; non compilare tutte le postazioni per rito.
