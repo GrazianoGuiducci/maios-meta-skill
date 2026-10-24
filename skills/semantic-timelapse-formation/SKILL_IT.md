@@ -62,6 +62,12 @@ Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, R
 
 **Generare A prima del codice non significa metterla al tempo zero.** Nel metodo VC-30s l'immagine A, davvero generata e osservata, può essere il riferimento visivo di un gesto o una relazione rappresentativa, non il frame `t=0`; la scena B codificata possiede il proprio stato iniziale. Quando il soggetto descrive azioni, attore, oggetto, camera, didascalia e suono rendono aspetti coerenti della medesima situazione, senza imporre una macchina a stati. Un template è riusabile se permane la relazione; un altro oggetto può richiedere nuova grammatica. Vedi [VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
+## VC-30s Studio-Lab — competenze specifiche durante la produzione
+
+Quando un film breve coinvolge più discipline, raggiungere [VC-30s Studio-Lab](VC30_STUDIO_LAB_IT.md), con **undici postazioni condizionali**: soggetto/fonte, direzione visiva, generatore/visione di A, attori/asset, storyboard/tempo, codice/2.5D/3D, parole/voce, sonoro, render/osservazione, consegna e apprendimento. Ogni postazione partecipa **nel lavoro reale**, con sapere specifico, risultato e ritorno alla competenza proprietaria. Non sono undici fasi da eseguire sempre o un software studio già installato.
+
+Il percorso selezionato richiede una **vera capacità di generare A**; A è prima del codice ma può rappresentare un momento diverso dall'apertura `t=0` del video. Attori, oggetti, camera, didascalie e suono facoltativo devono esprimere una situazione fonte coerente. Chi codifica B deve raggiungere davvero il file A, non solo la sua descrizione. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md) conserva il fascicolo minimo di caso e il ritorno dell'apprendimento; le istruzioni da sole non producono un video.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
