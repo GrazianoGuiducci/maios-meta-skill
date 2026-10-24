@@ -56,6 +56,8 @@ Un breve filmato può richiedere sapere della fonte, generazione di A, scena B m
 
 Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, Remotion e Framer Motion emerge la capacità di **ricostruire una scena a tempo arbitrario**, conservare identità di persone/oggetti e statuto delle fonti, attendere le risorse, comporre audio quando utile, osservare i frame codificati e far ritornare apprendimento all'owner. `real-time update(dt)` non equivale automaticamente a `render(t)` seekable. L'immagine A resta distinta da B; shader, rig e librerie sono mezzi tecnici, non fonti dei fatti. Nessun nuovo video con personaggi o 3D è dichiarato eseguito.
 
+**Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo; l'audit delle fonti è stato selettivo, non lettura di ogni file.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
