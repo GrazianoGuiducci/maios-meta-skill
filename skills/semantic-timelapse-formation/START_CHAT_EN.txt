@@ -59,6 +59,8 @@ A short film can need source comprehension, image A generation, editable B, visu
 
 The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. No new 3D or character film is claimed.
 
+**From first visual reference to actually animable elements.** A is a real generated image to look at before coding B, but it is **not** a rig or the set of moveable parts. If the subject requires a hand, prop, character expression, separated foreground or true depth to move independently, recognise which additional consistent assets, poses, layers or geometry are needed; acquire them only when pertinent. Keep their source/provenance and identity, or instead change the motion/camera if A cannot support it. A single still may be entirely sufficient for a film that animates it as a whole. [VC-30s](VC30_OPERATIONAL_KERNEL.md) carries the deeper method, learned from a selective source audit rather than a claim to have read every project file.
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
@@ -91,6 +93,8 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 **Return learning.** Differences can change source comprehension, the generator instruction, the editing scene or the method. Preserve what occurred and what was understood then. Return reusable knowledge to the appropriate competence. If there was no image generator, do not mislabel render(t=0) as its output.
 
 **VC-30s competence composition.** For a film that involves several kinds of work, enter [VC30_OPERATIONAL_KERNEL.md](VC30_OPERATIONAL_KERNEL.md) before assuming the previous procedural renderer is the medium. Its methods bring sourced meaning, generated reference A, actor/object continuity, time-seekable animation and optional audio into the same film without a universal stack. HyperFrames and Remotion are alternative carriers; GSAP/Three/Pixi/Framer Motion examples often animate real-time UIs and need an explicit time model for deterministic video. Repository reading alone does not install them. Remotion's licensing differs from MIT/Apache.
+
+**Image A is not a set of independent moving parts.** After seeing A, recognise whether the action needs independently animated components or further poses/views/masks/geometry. Make only the necessary parts from source-consistent references; preserve their identity and provenance. If those parts cannot be constructed faithfully, change the camera or the expression. Do not turn a flat generated image into a claimed 3D rig. Decide which parts must remain editable across renderers before choosing a native, hosted or finished-video carrier.
 
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
 
@@ -138,6 +142,22 @@ Two passes over the external sources refine **what the competence knows how to d
 
 The learned faculty is **situated perceptual translation**: understanding a source, forming an observable visual reference, and deriving a reproducible temporal expression that keeps the subject's meaning. Code and runtime decisions remain with the technical owner; no source project's code, assets or styles are bundled here.
 
+## Recheck of previously unread sources: the generated image is not an animation rig
+
+An audit of seven originally named repositories, all **18 iart package README entry points**, and the **seven top-level HyperFrames skills** found a missing distinction. This is **not** a claim to have read every iart skill (55 declared by the hub), every HyperFrames block or Remotion implementation.
+
+The first genuinely generated and inspected **image A remains the visual reference**. It may establish art direction, the relation between characters/objects and the readable whole. But a single flattened illustration cannot independently animate a hand, held tool, background, eye movement or the reverse view of an object. When the actual motion needs them, form **additional source-bound visual elements, poses, masks or geometry**; when a single whole image suffices, keep it whole. Additional assets should remain coherent with the subject and A, while their provenance and roles stay identifiable. They are not retroactively relabelled as the first A.
+
+This distinction was learned from [Generative Illustration](https://github.com/iart-ai/generative-illustration-skills), whose working methods separate illustrations into independently animable units. One of that project's source documents cautions that naïve SVG background removal can delete a foreground object. The lesson is to **preserve the subject when isolating parts**, not import a particular algorithm, template or vector file.
+
+[HyperFrames media-use](https://github.com/heygen-com/hyperframes) also teaches that reused assets require source identity and separation across projects. An asset belongs to its context; a vaguely similar cached logo or illustration does not acquire the right identity. For a new video receiver, preserve the provenance/role needed to use media correctly, without assuming HyperFrames' own file manifest.
+
+**What remains editable matters.** A scene translated into native editable elements, hosted time-seekable code or a finished rendered clip preserves different editing abilities. The rendered clip is not the same as a freely movable character. [Remotion ThreeCanvas](https://github.com/remotion-dev/remotion) is one example of 3D tied to absolute frame time, if that renderer is actually chosen.
+
+**Format and language belong before the render.** A 16:9 master often must be **recomposed**, not merely cropped, for 9:16 while preserving people, objects and titles. Exact words should remain editable and, where appropriate, accessible through captions or transcripts, not be guessed from pixels in A. Current social platform overlay dimensions need case-specific confirmation.
+
+No third-party source code or assets have been imported, and no new film is claimed.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
@@ -168,6 +188,10 @@ Use actual ordered observations. Generate A as a reference, not as purported foo
 ## An illustrated character and an object change
 
 A source records a change in a work object after an operator action. Form A as an explanatory illustration of the scene, person, object and relevant gesture, with its illustrated status explicit. Observe it before coding B. Use editable layers, masks or real geometry for only those movements that can be faithfully reconstructed. The final motion must not suggest that a person or AI performed extra undocumented steps. Do not choose 3D merely because the illustration has volume.
+
+## When image A needs independently moving parts
+
+The first image-generator output A depicts an illustrated character holding an object. It establishes composition and appearance, not the hidden rig or separate hand/object layers. If the action requires a hand to lift that object, generate or build only the required coherent parts and their contact relationships before coding B. If this cannot be done faithfully, change the shot so the existing image can remain whole. Keep the original generated reference distinct from later derived assets; neither is an actual recording of an event.
 
 ## Missing image generator
 A code-only renderer can create B but cannot honestly claim to have produced A with an image model. Ask for an actual reference or use an accessible image generator.
