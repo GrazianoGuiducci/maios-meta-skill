@@ -28,6 +28,20 @@ An actor or object needs a recognisable identity across time: referent, role, vi
 
 These sources are **mechanisms and learning resources**, not installed providers. No code, images, fonts, music or shader assets are copied into this public skill. Resolve dependencies and permissions in the actual receiving environment.
 
+## Learning from other people's methods, without copying their implementation
+
+Two passes over the external sources refine **what the competence knows how to do**, not which repositories it installs.
+
+**From labels to a perceptible medium.** A word like “cinematic” or “modern” cannot specify the scene. Let the actual subject make material, shape, framing, lighting and behaviour meaningful in image-generator reference A. Observe A as a **visual hypothesis**: do not repeat its arbitrary composition or false causal hints in coded scene B. Named looks, lists of default bans, numerical timing rules and branded styles from the source projects are not MAIOS invariants.
+
+**From an illustrated character to a coherent action.** If a person or object matters to the film, recognise the visual features, pose, gaze, contact points and relations that must continue. A hand holding a tool, an eye directed at the object and a prop crossing a camera cut express a persistent relation, not just animated pixels. A flattened A cannot reveal the unseen back, a rig or hidden object geometry. Use a different viewpoint or an appropriate real asset rather than inventing those parts.
+
+**From movement to a first-time reading.** A scene can be understood through what the eye can follow: action, consequence, hold, change of framing, words and silence. Time can illustrate sequence, comparison, uncertainty or cause; do not force every adjacent shot into a causal chain. If voice or music matters, use meaningful action/word cues rather than arbitrary timestamps, while allowing silent videos when appropriate.
+
+**From render inspection to learning.** A still can expose geometry, a moving clip pacing, an encoded frame an export issue. These observations can refine the nearest method without creating an approval ritual. A model's assessment “as a first-time viewer” is not evidence of actual audience comprehension. Preserve that distinction.
+
+The learned faculty is **situated perceptual translation**: understanding a source, forming an observable visual reference, and deriving a reproducible temporal expression that keeps the subject's meaning. Code and runtime decisions remain with the technical owner; no source project's code, assets or styles are bundled here.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
