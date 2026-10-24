@@ -27,4 +27,6 @@
 
 **Image A is not a set of independent moving parts.** After seeing A, recognise whether the action needs independently animated components or further poses/views/masks/geometry. Make only the necessary parts from source-consistent references; preserve their identity and provenance. If those parts cannot be constructed faithfully, change the camera or the expression. Do not turn a flat generated image into a claimed 3D rig. Decide which parts must remain editable across renderers before choosing a native, hosted or finished-video carrier.
 
+**Visual reference versus the film's first time.** Generate and inspect A first, but do not presume it is the `t=0` state. It may be the scene's signature pose or strongest relation. Before coding B, understand what identity A contributes and which scene state should actually start the film. When actions matter, build the actor, object, camera and cue descriptions from a consistent source relation rather than unrelated animation tracks. A different source may require a newly formed scene, not only a changed text prop.
+
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
