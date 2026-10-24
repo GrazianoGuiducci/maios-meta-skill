@@ -1,0 +1,77 @@
+SEMANTIC TIMELAPSE FORMATION — AVVIO AUTONOMO
+Genera prima A con un vero generatore di immagini e osservala; solo DOPO costruisci B in codice. Serve a non andare a memoria, non a risparmiare RAM.
+
+---
+name: semantic-timelapse-formation
+description: Forma video brevi dal sapere, generando prima un'immagine di esempio con un generatore di immagini, poi costruendo il primo frame in codice e la sequenza temporale.
+---
+
+# Semantic Timelapse Formation
+
+**Prima un riferimento visivo generato, poi il primo frame scritto in codice.**
+
+## Comprendere l'oggetto
+
+Parti dall'intento, dall'oggetto reale e dalle conoscenze che ne determinano il significato. Distingui fatti osservati, interpretazioni attribuite, possibilità e illustrazioni. La trasformazione segue il soggetto, non uno stile già scelto. Un film che raffigura connessioni crescenti non mostra di per sé apprendimento reale dell'AI.
+
+## Immagine A — riferimento del generatore
+
+Forma le istruzioni per generare l'immagine dalle sorgenti pertinenti: soggetto riconoscibile, relazioni, composizione, esigenze della sequenza futura, testi e limiti. Usa un **vero generatore di immagini** per produrre un esempio e osservalo. Serve a non costruire il primo frame «andando a memoria», non a ridurre la RAM del video. Se la figura inventa gerarchie, causalità o strutture assenti, riforma le istruzioni e la comprensione dell'oggetto.
+
+Se manca un generatore accessibile, dichiara A non eseguita oppure ricevi un'immagine realmente generata dalla persona. Un PNG del renderer in codice non è A.
+
+## Immagine B — primo frame codificato
+
+**Dopo aver osservato A**, costruisci una scena modificabile e il suo primo frame in codice. Ricostruisci le geometrie pertinenti o usa A come asset quando serve; preserva identità, relazioni spaziali, etichette e parametri necessari all'animazione. Una bitmap piatta non rivela automaticamente livelli nascosti, profondità 3D, traiettorie o nessi causali.
+
+A e B hanno origini e funzioni diverse: il rendering t=0 non sostituisce retroattivamente il generatore di immagini.
+
+## Tempo e video breve
+
+Usa un renderer con tempo esplicito, ad esempio frame(t, scena). Un video di 30 secondi a 24 fps campiona 720 istanti. Determina che cosa cambia e che cosa resta riconoscibile. Osserva B e gli istanti significativi, incluso il finale. Un centro può inventare autorità, un ciclo ripetizione e una successione causalità. Correggi la rappresentazione rispetto alla sorgente.
+
+Produrre e codificare i frame uno per volta può contenere la **memoria computazionale**: è una questione tecnica separata dal motivo per cui si genera A.
+
+## Apprendimento e ricorsione
+
+L'esempio generato può far emergere una relazione assente, il frame codificato può mostrarne una traduzione falsa, la sequenza può perdere leggibilità o identità. Lascia che le conseguenze correggano interpretazione, istruzioni visive, codice o metodo temporale. Il sapere riusabile torna alla competenza che dovrà operare diversamente: dominio, Editoriali, Design, codice o formazione generale. Se il sapere c'era già ma non ha partecipato, correggi la scoperta invece di duplicarlo.
+
+KA mantiene aperto il possibile; FDLA corregge nel movimento le sostituzioni di sorgente e intento. L'apprendimento ricorsivo cambia conoscenza e metodo quando un ricevente capace lo incarna; non significa che un file o un video modifichi da solo i pesi dell'LLM o avvii azioni.
+
+## Mezzi ed effetti
+
+Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora il sapere necessario quando la chat non accede ai file.
+
+# Guida operativa — il confine del riferimento visivo
+
+**Formare le istruzioni dal sapere.** Raggiungi l'oggetto, le relazioni da rendere visibili e ciò che deve restare riconoscibile. Nel prompt al generatore considera composizione, geometria, testo e, quando pertinente, gli spazi occupati da frame futuri. Un vecchio motivo grafico non è un preset.
+
+**Generare e osservare A.** Usa prima un vero generatore. Guarda l'immagine ottenuta, non soltanto una descrizione immaginata. Correggi gerarchie, tempi o causalità inventati prima di codificare la scena. Conserva la provenienza dell'immagine.
+
+**Tradurre in B.** Dopo aver visto A, costruisci la scena modificabile. Scegli se ricostruire geometrie, usare l'immagine come asset o comporre i metodi. La bitmap non rivela automaticamente livelli, profondità, traiettorie o fatti nascosti. Produci e osserva il primo frame codificato t=0, distinto da A.
+
+**Formare il tempo.** Usa un parametro t esplicito e identità stabili. L'esempio 30 s × 24 fps contiene 720 campioni. Fai dipendere testo e geometria dalla sorgente, senza irrigidire in codice una prima allegoria. Osserva collisioni, didascalie, finale e implicazioni del montaggio.
+
+**La memoria è un'altra questione.** L'operatore intendeva evitare di costruire il primo frame soltanto «andando a memoria»; l'immagine generata serve da esempio osservabile. Limitare la RAM inviando un frame alla volta a FFmpeg è un'ottimizzazione tecnica diversa.
+
+**Ritorno dell'apprendimento.** La correzione può cambiare comprensione, prompt, scena o metodo. Conserva accaduto e comprensione di allora; porta il sapere riusabile alla competenza pertinente. Se non è stato usato un generatore, non chiamare la prima immagine del codice «generata» da quel mezzo.
+
+**Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
+
+# Tre situazioni
+
+## Una competenza apprende da una correzione reale
+Usa il registro effettivo di una correzione. Genera A dalla sorgente, osserva se inventa una gerarchia, poi costruisci B con identità stabili. Anima il cambiamento documentato, non una crescita decorativa. Il sapere riusabile torna al proprio owner.
+
+## Un concetto diventa una sequenza progettuale
+Il brief descrive uno stesso oggetto come schizzo e proposta successiva. Genera l'esempio A, poi codifica la scena e la trasformazione con elementi attribuiti. Se il finale suggerisce approvazione dove c'è soltanto proposta, correggilo.
+
+## Un processo fisico documentato
+Usa osservazioni reali ordinate. Genera A come esempio, non come finta ripresa. Costruisci B e la sequenza dall'evidenza. Il generatore e il montaggio non autorizzano a inventare eventi o cause mancanti.
+
+## Generatore mancante
+Il renderer in codice può creare B, ma non può affermare che A sia stata generata da un modello visivo. Recupera un vero riferimento o un generatore accessibile.
+
+OGGETTO / FONTI / MEZZI ATTUALI: [fornire contesto]
