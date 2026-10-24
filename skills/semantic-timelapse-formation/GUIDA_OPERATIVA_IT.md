@@ -25,4 +25,6 @@
 
 **Composizione VC-30s.** Quando il video rende pertinenti più capacità, entra nel [mini-kernel VC30](VC30_KERNEL_OPERATIVO_IT.md) prima di assumere il vecchio renderer procedurale come mezzo fisso. Il sapere combina significato della fonte, immagine A generata, identità di attori e oggetti, animazione con seek e sonoro facoltativo. HyperFrames e Remotion sono carrier alternativi; esempi GSAP/Three/Pixi/Framer Motion sono spesso UI realtime e richiedono un modello di tempo esplicito per esportare video ripetibili. Leggere le repository non le installa. La licenza Remotion non è MIT/Apache.
 
+**Immagine A non equivale a parti mobili indipendenti.** Dopo aver osservato A, riconoscere se il gesto richiede parti, altre pose/viste, maschere o geometrie. Formare solo quelle necessarie coerenti con la fonte e con A, custodendo identità e provenienza. Se non si possono costruire senza inventare elementi, cambiare camera o modalità della rappresentazione. Non spacciare una bitmap per rig 3D. Comprendere inoltre quali parti dovranno restare modificabili nei diversi renderer, anziché scegliere il carrier dal solo MP4 risultante.
+
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
