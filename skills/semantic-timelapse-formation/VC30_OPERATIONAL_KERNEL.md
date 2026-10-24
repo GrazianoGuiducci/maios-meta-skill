@@ -1,6 +1,6 @@
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.3.3, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.4.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 ## Form the film from the actual subject
 
@@ -81,6 +81,10 @@ The first generated visual reference A is made and inspected **before programmin
 **One represented situation, many visible projections.** Where the subject contains actions or changes of state, actors, held objects, camera views, text and sound should represent **consistent aspects of the same source-bound situation**. A click, gesture or change of viewpoint is not automatically evidence that an event actually occurred. Some films can be rendered from a simple shared relationship; others may benefit from a more elaborate model of actors, events and scene states. No formal state machine is universally required.
 
 **A data variation is not always a different subject.** A reusable scene can render new values or variants when the underlying relationship remains appropriate. A truly different case may require a new perspective, visual grammar, source interpretation or initial image prompt rather than merely swapping names and colours in an old template. Preserve the *way of forming* scenes as reusable knowledge, not the scene geometry as a universal style.
+
+## Studio-Lab: use knowledge at the working station
+
+The user's selected expansion of VC-30s is a [working Studio-Lab](VC30_STUDIO_LAB_EN.md) with eleven **specialist stations** rather than an obligatory processing chain. They allow source knowledge, art direction, image A and image assets, storyboard, code, voice/sound, render, delivery and recursive learning to participate where they change the actual film. Use its [portable operating guide](VC30_STUDIO_LAB_EN.md) when a project crosses multiple disciplines. Do not claim an installed image generator, video runtime or autonomous agents from this Markdown method alone.
 
 ## A video must be addressable in time
 
