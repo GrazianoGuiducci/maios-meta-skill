@@ -63,6 +63,8 @@ The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Mo
 
 **Further VC-30s source learning — concepts and receivers.** A short video may derive from an existing source-grounded concept that also produces infographics, articles or an interactive guide. Preserve the meaningful relation rather than copying visual layouts. Playback order alone cannot prove causation, hierarchy or irreversible progress. When A is generated in another receiver, the host coding B must actually reach its image bytes; a verbal description is not the observed reference. Screenshot-based cursor motion is illustrative unless the underlying action was observed. These are owner/routing capabilities, detailed in [VC-30s](VC30_OPERATIONAL_KERNEL.md), not new software requirements.
 
+**Image-first is not timeline-first.** In the VC-30s method, a genuinely generated and observed image A may be a key reference rather than the frame at `t=0`; the code-built scene B has its own initial state. When the subject describes actions, the actor, prop, camera and any caption or sound should express consistent aspects of the same source-grounded situation, without a mandatory state-machine architecture. A reusable template applies when the meaningful relationship persists; a different object may require a new visual grammar. See [VC-30s](VC30_OPERATIONAL_KERNEL.md).
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
@@ -98,11 +100,13 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 
 **Image A is not a set of independent moving parts.** After seeing A, recognise whether the action needs independently animated components or further poses/views/masks/geometry. Make only the necessary parts from source-consistent references; preserve their identity and provenance. If those parts cannot be constructed faithfully, change the camera or the expression. Do not turn a flat generated image into a claimed 3D rig. Decide which parts must remain editable across renderers before choosing a native, hosted or finished-video carrier.
 
+**Visual reference versus the film's first time.** Generate and inspect A first, but do not presume it is the `t=0` state. It may be the scene's signature pose or strongest relation. Before coding B, understand what identity A contributes and which scene state should actually start the film. When actions matter, build the actor, object, camera and cue descriptions from a consistent source relation rather than unrelated animation tracks. A different source may require a newly formed scene, not only a changed text prop.
+
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
 
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.3.2, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.3.3, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 ## Form the film from the actual subject
 
@@ -175,6 +179,14 @@ A further source reentry reveals three missing capabilities that **do not requir
 **Screenshot-based demos are not necessarily live product demonstrations.** An animated cursor can illustrate a possible flow, but does not establish that the UI click or automated result occurred in a running product. Distinguish captured screen, illustrative reconstruction and observed execution where the difference affects the claim.
 
 These are reusable **perceptual and capability distinctions**, not copied code or mandatory preproduction stages.
+
+## Image A precedes the coding, not necessarily frame zero
+
+The first generated visual reference A is made and inspected **before programming the animation**, but it need not depict the video at `t=0`. It can be a key visual, a recognizable character, the most revealing action, a spatial relation or a representative moment. The coded scene B has its **own** opening state, and the useful relation to A may become visible later in the film. Do not force a pixel-identical first frame merely because A was generated first in the work.
+
+**One represented situation, many visible projections.** Where the subject contains actions or changes of state, actors, held objects, camera views, text and sound should represent **consistent aspects of the same source-bound situation**. A click, gesture or change of viewpoint is not automatically evidence that an event actually occurred. Some films can be rendered from a simple shared relationship; others may benefit from a more elaborate model of actors, events and scene states. No formal state machine is universally required.
+
+**A data variation is not always a different subject.** A reusable scene can render new values or variants when the underlying relationship remains appropriate. A truly different case may require a new perspective, visual grammar, source interpretation or initial image prompt rather than merely swapping names and colours in an old template. Preserve the *way of forming* scenes as reusable knowledge, not the scene geometry as a universal style.
 
 ## A video must be addressable in time
 
