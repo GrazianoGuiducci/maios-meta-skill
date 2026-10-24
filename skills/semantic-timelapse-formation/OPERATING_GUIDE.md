@@ -23,4 +23,6 @@
 
 **Return learning.** Differences can change source comprehension, the generator instruction, the editing scene or the method. Preserve what occurred and what was understood then. Return reusable knowledge to the appropriate competence. If there was no image generator, do not mislabel render(t=0) as its output.
 
+**VC-30s competence composition.** For a film that involves several kinds of work, enter [VC30_OPERATIONAL_KERNEL.md](VC30_OPERATIONAL_KERNEL.md) before assuming the previous procedural renderer is the medium. Its methods bring sourced meaning, generated reference A, actor/object continuity, time-seekable animation and optional audio into the same film without a universal stack. HyperFrames and Remotion are alternative carriers; GSAP/Three/Pixi/Framer Motion examples often animate real-time UIs and need an explicit time model for deterministic video. Repository reading alone does not install them. Remotion's licensing differs from MIT/Apache.
+
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
