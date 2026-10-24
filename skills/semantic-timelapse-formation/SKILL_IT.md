@@ -58,6 +58,8 @@ Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, R
 
 **Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo; l'audit delle fonti è stato selettivo, non lettura di ogni file.
 
+**Altro giro sulle fonti VC-30s — concetto e riceventi.** Un video breve può derivare da un concetto source-bound già capace di formare infografica, articolo o guida interattiva. Preservare il significato, non copiare il layout. L'ordine dei frame non dimostra da solo causalità, gerarchia o progresso inevitabile. Se A è generata altrove, il ricevente che codifica B deve raggiungere realmente i suoi byte: una descrizione non è l'immagine osservata. Un cursore simulato su una schermata resta esplicativo se l'operazione non è stata osservata. Sono capacità di pertinenza e di metodo, illustrate nel [VC-30s](VC30_KERNEL_OPERATIVO_IT.md), non nuovi requisiti software.
+
 ## Mezzi ed effetti
 
 Generatore, codice ed encoder devono essere davvero disponibili. Il ricevente può usare Python/Pillow/FFmpeg, SVG/Canvas o altri strumenti pertinenti. Verità sorgente, diritti sugli asset, installazione e pubblicazione conservano i propri confini.
