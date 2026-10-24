@@ -60,6 +60,8 @@ The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Mo
 
 **Further VC-30s source learning — concepts and receivers.** A short video may derive from an existing source-grounded concept that also produces infographics, articles or an interactive guide. Preserve the meaningful relation rather than copying visual layouts. Playback order alone cannot prove causation, hierarchy or irreversible progress. When A is generated in another receiver, the host coding B must actually reach its image bytes; a verbal description is not the observed reference. Screenshot-based cursor motion is illustrative unless the underlying action was observed. These are owner/routing capabilities, detailed in [VC-30s](VC30_OPERATIONAL_KERNEL.md), not new software requirements.
 
+**Image-first is not timeline-first.** In the VC-30s method, a genuinely generated and observed image A may be a key reference rather than the frame at `t=0`; the code-built scene B has its own initial state. When the subject describes actions, the actor, prop, camera and any caption or sound should express consistent aspects of the same source-grounded situation, without a mandatory state-machine architecture. A reusable template applies when the meaningful relationship persists; a different object may require a new visual grammar. See [VC-30s](VC30_OPERATIONAL_KERNEL.md).
+
 ## Actual means and effects
 
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
