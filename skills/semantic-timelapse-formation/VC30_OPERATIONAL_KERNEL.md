@@ -74,6 +74,14 @@ A further source reentry reveals three missing capabilities that **do not requir
 
 These are reusable **perceptual and capability distinctions**, not copied code or mandatory preproduction stages.
 
+## Image A precedes the coding, not necessarily frame zero
+
+The first generated visual reference A is made and inspected **before programming the animation**, but it need not depict the video at `t=0`. It can be a key visual, a recognizable character, the most revealing action, a spatial relation or a representative moment. The coded scene B has its **own** opening state, and the useful relation to A may become visible later in the film. Do not force a pixel-identical first frame merely because A was generated first in the work.
+
+**One represented situation, many visible projections.** Where the subject contains actions or changes of state, actors, held objects, camera views, text and sound should represent **consistent aspects of the same source-bound situation**. A click, gesture or change of viewpoint is not automatically evidence that an event actually occurred. Some films can be rendered from a simple shared relationship; others may benefit from a more elaborate model of actors, events and scene states. No formal state machine is universally required.
+
+**A data variation is not always a different subject.** A reusable scene can render new values or variants when the underlying relationship remains appropriate. A truly different case may require a new perspective, visual grammar, source interpretation or initial image prompt rather than merely swapping names and colours in an old template. Preserve the *way of forming* scenes as reusable knowledge, not the scene geometry as a universal style.
+
 ## A video must be addressable in time
 
 The export scene should support `frame(t, scene, assets)` or an equivalent absolute-frame method that can render frames **out of order**. GSAP tickers and Three.js `update(dt)` are live-web mechanisms, not an assurance of deterministic video. Seed randomness, wait for images/fonts/GPU to be ready, and preserve identities between shots. 30s × 24fps = 720 frames, but neither format nor frame rate is universal.
