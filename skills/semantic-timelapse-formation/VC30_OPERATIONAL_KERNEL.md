@@ -1,6 +1,6 @@
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.4.2, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** candidate 0.4.3, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 **Current identity:** the general capability is **MKCV — Mini Kernel Code Video**. This guide retains the historical `VC-30s` profile and links to the [same Studio-Lab](VC30_STUDIO_LAB_EN.md). MKCV does not impose a duration, output aspect or eleven mandatory phases; its production exercise remains distinct from written methodology.
 
