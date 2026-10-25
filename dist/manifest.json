@@ -1445,7 +1445,7 @@
       "id": "creare-timelapse-semantici",
       "version": "0.1.1",
       "package": "dist/semantic-timelapse-formation-0.1.1.zip",
-      "sha256": "accd3e34a83696c9b36f1428ebc6caaf2e5fd3a0f40b87fadcd40fbf21350a84",
+      "sha256": "b73c0b633d0769e7a38983d9c85e2b50ce1a574a8d8feaa997af7e8a020fae3c",
       "files": {
         "semantic-timelapse-formation/AVVIO_CHAT_IT.txt": "a2e34e8ad85471170bb78a71cb6c7bb892de4a9bd2039440f4bdc54b63d77926",
         "semantic-timelapse-formation/EDITION.json": "05562dcb3d88885e07a455d61a25e7e8bf722b9d50cdc41672b34b52f93714d9",
@@ -1467,7 +1467,7 @@
         "semantic-timelapse-formation/VC30_STUDIO_LAB_EN.md": "4dbdd8f3ecb64c12e5f176fec84da127e215e79a5acf831c078104eab1b375fa",
         "semantic-timelapse-formation/VC30_STUDIO_LAB_IT.md": "bde5d9a0ee7ebd83832f586850ff25be1bbab21159d6a194bd4708a62e2f5c0d",
         "semantic-timelapse-formation/catalog-entry.json": "81df84652daa149d07906b40dd5d64f50b59dc8e62e7491680d641b439b12189",
-        "semantic-timelapse-formation/examples/README.md": "697573a7938416740dec331a6e56da887499e586ae9bda7e1cb7184140a92e20",
+        "semantic-timelapse-formation/examples/README.md": "0a9f85d2026199893c84935cf0b238bb29059f6caa878451415fe5d62db5f57e",
         "semantic-timelapse-formation/examples/render_from_reference.py": "1c57a2cdc0ffd29f86349404215c3dcf743b1604ee962167c9f8d8c3a771518a",
         "semantic-timelapse-formation/presentation.json": "5968f4906d21b3d5cdb5e5245bcb1e9330ce99c29ddc1da24cfe07ec57893235",
         "semantic-timelapse-formation/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",

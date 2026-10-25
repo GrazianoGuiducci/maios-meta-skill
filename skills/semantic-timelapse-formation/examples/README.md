@@ -10,4 +10,3 @@ python examples/render_from_reference.py reference.png --video timelapse_30s.mp4
 ```
 
 The script produces image B in code and streams frame buffers through FFmpeg. Its mild camera movement is a **technical carrier example**, not proof of the meaningful temporal transformation, model learning, image-generator operation or a universal visual style. Real projects must form the animation from their own subject and sources.
-
