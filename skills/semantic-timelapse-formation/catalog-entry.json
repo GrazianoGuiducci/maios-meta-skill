@@ -1,0 +1,67 @@
+{
+  "id": "creare-timelapse-semantici",
+  "name": "Semantic Timelapse Formation",
+  "version": "0.1.0",
+  "state": "prepared_edition",
+  "instruction_language": "en",
+  "review_id": "33",
+  "native_entry": "semantic-timelapse-formation",
+  "skill_name": "semantic-timelapse-formation",
+  "source_title": "Semantic Timelapse Formation",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/semantic-timelapse-formation/SKILL.md",
+      "guide": "skills/semantic-timelapse-formation/README.md",
+      "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
+      "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
+      "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md",
+      "installation": "skills/semantic-timelapse-formation/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/semantic-timelapse-formation/SKILL_IT.md",
+      "guide": "skills/semantic-timelapse-formation/README_IT.md",
+      "starter": "skills/semantic-timelapse-formation/AVVIO_CHAT_IT.txt",
+      "examples": "skills/semantic-timelapse-formation/ESEMPI_IT.md",
+      "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/semantic-timelapse-formation/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/semantic-timelapse-formation/SKILL.md",
+  "guide": "skills/semantic-timelapse-formation/README.md",
+  "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
+  "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
+  "presentation": "skills/semantic-timelapse-formation/presentation.json",
+  "package": "dist/semantic-timelapse-formation-0.1.0.zip",
+  "en": {
+    "title": "Create timelapses from an image-generated reference",
+    "kind": "Generative media competence",
+    "domain": "Visual creation",
+    "does": "Generates a visual reference before constructing an editable coded first frame and meaningful short animation.",
+    "when": "When coding a first frame would otherwise rely on an imagined picture rather than an observed generated image.",
+    "examples": [
+      "Explain a documented competence result.",
+      "Animate a source-bound design change.",
+      "Show a recorded process without inventing stages."
+    ],
+    "route": "/resources/creare-timelapse-semantici/",
+    "description": "Use an image generator before coding a 30-second visual sequence."
+  },
+  "it": {
+    "title": "Creare timelapse da un'immagine di riferimento generata",
+    "kind": "Competenza visiva generativa",
+    "domain": "Creazione visiva",
+    "does": "Genera un riferimento prima di costruire il primo frame editabile in codice e una breve animazione significativa.",
+    "when": "Quando serve vedere un esempio prima di progettare la prima scena in codice.",
+    "examples": [
+      "Spiega una risultante documentata.",
+      "Anima un cambiamento progettuale.",
+      "Rappresenta un processo osservato senza inventare fasi."
+    ],
+    "route": "/risorse/creare-timelapse-semantici/",
+    "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi."
+  }
+}
