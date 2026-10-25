@@ -2226,7 +2226,7 @@
       "review_id": "33",
       "native_entry": "semantic-timelapse-formation",
       "skill_name": "semantic-timelapse-formation",
-      "source_title": "Semantic Timelapse Formation",
+      "source_title": "Semantic Timelapse Formation — competenza evolutiva",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2299,7 +2299,7 @@
       "review_id": "34",
       "native_entry": "onto-skill",
       "skill_name": "onto-skill",
-      "source_title": "Onto-Skill",
+      "source_title": "Onto-Skill (OS) — principi viventi e abilità incarnabili",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2368,7 +2368,7 @@
       "review_id": "35",
       "native_entry": "form-cooperative-capability-from-sources",
       "skill_name": "form-cooperative-capability-from-sources",
-      "source_title": "Form Cooperative Capability from Sources",
+      "source_title": "Form Cooperative Capability from Sources — competenza generativa",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2437,7 +2437,7 @@
       "review_id": "36",
       "native_entry": "funded-request-project-formation",
       "skill_name": "funded-request-project-formation",
-      "source_title": "Funded Request Project Formation",
+      "source_title": "Funded Request Project Formation — metacompetenza generativa",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2506,7 +2506,7 @@
       "review_id": "37",
       "native_entry": "maios-presentation-competence",
       "skill_name": "maios-presentation-competence",
-      "source_title": "MAIOS Presentation Competence",
+      "source_title": "MAIOS — competenza situata per presentazioni e continuità cognitiva",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2575,7 +2575,7 @@
       "review_id": "38",
       "native_entry": "cinematic-screenwriting",
       "skill_name": "cinematic-screenwriting",
-      "source_title": "Cinematic Screenwriting",
+      "source_title": "Cinematic Screenwriting — scrittura cinematografica",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2644,7 +2644,7 @@
       "review_id": "39",
       "native_entry": "cinematic-direction",
       "skill_name": "cinematic-direction",
-      "source_title": "Cinematic Direction",
+      "source_title": "Cinematic Direction — regia cinematografica",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2713,7 +2713,7 @@
       "review_id": "40",
       "native_entry": "character-performance",
       "skill_name": "character-performance",
-      "source_title": "Character & Object Performance",
+      "source_title": "Character & Object Performance — interpretazione animata",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
@@ -2782,7 +2782,7 @@
       "review_id": "41",
       "native_entry": "film-montage",
       "skill_name": "film-montage",
-      "source_title": "Film Montage",
+      "source_title": "Film Montage — montaggio e forma temporale",
       "default_language": "en",
       "license": "Apache-2.0",
       "languages": {
