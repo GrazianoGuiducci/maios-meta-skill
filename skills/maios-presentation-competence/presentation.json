@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Make an evolving system understandable",
-    "subtitle": "A recognizable first encounter, with the sources and depth needed to explore further.",
+    "title": "Present a complex system’s capabilities and operation",
+    "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
     "kind": "Situated communication competence",
     "domain": "Presentations and system understanding",
     "does": "Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.",
@@ -38,13 +38,13 @@
       },
       {
         "title": "Let the encounter improve the presenting competence",
-        "body": "A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to Design. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects."
+        "body": "A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects."
       }
     ],
     "knowledge": [
       {
         "title": "A system can work and become part of what it creates",
-        "body": "A generative system may be a research result, a usable product, a means already working inside its own development and a capacity for forming further situated systems. These relations can coexist. For MAIOS, the public Project Kernel is a concrete available incarnation; wider generative work continues. Present the relation selected by the actual encounter, with its real means and source depth."
+        "body": "A generative system may be a research result, a usable product, a means participating in its own development and a capability for forming other systems. Present the relationships relevant to the recipient’s question through actual capabilities, recognizable examples and reachable sources."
       },
       {
         "title": "A living map preserves reasons",
@@ -89,11 +89,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/maios-presentation-competence/OPERATING_GUIDE.md"
+    "operating_guide": "skills/maios-presentation-competence/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "Explain one system to the people using or building it",
+      "situation": "A technician asks what changes during a shift; an engineer asks how the assistant works; a manager asks who needs to participate. All three questions concern the same system.",
+      "point": "The presentation begins with the actual question and makes the same mechanism and sources reachable. The depth of the view changes while the system’s identity and capabilities remain coherent."
+    }
   },
   "it": {
-    "title": "Rendere comprensibile un sistema che evolve",
-    "subtitle": "Un primo incontro riconoscibile, con le fonti e la profondità per proseguire.",
+    "title": "Presentare capacità e funzionamento di un sistema complesso",
+    "subtitle": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
     "kind": "Competenza comunicativa situata",
     "domain": "Presentazioni e comprensione dei sistemi",
     "does": "Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario.",
@@ -130,13 +135,13 @@
       },
       {
         "title": "Lasciare che l’incontro migliori la competenza del presentare",
-        "body": "Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione a Design. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti."
+        "body": "Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti."
       }
     ],
     "knowledge": [
       {
         "title": "Un sistema può lavorare e diventare parte di ciò che crea",
-        "body": "Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi situati. Sono relazioni che coesistono. In MAIOS il Project Kernel pubblico è un’incarnazione concreta disponibile; il lavoro generativo più ampio continua. Presenta la relazione pertinente con mezzi effettivi e profondità sorgente."
+        "body": "Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi. Presenta le relazioni pertinenti alla domanda del destinatario attraverso capacità effettive, esempi riconoscibili e fonti raggiungibili."
       },
       {
         "title": "Una mappa viva conserva ragioni",
@@ -154,7 +159,7 @@
       },
       {
         "title": "Un diagramma rivela un errore concettuale",
-        "body": "Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di Design presso i rispettivi owner per la mappa successiva."
+        "body": "Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di progettazione visiva presso i rispettivi responsabili per la mappa successiva."
       }
     ],
     "depth": {
@@ -181,7 +186,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/maios-presentation-competence/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/maios-presentation-competence/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Spiegare lo stesso sistema a chi deve usarlo o costruirlo",
+      "situation": "Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funziona l’assistente; un responsabile chi deve partecipare. Le tre domande riguardano lo stesso sistema.",
+      "point": "La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema."
+    }
   },
   "showcase": {
     "type": "presentation",

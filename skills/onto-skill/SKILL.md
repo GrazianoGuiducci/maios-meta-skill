@@ -11,6 +11,12 @@ A source can contain a principle, a local preference, a question or a fact about
 
 Onto-Skill connects source meaning to a concrete consumer: the competence whose observation, choice or action should change. A recorded sentence becomes useful through that relationship.
 
+## A correction that changes later quotations
+
+A studio corrects an AI quotation because the reasons behind two unusual costs are missing. It wants those reasons to remain understandable in later work.
+
+The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer.
+
 ## Understand the contribution in its situation
 
 Recover the actual words, who contributed them, what was happening and why the difference mattered. Separate the original contribution from the assistant’s interpretation. A request to keep one report short may concern that encounter; a correction about missing decision reasons can teach a recurring capability. Preserve an unresolved meaning as an open question.

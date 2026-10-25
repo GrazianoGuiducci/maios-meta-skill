@@ -11,6 +11,12 @@ Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega c
 
 Una presentazione è un’espressione situata del sapere del sistema. La prima spiegazione può essere breve mentre le relazioni più profonde restano raggiungibili.
 
+## Spiegare lo stesso sistema a chi deve usarlo o costruirlo
+
+Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funziona l’assistente; un responsabile chi deve partecipare. Le tre domande riguardano lo stesso sistema.
+
+La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema.
+
 ## Recuperare il sistema oltre l’ultimo artefatto
 
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
@@ -38,7 +44,7 @@ Un breve estratto attribuito, un artefatto o una correzione reale possono aprire
 
 ## Lasciare che l’incontro migliori la competenza del presentare
 
-Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione a Design. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
+Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
 
 ## Continuare attraverso il progetto reale
 

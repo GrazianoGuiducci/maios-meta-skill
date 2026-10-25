@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Direct what the viewer can discover",
-    "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",
+    "title": "Direct a scene through framing, camera and light",
+    "subtitle": "Choose how to show the action so viewers can recognize space, gestures and meaningful changes.",
     "kind": "Cinematic design competence",
     "domain": "Cinema and narrative",
     "does": "Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage.",
@@ -81,12 +81,17 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/cinematic-direction/OPERATING_GUIDE.md"
+    "operating_guide": "skills/cinematic-direction/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "Framing reveals why a hand supports the pot",
+      "situation": "A character reaches toward a plant at the edge of the frame. In a wide view the gesture seems arbitrary; a closer view reveals the bent stem and the supporting hand.",
+      "point": "The point of view changes the relationship the viewer can discover. Distance, light, off-screen space and duration follow what this scene needs to make perceptible."
+    }
   },
   "it": {
-    "title": "Dirigere ciò che lo spettatore può scoprire",
-    "subtitle": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena.",
-    "kind": "Competenza di Design cinematografico",
+    "title": "Dirigere una scena con inquadratura, camera e luce",
+    "subtitle": "Scegli come mostrare l’azione perché lo spettatore possa riconoscere spazio, gesti e cambiamenti significativi.",
+    "kind": "Competenza di progettazione visiva cinematografico",
     "domain": "Cinema e narrazione",
     "does": "Forma l’esperienza cinematografica di una scena attraverso messa in scena, punto di vista, camera, luce e relazione con interpretazione e montaggio.",
     "when": "Quando il modo di mostrare una scena cambia ciò che lo spettatore comprende o vive.",
@@ -165,7 +170,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/cinematic-direction/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/cinematic-direction/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "L’inquadratura rivela perché una mano sostiene il vaso",
+      "situation": "Un personaggio raggiunge una pianta al margine del quadro. Nel campo largo il gesto sembra arbitrario; avvicinandosi si vede lo stelo piegato e la mano che lo sostiene.",
+      "point": "Il punto di vista cambia la relazione che lo spettatore può scoprire. Distanza, luce, fuori campo e durata si scelgono attraverso ciò che questa scena deve rendere percepibile."
+    }
   },
   "showcase": {
     "type": "direction",

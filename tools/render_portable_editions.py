@@ -13,6 +13,9 @@ def render(entry):
         en=lang=='en';p=content[lang];f=resource['languages'][lang]
         def section(title, paragraphs):return '\n## '+title+'\n\n'+'\n\n'.join(paragraphs)+'\n'
         skill='---\nname: '+entry+'\ndescription: '+p['does']+' '+p['when']+'\n---\n\n# '+resource['name']+'\n\n'+p['does']+'\n\n'+'\n\n'.join(p['intro'])+'\n'
+        context=p.get('reader_context')
+        if context:
+            skill+=section(context['title'],[context['situation'],context['point']])
         skill+='\n'.join(section(x['title'],[x['body']]) for x in p['method'])
         skill+=section('Continue through the actual project' if en else 'Continuare attraverso il progetto reale',p['learning'])
         skill+=section('Operating knowledge' if en else 'Sapere operativo',['Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.' if en else 'Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.'])

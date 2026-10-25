@@ -2,7 +2,7 @@
 
 ## Un focus situato nello sviluppo continuo
 
-Un’organizzazione non deve ricreare la propria identità per ogni bando. Sapere e capacità in evoluzione incontrano un interesse esterno attraverso un focus situato. Il focus può produrre una capacità nuova e arricchire il progetto complessivo. Gli orizzonti temporali osservano possibilità; gli impegni reali prendono forma con gli owner economici e progettuali.
+Un’organizzazione non deve ricreare la propria identità per ogni bando. Sapere e capacità in evoluzione incontrano un interesse esterno attraverso un focus situato. Il focus può produrre una capacità nuova e arricchire il progetto complessivo. Gli orizzonti temporali osservano possibilità; gli impegni reali prendono forma con i responsabili economici e progettuali.
 
 
 ## Una candidatura competente incontra il formulario reale
@@ -16,4 +16,4 @@ Una richiesta di evidenza può riguardare affermazione scientifica, capacità te
 
 ## La richiesta può cambiare come si formano i progetti
 
-Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi owner.
+Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi responsabili.

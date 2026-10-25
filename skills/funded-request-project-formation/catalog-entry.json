@@ -1,7 +1,7 @@
 {
   "id": "formare-progetti-da-richieste-finanziate",
   "name": "Funded Request Project Formation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "36",
@@ -35,9 +35,9 @@
   "starter": "skills/funded-request-project-formation/START_CHAT_EN.txt",
   "examples": "skills/funded-request-project-formation/EXAMPLES.md",
   "presentation": "skills/funded-request-project-formation/presentation.json",
-  "package": "dist/funded-request-project-formation-0.1.0.zip",
+  "package": "dist/funded-request-project-formation-0.1.1.zip",
   "en": {
-    "title": "Form a project from a funded request",
+    "title": "Form projects from funded calls and requests",
     "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",
     "kind": "Generative metacompetence",
     "domain": "Projects and enabling resources",
@@ -49,10 +49,10 @@
       "The second request teaches another solution"
     ],
     "route": "/resources/formare-progetti-da-richieste-finanziate/",
-    "description": "Understand the requested change and form the capability, solution and project that can answer it."
+    "description": "Understand the requested change, compose relevant capabilities and connect the project, beneficiaries and resources."
   },
   "it": {
-    "title": "Formare un progetto da una richiesta finanziata",
+    "title": "Formare progetti da bandi e richieste finanziate",
     "subtitle": "Comprendere il cambiamento richiesto e formare capacità, soluzione e progetto che possono rispondervi.",
     "kind": "Metacompetenza generativa",
     "domain": "Progetti e risorse abilitanti",
@@ -64,6 +64,6 @@
       "La seconda richiesta insegna un’altra soluzione"
     ],
     "route": "/risorse/formare-progetti-da-richieste-finanziate/",
-    "description": "Comprendere il cambiamento richiesto e formare capacità, soluzione e progetto che possono rispondervi."
+    "description": "Comprendi il cambiamento richiesto, componi le capacità pertinenti e collega progetto, beneficiari e risorse."
   }
 }

@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Make a situation live through a scene",
-    "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
+    "title": "Write situations, actions and dialogue for a film",
+    "subtitle": "From idea to scene: form what happens, the point of view and the change the viewer understands.",
     "kind": "Cinematic writing competence",
     "domain": "Cinema and narrative",
     "does": "Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage.",
@@ -85,11 +85,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/cinematic-screenwriting/OPERATING_GUIDE.md"
+    "operating_guide": "skills/cinematic-screenwriting/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "A fictional robot lifts a fallen plant",
+      "situation": "In an imagined workshop, a robot pauses beside a fallen plant. The scene needs to convey what the character notices, chooses and changes.",
+      "point": "Writing connects situation, action and consequence. Direction and performance can then make them visible through gaze, pause, gesture and framing."
+    }
   },
   "it": {
-    "title": "Far vivere una situazione attraverso una scena",
-    "subtitle": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta.",
+    "title": "Scrivere situazioni, azioni e dialoghi per un film",
+    "subtitle": "Dall’idea alla scena: forma ciò che accade, il punto di vista e il cambiamento che lo spettatore comprende.",
     "kind": "Competenza di scrittura cinematografica",
     "domain": "Cinema e narrazione",
     "does": "Forma situazioni cinematografiche originali, treatment, scene e dialoghi, conservando autorialità e continuità causale con regia, interpretazione e montaggio.",
@@ -142,7 +147,7 @@
       },
       {
         "title": "Una scoperta può portare un film esplicativo",
-        "body": "Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli owner diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata."
+        "body": "Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli responsabili diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata."
       },
       {
         "title": "Il montaggio rivela un’accusa involontaria",
@@ -173,7 +178,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/cinematic-screenwriting/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/cinematic-screenwriting/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Un robot di fiction rialza una pianta caduta",
+      "situation": "In un’officina di fantasia un robot si ferma accanto a una pianta caduta. La scena deve far comprendere ciò che il personaggio nota, sceglie e cambia.",
+      "point": "La scrittura collega situazione, azione e conseguenza. Regia e interpretazione potranno renderle visibili attraverso sguardo, pausa, gesto e inquadratura."
+    }
   },
   "showcase": {
     "type": "screenwriting",

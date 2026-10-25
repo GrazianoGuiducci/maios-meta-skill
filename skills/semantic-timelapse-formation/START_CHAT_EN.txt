@@ -1,11 +1,13 @@
----
-name: semantic-timelapse-formation
-description: Create source-grounded short videos by generating an example image first, observing it, building the first frame in editable code, then animating and learning from the result.
----
 
 # Semantic Timelapse Formation
 
 **Generate a visual reference first, then build the first frame in code.**
+
+## Animate the subject of a reference image
+
+You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.
+
+Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject.
 
 ## Understand the object
 
@@ -29,7 +31,7 @@ The source may call for a **person, object, tool, setting, gesture or material c
 
 When relevant, let the source specify each visual actor's **role, observable state, recognisable features, action and relation to others**. Form image A with these material distinctions and observe whether it invents a character's identity, authority, capability or causation. The animation should preserve the referent while camera, gesture, object state and text change. A representational character is not proof of a real human or autonomous agent.
 
-After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The source development has exercised generated-reference 2.5D films; a new narrative film and independent recipient use keep their own exercise state.
+After A, construct B as an editable scene with actual assets and geometry. A flattened illustration does not automatically provide movable body parts, unseen surfaces, a 3D mesh, rig or depth. 2.5D can use layers, masks and parallax; genuine 3D needs models, cameras, materials and real execution tools. Select the medium through the change the subject needs to make visible.
 
 ## Time and the short film
 
@@ -39,26 +41,26 @@ Producing and encoding frames one at a time can limit **computer-memory use**. T
 
 ## Let the source determine topology and the meaning of time
 
-A non-identical MAIOS construction revealed that changing the **kind of relationship** should be able to change the **geometry** of the scene, not merely its captions. Two independent corrections may call for two parallel paths instead of a central glowing hub. That layout was an outcome of its particular source, not a new preset or universal recommendation. If the coding medium cannot express a requested relation, retain that difference explicitly instead of forcing it into a supported shape.
+The kind of relationship described by the sources should be able to change scene geometry. Two independent corrections may call for parallel paths rather than a luminous center. That arrangement serves that relationship; another subject may need a different form. Extend the renderer or explicitly preserve a difference it cannot represent.
 
 Separate **time in the source** from **time in the animation**. A 30-second explanatory motion may represent a process or comparison without compressing any real recorded timeline. Call it a documentary timelapse only when underlying events and intervals are actually available and used; otherwise describe the artifact as an explanatory temporal animation. Keep that distinction in image prompts, first-frame construction and the final film.
 
 
 ## Learning and recursion
 
-The generated example may reveal a missing source relation; the coded frame may expose an inaccurate translation; later frames may reveal occlusion or lost identity. Let those consequences correct source understanding, the image prompt, the code or the temporal method while work is occurring. Return reusable learning to the owner that should behave differently on another task: domain, editorial meaning, design, code construction or general competence formation. If the knowledge already existed but was not reached, repair discovery instead of duplicating it.
+The generated image may reveal a missing relationship; the coded frame may expose an inaccurate translation; later frames may lose readability or identity. Use those observations to correct interpretation, image instructions, code or temporal method. Preserve reusable knowledge in the relevant competence: content, writing, visual design or technical production. If the knowledge already existed, make it reachable where it is needed.
 
-KA keeps the possibility field open; FDLA corrects source/intent substitutions in-flow. The competence's recursive learning changes usable method and knowledge when materialized by a capable host. It is not a claim that a text file or video modifies LLM weights or automatically executes actions.
+Keep possibilities supported by intent and sources open and correct substitutions introduced by interpretation. Record the learned relationship in the method that needs it. Persistence depends on the receiving environment; text and video do not by themselves modify model weights or start actions.
 
 ## VC-30s: an operating mini-kernel, not a required technology stack
 
-A short film can need source comprehension, image A generation, editable B, visual actors and objects, 2.5D/3D motion, sound, rendering and learning. These are complementary capabilities bound by one video object, **not eight mandatory phases or eight installed tools**. The [VC-30s operating competence field](VC30_OPERATIONAL_KERNEL.md) makes the relation portable; its public edition contains source links and technical distinctions without private MAIOS topology or third-party code.
+A short film can need source comprehension, image A generation, editable B, visual actors and objects, 2.5D/3D motion, sound, rendering and learning. These are complementary capabilities bound by one video object, **not eight mandatory phases or eight installed tools**. The [VC-30s operating competence field](VC30_OPERATIONAL_KERNEL.md) makes the relation portable; its public edition contains source links and technical distinctions with source links and portable technical knowledge.
 
 The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. A new recipient’s 3D or narrative production requires its own actual means and observed result.
 
 **From first visual reference to actually animable elements.** A is a real generated image to look at before coding B, but it is **not** a rig or the set of moveable parts. If the subject requires a hand, prop, character expression, separated foreground or true depth to move independently, recognise which additional consistent assets, poses, layers or geometry are needed; acquire them only when pertinent. Keep their source/provenance and identity, or instead change the motion/camera if A cannot support it. A single still may be entirely sufficient for a film that animates it as a whole. [VC-30s](VC30_OPERATIONAL_KERNEL.md) carries the deeper method, learned from a selective source audit rather than a claim to have read every project file.
 
-**Further VC-30s source learning — concepts and receivers.** A short video may derive from an existing source-grounded concept that also produces infographics, articles or an interactive guide. Preserve the meaningful relation rather than copying visual layouts. Playback order alone cannot prove causation, hierarchy or irreversible progress. When A is generated in another receiver, the host coding B must actually reach its image bytes; a verbal description is not the observed reference. Screenshot-based cursor motion is illustrative unless the underlying action was observed. These are owner/routing capabilities, detailed in [VC-30s](VC30_OPERATIONAL_KERNEL.md), not new software requirements.
+**Concepts and transfer between environments.** A short video may derive from an existing source-grounded concept that also produces infographics, articles or an interactive guide. Preserve the meaningful relation rather than copying visual layouts. Playback order alone cannot prove causation, hierarchy or irreversible progress. When A is generated in another receiver, the host coding B must actually reach its image bytes; a verbal description is not the observed reference. Screenshot-based cursor motion is illustrative unless the underlying action was observed. These are owner/routing capabilities, detailed in [VC-30s](VC30_OPERATIONAL_KERNEL.md), not new software requirements.
 
 **Image-first is not timeline-first.** In the VC-30s method, a genuinely generated and observed image A may be a key reference rather than the frame at `t=0`; the code-built scene B has its own initial state. When the subject describes actions, the actor, prop, camera and any caption or sound should express consistent aspects of the same source-grounded situation, without a mandatory state-machine architecture. A reusable template applies when the meaningful relationship persists; a different object may require a new visual grammar. See [VC-30s](VC30_OPERATIONAL_KERNEL.md).
 
@@ -70,9 +72,9 @@ The image generator is a **real capability required for image A** in the selecte
 
 **MKCV, not just VC-30s.** The [Mini Kernel Code Video](VC30_STUDIO_LAB_EN.md#mkcv--mini-kernel-code-video-beyond-the-thirty-second-profile) is the general production capability. VC-30s remains one output profile; the eleven specialist Studio-Lab stations need not be duplicated for other duration or style. A real image generator, coded B, observed film and a non-identical later use must still be exercised in the reader's actual environment.
 
-**Operator learning after the first real MKCV film.** Generating A and rendering B do not fulfill the intent when B animates **new overlays** while the user expected the **world depicted in A itself to move**. When that is the task, form character/prop/environment/camera motion *inside the reference* using actual editable assets or available image-to-video capabilities; do not infer hidden rigs. The [Studio-Lab](VC30_STUDIO_LAB_EN.md#learning-from-a-real-film-animate-image-a-rather-than-overlay-a-different-film) carries this learning and [Motion.so MCP](https://docs.motion.so/guides/mcp) as an optional provider requiring actual connection, asset upload and credits.
+**Animate the subject of image A.** When the request is to see the reference’s world move, form character, object, setting and camera movement inside that scene. Use actual layers, assets or an available image-to-video service. An overlaid diagram may explain a concept but produces a different effect. The [production guide](VC30_STUDIO_LAB_EN.md) develops this choice.
 
-**First real code-animated image A.** After the operator correction, a short original clip actually articulated the same reference robot's head/arm with pivots and hypothetical inpainting, and moved light/camera within that image, **9 s and 270 decoded MP4 frames**. This is exercised **2.5D**, not procedural 3D or proof of generalization to another subject. The [Studio-Lab guide](VC30_STUDIO_LAB_EN.md#exercised-knowledge--animated-content-of-generated-image-a-24-october-2026) keeps three modes distinct: animated reference pixels, a new code-built model from a reference, and a new code scene from a concept. Methods from cinetic/img2threejs/Remotion were studied, not copied as source code.
+**2.5D joints and subject identity.** For limited motion, separate relevant parts of the reference, construct masks and pivots and reconstruct revealed regions with their status clear. Observe whether the face, gesture and setting stay recognizable. Free camera motion or unseen surfaces may require actual 3D geometry. The [production guide](VC30_STUDIO_LAB_EN.md) distinguishes these means from a scene invented entirely in code.
 
 ## Actual means and effects
 
@@ -97,17 +99,17 @@ A film’s shared continuation preserves its subject, source status, current art
 
 **Visual narrative from the source.** Do not begin from a predetermined glowing kernel, a mandatory diagram or a generic 3D look. When an event is made clearer by people or objects, form a minimal visual identity for each: source referent, role, appearance anchors, state, action and consequence. The image-generator prompt may include setting, gesture, props, material, perspective, light and empty space for later captions. A is an observed design reference, never a true record of unobserved events.
 
-**2.5D or genuine 3D.** Image A may be used as a backdrop/texture, or rebuilt into actual layers, masks, sprites and parallax. Moving the camera around a flat picture does not give it a real backside or a character rig. Use 3D geometry and animation only when spatial relations require it and the executing host has the necessary means. Separate the actor's identity from the positions and transformations of individual frames. Return a continuity or occlusion correction to Code Medium/Design, and a source distortion to the semantic owner.
+**2.5D and genuine 3D.** Use A as a backdrop or texture, or construct actual layers, masks, sprites and parallax. Moving the camera across a flat image does not create a backside or character rig. Use 3D geometry where space changes understanding and you have the means to build it. Preserve the actor’s identity through transformations. Correct occlusion and continuity through visual design and technical production; correct meaning through the content’s sources.
 
 **Form the temporal change.** Use an explicit time parameter and stable object identities. A 30 s × 24 fps example has 720 samples. Let source data change text and geometry rather than hard-coding the first example as universal. Inspect later occlusion, text boundaries, the end state and unexpected implications of camera or montage.
 
-**Memory is not the same issue.** The operator meant that the first coded frame should not be designed only "from memory"; an image-generator example is the visual starting point. Buffering only one frame for FFmpeg is a useful but separate RAM optimisation.
+**Visual reference and encoding memory.** The generated image supplies an observable reference for constructing the scene. The RAM needed to export the video depends on the encoding process: sending one frame at a time to an encoder can limit its use.
 
-**Source-defined topology.** An actual MAIOS comparison of two renderer corrections replaced the earlier radial metaphor with two independent paths, because the source comprised two different observations. The reusable lesson is not a new "two-lane" template: the kind and count of source relationships must be able to change geometry and code. An unsupported relation must not be silently forced into the renderer's nearest known type.
+**Geometry follows the represented relationship.** Two independent observations may require distinguishable paths. The reusable knowledge is to let the kind and number of relationships change geometry and code. Extend the renderer or make an unrepresentable difference explicit rather than forcing it into the nearest available shape.
 
 **Two clocks.** The factual time of source events and the playback time of a 30-second video are not interchangeable. A narrated explanation of dated technical corrections is not automatically a timelapse of those actual events. Documentary time-lapse requires evidence of the underlying source intervals, while conceptual animations can have their own explicit display time.
 
-**Continuity of the public edition.** When MAIOS use materially changes the owner-native competence, maintainers must reconcile the public receiving method too: EN/IT skill and guide, complete standalone starters, examples and, where the public contract changes, version, catalogue, package, website and the context really consumed by an AI interface. Avoid replacing all public files for a local renderer adjustment. Recording a lesson privately is not equivalent to delivering it to users; changing a public branch is not equivalent to releasing or deploying it. Public feedback may return to the native owner.
+**Keep the method in your project.** When a correction changes how the film is built, preserve what changed, why and where later work will recover that knowledge. Update instructions and assets that actually depend on the correction. Use the guide or knowledge location already present in your environment.
 
 
 **Return learning.** Differences can change source comprehension, the generator instruction, the editing scene or the method. Preserve what occurred and what was understood then. Return reusable knowledge to the appropriate competence. If there was no image generator, do not mislabel render(t=0) as its output.
@@ -130,7 +132,7 @@ Cinematic Screenwriting forms world, situation, action and authored words. Cinem
 
 These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
 
-The development source reports exercised generated references and code-built 2.5D clips in its original receiver. A new narrative film with all cinematic specializations composed remains a further use to exercise. Public availability of these methods and code is distinct from recipient installation or independent use.
+When producing a film, keep the generated files, editable scene and observations needed to resume it. Available method, present tools, exported film and use in another project describe different results.
 
 
 # Worked examples
@@ -152,9 +154,9 @@ An authored scene shows a small robot noticing a fallen plant and helping it sta
 
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** public edition 0.1.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.1 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
-**Current identity:** the general capability is **MKCV — Mini Kernel Code Video**. This guide retains the historical `VC-30s` profile and links to the [same Studio-Lab](VC30_STUDIO_LAB_EN.md). MKCV does not impose a duration, output aspect or eleven mandatory phases; its production exercise remains distinct from written methodology.
+**MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 
 ## Form the film from the actual subject
 
@@ -184,9 +186,9 @@ These sources are **mechanisms and learning resources**, not installed providers
 
 ## Learning from other people's methods, without copying their implementation
 
-Two passes over the external sources refine **what the competence knows how to do**, not which repositories it installs.
+The following technical sources teach choices about scenes, assets and time. Select tools through the actual work and preserve the conditions of reused capabilities.
 
-**From labels to a perceptible medium.** A word like “cinematic” or “modern” cannot specify the scene. Let the actual subject make material, shape, framing, lighting and behaviour meaningful in image-generator reference A. Observe A as a **visual hypothesis**: do not repeat its arbitrary composition or false causal hints in coded scene B. Named looks, lists of default bans, numerical timing rules and branded styles from the source projects are not MAIOS invariants.
+**From labels to a perceptible medium.** A word like “cinematic” or “modern” cannot specify the scene. Let the actual subject make material, shape, framing, lighting and behaviour meaningful in image-generator reference A. Observe A as a **visual hypothesis**: do not repeat its arbitrary composition or false causal hints in coded scene B. Named looks, lists of default bans, numerical timing rules and branded styles from the source projects are not rules for the receiving project.
 
 **From an illustrated character to a coherent action.** If a person or object matters to the film, recognise the visual features, pose, gaze, contact points and relations that must continue. A hand holding a tool, an eye directed at the object and a prop crossing a camera cut express a persistent relation, not just animated pixels. A flattened A cannot reveal the unseen back, a rig or hidden object geometry. Use a different viewpoint or an appropriate real asset rather than inventing those parts.
 
@@ -196,9 +198,9 @@ Two passes over the external sources refine **what the competence knows how to d
 
 The learned faculty is **situated perceptual translation**: understanding a source, forming an observable visual reference, and deriving a reproducible temporal expression that keeps the subject's meaning. Code and runtime decisions remain with the technical owner; no source project's code, assets or styles are bundled here.
 
-## Recheck of previously unread sources: the generated image is not an animation rig
+## Prepare animatable elements from the reference
 
-An audit of seven originally named repositories, all **18 iart package README entry points**, and the **seven top-level HyperFrames skills** found a missing distinction. This is **not** a claim to have read every iart skill (55 declared by the hub), every HyperFrames block or Remotion implementation.
+Before constructing motion, identify which image elements need to move separately and which can remain one asset.
 
 The first genuinely generated and inspected **image A remains the visual reference**. It may establish art direction, the relation between characters/objects and the readable whole. But a single flattened illustration cannot independently animate a hand, held tool, background, eye movement or the reverse view of an object. When the actual motion needs them, form **additional source-bound visual elements, poses, masks or geometry**; when a single whole image suffices, keep it whole. Additional assets should remain coherent with the subject and A, while their provenance and roles stay identifiable. They are not retroactively relabelled as the first A.
 
@@ -210,11 +212,11 @@ This distinction was learned from [Generative Illustration](https://github.com/i
 
 **Format and language belong before the render.** A 16:9 master often must be **recomposed**, not merely cropped, for 9:16 while preserving people, objects and titles. Exact words should remain editable and, where appropriate, accessible through captions or transcripts, not be guessed from pixels in A. Current social platform overlay dimensions need case-specific confirmation.
 
-No third-party source code or assets have been imported, and no new film is claimed.
+Preserve the provenance and rights of the assets and code actually used in the project.
 
 ## Before and beyond the film: concept, non-linear relation, real asset transfer
 
-A further source reentry reveals three missing capabilities that **do not require another renderer**.
+These relationships can change the representation before a renderer is chosen.
 
 **A media concept can precede the clip.** When an existing editorial or product concept already has a source-grounded core, a short video is one possible expression of that core alongside a still infographic, presentation or interactive guide. Recover the source, dominant relation, real-world consequence and audience before forming the image A prompt; do not derive the claim solely from a prior clip's visual treatment. Other derivatives preserve the thesis, not the same crop. A new A should still be actually generated and observed when this image-first workflow is selected.
 
@@ -238,7 +240,7 @@ The first generated visual reference A is made and inspected **before programmin
 
 ## Studio-Lab: use knowledge at the working station
 
-The user's selected expansion of VC-30s is a [working Studio-Lab](VC30_STUDIO_LAB_EN.md) with eleven **specialist stations** rather than an obligatory processing chain. They allow source knowledge, art direction, image A and image assets, storyboard, code, voice/sound, render, delivery and recursive learning to participate where they change the actual film. Use its [portable operating guide](VC30_STUDIO_LAB_EN.md) when a project crosses multiple disciplines. Do not claim an installed image generator, video runtime or autonomous agents from this Markdown method alone.
+The [Studio-Lab](VC30_STUDIO_LAB_EN.md) connects source knowledge, visual direction, image A, assets, storyboard, code, voice and sound, export and learning. Use the specializations relevant to the film with the actual means of your environment.
 
 ## A video must be addressable in time
 
@@ -252,20 +254,20 @@ Audio and caption cues should share time data with the film if they contribute m
 
 An image may introduce a false hierarchy; a character may lose its identity while turning; an HTML animation may fail to seek; a caption or soundtrack may create a misleading temporal implication. Correct the source interpretation, image instruction, visual design, code, sound or receiver method **at the owner that must act differently next time**. If a method already existed but was not reached, improve discovery, not the number of skill files. No claim that an exported film changes model weights or self-installs tools.
 
-**Not yet exercised in this public edition:** the complete A generated → A observed → B coded with characters/objects → video chain, a new 3D render, external audio providers, publication. The kernel makes those capacities **discoverable**, not automatically active.
+**Use in your environment:** exercise the method through real tools and assets. A new narrative subject or 3D scene needs observations of the film actually constructed.
 
 **Source coordinates and provenance:** this portable text distills methods from the linked projects as read on 24 October 2026. Source versions and licenses may change; re-open the actual repository where an integration/asset choice becomes material.
 
 
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **edition 0.1.0** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **edition 0.1.1** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
-**MKCV** is the name of the reusable **Code Video mini-kernel**. **VC-30s** is a **short-film duration profile** and the history of the first examples, not a limit on the films MKCV may form. This is **one Studio-Lab**: its eleven specialist stations can compose different durations, visual subjects, 2.5D/3D, narration and formats whenever a case calls for them.
+**MKCV** names the composition of competences for producing coded films. **VC-30s** identifies a short-duration profile. The stations in this guide can contribute to films with different durations, formats and visual languages when their subject calls for them.
 
-**Public operating method:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
+**Public operating method:** use these instructions with the actual tools in your environment. Keep the generated and observed image A, editable scene B and exported film so the work can be resumed and improved.
 
 ## A production studio, not a software catalog
 
@@ -289,23 +291,23 @@ Stations are **available when materially relevant**, not eleven mandatory phases
 | **Delivery and derivatives** — channel competence | Adapts formats, subtitle and editability; recomposes layouts when crops destroy meaning | Actual carrier for the selected receiver/destination |
 | **Learning and continuity** — meta competence | Distinguishes a completed artifact from knowledge that should change later work | Returned method, updated case and next point of reentry |
 
-## Learning from a real film: animate image A rather than overlay a different film
+## Animate the reference’s subject
 
-In the first MKCV promo, genuine images A and a coded 2.5D clip were produced. The recipient clarified the desired outcome: **animate the image itself** — its characters, objects, environment, gestures and camera. The actual film used A mainly as a **backdrop for separately coded diagrams**. The video was technically rendered, while the creative intention was not fulfilled.
+Clarify the requested movement: animate the character and objects depicted in the reference, construct a model from that image or create a new scene from the same concept. The three requests may need different assets and methods.
 
-When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. Code Medium may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
+When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. technical production may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
 
 **Optional technical receiver, not a dependency:** [Motion.so MCP](https://docs.motion.so/guides/mcp) documents agent-driven creation/revision, media uploads and video outputs. It does not prove that a given source image will be animated faithfully. It needs account permissions/OAuth and may consume credits; a local file must be uploaded before Motion can read it. The Motion product advertises social connections, but the documented MCP video tool list does **not itself establish direct social-posting tools**. Publication authority remains with the channel owner.
 
-## Exercised knowledge — animated content of generated image A (24 October 2026)
+## Preserve identity and geometry in 2.5D animation
 
-A new experiment animated the **actual source image A**, rather than overlaying another infographic. The same robot's head and pointing arm were taken from image A as editable alpha layers with code-controlled joint pivots; areas revealed behind moving parts were reconstructed **hypothetically**, while camera and illumination changed within the same world. A **9 s / 30 fps / 270 frames / H.264 + AAC** MP4 was encoded and fully decoded; original code synthesized the score. No third-party code was copied.
+For limited movement, extract the head, arm or other relevant parts from the reference, define masks and pivots and reconstruct regions revealed by motion. Distinguish original pixels from reconstructed background. Light and camera should continue to describe the same setting.
 
-The result establishes three **distinct production modes**. **(1)** Image A itself animated with 2.5D layers/pivots, exercised here for limited single-view motion. **(2)** An actual procedural 3D model rebuilt from reference A with real geometry/materials/joints, **not yet exercised**. **(3)** A wholly new native code scene from a source concept, which does not by itself satisfy 'animate this existing image'.
+Distinguish three production modes: animate the same image with 2.5D layers; construct 3D geometry from the reference; create a new scene entirely in code. The first serves limited motion and views. Free rotation, new surfaces and occlusion need the relevant geometry. Choose through the subject and requested effect.
 
 The work drew **methods** from [cinetic](https://github.com/Leonxlnx/cinetic) (subject-owned movement and film direction), [img2threejs](https://github.com/img2threejs/img2threejs) (component inventory, hierarchy and unseen-part uncertainty), and [Remotion agent skills](https://github.com/remotion-dev/skills) (composition versus rendered outcome). Neither their implementation code, stylistic constraints nor templates were imported.
 
-A blink reconstruction was **rejected after preview** because it damaged the character's face identity. The original reference already contained signs/panels; the new animation did not add any, but it did not erase them either. This case does not establish true 3D capability or transfer of learning to a new subject.
+Reconstructing eyelids or facial features can alter the character’s identity. Inspect the result and choose a smaller gesture when it preserves the subject better. Signs already present in the reference belong to the original scene; new panels or diagrams add another representational layer. For a different cinematic expression, form a new reference or coherent model.
 
 ## Operating from an actual case
 
@@ -339,7 +341,18 @@ Know-how was studied from [HyperFrames](https://github.com/heygen-com/hyperframe
 **Stopping condition:** a case may conclude with a film, a better image, a corrected method or another medium altogether. Duration, format and number of stations are not axioms.
 
 
-## Optional limited renderer source
+# MKCV — one film, reciprocal competences
+
+A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
+
+Cinematic Screenwriting forms world, situation, action and authored words. Cinematic Direction forms the perceptible encounter through staging, camera and light. Character & Object Performance forms readable action and reaction. Film Montage forms the relationship between images and sound. Code production constructs and observes the actual executable medium.
+
+These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
+
+Keep the film and its editable files in the project. Use specializations through the available means and observe their combined result in the actual film.
+
+
+## Optional technical example: renderer from an existing image
 
 ```python
 """A technical render example, not a semantic time-lapse storyboard.
@@ -419,4 +432,4 @@ if __name__ == '__main__':
 
 ```
 
-My actual subject, intent, sources, tools and requested film:
+My assignment, sources, available means and requested result:

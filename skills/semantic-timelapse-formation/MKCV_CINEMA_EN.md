@@ -6,4 +6,4 @@ Cinematic Screenwriting forms world, situation, action and authored words. Cinem
 
 These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
 
-The development source reports exercised generated references and code-built 2.5D clips in its original receiver. A new narrative film with all cinematic specializations composed remains a further use to exercise. Public availability of these methods and code is distinct from recipient installation or independent use.
+Keep the film and its editable files in the project. Use specializations through the available means and observe their combined result in the actual film.

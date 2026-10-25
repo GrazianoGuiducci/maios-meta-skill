@@ -1,8 +1,8 @@
 # Cinematic Screenwriting
 
-Far vivere una situazione attraverso una scena
+Scrivere situazioni, azioni e dialoghi per un film
 
-Azioni, scelte e conseguenze formano una storia che si vede e si ascolta.
+Dall’idea alla scena: forma ciò che accade, il punto di vista e il cambiamento che lo spettatore comprende.
 
 Forma situazioni cinematografiche originali, treatment, scene e dialoghi, conservando autorialità e continuità causale con regia, interpretazione e montaggio.
 
@@ -14,4 +14,4 @@ Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT
 
 ## File ed edizione
 
-Edizione pubblica 0.1.0. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.1.1. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

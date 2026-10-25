@@ -1,8 +1,8 @@
 # Film Montage
 
-Compose meaning between images
+Edit images and sound to form a film’s meaning
 
-Order, duration, cuts and sound shape the relations a viewer can perceive.
+Choose order, duration and transitions through what the sequence lets the viewer discover.
 
 Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences.
 
@@ -14,4 +14,4 @@ Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a ch
 
 ## Files and edition
 
-Public edition 0.1.0. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
+Public edition 0.1.1. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.

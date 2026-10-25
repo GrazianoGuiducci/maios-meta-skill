@@ -8,17 +8,17 @@
 
 **Narrazione visiva dalla fonte.** Non partire da un nucleo luminoso, un diagramma fisso o un look 3D generico. Quando persone e oggetti rendono più leggibile la trasformazione, formare per ognuno referente di fonte, ruolo, segni riconoscibili, stato, azione e conseguenza. Le istruzioni per generare A possono includere ambiente, gesto, strumenti, materia, prospettiva, luce e spazi per didascalie. A è un riferimento osservato, non una documentazione di eventi non osservati.
 
-**2.5D e vero 3D.** A può diventare sfondo/texture o essere tradotta in livelli, maschere, sprite e parallax realmente costruiti. Muovere la camera su un'immagine piatta non genera retro o rig del personaggio. Usare geometrie e animazioni 3D soltanto quando lo spazio modifica la comprensione e il ricevente possiede i mezzi. Distinguere identità dell'attore e trasformazioni dei singoli frame. Le correzioni su occlusione/continuità tornano a Code Medium/Design, quelle sul significato all'owner semantico.
+**2.5D e vero 3D.** A può diventare sfondo o texture, oppure essere tradotta in livelli, maschere, sprite e parallax realmente costruiti. Muovere la camera su un’immagine piatta non genera retro o rig del personaggio. Usa geometrie e animazioni 3D quando lo spazio modifica la comprensione e possiedi i mezzi per costruirle. Conserva l’identità dell’attore durante le trasformazioni. Correggi occlusione e continuità nella progettazione visiva e nella produzione tecnica; correggi il significato attraverso le fonti del contenuto.
 
 **Formare il tempo.** Usa un parametro t esplicito e identità stabili. L'esempio 30 s × 24 fps contiene 720 campioni. Fai dipendere testo e geometria dalla sorgente, senza irrigidire in codice una prima allegoria. Osserva collisioni, didascalie, finale e implicazioni del montaggio.
 
-**La memoria è un'altra questione.** L'operatore intendeva evitare di costruire il primo frame soltanto «andando a memoria»; l'immagine generata serve da esempio osservabile. Limitare la RAM inviando un frame alla volta a FFmpeg è un'ottimizzazione tecnica diversa.
+**Riferimento visivo e memoria di codifica.** L’immagine generata offre un esempio osservabile per costruire la scena. La RAM necessaria a esportare il video dipende invece dal processo di codifica: inviare un frame alla volta all’encoder può limitarne l’uso.
 
-**Topologia dalla sorgente.** Un esercizio MAIOS ha trasformato due osservazioni di correzione in due percorsi indipendenti, invece della metafora radiale precedente. Il sapere riusabile non è il layout «a due corsie»: è la capacità di lasciare che tipo e numero delle relazioni cambino davvero geometria e codice. Una relazione non rappresentabile dal renderer non va forzata silenziosamente nella tipologia più vicina.
+**Geometria dalla relazione rappresentata.** Due osservazioni indipendenti possono richiedere percorsi distinguibili. Il sapere riusabile consiste nel lasciare che tipo e numero delle relazioni cambino geometria e codice. Se il renderer non sa rappresentare una relazione, amplia il mezzo o rendi esplicita la differenza invece di forzarla nella forma più vicina.
 
 **Due tempi diversi.** Il tempo documentato degli eventi sorgente non coincide necessariamente con i 30 secondi di proiezione. Un video che spiega due correzioni avvenute durante il lavoro non è per questo un timelapse accelerato di quegli eventi. Per chiamarlo documentario occorre che gli intervalli della sorgente partecipino realmente alla costruzione; un'animazione concettuale ha una temporalità espressiva propria.
 
-**Continuità dell'edizione pubblica.** Quando il lavoro MAIOS modifica materialmente la competenza sorgente, chi mantiene questa risorsa deve riconciliare il sapere disponibile anche nel ricevente pubblico: SKILL, guide e avvii completi EN/IT, esempi e, quando cambia il contratto pubblico, versione, catalogo, pacchetto, sito e contesto consumato dalla Chat. Una correzione locale del renderer non richiede di riscrivere ogni pagina. Un aggiornamento privato non raggiunge da solo il pubblico; un commit su un ramo non equivale a una release o a un deploy. I riscontri di chi usa la risorsa possono tornare all'owner nativo.
+**Conservare il metodo nel proprio progetto.** Quando una correzione cambia come costruire il film, registra cosa è cambiato, perché e dove il prossimo lavoro ritroverà quel sapere. Aggiorna le istruzioni e gli asset che dipendono realmente dalla correzione. Usa la guida o la sede di conoscenza già presente nel tuo ambiente.
 
 
 **Ritorno dell'apprendimento.** La correzione può cambiare comprensione, prompt, scena o metodo. Conserva accaduto e comprensione di allora; porta il sapere riusabile alla competenza pertinente. Se non è stato usato un generatore, non chiamare la prima immagine del codice «generata» da quel mezzo.
@@ -35,10 +35,10 @@
 
 # MKCV — un film, competenze reciproche
 
-La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.
+La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’responsabile mantenendo riconoscibile lo stesso film.
 
 Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cinematic Direction l’incontro percepibile con messa in scena, camera e luce. Character & Object Performance azione e reazione leggibili. Film Montage il rapporto fra immagini e suono. La produzione in codice costruisce e osserva il medium eseguibile effettivo.
 
 I kit pubblici sono disponibili separatamente nella stessa raccolta. Si compongono attraverso la guida comune del progetto senza API, framework, numero di agenti o ordine obbligatori. Il file deve raggiungere davvero il ricevente che lo usa. Diritti degli asset, consegna pubblica e azioni esterne mantengono autorità proprie.
 
-La sorgente di sviluppo riporta reference generate e clip 2.5D in codice esercitate nel proprio ricevente. Un nuovo film narrativo con tutte le specializzazioni composte resta un ulteriore uso da esercitare. La disponibilità pubblica di metodo e codice resta distinta da installazione e uso indipendente nel destinatario.
+Quando realizzi un film, conserva i file generati, la scena modificabile e le osservazioni utili a riprenderlo. Metodo disponibile, strumenti presenti, film esportato e uso in un altro progetto descrivono risultati distinti.

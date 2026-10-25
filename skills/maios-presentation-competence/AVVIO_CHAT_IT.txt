@@ -7,6 +7,12 @@ Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega c
 
 Una presentazione è un’espressione situata del sapere del sistema. La prima spiegazione può essere breve mentre le relazioni più profonde restano raggiungibili.
 
+## Spiegare lo stesso sistema a chi deve usarlo o costruirlo
+
+Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funziona l’assistente; un responsabile chi deve partecipare. Le tre domande riguardano lo stesso sistema.
+
+La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema.
+
 ## Recuperare il sistema oltre l’ultimo artefatto
 
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
@@ -34,7 +40,7 @@ Un breve estratto attribuito, un artefatto o una correzione reale possono aprire
 
 ## Lasciare che l’incontro migliori la competenza del presentare
 
-Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione a Design. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
+Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
 
 ## Continuare attraverso il progetto reale
 
@@ -51,7 +57,7 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHA
 
 ## Un sistema può lavorare e diventare parte di ciò che crea
 
-Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi situati. Sono relazioni che coesistono. In MAIOS il Project Kernel pubblico è un’incarnazione concreta disponibile; il lavoro generativo più ampio continua. Presenta la relazione pertinente con mezzi effettivi e profondità sorgente.
+Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi. Presenta le relazioni pertinenti alla domanda del destinatario attraverso capacità effettive, esempi riconoscibili e fonti raggiungibili.
 
 
 ## Una mappa viva conserva ragioni
@@ -79,7 +85,7 @@ Un ingegnere chiede come un assistente conserva i guasti; un responsabile chi de
 
 ## Un diagramma rivela un errore concettuale
 
-Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di Design presso i rispettivi owner per la mappa successiva.
+Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di progettazione visiva presso i rispettivi responsabili per la mappa successiva.
 
 
 Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

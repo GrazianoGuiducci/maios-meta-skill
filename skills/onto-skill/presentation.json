@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Turn a principle into a way of working",
-    "subtitle": "Carry the meaning of a correction into the competence that makes the next choice.",
+    "title": "Turn an author’s corrections into criteria for AI work",
+    "subtitle": "Distinguish a local preference from a reusable principle and change the method guiding the next task.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
     "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
@@ -40,7 +40,7 @@
     "knowledge": [
       {
         "title": "Principle, competence and ability",
-        "body": "A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. Foundational axioms keep the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources."
+        "body": "A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. When the source includes foundational axioms, they retain the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources."
       },
       {
         "title": "The useful continuation",
@@ -85,11 +85,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/onto-skill/OPERATING_GUIDE.md"
+    "operating_guide": "skills/onto-skill/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "A correction that changes later quotations",
+      "situation": "A studio corrects an AI quotation because the reasons behind two unusual costs are missing. It wants those reasons to remain understandable in later work.",
+      "point": "The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer."
+    }
   },
   "it": {
-    "title": "Da un principio a un modo di lavorare",
-    "subtitle": "Portare il significato di una correzione nella competenza che farà la prossima scelta.",
+    "title": "Trasformare le correzioni dell’autore in criteri per l’AI",
+    "subtitle": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
     "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
@@ -114,7 +119,7 @@
       },
       {
         "title": "Cambiare il metodo della competenza",
-        "body": "Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più owner, ciascuno nel proprio metodo."
+        "body": "Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più responsabili, ciascuno nel proprio metodo."
       },
       {
         "title": "Rendere l’abilità situata",
@@ -128,7 +133,7 @@
     "knowledge": [
       {
         "title": "Principio, competenza e abilità",
-        "body": "Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Gli assiomi fondativi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli."
+        "body": "Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Quando la fonte contiene assiomi fondativi, essi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli."
       },
       {
         "title": "La continuazione utile",
@@ -173,47 +178,52 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/onto-skill/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/onto-skill/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Una correzione che cambia i preventivi successivi",
+      "situation": "Uno studio corregge un preventivo dell’AI: mancano le ragioni di due costi insoliti. Vuole che quelle ragioni restino comprensibili anche nel lavoro successivo.",
+      "point": "Il principio utile riguarda le eccezioni che cambiano una decisione. La competenza che prepara i preventivi deve imparare a riconoscerle, conservandone la ragione senza allungare ogni voce."
+    }
   },
   "showcase": {
     "type": "principle",
     "en": {
-      "title": "The same correction, three different consequences",
+      "title": "From a corrected quotation to a better quotation method",
       "states": [
         [
-          "Preference",
-          "A one-page brief",
-          "The board meeting needs a short decision document."
+          "Correction",
+          "Two unusual costs without reasons",
+          "The studio asks to preserve the reasons for consequential exceptions."
         ],
         [
           "Principle",
-          "Keep consequential reasons",
-          "An exception remains understandable when its reason travels with it."
+          "Keep what changes the decision",
+          "The method recognizes which exceptions need an explanation."
         ],
         [
           "Ability",
           "The next quotation changes",
-          "The AI recognizes which cost needs an explanation and which can remain concise."
+          "The AI explains the unusual cost and keeps ordinary items concise."
         ]
       ]
     },
     "it": {
-      "title": "La stessa correzione, tre conseguenze diverse",
+      "title": "Dal preventivo corretto al metodo dei prossimi preventivi",
       "states": [
         [
-          "Preferenza",
-          "Una pagina per il consiglio",
-          "L’incontro richiede un documento breve per decidere."
+          "Correzione",
+          "Due costi insoliti senza ragione",
+          "Lo studio chiede di conservare le ragioni delle eccezioni rilevanti."
         ],
         [
           "Principio",
-          "Conservare le ragioni rilevanti",
-          "Un’eccezione resta comprensibile se la sua ragione continua."
+          "Conservare ciò che cambia la decisione",
+          "Il metodo riconosce quali eccezioni richiedono una spiegazione."
         ],
         [
           "Abilità",
           "Il prossimo preventivo cambia",
-          "L’AI riconosce quale costo richiede una spiegazione e quale può restare conciso."
+          "L’AI spiega il costo insolito e mantiene concise le voci ordinarie."
         ]
       ]
     }

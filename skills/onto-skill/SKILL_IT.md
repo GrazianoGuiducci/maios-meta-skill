@@ -11,6 +11,12 @@ Una fonte può portare un principio, una preferenza locale, una domanda o un fat
 
 Onto-Skill collega il significato sorgente a un destinatario concreto: la competenza di cui devono cambiare osservazione, scelta o azione. Una frase conservata diventa utile attraverso questo rapporto.
 
+## Una correzione che cambia i preventivi successivi
+
+Uno studio corregge un preventivo dell’AI: mancano le ragioni di due costi insoliti. Vuole che quelle ragioni restino comprensibili anche nel lavoro successivo.
+
+Il principio utile riguarda le eccezioni che cambiano una decisione. La competenza che prepara i preventivi deve imparare a riconoscerle, conservandone la ragione senza allungare ogni voce.
+
 ## Comprendere il contributo nella sua situazione
 
 Recupera parole effettive, autore, situazione e ragione della differenza. Distingui il contributo originale dall’interpretazione dell’assistente. Tenere breve una relazione può essere una scelta per quell’incontro; recuperare ragioni decisionali mancanti può insegnare una capacità ricorrente. Conserva un significato ancora indeterminato come domanda aperta.
@@ -23,7 +29,7 @@ Forma la relazione generale più piccola sostenuta dal contributo, conservando l
 
 ## Cambiare il metodo della competenza
 
-Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più owner, ciascuno nel proprio metodo.
+Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più responsabili, ciascuno nel proprio metodo.
 
 
 ## Rendere l’abilità situata

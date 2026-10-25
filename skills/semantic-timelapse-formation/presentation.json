@@ -1,6 +1,6 @@
 {
   "en": {
-    "title": "From a generated reference to a code-built film",
+    "title": "Create a coded film from a generated image",
     "kind": "Generative media competence",
     "domain": "Visual creation",
     "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
@@ -12,10 +12,10 @@
     ],
     "route": "/resources/creare-timelapse-semantici/",
     "description": "Use an image generator before coding a 30-second visual sequence.",
-    "subtitle": "Connect source knowledge, an observed visual reference, an editable scene and meaningful time.",
+    "subtitle": "From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.",
     "intro": [
       "A real generated image A provides a reference to observe before constructing an editable scene B. The coded scene has its own first frame and can animate the world shown in A when that is the actual intent.",
-      "MKCV is the general production capability. VC-30s is one duration profile; the same situated studio can serve other films. The supplied Python example is a limited reference-image renderer, while the method can compose more capable production means."
+      "The competences for code-based video production are gathered in MKCV (Mini Kernel Code Video). VC-30s is its short-duration profile: other timings and formats follow the subject. The supplied Python example demonstrates a renderer from an existing image; the guide also develops layers, geometry and film composition."
     ],
     "method": [
       {
@@ -47,7 +47,7 @@
       "title": "The film can change the method that makes films",
       "paragraphs": [
         "An image can expose a semantic error; coding can reveal missing animable parts; montage can create an unsupported causal implication. Correcting the common source relation can improve both the actual film and the way future productions are formed.",
-        "The general MKCV studio retains one film and distinct competent owners. The public method, supplied renderer and a recipient’s actual production keep different scopes."
+        "The production method preserves the same film across distinct writing, direction, performance, editing and technical responsibilities. Available knowledge, the supplied renderer and the film constructed in your environment have different functions."
       ]
     },
     "use": [
@@ -62,12 +62,17 @@
     ],
     "learning": [
       "Keep source interpretation, production learning and the receiving case attributable. A new rendered illustration does not by itself establish a new runtime capability.",
-      "Carry reusable method improvements into the public operating knowledge and its actual dependent presentations."
+      "Preserve what lets later work use the improved method in the project: sources, reasons, editable scene and instructions for resuming."
     ],
-    "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md"
+    "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "Animate the subject of a reference image",
+      "situation": "You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.",
+      "point": "Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject."
+    }
   },
   "it": {
-    "title": "Da una reference generata a un film in codice",
+    "title": "Creare un film in codice da un’immagine generata",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
     "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
@@ -79,10 +84,10 @@
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
-    "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo.",
+    "subtitle": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
     "intro": [
       "Un’immagine A realmente generata offre un riferimento da osservare prima di costruire la scena modificabile B. La scena ha un proprio primo frame e anima il mondo raffigurato in A quando questo è l’intento effettivo.",
-      "MKCV è la capacità produttiva generale. VC-30s è un profilo di durata: lo stesso studio situato serve film differenti. L’esempio Python fornito è un renderer limitato da reference; il metodo compone mezzi produttivi più ampi."
+      "Le competenze di produzione video in codice sono raccolte nel metodo MKCV (Mini Kernel Code Video). VC-30s ne è un profilo di durata breve: puoi scegliere altri tempi e formati attraverso il soggetto. L’esempio Python fornito mostra un renderer da immagine esistente; la guida approfondisce anche livelli, geometria e composizione del film."
     ],
     "method": [
       {
@@ -114,7 +119,7 @@
       "title": "Il film può cambiare il metodo che crea film",
       "paragraphs": [
         "Un’immagine espone un errore semantico; il codice rende visibili parti animabili mancanti; il montaggio suggerisce una causalità priva di fonte. Correggere il significato comune migliora sia il film sia la formazione delle produzioni future.",
-        "Lo studio MKCV conserva un film e owner competenti distinti. Metodo pubblico, renderer fornito e produzione effettiva del destinatario mantengono portate differenti."
+        "Il metodo di produzione conserva lo stesso film attraverso responsabilità distinte di scrittura, regia, interpretazione, montaggio e realizzazione tecnica. Il sapere disponibile, il renderer fornito e il film costruito nel tuo ambiente hanno funzioni diverse."
       ]
     },
     "use": [
@@ -129,9 +134,14 @@
     ],
     "learning": [
       "Mantieni attribuiti interpretazione sorgente, apprendimento produttivo e caso ricevente. Un’illustrazione renderizzata non attesta da sola una nuova capacità runtime.",
-      "Porta i miglioramenti riusabili nel sapere pubblico e nelle presentazioni che ne dipendono effettivamente."
+      "Conserva nel progetto ciò che permette al prossimo lavoro di usare il metodo migliorato: fonti, ragioni, scena modificabile e indicazioni per riprendere."
     ],
-    "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Animare il soggetto di una reference",
+      "situation": "Hai un’illustrazione generata e vuoi vedere il personaggio muoversi nel suo ambiente. Il lavoro consiste nel rendere animabili le parti necessarie e nel costruire una scena che conservi quel soggetto.",
+      "point": "Generare il riferimento, costruire gli elementi animabili e scegliere cosa cambia nel tempo sono lavori collegati. Sovrapporre un diagramma alla figura produce un effetto diverso dall’animarne il soggetto."
+    }
   },
   "showcase": {
     "type": "timelapse",

@@ -1,11 +1,10 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
-  "source_competence": "Semantic Timelapse Formation",
+  "source_competence": "Semantic Timelapse Formation — competenza evolutiva",
   "languages": [
     "en",
     "it"
   ],
-  "independent_receiving_use": "unobserved",
-  "included_runtime_scope": "optional limited image-based camera renderer"
+  "independent_receiving_use": "unobserved"
 }

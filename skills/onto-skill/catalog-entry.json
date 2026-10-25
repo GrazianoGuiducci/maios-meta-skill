@@ -1,7 +1,7 @@
 {
   "id": "principi-che-diventano-capacita",
   "name": "Onto-Skill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "34",
@@ -35,9 +35,9 @@
   "starter": "skills/onto-skill/START_CHAT_EN.txt",
   "examples": "skills/onto-skill/EXAMPLES.md",
   "presentation": "skills/onto-skill/presentation.json",
-  "package": "dist/onto-skill-0.1.0.zip",
+  "package": "dist/onto-skill-0.1.1.zip",
   "en": {
-    "title": "Turn a principle into a way of working",
+    "title": "Turn an author’s corrections into criteria for AI work",
     "subtitle": "Carry the meaning of a correction into the competence that makes the next choice.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
@@ -49,10 +49,10 @@
       "A recurring activity meets a changed system"
     ],
     "route": "/resources/principi-che-diventano-capacita/",
-    "description": "Carry the meaning of a correction into the competence that makes the next choice."
+    "description": "Distinguish a local preference from a reusable principle and change the method guiding the next task."
   },
   "it": {
-    "title": "Da un principio a un modo di lavorare",
+    "title": "Trasformare le correzioni dell’autore in criteri per l’AI",
     "subtitle": "Portare il significato di una correzione nella competenza che farà la prossima scelta.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
@@ -64,6 +64,6 @@
       "Un’attività ricorrente incontra un sistema cambiato"
     ],
     "route": "/risorse/principi-che-diventano-capacita/",
-    "description": "Portare il significato di una correzione nella competenza che farà la prossima scelta."
+    "description": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro."
   }
 }

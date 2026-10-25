@@ -11,6 +11,12 @@ A funded request brings a person or organisation seeking a change. Begin with th
 
 The same knowledge can meet different requests without reproducing the same solution. The encounter can deepen a current capability, form a new project competence or reveal a better question.
 
+## A research request becomes a concrete project
+
+An organization offers resources to address a problem. The team needs to understand who benefits, what change is requested and what useful work its knowledge makes possible.
+
+The proposal takes shape where the request meets actual capabilities. Funding, requirements and the application become meaningful in relation to the project being formed.
+
 ## Understand who asks for what
 
 Read the original request and its current conditions. Understand the requester, mission, beneficiaries and desired change, including what remains open to discovery. The publisher, funder, evaluator, client and user may be different subjects. Keep official facts and inferred intentions distinguishable. A better-formed problem can be a useful result before an application exists.

@@ -1,8 +1,8 @@
 # Character & Object Performance
 
-Dare significato a un gesto nel suo mondo
+Animare gesti e reazioni di personaggi e oggetti
 
-Sguardo, posa, tempo e contatto rendono leggibile un’azione animata.
+Collega identità, posa, tempo e contatto perché l’azione del personaggio sia leggibile nella scena.
 
 Forma l’interpretazione osservabile di personaggi e oggetti animati, collegando identità, intenzione autoriale, azione, reazione e scena.
 
@@ -14,4 +14,4 @@ Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT
 
 ## File ed edizione
 
-Edizione pubblica 0.1.0. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.1.1. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

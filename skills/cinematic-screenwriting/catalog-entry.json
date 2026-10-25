@@ -1,7 +1,7 @@
 {
   "id": "scrivere-storie-per-il-cinema",
   "name": "Cinematic Screenwriting",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "38",
@@ -35,9 +35,9 @@
   "starter": "skills/cinematic-screenwriting/START_CHAT_EN.txt",
   "examples": "skills/cinematic-screenwriting/EXAMPLES.md",
   "presentation": "skills/cinematic-screenwriting/presentation.json",
-  "package": "dist/cinematic-screenwriting-0.1.0.zip",
+  "package": "dist/cinematic-screenwriting-0.1.1.zip",
   "en": {
-    "title": "Make a situation live through a scene",
+    "title": "Write situations, actions and dialogue for a film",
     "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
     "kind": "Cinematic writing competence",
     "domain": "Cinema and narrative",
@@ -49,10 +49,10 @@
       "Montage reveals an unintended accusation"
     ],
     "route": "/resources/scrivere-storie-per-il-cinema/",
-    "description": "Actions, choices and consequences form a story that can be seen and heard."
+    "description": "From idea to scene: form what happens, the point of view and the change the viewer understands."
   },
   "it": {
-    "title": "Far vivere una situazione attraverso una scena",
+    "title": "Scrivere situazioni, azioni e dialoghi per un film",
     "subtitle": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta.",
     "kind": "Competenza di scrittura cinematografica",
     "domain": "Cinema e narrazione",
@@ -64,6 +64,6 @@
       "Il montaggio rivela un’accusa involontaria"
     ],
     "route": "/risorse/scrivere-storie-per-il-cinema/",
-    "description": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta."
+    "description": "Dall’idea alla scena: forma ciò che accade, il punto di vista e il cambiamento che lo spettatore comprende."
   }
 }

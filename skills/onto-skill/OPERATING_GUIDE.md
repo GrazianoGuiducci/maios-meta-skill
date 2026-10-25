@@ -2,7 +2,7 @@
 
 ## Principle, competence and ability
 
-A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. Foundational axioms keep the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources.
+A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. When the source includes foundational axioms, they retain the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources.
 
 
 ## The useful continuation

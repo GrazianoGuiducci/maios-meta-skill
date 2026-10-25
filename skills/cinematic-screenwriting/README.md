@@ -1,8 +1,8 @@
 # Cinematic Screenwriting
 
-Make a situation live through a scene
+Write situations, actions and dialogue for a film
 
-Actions, choices and consequences form a story that can be seen and heard.
+From idea to scene: form what happens, the point of view and the change the viewer understands.
 
 Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage.
 
@@ -14,4 +14,4 @@ Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a ch
 
 ## Files and edition
 
-Public edition 0.1.0. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
+Public edition 0.1.1. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.

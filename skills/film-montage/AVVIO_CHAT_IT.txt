@@ -7,6 +7,12 @@ Due immagini possono suggerire un nesso che nessuna mostra da sola. Il montaggio
 
 Il lavoro può riguardare continuità, confronto, sorpresa, silenzio o piano mantenuto. La forma segue il soggetto e ciò che lo spettatore può scoprire.
 
+## Tre inquadrature cambiano la scoperta dello spettatore
+
+Le immagini mostrano una pianta piegata, un personaggio che la nota e una mano che la sostiene. Cambiando il loro ordine cambia il momento in cui si comprende la situazione.
+
+Il montaggio forma la relazione fra immagini e suono. Può rivelare prima il bisogno, prima il risultato o un confronto: la scelta dipende dal significato che il film deve rendere comprensibile.
+
 ## Comprendere ciò che la sequenza rende conoscibile
 
 Recupera fonte, situazione autoriale, punto di vista e materiale o scena disponibili. Individua ciò che si scopre nell’incontro fra inquadrature. La timeline può suggerire successione, confronto, causa od omissione. Conserva la differenza fra evento osservato e significato formato dal montaggio.
@@ -29,7 +35,7 @@ Se l’accostamento crea causa, autorità o attribuzione emotiva prive di fonte,
 
 ## Comporre un reel effettivo e imparare dalla resa
 
-Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi owner. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film.
+Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi responsabili. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film.
 
 ## Continuare attraverso il progetto reale
 

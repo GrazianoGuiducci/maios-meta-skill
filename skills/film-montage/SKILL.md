@@ -11,6 +11,12 @@ Two images can imply a relation that neither shows alone. Montage understands th
 
 The work can concern continuity, comparison, surprise, silence or a sustained shot. Its form follows the actual subject and the viewer’s possible discovery.
 
+## Three shots change what the viewer discovers
+
+The images show a bent plant, a character noticing it and a hand supporting it. Changing their order changes when the situation becomes understandable.
+
+Montage forms the relationship between images and sound. It can introduce the need, the result or a comparison first; the choice follows the meaning the film needs to convey.
+
 ## Understand what the sequence should make knowable
 
 Recover the source, authored situation, intended point of view and current footage or scene model. Identify what a viewer can discover through the encounter between shots. A timeline can imply succession, comparison, cause or omission. Preserve the distinction between an observed event and a meaning authored by the edit.

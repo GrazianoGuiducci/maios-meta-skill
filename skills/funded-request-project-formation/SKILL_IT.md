@@ -11,6 +11,12 @@ Una richiesta finanziata porta un soggetto che cerca un cambiamento. Parti dall�
 
 Lo stesso sapere incontra richieste diverse senza riprodurre la stessa soluzione. L’incontro può approfondire una capacità presente, formare una competenza di progetto o far emergere una domanda migliore.
 
+## Una richiesta di ricerca diventa un progetto concreto
+
+Un ente offre risorse per affrontare un problema. Il gruppo deve capire chi ne beneficerà, quale cambiamento cerca l’ente e quale lavoro il proprio sapere rende possibile.
+
+La proposta prende forma dall’incontro fra richiesta e capacità effettive. Importo, requisiti e candidatura acquistano significato rispetto al progetto che si vuole realizzare.
+
 ## Comprendere chi chiede che cosa
 
 Leggi richiesta originale e condizioni correnti. Comprendi soggetto, missione, beneficiari e cambiamento desiderato, incluso ciò che resta da scoprire. Promotore, finanziatore, valutatore, cliente e utente possono differire. Distingui fatti ufficiali e intenzioni inferite. Un problema meglio formato può essere un risultato utile prima della candidatura.
@@ -18,7 +24,7 @@ Leggi richiesta originale e condizioni correnti. Comprendi soggetto, missione, b
 
 ## Far incontrare la richiesta con il campo pertinente delle capacità
 
-Recupera prodotti, sapere acquisito, metodi sorgenti e capacità che possono cambiare la soluzione. La prima domanda del formulario non esaurisce il campo. Lascia che l’incontro cambi focus, scala o composizione conservando le determinazioni effettive. Una capacità presente può già fornire una risposta situata; un altro caso richiederà ricerca o un owner diverso.
+Recupera prodotti, sapere acquisito, metodi sorgenti e capacità che possono cambiare la soluzione. La prima domanda del formulario non esaurisce il campo. Lascia che l’incontro cambi focus, scala o composizione conservando le determinazioni effettive. Una capacità presente può già fornire una risposta situata; un altro caso richiederà ricerca o un responsabile diverso.
 
 
 ## Formare la capacità che produce la soluzione

@@ -9,7 +9,7 @@ In un’officina di fantasia un piccolo robot si ferma accanto a una piantina ca
 
 ## Una scoperta può portare un film esplicativo
 
-Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli owner diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata.
+Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli responsabili diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata.
 
 
 ## Il montaggio rivela un’accusa involontaria

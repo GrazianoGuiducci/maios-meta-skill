@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Compose meaning between images",
-    "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",
+    "title": "Edit images and sound to form a film’s meaning",
+    "subtitle": "Choose order, duration and transitions through what the sequence lets the viewer discover.",
     "kind": "Temporal composition competence",
     "domain": "Cinema and narrative",
     "does": "Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences.",
@@ -85,11 +85,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/film-montage/OPERATING_GUIDE.md"
+    "operating_guide": "skills/film-montage/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "Three shots change what the viewer discovers",
+      "situation": "The images show a bent plant, a character noticing it and a hand supporting it. Changing their order changes when the situation becomes understandable.",
+      "point": "Montage forms the relationship between images and sound. It can introduce the need, the result or a comparison first; the choice follows the meaning the film needs to convey."
+    }
   },
   "it": {
-    "title": "Comporre significato fra le immagini",
-    "subtitle": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce.",
+    "title": "Montare immagini e suono per formare il significato di un film",
+    "subtitle": "Scegli ordine, durata e raccordi attraverso ciò che la sequenza fa scoprire allo spettatore.",
     "kind": "Competenza di composizione temporale",
     "domain": "Cinema e narrazione",
     "does": "Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena.",
@@ -122,7 +127,7 @@
       },
       {
         "title": "Comporre un reel effettivo e imparare dalla resa",
-        "body": "Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi owner. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film."
+        "body": "Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi responsabili. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film."
       }
     ],
     "knowledge": [
@@ -173,7 +178,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/film-montage/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/film-montage/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Tre inquadrature cambiano la scoperta dello spettatore",
+      "situation": "Le immagini mostrano una pianta piegata, un personaggio che la nota e una mano che la sostiene. Cambiando il loro ordine cambia il momento in cui si comprende la situazione.",
+      "point": "Il montaggio forma la relazione fra immagini e suono. Può rivelare prima il bisogno, prima il risultato o un confronto: la scelta dipende dal significato che il film deve rendere comprensibile."
+    }
   },
   "showcase": {
     "type": "montage",

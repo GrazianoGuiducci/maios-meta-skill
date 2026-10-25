@@ -1,7 +1,7 @@
 {
   "id": "dirigere-scene-cinematografiche",
   "name": "Cinematic Direction",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "39",
@@ -35,9 +35,9 @@
   "starter": "skills/cinematic-direction/START_CHAT_EN.txt",
   "examples": "skills/cinematic-direction/EXAMPLES.md",
   "presentation": "skills/cinematic-direction/presentation.json",
-  "package": "dist/cinematic-direction-0.1.0.zip",
+  "package": "dist/cinematic-direction-0.1.1.zip",
   "en": {
-    "title": "Direct what the viewer can discover",
+    "title": "Direct a scene through framing, camera and light",
     "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",
     "kind": "Cinematic design competence",
     "domain": "Cinema and narrative",
@@ -49,10 +49,10 @@
       "Stillness becomes the directing choice"
     ],
     "route": "/resources/dirigere-scene-cinematografiche/",
-    "description": "Staging, viewpoint, camera and light make a scene’s relationships perceptible."
+    "description": "Choose how to show the action so viewers can recognize space, gestures and meaningful changes."
   },
   "it": {
-    "title": "Dirigere ciò che lo spettatore può scoprire",
+    "title": "Dirigere una scena con inquadratura, camera e luce",
     "subtitle": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena.",
     "kind": "Competenza di Design cinematografico",
     "domain": "Cinema e narrazione",
@@ -64,6 +64,6 @@
       "L’immobilità diventa scelta di regia"
     ],
     "route": "/risorse/dirigere-scene-cinematografiche/",
-    "description": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena."
+    "description": "Scegli come mostrare l’azione perché lo spettatore possa riconoscere spazio, gesti e cambiamenti significativi."
   }
 }

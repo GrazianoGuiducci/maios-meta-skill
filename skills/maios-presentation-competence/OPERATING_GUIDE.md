@@ -2,7 +2,7 @@
 
 ## A system can work and become part of what it creates
 
-A generative system may be a research result, a usable product, a means already working inside its own development and a capacity for forming further situated systems. These relations can coexist. For MAIOS, the public Project Kernel is a concrete available incarnation; wider generative work continues. Present the relation selected by the actual encounter, with its real means and source depth.
+A generative system may be a research result, a usable product, a means participating in its own development and a capability for forming other systems. Present the relationships relevant to the recipient’s question through actual capabilities, recognizable examples and reachable sources.
 
 
 ## A living map preserves reasons

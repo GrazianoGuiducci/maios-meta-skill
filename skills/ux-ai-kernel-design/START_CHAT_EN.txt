@@ -57,7 +57,7 @@ Preserve the receiving person's selected communication contract. If they use a c
 
 Understand the domain object, relevant states, changes, choices and intervention points. Choose conversation, a document, a table, a static view, an interactive scene or another available medium according to what must become understandable. Space, time, dependencies and alternatives may benefit from interaction or motion; no fixed maturity ladder requires it. Devices, environment, noise and physical conditions can change reception without prescribing a technology. Multiperceptual forms remain possibilities to construct with actual means.
 
-Use the actual Design and code-construction knowledge available to build the form. From a demonstration, learn hierarchy, rhythm, camera, transition, materiality, typography and perceptual continuity with their conditions. Separate reusable grammar from brand, content and assets. Build original code for the current object rather than treating an external demo as the capability. Reusable tools may help without becoming a compulsory stack.
+Use the actual visual-design and code-construction knowledge available to build the form. From a demonstration, learn hierarchy, rhythm, camera, transition, materiality, typography and perceptual continuity with their conditions. Separate reusable grammar from brand, content and assets. Build original code for the current object rather than treating an external demo as the capability. Reusable tools may help without becoming a compulsory stack.
 
 ## Keep meaning, rendering and intervention connected
 

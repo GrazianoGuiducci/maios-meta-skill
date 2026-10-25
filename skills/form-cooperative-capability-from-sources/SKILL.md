@@ -11,6 +11,12 @@ A project can begin with a competence that knows how to produce its solution. Th
 
 This resource develops that generative capacity. Domain experts retain the actual construction; participants retain their knowledge, responsibilities and authority over shared effects.
 
+## Researchers and assistants work on a shared inquiry
+
+Several researchers use different assistants to develop a shared inquiry. Claims, questions and reasons need to remain attributable while their contributions meet.
+
+Before choosing a platform, the group can form a method for connecting sources, recognizing differences and deciding how to continue. That knowledge can then guide a working guide, service or application.
+
 ## Enter through the sources and shared intent
 
 Understand what people are trying to make possible and which knowledge already carries the ability to do it. Recover source reasons, participants, existing work and available means before deciding that the answer is a platform or agent hierarchy. Let unexpected source relations change the question. A chosen form remains valid when the field actually supports it.

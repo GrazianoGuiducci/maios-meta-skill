@@ -7,7 +7,7 @@ Il seme conserva perché conta la trasformazione, sapere abilitante, metodo per 
 
 ## Il sapere complementare resta distinto
 
-La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli owner; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente.
+La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli responsabili; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente.
 
 ## Il generatore impara da un’altra cooperazione
 

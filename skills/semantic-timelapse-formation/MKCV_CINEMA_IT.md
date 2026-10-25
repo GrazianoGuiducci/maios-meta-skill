@@ -6,4 +6,4 @@ Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cine
 
 I kit pubblici sono disponibili separatamente nella stessa raccolta. Si compongono attraverso la guida comune del progetto senza API, framework, numero di agenti o ordine obbligatori. Il file deve raggiungere davvero il ricevente che lo usa. Diritti degli asset, consegna pubblica e azioni esterne mantengono autorità proprie.
 
-La sorgente di sviluppo riporta reference generate e clip 2.5D in codice esercitate nel proprio ricevente. Un nuovo film narrativo con tutte le specializzazioni composte resta un ulteriore uso da esercitare. La disponibilità pubblica di metodo e codice resta distinta da installazione e uso indipendente nel destinatario.
+Conserva il film e i suoi file modificabili nel progetto. Usa le specializzazioni attraverso i mezzi disponibili e osserva il risultato della loro composizione nel film effettivo.

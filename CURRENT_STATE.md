@@ -1,5 +1,12 @@
 # Nine further capabilities — public edition 0.1.0
 
+## Public portability and reader-context correction — 25 October 2026
+
+The nine newest resources are edition 0.1.1. Their functional titles identify the work, and their methods include a concrete receiving situation and the relationship it teaches. Semantic Timelapse retains its detailed production knowledge while development chronology and collection-maintenance responsibilities are separated from recipient instructions. UX-AI Kernel Design is 0.3.3 for a functional-role clarification. The other 32 operating editions retain their versions and archives.
+
+The website’s contextual reading path derives from this source and its illustrative cases. Canonical identifiers, source titles and public names remain attributed. A clearer public method does not by itself prove a new receiver exercise. Collection maintenance is documented in `docs/MAINTAINING_RESOURCES.md`.
+
+
 The collection now contains **42 bilingual resources**. The [nine-capability edition](docs/EXPANSION_NINE_20261025.md) adds principle-to-ability formation, cooperative capability formation, funded-request project formation, source-grounded films, evolving-system presentations and four complementary cinematic competences. Each resource has its own operating knowledge, three developed examples, complete starters and installation guides.
 
 Semantic Timelapse retains its original public candidate contribution and its MKCV/VC-30s knowledge, finalized as a coherent public 0.1.0 edition. The previous 33 resources retain versions and package bytes. Source publication, live resource pages and independent receiving use have their own observations; the illustrative page explorations explain the methods.

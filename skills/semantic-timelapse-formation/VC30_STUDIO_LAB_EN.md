@@ -1,12 +1,12 @@
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **edition 0.1.0** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **edition 0.1.1** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
-**MKCV** is the name of the reusable **Code Video mini-kernel**. **VC-30s** is a **short-film duration profile** and the history of the first examples, not a limit on the films MKCV may form. This is **one Studio-Lab**: its eleven specialist stations can compose different durations, visual subjects, 2.5D/3D, narration and formats whenever a case calls for them.
+**MKCV** names the composition of competences for producing coded films. **VC-30s** identifies a short-duration profile. The stations in this guide can contribute to films with different durations, formats and visual languages when their subject calls for them.
 
-**Public operating method:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
+**Public operating method:** use these instructions with the actual tools in your environment. Keep the generated and observed image A, editable scene B and exported film so the work can be resumed and improved.
 
 ## A production studio, not a software catalog
 
@@ -30,23 +30,23 @@ Stations are **available when materially relevant**, not eleven mandatory phases
 | **Delivery and derivatives** — channel competence | Adapts formats, subtitle and editability; recomposes layouts when crops destroy meaning | Actual carrier for the selected receiver/destination |
 | **Learning and continuity** — meta competence | Distinguishes a completed artifact from knowledge that should change later work | Returned method, updated case and next point of reentry |
 
-## Learning from a real film: animate image A rather than overlay a different film
+## Animate the reference’s subject
 
-In the first MKCV promo, genuine images A and a coded 2.5D clip were produced. The recipient clarified the desired outcome: **animate the image itself** — its characters, objects, environment, gestures and camera. The actual film used A mainly as a **backdrop for separately coded diagrams**. The video was technically rendered, while the creative intention was not fulfilled.
+Clarify the requested movement: animate the character and objects depicted in the reference, construct a model from that image or create a new scene from the same concept. The three requests may need different assets and methods.
 
-When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. Code Medium may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
+When the intended medium is image-to-motion, identify **a gesture within A** before drawing a new explanatory layer. technical production may use masks, 2.5D layers, coherent additional assets, restoration behind moving regions, an actual 3D model if needed, or image-to-video synthesis by a connected provider. A flattened A is not a hidden rig or a guarantee of temporal consistency. Diagrams and captions may help when they convey meaning, but must not replace the subject's movement.
 
 **Optional technical receiver, not a dependency:** [Motion.so MCP](https://docs.motion.so/guides/mcp) documents agent-driven creation/revision, media uploads and video outputs. It does not prove that a given source image will be animated faithfully. It needs account permissions/OAuth and may consume credits; a local file must be uploaded before Motion can read it. The Motion product advertises social connections, but the documented MCP video tool list does **not itself establish direct social-posting tools**. Publication authority remains with the channel owner.
 
-## Exercised knowledge — animated content of generated image A (24 October 2026)
+## Preserve identity and geometry in 2.5D animation
 
-A new experiment animated the **actual source image A**, rather than overlaying another infographic. The same robot's head and pointing arm were taken from image A as editable alpha layers with code-controlled joint pivots; areas revealed behind moving parts were reconstructed **hypothetically**, while camera and illumination changed within the same world. A **9 s / 30 fps / 270 frames / H.264 + AAC** MP4 was encoded and fully decoded; original code synthesized the score. No third-party code was copied.
+For limited movement, extract the head, arm or other relevant parts from the reference, define masks and pivots and reconstruct regions revealed by motion. Distinguish original pixels from reconstructed background. Light and camera should continue to describe the same setting.
 
-The result establishes three **distinct production modes**. **(1)** Image A itself animated with 2.5D layers/pivots, exercised here for limited single-view motion. **(2)** An actual procedural 3D model rebuilt from reference A with real geometry/materials/joints, **not yet exercised**. **(3)** A wholly new native code scene from a source concept, which does not by itself satisfy 'animate this existing image'.
+Distinguish three production modes: animate the same image with 2.5D layers; construct 3D geometry from the reference; create a new scene entirely in code. The first serves limited motion and views. Free rotation, new surfaces and occlusion need the relevant geometry. Choose through the subject and requested effect.
 
 The work drew **methods** from [cinetic](https://github.com/Leonxlnx/cinetic) (subject-owned movement and film direction), [img2threejs](https://github.com/img2threejs/img2threejs) (component inventory, hierarchy and unseen-part uncertainty), and [Remotion agent skills](https://github.com/remotion-dev/skills) (composition versus rendered outcome). Neither their implementation code, stylistic constraints nor templates were imported.
 
-A blink reconstruction was **rejected after preview** because it damaged the character's face identity. The original reference already contained signs/panels; the new animation did not add any, but it did not erase them either. This case does not establish true 3D capability or transfer of learning to a new subject.
+Reconstructing eyelids or facial features can alter the character’s identity. Inspect the result and choose a smaller gesture when it preserves the subject better. Signs already present in the reference belong to the original scene; new panels or diagrams add another representational layer. For a different cinematic expression, form a new reference or coherent model.
 
 ## Operating from an actual case
 

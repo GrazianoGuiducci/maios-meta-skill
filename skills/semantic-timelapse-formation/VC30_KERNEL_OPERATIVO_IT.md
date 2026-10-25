@@ -1,14 +1,14 @@
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** edizione pubblica 0.1.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.1; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
 
-**Identità attuale:** la competenza generale si chiama **MKCV — Mini Kernel Code Video**; questo testo conserva il profilo originario `VC-30s` e conduce al [medesimo Studio-Lab](VC30_STUDIO_LAB_IT.md). MKCV non prescrive una durata, un formato o undici fasi fisse. Il completamento produttivo resta distinto dalla descrizione metodologica.
+**MKCV — Mini Kernel Code Video** nomina la composizione generale delle competenze di produzione. **VC-30s** è il profilo di durata breve descritto qui. Entrambi usano la [stessa guida di produzione](VC30_STUDIO_LAB_IT.md); durata e formato seguono il film richiesto.
 
 ## Formare il filmato dall'oggetto reale
 
 Soggetto, fonti, distinzione fra osservato e illustrato, destinatario e trasformazione significativa determinano quali capacità partecipano. Il mini-kernel può comporre comprensione della fonte, generatore d'immagini, storyboard/design, scena 2D/2.5D/3D, temporalità, narrazione/suono facoltativi, esportazione/osservazione e ritorno del sapere. Non tutti i film richiedono personaggi, Three.js, voce o sequenze multiple di immagini.
 
-**Immagine A:** output reale di un generatore di immagini, formato da istruzioni source-bound e **osservato prima di scrivere in codice il primo frame visivo**. Serve a non ricostruire la scena solo «a memoria». **Immagine B:** primo frame di una scena codificata e modificabile, distinto da A. La bitmap A non possiede automaticamente profondità nascosta, rigging o eventi reali; la scena deve acquisirli quando il soggetto lo richiede.
+**Immagine A:** output reale di un generatore di immagini, formato da istruzioni ancorato alle fonti e **osservato prima di scrivere in codice il primo frame visivo**. Serve a non ricostruire la scena solo «a memoria». **Immagine B:** primo frame di una scena codificata e modificabile, distinto da A. La bitmap A non possiede automaticamente profondità nascosta, rigging o eventi reali; la scena deve acquisirli quando il soggetto lo richiede.
 
 Un attore/oggetto conserva identità riconoscibile nel tempo: referente, ruolo, segni visivi, stato osservabile, azione, rapporti con altri, eventuale posa/contatto con props e visibilità alla camera. SVG/CSS isometrico o 2.5D a livelli possono esprimere profondità; il vero 3D richiede geometria, luci e camera autentiche quando cambiano davvero la comprensione.
 
@@ -32,9 +32,9 @@ Questi sono **metodi e sorgenti di sapere**, non dipendenze installate. Nessun a
 
 ## Apprendere dai metodi altrui, senza trasferire le implementazioni
 
-Due giri sulle sorgenti esterne affinano **che cosa sa fare la competenza**, non quali repository deve installare.
+Le fonti tecniche seguenti insegnano scelte su scene, asset e tempo. Scegli gli strumenti attraverso il lavoro concreto e conserva le condizioni delle capacità riusate.
 
-**Dalle etichette a una materia visiva percepibile.** «Cinematografico» o «moderno» non specificano una scena. Lasciare che il soggetto determini materia, forma, inquadratura, luce e comportamento dell'immagine A. Osservare A come **ipotesi visiva**, senza importare nella scena B una composizione arbitraria o una causalità inventata. Le liste di stili vietati, i numeri di timing e i preset dei progetti sorgente non diventano invarianti MAIOS.
+**Dalle etichette a una materia visiva percepibile.** «Cinematografico» o «moderno» non specificano una scena. Lasciare che il soggetto determini materia, forma, inquadratura, luce e comportamento dell'immagine A. Osservare A come **ipotesi visiva**, senza importare nella scena B una composizione arbitraria o una causalità inventata. Le liste di stili vietati, i numeri di timing e i preset dei progetti sorgente non diventano regole del progetto.
 
 **Dal personaggio illustrato al gesto coerente.** Se un attore o oggetto è pertinente, riconoscere segni visivi, posa, sguardo, contatti e relazioni che devono continuare. Mano con attrezzo, sguardo verso l'oggetto e props che attraversano un cambio camera descrivono un rapporto persistente, non soltanto pixel animati. Un'immagine A appiattita non rivela retro, rig o volumi nascosti: cambiare prospettiva o acquisire gli asset reali necessari invece di inventarli.
 
@@ -42,13 +42,13 @@ Due giri sulle sorgenti esterne affinano **che cosa sa fare la competenza**, non
 
 **Dall'osservazione al sapere.** Un fotogramma rende visibile la geometria, la visione in movimento il ritmo, un frame codificato un problema di export. Queste osservazioni possono correggere il metodo che le produce, senza tribunali di approvazione. La nostra valutazione «come primo spettatore» non è prova che un pubblico reale abbia compreso.
 
-La capacità acquisita è la **trasduzione percettiva situata**: comprendere la fonte, formare un riferimento visivo osservabile e derivarne una rappresentazione temporale riproducibile conservando il significato del soggetto. Codice e runtime restano all'owner tecnico; qui non si importano codice, asset o stili di terzi.
+La capacità acquisita è la **trasduzione percettiva situata**: comprendere la fonte, formare un riferimento visivo osservabile e derivarne una rappresentazione temporale riproducibile conservando il significato del soggetto. Codice e runtime restano all'responsabile tecnico; qui non si importano codice, asset o stili di terzi.
 
-## Rientro sulle fonti non ancora lette: l'immagine generata non è un rig
+## Preparare gli elementi animabili dalla reference
 
-L'audit dei sette repository originali, dei **18 README di ingresso iart** e delle **sette skill principali HyperFrames** ha recuperato una distinzione mancante. **Non** significa che siano state lette tutte le 55 skill iart, tutti i blocchi HyperFrames o l'intera documentazione Remotion.
+Prima di costruire il moto, riconosci quali elementi dell’immagine devono potersi muovere separatamente e quali possono rimanere un solo asset.
 
-La prima **immagine A realmente generata e osservata** rimane il riferimento. Può definire direzione visiva, composizione e rapporti fra personaggi e oggetti. Ma una figura appiattita non permette automaticamente di animare braccio, oggetto impugnato, sfondo o retro. Quando il movimento realmente lo richiede, far formare **ulteriori elementi source-bound, pose, maschere, livelli o geometrie**; quando basta muovere l'immagine intera, non forzare la scomposizione. Gli asset successivi devono restare coerenti col soggetto e A, conservando ruolo, provenienza e identità: non sono retroattivamente «la prima immagine A».
+La prima **immagine A realmente generata e osservata** rimane il riferimento. Può definire direzione visiva, composizione e rapporti fra personaggi e oggetti. Ma una figura appiattita non permette automaticamente di animare braccio, oggetto impugnato, sfondo o retro. Quando il movimento realmente lo richiede, far formare **ulteriori elementi ancorato alle fonti, pose, maschere, livelli o geometrie**; quando basta muovere l'immagine intera, non forzare la scomposizione. Gli asset successivi devono restare coerenti col soggetto e A, conservando ruolo, provenienza e identità: non sono retroattivamente «la prima immagine A».
 
 La [competenza Generative Illustration](https://github.com/iart-ai/generative-illustration-skills) insegna a separare elementi animabili. Una sua guida riporta anche un falso positivo in un ritaglio SVG che ha cancellato una parte della figura. Il metodo acquisito è **separare senza perdere il referente**, non trasferire quel codice o una sua particolare euristica.
 
@@ -58,11 +58,11 @@ La competenza [HyperFrames media-use](https://github.com/heygen-com/hyperframes)
 
 **Destinazione e testo:** un 16:9 spesso richiede *ri-composizione* per un 9:16, non ritaglio; persone, elementi, testi e aree coperte dall'interfaccia partecipano già alla richiesta per A. Parole e caption che devono essere esatte restano modificabili e, dove pertinente, accessibili; non sono lettere immaginate dall'immagine generata. Le specifiche di una piattaforma vanno confermate nel caso effettivo.
 
-Nessun codice/asset di terzi importato e nessun nuovo video dichiarato realizzato.
+Conserva provenienza e diritti degli asset e del codice effettivamente usati nel progetto.
 
 ## Prima e oltre il video: concetto, relazione non lineare e trasferimento reale di A
 
-Un altro rientro sulle sorgenti mette in luce capacità che **non richiedono un nuovo renderer**.
+Queste relazioni possono cambiare la rappresentazione prima ancora di scegliere un renderer.
 
 **Un concetto può precedere il filmato.** Quando esiste già un nucleo editoriale o di prodotto ancorato alle fonti, il video breve è una possibile espressione accanto a immagine, infografica, presentazione e guida interattiva. Recuperare oggetto, relazione, conseguenza e destinatario prima di formare il prompt di A; non ricavare la tesi soltanto dallo stile della clip precedente. I derivati conservano il significato, non lo stesso ritaglio. Nel percorso image-first selezionato la prima A rimane realmente generata e osservata.
 
@@ -86,7 +86,7 @@ La prima immagine A è generata e osservata **prima di programmare l'animazione*
 
 ## Studio-Lab: il sapere partecipa nella postazione competente
 
-L'ampliamento VC-30s selezionato dall'operatore ha formato [Studio-Lab](VC30_STUDIO_LAB_IT.md) con undici **postazioni specialistiche** anziché una filiera obbligatoria. Permettono a conoscenza di fonte, direzione visiva, immagine A e asset, storyboard, codice, voce/sonoro, rendering, consegna e apprendimento ricorsivo di partecipare quando cambiano il film effettivo. Entrare nella [guida portabile](VC30_STUDIO_LAB_IT.md) quando un progetto attraversa più discipline. Il metodo scritto non installa generatori, renderer o istanze autonome.
+Lo [Studio-Lab](VC30_STUDIO_LAB_IT.md) collega sapere della fonte, direzione visiva, immagine A, asset, storyboard, codice, voce e suono, esportazione e apprendimento. Usa le specializzazioni pertinenti al film, con i mezzi effettivi del tuo ambiente.
 
 ## Il film deve essere ricostruibile a qualsiasi tempo
 
@@ -98,8 +98,8 @@ Se audio e didascalie sono utili, cue e parole derivano dalla stessa timeline. A
 
 ## Autoevoluzione della competenza
 
-Un'immagine può introdurre una gerarchia inesistente; un personaggio può perdere identità cambiando orientamento; un'animazione HTML può non supportare seek; un suono può suggerire causalità non presente. La differenza torna alla competenza che dovrà comportarsi diversamente: comprensione della fonte, prompt, Design, codice, sonoro o ricevente. Sapere esistente non richiamato richiede migliore discovery, non un doppione. Un filmato esportato non cambia i pesi del modello né installa strumenti.
+Un'immagine può introdurre una gerarchia inesistente; un personaggio può perdere identità cambiando orientamento; un'animazione HTML può non supportare seek; un suono può suggerire causalità non presente. La differenza torna alla competenza che dovrà comportarsi diversamente: comprensione della fonte, prompt, progettazione visiva, codice, sonoro o ricevente. Sapere esistente non richiamato richiede migliore discovery, non un doppione. Un filmato esportato non cambia i pesi del modello né installa strumenti.
 
-**Uso nel destinatario pubblico:** il percorso completo, un nuovo film narrativo, il render 3D e gli eventuali provider si esercitano nei mezzi reali del destinatario. Gli esercizi di sviluppo 2.5D restano attribuiti al proprio ricevente. Il mini-kernel rende queste capacità **raggiungibili**, non automaticamente attive.
+**Uso nel proprio ambiente:** esercita il percorso attraverso strumenti e asset reali. Un nuovo soggetto narrativo o una scena 3D richiedono osservazioni sul film effettivamente costruito.
 
 **Provenienza:** conoscenza tratta dai repository linkati, letti il 24 ottobre 2026. Alla scelta concreta di un framework o asset recuperare licenze e versione correnti della fonte, perché possono cambiare.

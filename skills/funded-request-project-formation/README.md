@@ -1,8 +1,8 @@
 # Funded Request Project Formation
 
-Form a project from a funded request
+Form projects from funded calls and requests
 
-Understand the requested change and form the capability, solution and project that can answer it.
+Understand the requested change, compose relevant capabilities and connect the project, beneficiaries and resources.
 
 Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs.
 
@@ -14,4 +14,4 @@ Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a ch
 
 ## Files and edition
 
-Public edition 0.1.0. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
+Public edition 0.1.1. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.

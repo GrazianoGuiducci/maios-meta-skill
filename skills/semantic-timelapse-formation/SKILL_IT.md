@@ -7,6 +7,12 @@ description: Forma video brevi dal sapere, generando prima un'immagine di esempi
 
 **Prima un riferimento visivo generato, poi il primo frame scritto in codice.**
 
+## Animare il soggetto di una reference
+
+Hai un’illustrazione generata e vuoi vedere il personaggio muoversi nel suo ambiente. Il lavoro consiste nel rendere animabili le parti necessarie e nel costruire una scena che conservi quel soggetto.
+
+Generare il riferimento, costruire gli elementi animabili e scegliere cosa cambia nel tempo sono lavori collegati. Sovrapporre un diagramma alla figura produce un effetto diverso dall’animarne il soggetto.
+
 ## Comprendere l'oggetto
 
 Parti dall'intento, dall'oggetto reale e dalle conoscenze che ne determinano il significato. Distingui fatti osservati, interpretazioni attribuite, possibilità e illustrazioni. La trasformazione segue il soggetto, non uno stile già scelto. Un film che raffigura connessioni crescenti non mostra di per sé apprendimento reale dell'AI.
@@ -29,7 +35,7 @@ La fonte può richiedere **una persona, un oggetto, uno strumento, un ambiente, 
 
 Quando è pertinente, il sapere forma per ogni attore visivo **ruolo, stato osservabile, segni riconoscibili, azione e relazione agli altri**. Genera A da queste distinzioni e osserva se inventa identità, autorità, capacità o causalità. L'animazione conserva il referente mentre mutano camera, gesto, oggetto e testo. Un personaggio illustrato non dimostra che un umano o agente stia realmente operando.
 
-Dopo A, costruisci B come codice e scena modificabili, con asset e geometria effettivamente disponibili. Una bitmap non contiene automaticamente parti mobili, retro, mesh 3D, rig o profondità. Il 2.5D può usare livelli, maschere e parallax; il vero 3D richiede modelli, camera, materiali e runtime reali. Il mezzo segue la trasformazione source-bound. Lo sviluppo sorgente ha esercitato film 2.5D da reference generata; un nuovo film narrativo e l’uso indipendente nel destinatario conservano il proprio stato.
+Dopo A, costruisci B come codice e scena modificabili, con asset e geometria effettivamente disponibili. Una bitmap non contiene automaticamente parti mobili, retro, mesh 3D, rig o profondità. Il 2.5D può usare livelli, maschere e parallax; il vero 3D richiede modelli, camera, materiali e strumenti di esecuzione reali. Scegli il mezzo attraverso il cambiamento che il soggetto deve rendere visibile.
 
 ## Tempo e video breve
 
@@ -39,26 +45,26 @@ Produrre e codificare i frame uno per volta può contenere la **memoria computaz
 
 ## Lasciare che la sorgente determini geometria e significato del tempo
 
-Un terzo esercizio MAIOS, diverso dai primi due, ha mostrato che il **tipo di relazione sorgente** deve poter cambiare la **topologia della scena**, non soltanto le didascalie. Due correzioni indipendenti possono richiedere percorsi paralleli invece di un centro luminoso. Quella geometria era la risultante di quel particolare oggetto, non un nuovo modello grafico da imporre. Quando il renderer non possiede il mezzo per rappresentare una relazione, conservarne la differenza invece di forzarla nella forma disponibile.
+Il tipo di relazione descritto dalle fonti deve poter cambiare la geometria della scena. Due correzioni indipendenti possono richiedere percorsi paralleli invece di un centro luminoso. Quella disposizione serve quella relazione; un altro oggetto può richiedere una forma diversa. Se il renderer non sa rappresentarla, amplia il mezzo o conserva esplicitamente la differenza.
 
 Distingui **tempo della sorgente** e **tempo dell'animazione**. Un video esplicativo di 30 secondi può mettere in relazione eventi e correzioni senza accelerare una cronologia realmente registrata. Chiamalo timelapse documentario soltanto se gli eventi e gli intervalli sorgente sono effettivamente disponibili e usati; altrimenti esplicita che è un'animazione temporale esplicativa. Il significato del tempo partecipa al prompt visivo, al primo frame e alla sequenza.
 
 
 ## Apprendimento e ricorsione
 
-L'esempio generato può far emergere una relazione assente, il frame codificato può mostrarne una traduzione falsa, la sequenza può perdere leggibilità o identità. Lascia che le conseguenze correggano interpretazione, istruzioni visive, codice o metodo temporale. Il sapere riusabile torna alla competenza che dovrà operare diversamente: dominio, Editoriali, Design, codice o formazione generale. Se il sapere c'era già ma non ha partecipato, correggi la scoperta invece di duplicarlo.
+L’immagine generata può far emergere una relazione assente, il frame codificato può mostrarne una traduzione falsa, la sequenza può perdere leggibilità o identità. Usa queste osservazioni per correggere interpretazione, istruzioni visive, codice o metodo temporale. Conserva il sapere riusabile nella competenza pertinente: contenuto, scrittura, progettazione visiva o produzione tecnica. Se il sapere esisteva già, rendilo raggiungibile nel punto in cui serve.
 
-KA mantiene aperto il possibile; FDLA corregge nel movimento le sostituzioni di sorgente e intento. L'apprendimento ricorsivo cambia conoscenza e metodo quando un ricevente capace lo incarna; non significa che un file o un video modifichi da solo i pesi dell'LLM o avvii azioni.
+Mantieni aperte le possibilità sostenute da intento e fonti e correggi le sostituzioni introdotte dall’interpretazione. Registra la relazione appresa nel metodo che dovrà usarla. La persistenza dipende dall’ambiente disponibile; un testo o un video non modificano da soli i pesi del modello né avviano azioni.
 
 ## VC-30s: mini-kernel operativo, non stack tecnologico obbligatorio
 
-Un breve filmato può richiedere sapere della fonte, generazione di A, scena B modificabile, attori e oggetti, movimento 2.5D/3D, suono, rendering e apprendimento. Sono funzioni complementari di **un solo oggetto video**, non otto fasi o strumenti da installare. Il [campo operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) rende il sapere utilizzabile anche fuori da MAIOS, con link alle fonti e distinzioni tecniche senza importare codice altrui o topologia privata.
+Un breve filmato può richiedere sapere della fonte, generazione di A, scena B modificabile, attori e oggetti, movimento 2.5D/3D, suono, rendering e apprendimento. Sono funzioni complementari di **un solo oggetto video**, non otto fasi o strumenti da installare. Il [campo operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) rende il sapere utilizzabile nel tuo ambiente, con fonti e distinzioni tecniche pertinenti.
 
-Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, Remotion e Framer Motion emerge la capacità di **ricostruire una scena a tempo arbitrario**, conservare identità di persone/oggetti e statuto delle fonti, attendere le risorse, comporre audio quando utile, osservare i frame codificati e far ritornare apprendimento all'owner. `real-time update(dt)` non equivale automaticamente a `render(t)` seekable. L'immagine A resta distinta da B; shader, rig e librerie sono mezzi tecnici, non fonti dei fatti. Un nuovo film narrativo o 3D del destinatario richiede i suoi mezzi effettivi e il proprio risultato osservato.
+Dalla lettura di HyperFrames, GSAP/Three.js, PixiJS, Motion Video, skill iart, Remotion e Framer Motion emerge la capacità di **ricostruire una scena a tempo arbitrario**, conservare identità di persone/oggetti e statuto delle fonti, attendere le risorse, comporre audio quando utile, osservare i frame codificati e far ritornare apprendimento all'responsabile. `real-time update(dt)` non equivale automaticamente a `render(t)` seekable. L'immagine A resta distinta da B; shader, rig e librerie sono mezzi tecnici, non fonti dei fatti. Un nuovo film narrativo o 3D del destinatario richiede i suoi mezzi effettivi e il proprio risultato osservato.
 
-**Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo; l'audit delle fonti è stato selettivo, non lettura di ogni file.
+**Dal riferimento A alle parti realmente animabili.** A è un'immagine davvero generata e osservata prima di codificare B, ma non è un **rig** né possiede necessariamente parti mobili. Se il soggetto richiede mano, strumento, espressioni, piani separati o profondità, riconoscere quali ulteriori asset coerenti, pose, livelli o geometrie servono; acquisirli solo quando pertinenti. Conservare fonte/identità e rapporto con A, oppure ricomporre gesto/camera se A non consente il movimento. Quando il film usa l'immagine intera, un solo asset basta. Il [campo VC-30s](VC30_KERNEL_OPERATIVO_IT.md) conserva il metodo.
 
-**Altro giro sulle fonti VC-30s — concetto e riceventi.** Un video breve può derivare da un concetto source-bound già capace di formare infografica, articolo o guida interattiva. Preservare il significato, non copiare il layout. L'ordine dei frame non dimostra da solo causalità, gerarchia o progresso inevitabile. Se A è generata altrove, il ricevente che codifica B deve raggiungere realmente i suoi byte: una descrizione non è l'immagine osservata. Un cursore simulato su una schermata resta esplicativo se l'operazione non è stata osservata. Sono capacità di pertinenza e di metodo, illustrate nel [VC-30s](VC30_KERNEL_OPERATIVO_IT.md), non nuovi requisiti software.
+**Dal concetto al film e al trasferimento fra ambienti.** Un video breve può derivare da un concetto ancorato alle fonti già capace di formare infografica, articolo o guida interattiva. Preservare il significato, non copiare il layout. L'ordine dei frame non dimostra da solo causalità, gerarchia o progresso inevitabile. Se A è generata altrove, il ricevente che codifica B deve raggiungere realmente i suoi byte: una descrizione non è l'immagine osservata. Un cursore simulato su una schermata resta esplicativo se l'operazione non è stata osservata. Sono capacità di pertinenza e di metodo, illustrate nel [VC-30s](VC30_KERNEL_OPERATIVO_IT.md), non nuovi requisiti software.
 
 **Generare A prima del codice non significa metterla al tempo zero.** Nel metodo VC-30s l'immagine A, davvero generata e osservata, può essere il riferimento visivo di un gesto o una relazione rappresentativa, non il frame `t=0`; la scena B codificata possiede il proprio stato iniziale. Quando il soggetto descrive azioni, attore, oggetto, camera, didascalia e suono rendono aspetti coerenti della medesima situazione, senza imporre una macchina a stati. Un template è riusabile se permane la relazione; un altro oggetto può richiedere nuova grammatica. Vedi [VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
@@ -70,9 +76,9 @@ Il percorso selezionato richiede una **vera capacità di generare A**; A è prim
 
 **MKCV, non solo VC-30s.** Il [Mini Kernel Code Video](VC30_STUDIO_LAB_IT.md#mkcv--mini-kernel-code-video-oltre-il-profilo-di-30-secondi) è il campo generale di produzione, mentre VC-30s è un suo possibile formato. Le conoscenze e le undici postazioni sono disponibili; generatore A, codec, scene B, video integrato e secondo caso non identico rimangono da esercitare nel ricevente reale. Non creare nuove copie dello Studio-Lab per variare durata o linguaggio visivo.
 
-**Ritorno autoriale dopo il primo film MKCV.** Una immagine A realmente generata e una clip B realmente esportata non bastano se B anima **nuovi diagrammi sovrapposti**, mentre il destinatario chiedeva di **animare il soggetto di A**. Quando questa è la richiesta, formare movimento interno all'immagine (attori, props, ambiente, camera) con asset/livelli o image-to-video effettivamente disponibili; non assumere mesh/rig inesistenti. [Studio-Lab](VC30_STUDIO_LAB_IT.md#correzione-emersa-dallosservazione-reale-animare-a-non-sovrapporvi-un-altro-film) include l'apprendimento e [Motion.so MCP](https://docs.motion.so/guides/mcp) come eventuale mezzo da provare, non come provider installato o pubblicatore social.
+**Animare il soggetto dell’immagine A.** Quando la richiesta è vedere muoversi il mondo della reference, forma gesti di personaggi, oggetti, ambiente e camera dentro quella scena. Usa livelli, asset o un servizio image-to-video effettivamente disponibile. Un diagramma sovrapposto può spiegare un concetto ma produce un altro effetto. La [guida di produzione](VC30_STUDIO_LAB_IT.md) approfondisce questa scelta.
 
-**Prima prova di animazione della stessa immagine A.** Dopo la correzione dell'operatore è stato eseguito un piccolo filmato originale che muove realmente parti di A (testa/braccio con pivot, sfondo ricostruito, luce/camera nella stessa scena), **9 secondi e 270 frame MP4 decodificati**. Non è ancora un modello 3D; non è una scena non identica che dimostri apprendimento generalizzato. La [guida Studio-Lab](VC30_STUDIO_LAB_IT.md#conoscenza-esercitata--immagine-a-che-diventa-movimento-24-ottobre-2026) distingue A animata, ricostruzione procedurale e scena inventata in codice; apprende metodi da cinetic/img2threejs/Remotion senza importarne il codice.
+**Articolazioni 2.5D e identità del soggetto.** Per movimenti limitati puoi separare parti della reference, costruire maschere e pivot e ricostruire le zone scoperte dichiarandone la natura. Osserva che volto, gesto e ambiente rimangano riconoscibili. Una camera libera o superfici non visibili possono richiedere nuova geometria 3D. La [guida di produzione](VC30_STUDIO_LAB_IT.md) distingue questi mezzi dalla scena inventata interamente in codice.
 
 ## Mezzi ed effetti
 
@@ -82,6 +88,6 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 ## MKCV — un film, competenze reciproche
 
-La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.
+La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’responsabile mantenendo riconoscibile lo stesso film.
 
 [Leggere il metodo cinematografico reciproco](MKCV_CINEMA_IT.md). La pagina collega i quattro kit pubblici complementari.

@@ -2,7 +2,7 @@
 
 ## Principio, competenza e abilità
 
-Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Gli assiomi fondativi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli.
+Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Quando la fonte contiene assiomi fondativi, essi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli.
 
 
 ## La continuazione utile

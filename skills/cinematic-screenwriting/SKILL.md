@@ -11,6 +11,12 @@ A scene makes something happen in a world. Its meaning can come from a gesture, 
 
 This first public method carries source-grounded cinematic knowledge and reciprocal collaboration. Its usefulness grows through actual writing and observation of the resulting scenes.
 
+## A fictional robot lifts a fallen plant
+
+In an imagined workshop, a robot pauses beside a fallen plant. The scene needs to convey what the character notices, chooses and changes.
+
+Writing connects situation, action and consequence. Direction and performance can then make them visible through gaze, pause, gesture and framing.
+
 ## Find the situation and its status
 
 Understand the subject, author’s intent and what kind of representation is entrusted: observed documentation, reconstruction, allegory or invented fiction. Identify the world, point of view and what may change. Fiction can author intentions and an inner life; a technical film needs sources for claims about real people, systems and events. Let the situation determine its narrative form.

@@ -1,7 +1,7 @@
 {
   "id": "formare-capacita-cooperative",
   "name": "Form Cooperative Capability from Sources",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "35",
@@ -35,9 +35,9 @@
   "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
   "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
   "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-  "package": "dist/form-cooperative-capability-from-sources-0.1.0.zip",
+  "package": "dist/form-cooperative-capability-from-sources-0.1.1.zip",
   "en": {
-    "title": "Form the capability that can build a cooperative system",
+    "title": "Develop cooperation between people and AI assistants",
     "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
     "kind": "Generative metacompetence",
     "domain": "Cooperation and system formation",
@@ -49,10 +49,10 @@
       "A kernel is a meaningful result"
     ],
     "route": "/resources/formare-capacita-cooperative/",
-    "description": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together."
+    "description": "Connect contributions and responsibilities and form the project capability that lets the group continue."
   },
   "it": {
-    "title": "Formare la capacità che costruisce un sistema cooperativo",
+    "title": "Sviluppare la cooperazione fra persone e assistenti AI",
     "subtitle": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.",
     "kind": "Metacompetenza generativa",
     "domain": "Cooperazione e formazione di sistemi",
@@ -64,6 +64,6 @@
       "Un kernel è un risultato significativo"
     ],
     "route": "/risorse/formare-capacita-cooperative/",
-    "description": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune."
+    "description": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare."
   }
 }

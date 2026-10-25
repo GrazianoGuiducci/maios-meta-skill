@@ -1,8 +1,8 @@
 # Film Montage
 
-Comporre significato fra le immagini
+Montare immagini e suono per formare il significato di un film
 
-Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce.
+Scegli ordine, durata e raccordi attraverso ciò che la sequenza fa scoprire allo spettatore.
 
 Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena.
 
@@ -14,4 +14,4 @@ Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT
 
 ## File ed edizione
 
-Edizione pubblica 0.1.0. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.1.1. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

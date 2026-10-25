@@ -1,8 +1,8 @@
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** public edition 0.1.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.1 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
-**Current identity:** the general capability is **MKCV — Mini Kernel Code Video**. This guide retains the historical `VC-30s` profile and links to the [same Studio-Lab](VC30_STUDIO_LAB_EN.md). MKCV does not impose a duration, output aspect or eleven mandatory phases; its production exercise remains distinct from written methodology.
+**MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 
 ## Form the film from the actual subject
 
@@ -32,9 +32,9 @@ These sources are **mechanisms and learning resources**, not installed providers
 
 ## Learning from other people's methods, without copying their implementation
 
-Two passes over the external sources refine **what the competence knows how to do**, not which repositories it installs.
+The following technical sources teach choices about scenes, assets and time. Select tools through the actual work and preserve the conditions of reused capabilities.
 
-**From labels to a perceptible medium.** A word like “cinematic” or “modern” cannot specify the scene. Let the actual subject make material, shape, framing, lighting and behaviour meaningful in image-generator reference A. Observe A as a **visual hypothesis**: do not repeat its arbitrary composition or false causal hints in coded scene B. Named looks, lists of default bans, numerical timing rules and branded styles from the source projects are not MAIOS invariants.
+**From labels to a perceptible medium.** A word like “cinematic” or “modern” cannot specify the scene. Let the actual subject make material, shape, framing, lighting and behaviour meaningful in image-generator reference A. Observe A as a **visual hypothesis**: do not repeat its arbitrary composition or false causal hints in coded scene B. Named looks, lists of default bans, numerical timing rules and branded styles from the source projects are not rules for the receiving project.
 
 **From an illustrated character to a coherent action.** If a person or object matters to the film, recognise the visual features, pose, gaze, contact points and relations that must continue. A hand holding a tool, an eye directed at the object and a prop crossing a camera cut express a persistent relation, not just animated pixels. A flattened A cannot reveal the unseen back, a rig or hidden object geometry. Use a different viewpoint or an appropriate real asset rather than inventing those parts.
 
@@ -44,9 +44,9 @@ Two passes over the external sources refine **what the competence knows how to d
 
 The learned faculty is **situated perceptual translation**: understanding a source, forming an observable visual reference, and deriving a reproducible temporal expression that keeps the subject's meaning. Code and runtime decisions remain with the technical owner; no source project's code, assets or styles are bundled here.
 
-## Recheck of previously unread sources: the generated image is not an animation rig
+## Prepare animatable elements from the reference
 
-An audit of seven originally named repositories, all **18 iart package README entry points**, and the **seven top-level HyperFrames skills** found a missing distinction. This is **not** a claim to have read every iart skill (55 declared by the hub), every HyperFrames block or Remotion implementation.
+Before constructing motion, identify which image elements need to move separately and which can remain one asset.
 
 The first genuinely generated and inspected **image A remains the visual reference**. It may establish art direction, the relation between characters/objects and the readable whole. But a single flattened illustration cannot independently animate a hand, held tool, background, eye movement or the reverse view of an object. When the actual motion needs them, form **additional source-bound visual elements, poses, masks or geometry**; when a single whole image suffices, keep it whole. Additional assets should remain coherent with the subject and A, while their provenance and roles stay identifiable. They are not retroactively relabelled as the first A.
 
@@ -58,11 +58,11 @@ This distinction was learned from [Generative Illustration](https://github.com/i
 
 **Format and language belong before the render.** A 16:9 master often must be **recomposed**, not merely cropped, for 9:16 while preserving people, objects and titles. Exact words should remain editable and, where appropriate, accessible through captions or transcripts, not be guessed from pixels in A. Current social platform overlay dimensions need case-specific confirmation.
 
-No third-party source code or assets have been imported, and no new film is claimed.
+Preserve the provenance and rights of the assets and code actually used in the project.
 
 ## Before and beyond the film: concept, non-linear relation, real asset transfer
 
-A further source reentry reveals three missing capabilities that **do not require another renderer**.
+These relationships can change the representation before a renderer is chosen.
 
 **A media concept can precede the clip.** When an existing editorial or product concept already has a source-grounded core, a short video is one possible expression of that core alongside a still infographic, presentation or interactive guide. Recover the source, dominant relation, real-world consequence and audience before forming the image A prompt; do not derive the claim solely from a prior clip's visual treatment. Other derivatives preserve the thesis, not the same crop. A new A should still be actually generated and observed when this image-first workflow is selected.
 
@@ -86,7 +86,7 @@ The first generated visual reference A is made and inspected **before programmin
 
 ## Studio-Lab: use knowledge at the working station
 
-The user's selected expansion of VC-30s is a [working Studio-Lab](VC30_STUDIO_LAB_EN.md) with eleven **specialist stations** rather than an obligatory processing chain. They allow source knowledge, art direction, image A and image assets, storyboard, code, voice/sound, render, delivery and recursive learning to participate where they change the actual film. Use its [portable operating guide](VC30_STUDIO_LAB_EN.md) when a project crosses multiple disciplines. Do not claim an installed image generator, video runtime or autonomous agents from this Markdown method alone.
+The [Studio-Lab](VC30_STUDIO_LAB_EN.md) connects source knowledge, visual direction, image A, assets, storyboard, code, voice and sound, export and learning. Use the specializations relevant to the film with the actual means of your environment.
 
 ## A video must be addressable in time
 
@@ -100,6 +100,6 @@ Audio and caption cues should share time data with the film if they contribute m
 
 An image may introduce a false hierarchy; a character may lose its identity while turning; an HTML animation may fail to seek; a caption or soundtrack may create a misleading temporal implication. Correct the source interpretation, image instruction, visual design, code, sound or receiver method **at the owner that must act differently next time**. If a method already existed but was not reached, improve discovery, not the number of skill files. No claim that an exported film changes model weights or self-installs tools.
 
-**Not yet exercised in this public edition:** the complete A generated → A observed → B coded with characters/objects → video chain, a new 3D render, external audio providers, publication. The kernel makes those capacities **discoverable**, not automatically active.
+**Use in your environment:** exercise the method through real tools and assets. A new narrative subject or 3D scene needs observations of the film actually constructed.
 
 **Source coordinates and provenance:** this portable text distills methods from the linked projects as read on 24 October 2026. Source versions and licenses may change; re-open the actual repository where an integration/asset choice becomes material.

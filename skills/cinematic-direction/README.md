@@ -1,8 +1,8 @@
 # Cinematic Direction
 
-Direct what the viewer can discover
+Direct a scene through framing, camera and light
 
-Staging, viewpoint, camera and light make a scene’s relationships perceptible.
+Choose how to show the action so viewers can recognize space, gestures and meaningful changes.
 
 Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage.
 
@@ -14,4 +14,4 @@ Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a ch
 
 ## Files and edition
 
-Public edition 0.1.0. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
+Public edition 0.1.1. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.

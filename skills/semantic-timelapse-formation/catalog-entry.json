@@ -1,7 +1,7 @@
 {
   "id": "creare-timelapse-semantici",
   "name": "Semantic Timelapse Formation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "33",
@@ -39,9 +39,9 @@
   "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
   "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
   "presentation": "skills/semantic-timelapse-formation/presentation.json",
-  "package": "dist/semantic-timelapse-formation-0.1.0.zip",
+  "package": "dist/semantic-timelapse-formation-0.1.1.zip",
   "en": {
-    "title": "From a generated reference to a code-built film",
+    "title": "Create a coded film from a generated image",
     "kind": "Generative media competence",
     "domain": "Visual creation",
     "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
@@ -52,11 +52,11 @@
       "One film, complementary cinematic knowledge"
     ],
     "route": "/resources/creare-timelapse-semantici/",
-    "description": "Connect source knowledge, an observed visual reference, an editable scene and meaningful time.",
+    "description": "From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.",
     "subtitle": "Connect source knowledge, an observed visual reference, an editable scene and meaningful time."
   },
   "it": {
-    "title": "Da una reference generata a un film in codice",
+    "title": "Creare un film in codice da un’immagine generata",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
     "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
@@ -67,7 +67,7 @@
       "Un film, saperi cinematografici complementari"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
-    "description": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo.",
+    "description": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
     "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo."
   }
 }

@@ -11,6 +11,12 @@ This method was developed through MAIOS presentations and its System Map. It con
 
 A presentation is a situated expression of the system’s knowledge. The first explanation can be brief while deeper relations remain reachable.
 
+## Explain one system to the people using or building it
+
+A technician asks what changes during a shift; an engineer asks how the assistant works; a manager asks who needs to participate. All three questions concern the same system.
+
+The presentation begins with the actual question and makes the same mechanism and sources reachable. The depth of the view changes while the system’s identity and capabilities remain coherent.
+
 ## Recover the system behind the latest artifact
 
 Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including its ability to form further competences. Preserve the distinct status of source, illustration and observed result.
@@ -38,7 +44,7 @@ A short attributed excerpt, artifact or real correction can open the system’s 
 
 ## Let the encounter improve the presenting competence
 
-A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to Design. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
+A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
 
 ## Continue through the actual project
 

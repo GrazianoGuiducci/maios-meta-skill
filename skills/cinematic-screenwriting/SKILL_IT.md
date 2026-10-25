@@ -11,6 +11,12 @@ Una scena fa accadere qualcosa in un mondo. Il significato può nascere da gesto
 
 Questo primo metodo pubblico porta sapere cinematografico e collaborazione reciproca. La sua utilità cresce nella scrittura e nell’osservazione delle scene risultanti.
 
+## Un robot di fiction rialza una pianta caduta
+
+In un’officina di fantasia un robot si ferma accanto a una pianta caduta. La scena deve far comprendere ciò che il personaggio nota, sceglie e cambia.
+
+La scrittura collega situazione, azione e conseguenza. Regia e interpretazione potranno renderle visibili attraverso sguardo, pausa, gesto e inquadratura.
+
 ## Riconoscere situazione e statuto
 
 Comprendi soggetto, intento autoriale e statuto: documentazione osservata, ricostruzione, allegoria o fiction. Individua mondo, punto di vista e cambiamento possibile. La fiction può attribuire intenzioni e interiorità; un film tecnico richiede fonti per persone, sistemi ed eventi reali. La situazione determina la forma narrativa.

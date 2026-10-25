@@ -1,8 +1,8 @@
 # Form Cooperative Capability from Sources
 
-Formare la capacità che costruisce un sistema cooperativo
+Sviluppare la cooperazione fra persone e assistenti AI
 
-Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.
+Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare.
 
 Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.
 
@@ -14,4 +14,4 @@ Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT
 
 ## File ed edizione
 
-Edizione pubblica 0.1.0. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.1.1. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

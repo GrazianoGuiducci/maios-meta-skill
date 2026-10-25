@@ -11,6 +11,12 @@ Un progetto può iniziare con una competenza capace di produrre la propria soluz
 
 Questa risorsa sviluppa la capacità generativa. Le competenze di dominio conservano la costruzione concreta; i partecipanti il proprio sapere, le responsabilità e l’autorità sugli effetti condivisi.
 
+## Ricercatori e assistenti lavorano sulla stessa indagine
+
+Più ricercatori usano assistenti diversi e vogliono sviluppare una ricerca comune. Tesi, domande e ragioni devono restare attribuibili mentre i contributi si incontrano.
+
+Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi guidare una guida, un servizio o un’applicazione.
+
 ## Entrare da sorgenti e intento comune
 
 Comprendi ciò che le persone vogliono rendere possibile e quale sapere ne porta già la capacità. Recupera ragioni sorgenti, partecipanti, lavoro e mezzi prima di decidere per una piattaforma o gerarchia di agenti. Le relazioni emerse possono cambiare la domanda. Una forma realmente determinata dal campo resta acquisita.

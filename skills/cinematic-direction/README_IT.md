@@ -1,8 +1,8 @@
 # Cinematic Direction
 
-Dirigere ciò che lo spettatore può scoprire
+Dirigere una scena con inquadratura, camera e luce
 
-Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena.
+Scegli come mostrare l’azione perché lo spettatore possa riconoscere spazio, gesti e cambiamenti significativi.
 
 Forma l’esperienza cinematografica di una scena attraverso messa in scena, punto di vista, camera, luce e relazione con interpretazione e montaggio.
 
@@ -14,4 +14,4 @@ Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT
 
 ## File ed edizione
 
-Edizione pubblica 0.1.0. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.1.1. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

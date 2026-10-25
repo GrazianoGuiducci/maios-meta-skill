@@ -1,7 +1,7 @@
 {
   "id": "interpretare-personaggi-animati",
   "name": "Character & Object Performance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "40",
@@ -35,9 +35,9 @@
   "starter": "skills/character-performance/START_CHAT_EN.txt",
   "examples": "skills/character-performance/EXAMPLES.md",
   "presentation": "skills/character-performance/presentation.json",
-  "package": "dist/character-performance-0.1.0.zip",
+  "package": "dist/character-performance-0.1.1.zip",
   "en": {
-    "title": "Give a gesture meaning in its world",
+    "title": "Animate the gestures and reactions of characters and objects",
     "subtitle": "Gaze, pose, timing and contact make an animated action readable.",
     "kind": "Animated performance competence",
     "domain": "Cinema and narrative",
@@ -49,10 +49,10 @@
       "A small gesture preserves identity"
     ],
     "route": "/resources/interpretare-personaggi-animati/",
-    "description": "Gaze, pose, timing and contact make an animated action readable."
+    "description": "Connect identity, pose, timing and contact so the character’s action can be read within the scene."
   },
   "it": {
-    "title": "Dare significato a un gesto nel suo mondo",
+    "title": "Animare gesti e reazioni di personaggi e oggetti",
     "subtitle": "Sguardo, posa, tempo e contatto rendono leggibile un’azione animata.",
     "kind": "Competenza di interpretazione animata",
     "domain": "Cinema e narrazione",
@@ -64,6 +64,6 @@
       "Un gesto piccolo conserva l’identità"
     ],
     "route": "/risorse/interpretare-personaggi-animati/",
-    "description": "Sguardo, posa, tempo e contatto rendono leggibile un’azione animata."
+    "description": "Collega identità, posa, tempo e contatto perché l’azione del personaggio sia leggibile nella scena."
   }
 }

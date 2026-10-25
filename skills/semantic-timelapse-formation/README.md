@@ -1,7 +1,9 @@
 # Semantic Timelapse Formation
 
-From a generated reference to a code-built film
+Create a coded film from a generated image
 
-Connect source knowledge, an observed visual reference, an editable scene and meaningful time.
+From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.
 
-Public edition 0.1.0. MKCV is the general capability, VC-30s one output profile. Read SKILL.md, OPERATING_GUIDE.md, VC30_OPERATIONAL_KERNEL.md, VC30_STUDIO_LAB_EN.md and MKCV_CINEMA_EN.md. The complete START_CHAT_EN.txt includes these bodies and the examples. INSTALL.md explains project installation. The optional Python renderer illustrates a limited image-based camera movement; source-led film construction uses the actual means of the recipient.
+Read SKILL.md, OPERATING_GUIDE.md and EXAMPLES.md. In chat without file access, use the entire START_CHAT_EN.txt. The kit includes the production guide, technical sources and an example renderer. Installation: INSTALL.md.
+
+Public edition 0.1.1. This method derives from Semantic Timelapse Formation; its relation to KA and FDLA is the provenance of the openness and correction knowledge transferred here. Writing, visual design and production roles compose through the actual capabilities of your project.

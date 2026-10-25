@@ -11,6 +11,12 @@ Direction connects a subject and its actions to a perceptible world. What is sho
 
 It composes with writing, performance and montage while production constructs the actual camera, assets and renderer.
 
+## Framing reveals why a hand supports the pot
+
+A character reaches toward a plant at the edge of the frame. In a wide view the gesture seems arbitrary; a closer view reveals the bent stem and the supporting hand.
+
+The point of view changes the relationship the viewer can discover. Distance, light, off-screen space and duration follow what this scene needs to make perceptible.
+
 ## Understand the scene’s actual relation
 
 Recover subject, source status, narrative conditions and the change that matters. A fiction, documentary, demo or contemplative film can call for different attention. Preserve what the author has determined while letting a perceptual observation reform a proposal. A visually attractive camera move should remain connected to the subject it helps the viewer encounter.

@@ -9,7 +9,7 @@ Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un
 
 ## Il sapere di manutenzione diventa capacità cooperativa
 
-Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio owner. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
+Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabili. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
 
 
 ## Un kernel è un risultato significativo

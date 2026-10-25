@@ -1,7 +1,7 @@
 {
   "id": "comporre-montaggio-cinematografico",
   "name": "Film Montage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "41",
@@ -35,9 +35,9 @@
   "starter": "skills/film-montage/START_CHAT_EN.txt",
   "examples": "skills/film-montage/EXAMPLES.md",
   "presentation": "skills/film-montage/presentation.json",
-  "package": "dist/film-montage-0.1.0.zip",
+  "package": "dist/film-montage-0.1.1.zip",
   "en": {
-    "title": "Compose meaning between images",
+    "title": "Edit images and sound to form a film’s meaning",
     "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",
     "kind": "Temporal composition competence",
     "domain": "Cinema and narrative",
@@ -49,10 +49,10 @@
       "Sound opens the next space"
     ],
     "route": "/resources/comporre-montaggio-cinematografico/",
-    "description": "Order, duration, cuts and sound shape the relations a viewer can perceive."
+    "description": "Choose order, duration and transitions through what the sequence lets the viewer discover."
   },
   "it": {
-    "title": "Comporre significato fra le immagini",
+    "title": "Montare immagini e suono per formare il significato di un film",
     "subtitle": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce.",
     "kind": "Competenza di composizione temporale",
     "domain": "Cinema e narrazione",
@@ -64,6 +64,6 @@
       "Il suono apre lo spazio successivo"
     ],
     "route": "/risorse/comporre-montaggio-cinematografico/",
-    "description": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce."
+    "description": "Scegli ordine, durata e raccordi attraverso ciò che la sequenza fa scoprire allo spettatore."
   }
 }

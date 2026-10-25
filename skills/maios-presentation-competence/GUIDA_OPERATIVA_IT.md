@@ -2,7 +2,7 @@
 
 ## Un sistema può lavorare e diventare parte di ciò che crea
 
-Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi situati. Sono relazioni che coesistono. In MAIOS il Project Kernel pubblico è un’incarnazione concreta disponibile; il lavoro generativo più ampio continua. Presenta la relazione pertinente con mezzi effettivi e profondità sorgente.
+Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi. Presenta le relazioni pertinenti alla domanda del destinatario attraverso capacità effettive, esempi riconoscibili e fonti raggiungibili.
 
 
 ## Una mappa viva conserva ragioni

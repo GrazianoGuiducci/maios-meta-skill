@@ -1,12 +1,12 @@
 # VC-30s Studio-Lab — produrre video in codice con competenze specializzate
 
-**Stato:** metodo pubblico **edizione 0.1.0**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+**Stato:** metodo pubblico **edizione 0.1.1**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
 ## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
 
-**MKCV** è il nome del mini-kernel di competenze per produrre video in codice. **VC-30s** identifica un **profilo di durata** e i primi esercizi che hanno contribuito a formarlo, non il limite dei video che MKCV può affrontare. Questo Studio-Lab è **un solo laboratorio**: le sue undici postazioni restano facoltà riutilizzabili per altri durate, formati, personaggi, 2.5D/3D, audio e forme di rappresentazione quando il soggetto le richiede.
+**MKCV** è il nome della composizione di competenze per produrre video in codice. **VC-30s** identifica un profilo di durata breve. Le postazioni di questa guida possono contribuire a film di diversa durata, formato e linguaggio visivo quando il soggetto le richiede.
 
-**Stato del metodo pubblico candidato:** struttura e sapere sono leggibili in queste istruzioni; non significa image generator, renderer o lavoro multi-agente installati nel ricevente. Il completamento produttivo si potrà osservare in un caso con A realmente generata/osservata, scena B programmata, film decodificato e lavoro recuperabile. Un secondo caso non identico permetterà di comprendere quale apprendimento è diventato effettivamente riusabile. Pubblicare una clip o una release rimane una decisione separata.
+**Metodo operativo pubblico:** usa queste istruzioni con gli strumenti effettivi del tuo ambiente. Conserva immagine A generata e osservata, scena B modificabile e film esportato per poter riprendere e migliorare il lavoro.
 
 ## Perché è uno studio-lab e non una lista di applicazioni
 
@@ -20,7 +20,7 @@ Le postazioni sono **competenze attivabili quando pertinenti**, non undici passa
 | --- | --- | --- |
 | **Sorgente e concetto** — competenza del dominio/editoriale | Distingue fatto, interpretazione, ricostruzione e possibilità; individua soggetto, relazione, conseguenza e destinatario | Nucleo del film; ciò che può essere rappresentato senza inventare eventi |
 | **Direzione visiva** — composizione percettiva | Forma la domanda visiva e la grammatica di materia, attori, geometria, luce e profondità; non impone look già usati | Condizioni per l'immagine generata e per la gerarchia |
-| **Immagine A** — formazione generativa | Forma istruzioni source-bound, usa un vero generatore e osserva l'immagine; A è prima nel lavoro, non necessariamente `t=0` | Asset A accessibile, prompt/provenienza, comprensioni e ambiguità |
+| **Immagine A** — formazione generativa | Forma istruzioni ancorato alle fonti, usa un vero generatore e osserva l'immagine; A è prima nel lavoro, non necessariamente `t=0` | Asset A accessibile, prompt/provenienza, comprensioni e ambiguità |
 | **Attori e asset** — asset craft/continuità | Riconosce che cosa deve muoversi autonomamente, se servono pose, strati, sprite, rig o volumi reali; preserva identità e provenienza | Elementi realmente disponibili e relazione fra i loro gesti |
 | **Regia e storyboard** — competenza temporale | Distingue causa, successione, simultaneità, confronto e ritorno; rende visibile la trasformazione e gli istanti da comprendere | Scene, attenzione, cue e continuità di mondo/camera |
 | **Scena B e animazione** — programmazione del medium | Traduce il riferimento in scena editabile 2D/2.5D/3D, calcola stato/posa a un tempo T, gestisce asset e preview | Primo frame B codificato, scena e capacità di render |
@@ -30,23 +30,23 @@ Le postazioni sono **competenze attivabili quando pertinenti**, non undici passa
 | **Consegna e derivati** — produzione/canale | Rende adatte varianti, formati, sottotitoli e file editabili; riconosce quando 9:16 richiede nuova composizione | Uscita realmente accessibile nel canale selezionato |
 | **Apprendimento e continuità** — meta-competenza | Distingue il risultato da una correzione riusabile; fa tornare il sapere al metodo che deve agire diversamente | Capacità migliorata, caso aggiornato e ingresso per il lavoro successivo |
 
-## Correzione emersa dall'osservazione reale: animare A, non sovrapporvi un altro film
+## Animare il soggetto della reference
 
-In un primo film promo MKCV sono state prodotte vere immagini A e una clip 2.5D, ma il destinatario ha chiarito di volere **l'immagine A stessa che si anima**: personaggi, oggetti, ambiente, gesti e camera. Il film aveva invece utilizzato A prevalentemente come **sfondo per diagrammi codificati separatamente**. L'esercizio tecnico rimane reale, mentre il risultato espressivo è da migliorare.
+Chiarisci quale movimento è affidato: animare il personaggio e gli oggetti raffigurati nella reference, costruire un modello da quella figura oppure creare una scena nuova dal medesimo concetto. Le tre richieste possono richiedere asset e metodi differenti.
 
-Quando la richiesta è image-to-motion, la postazione di A deve formare/riconoscere un gesto **dentro l'immagine**. Code Medium può usare maschere, strati 2.5D, asset aggiuntivi coerenti, ricostruzione delle zone occluse, modello 3D reale se pertinente o un provider image-to-video quando effettivamente disponibile. Non inferire rig, retro o movimenti nascosti da un'immagine piatta. I diagrammi sovrapposti sono ammessi quando aiutano davvero, non sono un surrogato del movimento del soggetto.
+Quando la richiesta è image-to-motion, la postazione di A deve formare/riconoscere un gesto **dentro l'immagine**. la produzione tecnica può usare maschere, strati 2.5D, asset aggiuntivi coerenti, ricostruzione delle zone occluse, modello 3D reale se pertinente o un provider image-to-video quando effettivamente disponibile. Non inferire rig, retro o movimenti nascosti da un'immagine piatta. I diagrammi sovrapposti sono ammessi quando aiutano davvero, non sono un surrogato del movimento del soggetto.
 
-**Possibilità tecnologica, non dipendenza:** [Motion.so MCP](https://docs.motion.so/guides/mcp) permette a un agente connesso di creare/rivedere video, allegare media tramite upload e ricevere un filmato. Questo non dimostra la fedeltà dell'animazione dell'immagine di partenza. Il servizio richiede accesso account/OAuth e può consumare crediti; un file locale va caricato realmente. Il prodotto Motion presenta integrazioni social, ma gli strumenti MCP video documentati **non confermano una pubblicazione social diretta**. L'owner del canale e l'autorizzazione restano distinti.
+**Possibilità tecnologica, non dipendenza:** [Motion.so MCP](https://docs.motion.so/guides/mcp) permette a un agente connesso di creare/rivedere video, allegare media tramite upload e ricevere un filmato. Questo non dimostra la fedeltà dell'animazione dell'immagine di partenza. Il servizio richiede accesso account/OAuth e può consumare crediti; un file locale va caricato realmente. Il prodotto Motion presenta integrazioni social, ma gli strumenti MCP video documentati **non confermano una pubblicazione social diretta**. L'responsabile del canale e l'autorizzazione restano distinti.
 
-## Conoscenza esercitata — immagine A che diventa movimento (24 ottobre 2026)
+## Conservare identità e geometria nell’animazione 2.5D
 
-Un esperimento successivo al primo promo ha **animato la stessa immagine A**, senza aggiungere nuovi pannelli sopra la reference. Testa e braccio del personaggio illustrato sono stati estratti dalla sua immagine reale, con movimenti controllati da pivot; le zone scoperte sono state ricostruite come **ipotesi di sfondo**, mentre luce e camera hanno agito nello stesso mondo. MP4 da **9 s / 30 fps / 270 frame / H.264 + AAC** realmente decodificato. L'audio è sintetizzato da codice originale; nessuna dipendenza o codice altrui è stato trasferito.
+Per movimenti limitati puoi estrarre testa, braccio o altre parti pertinenti dalla reference, definirne maschere e pivot e ricostruire le zone che il moto rende visibili. Conserva la distinzione tra pixel originali e sfondo ricostruito. Luce e camera devono continuare a descrivere lo stesso ambiente.
 
-L'esercizio ha corretto il metodo in tre direzioni: **(1)** animare i pixel della A in 2.5D è possibile quando bastano viste e articolazioni limitate; **(2)** ricostruire un modello geometrico 3D a partire da A è un'altra capacità, ancora da esercitare, necessaria per camera libera e occlusioni reali; **(3)** una scena inventata interamente in codice non equivale automaticamente a «usa questa immagine e animala». L'animazione provata appartiene al **primo** caso, non al secondo o al terzo.
+Distingui tre modalità produttive: animare la stessa immagine con livelli 2.5D; costruire una geometria 3D dalla reference; creare una scena nuova interamente in codice. Il primo metodo serve movimenti e viste limitati. Per rotazioni libere, nuove superfici e occlusioni serve la geometria pertinente. Scegli attraverso il soggetto e l’effetto richiesto.
 
 Le competenze [cinetic](https://github.com/Leonxlnx/cinetic) e [img2threejs](https://github.com/img2threejs/img2threejs) forniscono sapere sul film diretto da un soggetto e sulla analisi di componenti/giunti/materiali rispetto ad una reference. [Remotion skills](https://github.com/remotion-dev/skills) rende esplicite le capacità di composizione, preview e render. Prendiamo **metodi**, non il codice, le palette o le norme stilistiche interne di questi progetti.
 
-**Limite osservato:** un tentativo di ricostruire le palpebre degradava il volto ed è stato escluso. I cartelli visibili nel film erano già presenti nel riferimento originale: non sono nuove grafica sovrapposte, ma nemmeno una scena priva di infografica. Per un diverso effetto cinematografico, può servire una nuova A o un altro modello, non un ulteriore diagramma davanti al soggetto. Una prova sul medesimo robot non equivale al comportamento assimilato in un caso non identico.
+Una ricostruzione delle palpebre o del volto può alterare l’identità del personaggio. Osserva la resa e scegli un gesto più piccolo quando conserva meglio il soggetto. I cartelli già presenti nella reference appartengono alla scena originale; nuovi pannelli o diagrammi aggiungono invece un altro livello di rappresentazione. Se serve un diverso linguaggio cinematografico, forma una nuova reference o un modello coerente.
 
 ## Come entrare operativamente
 

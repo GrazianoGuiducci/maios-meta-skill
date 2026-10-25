@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Form the capability that can build a cooperative system",
-    "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
+    "title": "Develop cooperation between people and AI assistants",
+    "subtitle": "Connect contributions and responsibilities and form the project capability that lets the group continue.",
     "kind": "Generative metacompetence",
     "domain": "Cooperation and system formation",
     "does": "Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.",
@@ -85,11 +85,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/form-cooperative-capability-from-sources/OPERATING_GUIDE.md"
+    "operating_guide": "skills/form-cooperative-capability-from-sources/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "Researchers and assistants work on a shared inquiry",
+      "situation": "Several researchers use different assistants to develop a shared inquiry. Claims, questions and reasons need to remain attributable while their contributions meet.",
+      "point": "Before choosing a platform, the group can form a method for connecting sources, recognizing differences and deciding how to continue. That knowledge can then guide a working guide, service or application."
+    }
   },
   "it": {
-    "title": "Formare la capacità che costruisce un sistema cooperativo",
-    "subtitle": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.",
+    "title": "Sviluppare la cooperazione fra persone e assistenti AI",
+    "subtitle": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare.",
     "kind": "Metacompetenza generativa",
     "domain": "Cooperazione e formazione di sistemi",
     "does": "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.",
@@ -132,7 +137,7 @@
       },
       {
         "title": "Il sapere complementare resta distinto",
-        "body": "La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli owner; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente."
+        "body": "La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli responsabili; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente."
       }
     ],
     "worked_examples": [
@@ -142,7 +147,7 @@
       },
       {
         "title": "Il sapere di manutenzione diventa capacità cooperativa",
-        "body": "Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio owner. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo."
+        "body": "Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabili. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo."
       },
       {
         "title": "Un kernel è un risultato significativo",
@@ -173,7 +178,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/form-cooperative-capability-from-sources/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/form-cooperative-capability-from-sources/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Ricercatori e assistenti lavorano sulla stessa indagine",
+      "situation": "Più ricercatori usano assistenti diversi e vogliono sviluppare una ricerca comune. Tesi, domande e ragioni devono restare attribuibili mentre i contributi si incontrano.",
+      "point": "Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi guidare una guida, un servizio o un’applicazione."
+    }
   },
   "showcase": {
     "type": "cooperation",

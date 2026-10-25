@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Form a project from a funded request",
-    "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",
+    "title": "Form projects from funded calls and requests",
+    "subtitle": "Understand the requested change, compose relevant capabilities and connect the project, beneficiaries and resources.",
     "kind": "Generative metacompetence",
     "domain": "Projects and enabling resources",
     "does": "Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs.",
@@ -93,11 +93,16 @@
         "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
       }
     ],
-    "operating_guide": "skills/funded-request-project-formation/OPERATING_GUIDE.md"
+    "operating_guide": "skills/funded-request-project-formation/OPERATING_GUIDE.md",
+    "reader_context": {
+      "title": "A research request becomes a concrete project",
+      "situation": "An organization offers resources to address a problem. The team needs to understand who benefits, what change is requested and what useful work its knowledge makes possible.",
+      "point": "The proposal takes shape where the request meets actual capabilities. Funding, requirements and the application become meaningful in relation to the project being formed."
+    }
   },
   "it": {
-    "title": "Formare un progetto da una richiesta finanziata",
-    "subtitle": "Comprendere il cambiamento richiesto e formare capacità, soluzione e progetto che possono rispondervi.",
+    "title": "Formare progetti da bandi e richieste finanziate",
+    "subtitle": "Comprendi il cambiamento richiesto, componi le capacità pertinenti e collega progetto, beneficiari e risorse.",
     "kind": "Metacompetenza generativa",
     "domain": "Progetti e risorse abilitanti",
     "does": "Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie.",
@@ -118,7 +123,7 @@
       },
       {
         "title": "Far incontrare la richiesta con il campo pertinente delle capacità",
-        "body": "Recupera prodotti, sapere acquisito, metodi sorgenti e capacità che possono cambiare la soluzione. La prima domanda del formulario non esaurisce il campo. Lascia che l’incontro cambi focus, scala o composizione conservando le determinazioni effettive. Una capacità presente può già fornire una risposta situata; un altro caso richiederà ricerca o un owner diverso."
+        "body": "Recupera prodotti, sapere acquisito, metodi sorgenti e capacità che possono cambiare la soluzione. La prima domanda del formulario non esaurisce il campo. Lascia che l’incontro cambi focus, scala o composizione conservando le determinazioni effettive. Una capacità presente può già fornire una risposta situata; un altro caso richiederà ricerca o un responsabile diverso."
       },
       {
         "title": "Formare la capacità che produce la soluzione",
@@ -140,7 +145,7 @@
     "knowledge": [
       {
         "title": "Un focus situato nello sviluppo continuo",
-        "body": "Un’organizzazione non deve ricreare la propria identità per ogni bando. Sapere e capacità in evoluzione incontrano un interesse esterno attraverso un focus situato. Il focus può produrre una capacità nuova e arricchire il progetto complessivo. Gli orizzonti temporali osservano possibilità; gli impegni reali prendono forma con gli owner economici e progettuali."
+        "body": "Un’organizzazione non deve ricreare la propria identità per ogni bando. Sapere e capacità in evoluzione incontrano un interesse esterno attraverso un focus situato. Il focus può produrre una capacità nuova e arricchire il progetto complessivo. Gli orizzonti temporali osservano possibilità; gli impegni reali prendono forma con i responsabili economici e progettuali."
       },
       {
         "title": "Una candidatura competente incontra il formulario reale",
@@ -168,7 +173,7 @@
     "depth": {
       "title": "La richiesta può cambiare come si formano i progetti",
       "paragraphs": [
-        "Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi owner."
+        "Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi responsabili."
       ]
     },
     "learning": [
@@ -189,7 +194,12 @@
         "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
       }
     ],
-    "operating_guide": "skills/funded-request-project-formation/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/funded-request-project-formation/GUIDA_OPERATIVA_IT.md",
+    "reader_context": {
+      "title": "Una richiesta di ricerca diventa un progetto concreto",
+      "situation": "Un ente offre risorse per affrontare un problema. Il gruppo deve capire chi ne beneficerà, quale cambiamento cerca l’ente e quale lavoro il proprio sapere rende possibile.",
+      "point": "La proposta prende forma dall’incontro fra richiesta e capacità effettive. Importo, requisiti e candidatura acquistano significato rispetto al progetto che si vuole realizzare."
+    }
   },
   "showcase": {
     "type": "funding",
