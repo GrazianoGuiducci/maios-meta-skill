@@ -1,0 +1,231 @@
+{
+  "en": {
+    "title": "Make a situation live through a scene",
+    "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
+    "kind": "Cinematic writing competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage.",
+    "when": "When an idea needs to become a filmic situation with actions, a point of view and meaningful change.",
+    "intro": [
+      "A scene makes something happen in a world. Its meaning can come from a gesture, discovery, choice, silence or a relationship that changes.",
+      "This first public method carries source-grounded cinematic knowledge and reciprocal collaboration. Its usefulness grows through actual writing and observation of the resulting scenes."
+    ],
+    "examples": [
+      "A robot notices something before it moves",
+      "A discovery can carry an explanatory film",
+      "Montage reveals an unintended accusation"
+    ],
+    "method": [
+      {
+        "title": "Find the situation and its status",
+        "body": "Understand the subject, author’s intent and what kind of representation is entrusted: observed documentation, reconstruction, allegory or invented fiction. Identify the world, point of view and what may change. Fiction can author intentions and an inner life; a technical film needs sources for claims about real people, systems and events. Let the situation determine its narrative form."
+      },
+      {
+        "title": "Distinguish a beat from a scene",
+        "body": "A beat can be one discovery or choice. A scene makes it possible under the conditions of a world: what actors or objects know, can do and encounter, and what the viewer can understand. Form the conditions, action and change before translating them into screen time. A physical activity becomes narrative action through its relationship to the situation."
+      },
+      {
+        "title": "Write what can become perceptible",
+        "body": "Develop a treatment, scenes, actions, words or meaningful silence to the depth needed. Preserve the difference between what a character knows and what the viewer knows. Dialogue, subtext and omission should make something happen, not explain what the image already supplies. Do not require an antagonist, three-act structure or advertising formula when the object calls for another form."
+      },
+      {
+        "title": "Let the other cinematic competences change the writing",
+        "body": "Give direction the narrative conditions and change; performance the action and any authored intention; montage the relations the viewer should discover. Their spatial, bodily and temporal findings can reform the scene. Keep authored meaning with writing and actual executable means with production. A code renderer receives events and states; it does not become the author by filling missing meaning with effects."
+      },
+      {
+        "title": "Keep continuity and learn from the scene",
+        "body": "Observe whether the written situation survives an image, performance or assembled sequence. Keep identities, world facts and relationships that materially affect what happens. A failed scene can change the question as well as the wording. Return reusable dramaturgical knowledge to this method and specific plot or production decisions to the work’s own guide."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Action is more than movement",
+        "body": "A hand can move without changing the scene. Reaching toward a sealed envelope can instead express hesitation, curiosity or a decision when the fiction provides those conditions. Connect activity, intention when authored and consequence. Stillness may carry the action. The writing need not prescribe exact camera paths, frame counts or rigs to preserve this relationship."
+      },
+      {
+        "title": "The same scene can teach the structure",
+        "body": "A fragment can reveal the larger story’s question, and a larger structure can reform the fragment. Use the smallest meaningful unit to discover that relationship. Keep a provisional treatment revisable while preserving decisions actually made by the author. A storyboard or rough reel can help observe a problem that prose alone concealed."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A robot notices something before it moves",
+        "body": "In a fictional workshop, a small robot pauses beside a fallen seedling. Moving its arm is an activity; recognizing that the plant needs support and choosing to lift the pot forms the scene. Write the discovery, decision and consequence without requiring a speech. Performance can make the pause and gaze readable; direction can reveal the plant at the right moment. In a documentary about a real robot, the same image would require a different account: visible motion alone cannot establish recognition or concern."
+      },
+      {
+        "title": "A discovery can carry an explanatory film",
+        "body": "A film explains why two independent project corrections should remain distinct. Instead of inventing a villain or conflict, write a person comparing two notes, seeing that they concern different owners and preserving both in the project. The narrative change is a discovery that changes the next action. A short treatment can suffice. The mechanism remains an illustrative explanation; a claim that the real system already made these decisions needs its own observed source."
+      },
+      {
+        "title": "Montage reveals an unintended accusation",
+        "body": "A screenplay places a machine failure near a worker’s departure, but the underlying report does not connect the events. The rough edit makes the worker appear responsible. Return to writing and the factual source, then change the scene relation, point of view or exposition. Smoother transitions would leave the false implication intact. The resulting correction improves how future documentary scenes preserve causal meaning."
+      }
+    ],
+    "depth": {
+      "title": "The scene can change how scenes are written",
+      "paragraphs": [
+        "A practical discovery about point of view or authored intention can improve both this screenplay and the method that forms the next one."
+      ]
+    },
+    "learning": [
+      "Preserve the author’s determinations; let observed consequences reform what remains open.",
+      "Keep narrative, perceptual, technical and project learning at their respective competences."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/cinematic-screenwriting/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Far vivere una situazione attraverso una scena",
+    "subtitle": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta.",
+    "kind": "Competenza di scrittura cinematografica",
+    "domain": "Cinema e narrazione",
+    "does": "Forma situazioni cinematografiche originali, treatment, scene e dialoghi, conservando autorialità e continuità causale con regia, interpretazione e montaggio.",
+    "when": "Quando un’idea deve diventare una situazione filmica con azioni, punto di vista e cambiamento significativo.",
+    "intro": [
+      "Una scena fa accadere qualcosa in un mondo. Il significato può nascere da gesto, scoperta, scelta, silenzio o relazione che cambia.",
+      "Questo primo metodo pubblico porta sapere cinematografico e collaborazione reciproca. La sua utilità cresce nella scrittura e nell’osservazione delle scene risultanti."
+    ],
+    "examples": [
+      "Un robot si accorge di qualcosa prima di muoversi",
+      "Una scoperta può portare un film esplicativo",
+      "Il montaggio rivela un’accusa involontaria"
+    ],
+    "method": [
+      {
+        "title": "Riconoscere situazione e statuto",
+        "body": "Comprendi soggetto, intento autoriale e statuto: documentazione osservata, ricostruzione, allegoria o fiction. Individua mondo, punto di vista e cambiamento possibile. La fiction può attribuire intenzioni e interiorità; un film tecnico richiede fonti per persone, sistemi ed eventi reali. La situazione determina la forma narrativa."
+      },
+      {
+        "title": "Distinguere un momento dalla scena",
+        "body": "Un beat può essere una scoperta o scelta. La scena la rende possibile nelle condizioni di un mondo: ciò che attori e oggetti conoscono, fanno e incontrano e ciò che lo spettatore comprende. Forma condizioni, azione e cambiamento prima di tradurli in tempo filmico. L’attività fisica diventa azione narrativa attraverso il rapporto con la situazione."
+      },
+      {
+        "title": "Scrivere ciò che può diventare percepibile",
+        "body": "Sviluppa treatment, scene, azioni, parole o silenzio alla profondità utile. Conserva la differenza fra sapere del personaggio e dello spettatore. Dialogo, sottotesto e omissione fanno accadere qualcosa, oltre a spiegare l’immagine. Non imporre antagonista, tre atti o formula pubblicitaria quando l’oggetto richiede un’altra forma."
+      },
+      {
+        "title": "Lasciare che le altre competenze cambino la scrittura",
+        "body": "Porta a regia condizioni e cambiamento narrativo; a interpretazione azione e intenzione autoriale; a montaggio le relazioni da scoprire. Le loro osservazioni spaziali, corporee e temporali possono riformare la scena. Scrittura conserva significato, produzione i mezzi eseguibili. Il renderer riceve eventi e stati senza riempire con effetti i significati mancanti."
+      },
+      {
+        "title": "Conservare continuità e imparare dalla scena",
+        "body": "Osserva se la situazione sopravvive a immagine, interpretazione o sequenza assemblata. Conserva identità, fatti del mondo e rapporti che cambiano ciò che accade. Una scena inefficace può cambiare la domanda insieme alle parole. Il sapere drammaturgico torna al metodo; trama e decisioni produttive alla guida dell’opera."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "L’azione è più del movimento",
+        "body": "Una mano può muoversi senza cambiare la scena. Raggiungere una busta chiusa può esprimere esitazione, curiosità o decisione se la fiction ne fornisce le condizioni. Collega attività, intenzione autoriale e conseguenza. Anche l’immobilità può portare l’azione. La scrittura conserva il rapporto senza prescrivere traiettorie di camera, fotogrammi o rig."
+      },
+      {
+        "title": "La scena può insegnare la struttura",
+        "body": "Un frammento può rivelare la domanda della storia; la struttura può riformare il frammento. Usa l’unità significativa più piccola per comprendere il rapporto. Il treatment resta rivedibile e conserva le decisioni reali dell’autore. Storyboard e reel provvisori possono rendere osservabile ciò che la prosa nascondeva."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Un robot si accorge di qualcosa prima di muoversi",
+        "body": "In un’officina di fantasia un piccolo robot si ferma accanto a una piantina caduta. Muovere il braccio è attività; riconoscere il bisogno e scegliere di rialzare il vaso forma la scena. Scrivi scoperta, decisione e conseguenza senza imporre un discorso. Interpretazione rende leggibili pausa e sguardo; regia rivela la pianta. Nel documentario su un robot reale l’immagine richiederebbe un altro racconto: il moto visibile non attesta riconoscimento o premura."
+      },
+      {
+        "title": "Una scoperta può portare un film esplicativo",
+        "body": "Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli owner diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata."
+      },
+      {
+        "title": "Il montaggio rivela un’accusa involontaria",
+        "body": "La sceneggiatura avvicina un guasto all’uscita di un operaio, ma il rapporto non collega gli eventi. Il primo montaggio fa apparire l’operaio responsabile. Torna alla scrittura e alla fonte, poi cambia rapporto fra scene, punto di vista o esposizione. Transizioni più fluide lascerebbero intatta l’implicazione falsa. La correzione migliora il modo di conservare causalità nei documentari successivi."
+      }
+    ],
+    "depth": {
+      "title": "La scena può cambiare come si scrivono le scene",
+      "paragraphs": [
+        "Una scoperta su punto di vista o intenzione autoriale migliora sia il copione sia il metodo che formerà il successivo."
+      ]
+    },
+    "learning": [
+      "Conserva le determinazioni dell’autore e lascia che le conseguenze osservate riformino ciò che resta aperto.",
+      "Conserva apprendimento narrativo, percettivo, tecnico e di progetto presso le rispettive competenze."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/cinematic-screenwriting/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "screenwriting",
+    "en": {
+      "title": "A gesture becomes a scene when something changes",
+      "states": [
+        [
+          "Activity",
+          "The arm moves",
+          "An isolated motion tells us little about what matters."
+        ],
+        [
+          "Action",
+          "The character notices the fallen plant",
+          "An authored situation gives the gesture a purpose."
+        ],
+        [
+          "Consequence",
+          "The plant stands again",
+          "A change connects the action to the next moment of the story."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Un gesto diventa scena quando qualcosa cambia",
+      "states": [
+        [
+          "Attività",
+          "Il braccio si muove",
+          "Il movimento isolato dice poco su ciò che conta."
+        ],
+        [
+          "Azione",
+          "Il personaggio nota la pianta caduta",
+          "La situazione autoriale dà uno scopo al gesto."
+        ],
+        [
+          "Conseguenza",
+          "La pianta torna in piedi",
+          "Un cambiamento collega l’azione al momento successivo della storia."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "dal-concetto-ai-media",
+    "dirigere-scene-cinematografiche",
+    "interpretare-personaggi-animati",
+    "comporre-montaggio-cinematografico"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

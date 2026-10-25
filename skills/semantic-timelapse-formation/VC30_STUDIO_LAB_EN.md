@@ -1,12 +1,12 @@
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **candidate 0.4.3** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **edition 0.1.0** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
 **MKCV** is the name of the reusable **Code Video mini-kernel**. **VC-30s** is a **short-film duration profile** and the history of the first examples, not a limit on the films MKCV may form. This is **one Studio-Lab**: its eleven specialist stations can compose different durations, visual subjects, 2.5D/3D, narration and formats whenever a case calls for them.
 
-**Public candidate status:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
+**Public operating method:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
 
 ## A production studio, not a software catalog
 

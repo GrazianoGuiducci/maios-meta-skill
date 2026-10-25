@@ -1,0 +1,69 @@
+{
+  "id": "comporre-montaggio-cinematografico",
+  "name": "Film Montage",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "41",
+  "native_entry": "film-montage",
+  "skill_name": "film-montage",
+  "source_title": "Film Montage",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/film-montage/SKILL.md",
+      "guide": "skills/film-montage/README.md",
+      "starter": "skills/film-montage/START_CHAT_EN.txt",
+      "examples": "skills/film-montage/EXAMPLES.md",
+      "operating_guide": "skills/film-montage/OPERATING_GUIDE.md",
+      "installation": "skills/film-montage/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/film-montage/SKILL_IT.md",
+      "guide": "skills/film-montage/README_IT.md",
+      "starter": "skills/film-montage/AVVIO_CHAT_IT.txt",
+      "examples": "skills/film-montage/ESEMPI_IT.md",
+      "operating_guide": "skills/film-montage/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/film-montage/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/film-montage/SKILL.md",
+  "guide": "skills/film-montage/README.md",
+  "starter": "skills/film-montage/START_CHAT_EN.txt",
+  "examples": "skills/film-montage/EXAMPLES.md",
+  "presentation": "skills/film-montage/presentation.json",
+  "package": "dist/film-montage-0.1.0.zip",
+  "en": {
+    "title": "Compose meaning between images",
+    "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",
+    "kind": "Temporal composition competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences.",
+    "when": "When individual shots work but their order, rhythm or sound changes the film’s meaning.",
+    "examples": [
+      "Changing order changes the discovery",
+      "A juxtaposition invents a cause",
+      "Sound opens the next space"
+    ],
+    "route": "/resources/comporre-montaggio-cinematografico/",
+    "description": "Order, duration, cuts and sound shape the relations a viewer can perceive."
+  },
+  "it": {
+    "title": "Comporre significato fra le immagini",
+    "subtitle": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce.",
+    "kind": "Competenza di composizione temporale",
+    "domain": "Cinema e narrazione",
+    "does": "Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena.",
+    "when": "Quando le singole inquadrature funzionano ma ordine, ritmo o suono cambiano il significato del film.",
+    "examples": [
+      "Cambiare ordine cambia la scoperta",
+      "Un accostamento inventa una causa",
+      "Il suono apre lo spazio successivo"
+    ],
+    "route": "/risorse/comporre-montaggio-cinematografico/",
+    "description": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce."
+  }
+}

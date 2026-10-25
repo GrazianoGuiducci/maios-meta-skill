@@ -1,21 +1,15 @@
-# Tre situazioni
+# Esempi sviluppati
 
-## Una competenza apprende da una correzione reale
-Usa il registro effettivo di una correzione. Genera A dalla sorgente, osserva se inventa una gerarchia, poi costruisci B con identità stabili. Anima il cambiamento documentato, non una crescita decorativa. Il sapere riusabile torna al proprio owner.
+Casi illustrativi da adattare.
 
-## Un concetto diventa una sequenza progettuale
-Il brief descrive uno stesso oggetto come schizzo e proposta successiva. Genera l'esempio A, poi codifica la scena e la trasformazione con elementi attribuiti. Se il finale suggerisce approvazione dove c'è soltanto proposta, correggilo.
+## Animare il mondo della reference
 
-## Un processo fisico documentato
-Usa osservazioni reali ordinate. Genera A come esempio, non come finta ripresa. Costruisci B e la sequenza dall'evidenza. Il generatore e il montaggio non autorizzano a inventare eventi o cause mancanti.
+Un’illustrazione generata mostra un robot vicino al tavolo. Il film affidato deve animare quel mondo: sovrapporre un diagramma nuovo produrrebbe un altro film. Osserva la reference, riconosci testa, braccio, oggetto e ambiente pertinenti e comprendi livelli, pivot o geometrie disponibili. Un’articolazione 2.5D contenuta può conservare l’identità meglio di un corpo 3D inventato. Se servono superfici nascoste, formale come ricostruzione esplicita o scegli un’altra vista. Il metodo segue il movimento realmente affidato.
 
-## Un personaggio illustrato e un oggetto che cambia
+## Un’altra relazione richiede un’altra geometria
 
-La fonte documenta un cambiamento in un oggetto di lavoro dopo un'azione dell'operatore. Forma A come illustrazione esplicativa con persona, oggetto e gesto pertinente, dichiarando lo statuto illustrativo. Osservala prima di scrivere B. Usa livelli, maschere o geometrie reali solo per i movimenti che il codice può ricostruire fedelmente. Il video non deve attribuire alla persona o all'AI altri passaggi mai documentati. Non scegliere 3D soltanto perché l'immagine mostra volume.
+Un film esplicativo mostra due correzioni indipendenti che tornano a competenze diverse. Un centro luminoso implicherebbe un controllore unico. Recupera la fonte e forma due percorsi distinguibili o un’altra geometria pertinente. Il tempo rende percepibili i cambiamenti senza farne fasi seriali. Il caso è una spiegazione illustrativa, non la registrazione di un agente. La correzione insegna come un oggetto nuovo può cambiare la grammatica rappresentativa.
 
-## Quando l'immagine A richiede parti mobili indipendenti
+## Un film, saperi cinematografici complementari
 
-La prima immagine generata A mostra un personaggio illustrato che tiene un oggetto. Definisce composizione e aspetto, ma non il rig nascosto né strati separati di mano e oggetto. Se il gesto richiede che una mano sollevi quell'oggetto, formare soltanto le parti coerenti necessarie e i loro punti di contatto prima di codificare B. Se non è possibile farlo con fedeltà, cambiare inquadratura e mantenere integra l'immagine. Il riferimento A rimane distinto dagli asset derivati; nessuno dei due è una ripresa effettiva di un evento.
-
-## Generatore mancante
-Il renderer in codice può creare B, ma non può affermare che A sia stata generata da un modello visivo. Recupera un vero riferimento o un generatore accessibile.
+Una scena autoriale mostra un piccolo robot che nota una pianta caduta e la aiuta. Scrittura forma scoperta e azione; regia la vista del nesso; interpretazione pausa e contatto; montaggio la scoperta dello spettatore. Il codice realizza livelli e tempo reali. Un reel può mostrare che la mano non raggiunge il vaso, restituendo la differenza a interpretazione e produzione. I contributi si cambiano attraverso un film comune; aprire processi agentici separati resta un altro effetto runtime.

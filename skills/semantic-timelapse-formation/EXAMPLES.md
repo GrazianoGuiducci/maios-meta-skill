@@ -1,21 +1,15 @@
-# Three situations
+# Worked examples
 
-## A competence learns from a real correction
-Use the actual record of a correction. Generate an initial reference A from the source, observe whether the image adds an unfounded hierarchy, then code B with stable identifiers. Animate the documented change, not merely decorative growth. Return the discovered visual or method difference to its owner.
+Illustrative cases for adaptation.
 
-## A concept becomes a design sequence
-The brief describes a recognisable object as a sketch and a later proposed design. Generate an initial example A, then code the scene and temporal change with source-bound elements. If the ending implies approval when only a proposal exists, correct it.
+## Animate the world in the reference
 
-## A documented physical process
-Use actual ordered observations. Generate A as a reference, not as purported footage. Build B and the sequence from the evidence. Neither the image generator nor the montage can legitimately invent missing events or their causes.
+A generated illustration shows a robot beside a worktable. The entrusted film asks that world to move. Adding a new overlay of boxes would make a different film. Observe the actual reference, identify the relevant head, arm, prop and environment, then determine which layers, pivots or geometry are available. A restrained 2.5D articulation may preserve identity better than an invented full 3D body. If hidden surfaces matter, form them as an explicit reconstruction or choose another view. The method follows the actual intended motion.
 
-## An illustrated character and an object change
+## A different relation asks for another geometry
 
-A source records a change in a work object after an operator action. Form A as an explanatory illustration of the scene, person, object and relevant gesture, with its illustrated status explicit. Observe it before coding B. Use editable layers, masks or real geometry for only those movements that can be faithfully reconstructed. The final motion must not suggest that a person or AI performed extra undocumented steps. Do not choose 3D merely because the illustration has volume.
+An explanatory film depicts two independent corrections returning to different project competences. A glowing central hub would falsely imply one controller. Recover the source and form two distinguishable returning paths or another adequate geometry. Time makes the two changes perceptible without making them serial phases. Label the case as an illustrative explanation rather than a recording of a real agent run. The design correction teaches how a new object can change the representation grammar.
 
-## When image A needs independently moving parts
+## One film, complementary cinematic knowledge
 
-The first image-generator output A depicts an illustrated character holding an object. It establishes composition and appearance, not the hidden rig or separate hand/object layers. If the action requires a hand to lift that object, generate or build only the required coherent parts and their contact relationships before coding B. If this cannot be done faithfully, change the shot so the existing image can remain whole. Keep the original generated reference distinct from later derived assets; neither is an actual recording of an event.
-
-## Missing image generator
-A code-only renderer can create B but cannot honestly claim to have produced A with an image model. Ask for an actual reference or use an accessible image generator.
+An authored scene shows a small robot noticing a fallen plant and helping it stand. Writing forms discovery and action; direction chooses a view that makes the relation visible; performance makes pause and contact readable; montage forms the viewer’s discovery. Code implements actual layers and time. A rough reel may reveal that the hand never reaches the pot, returning the difference to performance and production. The contributions can change one another through one film; opening a separate agent process is a different runtime effect.

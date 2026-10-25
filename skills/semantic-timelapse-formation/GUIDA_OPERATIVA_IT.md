@@ -32,3 +32,13 @@
 **Instradamento alle postazioni Studio-Lab.** Quando il video richiede comprensione della fonte, immagine A, personaggi/asset, 3D o sonoro oltre una semplice scena, usare [VC-30s Studio-Lab](VC30_STUDIO_LAB_IT.md) per raggiungere **solo le competenze specialistiche pertinenti**. Il movimento può tornare dal frame B al riferimento A o alla domanda editoriale; non prescrive una filiera di undici stazioni. Il fascicolo distingue accesso reale all'asset, generazione/osservazione, MP4 realmente codificato ed eventuale consegna autorizzata.
 
 **Mezzo tecnico.** Il codice pubblico d'esempio non è un generatore universale di timelapse semantici. Può esercitare il trasporto immagine esistente → frame in codice → MP4, ma il solo movimento di camera non rappresenta il soggetto.
+
+# MKCV — un film, competenze reciproche
+
+La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.
+
+Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cinematic Direction l’incontro percepibile con messa in scena, camera e luce. Character & Object Performance azione e reazione leggibili. Film Montage il rapporto fra immagini e suono. La produzione in codice costruisce e osserva il medium eseguibile effettivo.
+
+I kit pubblici sono disponibili separatamente nella stessa raccolta. Si compongono attraverso la guida comune del progetto senza API, framework, numero di agenti o ordine obbligatori. Il file deve raggiungere davvero il ricevente che lo usa. Diritti degli asset, consegna pubblica e azioni esterne mantengono autorità proprie.
+
+La sorgente di sviluppo riporta reference generate e clip 2.5D in codice esercitate nel proprio ricevente. Un nuovo film narrativo con tutte le specializzazioni composte resta un ulteriore uso da esercitare. La disponibilità pubblica di metodo e codice resta distinta da installazione e uso indipendente nel destinatario.

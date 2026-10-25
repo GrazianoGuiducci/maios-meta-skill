@@ -1,0 +1,69 @@
+{
+  "id": "presentare-sistemi-in-evoluzione",
+  "name": "MAIOS Presentation Competence",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "37",
+  "native_entry": "maios-presentation-competence",
+  "skill_name": "maios-presentation-competence",
+  "source_title": "MAIOS Presentation Competence",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/maios-presentation-competence/SKILL.md",
+      "guide": "skills/maios-presentation-competence/README.md",
+      "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
+      "examples": "skills/maios-presentation-competence/EXAMPLES.md",
+      "operating_guide": "skills/maios-presentation-competence/OPERATING_GUIDE.md",
+      "installation": "skills/maios-presentation-competence/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/maios-presentation-competence/SKILL_IT.md",
+      "guide": "skills/maios-presentation-competence/README_IT.md",
+      "starter": "skills/maios-presentation-competence/AVVIO_CHAT_IT.txt",
+      "examples": "skills/maios-presentation-competence/ESEMPI_IT.md",
+      "operating_guide": "skills/maios-presentation-competence/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/maios-presentation-competence/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/maios-presentation-competence/SKILL.md",
+  "guide": "skills/maios-presentation-competence/README.md",
+  "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
+  "examples": "skills/maios-presentation-competence/EXAMPLES.md",
+  "presentation": "skills/maios-presentation-competence/presentation.json",
+  "package": "dist/maios-presentation-competence-0.1.0.zip",
+  "en": {
+    "title": "Make an evolving system understandable",
+    "subtitle": "A recognizable first encounter, with the sources and depth needed to explore further.",
+    "kind": "Situated communication competence",
+    "domain": "Presentations and system understanding",
+    "does": "Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.",
+    "when": "When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve.",
+    "examples": [
+      "A first encounter with MAIOS",
+      "One system, different useful entrances",
+      "A diagram reveals a conceptual error"
+    ],
+    "route": "/resources/presentare-sistemi-in-evoluzione/",
+    "description": "A recognizable first encounter, with the sources and depth needed to explore further."
+  },
+  "it": {
+    "title": "Rendere comprensibile un sistema che evolve",
+    "subtitle": "Un primo incontro riconoscibile, con le fonti e la profondità per proseguire.",
+    "kind": "Competenza comunicativa situata",
+    "domain": "Presentazioni e comprensione dei sistemi",
+    "does": "Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario.",
+    "when": "Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono.",
+    "examples": [
+      "Un primo incontro con MAIOS",
+      "Uno stesso sistema, ingressi utili differenti",
+      "Un diagramma rivela un errore concettuale"
+    ],
+    "route": "/risorse/presentare-sistemi-in-evoluzione/",
+    "description": "Un primo incontro riconoscibile, con le fonti e la profondità per proseguire."
+  }
+}

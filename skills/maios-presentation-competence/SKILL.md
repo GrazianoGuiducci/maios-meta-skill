@@ -1,0 +1,51 @@
+---
+name: maios-presentation-competence
+description: Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation. When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve.
+---
+
+# MAIOS Presentation Competence
+
+Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.
+
+This method was developed through MAIOS presentations and its System Map. It connects what a system is, how it works, why that matters and how someone can encounter its capabilities. With another system, supply that system’s actual sources and responsible competences.
+
+A presentation is a situated expression of the system’s knowledge. The first explanation can be brief while deeper relations remain reachable.
+
+## Recover the system behind the latest artifact
+
+Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including its ability to form further competences. Preserve the distinct status of source, illustration and observed result.
+
+
+## Form the encounter with the receiver
+
+Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label.
+
+
+## Compose meaning and visible form together
+
+Work backward from the understanding the receiver should be able to form to the premises that make it possible. Compose words, visual objects, spatial relations and interaction together. A map’s center can imply authority; arrows can imply causation; an animation can imply a real timeline. Let those implications match the source instead of asking a caption to repair a misleading image.
+
+
+## Keep orientation and depth connected
+
+Provide a first relation the person can understand in the visible unit, then allow deeper explanation, source knowledge or an actual example to be reached. Choose navigation and timing according to the encounter. A public page, presenter’s map and conversation can share knowledge while serving different functions. Preserve the person’s focus when changing depth; let them explore and return.
+
+
+## Use authentic work where it makes the capability visible
+
+A short attributed excerpt, artifact or real correction can open the system’s depth. Keep its source and the actual consequence reachable. Distinguish the words expressed from proof of an internal process or later assimilation. An illustrative case can instead teach a mechanism, with its illustrative status clear. Choose the form that best preserves the useful relation.
+
+
+## Let the encounter improve the presenting competence
+
+A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to Design. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
+
+## Continue through the actual project
+
+Preserve the relation between first encounter and deeper sources; a short page can carry that access.
+
+A new question may change the concept, visual form or medium; update only the dependent representations.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.

@@ -1,45 +1,55 @@
 {
   "en": {
-    "title": "Create timelapses from an image-generated reference",
+    "title": "From a generated reference to a code-built film",
     "kind": "Generative media competence",
     "domain": "Visual creation",
-    "does": "Generates a visual reference before constructing an editable coded first frame and meaningful short animation.",
-    "when": "When coding a first frame would otherwise rely on an imagined picture rather than an observed generated image.",
+    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
+    "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
     "examples": [
-      "Explain a documented competence result.",
-      "Animate a source-bound design change.",
-      "Show a recorded process without inventing stages."
+      "Animate the world in the reference",
+      "A different relation asks for another geometry",
+      "One film, complementary cinematic knowledge"
     ],
     "route": "/resources/creare-timelapse-semantici/",
     "description": "Use an image generator before coding a 30-second visual sequence.",
-    "subtitle": "Use an image generator before coding a 30-second visual sequence.",
+    "subtitle": "Connect source knowledge, an observed visual reference, an editable scene and meaningful time.",
     "intro": [
-      "First observe a generated image A, then code B; image-generation and RAM optimisation are different functions."
+      "A real generated image A provides a reference to observe before constructing an editable scene B. The coded scene has its own first frame and can animate the world shown in A when that is the actual intent.",
+      "MKCV is the general production capability. VC-30s is one duration profile; the same situated studio can serve other films. The supplied Python example is a limited reference-image renderer, while the method can compose more capable production means."
     ],
     "method": [
       {
-        "title": "Understand the object",
-        "body": "Use the source and intent to form the visual question."
+        "title": "Understand what the film makes perceptible",
+        "body": "Recover intent, source meaning, subject and the distinction between observed event, reconstruction, fiction and possibility. Form the visual question from that knowledge. A source can change the geometry and temporal grammar; an inherited node diagram or camera move does not define the subject."
       },
       {
-        "title": "Generate A",
-        "body": "Use an actual image generator and inspect its result."
+        "title": "Generate and observe image A",
+        "body": "Use an actual image generator to produce the reference, then inspect it. Recognize useful visual properties and any invented hierarchy or causality. Let that observation reform the instructions and understanding. A is a real generated image; a code-rendered first frame has a different role."
       },
       {
-        "title": "Code B",
-        "body": "Build editable geometry or use the reference as an asset."
+        "title": "Construct an editable scene B",
+        "body": "Make the observed reference reachable to the actual production receiver. Form the assets, layers, pivots, geometry or other representation the intended motion needs. Distinguish animated reference pixels, a model built from a reference and a new scene from the concept. The reference need not depict the film’s opening frame."
       },
       {
-        "title": "Animate and learn",
-        "body": "Use explicit time, inspect meaningful moments and return reusable learning."
+        "title": "Compose the film through its real disciplines",
+        "body": "Writing, direction, performance, storyboard, montage, code, sound and delivery can contribute to the same film when their knowledge changes it. They can call one another while the work forms. The eleven studio stations are conditional capabilities, not a compulsory route or an installed software suite."
+      },
+      {
+        "title": "Use explicit time and observe the actual result",
+        "body": "Choose the meaningful changes, identity that persists, duration and actual export. A seekable frame(t) supports reproducible inspection; a real-time update loop is a different contract. Observe first frame, significant moments and encoded film. The apparent order must preserve the source relation. Streaming frames limits memory use independently of why A was generated."
+      },
+      {
+        "title": "Return learning to the responsible capability",
+        "body": "An observed image, frame or film can change source understanding, visual grammar, writing or technical construction. Return the reusable difference to the competence that must act differently. Keep editable source and reasons. Later non-identical use can deepen the method without claiming that depicted growth is real model learning."
       }
     ],
-    "depth": [
-      {
-        "title": "Distinct origins",
-        "body": "The image generator produces A; render(t=0) creates B, and neither proves unobserved cognition."
-      }
-    ],
+    "depth": {
+      "title": "The film can change the method that makes films",
+      "paragraphs": [
+        "An image can expose a semantic error; coding can reveal missing animable parts; montage can create an unsupported causal implication. Correcting the common source relation can improve both the actual film and the way future productions are formed.",
+        "The general MKCV studio retains one film and distinct competent owners. The public method, supplied renderer and a recipient’s actual production keep different scopes."
+      ]
+    },
     "use": [
       {
         "title": "In chat",
@@ -50,50 +60,63 @@
         "body": "Use native image and coding tools."
       }
     ],
-    "learning": "The corrected image-first method is documented; independent exercise remains unobserved.",
+    "learning": [
+      "Keep source interpretation, production learning and the receiving case attributable. A new rendered illustration does not by itself establish a new runtime capability.",
+      "Carry reusable method improvements into the public operating knowledge and its actual dependent presentations."
+    ],
     "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md"
   },
   "it": {
-    "title": "Creare timelapse da un'immagine di riferimento generata",
+    "title": "Da una reference generata a un film in codice",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
-    "does": "Genera un riferimento prima di costruire il primo frame editabile in codice e una breve animazione significativa.",
-    "when": "Quando serve vedere un esempio prima di progettare la prima scena in codice.",
+    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
+    "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
     "examples": [
-      "Spiega una risultante documentata.",
-      "Anima un cambiamento progettuale.",
-      "Rappresenta un processo osservato senza inventare fasi."
+      "Animare il mondo della reference",
+      "Un’altra relazione richiede un’altra geometria",
+      "Un film, saperi cinematografici complementari"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
-    "subtitle": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
+    "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo.",
     "intro": [
-      "Prima osserva A generata, poi codifica B. La memoria visiva e la RAM sono funzioni diverse."
+      "Un’immagine A realmente generata offre un riferimento da osservare prima di costruire la scena modificabile B. La scena ha un proprio primo frame e anima il mondo raffigurato in A quando questo è l’intento effettivo.",
+      "MKCV è la capacità produttiva generale. VC-30s è un profilo di durata: lo stesso studio situato serve film differenti. L’esempio Python fornito è un renderer limitato da reference; il metodo compone mezzi produttivi più ampi."
     ],
     "method": [
       {
-        "title": "Comprendere",
-        "body": "Forma la domanda visiva da fonte e intento."
+        "title": "Comprendere ciò che il film rende percepibile",
+        "body": "Recupera intento, significato, soggetto e distinzione fra evento osservato, ricostruzione, fiction e possibilità. Forma la domanda visiva da quel sapere. La fonte può cambiare geometria e grammatica temporale: diagramma o moto di camera ereditati non definiscono il soggetto."
       },
       {
-        "title": "Generare A",
-        "body": "Usa un vero generatore e osserva il risultato."
+        "title": "Generare e osservare l’immagine A",
+        "body": "Usa un generatore reale e osserva il risultato. Riconosci proprietà visive utili e gerarchie o causalità inventate. L’osservazione può riformare istruzioni e comprensione. A è un’immagine generata effettiva; il primo frame renderizzato in codice ha un’altra funzione."
       },
       {
-        "title": "Codificare B",
-        "body": "Costruisci la scena editabile dal riferimento."
+        "title": "Costruire la scena modificabile B",
+        "body": "Rendi la reference osservata raggiungibile al ricevente produttivo. Forma asset, livelli, pivot, geometrie o rappresentazioni necessari al movimento. Distingui pixel della reference animati, modello costruito dalla reference e scena nuova dal concetto. Il riferimento può raffigurare un momento diverso dall’apertura del film."
       },
       {
-        "title": "Animare e apprendere",
-        "body": "Usa il tempo esplicito, osserva e restituisci sapere riusabile."
+        "title": "Comporre il film con le competenze effettive",
+        "body": "Scrittura, regia, interpretazione, storyboard, montaggio, codice, suono e consegna partecipano quando cambiano il film. Si richiamano mentre il lavoro si forma. Le undici postazioni sono capacità condizionali, oltre un percorso obbligatorio o una suite installata."
+      },
+      {
+        "title": "Usare tempo esplicito e osservare il risultato",
+        "body": "Scegli cambiamenti significativi, identità persistente, durata ed esportazione reale. Un frame(t) esplorabile rende riproducibile l’osservazione; l’aggiornamento in tempo reale ha un altro contratto. Guarda primo frame, momenti significativi e film codificato. L’ordine apparente conserva il nesso sorgente. Lo streaming limita la RAM, con funzione distinta dalla generazione di A."
+      },
+      {
+        "title": "Restituire il sapere alla capacità pertinente",
+        "body": "Immagine, frame o film osservati possono cambiare comprensione, grammatica visiva, scrittura o costruzione tecnica. La differenza riusabile torna alla competenza che deve agire diversamente. Conserva sorgente editabile e ragioni. Un altro caso approfondisce il metodo senza attribuire alla crescita disegnata un apprendimento reale del modello."
       }
     ],
-    "depth": [
-      {
-        "title": "Origini distinte",
-        "body": "A viene dal generatore; B da render(t=0). Nessuno prova stati cognitivi non osservati."
-      }
-    ],
+    "depth": {
+      "title": "Il film può cambiare il metodo che crea film",
+      "paragraphs": [
+        "Un’immagine espone un errore semantico; il codice rende visibili parti animabili mancanti; il montaggio suggerisce una causalità priva di fonte. Correggere il significato comune migliora sia il film sia la formazione delle produzioni future.",
+        "Lo studio MKCV conserva un film e owner competenti distinti. Metodo pubblico, renderer fornito e produzione effettiva del destinatario mantengono portate differenti."
+      ]
+    },
     "use": [
       {
         "title": "In chat",
@@ -104,7 +127,60 @@
         "body": "Usa strumenti nativi realmente disponibili."
       }
     ],
-    "learning": "Il metodo corretto è descritto; il suo esercizio indipendente resta non osservato.",
+    "learning": [
+      "Mantieni attribuiti interpretazione sorgente, apprendimento produttivo e caso ricevente. Un’illustrazione renderizzata non attesta da sola una nuova capacità runtime.",
+      "Porta i miglioramenti riusabili nel sapere pubblico e nelle presentazioni che ne dipendono effettivamente."
+    ],
     "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md"
-  }
+  },
+  "showcase": {
+    "type": "timelapse",
+    "en": {
+      "title": "Different origins, one coherent film",
+      "states": [
+        [
+          "Reference A",
+          "Generate and observe",
+          "The visual reference is produced by an actual image generator."
+        ],
+        [
+          "Scene B",
+          "Build an editable world",
+          "Assets, geometry and time make the intended change constructible."
+        ],
+        [
+          "Film",
+          "Let the world move meaningfully",
+          "Writing, direction, performance and montage contribute when they change the film."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Origini diverse, un film coerente",
+      "states": [
+        [
+          "Reference A",
+          "Generare e osservare",
+          "Il riferimento visivo viene prodotto da un generatore di immagini reale."
+        ],
+        [
+          "Scena B",
+          "Costruire un mondo modificabile",
+          "Asset, geometria e tempo rendono costruibile il cambiamento."
+        ],
+        [
+          "Film",
+          "Far muovere il mondo con significato",
+          "Scrittura, regia, interpretazione e montaggio partecipano quando cambiano il film."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "scrivere-storie-per-il-cinema",
+    "dirigere-scene-cinematografiche",
+    "interpretare-personaggi-animati",
+    "comporre-montaggio-cinematografico",
+    "dal-concetto-ai-media"
+  ]
 }

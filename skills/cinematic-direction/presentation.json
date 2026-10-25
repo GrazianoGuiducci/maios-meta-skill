@@ -1,0 +1,222 @@
+{
+  "en": {
+    "title": "Direct what the viewer can discover",
+    "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",
+    "kind": "Cinematic design competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage.",
+    "when": "When the way a scene is shown changes what the viewer understands or experiences.",
+    "intro": [
+      "Direction connects a subject and its actions to a perceptible world. What is shown, hidden, near, distant or held in time can change the scene.",
+      "It composes with writing, performance and montage while production constructs the actual camera, assets and renderer."
+    ],
+    "examples": [
+      "A plant changes the framing",
+      "A rough world reveals an impossible shot",
+      "Stillness becomes the directing choice"
+    ],
+    "method": [
+      {
+        "title": "Understand the scene’s actual relation",
+        "body": "Recover subject, source status, narrative conditions and the change that matters. A fiction, documentary, demo or contemplative film can call for different attention. Preserve what the author has determined while letting a perceptual observation reform a proposal. A visually attractive camera move should remain connected to the subject it helps the viewer encounter."
+      },
+      {
+        "title": "Form a world through staging and viewpoint",
+        "body": "Compose the actors or objects, their distances, environment, primary action and viewer position. Consider what the camera can see, what remains offscreen and how light and materials guide attention. Lens, axis, eyeline and depth are tools for orientation or a meaningful change of it. They are choices in a scene rather than universal prescriptions."
+      },
+      {
+        "title": "Use previsualization when it changes the decision",
+        "body": "A storyboard, rough reel or light 3D scene can reveal whether spatial relations, movement and cuts work before final assets are built. Choose the smallest medium that can expose the question. A reference image may omit hidden surfaces or practical camera room; keep reconstruction identifiable and let production contribute real limitations and possibilities."
+      },
+      {
+        "title": "Compose with action, performance and edit",
+        "body": "Discuss what the gesture must communicate with performance and what the viewer can discover with writing and montage. A framing can hide a meaningful contact; a cut can reveal the wrong moment. Return the difference to the responsible competence and recompose the same scene. The contribution can be a staging note or a new viewpoint rather than a complete production plan."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Camera movement has a perceptual reason",
+        "body": "A reveal can connect an actor to a previously unseen object; a held frame can let a small change become legible. Camera movement should serve the relation rather than fill every interval. A technical orbit around a model demonstrates a camera capability; it becomes direction when its relationship to the scene is understood and formed."
+      },
+      {
+        "title": "Perceptual and technical decisions meet",
+        "body": "Describe the intended visible relation, then compose with actual geometry, camera and render means. A renderer parameter is not by itself a directing choice. If a desired viewpoint needs geometry that is not present, acquire or form the necessary asset, choose a different view or retain the missing capability precisely. The scene’s meaning can change through this encounter."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A plant changes the framing",
+        "body": "A fictional character reaches toward a small pot at the edge of the frame. In the wide shot the gesture looks arbitrary; a closer view reveals the falling stem and the hand’s support. Choose the viewpoint that lets the viewer discover that relation. Performance can refine contact and timing. The change is not a rule to use close-ups: another scene may need the surrounding workshop to explain the gesture. Keep the reason so a later scene can choose differently."
+      },
+      {
+        "title": "A rough world reveals an impossible shot",
+        "body": "A proposed camera passes behind an object supplied only as a flat image. A rough scene makes the unseen geometry problem visible before expensive rendering. Direction and production can instead use a restrained lateral move, obtain another consistent reference or model the necessary surface as an explicit reconstruction. The decision preserves subject identity and the intended reveal. It does not claim that a single image supplied a complete 3D world."
+      },
+      {
+        "title": "Stillness becomes the directing choice",
+        "body": "A scene asks the viewer to notice that an empty chair remains after a conversation. Adding an orbit would shift attention to camera technique. Hold the frame and let the duration reveal absence. Montage tests when the scene should end, while writing preserves what that absence means in the story. The same apparatus could move in another scene; the learned relation concerns attention and consequence, not a fixed visual style."
+      }
+    ],
+    "depth": {
+      "title": "The observed frame can change the directing method",
+      "paragraphs": [
+        "A perceptual discovery can refine how the next scene is approached, while technical camera learning remains with the production medium."
+      ]
+    },
+    "learning": [
+      "Keep source meaning and the reason for staging together in the film’s guide.",
+      "Let writing, performance and montage return differences while the scene is still forming."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/cinematic-direction/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Dirigere ciò che lo spettatore può scoprire",
+    "subtitle": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena.",
+    "kind": "Competenza di Design cinematografico",
+    "domain": "Cinema e narrazione",
+    "does": "Forma l’esperienza cinematografica di una scena attraverso messa in scena, punto di vista, camera, luce e relazione con interpretazione e montaggio.",
+    "when": "Quando il modo di mostrare una scena cambia ciò che lo spettatore comprende o vive.",
+    "intro": [
+      "La regia collega soggetto e azioni a un mondo percepibile. Visibile e fuori campo, distanza, vicinanza e durata possono cambiare la scena.",
+      "Si compone con scrittura, interpretazione e montaggio mentre la produzione costruisce camera, asset e renderer effettivi."
+    ],
+    "examples": [
+      "Una pianta cambia l’inquadratura",
+      "Un mondo provvisorio rivela una ripresa impossibile",
+      "L’immobilità diventa scelta di regia"
+    ],
+    "method": [
+      {
+        "title": "Comprendere la relazione effettiva della scena",
+        "body": "Recupera soggetto, statuto, condizioni narrative e cambiamento rilevante. Fiction, documentario, demo o film contemplativo possono richiedere attenzioni differenti. Conserva le determinazioni dell’autore lasciando che un’osservazione percettiva riformi la proposta. Il movimento di camera resta collegato al soggetto che aiuta a incontrare."
+      },
+      {
+        "title": "Formare un mondo con messa in scena e punto di vista",
+        "body": "Componi attori od oggetti, distanze, ambiente, azione primaria e posizione dello spettatore. Considera ciò che la camera vede, il fuori campo e come luce e materiali guidano l’attenzione. Ottica, asse, sguardo e profondità servono orientamento o sua trasformazione significativa: sono scelte della scena, oltre prescrizioni universali."
+      },
+      {
+        "title": "Usare la previsualizzazione quando cambia la scelta",
+        "body": "Storyboard, reel grezzo o scena 3D leggera mostrano se spazio, movimento e raccordi funzionano prima degli asset finali. Scegli il mezzo minimo che espone la domanda. Una reference può omettere superfici e spazio di camera; rendi riconoscibile la ricostruzione e lascia partecipare possibilità e limiti produttivi reali."
+      },
+      {
+        "title": "Comporre azione, interpretazione e montaggio",
+        "body": "Comprendi con interpretazione ciò che il gesto comunica e con scrittura e montaggio ciò che si scopre. Un’inquadratura può nascondere un contatto; un taglio rivelare il momento sbagliato. La differenza torna alla competenza pertinente nella stessa scena. Può bastare una nota di messa in scena o un nuovo punto di vista."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Il movimento di camera ha una ragione percettiva",
+        "body": "Una rivelazione collega l’attore a un oggetto prima invisibile; un quadro fermo lascia leggere un piccolo cambiamento. Il moto della camera serve il rapporto oltre a riempire intervalli. Un’orbita tecnica dimostra una capacità di camera; diventa regia quando viene compresa e formata la sua relazione con la scena."
+      },
+      {
+        "title": "Scelte percettive e tecniche si incontrano",
+        "body": "Descrivi il rapporto visibile desiderato e componilo con geometria, camera e render reali. Un parametro del renderer non è da solo una scelta registica. Se il punto di vista richiede geometria assente, forma l’asset, scegli un’altra vista o conserva precisamente la capacità mancante. L’incontro può cambiare il significato della scena."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Una pianta cambia l’inquadratura",
+        "body": "Un personaggio raggiunge un vaso al margine del quadro. Nel campo largo il gesto sembra arbitrario; una vista vicina rivela lo stelo piegato e la mano che sostiene. Scegli il punto di vista che rende scopribile il nesso. Interpretazione affina contatto e tempo. Non diventa una regola sui primi piani: un’altra scena richiederà l’officina intorno. Conserva la ragione perché il caso successivo possa scegliere diversamente."
+      },
+      {
+        "title": "Un mondo provvisorio rivela una ripresa impossibile",
+        "body": "Una camera proposta passa dietro un oggetto fornito come immagine piatta. La scena provvisoria rende visibile il problema prima del render costoso. Regia e produzione possono scegliere un movimento laterale, ottenere una reference coerente o modellare la superficie come ricostruzione esplicita. La scelta conserva identità e rivelazione desiderata senza attribuire alla singola immagine un mondo 3D completo."
+      },
+      {
+        "title": "L’immobilità diventa scelta di regia",
+        "body": "La scena chiede di notare una sedia vuota dopo una conversazione. Un’orbita sposterebbe l’attenzione sulla tecnica. Mantieni il quadro e lascia che la durata renda percepibile l’assenza. Montaggio comprende quando uscire; scrittura conserva il significato nella storia. La stessa camera può muoversi altrove: il sapere riguarda attenzione e conseguenza, oltre uno stile fisso."
+      }
+    ],
+    "depth": {
+      "title": "Il quadro osservato può cambiare il metodo di regia",
+      "paragraphs": [
+        "Una scoperta percettiva affina come affrontare la scena successiva; l’apprendimento tecnico della camera resta al medium produttivo."
+      ]
+    },
+    "learning": [
+      "Conserva insieme significato sorgente e ragione della messa in scena nella guida del film.",
+      "Lascia che scrittura, interpretazione e montaggio restituiscano differenze mentre la scena si forma."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/cinematic-direction/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "direction",
+    "en": {
+      "title": "The same world, a different discovery",
+      "states": [
+        [
+          "Wide",
+          "The situation",
+          "The actor, plant and workspace belong to one world."
+        ],
+        [
+          "Closer",
+          "The meaningful relation",
+          "The viewer can see the hand supporting the falling plant."
+        ],
+        [
+          "Hold",
+          "Attention has time",
+          "A held view lets a small change become readable."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Lo stesso mondo, una scoperta diversa",
+      "states": [
+        [
+          "Campo largo",
+          "La situazione",
+          "Attore, pianta e spazio di lavoro appartengono allo stesso mondo."
+        ],
+        [
+          "Vista vicina",
+          "La relazione significativa",
+          "Si vede la mano che sostiene la pianta piegata."
+        ],
+        [
+          "Quadro fermo",
+          "Il tempo dell’attenzione",
+          "Una vista mantenuta lascia leggere il piccolo cambiamento."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "scrivere-storie-per-il-cinema",
+    "interpretare-personaggi-animati",
+    "comporre-montaggio-cinematografico"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

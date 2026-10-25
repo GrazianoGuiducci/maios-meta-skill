@@ -1,0 +1,69 @@
+{
+  "id": "scrivere-storie-per-il-cinema",
+  "name": "Cinematic Screenwriting",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "38",
+  "native_entry": "cinematic-screenwriting",
+  "skill_name": "cinematic-screenwriting",
+  "source_title": "Cinematic Screenwriting",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/cinematic-screenwriting/SKILL.md",
+      "guide": "skills/cinematic-screenwriting/README.md",
+      "starter": "skills/cinematic-screenwriting/START_CHAT_EN.txt",
+      "examples": "skills/cinematic-screenwriting/EXAMPLES.md",
+      "operating_guide": "skills/cinematic-screenwriting/OPERATING_GUIDE.md",
+      "installation": "skills/cinematic-screenwriting/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/cinematic-screenwriting/SKILL_IT.md",
+      "guide": "skills/cinematic-screenwriting/README_IT.md",
+      "starter": "skills/cinematic-screenwriting/AVVIO_CHAT_IT.txt",
+      "examples": "skills/cinematic-screenwriting/ESEMPI_IT.md",
+      "operating_guide": "skills/cinematic-screenwriting/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/cinematic-screenwriting/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/cinematic-screenwriting/SKILL.md",
+  "guide": "skills/cinematic-screenwriting/README.md",
+  "starter": "skills/cinematic-screenwriting/START_CHAT_EN.txt",
+  "examples": "skills/cinematic-screenwriting/EXAMPLES.md",
+  "presentation": "skills/cinematic-screenwriting/presentation.json",
+  "package": "dist/cinematic-screenwriting-0.1.0.zip",
+  "en": {
+    "title": "Make a situation live through a scene",
+    "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
+    "kind": "Cinematic writing competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage.",
+    "when": "When an idea needs to become a filmic situation with actions, a point of view and meaningful change.",
+    "examples": [
+      "A robot notices something before it moves",
+      "A discovery can carry an explanatory film",
+      "Montage reveals an unintended accusation"
+    ],
+    "route": "/resources/scrivere-storie-per-il-cinema/",
+    "description": "Actions, choices and consequences form a story that can be seen and heard."
+  },
+  "it": {
+    "title": "Far vivere una situazione attraverso una scena",
+    "subtitle": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta.",
+    "kind": "Competenza di scrittura cinematografica",
+    "domain": "Cinema e narrazione",
+    "does": "Forma situazioni cinematografiche originali, treatment, scene e dialoghi, conservando autorialità e continuità causale con regia, interpretazione e montaggio.",
+    "when": "Quando un’idea deve diventare una situazione filmica con azioni, punto di vista e cambiamento significativo.",
+    "examples": [
+      "Un robot si accorge di qualcosa prima di muoversi",
+      "Una scoperta può portare un film esplicativo",
+      "Il montaggio rivela un’accusa involontaria"
+    ],
+    "route": "/risorse/scrivere-storie-per-il-cinema/",
+    "description": "Azioni, scelte e conseguenze formano una storia che si vede e si ascolta."
+  }
+}

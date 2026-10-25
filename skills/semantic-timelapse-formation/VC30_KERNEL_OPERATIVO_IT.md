@@ -1,6 +1,6 @@
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-**Stato:** candidata 0.4.3, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
+**Stato:** edizione pubblica 0.1.0, sapere metodologico disponibile, non runtime autonomo né generatore installato. È un **mini-kernel di composizione competente** dentro Semantic Timelapse Formation, non un nuovo kernel assiomatico, una sequenza obbligatoria di fasi o un controllore di pubblicazione. Il film breve (circa 30 secondi quando selezionato) è l'oggetto che mantiene connessi progettazione visiva, codice, sonoro e apprendimento.
 
 **Identità attuale:** la competenza generale si chiama **MKCV — Mini Kernel Code Video**; questo testo conserva il profilo originario `VC-30s` e conduce al [medesimo Studio-Lab](VC30_STUDIO_LAB_IT.md). MKCV non prescrive una durata, un formato o undici fasi fisse. Il completamento produttivo resta distinto dalla descrizione metodologica.
 
@@ -100,6 +100,6 @@ Se audio e didascalie sono utili, cue e parole derivano dalla stessa timeline. A
 
 Un'immagine può introdurre una gerarchia inesistente; un personaggio può perdere identità cambiando orientamento; un'animazione HTML può non supportare seek; un suono può suggerire causalità non presente. La differenza torna alla competenza che dovrà comportarsi diversamente: comprensione della fonte, prompt, Design, codice, sonoro o ricevente. Sapere esistente non richiamato richiede migliore discovery, non un doppione. Un filmato esportato non cambia i pesi del modello né installa strumenti.
 
-**Ancora non esercitato nel candidato pubblico:** percorso completo A generata→osservata→B con personaggi/oggetti→video, nuovo render 3D, provider audio, pubblicazione. Il mini-kernel rende queste capacità **raggiungibili**, non automaticamente attive.
+**Uso nel destinatario pubblico:** il percorso completo, un nuovo film narrativo, il render 3D e gli eventuali provider si esercitano nei mezzi reali del destinatario. Gli esercizi di sviluppo 2.5D restano attribuiti al proprio ricevente. Il mini-kernel rende queste capacità **raggiungibili**, non automaticamente attive.
 
 **Provenienza:** conoscenza tratta dai repository linkati, letti il 24 ottobre 2026. Alla scelta concreta di un framework o asset recuperare licenze e versione correnti della fonte, perché possono cambiare.

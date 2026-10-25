@@ -1,3 +1,7 @@
+# Historical candidate preparation
+
+The candidate described below has been integrated and superseded by the public 0.1.0 edition. Current files and catalogue identify the published method.
+
 # Semantic Timelapse Formation — proposed public transfer, 24 October 2026
 
 Status: source candidate only. No release archive, catalogue integration, site deployment or social post.

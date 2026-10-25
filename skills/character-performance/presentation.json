@@ -1,0 +1,230 @@
+{
+  "en": {
+    "title": "Give a gesture meaning in its world",
+    "subtitle": "Gaze, pose, timing and contact make an animated action readable.",
+    "kind": "Animated performance competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms the observable performance of animated characters and expressive objects, connecting identity, authored intention, action, reaction and scene.",
+    "when": "When an actor or object already moves but the gesture, reaction or relationship is not yet readable.",
+    "intro": [
+      "A rig supplies movement. Performance understands what that movement communicates in a situation, including what becomes legible through stillness.",
+      "A character in fiction can have an authored intention. An animated image of a real system needs sources before attributing an inner state or autonomous decision."
+    ],
+    "examples": [
+      "The robot sees before reaching",
+      "An object can have weight without a face",
+      "A small gesture preserves identity"
+    ],
+    "method": [
+      {
+        "title": "Understand the actor’s relationship to the scene",
+        "body": "Recover what the actor or object is, what remains recognizable, what action is entrusted and what the situation allows. Receive any intention from the authored story. A demonstration object may need weight, balance or transformation without being humanized. Let the actual subject determine whether gaze, breath, contact or reaction is meaningful."
+      },
+      {
+        "title": "Form the readable action",
+        "body": "Connect observation, a narrated change when present, action, reaction and consequence. Choose a silhouette, pose, balance, gaze or contact that lets the viewer perceive the relation. A pause can make a discovery visible before the body moves. The goal is not to put motion everywhere but to let each relevant change carry the scene."
+      },
+      {
+        "title": "Distinguish time, spacing and intensity",
+        "body": "Significant key poses can support variation within a pose, anticipation, secondary action, overlap and follow-through when useful. Timing concerns when and how long; spacing concerns the change between positions; intensity changes the impression of the gesture. They can work together without becoming the same parameter. Test meaningful moments and the continuous movement with the actual medium."
+      },
+      {
+        "title": "Work through the available body and assets",
+        "body": "A single image does not provide every joint, surface or expression. Compose with production to identify layers, masks, pivots, rigs or geometry that can actually support the gesture. Preserve identity through reconstructed parts. Change the performance or viewpoint when the asset cannot carry it. A technical turn of a head is movement; its relation to an observed object makes it performance."
+      },
+      {
+        "title": "Compose and return the difference",
+        "body": "Direction makes the gesture visible; writing preserves its narrative meaning; montage determines which reaction can be perceived; code implements actual motion. Let a finding reform the scene through its owner. Preserve reusable performance learning here and technical rig learning with production. A later non-identical scene can show which knowledge has become useful."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Contact makes an action believable",
+        "body": "When a hand supports a pot, the contact point, apparent weight, balance and response of both objects matter. Floating contact can contradict the intended action even when the animation is smooth. Use the scene’s material conditions and the actual asset’s possibilities. Technical collision or physics tools are means to investigate that relation, not requirements for every performance."
+      },
+      {
+        "title": "Readable identity persists through change",
+        "body": "Preserve the features that identify the character or object while its pose, view and expression vary. A tempting facial deformation can lose that identity. Observe the result and prefer a smaller meaningful gesture when reconstruction is uncertain. The actor’s narrative state and the technical state of its geometry stay connected but distinct."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "The robot sees before reaching",
+        "body": "In a fictional scene a robot helps a fallen plant. If the arm reaches instantly, the action reads as a programmed mechanical cycle. A brief gaze toward the pot, a change of pose and a later reach make the authored discovery legible. Keep the movement proportionate to the story and available joints. This is an animated interpretation, not evidence that a real AI feels concern or internally planned the action. A simpler scene may omit the gaze and convey the same relation through contact and framing."
+      },
+      {
+        "title": "An object can have weight without a face",
+        "body": "A film shows a heavy block settling onto a surface. The subject needs mass, balance and contact, not eyes or a personality. A slower initial response and small settling motion may make its material relation readable. Direction provides the view where contact is visible; production chooses suitable motion or simulation. The learned distinction is between expressive physical behavior and unnecessary humanization."
+      },
+      {
+        "title": "A small gesture preserves identity",
+        "body": "Only one image of a character is available. A reconstructed blink distorts the face, while a subtle head turn and pause preserve its recognizable features. Observe both results and keep the performance that carries the intended reaction. If the story truly needs the expression, obtain coherent additional assets or build the missing geometry. The decision follows the scene rather than assuming that a bitmap contains a complete face rig."
+      }
+    ],
+    "depth": {
+      "title": "A gesture can improve the way performance is formed",
+      "paragraphs": [
+        "A discovered relation between pause, contact and meaning can change both this scene and the method that approaches another actor."
+      ]
+    },
+    "learning": [
+      "Return acting and readable motion knowledge here; return algorithms and rig construction to production.",
+      "Use later scenes to refine the method while preserving their different subjects and conditions."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/character-performance/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Dare significato a un gesto nel suo mondo",
+    "subtitle": "Sguardo, posa, tempo e contatto rendono leggibile un’azione animata.",
+    "kind": "Competenza di interpretazione animata",
+    "domain": "Cinema e narrazione",
+    "does": "Forma l’interpretazione osservabile di personaggi e oggetti animati, collegando identità, intenzione autoriale, azione, reazione e scena.",
+    "when": "Quando attore od oggetto si muovono ma gesto, reazione o relazione non sono ancora leggibili.",
+    "intro": [
+      "Il rig rende possibile il movimento. L’interpretazione comprende ciò che comunica nella situazione, anche attraverso l’immobilità.",
+      "Il personaggio di fiction può avere un’intenzione autoriale. L’immagine animata di un sistema reale richiede fonti per attribuirgli stato interno o decisione autonoma."
+    ],
+    "examples": [
+      "Il robot guarda prima di raggiungere",
+      "Un oggetto ha peso anche senza volto",
+      "Un gesto piccolo conserva l’identità"
+    ],
+    "method": [
+      {
+        "title": "Comprendere il rapporto dell’attore con la scena",
+        "body": "Recupera identità, riconoscibilità, azione affidata e condizioni della scena. Ricevi l’eventuale intenzione dalla storia autoriale. Un oggetto dimostrativo può richiedere peso, equilibrio o trasformazione senza essere umanizzato. Il soggetto determina se sguardo, respiro, contatto o reazione sono significativi."
+      },
+      {
+        "title": "Formare l’azione leggibile",
+        "body": "Collega osservazione, eventuale cambiamento narrato, azione, reazione e conseguenza. Scegli silhouette, posa, equilibrio, sguardo o contatto che rendano percepibile il rapporto. Una pausa può mostrare la scoperta prima del moto. Ogni cambiamento pertinente porta la scena, oltre al movimento distribuito ovunque."
+      },
+      {
+        "title": "Distinguere tempo, spaziatura e intensità",
+        "body": "Pose principali significative possono sostenere variazioni, anticipazione, azioni secondarie, sovrapposizione e prosecuzione quando utili. Il timing riguarda quando e quanto; lo spacing il cambiamento fra posizioni; l’intensità modifica l’impressione del gesto. Si compongono senza coincidere. Osserva momenti rilevanti e moto continuo nel medium reale."
+      },
+      {
+        "title": "Operare attraverso corpo e asset disponibili",
+        "body": "Una singola immagine non fornisce articolazioni, superfici ed espressioni complete. Con produzione riconosci livelli, maschere, pivot, rig o geometria che sostengono il gesto. Conserva l’identità nelle parti ricostruite. Cambia interpretazione o vista se l’asset non basta. Una rotazione della testa è moto; il rapporto con l’oggetto osservato la rende interpretazione."
+      },
+      {
+        "title": "Comporre e restituire la differenza",
+        "body": "Regia rende visibile il gesto; scrittura il significato narrativo; montaggio la reazione percepibile; codice il moto effettivo. Un’osservazione può riformare la scena tramite l’owner pertinente. Conserva qui il sapere interpretativo e in produzione quello del rig. Un’altra scena mostrerà quale conoscenza è diventata utile."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Il contatto rende credibile un’azione",
+        "body": "Quando una mano sostiene un vaso contano punto di contatto, peso apparente, equilibrio e risposta degli oggetti. Un contatto sospeso contraddice l’azione anche con moto fluido. Usa condizioni materiali e possibilità dell’asset. Collisioni o simulazioni fisiche sono mezzi per comprendere il rapporto, oltre requisiti di ogni interpretazione."
+      },
+      {
+        "title": "L’identità leggibile continua nel cambiamento",
+        "body": "Conserva i tratti che identificano personaggio od oggetto mentre variano posa, vista ed espressione. Una deformazione del volto può perdere quell’identità. Osserva la resa e preferisci un gesto più piccolo e significativo quando la ricostruzione è incerta. Stato narrativo e geometria restano collegati e distinti."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Il robot guarda prima di raggiungere",
+        "body": "In una fiction il robot aiuta una pianta caduta. Se il braccio parte subito, il gesto sembra un ciclo meccanico. Un breve sguardo, il cambio di posa e il successivo movimento rendono leggibile la scoperta autoriale. Mantieni proporzione e articolazioni reali. È interpretazione animata, non prova di premura o pianificazione interna di una AI. Una scena più semplice può esprimere lo stesso rapporto con contatto e inquadratura."
+      },
+      {
+        "title": "Un oggetto ha peso anche senza volto",
+        "body": "Un film mostra un blocco pesante che si appoggia. Il soggetto richiede massa, equilibrio e contatto; occhi o personalità non servono a questa scena. Una risposta iniziale più lenta e un piccolo assestamento rendono leggibile il nesso materiale. Regia sceglie la vista del contatto; produzione il moto o la simulazione pertinente. Il sapere distingue comportamento fisico espressivo e umanizzazione superflua."
+      },
+      {
+        "title": "Un gesto piccolo conserva l’identità",
+        "body": "È disponibile una sola immagine. L’ammiccamento ricostruito altera il volto, mentre una piccola rotazione e una pausa conservano i tratti. Osserva le rese e scegli l’interpretazione che porta la reazione. Se l’espressione serve davvero, acquisisci asset coerenti o costruisci la geometria mancante. La scelta segue la scena senza attribuire alla bitmap un rig facciale completo."
+      }
+    ],
+    "depth": {
+      "title": "Un gesto può migliorare come si forma l’interpretazione",
+      "paragraphs": [
+        "Un rapporto scoperto fra pausa, contatto e significato cambia sia la scena sia il metodo con cui si affronta un altro attore."
+      ]
+    },
+    "learning": [
+      "Restituisci qui recitazione e moto leggibile, in produzione algoritmi e costruzione del rig.",
+      "Affina il metodo con scene successive, conservandone soggetti e condizioni differenti."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/character-performance/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "performance",
+    "en": {
+      "title": "Movement becomes a readable action",
+      "states": [
+        [
+          "Pose",
+          "A recognizable actor",
+          "Identity and balance give the gesture a body."
+        ],
+        [
+          "Notice",
+          "A pause before the reach",
+          "A change of attention prepares the authored action."
+        ],
+        [
+          "Contact",
+          "The action has a consequence",
+          "Hand, pot and plant communicate one relationship."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Il moto diventa azione leggibile",
+      "states": [
+        [
+          "Posa",
+          "Un attore riconoscibile",
+          "Identità ed equilibrio danno corpo al gesto."
+        ],
+        [
+          "Osservazione",
+          "Una pausa prima del movimento",
+          "Il cambio di attenzione prepara l’azione autoriale."
+        ],
+        [
+          "Contatto",
+          "L’azione ha una conseguenza",
+          "Mano, vaso e pianta comunicano una relazione."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "scrivere-storie-per-il-cinema",
+    "dirigere-scene-cinematografiche",
+    "comporre-montaggio-cinematografico"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

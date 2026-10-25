@@ -1,0 +1,230 @@
+{
+  "en": {
+    "title": "Compose meaning between images",
+    "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",
+    "kind": "Temporal composition competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences.",
+    "when": "When individual shots work but their order, rhythm or sound changes the film’s meaning.",
+    "intro": [
+      "Two images can imply a relation that neither shows alone. Montage understands that relationship while forming the film, from a rough reel to the final cut.",
+      "The work can concern continuity, comparison, surprise, silence or a sustained shot. Its form follows the actual subject and the viewer’s possible discovery."
+    ],
+    "examples": [
+      "Changing order changes the discovery",
+      "A juxtaposition invents a cause",
+      "Sound opens the next space"
+    ],
+    "method": [
+      {
+        "title": "Understand what the sequence should make knowable",
+        "body": "Recover the source, authored situation, intended point of view and current footage or scene model. Identify what a viewer can discover through the encounter between shots. A timeline can imply succession, comparison, cause or omission. Preserve the distinction between an observed event and a meaning authored by the edit."
+      },
+      {
+        "title": "Form the relationship through order and duration",
+        "body": "Choose when a shot begins and ends, what remains long enough to be perceived and what is omitted. A held shot or continuous take may be the right temporal form. Rhythm follows the action and discovery; it is not a fixed cut frequency. Compare how an entrance or exit changes the reading of a gesture or reaction."
+      },
+      {
+        "title": "Use continuity and sound as situated tools",
+        "body": "Eyeline, action matches and spatial orientation can keep a world intelligible; a deliberate discontinuity can create another relationship. Sound may start before the next image or continue after the previous one, changing expectation and information. Silence can do meaningful work. Choose these means when the source and scene need them, with actual available audio and rights."
+      },
+      {
+        "title": "Observe the inference created by a cut",
+        "body": "If juxtaposition creates an unsupported cause, authority or emotional attribution, return to the source and recompose with writing and direction. A fluent transition can conceal a false relationship. In fiction the edit can author a connection; documentary or technical explanation needs that connection qualified by its source. Preserve the distinction in the final expression."
+      },
+      {
+        "title": "Compose an actual reel and learn from it",
+        "body": "A rough assembly can expose missing reaction, unnecessary repetition or an impossible transition before final rendering. Let the observation change writing, direction or performance through their owners. Production implements the timeline, seeks, compositing and encoding with real means. Preserve the reason for the edit and the reusable temporal knowledge for another film."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "The cut and the codec have different work",
+        "body": "The edit decides what the relation between images means. The executable medium makes the selected times, frames and audio reproducible. A file can decode correctly and still imply the wrong cause. An excellent written edit can likewise remain unrendered. Observe both the intended temporal relation and the actual result when production is entrusted."
+      },
+      {
+        "title": "Provisional material can reveal a better film",
+        "body": "A storyboard reel with temporary frames can test information order and timing without pretending to be the finished film. It may show that an additional view is unnecessary or a reaction must be seen sooner. Keep temporary sources and intended substitutions recognizable so that a later production can continue faithfully."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Changing order changes the discovery",
+        "body": "Three illustrative shots show a bent plant, a character noticing it and a hand supporting it. In that order the viewer discovers the need, the attention and the action. Start with the completed support and the same material becomes a reveal of how it happened. Both may work for different intentions. Choose through the film’s question, then preserve the reason. The sequence on a resource page demonstrates this editing relation; it does not document a real autonomous robot."
+      },
+      {
+        "title": "A juxtaposition invents a cause",
+        "body": "A report contains a worker leaving a room and a machine stopping later, with no causal relationship established. Cutting directly between those images can suggest responsibility. Recover what the sources actually support and recompose order, context or point of view. If the intended film is fiction, the author can instead deliberately create that relationship. The change belongs to the represented object, not merely to transition style."
+      },
+      {
+        "title": "Sound opens the next space",
+        "body": "A quiet workshop shot is followed by an outdoor scene. Introducing the outdoor sound before the cut can make the next space anticipated; carrying workshop sound over the new image can preserve a different continuity. Try the relation with actual sound or a clearly provisional cue and observe what the viewer can infer. If silence carries the intended transition better, retain it. A sound bridge is a useful possibility rather than a required track."
+      }
+    ],
+    "depth": {
+      "title": "The sequence can change the way the next film is edited",
+      "paragraphs": [
+        "An observed false inference or meaningful pause can refine the method that chooses future cuts. That return improves temporal composition while project facts remain with the film."
+      ]
+    },
+    "learning": [
+      "Keep the intended relation and observed effect of the cut, not only its timestamp.",
+      "Return temporal meaning here and encoding, reproducibility or tool learning to the production medium."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/film-montage/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Comporre significato fra le immagini",
+    "subtitle": "Ordine, durata, tagli e suono formano le relazioni che lo spettatore percepisce.",
+    "kind": "Competenza di composizione temporale",
+    "domain": "Cinema e narrazione",
+    "does": "Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena.",
+    "when": "Quando le singole inquadrature funzionano ma ordine, ritmo o suono cambiano il significato del film.",
+    "intro": [
+      "Due immagini possono suggerire un nesso che nessuna mostra da sola. Il montaggio comprende quel rapporto mentre forma il film, dal reel grezzo al taglio finale.",
+      "Il lavoro può riguardare continuità, confronto, sorpresa, silenzio o piano mantenuto. La forma segue il soggetto e ciò che lo spettatore può scoprire."
+    ],
+    "examples": [
+      "Cambiare ordine cambia la scoperta",
+      "Un accostamento inventa una causa",
+      "Il suono apre lo spazio successivo"
+    ],
+    "method": [
+      {
+        "title": "Comprendere ciò che la sequenza rende conoscibile",
+        "body": "Recupera fonte, situazione autoriale, punto di vista e materiale o scena disponibili. Individua ciò che si scopre nell’incontro fra inquadrature. La timeline può suggerire successione, confronto, causa od omissione. Conserva la differenza fra evento osservato e significato formato dal montaggio."
+      },
+      {
+        "title": "Formare il rapporto attraverso ordine e durata",
+        "body": "Scegli ingressi, uscite, ciò che resta abbastanza da essere percepito e ciò che viene omesso. Quadro mantenuto e piano continuo possono essere la forma pertinente. Il ritmo segue azione e scoperta, oltre una frequenza fissa di tagli. Confronta come ingresso e uscita cambiano la lettura di gesto o reazione."
+      },
+      {
+        "title": "Usare continuità e suono come strumenti situati",
+        "body": "Sguardo, raccordo sull’azione e orientamento spaziale rendono intelligibile il mondo; una discontinuità voluta può creare un altro rapporto. Il suono può anticipare la prossima immagine o proseguire dalla precedente cambiando attesa e informazione. Il silenzio può avere funzione. Scegli i mezzi pertinenti con audio e diritti reali."
+      },
+      {
+        "title": "Osservare l’inferenza prodotta dal taglio",
+        "body": "Se l’accostamento crea causa, autorità o attribuzione emotiva prive di fonte, ritorna a soggetto e fonti con scrittura e regia. La fluidità può nascondere un nesso falso. Nella fiction il montaggio può formare un collegamento; documentario e spiegazione tecnica richiedono di qualificarlo con la fonte. Mantieni la distinzione nella resa finale."
+      },
+      {
+        "title": "Comporre un reel effettivo e imparare dalla resa",
+        "body": "Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi owner. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Il taglio e il codec hanno lavori differenti",
+        "body": "Il montaggio decide il significato fra immagini; il medium eseguibile rende riproducibili tempi, frame e audio. Un file può decodificarsi correttamente e suggerire la causa sbagliata. Un ottimo montaggio scritto può restare non renderizzato. Quando la produzione è affidata, osserva relazione temporale e risultato effettivo."
+      },
+      {
+        "title": "Il materiale provvisorio può rivelare un film migliore",
+        "body": "Un reel di storyboard con quadri temporanei esplora ordine e tempo senza presentarsi come film concluso. Può mostrare che una vista è superflua o che una reazione serve prima. Mantieni riconoscibili fonti provvisorie e sostituzioni previste perché la produzione continui fedelmente."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Cambiare ordine cambia la scoperta",
+        "body": "Tre quadri illustrativi mostrano pianta piegata, personaggio che la nota e mano che sostiene. In quest’ordine si scoprono bisogno, attenzione e azione. Partendo dal sostegno già compiuto, il materiale rivela invece come è avvenuto. Le forme possono servire intenti diversi. Scegli attraverso la domanda del film e conserva la ragione. La pagina illustra questo rapporto di montaggio; non documenta un robot autonomo reale."
+      },
+      {
+        "title": "Un accostamento inventa una causa",
+        "body": "Un rapporto contiene un operaio che esce e una macchina che poi si ferma, senza nesso causale accertato. Il taglio diretto può suggerire responsabilità. Recupera ciò che le fonti sostengono e ricomponi ordine, contesto o punto di vista. Nella fiction l’autore può invece costruire deliberatamente quel rapporto. La differenza riguarda l’oggetto rappresentato, oltre allo stile di transizione."
+      },
+      {
+        "title": "Il suono apre lo spazio successivo",
+        "body": "All’officina silenziosa segue una scena esterna. Anticipare il suono esterno fa attendere il nuovo spazio; prolungare quello dell’officina conserva un’altra continuità. Esplora il rapporto con audio reale o cue provvisorio dichiarato e osserva ciò che si inferisce. Se il silenzio serve meglio, conservalo. Il ponte sonoro resta una possibilità utile, oltre una traccia obbligatoria."
+      }
+    ],
+    "depth": {
+      "title": "La sequenza cambia come si monta il film successivo",
+      "paragraphs": [
+        "Un’inferenza falsa o una pausa significativa affinano il metodo che sceglie i tagli futuri. Il ritorno migliora la composizione temporale; i fatti restano al film."
+      ]
+    },
+    "learning": [
+      "Conserva rapporto desiderato ed effetto osservato del taglio, oltre al timestamp.",
+      "Restituisci qui significato temporale e al medium produttivo codifica, riproducibilità e strumenti."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/film-montage/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "montage",
+    "en": {
+      "title": "Three images, different temporal meanings",
+      "states": [
+        [
+          "Discover",
+          "Need → attention → action",
+          "The viewer discovers the situation before the response."
+        ],
+        [
+          "Reveal",
+          "Result → situation → action",
+          "The viewer first meets the outcome and then its construction."
+        ],
+        [
+          "Compare",
+          "Situation ↔ result",
+          "The same material can make a change visible through comparison."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Tre immagini, significati temporali diversi",
+      "states": [
+        [
+          "Scoperta",
+          "Bisogno → attenzione → azione",
+          "Si scopre la situazione prima della risposta."
+        ],
+        [
+          "Rivelazione",
+          "Risultato → situazione → azione",
+          "Si incontra prima l’esito e poi la sua costruzione."
+        ],
+        [
+          "Confronto",
+          "Situazione ↔ risultato",
+          "Lo stesso materiale rende visibile il cambiamento attraverso il confronto."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "scrivere-storie-per-il-cinema",
+    "dirigere-scene-cinematografiche",
+    "interpretare-personaggi-animati"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

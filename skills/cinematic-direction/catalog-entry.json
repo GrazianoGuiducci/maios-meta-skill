@@ -1,0 +1,69 @@
+{
+  "id": "dirigere-scene-cinematografiche",
+  "name": "Cinematic Direction",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "39",
+  "native_entry": "cinematic-direction",
+  "skill_name": "cinematic-direction",
+  "source_title": "Cinematic Direction",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/cinematic-direction/SKILL.md",
+      "guide": "skills/cinematic-direction/README.md",
+      "starter": "skills/cinematic-direction/START_CHAT_EN.txt",
+      "examples": "skills/cinematic-direction/EXAMPLES.md",
+      "operating_guide": "skills/cinematic-direction/OPERATING_GUIDE.md",
+      "installation": "skills/cinematic-direction/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/cinematic-direction/SKILL_IT.md",
+      "guide": "skills/cinematic-direction/README_IT.md",
+      "starter": "skills/cinematic-direction/AVVIO_CHAT_IT.txt",
+      "examples": "skills/cinematic-direction/ESEMPI_IT.md",
+      "operating_guide": "skills/cinematic-direction/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/cinematic-direction/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "skill": "skills/cinematic-direction/SKILL.md",
+  "guide": "skills/cinematic-direction/README.md",
+  "starter": "skills/cinematic-direction/START_CHAT_EN.txt",
+  "examples": "skills/cinematic-direction/EXAMPLES.md",
+  "presentation": "skills/cinematic-direction/presentation.json",
+  "package": "dist/cinematic-direction-0.1.0.zip",
+  "en": {
+    "title": "Direct what the viewer can discover",
+    "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",
+    "kind": "Cinematic design competence",
+    "domain": "Cinema and narrative",
+    "does": "Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage.",
+    "when": "When the way a scene is shown changes what the viewer understands or experiences.",
+    "examples": [
+      "A plant changes the framing",
+      "A rough world reveals an impossible shot",
+      "Stillness becomes the directing choice"
+    ],
+    "route": "/resources/dirigere-scene-cinematografiche/",
+    "description": "Staging, viewpoint, camera and light make a scene’s relationships perceptible."
+  },
+  "it": {
+    "title": "Dirigere ciò che lo spettatore può scoprire",
+    "subtitle": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena.",
+    "kind": "Competenza di Design cinematografico",
+    "domain": "Cinema e narrazione",
+    "does": "Forma l’esperienza cinematografica di una scena attraverso messa in scena, punto di vista, camera, luce e relazione con interpretazione e montaggio.",
+    "when": "Quando il modo di mostrare una scena cambia ciò che lo spettatore comprende o vive.",
+    "examples": [
+      "Una pianta cambia l’inquadratura",
+      "Un mondo provvisorio rivela una ripresa impossibile",
+      "L’immobilità diventa scelta di regia"
+    ],
+    "route": "/risorse/dirigere-scene-cinematografiche/",
+    "description": "Messa in scena, punto di vista, camera e luce rendono percepibili le relazioni della scena."
+  }
+}

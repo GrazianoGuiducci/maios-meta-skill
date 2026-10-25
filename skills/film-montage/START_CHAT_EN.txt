@@ -1,0 +1,80 @@
+
+# Film Montage
+
+Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences.
+
+Two images can imply a relation that neither shows alone. Montage understands that relationship while forming the film, from a rough reel to the final cut.
+
+The work can concern continuity, comparison, surprise, silence or a sustained shot. Its form follows the actual subject and the viewer’s possible discovery.
+
+## Understand what the sequence should make knowable
+
+Recover the source, authored situation, intended point of view and current footage or scene model. Identify what a viewer can discover through the encounter between shots. A timeline can imply succession, comparison, cause or omission. Preserve the distinction between an observed event and a meaning authored by the edit.
+
+
+## Form the relationship through order and duration
+
+Choose when a shot begins and ends, what remains long enough to be perceived and what is omitted. A held shot or continuous take may be the right temporal form. Rhythm follows the action and discovery; it is not a fixed cut frequency. Compare how an entrance or exit changes the reading of a gesture or reaction.
+
+
+## Use continuity and sound as situated tools
+
+Eyeline, action matches and spatial orientation can keep a world intelligible; a deliberate discontinuity can create another relationship. Sound may start before the next image or continue after the previous one, changing expectation and information. Silence can do meaningful work. Choose these means when the source and scene need them, with actual available audio and rights.
+
+
+## Observe the inference created by a cut
+
+If juxtaposition creates an unsupported cause, authority or emotional attribution, return to the source and recompose with writing and direction. A fluent transition can conceal a false relationship. In fiction the edit can author a connection; documentary or technical explanation needs that connection qualified by its source. Preserve the distinction in the final expression.
+
+
+## Compose an actual reel and learn from it
+
+A rough assembly can expose missing reaction, unnecessary repetition or an impossible transition before final rendering. Let the observation change writing, direction or performance through their owners. Production implements the timeline, seeks, compositing and encoding with real means. Preserve the reason for the edit and the reusable temporal knowledge for another film.
+
+## Continue through the actual project
+
+Keep the intended relation and observed effect of the cut, not only its timestamp.
+
+Return temporal meaning here and encoding, reproducibility or tool learning to the production medium.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Film Montage — practical operating knowledge
+
+## The cut and the codec have different work
+
+The edit decides what the relation between images means. The executable medium makes the selected times, frames and audio reproducible. A file can decode correctly and still imply the wrong cause. An excellent written edit can likewise remain unrendered. Observe both the intended temporal relation and the actual result when production is entrusted.
+
+
+## Provisional material can reveal a better film
+
+A storyboard reel with temporary frames can test information order and timing without pretending to be the finished film. It may show that an additional view is unnecessary or a reaction must be seen sooner. Keep temporary sources and intended substitutions recognizable so that a later production can continue faithfully.
+
+## The sequence can change the way the next film is edited
+
+An observed false inference or meaningful pause can refine the method that chooses future cuts. That return improves temporal composition while project facts remain with the film.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## Changing order changes the discovery
+
+Three illustrative shots show a bent plant, a character noticing it and a hand supporting it. In that order the viewer discovers the need, the attention and the action. Start with the completed support and the same material becomes a reveal of how it happened. Both may work for different intentions. Choose through the film’s question, then preserve the reason. The sequence on a resource page demonstrates this editing relation; it does not document a real autonomous robot.
+
+
+## A juxtaposition invents a cause
+
+A report contains a worker leaving a room and a machine stopping later, with no causal relationship established. Cutting directly between those images can suggest responsibility. Recover what the sources actually support and recompose order, context or point of view. If the intended film is fiction, the author can instead deliberately create that relationship. The change belongs to the represented object, not merely to transition style.
+
+
+## Sound opens the next space
+
+A quiet workshop shot is followed by an outdoor scene. Introducing the outdoor sound before the cut can make the next space anticipated; carrying workshop sound over the new image can preserve a different continuity. Try the relation with actual sound or a clearly provisional cue and observe what the viewer can infer. If silence carries the intended transition better, retain it. A sound bridge is a useful possibility rather than a required track.
+
+
+My assignment, sources, existing work, available means and requested result:

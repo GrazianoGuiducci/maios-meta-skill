@@ -1,0 +1,80 @@
+
+# Cinematic Screenwriting
+
+Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage.
+
+A scene makes something happen in a world. Its meaning can come from a gesture, discovery, choice, silence or a relationship that changes.
+
+This first public method carries source-grounded cinematic knowledge and reciprocal collaboration. Its usefulness grows through actual writing and observation of the resulting scenes.
+
+## Find the situation and its status
+
+Understand the subject, author’s intent and what kind of representation is entrusted: observed documentation, reconstruction, allegory or invented fiction. Identify the world, point of view and what may change. Fiction can author intentions and an inner life; a technical film needs sources for claims about real people, systems and events. Let the situation determine its narrative form.
+
+
+## Distinguish a beat from a scene
+
+A beat can be one discovery or choice. A scene makes it possible under the conditions of a world: what actors or objects know, can do and encounter, and what the viewer can understand. Form the conditions, action and change before translating them into screen time. A physical activity becomes narrative action through its relationship to the situation.
+
+
+## Write what can become perceptible
+
+Develop a treatment, scenes, actions, words or meaningful silence to the depth needed. Preserve the difference between what a character knows and what the viewer knows. Dialogue, subtext and omission should make something happen, not explain what the image already supplies. Do not require an antagonist, three-act structure or advertising formula when the object calls for another form.
+
+
+## Let the other cinematic competences change the writing
+
+Give direction the narrative conditions and change; performance the action and any authored intention; montage the relations the viewer should discover. Their spatial, bodily and temporal findings can reform the scene. Keep authored meaning with writing and actual executable means with production. A code renderer receives events and states; it does not become the author by filling missing meaning with effects.
+
+
+## Keep continuity and learn from the scene
+
+Observe whether the written situation survives an image, performance or assembled sequence. Keep identities, world facts and relationships that materially affect what happens. A failed scene can change the question as well as the wording. Return reusable dramaturgical knowledge to this method and specific plot or production decisions to the work’s own guide.
+
+## Continue through the actual project
+
+Preserve the author’s determinations; let observed consequences reform what remains open.
+
+Keep narrative, perceptual, technical and project learning at their respective competences.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Cinematic Screenwriting — practical operating knowledge
+
+## Action is more than movement
+
+A hand can move without changing the scene. Reaching toward a sealed envelope can instead express hesitation, curiosity or a decision when the fiction provides those conditions. Connect activity, intention when authored and consequence. Stillness may carry the action. The writing need not prescribe exact camera paths, frame counts or rigs to preserve this relationship.
+
+
+## The same scene can teach the structure
+
+A fragment can reveal the larger story’s question, and a larger structure can reform the fragment. Use the smallest meaningful unit to discover that relationship. Keep a provisional treatment revisable while preserving decisions actually made by the author. A storyboard or rough reel can help observe a problem that prose alone concealed.
+
+## The scene can change how scenes are written
+
+A practical discovery about point of view or authored intention can improve both this screenplay and the method that forms the next one.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## A robot notices something before it moves
+
+In a fictional workshop, a small robot pauses beside a fallen seedling. Moving its arm is an activity; recognizing that the plant needs support and choosing to lift the pot forms the scene. Write the discovery, decision and consequence without requiring a speech. Performance can make the pause and gaze readable; direction can reveal the plant at the right moment. In a documentary about a real robot, the same image would require a different account: visible motion alone cannot establish recognition or concern.
+
+
+## A discovery can carry an explanatory film
+
+A film explains why two independent project corrections should remain distinct. Instead of inventing a villain or conflict, write a person comparing two notes, seeing that they concern different owners and preserving both in the project. The narrative change is a discovery that changes the next action. A short treatment can suffice. The mechanism remains an illustrative explanation; a claim that the real system already made these decisions needs its own observed source.
+
+
+## Montage reveals an unintended accusation
+
+A screenplay places a machine failure near a worker’s departure, but the underlying report does not connect the events. The rough edit makes the worker appear responsible. Return to writing and the factual source, then change the scene relation, point of view or exposition. Smoother transitions would leave the false implication intact. The resulting correction improves how future documentary scenes preserve causal meaning.
+
+
+My assignment, sources, existing work, available means and requested result:

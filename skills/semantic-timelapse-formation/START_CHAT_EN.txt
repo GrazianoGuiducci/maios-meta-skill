@@ -1,10 +1,3 @@
-SEMANTIC TIMELAPSE FORMATION — STANDALONE CHAT STARTER
-Generate image A with a real image generator first and inspect it; only THEN construct coded frame B. This prevents coding B from visual recollection alone; video RAM is separate.
-
-When a film requires several disciplines, use the VC-30s Studio-Lab competence stations included below; the knowledge is method, not installed software.
-
-MKCV — Mini Kernel Code Video is the general code-video competence; VC-30s is one profile. / MKCV è il campo generale, VC-30s un profilo.
-
 ---
 name: semantic-timelapse-formation
 description: Create source-grounded short videos by generating an example image first, observing it, building the first frame in editable code, then animating and learning from the result.
@@ -36,7 +29,7 @@ The source may call for a **person, object, tool, setting, gesture or material c
 
 When relevant, let the source specify each visual actor's **role, observable state, recognisable features, action and relation to others**. Form image A with these material distinctions and observe whether it invents a character's identity, authority, capability or causation. The animation should preserve the referent while camera, gesture, object state and text change. A representational character is not proof of a real human or autonomous agent.
 
-After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The illustration-first path is **formed method here**, not yet an independently exercised character/3D video.
+After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The source development has exercised generated-reference 2.5D films; a new narrative film and independent recipient use keep their own exercise state.
 
 ## Time and the short film
 
@@ -61,7 +54,7 @@ KA keeps the possibility field open; FDLA corrects source/intent substitutions i
 
 A short film can need source comprehension, image A generation, editable B, visual actors and objects, 2.5D/3D motion, sound, rendering and learning. These are complementary capabilities bound by one video object, **not eight mandatory phases or eight installed tools**. The [VC-30s operating competence field](VC30_OPERATIONAL_KERNEL.md) makes the relation portable; its public edition contains source links and technical distinctions without private MAIOS topology or third-party code.
 
-The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. No new 3D or character film is claimed.
+The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. A new recipient’s 3D or narrative production requires its own actual means and observed result.
 
 **From first visual reference to actually animable elements.** A is a real generated image to look at before coding B, but it is **not** a rig or the set of moveable parts. If the subject requires a hand, prop, character expression, separated foreground or true depth to move independently, recognise which additional consistent assets, poses, layers or geometry are needed; acquire them only when pertinent. Keep their source/provenance and identity, or instead change the motion/camera if A cannot support it. A single still may be entirely sufficient for a film that animates it as a whole. [VC-30s](VC30_OPERATIONAL_KERNEL.md) carries the deeper method, learned from a selective source audit rather than a claim to have read every project file.
 
@@ -86,6 +79,13 @@ The image generator is a **real capability required for image A** in the selecte
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
 
 Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes the operating knowledge for a chat without file access.
+
+## MKCV — one film, reciprocal competences
+
+A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
+
+[Read the reciprocal cinematic method](MKCV_CINEMA_EN.md). The four complementary public kits are linked from this resource’s page.
+
 
 # Operating guide — the visual-reference boundary
 
@@ -122,9 +122,37 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 
 **Technical carrier.** The public example code is not a full semantic timelapse engine. It can test an existing generated picture → coded frame → MP4 path, but camera movement alone does not represent the actual subject.
 
+# MKCV — one film, reciprocal competences
+
+A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
+
+Cinematic Screenwriting forms world, situation, action and authored words. Cinematic Direction forms the perceptible encounter through staging, camera and light. Character & Object Performance forms readable action and reaction. Film Montage forms the relationship between images and sound. Code production constructs and observes the actual executable medium.
+
+These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
+
+The development source reports exercised generated references and code-built 2.5D clips in its original receiver. A new narrative film with all cinematic specializations composed remains a further use to exercise. Public availability of these methods and code is distinct from recipient installation or independent use.
+
+
+# Worked examples
+
+Illustrative cases for adaptation.
+
+## Animate the world in the reference
+
+A generated illustration shows a robot beside a worktable. The entrusted film asks that world to move. Adding a new overlay of boxes would make a different film. Observe the actual reference, identify the relevant head, arm, prop and environment, then determine which layers, pivots or geometry are available. A restrained 2.5D articulation may preserve identity better than an invented full 3D body. If hidden surfaces matter, form them as an explicit reconstruction or choose another view. The method follows the actual intended motion.
+
+## A different relation asks for another geometry
+
+An explanatory film depicts two independent corrections returning to different project competences. A glowing central hub would falsely imply one controller. Recover the source and form two distinguishable returning paths or another adequate geometry. Time makes the two changes perceptible without making them serial phases. Label the case as an illustrative explanation rather than a recording of a real agent run. The design correction teaches how a new object can change the representation grammar.
+
+## One film, complementary cinematic knowledge
+
+An authored scene shows a small robot noticing a fallen plant and helping it stand. Writing forms discovery and action; direction chooses a view that makes the relation visible; performance makes pause and contact readable; montage forms the viewer’s discovery. Code implements actual layers and time. A rough reel may reveal that the hand never reaches the pot, returning the difference to performance and production. The contributions can change one another through one film; opening a separate agent process is a different runtime effect.
+
+
 # VC-30s — Operational competence field for code-made short videos
 
-**State:** candidate 0.4.3, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
+**State:** public edition 0.1.0, method available, not a standalone runtime or deployed generator. This is a **mini-kernel of cooperating capabilities** within Semantic Timelapse Formation, not a second axiomatic kernel, a mandatory multi-stage pipeline or a new publishing controller. The short film (about 30 seconds when selected) is the shared object that keeps visual direction, code, audio and learning connected.
 
 **Current identity:** the general capability is **MKCV — Mini Kernel Code Video**. This guide retains the historical `VC-30s` profile and links to the [same Studio-Lab](VC30_STUDIO_LAB_EN.md). MKCV does not impose a duration, output aspect or eleven mandatory phases; its production exercise remains distinct from written methodology.
 
@@ -228,15 +256,16 @@ An image may introduce a false hierarchy; a character may lose its identity whil
 
 **Source coordinates and provenance:** this portable text distills methods from the linked projects as read on 24 October 2026. Source versions and licenses may change; re-open the actual repository where an integration/asset choice becomes material.
 
+
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **candidate 0.4.3** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **edition 0.1.0** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
 **MKCV** is the name of the reusable **Code Video mini-kernel**. **VC-30s** is a **short-film duration profile** and the history of the first examples, not a limit on the films MKCV may form. This is **one Studio-Lab**: its eleven specialist stations can compose different durations, visual subjects, 2.5D/3D, narration and formats whenever a case calls for them.
 
-**Public candidate status:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
+**Public operating method:** the method and knowledge are available in these instructions; that does not install an image generator, renderer or a multi-agent studio in the reader's environment. Production capability can be observed through a concrete case: a genuinely generated/observed A, a programmed B, an inspected playable film and recoverable work. A later non-identical case provides better evidence of transferable learning. Publishing a film or releasing the skill is a separate effect.
 
 ## A production studio, not a software catalog
 
@@ -309,26 +338,96 @@ Know-how was studied from [HyperFrames](https://github.com/heygen-com/hyperframe
 
 **Stopping condition:** a case may conclude with a film, a better image, a corrected method or another medium altogether. Duration, format and number of stations are not axioms.
 
-# Three situations
 
-## A competence learns from a real correction
-Use the actual record of a correction. Generate an initial reference A from the source, observe whether the image adds an unfounded hierarchy, then code B with stable identifiers. Animate the documented change, not merely decorative growth. Return the discovered visual or method difference to its owner.
+# MKCV — one film, reciprocal competences
 
-## A concept becomes a design sequence
-The brief describes a recognisable object as a sketch and a later proposed design. Generate an initial example A, then code the scene and temporal change with source-bound elements. If the ending implies approval when only a proposal exists, correct it.
+A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
 
-## A documented physical process
-Use actual ordered observations. Generate A as a reference, not as purported footage. Build B and the sequence from the evidence. Neither the image generator nor the montage can legitimately invent missing events or their causes.
+Cinematic Screenwriting forms world, situation, action and authored words. Cinematic Direction forms the perceptible encounter through staging, camera and light. Character & Object Performance forms readable action and reaction. Film Montage forms the relationship between images and sound. Code production constructs and observes the actual executable medium.
 
-## An illustrated character and an object change
+These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
 
-A source records a change in a work object after an operator action. Form A as an explanatory illustration of the scene, person, object and relevant gesture, with its illustrated status explicit. Observe it before coding B. Use editable layers, masks or real geometry for only those movements that can be faithfully reconstructed. The final motion must not suggest that a person or AI performed extra undocumented steps. Do not choose 3D merely because the illustration has volume.
+The development source reports exercised generated references and code-built 2.5D clips in its original receiver. A new narrative film with all cinematic specializations composed remains a further use to exercise. Public availability of these methods and code is distinct from recipient installation or independent use.
 
-## When image A needs independently moving parts
 
-The first image-generator output A depicts an illustrated character holding an object. It establishes composition and appearance, not the hidden rig or separate hand/object layers. If the action requires a hand to lift that object, generate or build only the required coherent parts and their contact relationships before coding B. If this cannot be done faithfully, change the shot so the existing image can remain whole. Keep the original generated reference distinct from later derived assets; neither is an actual recording of an event.
+## Optional limited renderer source
 
-## Missing image generator
-A code-only renderer can create B but cannot honestly claim to have produced A with an image model. Ask for an actual reference or use an accessible image generator.
+```python
+"""A technical render example, not a semantic time-lapse storyboard.
 
-CURRENT SUBJECT / SOURCES / TOOLS: [provide context]
+Make the reference image with an image generator first and save it as a local PNG.
+The real project's semantic transformation must be designed from its sources.
+"""
+from __future__ import annotations
+import argparse
+import shutil
+import subprocess
+from pathlib import Path
+from PIL import Image, ImageOps
+
+
+def frame_at(reference: Image.Image, t: float, duration: float, size: tuple[int, int]) -> Image.Image:
+    """Render a code-built frame, using the generated image as a visible reference."""
+    w, h = size
+    u = max(0.0, min(1.0, t / duration))
+    # Mild camera movement shows the rendering contract. Replace with a
+    # source-grounded transformation; motion alone does not imply learning.
+    zoom = 1.00 + 0.06 * (u * u * (3 - 2 * u))
+    enlarged = ImageOps.fit(reference, (round(w * zoom), round(h * zoom)), method=Image.Resampling.LANCZOS)
+    left = round((enlarged.width - w) * (0.45 + 0.1 * u))
+    top = round((enlarged.height - h) / 2)
+    return enlarged.crop((left, top, left+w, top+h)).convert('RGB')
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description='Reference-image to coded-frame rendering example')
+    parser.add_argument('reference', type=Path, help='Image generated first using an image generator')
+    parser.add_argument('--preview', type=Path, default=Path('first_frame_in_code.png'))
+    parser.add_argument('--video', type=Path, default=None)
+    parser.add_argument('--duration', type=float, default=30.0)
+    parser.add_argument('--fps', type=int, default=24)
+    parser.add_argument('--width', type=int, default=960)
+    parser.add_argument('--height', type=int, default=540)
+    args = parser.parse_args()
+    if not args.reference.is_file(): parser.error('Provide an existing image created with the image generator')
+    if args.duration <= 0 or args.fps <= 0 or args.width <= 0 or args.height <= 0:
+        parser.error('Duration, fps and dimensions must be positive')
+    if args.video and not shutil.which('ffmpeg'):
+        parser.error('FFmpeg is required for MP4 export')
+    reference = ImageOps.exif_transpose(Image.open(args.reference)).convert('RGB')
+    size = (args.width, args.height)
+    first = frame_at(reference, 0.0, args.duration, size)
+    first.save(args.preview)
+    if not args.video:
+        print(f'Wrote coded first frame: {args.preview}')
+        return
+    total_frames = round(args.duration * args.fps)
+    cmd = ['ffmpeg','-hide_banner','-loglevel','error','-y','-f','rawvideo','-pix_fmt','rgb24',
+           '-s',f'{args.width}x{args.height}','-r',str(args.fps),'-i','-','-an',
+           '-c:v','libx264','-pix_fmt','yuv420p',str(args.video)]
+    encoder = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+    try:
+        assert encoder.stdin is not None
+        for i in range(total_frames):
+            encoder.stdin.write(frame_at(reference, i/args.fps, args.duration, size).tobytes())
+    except (BrokenPipeError, Exception):
+        encoder.kill()
+        encoder.communicate()
+        raise
+    else:
+        assert encoder.stdin is not None
+        encoder.stdin.close()
+        assert encoder.stderr is not None
+        err = encoder.stderr.read().decode('utf-8', errors='replace')
+        code = encoder.wait()
+        if code:
+            raise RuntimeError(f'FFmpeg exit {code}: {err}')
+    print(f'Wrote {total_frames} frames: {args.video}')
+
+
+if __name__ == '__main__':
+    main()
+
+```
+
+My actual subject, intent, sources, tools and requested film:

@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**33 resources for working with AI, forming competences and evolving their methods.**
+**42 resources for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -20,7 +20,7 @@ Edition 0.3.0 restores developed examples and practical operating knowledge from
 
 Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
 
-The `skills/` directory contains the 33 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
+The `skills/` directory contains the 42 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
 ## Choose a resource
 
@@ -61,6 +61,15 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Resource Need Formation](skills/resource-need-formation/README.md) | Forms the resource need from what must become possible, before selecting a provider, financial instrument or other carrier. | Business competence |
 | [Authorial Source Discrimination](skills/authorial-source-discrimination/README.md) | Recognizes what carries an author's meaning and preserves it while adapting only what the selected artifact and receiving situation require. | Editorial competence |
 | [Concept-to-Media Formation](skills/concept-to-media-formation/README.md) | Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning. | Editorial metacompetence |
+| [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README.md) | Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV. | Generative media competence |
+| [Onto-Skill](skills/onto-skill/README.md) | Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability. | Generative metacompetence |
+| [Form Cooperative Capability from Sources](skills/form-cooperative-capability-from-sources/README.md) | Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants. | Generative metacompetence |
+| [Funded Request Project Formation](skills/funded-request-project-formation/README.md) | Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs. | Generative metacompetence |
+| [MAIOS Presentation Competence](skills/maios-presentation-competence/README.md) | Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation. | Situated communication competence |
+| [Cinematic Screenwriting](skills/cinematic-screenwriting/README.md) | Forms original cinematic situations, treatments, scenes and dialogue, preserving authorship and causal continuity while composing with direction, performance and montage. | Cinematic writing competence |
+| [Cinematic Direction](skills/cinematic-direction/README.md) | Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage. | Cinematic design competence |
+| [Character & Object Performance](skills/character-performance/README.md) | Forms the observable performance of animated characters and expressive objects, connecting identity, authored intention, action, reaction and scene. | Animated performance competence |
+| [Film Montage](skills/film-montage/README.md) | Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences. | Temporal composition competence |
 
 ## Compose capabilities around a real task
 
@@ -73,7 +82,7 @@ These are possible compositions, not compulsory pipelines.
 
 ## Use in your environment
 
-With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 33 resources for one assignment.
+With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 42 resources for one assignment.
 
 Host tools, persistence, accounts and recurring activation depend on the actual environment. A method file does not configure them. The [use guide](docs/USE.md) explains how to connect the method to real means and preserve the knowledge needed for reentry.
 

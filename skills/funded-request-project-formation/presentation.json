@@ -1,0 +1,246 @@
+{
+  "en": {
+    "title": "Form a project from a funded request",
+    "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",
+    "kind": "Generative metacompetence",
+    "domain": "Projects and enabling resources",
+    "does": "Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs.",
+    "when": "When an external request offers resources and you need to understand what useful work your actual capabilities can make possible.",
+    "intro": [
+      "A funded request brings a person or organisation seeking a change. Begin with that requested help, its beneficiaries and the actual project field. The amount alone does not define the work.",
+      "The same knowledge can meet different requests without reproducing the same solution. The encounter can deepen a current capability, form a new project competence or reveal a better question."
+    ],
+    "examples": [
+      "A research challenge can fund a capability",
+      "An industrial pilot needs an actual beneficiary",
+      "The second request teaches another solution"
+    ],
+    "method": [
+      {
+        "title": "Understand who asks for what",
+        "body": "Read the original request and its current conditions. Understand the requester, mission, beneficiaries and desired change, including what remains open to discovery. The publisher, funder, evaluator, client and user may be different subjects. Keep official facts and inferred intentions distinguishable. A better-formed problem can be a useful result before an application exists."
+      },
+      {
+        "title": "Let the request meet the whole relevant capability field",
+        "body": "Recover existing products, acquired knowledge, source methods and capabilities that can change the solution. The form’s first question does not exhaust that field. Let the encounter change focus, scale or composition while retaining actual determinations. An existing capability may already provide a situated answer; another case may need new research or a different owner."
+      },
+      {
+        "title": "Form the capability that can produce the solution",
+        "body": "When the solution is still indeterminate, compose or form the competence that understands how to generate it. Give a distinct project its own knowledge, reasons, method and continuation when those are useful. A project seed, domain kernel, service or research programme can be a meaningful result. Let the responsible technical or scientific competence construct the actual work."
+      },
+      {
+        "title": "Find the real levers and enabling conditions",
+        "body": "Connect an observed need to a useful transformation, the mechanism capable of producing it and the resources that enable it. These are project levers, not psychological persuasion. If the project needs a client or partner, recover a real reachable counterpart and existing relationship before elaborating speculative dossiers. Some open research calls need only an official submission route."
+      },
+      {
+        "title": "Compose a sustainable proposal",
+        "body": "Bring the formed project to the economic competence for resources, scope, rights, obligations and the actual application. Explain why the work answers this request and what the support makes possible. Distinguish announced funds, contractual compensation, a conditional prize and an award received. Reuse knowledge across projects while keeping results, costs and commitments distinct."
+      },
+      {
+        "title": "Learn through preparation and consequences",
+        "body": "A live form, discussion, refusal, useful result or changed requirement can reform the question and the formation method. Revisit affected fields when the project’s meaning changes. Preserve what makes the next request more capable, without transporting another application’s names, amounts or solution. Submission and confirmation require an actual selected effect and retain their own state."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A situated focus in continuing development",
+        "body": "An organisation need not recreate its identity for every call. Its evolving knowledge and capabilities meet an external interest through a situated focus. That focus may produce a new capability and enrich the broader project. Time horizons are lenses on possibilities, not preselected milestones. Use a timeline when the actual proposal needs commitments, with the economic and project owners."
+      },
+      {
+        "title": "A competent application uses the actual receiving form",
+        "body": "A copied questionnaire can omit conditional branches, upload limits or current terms. When an application is entrusted, inspect its actual receiving surface and use public evidence and rights appropriate to that effect. Keep draft, approved payload, submitted object, provider confirmation and award distinct. Preserve one useful backup and receipt rather than repeatedly recreating the same application."
+      },
+      {
+        "title": "Respect the function of external evidence",
+        "body": "A request for evidence can matter to a scientific statement, technical claim or eligibility condition. Understand that exact relation and support it appropriately. It does not require an undetermined generative project to have already delivered its future result. Likewise, open possibility does not convert a planned effect into a completed one."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A research challenge can fund a capability",
+        "body": "A foundation asks how independent teams could collaborate while retaining recoverable reasons for decisions. Instead of promising a platform immediately, form the competence that can generate such cooperation. Existing methods for source attribution and project continuity contribute; the challenge reveals which relationship needs deeper research. The proposal describes the formed seed, the research still to do and the resources that enable it. A future kernel can be the deliverable itself. Preparing that argument is distinct from obtaining the award."
+      },
+      {
+        "title": "An industrial pilot needs an actual beneficiary",
+        "body": "A programme offers support for digital improvements in small companies. Your team can build an evolving maintenance assistant, but no company has selected that need yet. Investigate reachable firms and the real work where such a capability would help. A technician’s expressed difficulty can change the project from generic automation to preserving fault knowledge between shifts. The company, supplier and funding body retain different roles. Form the project around that encounter before building integrations or asserting the company’s demand."
+      },
+      {
+        "title": "The second request teaches another solution",
+        "body": "After preparing one cooperation proposal, the team encounters a call about portability of learned project knowledge. Reuse the formation method rather than the earlier solution. Understand the beneficiary who owns that knowledge and the receivers across which it should continue. A focused transfer capability now becomes central, while the prior cooperation study remains a source. Separate the costs and intended new results. The second project can improve the common generator without being a renamed copy of the first."
+      }
+    ],
+    "depth": {
+      "title": "The request can change how projects are formed",
+      "paragraphs": [
+        "The practical result is a project; the meta result is a better ability to form another project. The same encounter can change the domain competence, resource method and generative method at their respective owners."
+      ]
+    },
+    "learning": [
+      "Keep current call facts and application state with the project owner; preserve transferable formation knowledge here.",
+      "A source change or real counterpart can change the proposed work; carry that difference into the affected proposal."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/funded-request-project-formation/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Formare un progetto da una richiesta finanziata",
+    "subtitle": "Comprendere il cambiamento richiesto e formare capacità, soluzione e progetto che possono rispondervi.",
+    "kind": "Metacompetenza generativa",
+    "domain": "Progetti e risorse abilitanti",
+    "does": "Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie.",
+    "when": "Quando una richiesta esterna offre risorse e vuoi comprendere quale lavoro utile rendono possibile le tue capacità effettive.",
+    "intro": [
+      "Una richiesta finanziata porta un soggetto che cerca un cambiamento. Parti dall’aiuto richiesto, dai beneficiari e dal campo effettivo del progetto. L’importo, da solo, non determina il lavoro.",
+      "Lo stesso sapere incontra richieste diverse senza riprodurre la stessa soluzione. L’incontro può approfondire una capacità presente, formare una competenza di progetto o far emergere una domanda migliore."
+    ],
+    "examples": [
+      "Una challenge di ricerca può sostenere una capacità",
+      "Un pilot industriale richiede un beneficiario reale",
+      "La seconda richiesta insegna un’altra soluzione"
+    ],
+    "method": [
+      {
+        "title": "Comprendere chi chiede che cosa",
+        "body": "Leggi richiesta originale e condizioni correnti. Comprendi soggetto, missione, beneficiari e cambiamento desiderato, incluso ciò che resta da scoprire. Promotore, finanziatore, valutatore, cliente e utente possono differire. Distingui fatti ufficiali e intenzioni inferite. Un problema meglio formato può essere un risultato utile prima della candidatura."
+      },
+      {
+        "title": "Far incontrare la richiesta con il campo pertinente delle capacità",
+        "body": "Recupera prodotti, sapere acquisito, metodi sorgenti e capacità che possono cambiare la soluzione. La prima domanda del formulario non esaurisce il campo. Lascia che l’incontro cambi focus, scala o composizione conservando le determinazioni effettive. Una capacità presente può già fornire una risposta situata; un altro caso richiederà ricerca o un owner diverso."
+      },
+      {
+        "title": "Formare la capacità che produce la soluzione",
+        "body": "Quando la soluzione è indeterminata, componi o forma la competenza che sa generarla. Un progetto distinto riceve sapere, ragioni, metodo e continuazione propri quando sono utili. Seme di progetto, kernel di dominio, servizio o programma di ricerca possono essere risultati significativi. La competenza tecnica o scientifica costruisce il lavoro concreto."
+      },
+      {
+        "title": "Riconoscere leve reali e condizioni abilitanti",
+        "body": "Collega bisogno osservato, trasformazione utile, meccanismo capace di produrla e risorse abilitanti. Sono leve progettuali, non persuasione psicologica. Se serve cliente o partner, recupera un soggetto reale raggiungibile e le relazioni esistenti prima di elaborare dossier speculativi. Una call di ricerca aperta può richiedere soltanto il portale ufficiale."
+      },
+      {
+        "title": "Comporre una proposta sostenibile",
+        "body": "Porta il progetto formato alla competenza economica per risorse, portata, diritti, obblighi e candidatura. Spiega perché risponde alla richiesta e cosa rende possibile il supporto. Distingui fondi annunciati, compenso contrattuale, premio condizionale e finanziamento ricevuto. Riusa il sapere mantenendo distinti risultati, costi e impegni dei progetti."
+      },
+      {
+        "title": "Imparare dalla preparazione e dalle conseguenze",
+        "body": "Form vivo, confronto, rifiuto, risultato o requisito mutato possono cambiare domanda e metodo. Quando cambia il significato del progetto, riprendi i campi dipendenti. Conserva il sapere utile alla richiesta successiva senza trasferire nomi, importi o soluzione di un’altra candidatura. Invio e conferma richiedono l’effetto selezionato e mantengono il proprio stato."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Un focus situato nello sviluppo continuo",
+        "body": "Un’organizzazione non deve ricreare la propria identità per ogni bando. Sapere e capacità in evoluzione incontrano un interesse esterno attraverso un focus situato. Il focus può produrre una capacità nuova e arricchire il progetto complessivo. Gli orizzonti temporali osservano possibilità; gli impegni reali prendono forma con gli owner economici e progettuali."
+      },
+      {
+        "title": "Una candidatura competente incontra il formulario reale",
+        "body": "Un questionario copiato può omettere rami condizionali, limiti degli allegati o termini correnti. Quando la candidatura è affidata, osserva il ricevente reale e usa evidenze pubbliche e diritti pertinenti. Distingui bozza, payload approvato, oggetto inviato, conferma e assegnazione. Conserva backup e ricevuta utili anziché ricreare la stessa candidatura."
+      },
+      {
+        "title": "Rispettare la funzione dell’evidenza esterna",
+        "body": "Una richiesta di evidenza può riguardare affermazione scientifica, capacità tecnica o ammissibilità. Comprendi quel rapporto e sostienilo in modo pertinente. Non impone al progetto generativo indeterminato di aver già consegnato il risultato futuro. L’apertura delle possibilità, a sua volta, non rende compiuto un effetto previsto."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Una challenge di ricerca può sostenere una capacità",
+        "body": "Una fondazione chiede come gruppi indipendenti possano collaborare conservando le ragioni delle decisioni. Prima di promettere una piattaforma, forma la competenza che genera quella cooperazione. Partecipano metodi di attribuzione e continuità; la challenge fa emergere il nesso da approfondire. La proposta descrive seme formato, ricerca ancora necessaria e risorse abilitanti. Un kernel futuro può essere il risultato stesso. Preparare l’argomento resta distinto dall’ottenere il finanziamento."
+      },
+      {
+        "title": "Un pilot industriale richiede un beneficiario reale",
+        "body": "Un programma sostiene miglioramenti digitali nelle piccole imprese. Il gruppo sa costruire un assistente manutentivo evolutivo, ma nessuna azienda ha ancora selezionato il bisogno. Ricerca imprese raggiungibili e il lavoro concreto. Una difficoltà espressa da un tecnico può cambiare il progetto da automazione generica a conservazione del sapere fra turni. Azienda, fornitore ed ente mantengono ruoli diversi. Forma il progetto da quell’incontro prima di costruire integrazioni o attribuire domanda all’impresa."
+      },
+      {
+        "title": "La seconda richiesta insegna un’altra soluzione",
+        "body": "Dopo una proposta sulla cooperazione, il gruppo incontra una call sulla portabilità del sapere acquisito nei progetti. Riusa il metodo di formazione anziché la soluzione precedente. Comprendi il beneficiario proprietario del sapere e i riceventi fra cui deve continuare. Diventa centrale una capacità di trasferimento; lo studio cooperativo resta fonte. Distingui costi e nuovi risultati. Il secondo progetto può migliorare il generatore comune senza essere una copia rinominata del primo."
+      }
+    ],
+    "depth": {
+      "title": "La richiesta può cambiare come si formano i progetti",
+      "paragraphs": [
+        "Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi owner."
+      ]
+    },
+    "learning": [
+      "Conserva fatti della call e stato della candidatura nel progetto; mantieni qui il sapere trasferibile di formazione.",
+      "Una fonte mutata o un interlocutore reale possono cambiare il lavoro proposto: trasferisci la differenza nella proposta dipendente."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/funded-request-project-formation/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "funding",
+    "en": {
+      "title": "One request can reveal different projects",
+      "states": [
+        [
+          "Request",
+          "Understand the requested help",
+          "A team wants project knowledge to survive changes of tools and collaborators."
+        ],
+        [
+          "Capability",
+          "Find the capacity that can answer",
+          "Continuity, transfer and competent receivers form a situated project."
+        ],
+        [
+          "Resources",
+          "Make the work practicable",
+          "Time, access, domain participation and implementation support the intended change."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Una richiesta può far emergere progetti diversi",
+      "states": [
+        [
+          "Richiesta",
+          "Comprendere l’aiuto richiesto",
+          "Un gruppo vuole che il sapere continui cambiando strumenti e collaboratori."
+        ],
+        [
+          "Capacità",
+          "Riconoscere ciò che può rispondere",
+          "Continuità, trasferimento e riceventi competenti formano un progetto situato."
+        ],
+        [
+          "Risorse",
+          "Rendere il lavoro praticabile",
+          "Tempo, accesso, partecipazione del dominio e realizzazione sostengono il cambiamento."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "formare-fabbisogno-risorse",
+    "formare-capacita-cooperative",
+    "organizzare-lavoro-complesso"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

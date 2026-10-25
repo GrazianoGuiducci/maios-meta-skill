@@ -1,0 +1,230 @@
+{
+  "en": {
+    "title": "Turn a principle into a way of working",
+    "subtitle": "Carry the meaning of a correction into the competence that makes the next choice.",
+    "kind": "Generative metacompetence",
+    "domain": "Principles and evolving capabilities",
+    "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
+    "when": "When an important correction is remembered in a conversation but does not yet change how your AI works.",
+    "intro": [
+      "A source can contain a principle, a local preference, a question or a fact about one project. Understanding the difference preserves the author’s direction while allowing useful knowledge to travel.",
+      "Onto-Skill connects source meaning to a concrete consumer: the competence whose observation, choice or action should change. A recorded sentence becomes useful through that relationship."
+    ],
+    "examples": [
+      "A correction that improves quotations",
+      "A local preference remains local",
+      "A recurring activity meets a changed system"
+    ],
+    "method": [
+      {
+        "title": "Understand the contribution in its situation",
+        "body": "Recover the actual words, who contributed them, what was happening and why the difference mattered. Separate the original contribution from the assistant’s interpretation. A request to keep one report short may concern that encounter; a correction about missing decision reasons can teach a recurring capability. Preserve an unresolved meaning as an open question."
+      },
+      {
+        "title": "Find the relation that changes another case",
+        "body": "Form the smallest general relation supported by the contribution. Keep the conditions that make it useful. Distinguish a principle from a standing prohibition, an invariant and a preference. Check whether the relevant competence already understands it: when the knowledge exists but did not participate, reconnect its entry instead of duplicating a rule."
+      },
+      {
+        "title": "Change the competence’s method",
+        "body": "Identify the work that should become different: selecting a source, forming a question, comparing alternatives, constructing an artifact or continuing after an interruption. Let the responsible competence embody the principle in its own decisions and guide. Several owners may need different changes from the same event; preserve their distinct responsibilities."
+      },
+      {
+        "title": "Make the ability situated",
+        "body": "Understand which actual receiver, knowledge, tools and responsibilities make the ability exercisable. A method may support a chat, a project assistant or a scheduled activity in different ways. Record only the distinction needed for continuation. Writing a skill makes knowledge available; the receiving environment determines whether it can persist changes or perform an external action."
+      },
+      {
+        "title": "Let consequences refine the principle",
+        "body": "In later work observe what the principle preserved, changed or inadvertently constrained. Keep occurrence, earlier understanding and present understanding distinct. Refine or cool the principle when its relation changes; a different case may reveal better wording or a different consumer. Stop when further generalization adds only ceremony."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Principle, competence and ability",
+        "body": "A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. Foundational axioms keep the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources."
+      },
+      {
+        "title": "The useful continuation",
+        "body": "Keep enough to recover source, reason, scope, responsible competence and the choice that should differ. Use an existing guide or knowledge owner. A catalogue of every statement loses the causal relation. If the host cannot save a change, produce a small attributed proposal for the person or receiver that can; a proposed update and a saved update retain separate states."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A correction that improves quotations",
+        "body": "A studio rejects an AI quotation because the assistant removed the reasons behind two unusual costs. “Keep the reasons for an exception” carries more than a request for a longer document. Recover the original correction and distinguish it from a rule to explain every line item. The quotation competence learns to recognize a departure that could change a client’s decision and keeps its cause beside the amount. In a later small quotation with ordinary costs, the method stays concise. The transferable result is a better discrimination of consequential exceptions."
+      },
+      {
+        "title": "A local preference remains local",
+        "body": "An operator asks for a one-page board brief. A later assistant treats one page as a universal limit and truncates a technical recovery guide. Return to the original situation: the board’s reading conditions justified brevity there. The principle is to preserve what the recipient needs to decide or continue, in an appropriate form. Board communication and technical recovery receive different methods. The old instruction retains its attribution while its mistaken universal extension is removed."
+      },
+      {
+        "title": "A recurring activity meets a changed system",
+        "body": "A research activity keeps using an old source summary after the project acquires a specialist method. The useful principle concerns competent reentry, not adding another timer. Connect the activity’s native entry to the current source and let the specialist method change its next research choice. If one host has read-only access, it can return a qualified change proposal; a writing-capable receiver can integrate it within its mandate. Later research can show whether the new knowledge actually participates."
+      }
+    ],
+    "depth": {
+      "title": "The principle also changes how principles are formed",
+      "paragraphs": [
+        "When use reveals that a generalization was too broad or lost its source, Onto-Skill can refine its own recognition method. The correction changes the next act of formation."
+      ]
+    },
+    "learning": [
+      "Return source discrimination to this method; return domain decisions to the competence that owns them.",
+      "Keep a principle operative while it helps; allow a materially different case to change its scope and wording."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/onto-skill/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Da un principio a un modo di lavorare",
+    "subtitle": "Portare il significato di una correzione nella competenza che farà la prossima scelta.",
+    "kind": "Metacompetenza generativa",
+    "domain": "Principi e capacità evolutive",
+    "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
+    "when": "Quando una correzione importante resta nella conversazione e deve cambiare il modo in cui lavora la tua AI.",
+    "intro": [
+      "Una fonte può portare un principio, una preferenza locale, una domanda o un fatto di progetto. Comprendere la differenza conserva la direzione dell’autore e permette al sapere utile di continuare.",
+      "Onto-Skill collega il significato sorgente a un destinatario concreto: la competenza di cui devono cambiare osservazione, scelta o azione. Una frase conservata diventa utile attraverso questo rapporto."
+    ],
+    "examples": [
+      "Una correzione che migliora i preventivi",
+      "Una preferenza locale resta locale",
+      "Un’attività ricorrente incontra un sistema cambiato"
+    ],
+    "method": [
+      {
+        "title": "Comprendere il contributo nella sua situazione",
+        "body": "Recupera parole effettive, autore, situazione e ragione della differenza. Distingui il contributo originale dall’interpretazione dell’assistente. Tenere breve una relazione può essere una scelta per quell’incontro; recuperare ragioni decisionali mancanti può insegnare una capacità ricorrente. Conserva un significato ancora indeterminato come domanda aperta."
+      },
+      {
+        "title": "Riconoscere la relazione che cambia un altro caso",
+        "body": "Forma la relazione generale più piccola sostenuta dal contributo, conservando le condizioni che la rendono utile. Distingui principio, divieto permanente, invariante e preferenza. Riconosci se la competenza pertinente possiede già quel sapere: quando non ha partecipato, ripara l’ingresso anziché duplicare una regola."
+      },
+      {
+        "title": "Cambiare il metodo della competenza",
+        "body": "Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più owner, ciascuno nel proprio metodo."
+      },
+      {
+        "title": "Rendere l’abilità situata",
+        "body": "Comprendi quali ricevente, sapere, strumenti e responsabilità rendono esercitabile l’abilità. Lo stesso metodo può contribuire diversamente a chat, assistente di progetto o attività programmata. Conserva la distinzione utile al seguito. La skill rende disponibile il sapere; l’ambiente determina persistenza ed effetti esterni effettivamente esercitabili."
+      },
+      {
+        "title": "Lasciare che le conseguenze affinino il principio",
+        "body": "Nel lavoro successivo osserva cosa il principio ha conservato, cambiato o ristretto involontariamente. Distingui accaduto, comprensione di allora e attuale. Affina o raffredda il principio quando cambia la relazione; un altro caso può indicare una formulazione o un destinatario migliori. Fermati quando generalizzare ancora aggiunge soltanto forma."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Principio, competenza e abilità",
+        "body": "Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Gli assiomi fondativi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli."
+      },
+      {
+        "title": "La continuazione utile",
+        "body": "Conserva fonte, ragione, ambito, competenza responsabile e scelta che deve cambiare. Usa la guida o la sede di sapere già pertinente. Catalogare ogni frase perde il rapporto causale. Se il ricevente non può salvare, restituisci una proposta breve e attribuita a chi può farlo; proposta e aggiornamento persistito conservano stati distinti."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Una correzione che migliora i preventivi",
+        "body": "Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due costi insoliti. «Conserva la ragione di un’eccezione» porta più della richiesta di allungare il testo. Recupera la correzione originale e distinguila dall’obbligo di spiegare ogni riga. La competenza preventivi impara a riconoscere lo scostamento che cambia una decisione e conserva la causa vicino all’importo. Nel successivo preventivo semplice resta concisa. Il risultato trasferibile è una migliore discriminazione delle eccezioni rilevanti."
+      },
+      {
+        "title": "Una preferenza locale resta locale",
+        "body": "Un operatore chiede una pagina per il consiglio direttivo. Un assistente successivo ne fa un limite universale e tronca la guida di ripristino. Risali alla situazione originale: le condizioni di lettura del consiglio giustificavano lì la brevità. Il principio è conservare ciò che serve al destinatario per decidere o continuare, nella forma pertinente. Comunicazione al consiglio e ripristino tecnico ricevono metodi diversi. L’istruzione conserva la propria attribuzione; si corregge la sua estensione impropria."
+      },
+      {
+        "title": "Un’attività ricorrente incontra un sistema cambiato",
+        "body": "Un’attività di ricerca continua a usare una vecchia sintesi dopo che il progetto ha acquisito un metodo specialistico. Il principio riguarda il rientro competente, non un altro timer. Collega l’ingresso dell’attività alla fonte corrente e lascia che il metodo cambi la prossima scelta di ricerca. Un host in sola lettura può restituire una proposta qualificata; un ricevente capace di scrivere può integrarla nel proprio mandato. La ricerca successiva mostrerà se il sapere partecipa davvero."
+      }
+    ],
+    "depth": {
+      "title": "Il principio cambia anche come si formano i principi",
+      "paragraphs": [
+        "Quando l’uso mostra una generalizzazione troppo ampia o senza fonte, Onto-Skill affina anche il proprio modo di riconoscere i principi. La correzione cambia la formazione successiva."
+      ]
+    },
+    "learning": [
+      "Restituisci la discriminazione delle fonti a questo metodo e le scelte di dominio alla competenza che le possiede.",
+      "Mantieni operante il principio mentre è utile; lascia che un caso materialmente diverso ne cambi ambito e formulazione."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/onto-skill/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "principle",
+    "en": {
+      "title": "The same correction, three different consequences",
+      "states": [
+        [
+          "Preference",
+          "A one-page brief",
+          "The board meeting needs a short decision document."
+        ],
+        [
+          "Principle",
+          "Keep consequential reasons",
+          "An exception remains understandable when its reason travels with it."
+        ],
+        [
+          "Ability",
+          "The next quotation changes",
+          "The AI recognizes which cost needs an explanation and which can remain concise."
+        ]
+      ]
+    },
+    "it": {
+      "title": "La stessa correzione, tre conseguenze diverse",
+      "states": [
+        [
+          "Preferenza",
+          "Una pagina per il consiglio",
+          "L’incontro richiede un documento breve per decidere."
+        ],
+        [
+          "Principio",
+          "Conservare le ragioni rilevanti",
+          "Un’eccezione resta comprensibile se la sua ragione continua."
+        ],
+        [
+          "Abilità",
+          "Il prossimo preventivo cambia",
+          "L’AI riconosce quale costo richiede una spiegazione e quale può restare conciso."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "creare-comporre-competenze",
+    "estrarre-idee-dalle-conversazioni",
+    "evolvere-competenze"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

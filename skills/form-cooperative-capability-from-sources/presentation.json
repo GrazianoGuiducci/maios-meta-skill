@@ -1,0 +1,230 @@
+{
+  "en": {
+    "title": "Form the capability that can build a cooperative system",
+    "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
+    "kind": "Generative metacompetence",
+    "domain": "Cooperation and system formation",
+    "does": "Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.",
+    "when": "When a human–AI collaboration needs a way to develop its own capabilities before choosing a platform, protocol or application.",
+    "intro": [
+      "A project can begin with a competence that knows how to produce its solution. That competence keeps the reasons, source knowledge and learning through which a cooperative system can take shape.",
+      "This resource develops that generative capacity. Domain experts retain the actual construction; participants retain their knowledge, responsibilities and authority over shared effects."
+    ],
+    "examples": [
+      "A shared research group keeps its different voices",
+      "Maintenance knowledge becomes a cooperative capability",
+      "A kernel is a meaningful result"
+    ],
+    "method": [
+      {
+        "title": "Enter through the sources and shared intent",
+        "body": "Understand what people are trying to make possible and which knowledge already carries the ability to do it. Recover source reasons, participants, existing work and available means before deciding that the answer is a platform or agent hierarchy. Let unexpected source relations change the question. A chosen form remains valid when the field actually supports it."
+      },
+      {
+        "title": "Form the competence that can continue",
+        "body": "When the work needs a recurring transformation, give its project a competent entry: meaningful knowledge, decision method, current continuation and a way to learn from consequences. Reuse or compose an existing competence where it can do the work. The seed can already be a valuable project result; it need not imitate a predetermined application."
+      },
+      {
+        "title": "Form cooperation together with its conditions",
+        "body": "Recognize how contributions can meet without losing their source or responsibilities. A participant’s new ability can change the shared question but does not silently expand its mandate. Knowledge ownership, recoverable reasons and actual coordination may themselves become part of the solution. Let the case determine their form instead of imposing a universal protocol."
+      },
+      {
+        "title": "Incarnate through the recipient’s real means",
+        "body": "A useful result may be a project competence, a kernel, a service or an application. Transfer the knowledge and method the recipient needs to operate and continue it. Private source links alone do not provide that knowledge. Compose the technical or scientific owner for real construction and the resource owner for enabling conditions; their results keep their own identity."
+      },
+      {
+        "title": "Let the work evolve the generator",
+        "body": "When a consequence changes how cooperation can be formed, return the reusable difference to this generative method and the relevant domain competence. Preserve the event and the understanding it changed. A further case should benefit from that learning while remaining free to produce another form. Stop generating new wrappers when an existing capability is sufficient to act."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A seed is a source of work",
+        "body": "The project seed preserves why this transformation matters, the knowledge that enables it, the method for choosing and building, and the open continuation. It can be a small readable project faculty. File shape and runtime architecture follow the actual recipient. A seed initializes a capability; delivered software, deployed autonomy and observed cooperation are further results with their own evidence."
+      },
+      {
+        "title": "Complementary knowledge remains distinct",
+        "body": "A domain specialist understands its real object; a project competence preserves shared reasons; a coordinator carries the next contribution; economic competence handles resources and agreements. Their relationship can change during work. Common vocabulary does not merge owners, and agreement among copies of one account is not independent corroboration. New knowledge should reach the participant who must make a different choice."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A shared research group keeps its different voices",
+        "body": "Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions."
+      },
+      {
+        "title": "Maintenance knowledge becomes a cooperative capability",
+        "body": "Technicians and designers repeatedly exchange incomplete fault reports. Instead of starting with a ticket system, understand which observations change diagnosis, design and operation. Form the capability that recognizes these connections and returns useful differences to the appropriate participants. A maintenance event can teach a design criterion while leaving the technical repair with its owner. The first artifact may be a small project guide; a later service or application should incarnate that acquired method."
+      },
+      {
+        "title": "A kernel is a meaningful result",
+        "body": "A collaboration asks for a reusable way to form domain-specific teams. Source work reveals that the useful deliverable is a kernel able to discover, compose and deepen competences in the recipient’s environment. Treat that as a possible result in itself. Give it accessible operating knowledge and a learning return. An application can emerge later if actual use calls for one; adding an app merely to make the kernel look concrete would change the object."
+      }
+    ],
+    "depth": {
+      "title": "The generator learns from another form of cooperation",
+      "paragraphs": [
+        "A new project can reveal that the way a capability was formed is itself incomplete. Evolving that method improves the source of future cooperation, alongside the practical project."
+      ]
+    },
+    "learning": [
+      "Keep project-specific knowledge with the project; preserve reusable formation knowledge in this method.",
+      "A valid new result can change participants, question, medium or method without losing the shared intent."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/form-cooperative-capability-from-sources/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Formare la capacità che costruisce un sistema cooperativo",
+    "subtitle": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.",
+    "kind": "Metacompetenza generativa",
+    "domain": "Cooperazione e formazione di sistemi",
+    "does": "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.",
+    "when": "Quando una collaborazione umani–AI deve sviluppare le proprie capacità prima di scegliere piattaforma, protocollo o applicazione.",
+    "intro": [
+      "Un progetto può iniziare con una competenza capace di produrre la propria soluzione. Conserva ragioni, sapere sorgente e apprendimento attraverso cui prende forma un sistema cooperativo.",
+      "Questa risorsa sviluppa la capacità generativa. Le competenze di dominio conservano la costruzione concreta; i partecipanti il proprio sapere, le responsabilità e l’autorità sugli effetti condivisi."
+    ],
+    "examples": [
+      "Un gruppo di ricerca conserva le diverse voci",
+      "Il sapere di manutenzione diventa capacità cooperativa",
+      "Un kernel è un risultato significativo"
+    ],
+    "method": [
+      {
+        "title": "Entrare da sorgenti e intento comune",
+        "body": "Comprendi ciò che le persone vogliono rendere possibile e quale sapere ne porta già la capacità. Recupera ragioni sorgenti, partecipanti, lavoro e mezzi prima di decidere per una piattaforma o gerarchia di agenti. Le relazioni emerse possono cambiare la domanda. Una forma realmente determinata dal campo resta acquisita."
+      },
+      {
+        "title": "Formare la competenza che può continuare",
+        "body": "Quando il lavoro richiede una trasformazione ricorrente, dai al progetto un ingresso competente: sapere significativo, metodo decisionale, continuazione e apprendimento dalle conseguenze. Riusa o componi capacità esistenti. Il seme può essere già un risultato utile del progetto e non deve imitare un’applicazione predeterminata."
+      },
+      {
+        "title": "Formare la cooperazione insieme alle sue condizioni",
+        "body": "Riconosci come i contributi possono incontrarsi conservando fonte e responsabilità. Una nuova capacità può cambiare la domanda condivisa senza ampliare implicitamente il mandato. Titolarità del sapere, ragioni recuperabili e coordinamento possono diventare parte della soluzione. Il caso ne determina la forma, oltre un protocollo universale."
+      },
+      {
+        "title": "Incarnare attraverso i mezzi reali del destinatario",
+        "body": "Il risultato può essere una competenza, un kernel, un servizio o un’applicazione. Trasferisci il sapere e il metodo necessari al destinatario per operare e continuare. I soli rinvii a fonti private non lo consegnano. Componi il proprietario tecnico o scientifico per la costruzione e quello delle risorse per le condizioni abilitanti, con risultati distinti."
+      },
+      {
+        "title": "Lasciare che il lavoro evolva il generatore",
+        "body": "Quando una conseguenza cambia come formare cooperazione, restituisci la differenza riusabile a questo metodo e alla competenza di dominio pertinente. Conserva evento e comprensione mutata. Un altro caso beneficia dell’apprendimento e resta libero di produrre una forma diversa. Quando la capacità basta, esercitala senza aggiungere altri involucri."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Un seme è una sorgente di lavoro",
+        "body": "Il seme conserva perché conta la trasformazione, sapere abilitante, metodo per scegliere e costruire e continuazione aperta. Può essere una piccola facoltà leggibile del progetto. Forma dei file e architettura seguono il destinatario reale. Il seme inizializza una capacità; software consegnato, autonomia attiva e cooperazione osservata sono risultati ulteriori."
+      },
+      {
+        "title": "Il sapere complementare resta distinto",
+        "body": "La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli owner; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Un gruppo di ricerca conserva le diverse voci",
+        "body": "Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un chatbot condiviso deciso subito nasconderebbe l’origine di tesi e domande. Forma anzitutto una competenza che recupera le fonti dei contributi, collega le domande compatibili e conserva le differenze aperte. Gli assistenti partecipano attraverso i documenti effettivamente condivisi. Il gruppo potrà scegliere un’interfaccia comune; il primo risultato utile è saper continuare l’indagine senza appiattire le posizioni."
+      },
+      {
+        "title": "Il sapere di manutenzione diventa capacità cooperativa",
+        "body": "Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio owner. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo."
+      },
+      {
+        "title": "Un kernel è un risultato significativo",
+        "body": "Una collaborazione cerca un modo riusabile per formare gruppi competenti in domini diversi. Il lavoro sorgente fa emergere un kernel che sa scoprire, comporre e approfondire competenze nel destinatario. Consideralo un risultato possibile in sé. Consegnagli sapere operativo accessibile e ritorno di apprendimento. Un’applicazione potrà emergere dall’uso; aggiungerla soltanto per rendere il kernel apparentemente concreto cambierebbe l’oggetto."
+      }
+    ],
+    "depth": {
+      "title": "Il generatore impara da un’altra cooperazione",
+      "paragraphs": [
+        "Un altro progetto può mostrare che è incompleto il modo stesso di formare la capacità. Evolvere quel metodo migliora la sorgente delle cooperazioni future insieme al progetto pratico."
+      ]
+    },
+    "learning": [
+      "Conserva nel progetto il suo sapere specifico; mantieni qui quello riusabile sulla formazione.",
+      "Una nuova risultante può cambiare partecipanti, domanda, mezzo o metodo conservando l’intento comune."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/form-cooperative-capability-from-sources/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "cooperation",
+    "en": {
+      "title": "Cooperation can change what the project is",
+      "states": [
+        [
+          "Contributions",
+          "Different knowledge stays recognizable",
+          "Researchers, operators and assistants bring distinct sources and questions."
+        ],
+        [
+          "Competence",
+          "A shared way to continue",
+          "The project learns how to connect contributions while preserving their reasons."
+        ],
+        [
+          "Result",
+          "The form emerges from the work",
+          "A guide, kernel, service or application can carry the acquired capability."
+        ]
+      ]
+    },
+    "it": {
+      "title": "La cooperazione può cambiare il progetto",
+      "states": [
+        [
+          "Contributi",
+          "Il sapere diverso resta riconoscibile",
+          "Ricercatori, operatori e assistenti portano fonti e domande distinte."
+        ],
+        [
+          "Competenza",
+          "Un modo comune per continuare",
+          "Il progetto impara a collegare i contributi conservandone le ragioni."
+        ],
+        [
+          "Risultato",
+          "La forma emerge dal lavoro",
+          "Guida, kernel, servizio o applicazione possono incarnare la capacità acquisita."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "creare-comporre-competenze",
+    "collaborazione-assistenti-ai",
+    "trasferire-capacita-kernel"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

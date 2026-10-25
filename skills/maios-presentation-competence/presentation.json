@@ -1,0 +1,238 @@
+{
+  "en": {
+    "title": "Make an evolving system understandable",
+    "subtitle": "A recognizable first encounter, with the sources and depth needed to explore further.",
+    "kind": "Situated communication competence",
+    "domain": "Presentations and system understanding",
+    "does": "Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.",
+    "when": "When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve.",
+    "intro": [
+      "This method was developed through MAIOS presentations and its System Map. It connects what a system is, how it works, why that matters and how someone can encounter its capabilities. With another system, supply that system’s actual sources and responsible competences.",
+      "A presentation is a situated expression of the system’s knowledge. The first explanation can be brief while deeper relations remain reachable."
+    ],
+    "examples": [
+      "A first encounter with MAIOS",
+      "One system, different useful entrances",
+      "A diagram reveals a conceptual error"
+    ],
+    "method": [
+      {
+        "title": "Recover the system behind the latest artifact",
+        "body": "Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including its ability to form further competences. Preserve the distinct status of source, illustration and observed result."
+      },
+      {
+        "title": "Form the encounter with the receiver",
+        "body": "Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label."
+      },
+      {
+        "title": "Compose meaning and visible form together",
+        "body": "Work backward from the understanding the receiver should be able to form to the premises that make it possible. Compose words, visual objects, spatial relations and interaction together. A map’s center can imply authority; arrows can imply causation; an animation can imply a real timeline. Let those implications match the source instead of asking a caption to repair a misleading image."
+      },
+      {
+        "title": "Keep orientation and depth connected",
+        "body": "Provide a first relation the person can understand in the visible unit, then allow deeper explanation, source knowledge or an actual example to be reached. Choose navigation and timing according to the encounter. A public page, presenter’s map and conversation can share knowledge while serving different functions. Preserve the person’s focus when changing depth; let them explore and return."
+      },
+      {
+        "title": "Use authentic work where it makes the capability visible",
+        "body": "A short attributed excerpt, artifact or real correction can open the system’s depth. Keep its source and the actual consequence reachable. Distinguish the words expressed from proof of an internal process or later assimilation. An illustrative case can instead teach a mechanism, with its illustrative status clear. Choose the form that best preserves the useful relation."
+      },
+      {
+        "title": "Let the encounter improve the presenting competence",
+        "body": "A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to Design. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A system can work and become part of what it creates",
+        "body": "A generative system may be a research result, a usable product, a means already working inside its own development and a capacity for forming further situated systems. These relations can coexist. For MAIOS, the public Project Kernel is a concrete available incarnation; wider generative work continues. Present the relation selected by the actual encounter, with its real means and source depth."
+      },
+      {
+        "title": "A living map preserves reasons",
+        "body": "Maintain the concepts, why they are connected, how the representation expresses them and what current questions can change it. A new version should recover that understanding rather than rebuild from labels alone. Semantic and perceptual quality develop together: clear paragraphs cannot compensate for a diagram that makes the wrong relationship dominant."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A first encounter with MAIOS",
+        "body": "A reader sees a catalogue of skills and concludes that MAIOS is a prompt library. The presentation must make the system’s operating relation recognizable: knowledge and competences participate in work, results can change their method, and that generative capability can form further situated kernels. Use one illustrative project and keep the public kernel and deeper sources reachable. The case opens the relation; the catalogue then becomes useful detail rather than the definition of the whole system."
+      },
+      {
+        "title": "One system, different useful entrances",
+        "body": "An engineer asks how an industrial assistant preserves fault knowledge; a manager asks who must participate; a technician asks what changes during the shift. These are views of one system. Start each encounter from the actual question, connect the same sourced mechanism and expose the relevant depth. The technician can see a concrete handover example; the engineer can reach data and competence relations. Their different views should remain consistent when they meet again."
+      },
+      {
+        "title": "A diagram reveals a conceptual error",
+        "body": "A map draws every competence beneath a central controller, although the sources describe situated reciprocal participation. Adding a footnote would leave the wrong visual premise intact. Recover the intended relation and recompose geometry, verbs and navigation so that complementary contributions can become visible together. Observe the rendered result and the questions it now supports. Keep the conceptual correction and the design choice with their respective owners for the next map."
+      }
+    ],
+    "depth": {
+      "title": "A presentation can improve the method that presents",
+      "paragraphs": [
+        "When an encounter reveals that the presenting method reduced the system to one artifact, the correction can change the source understanding and the competence’s next way of explaining."
+      ]
+    },
+    "learning": [
+      "Preserve the relation between first encounter and deeper sources; a short page can carry that access.",
+      "A new question may change the concept, visual form or medium; update only the dependent representations."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Attach the complete starter and add your real assignment, sources and available means. Keep the useful continuation with the project."
+      },
+      {
+        "title": "In an agentic environment",
+        "body": "Make the complete folder reachable. The operating method, practical guide and examples remain together; the host supplies the actual tools and persistence."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Connect this capability to the project’s existing knowledge and competent owners. Preserve acquired local learning when adopting an update."
+      }
+    ],
+    "operating_guide": "skills/maios-presentation-competence/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Rendere comprensibile un sistema che evolve",
+    "subtitle": "Un primo incontro riconoscibile, con le fonti e la profondità per proseguire.",
+    "kind": "Competenza comunicativa situata",
+    "domain": "Presentazioni e comprensione dei sistemi",
+    "does": "Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario.",
+    "when": "Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono.",
+    "intro": [
+      "Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega cosa è il sistema, come opera, perché conta e come incontrarne le capacità. Per un altro sistema fornisci le sue fonti effettive e le competenze responsabili.",
+      "Una presentazione è un’espressione situata del sapere del sistema. La prima spiegazione può essere breve mentre le relazioni più profonde restano raggiungibili."
+    ],
+    "examples": [
+      "Un primo incontro con MAIOS",
+      "Uno stesso sistema, ingressi utili differenti",
+      "Un diagramma rivela un errore concettuale"
+    ],
+    "method": [
+      {
+        "title": "Recuperare il sistema oltre l’ultimo artefatto",
+        "body": "Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze. Conserva il diverso statuto di fonte, illustrazione e risultato osservato."
+      },
+      {
+        "title": "Formare l’incontro con il destinatario",
+        "body": "Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico."
+      },
+      {
+        "title": "Comporre insieme significato e forma visibile",
+        "body": "Dalla comprensione che il destinatario deve poter formare risali alle premesse necessarie. Componi insieme parole, oggetti visivi, nessi spaziali e interazione. Il centro può suggerire autorità, una freccia causalità, l’animazione una cronologia reale. Fai corrispondere queste implicazioni alla fonte anziché affidare a una didascalia la riparazione di una figura fuorviante."
+      },
+      {
+        "title": "Collegare orientamento e profondità",
+        "body": "Offri una prima relazione comprensibile nell’unità visibile e rendi raggiungibili spiegazione, sapere sorgente o esempio. Navigazione e tempi seguono l’incontro. Pagina pubblica, mappa del relatore e dialogo condividono sapere con funzioni differenti. Conserva il focus della persona quando cambia profondità, lasciandole esplorare e ritornare."
+      },
+      {
+        "title": "Usare il lavoro autentico quando rende visibile la capacità",
+        "body": "Un breve estratto attribuito, un artefatto o una correzione reale possono aprire la profondità del sistema. Mantieni raggiungibili fonte e conseguenza effettiva. Distingui parole espresse, prova di un processo interno e assimilazione successiva. Un caso illustrativo può insegnare un meccanismo dichiarando il proprio statuto. Scegli la forma che conserva la relazione utile."
+      },
+      {
+        "title": "Lasciare che l’incontro migliori la competenza del presentare",
+        "body": "Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione a Design. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Un sistema può lavorare e diventare parte di ciò che crea",
+        "body": "Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi situati. Sono relazioni che coesistono. In MAIOS il Project Kernel pubblico è un’incarnazione concreta disponibile; il lavoro generativo più ampio continua. Presenta la relazione pertinente con mezzi effettivi e profondità sorgente."
+      },
+      {
+        "title": "Una mappa viva conserva ragioni",
+        "body": "Conserva concetti, ragioni dei collegamenti, modo in cui la rappresentazione li esprime e domande che possono cambiarli. Una nuova versione recupera questa comprensione anziché ripartire dalle etichette. Qualità semantica e percettiva crescono insieme: paragrafi chiari non compensano un diagramma che rende dominante il rapporto sbagliato."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Un primo incontro con MAIOS",
+        "body": "Un lettore vede un catalogo di skill e interpreta MAIOS come raccolta di prompt. La presentazione rende riconoscibile la relazione operativa: sapere e competenze partecipano al lavoro, i risultati possono cambiarne il metodo e la capacità generativa forma altri kernel situati. Usa un progetto illustrativo e rendi raggiungibili kernel pubblico e fonti profonde. Il caso apre il rapporto; il catalogo diventa un dettaglio utile, oltre la definizione dell’intero sistema."
+      },
+      {
+        "title": "Uno stesso sistema, ingressi utili differenti",
+        "body": "Un ingegnere chiede come un assistente conserva i guasti; un responsabile chi deve partecipare; un tecnico cosa cambia nel turno. Sono viste dello stesso sistema. Parti dalla domanda, collega il medesimo meccanismo sorgente e rendi accessibile la profondità pertinente. Il tecnico incontra un passaggio di consegne concreto, l’ingegnere dati e relazioni fra competenze. Le viste devono restare coerenti quando tornano a incontrarsi."
+      },
+      {
+        "title": "Un diagramma rivela un errore concettuale",
+        "body": "Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di Design presso i rispettivi owner per la mappa successiva."
+      }
+    ],
+    "depth": {
+      "title": "Una presentazione può migliorare il metodo che presenta",
+      "paragraphs": [
+        "Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare."
+      ]
+    },
+    "learning": [
+      "Conserva il rapporto fra primo incontro e fonti profonde: una pagina breve può portarne l’accesso.",
+      "Una nuova domanda può cambiare concetto, forma visiva o mezzo: aggiorna le rappresentazioni dipendenti."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e aggiungi incarico reale, fonti e mezzi disponibili. Conserva con il progetto la continuazione utile."
+      },
+      {
+        "title": "In un ambiente agentico",
+        "body": "Rendi raggiungibile la cartella completa. Metodo, guida pratica ed esempi restano insieme; il ricevente fornisce strumenti e persistenza effettivi."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Collega questa capacità al sapere del progetto e alle competenze già operanti. Conserva l’apprendimento locale acquisito quando adotti un aggiornamento."
+      }
+    ],
+    "operating_guide": "skills/maios-presentation-competence/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "presentation",
+    "en": {
+      "title": "One system, three depths of encounter",
+      "states": [
+        [
+          "First encounter",
+          "A recognizable way of working",
+          "Knowledge participates in a project and changes how the next task is done."
+        ],
+        [
+          "Mechanism",
+          "The result can change the method",
+          "Sources, competences, people and consequences remain connected during work."
+        ],
+        [
+          "Depth",
+          "The system can form another system",
+          "The acquired generative capability can take shape in another real project."
+        ]
+      ]
+    },
+    "it": {
+      "title": "Uno stesso sistema, tre profondità d’incontro",
+      "states": [
+        [
+          "Primo incontro",
+          "Un modo riconoscibile di lavorare",
+          "Il sapere partecipa al progetto e cambia come si affronta il lavoro successivo."
+        ],
+        [
+          "Meccanismo",
+          "Il risultato può cambiare il metodo",
+          "Fonti, competenze, persone e conseguenze restano collegate nel lavoro."
+        ],
+        [
+          "Profondità",
+          "Il sistema può formare un altro sistema",
+          "La capacità generativa acquisita prende forma in un altro progetto reale."
+        ]
+      ]
+    }
+  },
+  "related": [
+    "dal-concetto-ai-media",
+    "titoli-e-sottotitoli",
+    "comprendere-lavoro-agente"
+  ],
+  "edition_note": {
+    "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",
+    "it": "Metodo operativo pubblico. Esempi illustrativi; uso e apprendimento in un altro ricevente conservano le proprie osservazioni."
+  }
+}

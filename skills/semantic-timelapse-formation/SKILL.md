@@ -29,7 +29,7 @@ The source may call for a **person, object, tool, setting, gesture or material c
 
 When relevant, let the source specify each visual actor's **role, observable state, recognisable features, action and relation to others**. Form image A with these material distinctions and observe whether it invents a character's identity, authority, capability or causation. The animation should preserve the referent while camera, gesture, object state and text change. A representational character is not proof of a real human or autonomous agent.
 
-After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The illustration-first path is **formed method here**, not yet an independently exercised character/3D video.
+After A, make B as editable code with actual assets and geometry. A single flattened illustration does not automatically provide separately movable body parts, an unseen backside, a 3D mesh, rig or depth data. 2.5D may use layers, masks and parallax; true 3D needs its own modelling/camera/materials and real runtime capabilities. Choose the simplest carrier that expresses the source-bound change. The source development has exercised generated-reference 2.5D films; a new narrative film and independent recipient use keep their own exercise state.
 
 ## Time and the short film
 
@@ -54,7 +54,7 @@ KA keeps the possibility field open; FDLA corrects source/intent substitutions i
 
 A short film can need source comprehension, image A generation, editable B, visual actors and objects, 2.5D/3D motion, sound, rendering and learning. These are complementary capabilities bound by one video object, **not eight mandatory phases or eight installed tools**. The [VC-30s operating competence field](VC30_OPERATIONAL_KERNEL.md) makes the relation portable; its public edition contains source links and technical distinctions without private MAIOS topology or third-party code.
 
-The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. No new 3D or character film is claimed.
+The transferable difference from studying HyperFrames, GSAP/Three.js, PixiJS, Motion Video, iart motion skills, Remotion and Framer Motion is not a chosen framework. It is the ability to **compose a scene at arbitrary time**, preserve character/object identity and source status, wait for assets, arrange narration/audio when useful, inspect encoded frames and return method learning to the appropriate competence. `real-time update(dt)` is not automatically a seekable `render(t)`. A generated image A remains distinct from scene B; a shader, rig or library is a technical means, not authority over what happened. A new recipient’s 3D or narrative production requires its own actual means and observed result.
 
 **From first visual reference to actually animable elements.** A is a real generated image to look at before coding B, but it is **not** a rig or the set of moveable parts. If the subject requires a hand, prop, character expression, separated foreground or true depth to move independently, recognise which additional consistent assets, poses, layers or geometry are needed; acquire them only when pertinent. Keep their source/provenance and identity, or instead change the motion/camera if A cannot support it. A single still may be entirely sufficient for a film that animates it as a whole. [VC-30s](VC30_OPERATIONAL_KERNEL.md) carries the deeper method, learned from a selective source audit rather than a claim to have read every project file.
 
@@ -79,3 +79,9 @@ The image generator is a **real capability required for image A** in the selecte
 An image generator, code execution and video encoder must actually be available to perform their respective steps. The receiving host may use Python/Pillow/FFmpeg, SVG/Canvas or another suitable medium. Source truth, asset rights, installation and public posting retain their own boundaries.
 
 Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes the operating knowledge for a chat without file access.
+
+## MKCV — one film, reciprocal competences
+
+A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
+
+[Read the reciprocal cinematic method](MKCV_CINEMA_EN.md). The four complementary public kits are linked from this resource’s page.

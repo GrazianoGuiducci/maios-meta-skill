@@ -1,0 +1,46 @@
+---
+name: film-montage
+description: Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena. Quando le singole inquadrature funzionano ma ordine, ritmo o suono cambiano il significato del film.
+---
+
+# Film Montage
+
+Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena.
+
+Due immagini possono suggerire un nesso che nessuna mostra da sola. Il montaggio comprende quel rapporto mentre forma il film, dal reel grezzo al taglio finale.
+
+Il lavoro può riguardare continuità, confronto, sorpresa, silenzio o piano mantenuto. La forma segue il soggetto e ciò che lo spettatore può scoprire.
+
+## Comprendere ciò che la sequenza rende conoscibile
+
+Recupera fonte, situazione autoriale, punto di vista e materiale o scena disponibili. Individua ciò che si scopre nell’incontro fra inquadrature. La timeline può suggerire successione, confronto, causa od omissione. Conserva la differenza fra evento osservato e significato formato dal montaggio.
+
+
+## Formare il rapporto attraverso ordine e durata
+
+Scegli ingressi, uscite, ciò che resta abbastanza da essere percepito e ciò che viene omesso. Quadro mantenuto e piano continuo possono essere la forma pertinente. Il ritmo segue azione e scoperta, oltre una frequenza fissa di tagli. Confronta come ingresso e uscita cambiano la lettura di gesto o reazione.
+
+
+## Usare continuità e suono come strumenti situati
+
+Sguardo, raccordo sull’azione e orientamento spaziale rendono intelligibile il mondo; una discontinuità voluta può creare un altro rapporto. Il suono può anticipare la prossima immagine o proseguire dalla precedente cambiando attesa e informazione. Il silenzio può avere funzione. Scegli i mezzi pertinenti con audio e diritti reali.
+
+
+## Osservare l’inferenza prodotta dal taglio
+
+Se l’accostamento crea causa, autorità o attribuzione emotiva prive di fonte, ritorna a soggetto e fonti con scrittura e regia. La fluidità può nascondere un nesso falso. Nella fiction il montaggio può formare un collegamento; documentario e spiegazione tecnica richiedono di qualificarlo con la fonte. Mantieni la distinzione nella resa finale.
+
+
+## Comporre un reel effettivo e imparare dalla resa
+
+Un assemblaggio grezzo rende visibili reazione mancante, ripetizione o transizione impossibile prima del render finale. L’osservazione cambia scrittura, regia o interpretazione presso i rispettivi owner. Produzione realizza timeline, seek, compositing e codifica effettivi. Conserva ragione del taglio e sapere temporale riusabile per un altro film.
+
+## Continuare attraverso il progetto reale
+
+Conserva rapporto desiderato ed effetto osservato del taglio, oltre al timestamp.
+
+Restituisci qui significato temporale e al medium produttivo codifica, riproducibilità e strumenti.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

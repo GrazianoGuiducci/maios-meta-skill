@@ -1,3 +1,11 @@
+# Nine further capabilities — public edition 0.1.0
+
+The collection now contains **42 bilingual resources**. The [nine-capability edition](docs/EXPANSION_NINE_20261025.md) adds principle-to-ability formation, cooperative capability formation, funded-request project formation, source-grounded films, evolving-system presentations and four complementary cinematic competences. Each resource has its own operating knowledge, three developed examples, complete starters and installation guides.
+
+Semantic Timelapse retains its original public candidate contribution and its MKCV/VC-30s knowledge, finalized as a coherent public 0.1.0 edition. The previous 33 resources retain versions and package bytes. Source publication, live resource pages and independent receiving use have their own observations; the illustrative page explorations explain the methods.
+
+## Previous delivery
+
 # Eight additional resources — public edition 0.1.0
 
 The collection contains 33 bilingual resources. This edition adds D-ND Learn From Demonstration, Situated Possibility Formation, Semantic Relational Comprehension, Cognitive Delegation Manager, Transfer Kernel Potential, Resource Need Formation, Authorial Source Discrimination and Concept-to-Media Formation.

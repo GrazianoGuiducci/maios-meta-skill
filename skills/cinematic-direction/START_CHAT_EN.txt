@@ -1,0 +1,75 @@
+
+# Cinematic Direction
+
+Forms the cinematic experience of a scene through staging, viewpoint, camera, light and the relation to performance and montage.
+
+Direction connects a subject and its actions to a perceptible world. What is shown, hidden, near, distant or held in time can change the scene.
+
+It composes with writing, performance and montage while production constructs the actual camera, assets and renderer.
+
+## Understand the scene’s actual relation
+
+Recover subject, source status, narrative conditions and the change that matters. A fiction, documentary, demo or contemplative film can call for different attention. Preserve what the author has determined while letting a perceptual observation reform a proposal. A visually attractive camera move should remain connected to the subject it helps the viewer encounter.
+
+
+## Form a world through staging and viewpoint
+
+Compose the actors or objects, their distances, environment, primary action and viewer position. Consider what the camera can see, what remains offscreen and how light and materials guide attention. Lens, axis, eyeline and depth are tools for orientation or a meaningful change of it. They are choices in a scene rather than universal prescriptions.
+
+
+## Use previsualization when it changes the decision
+
+A storyboard, rough reel or light 3D scene can reveal whether spatial relations, movement and cuts work before final assets are built. Choose the smallest medium that can expose the question. A reference image may omit hidden surfaces or practical camera room; keep reconstruction identifiable and let production contribute real limitations and possibilities.
+
+
+## Compose with action, performance and edit
+
+Discuss what the gesture must communicate with performance and what the viewer can discover with writing and montage. A framing can hide a meaningful contact; a cut can reveal the wrong moment. Return the difference to the responsible competence and recompose the same scene. The contribution can be a staging note or a new viewpoint rather than a complete production plan.
+
+## Continue through the actual project
+
+Keep source meaning and the reason for staging together in the film’s guide.
+
+Let writing, performance and montage return differences while the scene is still forming.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Cinematic Direction — practical operating knowledge
+
+## Camera movement has a perceptual reason
+
+A reveal can connect an actor to a previously unseen object; a held frame can let a small change become legible. Camera movement should serve the relation rather than fill every interval. A technical orbit around a model demonstrates a camera capability; it becomes direction when its relationship to the scene is understood and formed.
+
+
+## Perceptual and technical decisions meet
+
+Describe the intended visible relation, then compose with actual geometry, camera and render means. A renderer parameter is not by itself a directing choice. If a desired viewpoint needs geometry that is not present, acquire or form the necessary asset, choose a different view or retain the missing capability precisely. The scene’s meaning can change through this encounter.
+
+## The observed frame can change the directing method
+
+A perceptual discovery can refine how the next scene is approached, while technical camera learning remains with the production medium.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## A plant changes the framing
+
+A fictional character reaches toward a small pot at the edge of the frame. In the wide shot the gesture looks arbitrary; a closer view reveals the falling stem and the hand’s support. Choose the viewpoint that lets the viewer discover that relation. Performance can refine contact and timing. The change is not a rule to use close-ups: another scene may need the surrounding workshop to explain the gesture. Keep the reason so a later scene can choose differently.
+
+
+## A rough world reveals an impossible shot
+
+A proposed camera passes behind an object supplied only as a flat image. A rough scene makes the unseen geometry problem visible before expensive rendering. Direction and production can instead use a restrained lateral move, obtain another consistent reference or model the necessary surface as an explicit reconstruction. The decision preserves subject identity and the intended reveal. It does not claim that a single image supplied a complete 3D world.
+
+
+## Stillness becomes the directing choice
+
+A scene asks the viewer to notice that an empty chair remains after a conversation. Adding an orbit would shift attention to camera technique. Hold the frame and let the duration reveal absence. Montage tests when the scene should end, while writing preserves what that absence means in the story. The same apparatus could move in another scene; the learned relation concerns attention and consequence, not a fixed visual style.
+
+
+My assignment, sources, existing work, available means and requested result:
