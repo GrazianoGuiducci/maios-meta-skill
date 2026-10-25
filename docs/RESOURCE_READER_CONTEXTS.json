@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "purpose": "Contextual headings for the first illustrative case on public resource pages. The case bodies remain in each resource's language-specific examples.",
+  "contexts": {
+    "dnd-material-work-continuity": {"it": "Ricostruire il lavoro dopo una nuova decisione del cliente", "en": "Recover the work after a new client decision"},
+    "public-learning-promotion": {"it": "Una guida pubblica insegna a riconoscere la documentazione superata", "en": "A public guide teaches how to recognize outdated documentation"},
+    "situated-activity-evolution": {"it": "Una ricerca AI settimanale ripete fonti già note", "en": "A weekly AI research activity repeats familiar sources"},
+    "maintain-kernel-knowledge": {"it": "Conservare perché il progetto ha scelto l’elaborazione locale", "en": "Preserve why the project chose local processing"},
+    "ux-ai-kernel-design": {"it": "L’interfaccia AI distingue una modifica pronta da una attiva", "en": "The AI interface distinguishes a prepared change from an active one"},
+    "projectable-presence": {"it": "L’assistente distingue le capacità disponibili del prodotto da quelle in sviluppo", "en": "The assistant distinguishes available product capabilities from those in development"},
+    "maintain-repository-continuity": {"it": "Condividere una modifica preservando il lavoro dell’altro collaboratore", "en": "Share a change while preserving another collaborator’s work"},
+    "compose-agreement-contract": {"it": "Due gruppi definiscono contributi e riuso in una collaborazione di ricerca", "en": "Two groups define contributions and reuse in a research collaboration"},
+    "evolve-editoriali-system": {"it": "Una correzione ai titoli deve cambiare il metodo editoriale della redazione", "en": "A heading correction needs to change the editorial team’s writing method"},
+    "meta-skill-semantic-kernel": {"it": "Il confronto fra preventivi diventa una competenza riusabile dell’AI", "en": "Comparing quotations becomes a reusable AI competence"},
+    "kernel-plugin-incarnation": {"it": "Un plugin collega un archivio al metodo dell’assistente di ricerca", "en": "A plugin connects an archive to the research assistant’s method"},
+    "incarnate-neutral-kernel-node": {"it": "Avviare un assistente di ricerca con il sapere del nuovo progetto", "en": "Start a research assistant with the new project’s knowledge"},
+    "kernel-continuum-awareness": {"it": "Il punto di rientro dell’assistente deve raggiungere il metodo aggiornato", "en": "The assistant’s reentry point needs to reach the updated method"},
+    "proto-movimento": {"it": "L’ingresso del kernel AI impone un progetto che il suo metodo non richiede", "en": "The AI kernel’s entry requires a project that its method does not need"},
+    "operate-ka": {"it": "Una domanda sul sistema AI viene ridotta a un difetto del codice", "en": "A question about the AI system is reduced to a code defect"},
+    "operate-fdla": {"it": "La revisione AI chiude una possibilità lasciata aperta dall’autore", "en": "The AI revision closes a possibility the author left open"},
+    "dnd-learn-from-demonstration": {"it": "Un esempio insegna all’AI a confrontare alternative in una proposta", "en": "An example teaches AI to compare alternatives in a proposal"},
+    "situated-possibility-formation": {"it": "Dal sapere di assistenza del gruppo emerge la possibilità di un servizio", "en": "The group’s support knowledge reveals a possible service"},
+    "semantic-relational-comprehension": {"it": "Due registrazioni autentiche descrivono versioni diverse del progetto", "en": "Two authentic records describe different project versions"},
+    "cognitive-delegation-manager": {"it": "Le interviste affidate a un assistente cambiano il prototipo dell’altro", "en": "Interviews assigned to one assistant change the other assistant’s prototype"},
+    "transfer-kernel-potential": {"it": "Il kit di una competenza deve conservare la sua funzione eseguibile", "en": "A competence kit needs to preserve its executable function"},
+    "resource-need-formation": {"it": "Comprendere il lavoro di inferenza AI prima di scegliere l’hardware", "en": "Understand the AI inference workload before choosing hardware"},
+    "authorial-source-discrimination": {"it": "La revisione dell’AI trasforma una domanda dell’autore in una conclusione", "en": "The AI revision turns an author’s question into a conclusion"},
+    "concept-to-media-formation": {"it": "Rappresentare il metodo cambiato da una correzione autoriale", "en": "Represent a method changed by an author’s correction"}
+  }
+}
