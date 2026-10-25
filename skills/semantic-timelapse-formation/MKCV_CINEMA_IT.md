@@ -1,5 +1,7 @@
 # MKCV — un film, competenze reciproche
 
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
 La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.
 
 Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cinematic Direction l’incontro percepibile con messa in scena, camera e luce. Character & Object Performance azione e reazione leggibili. Film Montage il rapporto fra immagini e suono. La produzione in codice costruisce e osserva il medium eseguibile effettivo.

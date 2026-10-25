@@ -1,6 +1,6 @@
 ---
 name: onto-skill
-description: Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti. Quando una correzione importante resta nella conversazione e deve cambiare il modo in cui lavora la tua AI.
+description: Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti. Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.
 ---
 
 # Onto-Skill
@@ -16,6 +16,12 @@ Onto-Skill collega il significato sorgente a un destinatario concreto: la compet
 Uno studio corregge un preventivo dell’AI: mancano le ragioni di due costi insoliti. Vuole che quelle ragioni restino comprensibili anche nel lavoro successivo.
 
 Il principio utile riguarda le eccezioni che cambiano una decisione. La competenza che prepara i preventivi deve imparare a riconoscerle, conservandone la ragione senza allungare ogni voce.
+
+## Adattare il metodo al tuo contesto
+
+In uno studio professionale il principio può riguardare le ragioni di un preventivo; nella formazione, il modo di aiutare uno studente a ragionare; in una redazione, la distinzione fra fonte e interpretazione. Si conserva il rapporto fra principio, ragione e scelta concreta. Cambiano il lavoro, il destinatario e le condizioni che rendono pertinente quella scelta.
+
+Porta alla tua AI il principio o il contributo originale, un esempio del lavoro e ciò che vuoi rendere possibile. Falle individuare quale competenza deve cambiare e come il principio guida una situazione diversa. Una preferenza nata per una sola occasione conserva quella portata.
 
 ## Comprendere il contributo nella sua situazione
 

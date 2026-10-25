@@ -17,6 +17,12 @@ Nella fiction il robot nota una pianta caduta e la aiuta. Se il braccio parte su
 
 L’interpretazione dà forma osservabile all’azione autoriale attraverso corpo, tempo e contatto. Gli asset e le articolazioni realmente disponibili determinano come costruirla.
 
+## Adattare il metodo al tuo contesto
+
+L’interpretazione anima un personaggio di fiction, un oggetto che reagisce a un peso o un gesto in una dimostrazione. Si conserva la relazione fra azione, reazione e segni che il pubblico può leggere. Cambiano corpo, materiale, articolazioni disponibili e intenzione autoriale.
+
+Porta il soggetto, il gesto e i limiti del materiale animabile. Il robot della pianta è un personaggio inventato; un tutorial tecnico può invece richiedere soltanto pressione, contatto e risposta dell’oggetto. Esitazione e premura appartengono alla finzione quando sono scritte nella scena; un movimento di una macchina reale va spiegato attraverso il suo funzionamento documentato.
+
 ## Comprendere il rapporto dell’attore con la scena
 
 Recupera identità, riconoscibilità, azione affidata e condizioni della scena. Ricevi l’eventuale intenzione dalla storia autoriale. Un oggetto dimostrativo può richiedere peso, equilibrio o trasformazione senza essere umanizzato. Il soggetto determina se sguardo, respiro, contatto o reazione sono significativi.

@@ -17,6 +17,12 @@ Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funzion
 
 La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema.
 
+## Adattare il metodo al tuo contesto
+
+Un museo presenta un archivio digitale, un’impresa introduce un nuovo servizio, un gruppo di ricerca spiega un sistema sperimentale. Si conserva la relazione fra ciò che il sistema è, ciò che sa fare e la domanda di chi lo incontra. Cambiano il sistema sorgente, il pubblico, le parole e la profondità necessaria.
+
+Porta documenti, capacità effettive e un caso d’uso del sistema da presentare. Parti da una domanda riconoscibile per quel pubblico e collegala al meccanismo che la rende possibile. I riferimenti a MAIOS negli esempi ne indicano l’origine; il tuo sistema fornisce identità, fonti e possibilità della nuova presentazione.
+
 ## Recuperare il sistema oltre l’ultimo artefatto
 
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.

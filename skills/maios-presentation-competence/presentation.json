@@ -94,6 +94,13 @@
       "title": "Explain one system to the people using or building it",
       "situation": "A technician asks what changes during a shift; an engineer asks how the assistant works; a manager asks who needs to participate. All three questions concern the same system.",
       "point": "The presentation begins with the actual question and makes the same mechanism and sources reachable. The depth of the view changes while the system’s identity and capabilities remain coherent."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "A museum presents a digital archive, a company introduces a service, a research group explains an experimental system. Preserve the relationship between what the system is, what it can do and the question of the person encountering it. The source system, audience, words and required depth change.",
+        "Provide documents, actual capabilities and a use case of the system being presented. Start with a question recognizable to that audience and connect it to the mechanism that makes it possible. MAIOS references in the examples identify their origin; your system supplies the identity, sources and possibilities of the new presentation."
+      ]
     }
   },
   "it": {
@@ -191,6 +198,13 @@
       "title": "Spiegare lo stesso sistema a chi deve usarlo o costruirlo",
       "situation": "Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funziona l’assistente; un responsabile chi deve partecipare. Le tre domande riguardano lo stesso sistema.",
       "point": "La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "Un museo presenta un archivio digitale, un’impresa introduce un nuovo servizio, un gruppo di ricerca spiega un sistema sperimentale. Si conserva la relazione fra ciò che il sistema è, ciò che sa fare e la domanda di chi lo incontra. Cambiano il sistema sorgente, il pubblico, le parole e la profondità necessaria.",
+        "Porta documenti, capacità effettive e un caso d’uso del sistema da presentare. Parti da una domanda riconoscibile per quel pubblico e collegala al meccanismo che la rende possibile. I riferimenti a MAIOS negli esempi ne indicano l’origine; il tuo sistema fornisce identità, fonti e possibilità della nuova presentazione."
+      ]
     }
   },
   "showcase": {

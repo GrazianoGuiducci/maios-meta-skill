@@ -1,7 +1,7 @@
 {
   "id": "dirigere-scene-cinematografiche",
   "name": "Cinematic Direction",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "39",
@@ -35,7 +35,7 @@
   "starter": "skills/cinematic-direction/START_CHAT_EN.txt",
   "examples": "skills/cinematic-direction/EXAMPLES.md",
   "presentation": "skills/cinematic-direction/presentation.json",
-  "package": "dist/cinematic-direction-0.1.1.zip",
+  "package": "dist/cinematic-direction-0.1.2.zip",
   "en": {
     "title": "Direct a scene through framing, camera and light",
     "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",

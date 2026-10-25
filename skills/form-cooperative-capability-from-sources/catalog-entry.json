@@ -1,7 +1,7 @@
 {
   "id": "formare-capacita-cooperative",
   "name": "Form Cooperative Capability from Sources",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "35",
@@ -35,7 +35,7 @@
   "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
   "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
   "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-  "package": "dist/form-cooperative-capability-from-sources-0.1.1.zip",
+  "package": "dist/form-cooperative-capability-from-sources-0.1.2.zip",
   "en": {
     "title": "Develop cooperation between people and AI assistants",
     "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
@@ -46,7 +46,7 @@
     "examples": [
       "A shared research group keeps its different voices",
       "Maintenance knowledge becomes a cooperative capability",
-      "A kernel is a meaningful result"
+      "Volunteers and assistants prepare a cultural programme"
     ],
     "route": "/resources/formare-capacita-cooperative/",
     "description": "Connect contributions and responsibilities and form the project capability that lets the group continue."
@@ -61,7 +61,7 @@
     "examples": [
       "Un gruppo di ricerca conserva le diverse voci",
       "Il sapere di manutenzione diventa capacità cooperativa",
-      "Un kernel è un risultato significativo"
+      "Volontari e assistenti preparano una rassegna culturale"
     ],
     "route": "/risorse/formare-capacita-cooperative/",
     "description": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare."

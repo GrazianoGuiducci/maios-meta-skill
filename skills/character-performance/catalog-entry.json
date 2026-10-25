@@ -1,7 +1,7 @@
 {
   "id": "interpretare-personaggi-animati",
   "name": "Character & Object Performance",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "40",
@@ -35,7 +35,7 @@
   "starter": "skills/character-performance/START_CHAT_EN.txt",
   "examples": "skills/character-performance/EXAMPLES.md",
   "presentation": "skills/character-performance/presentation.json",
-  "package": "dist/character-performance-0.1.1.zip",
+  "package": "dist/character-performance-0.1.2.zip",
   "en": {
     "title": "Animate the gestures and reactions of characters and objects",
     "subtitle": "Gaze, pose, timing and contact make an animated action readable.",

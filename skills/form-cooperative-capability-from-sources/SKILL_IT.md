@@ -15,7 +15,13 @@ Questa risorsa sviluppa la capacità generativa. Le competenze di dominio conser
 
 Più ricercatori usano assistenti diversi e vogliono sviluppare una ricerca comune. Tesi, domande e ragioni devono restare attribuibili mentre i contributi si incontrano.
 
-Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi guidare una guida, un servizio o un’applicazione.
+Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi prendere forma in una guida, un servizio o un’applicazione.
+
+## Adattare il metodo al tuo contesto
+
+Un gruppo di ricerca collega ipotesi e fonti; una squadra di manutenzione mette in relazione osservazioni e modifiche di progetto; un’associazione prepara un’iniziativa con volontari e assistenti diversi. Si conserva la capacità di collegare contributi attribuiti e farne emergere nuovo sapere comune. Cambiano partecipanti, responsabilità e luoghi in cui il sapere continua.
+
+Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenze ancora aperte. Il primo risultato può essere un metodo di collaborazione, una guida o un kernel di progetto. La forma emerge dal lavoro: una piattaforma comune diventa utile quando rende possibile quella cooperazione.
 
 ## Entrare da sorgenti e intento comune
 

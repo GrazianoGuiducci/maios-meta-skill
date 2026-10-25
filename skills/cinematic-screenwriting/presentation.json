@@ -12,7 +12,7 @@
     ],
     "examples": [
       "A robot notices something before it moves",
-      "A discovery can carry an explanatory film",
+      "A discovery shapes a film for a museum",
       "Montage reveals an unintended accusation"
     ],
     "method": [
@@ -53,8 +53,8 @@
         "body": "In a fictional workshop, a small robot pauses beside a fallen seedling. Moving its arm is an activity; recognizing that the plant needs support and choosing to lift the pot forms the scene. Write the discovery, decision and consequence without requiring a speech. Performance can make the pause and gaze readable; direction can reveal the plant at the right moment. In a documentary about a real robot, the same image would require a different account: visible motion alone cannot establish recognition or concern."
       },
       {
-        "title": "A discovery can carry an explanatory film",
-        "body": "A film explains why two independent project corrections should remain distinct. Instead of inventing a villain or conflict, write a person comparing two notes, seeing that they concern different owners and preserving both in the project. The narrative change is a discovery that changes the next action. A short treatment can suffice. The mechanism remains an illustrative explanation; a claim that the real system already made these decisions needs its own observed source."
+        "title": "A discovery shapes a film for a museum",
+        "body": "A museum wants to tell how a researcher understands an old tool’s use. In this illustrative scene she compares a drawing with the object, recognizes a wear mark and tries a gesture that clarifies its function. The discovery changes what she does and what the viewer understands. Write conditions, clues and consequence; direction and performance make them perceptible. For a historical reconstruction, documents and the scientific curator establish which gestures and interpretations can be supported."
       },
       {
         "title": "Montage reveals an unintended accusation",
@@ -90,6 +90,13 @@
       "title": "A fictional robot lifts a fallen plant",
       "situation": "In an imagined workshop, a robot pauses beside a fallen plant. The scene needs to convey what the character notices, chooses and changes.",
       "point": "Writing connects situation, action and consequence. Direction and performance can then make them visible through gaze, pause, gesture and framing."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "Writing can form a fictional scene, a discovery story for a museum or a film explaining a service. Preserve the relationship between situation, action and the change understood by the viewer. Authorial intent, audience and image status change: fiction invents its world; documentation and reconstruction remain connected to their sources.",
+        "Describe what should happen, who encounters the scene and which materials exist. The robot helping a fallen plant is an invented case for comparing cinematic competences. Your work may need only a person, an object or a discovery: narrative form grows from that situation."
+      ]
     }
   },
   "it": {
@@ -105,7 +112,7 @@
     ],
     "examples": [
       "Un robot si accorge di qualcosa prima di muoversi",
-      "Una scoperta può portare un film esplicativo",
+      "Una scoperta dà forma a un film per un museo",
       "Il montaggio rivela un’accusa involontaria"
     ],
     "method": [
@@ -146,8 +153,8 @@
         "body": "In un’officina di fantasia un piccolo robot si ferma accanto a una piantina caduta. Muovere il braccio è attività; riconoscere il bisogno e scegliere di rialzare il vaso forma la scena. Scrivi scoperta, decisione e conseguenza senza imporre un discorso. Interpretazione rende leggibili pausa e sguardo; regia rivela la pianta. Nel documentario su un robot reale l’immagine richiederebbe un altro racconto: il moto visibile non attesta riconoscimento o premura."
       },
       {
-        "title": "Una scoperta può portare un film esplicativo",
-        "body": "Un film spiega perché due correzioni indipendenti devono restare distinte. Anziché inventare antagonista o conflitto, scrivi una persona che confronta due note, ne riconosce gli responsabili diversi e le conserva entrambe. Il cambiamento narrativo è una scoperta che cambia l’azione successiva. Può bastare un treatment breve. Il meccanismo resta illustrativo; attribuire quelle decisioni al sistema reale richiede la sua fonte osservata."
+        "title": "Una scoperta dà forma a un film per un museo",
+        "body": "Un museo vuole raccontare come una ricercatrice comprende l’uso di un vecchio attrezzo. In questa scena illustrativa la protagonista confronta un disegno con l’oggetto, riconosce un segno d’usura e prova un gesto che ne chiarisce la funzione. La scoperta cambia ciò che fa e ciò che lo spettatore comprende. Scrivi condizioni, indizi e conseguenza; regia e interpretazione li rendono percepibili. Per una ricostruzione storica, documenti e responsabile scientifico stabiliscono quali gesti e interpretazioni sono sostenibili."
       },
       {
         "title": "Il montaggio rivela un’accusa involontaria",
@@ -183,6 +190,13 @@
       "title": "Un robot di fiction rialza una pianta caduta",
       "situation": "In un’officina di fantasia un robot si ferma accanto a una pianta caduta. La scena deve far comprendere ciò che il personaggio nota, sceglie e cambia.",
       "point": "La scrittura collega situazione, azione e conseguenza. Regia e interpretazione potranno renderle visibili attraverso sguardo, pausa, gesto e inquadratura."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "La scrittura può formare una scena di fiction, il racconto di una scoperta per un museo o un film che spiega un servizio. Si conserva il rapporto fra situazione, azione e cambiamento compreso dallo spettatore. Cambiano intento autoriale, pubblico e statuto delle immagini: una fiction inventa il proprio mondo; documentazione e ricostruzione mantengono la relazione con le fonti.",
+        "Descrivi che cosa deve accadere, chi incontra la scena e quali materiali esistono. Il robot che rialza la pianta è un caso inventato per confrontare le competenze cinematografiche. Nel tuo lavoro possono bastare una persona, un oggetto o una scoperta: la forma narrativa nasce da quella situazione."
+      ]
     }
   },
   "showcase": {

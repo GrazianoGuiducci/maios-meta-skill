@@ -1,7 +1,7 @@
 {
   "id": "scrivere-storie-per-il-cinema",
   "name": "Cinematic Screenwriting",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "38",
@@ -35,7 +35,7 @@
   "starter": "skills/cinematic-screenwriting/START_CHAT_EN.txt",
   "examples": "skills/cinematic-screenwriting/EXAMPLES.md",
   "presentation": "skills/cinematic-screenwriting/presentation.json",
-  "package": "dist/cinematic-screenwriting-0.1.1.zip",
+  "package": "dist/cinematic-screenwriting-0.1.2.zip",
   "en": {
     "title": "Write situations, actions and dialogue for a film",
     "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
@@ -45,7 +45,7 @@
     "when": "When an idea needs to become a filmic situation with actions, a point of view and meaningful change.",
     "examples": [
       "A robot notices something before it moves",
-      "A discovery can carry an explanatory film",
+      "A discovery shapes a film for a museum",
       "Montage reveals an unintended accusation"
     ],
     "route": "/resources/scrivere-storie-per-il-cinema/",
@@ -60,7 +60,7 @@
     "when": "Quando un’idea deve diventare una situazione filmica con azioni, punto di vista e cambiamento significativo.",
     "examples": [
       "Un robot si accorge di qualcosa prima di muoversi",
-      "Una scoperta può portare un film esplicativo",
+      "Una scoperta dà forma a un film per un museo",
       "Il montaggio rivela un’accusa involontaria"
     ],
     "route": "/risorse/scrivere-storie-per-il-cinema/",

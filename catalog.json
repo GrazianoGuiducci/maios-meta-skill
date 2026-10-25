@@ -2220,7 +2220,7 @@
     {
       "id": "creare-timelapse-semantici",
       "name": "Semantic Timelapse Formation",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "33",
@@ -2258,16 +2258,16 @@
       "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
       "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
       "presentation": "skills/semantic-timelapse-formation/presentation.json",
-      "package": "dist/semantic-timelapse-formation-0.1.1.zip",
+      "package": "dist/semantic-timelapse-formation-0.1.2.zip",
       "en": {
         "title": "Create a coded film from a generated image",
         "kind": "Generative media competence",
         "domain": "Visual creation",
-        "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
+        "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use.",
         "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
         "examples": [
           "Animate the world in the reference",
-          "A different relation asks for another geometry",
+          "Show how a bicycle is made",
           "One film, complementary cinematic knowledge"
         ],
         "route": "/resources/creare-timelapse-semantici/",
@@ -2278,22 +2278,26 @@
         "title": "Creare un film in codice da un’immagine generata",
         "kind": "Competenza visiva generativa",
         "domain": "Creazione visiva",
-        "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
+        "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento.",
         "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
         "examples": [
           "Animare il mondo della reference",
-          "Un’altra relazione richiede un’altra geometria",
+          "Mostrare come nasce una bicicletta",
           "Un film, saperi cinematografici complementari"
         ],
         "route": "/risorse/creare-timelapse-semantici/",
         "description": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
         "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo."
+      },
+      "maturity": {
+        "component": "MKCV",
+        "stage": "beta"
       }
     },
     {
       "id": "principi-che-diventano-capacita",
       "name": "Onto-Skill",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "34",
@@ -2327,33 +2331,33 @@
       "starter": "skills/onto-skill/START_CHAT_EN.txt",
       "examples": "skills/onto-skill/EXAMPLES.md",
       "presentation": "skills/onto-skill/presentation.json",
-      "package": "dist/onto-skill-0.1.1.zip",
+      "package": "dist/onto-skill-0.1.2.zip",
       "en": {
-        "title": "Turn an author’s corrections into criteria for AI work",
-        "subtitle": "Carry the meaning of a correction into the competence that makes the next choice.",
+        "title": "Turn principles and corrections into AI capabilities",
+        "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
         "kind": "Generative metacompetence",
         "domain": "Principles and evolving capabilities",
         "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-        "when": "When an important correction is remembered in a conversation but does not yet change how your AI works.",
+        "when": "When a principle, an intent or a correction should change how your AI works.",
         "examples": [
           "A correction that improves quotations",
           "A local preference remains local",
-          "A recurring activity meets a changed system"
+          "An educational principle forms a new way of helping"
         ],
         "route": "/resources/principi-che-diventano-capacita/",
         "description": "Distinguish a local preference from a reusable principle and change the method guiding the next task."
       },
       "it": {
-        "title": "Trasformare le correzioni dell’autore in criteri per l’AI",
-        "subtitle": "Portare il significato di una correzione nella competenza che farà la prossima scelta.",
+        "title": "Trasformare principi e correzioni in capacità dell’AI",
+        "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
         "kind": "Metacompetenza generativa",
         "domain": "Principi e capacità evolutive",
         "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-        "when": "Quando una correzione importante resta nella conversazione e deve cambiare il modo in cui lavora la tua AI.",
+        "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
         "examples": [
           "Una correzione che migliora i preventivi",
           "Una preferenza locale resta locale",
-          "Un’attività ricorrente incontra un sistema cambiato"
+          "Un principio didattico forma un nuovo modo di aiutare"
         ],
         "route": "/risorse/principi-che-diventano-capacita/",
         "description": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro."
@@ -2362,7 +2366,7 @@
     {
       "id": "formare-capacita-cooperative",
       "name": "Form Cooperative Capability from Sources",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "35",
@@ -2396,7 +2400,7 @@
       "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
       "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
       "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-      "package": "dist/form-cooperative-capability-from-sources-0.1.1.zip",
+      "package": "dist/form-cooperative-capability-from-sources-0.1.2.zip",
       "en": {
         "title": "Develop cooperation between people and AI assistants",
         "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
@@ -2407,7 +2411,7 @@
         "examples": [
           "A shared research group keeps its different voices",
           "Maintenance knowledge becomes a cooperative capability",
-          "A kernel is a meaningful result"
+          "Volunteers and assistants prepare a cultural programme"
         ],
         "route": "/resources/formare-capacita-cooperative/",
         "description": "Connect contributions and responsibilities and form the project capability that lets the group continue."
@@ -2422,7 +2426,7 @@
         "examples": [
           "Un gruppo di ricerca conserva le diverse voci",
           "Il sapere di manutenzione diventa capacità cooperativa",
-          "Un kernel è un risultato significativo"
+          "Volontari e assistenti preparano una rassegna culturale"
         ],
         "route": "/risorse/formare-capacita-cooperative/",
         "description": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare."
@@ -2431,7 +2435,7 @@
     {
       "id": "formare-progetti-da-richieste-finanziate",
       "name": "Funded Request Project Formation",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "36",
@@ -2465,7 +2469,7 @@
       "starter": "skills/funded-request-project-formation/START_CHAT_EN.txt",
       "examples": "skills/funded-request-project-formation/EXAMPLES.md",
       "presentation": "skills/funded-request-project-formation/presentation.json",
-      "package": "dist/funded-request-project-formation-0.1.1.zip",
+      "package": "dist/funded-request-project-formation-0.1.2.zip",
       "en": {
         "title": "Form projects from funded calls and requests",
         "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",
@@ -2500,7 +2504,7 @@
     {
       "id": "presentare-sistemi-in-evoluzione",
       "name": "MAIOS Presentation Competence",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "37",
@@ -2534,7 +2538,7 @@
       "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
       "examples": "skills/maios-presentation-competence/EXAMPLES.md",
       "presentation": "skills/maios-presentation-competence/presentation.json",
-      "package": "dist/maios-presentation-competence-0.1.1.zip",
+      "package": "dist/maios-presentation-competence-0.1.2.zip",
       "en": {
         "title": "Present a complex system’s capabilities and operation",
         "subtitle": "A recognizable first encounter, with the sources and depth needed to explore further.",
@@ -2569,7 +2573,7 @@
     {
       "id": "scrivere-storie-per-il-cinema",
       "name": "Cinematic Screenwriting",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "38",
@@ -2603,7 +2607,7 @@
       "starter": "skills/cinematic-screenwriting/START_CHAT_EN.txt",
       "examples": "skills/cinematic-screenwriting/EXAMPLES.md",
       "presentation": "skills/cinematic-screenwriting/presentation.json",
-      "package": "dist/cinematic-screenwriting-0.1.1.zip",
+      "package": "dist/cinematic-screenwriting-0.1.2.zip",
       "en": {
         "title": "Write situations, actions and dialogue for a film",
         "subtitle": "Actions, choices and consequences form a story that can be seen and heard.",
@@ -2613,7 +2617,7 @@
         "when": "When an idea needs to become a filmic situation with actions, a point of view and meaningful change.",
         "examples": [
           "A robot notices something before it moves",
-          "A discovery can carry an explanatory film",
+          "A discovery shapes a film for a museum",
           "Montage reveals an unintended accusation"
         ],
         "route": "/resources/scrivere-storie-per-il-cinema/",
@@ -2628,7 +2632,7 @@
         "when": "Quando un’idea deve diventare una situazione filmica con azioni, punto di vista e cambiamento significativo.",
         "examples": [
           "Un robot si accorge di qualcosa prima di muoversi",
-          "Una scoperta può portare un film esplicativo",
+          "Una scoperta dà forma a un film per un museo",
           "Il montaggio rivela un’accusa involontaria"
         ],
         "route": "/risorse/scrivere-storie-per-il-cinema/",
@@ -2638,7 +2642,7 @@
     {
       "id": "dirigere-scene-cinematografiche",
       "name": "Cinematic Direction",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "39",
@@ -2672,7 +2676,7 @@
       "starter": "skills/cinematic-direction/START_CHAT_EN.txt",
       "examples": "skills/cinematic-direction/EXAMPLES.md",
       "presentation": "skills/cinematic-direction/presentation.json",
-      "package": "dist/cinematic-direction-0.1.1.zip",
+      "package": "dist/cinematic-direction-0.1.2.zip",
       "en": {
         "title": "Direct a scene through framing, camera and light",
         "subtitle": "Staging, viewpoint, camera and light make a scene’s relationships perceptible.",
@@ -2707,7 +2711,7 @@
     {
       "id": "interpretare-personaggi-animati",
       "name": "Character & Object Performance",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "40",
@@ -2741,7 +2745,7 @@
       "starter": "skills/character-performance/START_CHAT_EN.txt",
       "examples": "skills/character-performance/EXAMPLES.md",
       "presentation": "skills/character-performance/presentation.json",
-      "package": "dist/character-performance-0.1.1.zip",
+      "package": "dist/character-performance-0.1.2.zip",
       "en": {
         "title": "Animate the gestures and reactions of characters and objects",
         "subtitle": "Gaze, pose, timing and contact make an animated action readable.",
@@ -2776,7 +2780,7 @@
     {
       "id": "comporre-montaggio-cinematografico",
       "name": "Film Montage",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "41",
@@ -2810,7 +2814,7 @@
       "starter": "skills/film-montage/START_CHAT_EN.txt",
       "examples": "skills/film-montage/EXAMPLES.md",
       "presentation": "skills/film-montage/presentation.json",
-      "package": "dist/film-montage-0.1.1.zip",
+      "package": "dist/film-montage-0.1.2.zip",
       "en": {
         "title": "Edit images and sound to form a film’s meaning",
         "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",

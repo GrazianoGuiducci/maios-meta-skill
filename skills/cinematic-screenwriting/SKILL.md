@@ -17,6 +17,12 @@ In an imagined workshop, a robot pauses beside a fallen plant. The scene needs t
 
 Writing connects situation, action and consequence. Direction and performance can then make them visible through gaze, pause, gesture and framing.
 
+## Adapt the method to your context
+
+Writing can form a fictional scene, a discovery story for a museum or a film explaining a service. Preserve the relationship between situation, action and the change understood by the viewer. Authorial intent, audience and image status change: fiction invents its world; documentation and reconstruction remain connected to their sources.
+
+Describe what should happen, who encounters the scene and which materials exist. The robot helping a fallen plant is an invented case for comparing cinematic competences. Your work may need only a person, an object or a discovery: narrative form grows from that situation.
+
 ## Find the situation and its status
 
 Understand the subject, author’s intent and what kind of representation is entrusted: observed documentation, reconstruction, allegory or invented fiction. Identify the world, point of view and what may change. Fiction can author intentions and an inner life; a technical film needs sources for claims about real people, systems and events. Let the situation determine its narrative form.

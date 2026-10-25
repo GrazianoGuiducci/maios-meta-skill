@@ -90,6 +90,13 @@
       "title": "The robot’s gesture becomes an understandable reaction",
       "situation": "In the fiction, a robot notices a fallen plant and helps it. If its arm moves immediately, the gesture can look like a mechanical cycle; a pause and gaze make the discovery readable.",
       "point": "Performance gives authored action an observable form through the body, timing and contact. Actual assets and joints determine how it can be constructed."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "Performance animates a fictional character, an object reacting to weight or a gesture in a demonstration. Preserve the relationship between action, reaction and the signs an audience can read. Body, material, available joints and authorial intent change.",
+        "Provide the subject, gesture and limits of the animatable material. The plant’s robot is an invented character; a technical tutorial may instead need only pressure, contact and the object’s response. Hesitation and care belong to fiction when authored in the scene; explain a real machine’s movement through its documented operation."
+      ]
     }
   },
   "it": {
@@ -183,6 +190,13 @@
       "title": "Il gesto del robot diventa una reazione comprensibile",
       "situation": "Nella fiction il robot nota una pianta caduta e la aiuta. Se il braccio parte subito, il gesto può sembrare un ciclo meccanico; una pausa e uno sguardo rendono leggibile la scoperta.",
       "point": "L’interpretazione dà forma osservabile all’azione autoriale attraverso corpo, tempo e contatto. Gli asset e le articolazioni realmente disponibili determinano come costruirla."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "L’interpretazione anima un personaggio di fiction, un oggetto che reagisce a un peso o un gesto in una dimostrazione. Si conserva la relazione fra azione, reazione e segni che il pubblico può leggere. Cambiano corpo, materiale, articolazioni disponibili e intenzione autoriale.",
+        "Porta il soggetto, il gesto e i limiti del materiale animabile. Il robot della pianta è un personaggio inventato; un tutorial tecnico può invece richiedere soltanto pressione, contatto e risposta dell’oggetto. Esitazione e premura appartengono alla finzione quando sono scritte nella scena; un movimento di una macchina reale va spiegato attraverso il suo funzionamento documentato."
+      ]
     }
   },
   "showcase": {

@@ -1,10 +1,14 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "source_competence": "Semantic Timelapse Formation — competenza evolutiva",
   "languages": [
     "en",
     "it"
   ],
-  "independent_receiving_use": "unobserved"
+  "independent_receiving_use": "unobserved",
+  "maturity": {
+    "component": "MKCV",
+    "stage": "beta"
+  }
 }

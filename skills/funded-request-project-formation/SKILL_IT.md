@@ -17,6 +17,12 @@ Un ente offre risorse per affrontare un problema. Il gruppo deve capire chi ne b
 
 La proposta prende forma dall’incontro fra richiesta e capacità effettive. Importo, requisiti e candidatura acquistano significato rispetto al progetto che si vuole realizzare.
 
+## Adattare il metodo al tuo contesto
+
+Una richiesta finanziata può riguardare ricerca, un servizio culturale o un progetto industriale. Si conserva il rapporto fra bisogno del beneficiario, capacità disponibili e risultato nuovo da formare. Cambiano chi beneficia, le conoscenze necessarie, gli impegni, il budget e le condizioni della richiesta.
+
+Fornisci il testo della richiesta, il problema concreto e il sapere già presente nella tua organizzazione. Forma da quell’incontro una soluzione e ciò che serve per realizzarla. La proposta può generare anche una nuova competenza o un kernel riusabile; la candidatura conserva termini e responsabilità propri.
+
 ## Comprendere chi chiede che cosa
 
 Leggi richiesta originale e condizioni correnti. Comprendi soggetto, missione, beneficiari e cambiamento desiderato, incluso ciò che resta da scoprire. Promotore, finanziatore, valutatore, cliente e utente possono differire. Distingui fatti ufficiali e intenzioni inferite. Un problema meglio formato può essere un risultato utile prima della candidatura.

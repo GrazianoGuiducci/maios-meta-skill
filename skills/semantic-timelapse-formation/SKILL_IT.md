@@ -5,6 +5,14 @@ description: Forma video brevi dal sapere, generando prima un'immagine di esempi
 
 # Semantic Timelapse Formation
 
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
+## Adattare il metodo al tuo contesto
+
+Un laboratorio racconta un processo, un museo rende visibile una trasformazione, un autore anima una scena inventata. Si conserva il rapporto fra soggetto, riferimento visivo generato e osservato, scena modificabile e cambiamento nel tempo. Cambiano fonti, pubblico, stile e mezzi di produzione.
+
+Porta il soggetto, ciò che deve diventare comprensibile e i materiali disponibili. Le fonti determinano le relazioni da conservare; il movimento determina quali parti costruire. MKCV — Mini Kernel Code Video — è beta, in apprendimento: il film risultante permette di migliorare sia la scena sia il metodo che formerà il film successivo.
+
 **Prima un riferimento visivo generato, poi il primo frame scritto in codice.**
 
 ## Animare il soggetto di una reference

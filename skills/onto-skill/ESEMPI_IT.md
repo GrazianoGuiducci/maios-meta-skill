@@ -12,6 +12,6 @@ Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due cos
 Un operatore chiede una pagina per il consiglio direttivo. Un assistente successivo ne fa un limite universale e tronca la guida di ripristino. Risali alla situazione originale: le condizioni di lettura del consiglio giustificavano lì la brevità. Il principio è conservare ciò che serve al destinatario per decidere o continuare, nella forma pertinente. Comunicazione al consiglio e ripristino tecnico ricevono metodi diversi. L’istruzione conserva la propria attribuzione; si corregge la sua estensione impropria.
 
 
-## Un’attività ricorrente incontra un sistema cambiato
+## Un principio didattico forma un nuovo modo di aiutare
 
-Un’attività di ricerca continua a usare una vecchia sintesi dopo che il progetto ha acquisito un metodo specialistico. Il principio riguarda il rientro competente, non un altro timer. Collega l’ingresso dell’attività alla fonte corrente e lascia che il metodo cambi la prossima scelta di ricerca. Un host in sola lettura può restituire una proposta qualificata; un ricevente capace di scrivere può integrarla nel proprio mandato. La ricerca successiva mostrerà se il sapere partecipa davvero.
+Una docente vuole che l’AI aiuti gli studenti a spiegare il proprio ragionamento. Il principio guida la formazione della competenza didattica: di fronte a un problema, l’assistente comprende il tentativo dello studente e sceglie una domanda che gli permetta di proseguire. Una spiegazione diretta resta pertinente quando serve a chiarire un concetto. La capacità nasce dall’intento didattico e cambia con età, materia e difficoltà incontrata; il principio conserva la propria ragione.

@@ -8,6 +8,8 @@ Turn knowledge developed through MAIOS work into methods you can use in your own
 
 See [how competences participate in one MAIOS project](docs/COMPETENCES_IN_WORK.md), through an illustrative case.
 
+See [how to adapt the methods to education, cultural work, services and research](docs/ADAPTING.md). MKCV, the video production method, is **beta and learning**.
+
 ## Start with your work
 
 Choose a resource below, open its **START_CHAT_EN.txt**, then copy or attach the whole file to your AI conversation. Add your intent, sources, existing work and available means. The starter contains the complete method. With file access, make the whole competence folder readable and use SKILL.md as its entry.
@@ -61,7 +63,7 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Resource Need Formation](skills/resource-need-formation/README.md) | Forms the resource need from what must become possible, before selecting a provider, financial instrument or other carrier. | Business competence |
 | [Authorial Source Discrimination](skills/authorial-source-discrimination/README.md) | Recognizes what carries an author's meaning and preserves it while adapting only what the selected artifact and receiving situation require. | Editorial competence |
 | [Concept-to-Media Formation](skills/concept-to-media-formation/README.md) | Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning. | Editorial metacompetence |
-| [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README.md) | Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV. | Generative media competence |
+| [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README.md) | Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use. | Generative media competence |
 | [Onto-Skill](skills/onto-skill/README.md) | Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability. | Generative metacompetence |
 | [Form Cooperative Capability from Sources](skills/form-cooperative-capability-from-sources/README.md) | Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants. | Generative metacompetence |
 | [Funded Request Project Formation](skills/funded-request-project-formation/README.md) | Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs. | Generative metacompetence |

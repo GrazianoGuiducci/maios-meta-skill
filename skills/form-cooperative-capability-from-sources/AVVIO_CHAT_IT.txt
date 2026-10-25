@@ -11,7 +11,13 @@ Questa risorsa sviluppa la capacità generativa. Le competenze di dominio conser
 
 Più ricercatori usano assistenti diversi e vogliono sviluppare una ricerca comune. Tesi, domande e ragioni devono restare attribuibili mentre i contributi si incontrano.
 
-Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi guidare una guida, un servizio o un’applicazione.
+Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi prendere forma in una guida, un servizio o un’applicazione.
+
+## Adattare il metodo al tuo contesto
+
+Un gruppo di ricerca collega ipotesi e fonti; una squadra di manutenzione mette in relazione osservazioni e modifiche di progetto; un’associazione prepara un’iniziativa con volontari e assistenti diversi. Si conserva la capacità di collegare contributi attribuiti e farne emergere nuovo sapere comune. Cambiano partecipanti, responsabilità e luoghi in cui il sapere continua.
+
+Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenze ancora aperte. Il primo risultato può essere un metodo di collaborazione, una guida o un kernel di progetto. La forma emerge dal lavoro: una piattaforma comune diventa utile quando rende possibile quella cooperazione.
 
 ## Entrare da sorgenti e intento comune
 
@@ -75,12 +81,12 @@ Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un
 
 ## Il sapere di manutenzione diventa capacità cooperativa
 
-Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabili. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
+Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabile. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
 
 
-## Un kernel è un risultato significativo
+## Volontari e assistenti preparano una rassegna culturale
 
-Una collaborazione cerca un modo riusabile per formare gruppi competenti in domini diversi. Il lavoro sorgente fa emergere un kernel che sa scoprire, comporre e approfondire competenze nel destinatario. Consideralo un risultato possibile in sé. Consegnagli sapere operativo accessibile e ritorno di apprendimento. Un’applicazione potrà emergere dall’uso; aggiungerla soltanto per rendere il kernel apparentemente concreto cambierebbe l’oggetto.
+Un’associazione prepara una rassegna con scuole, artisti e volontari. I contributi arrivano in documenti diversi e alcune proposte restano incompatibili. Forma il sapere con cui il gruppo collega esigenze, risorse e ragioni delle scelte, conservando autori e questioni aperte. Un metodo condiviso o un kernel di progetto può far continuare quel sapere tra un incontro e l’altro. Programma, spazio collaborativo o applicazione emergono dalle necessità effettive della rassegna.
 
 
 Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

@@ -1,6 +1,8 @@
 # VC-30s — Operational competence field for code-made short videos
 
-This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.1 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
+MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
+
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.2 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
 **MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 

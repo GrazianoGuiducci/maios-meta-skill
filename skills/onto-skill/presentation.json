@@ -1,11 +1,11 @@
 {
   "en": {
-    "title": "Turn an author’s corrections into criteria for AI work",
-    "subtitle": "Distinguish a local preference from a reusable principle and change the method guiding the next task.",
+    "title": "Turn principles and corrections into AI capabilities",
+    "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
     "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-    "when": "When an important correction is remembered in a conversation but does not yet change how your AI works.",
+    "when": "When a principle, an intent or a correction should change how your AI works.",
     "intro": [
       "A source can contain a principle, a local preference, a question or a fact about one project. Understanding the difference preserves the author’s direction while allowing useful knowledge to travel.",
       "Onto-Skill connects source meaning to a concrete consumer: the competence whose observation, choice or action should change. A recorded sentence becomes useful through that relationship."
@@ -13,7 +13,7 @@
     "examples": [
       "A correction that improves quotations",
       "A local preference remains local",
-      "A recurring activity meets a changed system"
+      "An educational principle forms a new way of helping"
     ],
     "method": [
       {
@@ -57,8 +57,8 @@
         "body": "An operator asks for a one-page board brief. A later assistant treats one page as a universal limit and truncates a technical recovery guide. Return to the original situation: the board’s reading conditions justified brevity there. The principle is to preserve what the recipient needs to decide or continue, in an appropriate form. Board communication and technical recovery receive different methods. The old instruction retains its attribution while its mistaken universal extension is removed."
       },
       {
-        "title": "A recurring activity meets a changed system",
-        "body": "A research activity keeps using an old source summary after the project acquires a specialist method. The useful principle concerns competent reentry, not adding another timer. Connect the activity’s native entry to the current source and let the specialist method change its next research choice. If one host has read-only access, it can return a qualified change proposal; a writing-capable receiver can integrate it within its mandate. Later research can show whether the new knowledge actually participates."
+        "title": "An educational principle forms a new way of helping",
+        "body": "A teacher wants AI to help students explain their reasoning. The principle guides the formation of the teaching competence: when facing a problem, the assistant understands the student’s attempt and chooses a question that helps them continue. A direct explanation remains pertinent when a concept needs clarification. The capability grows from educational intent and changes with age, subject and difficulty encountered; the principle retains its reason."
       }
     ],
     "depth": {
@@ -90,15 +90,22 @@
       "title": "A correction that changes later quotations",
       "situation": "A studio corrects an AI quotation because the reasons behind two unusual costs are missing. It wants those reasons to remain understandable in later work.",
       "point": "The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "In a professional practice the principle may concern the reasons behind a quotation; in education, how to help a student reason; in a newsroom, the distinction between a source and its interpretation. Preserve the relationship between principle, reason and practical choice. The work, recipient and conditions that make the choice relevant change.",
+        "Give your AI the original principle or contribution, a sample of the work and what you want to make possible. Ask it to identify the competence that needs to change and how the principle guides a different situation. A preference formed for one occasion retains that scope."
+      ]
     }
   },
   "it": {
-    "title": "Trasformare le correzioni dell’autore in criteri per l’AI",
-    "subtitle": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro.",
+    "title": "Trasformare principi e correzioni in capacità dell’AI",
+    "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
     "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-    "when": "Quando una correzione importante resta nella conversazione e deve cambiare il modo in cui lavora la tua AI.",
+    "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
     "intro": [
       "Una fonte può portare un principio, una preferenza locale, una domanda o un fatto di progetto. Comprendere la differenza conserva la direzione dell’autore e permette al sapere utile di continuare.",
       "Onto-Skill collega il significato sorgente a un destinatario concreto: la competenza di cui devono cambiare osservazione, scelta o azione. Una frase conservata diventa utile attraverso questo rapporto."
@@ -106,7 +113,7 @@
     "examples": [
       "Una correzione che migliora i preventivi",
       "Una preferenza locale resta locale",
-      "Un’attività ricorrente incontra un sistema cambiato"
+      "Un principio didattico forma un nuovo modo di aiutare"
     ],
     "method": [
       {
@@ -150,8 +157,8 @@
         "body": "Un operatore chiede una pagina per il consiglio direttivo. Un assistente successivo ne fa un limite universale e tronca la guida di ripristino. Risali alla situazione originale: le condizioni di lettura del consiglio giustificavano lì la brevità. Il principio è conservare ciò che serve al destinatario per decidere o continuare, nella forma pertinente. Comunicazione al consiglio e ripristino tecnico ricevono metodi diversi. L’istruzione conserva la propria attribuzione; si corregge la sua estensione impropria."
       },
       {
-        "title": "Un’attività ricorrente incontra un sistema cambiato",
-        "body": "Un’attività di ricerca continua a usare una vecchia sintesi dopo che il progetto ha acquisito un metodo specialistico. Il principio riguarda il rientro competente, non un altro timer. Collega l’ingresso dell’attività alla fonte corrente e lascia che il metodo cambi la prossima scelta di ricerca. Un host in sola lettura può restituire una proposta qualificata; un ricevente capace di scrivere può integrarla nel proprio mandato. La ricerca successiva mostrerà se il sapere partecipa davvero."
+        "title": "Un principio didattico forma un nuovo modo di aiutare",
+        "body": "Una docente vuole che l’AI aiuti gli studenti a spiegare il proprio ragionamento. Il principio guida la formazione della competenza didattica: di fronte a un problema, l’assistente comprende il tentativo dello studente e sceglie una domanda che gli permetta di proseguire. Una spiegazione diretta resta pertinente quando serve a chiarire un concetto. La capacità nasce dall’intento didattico e cambia con età, materia e difficoltà incontrata; il principio conserva la propria ragione."
       }
     ],
     "depth": {
@@ -183,6 +190,13 @@
       "title": "Una correzione che cambia i preventivi successivi",
       "situation": "Uno studio corregge un preventivo dell’AI: mancano le ragioni di due costi insoliti. Vuole che quelle ragioni restino comprensibili anche nel lavoro successivo.",
       "point": "Il principio utile riguarda le eccezioni che cambiano una decisione. La competenza che prepara i preventivi deve imparare a riconoscerle, conservandone la ragione senza allungare ogni voce."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "In uno studio professionale il principio può riguardare le ragioni di un preventivo; nella formazione, il modo di aiutare uno studente a ragionare; in una redazione, la distinzione fra fonte e interpretazione. Si conserva il rapporto fra principio, ragione e scelta concreta. Cambiano il lavoro, il destinatario e le condizioni che rendono pertinente quella scelta.",
+        "Porta alla tua AI il principio o il contributo originale, un esempio del lavoro e ciò che vuoi rendere possibile. Falle individuare quale competenza deve cambiare e come il principio guida una situazione diversa. Una preferenza nata per una sola occasione conserva quella portata."
+      ]
     }
   },
   "showcase": {

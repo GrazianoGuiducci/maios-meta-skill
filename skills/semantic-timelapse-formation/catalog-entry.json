@@ -1,7 +1,7 @@
 {
   "id": "creare-timelapse-semantici",
   "name": "Semantic Timelapse Formation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "33",
@@ -39,16 +39,16 @@
   "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
   "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
   "presentation": "skills/semantic-timelapse-formation/presentation.json",
-  "package": "dist/semantic-timelapse-formation-0.1.1.zip",
+  "package": "dist/semantic-timelapse-formation-0.1.2.zip",
   "en": {
     "title": "Create a coded film from a generated image",
     "kind": "Generative media competence",
     "domain": "Visual creation",
-    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
+    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use.",
     "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
     "examples": [
       "Animate the world in the reference",
-      "A different relation asks for another geometry",
+      "Show how a bicycle is made",
       "One film, complementary cinematic knowledge"
     ],
     "route": "/resources/creare-timelapse-semantici/",
@@ -59,15 +59,19 @@
     "title": "Creare un film in codice da un’immagine generata",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
-    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
+    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento.",
     "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
     "examples": [
       "Animare il mondo della reference",
-      "Un’altra relazione richiede un’altra geometria",
+      "Mostrare come nasce una bicicletta",
       "Un film, saperi cinematografici complementari"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
     "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo."
+  },
+  "maturity": {
+    "component": "MKCV",
+    "stage": "beta"
   }
 }

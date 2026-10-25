@@ -17,6 +17,12 @@ Le immagini mostrano una pianta piegata, un personaggio che la nota e una mano c
 
 Il montaggio forma la relazione fra immagini e suono. Può rivelare prima il bisogno, prima il risultato o un confronto: la scelta dipende dal significato che il film deve rendere comprensibile.
 
+## Adattare il metodo al tuo contesto
+
+Il montaggio può raccontare una scelta in una fiction, spiegare una procedura o collegare testimonianze in un documentario. Si conserva il rapporto fra ordine, durata, immagini, suono e significato compreso. Cambiano materiali, pubblico, intento e nessi che le fonti permettono di sostenere.
+
+Porta i materiali disponibili e ciò che lo spettatore deve poter comprendere. Confronta sequenze che cambiano davvero quella comprensione: una dimostrazione rende leggibile il prima e il dopo; una fiction può ritardare una scoperta; un documentario conserva la distinzione fra eventi vicini e rapporto causale. Il caso della pianta insegna questa scelta attraverso tre inquadrature illustrative.
+
 ## Comprendere ciò che la sequenza rende conoscibile
 
 Recupera fonte, situazione autoriale, punto di vista e materiale o scena disponibili. Individua ciò che si scopre nell’incontro fra inquadrature. La timeline può suggerire successione, confronto, causa od omissione. Conserva la differenza fra evento osservato e significato formato dal montaggio.

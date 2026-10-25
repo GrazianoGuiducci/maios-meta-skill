@@ -1,0 +1,16 @@
+{
+  "it": {
+    "title": "Adattare la competenza al tuo lavoro",
+    "paragraphs": [
+      "Il contesto lo porti tu: una ricerca, un servizio, un progetto creativo o il lavoro di un gruppo. Gli esempi rendono visibile il metodo; per adattarlo si conservano le relazioni che lo fanno funzionare e si comprendono di nuovo scopo, fonti, persone e mezzi del tuo lavoro.",
+      "Descrivi alla tua AI che cosa vuoi ottenere, che cosa esiste già e una situazione concreta da affrontare. Chiedile come questa competenza cambia il lavoro e quali conoscenze del tuo dominio devono partecipare. La provenienza MAIOS identifica il sapere condiviso; puoi usarlo direttamente nella tua AI o comporlo con un kernel esistente."
+    ]
+  },
+  "en": {
+    "title": "Adapt the competence to your work",
+    "paragraphs": [
+      "You supply the context: research, a service, a creative project or a team’s work. Examples make the method visible; adaptation preserves the relationships that make it work while understanding the purpose, sources, people and means of your own assignment.",
+      "Tell your AI what you want to achieve, what already exists and a practical situation to address. Ask how this competence changes the work and which knowledge from your domain should participate. MAIOS provenance identifies the shared knowledge; you can use it directly in your AI or compose it with an existing kernel."
+    ]
+  }
+}

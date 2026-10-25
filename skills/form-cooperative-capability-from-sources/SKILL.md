@@ -17,6 +17,12 @@ Several researchers use different assistants to develop a shared inquiry. Claims
 
 Before choosing a platform, the group can form a method for connecting sources, recognizing differences and deciding how to continue. That knowledge can then guide a working guide, service or application.
 
+## Adapt the method to your context
+
+A research group connects hypotheses and sources; a maintenance team relates observations to design changes; an association prepares an initiative with different volunteers and assistants. Preserve the ability to connect attributed contributions and form new shared knowledge. Participants, responsibilities and the places where knowledge continues change.
+
+Start with shared intent, participants’ materials and the differences still open. The first result may be a collaboration method, a guide or a project kernel. Its form emerges from the work: a shared platform becomes useful when it enables that cooperation.
+
 ## Enter through the sources and shared intent
 
 Understand what people are trying to make possible and which knowledge already carries the ability to do it. Recover source reasons, participants, existing work and available means before deciding that the answer is a platform or agent hierarchy. Let unexpected source relations change the question. A chosen form remains valid when the field actually supports it.

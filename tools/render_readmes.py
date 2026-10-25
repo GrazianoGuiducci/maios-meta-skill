@@ -132,6 +132,8 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
         narrative=('See [how competences participate in one MAIOS project](docs/COMPETENCES_IN_WORK.md), through an illustrative case.' if en else 'Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).')
         marker='## Start with your work' if en else '## Scegliere una risorsa'
         text=text.replace(marker,narrative+'\n\n'+marker,1)
+        adaptation=('See [how to adapt the methods to education, cultural work, services and research](docs/ADAPTING.md). MKCV, the video production method, is **beta and learning**.' if en else 'Scopri [come adattare i metodi a formazione, cultura, servizi e ricerca](docs/ADATTARE.md). MKCV, il metodo di produzione video, è **beta e in apprendimento**.')
+        text=text.replace(marker,adaptation+'\n\n'+marker,1)
         text=re.sub(r'\b25\b',str(len(resources)),text)
         prepared=sum(resource.get('state')=='prepared_edition' for resource in resources)
         if prepared:

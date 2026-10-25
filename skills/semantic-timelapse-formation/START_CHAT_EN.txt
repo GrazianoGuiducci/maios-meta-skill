@@ -1,6 +1,14 @@
 
 # Semantic Timelapse Formation
 
+**MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
+
+## Adapt the method to your context
+
+A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.
+
+Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film.
+
 **Generate a visual reference first, then build the first frame in code.**
 
 ## Animate the subject of a reference image
@@ -91,6 +99,8 @@ A film’s shared continuation preserves its subject, source status, current art
 
 # Operating guide — the visual-reference boundary
 
+**MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
+
 **Form the image instruction from knowledge.** Recover what the subject actually is, what relation the film may represent and what must remain recognisable. For the image-generator prompt include composition, relevant geometry, exact text, and when material the visual spaces later frames may occupy. A known motif is not a default.
 
 **Generate and inspect A.** Use a real image-generator tool first. Observe the actual output, not an imagined description. Correct invented hierarchies, implied time or false causal relations before committing the representation to code. Keep the image's provenance.
@@ -143,9 +153,9 @@ Illustrative cases for adaptation.
 
 A generated illustration shows a robot beside a worktable. The entrusted film asks that world to move. Adding a new overlay of boxes would make a different film. Observe the actual reference, identify the relevant head, arm, prop and environment, then determine which layers, pivots or geometry are available. A restrained 2.5D articulation may preserve identity better than an invented full 3D body. If hidden surfaces matter, form them as an explicit reconstruction or choose another view. The method follows the actual intended motion.
 
-## A different relation asks for another geometry
+## Show how a bicycle is made
 
-An explanatory film depicts two independent corrections returning to different project competences. A glowing central hub would falsely imply one controller. Recover the source and form two distinguishable returning paths or another adequate geometry. Time makes the two changes perceptible without making them serial phases. Label the case as an illustrative explanation rather than a recording of a real agent run. The design correction teaches how a new object can change the representation grammar.
+A class needs to understand how separate parts become a complete bicycle. In the selected illustrative process, the frame and wheels are prepared along distinct paths and then assembled. The scene preserves branches, meeting points and operation order supplied by the workshop sources. A single row of icons would hide the relationship between parts; speeding up the film would not clarify it. Time and geometry make that process perceptible. Another production may require a different structure.
 
 ## One film, complementary cinematic knowledge
 
@@ -154,7 +164,9 @@ An authored scene shows a small robot noticing a fallen plant and helping it sta
 
 # VC-30s — Operational competence field for code-made short videos
 
-This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.1 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
+MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
+
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.2 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
 **MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 
@@ -261,7 +273,9 @@ An image may introduce a false hierarchy; a character may lose its identity whil
 
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
-**State:** public **edition 0.1.1** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
+
+**State:** public **edition 0.1.2** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
@@ -342,6 +356,8 @@ Know-how was studied from [HyperFrames](https://github.com/heygen-com/hyperframe
 
 
 # MKCV — one film, reciprocal competences
+
+**MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
 
 A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
 

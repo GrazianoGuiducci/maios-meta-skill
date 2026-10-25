@@ -3,17 +3,18 @@
     "title": "Create a coded film from a generated image",
     "kind": "Generative media competence",
     "domain": "Visual creation",
-    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV.",
+    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use.",
     "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
     "examples": [
       "Animate the world in the reference",
-      "A different relation asks for another geometry",
+      "Show how a bicycle is made",
       "One film, complementary cinematic knowledge"
     ],
     "route": "/resources/creare-timelapse-semantici/",
     "description": "Use an image generator before coding a 30-second visual sequence.",
     "subtitle": "From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.",
     "intro": [
+      "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.",
       "A real generated image A provides a reference to observe before constructing an editable scene B. The coded scene has its own first frame and can animate the world shown in A when that is the actual intent.",
       "The competences for code-based video production are gathered in MKCV (Mini Kernel Code Video). VC-30s is its short-duration profile: other timings and formats follow the subject. The supplied Python example demonstrates a renderer from an existing image; the guide also develops layers, geometry and film composition."
     ],
@@ -69,23 +70,35 @@
       "title": "Animate the subject of a reference image",
       "situation": "You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.",
       "point": "Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.",
+        "Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film."
+      ]
+    },
+    "status": {
+      "label": "MKCV · beta, learning through use",
+      "body": "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment."
     }
   },
   "it": {
     "title": "Creare un film in codice da un’immagine generata",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
-    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV.",
+    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento.",
     "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
     "examples": [
       "Animare il mondo della reference",
-      "Un’altra relazione richiede un’altra geometria",
+      "Mostrare come nasce una bicicletta",
       "Un film, saperi cinematografici complementari"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
     "subtitle": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
     "intro": [
+      "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.",
       "Un’immagine A realmente generata offre un riferimento da osservare prima di costruire la scena modificabile B. La scena ha un proprio primo frame e anima il mondo raffigurato in A quando questo è l’intento effettivo.",
       "Le competenze di produzione video in codice sono raccolte nel metodo MKCV (Mini Kernel Code Video). VC-30s ne è un profilo di durata breve: puoi scegliere altri tempi e formati attraverso il soggetto. L’esempio Python fornito mostra un renderer da immagine esistente; la guida approfondisce anche livelli, geometria e composizione del film."
     ],
@@ -141,6 +154,17 @@
       "title": "Animare il soggetto di una reference",
       "situation": "Hai un’illustrazione generata e vuoi vedere il personaggio muoversi nel suo ambiente. Il lavoro consiste nel rendere animabili le parti necessarie e nel costruire una scena che conservi quel soggetto.",
       "point": "Generare il riferimento, costruire gli elementi animabili e scegliere cosa cambia nel tempo sono lavori collegati. Sovrapporre un diagramma alla figura produce un effetto diverso dall’animarne il soggetto."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "Un laboratorio racconta un processo, un museo rende visibile una trasformazione, un autore anima una scena inventata. Si conserva il rapporto fra soggetto, riferimento visivo generato e osservato, scena modificabile e cambiamento nel tempo. Cambiano fonti, pubblico, stile e mezzi di produzione.",
+        "Porta il soggetto, ciò che deve diventare comprensibile e i materiali disponibili. Le fonti determinano le relazioni da conservare; il movimento determina quali parti costruire. MKCV — Mini Kernel Code Video — è beta, in apprendimento: il film risultante permette di migliorare sia la scena sia il metodo che formerà il film successivo."
+      ]
+    },
+    "status": {
+      "label": "MKCV · beta, in apprendimento",
+      "body": "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo."
     }
   },
   "showcase": {

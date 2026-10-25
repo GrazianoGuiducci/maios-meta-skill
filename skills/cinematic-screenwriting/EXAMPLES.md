@@ -7,9 +7,9 @@ Illustrative cases. Conditions, decisions and continuation are supplied to teach
 In a fictional workshop, a small robot pauses beside a fallen seedling. Moving its arm is an activity; recognizing that the plant needs support and choosing to lift the pot forms the scene. Write the discovery, decision and consequence without requiring a speech. Performance can make the pause and gaze readable; direction can reveal the plant at the right moment. In a documentary about a real robot, the same image would require a different account: visible motion alone cannot establish recognition or concern.
 
 
-## A discovery can carry an explanatory film
+## A discovery shapes a film for a museum
 
-A film explains why two independent project corrections should remain distinct. Instead of inventing a villain or conflict, write a person comparing two notes, seeing that they concern different owners and preserving both in the project. The narrative change is a discovery that changes the next action. A short treatment can suffice. The mechanism remains an illustrative explanation; a claim that the real system already made these decisions needs its own observed source.
+A museum wants to tell how a researcher understands an old tool’s use. In this illustrative scene she compares a drawing with the object, recognizes a wear mark and tries a gesture that clarifies its function. The discovery changes what she does and what the viewer understands. Write conditions, clues and consequence; direction and performance make them perceptible. For a historical reconstruction, documents and the scientific curator establish which gestures and interpretations can be supported.
 
 
 ## Montage reveals an unintended accusation

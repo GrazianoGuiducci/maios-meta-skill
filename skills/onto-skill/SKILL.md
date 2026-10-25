@@ -1,6 +1,6 @@
 ---
 name: onto-skill
-description: Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability. When an important correction is remembered in a conversation but does not yet change how your AI works.
+description: Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability. When a principle, an intent or a correction should change how your AI works.
 ---
 
 # Onto-Skill
@@ -16,6 +16,12 @@ Onto-Skill connects source meaning to a concrete consumer: the competence whose 
 A studio corrects an AI quotation because the reasons behind two unusual costs are missing. It wants those reasons to remain understandable in later work.
 
 The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer.
+
+## Adapt the method to your context
+
+In a professional practice the principle may concern the reasons behind a quotation; in education, how to help a student reason; in a newsroom, the distinction between a source and its interpretation. Preserve the relationship between principle, reason and practical choice. The work, recipient and conditions that make the choice relevant change.
+
+Give your AI the original principle or contribution, a sample of the work and what you want to make possible. Ask it to identify the competence that needs to change and how the principle guides a different situation. A preference formed for one occasion retains that scope.
 
 ## Understand the contribution in its situation
 

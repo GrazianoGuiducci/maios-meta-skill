@@ -13,7 +13,7 @@
     "examples": [
       "A shared research group keeps its different voices",
       "Maintenance knowledge becomes a cooperative capability",
-      "A kernel is a meaningful result"
+      "Volunteers and assistants prepare a cultural programme"
     ],
     "method": [
       {
@@ -57,8 +57,8 @@
         "body": "Technicians and designers repeatedly exchange incomplete fault reports. Instead of starting with a ticket system, understand which observations change diagnosis, design and operation. Form the capability that recognizes these connections and returns useful differences to the appropriate participants. A maintenance event can teach a design criterion while leaving the technical repair with its owner. The first artifact may be a small project guide; a later service or application should incarnate that acquired method."
       },
       {
-        "title": "A kernel is a meaningful result",
-        "body": "A collaboration asks for a reusable way to form domain-specific teams. Source work reveals that the useful deliverable is a kernel able to discover, compose and deepen competences in the recipient’s environment. Treat that as a possible result in itself. Give it accessible operating knowledge and a learning return. An application can emerge later if actual use calls for one; adding an app merely to make the kernel look concrete would change the object."
+        "title": "Volunteers and assistants prepare a cultural programme",
+        "body": "An association prepares a programme with schools, artists and volunteers. Contributions arrive in different documents and some proposals remain incompatible. Form the knowledge through which the group connects needs, resources and decision reasons, preserving authors and open questions. A shared method or project kernel can carry that knowledge between meetings. A programme, collaborative space or application emerges from the actual needs of the initiative."
       }
     ],
     "depth": {
@@ -90,6 +90,13 @@
       "title": "Researchers and assistants work on a shared inquiry",
       "situation": "Several researchers use different assistants to develop a shared inquiry. Claims, questions and reasons need to remain attributable while their contributions meet.",
       "point": "Before choosing a platform, the group can form a method for connecting sources, recognizing differences and deciding how to continue. That knowledge can then guide a working guide, service or application."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "A research group connects hypotheses and sources; a maintenance team relates observations to design changes; an association prepares an initiative with different volunteers and assistants. Preserve the ability to connect attributed contributions and form new shared knowledge. Participants, responsibilities and the places where knowledge continues change.",
+        "Start with shared intent, participants’ materials and the differences still open. The first result may be a collaboration method, a guide or a project kernel. Its form emerges from the work: a shared platform becomes useful when it enables that cooperation."
+      ]
     }
   },
   "it": {
@@ -106,7 +113,7 @@
     "examples": [
       "Un gruppo di ricerca conserva le diverse voci",
       "Il sapere di manutenzione diventa capacità cooperativa",
-      "Un kernel è un risultato significativo"
+      "Volontari e assistenti preparano una rassegna culturale"
     ],
     "method": [
       {
@@ -147,11 +154,11 @@
       },
       {
         "title": "Il sapere di manutenzione diventa capacità cooperativa",
-        "body": "Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabili. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo."
+        "body": "Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabile. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo."
       },
       {
-        "title": "Un kernel è un risultato significativo",
-        "body": "Una collaborazione cerca un modo riusabile per formare gruppi competenti in domini diversi. Il lavoro sorgente fa emergere un kernel che sa scoprire, comporre e approfondire competenze nel destinatario. Consideralo un risultato possibile in sé. Consegnagli sapere operativo accessibile e ritorno di apprendimento. Un’applicazione potrà emergere dall’uso; aggiungerla soltanto per rendere il kernel apparentemente concreto cambierebbe l’oggetto."
+        "title": "Volontari e assistenti preparano una rassegna culturale",
+        "body": "Un’associazione prepara una rassegna con scuole, artisti e volontari. I contributi arrivano in documenti diversi e alcune proposte restano incompatibili. Forma il sapere con cui il gruppo collega esigenze, risorse e ragioni delle scelte, conservando autori e questioni aperte. Un metodo condiviso o un kernel di progetto può far continuare quel sapere tra un incontro e l’altro. Programma, spazio collaborativo o applicazione emergono dalle necessità effettive della rassegna."
       }
     ],
     "depth": {
@@ -182,7 +189,14 @@
     "reader_context": {
       "title": "Ricercatori e assistenti lavorano sulla stessa indagine",
       "situation": "Più ricercatori usano assistenti diversi e vogliono sviluppare una ricerca comune. Tesi, domande e ragioni devono restare attribuibili mentre i contributi si incontrano.",
-      "point": "Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi guidare una guida, un servizio o un’applicazione."
+      "point": "Prima di scegliere una piattaforma, il gruppo può formare il metodo con cui collega le fonti, riconosce le differenze e decide come proseguire. Quel sapere può poi prendere forma in una guida, un servizio o un’applicazione."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "Un gruppo di ricerca collega ipotesi e fonti; una squadra di manutenzione mette in relazione osservazioni e modifiche di progetto; un’associazione prepara un’iniziativa con volontari e assistenti diversi. Si conserva la capacità di collegare contributi attribuiti e farne emergere nuovo sapere comune. Cambiano partecipanti, responsabilità e luoghi in cui il sapere continua.",
+        "Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenze ancora aperte. Il primo risultato può essere un metodo di collaborazione, una guida o un kernel di progetto. La forma emerge dal lavoro: una piattaforma comune diventa utile quando rende possibile quella cooperazione."
+      ]
     }
   },
   "showcase": {

@@ -13,6 +13,12 @@ A studio corrects an AI quotation because the reasons behind two unusual costs a
 
 The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer.
 
+## Adapt the method to your context
+
+In a professional practice the principle may concern the reasons behind a quotation; in education, how to help a student reason; in a newsroom, the distinction between a source and its interpretation. Preserve the relationship between principle, reason and practical choice. The work, recipient and conditions that make the choice relevant change.
+
+Give your AI the original principle or contribution, a sample of the work and what you want to make possible. Ask it to identify the competence that needs to change and how the principle guides a different situation. A preference formed for one occasion retains that scope.
+
 ## Understand the contribution in its situation
 
 Recover the actual words, who contributed them, what was happening and why the difference mattered. Separate the original contribution from the assistant’s interpretation. A request to keep one report short may concern that encounter; a correction about missing decision reasons can teach a recurring capability. Preserve an unresolved meaning as an open question.
@@ -78,9 +84,9 @@ A studio rejects an AI quotation because the assistant removed the reasons behin
 An operator asks for a one-page board brief. A later assistant treats one page as a universal limit and truncates a technical recovery guide. Return to the original situation: the board’s reading conditions justified brevity there. The principle is to preserve what the recipient needs to decide or continue, in an appropriate form. Board communication and technical recovery receive different methods. The old instruction retains its attribution while its mistaken universal extension is removed.
 
 
-## A recurring activity meets a changed system
+## An educational principle forms a new way of helping
 
-A research activity keeps using an old source summary after the project acquires a specialist method. The useful principle concerns competent reentry, not adding another timer. Connect the activity’s native entry to the current source and let the specialist method change its next research choice. If one host has read-only access, it can return a qualified change proposal; a writing-capable receiver can integrate it within its mandate. Later research can show whether the new knowledge actually participates.
+A teacher wants AI to help students explain their reasoning. The principle guides the formation of the teaching competence: when facing a problem, the assistant understands the student’s attempt and chooses a question that helps them continue. A direct explanation remains pertinent when a concept needs clarification. The capability grows from educational intent and changes with age, subject and difficulty encountered; the principle retains its reason.
 
 
 My assignment, sources, existing work, available means and requested result:

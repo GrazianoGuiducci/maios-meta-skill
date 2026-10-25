@@ -1,5 +1,7 @@
 # Usare una competenza MAIOS nella propria AI
 
+[Adattare il metodo al proprio contesto](ADATTARE.md): casi di formazione, cultura, servizi e ricerca.
+
 [English](USE.md). L’inglese è la lingua principale della raccolta; questa guida è la versione italiana.
 
 Una competenza contiene sapere operativo: aiuta l'AI a comprendere e svolgere un certo tipo di lavoro. Per usarla servono anche un intento reale, le fonti pertinenti e i mezzi che quell'ambiente può impiegare.

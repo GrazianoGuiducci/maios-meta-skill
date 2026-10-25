@@ -1,7 +1,7 @@
 {
   "id": "principi-che-diventano-capacita",
   "name": "Onto-Skill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "34",
@@ -35,33 +35,33 @@
   "starter": "skills/onto-skill/START_CHAT_EN.txt",
   "examples": "skills/onto-skill/EXAMPLES.md",
   "presentation": "skills/onto-skill/presentation.json",
-  "package": "dist/onto-skill-0.1.1.zip",
+  "package": "dist/onto-skill-0.1.2.zip",
   "en": {
-    "title": "Turn an author’s corrections into criteria for AI work",
-    "subtitle": "Carry the meaning of a correction into the competence that makes the next choice.",
+    "title": "Turn principles and corrections into AI capabilities",
+    "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
     "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-    "when": "When an important correction is remembered in a conversation but does not yet change how your AI works.",
+    "when": "When a principle, an intent or a correction should change how your AI works.",
     "examples": [
       "A correction that improves quotations",
       "A local preference remains local",
-      "A recurring activity meets a changed system"
+      "An educational principle forms a new way of helping"
     ],
     "route": "/resources/principi-che-diventano-capacita/",
     "description": "Distinguish a local preference from a reusable principle and change the method guiding the next task."
   },
   "it": {
-    "title": "Trasformare le correzioni dell’autore in criteri per l’AI",
-    "subtitle": "Portare il significato di una correzione nella competenza che farà la prossima scelta.",
+    "title": "Trasformare principi e correzioni in capacità dell’AI",
+    "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
     "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-    "when": "Quando una correzione importante resta nella conversazione e deve cambiare il modo in cui lavora la tua AI.",
+    "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
     "examples": [
       "Una correzione che migliora i preventivi",
       "Una preferenza locale resta locale",
-      "Un’attività ricorrente incontra un sistema cambiato"
+      "Un principio didattico forma un nuovo modo di aiutare"
     ],
     "route": "/risorse/principi-che-diventano-capacita/",
     "description": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro."

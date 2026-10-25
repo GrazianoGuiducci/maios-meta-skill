@@ -1,5 +1,7 @@
 # Operating guide — the visual-reference boundary
 
+**MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
+
 **Form the image instruction from knowledge.** Recover what the subject actually is, what relation the film may represent and what must remain recognisable. For the image-generator prompt include composition, relevant geometry, exact text, and when material the visual spaces later frames may occupy. A known motif is not a default.
 
 **Generate and inspect A.** Use a real image-generator tool first. Observe the actual output, not an imagined description. Correct invented hierarchies, implied time or false causal relations before committing the representation to code. Keep the image's provenance.

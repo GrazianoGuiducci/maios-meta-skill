@@ -1,7 +1,7 @@
 {
   "id": "formare-progetti-da-richieste-finanziate",
   "name": "Funded Request Project Formation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "36",
@@ -35,7 +35,7 @@
   "starter": "skills/funded-request-project-formation/START_CHAT_EN.txt",
   "examples": "skills/funded-request-project-formation/EXAMPLES.md",
   "presentation": "skills/funded-request-project-formation/presentation.json",
-  "package": "dist/funded-request-project-formation-0.1.1.zip",
+  "package": "dist/funded-request-project-formation-0.1.2.zip",
   "en": {
     "title": "Form projects from funded calls and requests",
     "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",

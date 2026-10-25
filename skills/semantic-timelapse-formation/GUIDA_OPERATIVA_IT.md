@@ -1,5 +1,7 @@
 # Guida operativa — il confine del riferimento visivo
 
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
 **Formare le istruzioni dal sapere.** Raggiungi l'oggetto, le relazioni da rendere visibili e ciò che deve restare riconoscibile. Nel prompt al generatore considera composizione, geometria, testo e, quando pertinente, gli spazi occupati da frame futuri. Un vecchio motivo grafico non è un preset.
 
 **Generare e osservare A.** Usa prima un vero generatore. Guarda l'immagine ottenuta, non soltanto una descrizione immaginata. Correggi gerarchie, tempi o causalità inventati prima di codificare la scena. Conserva la provenienza dell'immagine.

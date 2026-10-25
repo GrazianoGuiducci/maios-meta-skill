@@ -1,6 +1,14 @@
 
 # Semantic Timelapse Formation
 
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
+## Adattare il metodo al tuo contesto
+
+Un laboratorio racconta un processo, un museo rende visibile una trasformazione, un autore anima una scena inventata. Si conserva il rapporto fra soggetto, riferimento visivo generato e osservato, scena modificabile e cambiamento nel tempo. Cambiano fonti, pubblico, stile e mezzi di produzione.
+
+Porta il soggetto, ciò che deve diventare comprensibile e i materiali disponibili. Le fonti determinano le relazioni da conservare; il movimento determina quali parti costruire. MKCV — Mini Kernel Code Video — è beta, in apprendimento: il film risultante permette di migliorare sia la scena sia il metodo che formerà il film successivo.
+
 **Prima un riferimento visivo generato, poi il primo frame scritto in codice.**
 
 ## Animare il soggetto di una reference
@@ -91,6 +99,8 @@ La continuazione del film conserva soggetto, statuto, artefatto corrente e doman
 
 # Guida operativa — il confine del riferimento visivo
 
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
 **Formare le istruzioni dal sapere.** Raggiungi l'oggetto, le relazioni da rendere visibili e ciò che deve restare riconoscibile. Nel prompt al generatore considera composizione, geometria, testo e, quando pertinente, gli spazi occupati da frame futuri. Un vecchio motivo grafico non è un preset.
 
 **Generare e osservare A.** Usa prima un vero generatore. Guarda l'immagine ottenuta, non soltanto una descrizione immaginata. Correggi gerarchie, tempi o causalità inventati prima di codificare la scena. Conserva la provenienza dell'immagine.
@@ -143,9 +153,9 @@ Casi illustrativi da adattare.
 
 Un’illustrazione generata mostra un robot vicino al tavolo. Il film affidato deve animare quel mondo: sovrapporre un diagramma nuovo produrrebbe un altro film. Osserva la reference, riconosci testa, braccio, oggetto e ambiente pertinenti e comprendi livelli, pivot o geometrie disponibili. Un’articolazione 2.5D contenuta può conservare l’identità meglio di un corpo 3D inventato. Se servono superfici nascoste, formale come ricostruzione esplicita o scegli un’altra vista. Il metodo segue il movimento realmente affidato.
 
-## Un’altra relazione richiede un’altra geometria
+## Mostrare come nasce una bicicletta
 
-Un film esplicativo mostra due correzioni indipendenti che tornano a competenze diverse. Un centro luminoso implicherebbe un controllore unico. Recupera la fonte e forma due percorsi distinguibili o un’altra geometria pertinente. Il tempo rende percepibili i cambiamenti senza farne fasi seriali. Il caso è una spiegazione illustrativa, non la registrazione di un agente. La correzione insegna come un oggetto nuovo può cambiare la grammatica rappresentativa.
+Una classe deve comprendere come si arriva dalle parti alla bicicletta completa. Nel processo illustrativo scelto, telaio e ruote vengono preparati lungo percorsi distinti e poi assemblati. La scena conserva rami, punti d’incontro e ordine delle operazioni indicati dalle fonti del laboratorio. Una sola fila di icone nasconderebbe il rapporto fra i pezzi; accelerare il film non lo renderebbe più chiaro. Tempo e geometria rendono percepibile quel processo. Un’altra produzione può richiedere una struttura diversa.
 
 ## Un film, saperi cinematografici complementari
 
@@ -154,7 +164,9 @@ Una scena autoriale mostra un piccolo robot che nota una pianta caduta e la aiut
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
-Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.1; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
+MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
+
+Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.2; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
 
 **MKCV — Mini Kernel Code Video** nomina la composizione generale delle competenze di produzione. **VC-30s** è il profilo di durata breve descritto qui. Entrambi usano la [stessa guida di produzione](VC30_STUDIO_LAB_IT.md); durata e formato seguono il film richiesto.
 
@@ -261,7 +273,9 @@ Un'immagine può introdurre una gerarchia inesistente; un personaggio può perde
 
 # VC-30s Studio-Lab — produrre video in codice con competenze specializzate
 
-**Stato:** metodo pubblico **edizione 0.1.1**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
+
+**Stato:** metodo pubblico **edizione 0.1.2**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
 ## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
 
@@ -342,6 +356,8 @@ I metodi sono stati approfonditi a partire da [HyperFrames](https://github.com/h
 
 
 # MKCV — un film, competenze reciproche
+
+**MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
 
 La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.
 

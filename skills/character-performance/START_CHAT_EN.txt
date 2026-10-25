@@ -13,6 +13,12 @@ In the fiction, a robot notices a fallen plant and helps it. If its arm moves im
 
 Performance gives authored action an observable form through the body, timing and contact. Actual assets and joints determine how it can be constructed.
 
+## Adapt the method to your context
+
+Performance animates a fictional character, an object reacting to weight or a gesture in a demonstration. Preserve the relationship between action, reaction and the signs an audience can read. Body, material, available joints and authorial intent change.
+
+Provide the subject, gesture and limits of the animatable material. The plant’s robot is an invented character; a technical tutorial may instead need only pressure, contact and the object’s response. Hesitation and care belong to fiction when authored in the scene; explain a real machine’s movement through its documented operation.
+
 ## Understand the actor’s relationship to the scene
 
 Recover what the actor or object is, what remains recognizable, what action is entrusted and what the situation allows. Receive any intention from the authored story. A demonstration object may need weight, balance or transformation without being humanized. Let the actual subject determine whether gaze, breath, contact or reaction is meaningful.

@@ -98,6 +98,13 @@
       "title": "A research request becomes a concrete project",
       "situation": "An organization offers resources to address a problem. The team needs to understand who benefits, what change is requested and what useful work its knowledge makes possible.",
       "point": "The proposal takes shape where the request meets actual capabilities. Funding, requirements and the application become meaningful in relation to the project being formed."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your context",
+      "paragraphs": [
+        "A funded request may concern research, a cultural service or an industrial project. Preserve the relationship between the beneficiary’s need, available capabilities and the new result to be formed. Beneficiaries, required knowledge, commitments, budget and request conditions change.",
+        "Provide the request, the practical problem and the knowledge already present in your organization. Form a solution and the means to realize it from that encounter. The proposal may also generate a new competence or reusable kernel; the application retains its own terms and responsibilities."
+      ]
     }
   },
   "it": {
@@ -199,6 +206,13 @@
       "title": "Una richiesta di ricerca diventa un progetto concreto",
       "situation": "Un ente offre risorse per affrontare un problema. Il gruppo deve capire chi ne beneficerà, quale cambiamento cerca l’ente e quale lavoro il proprio sapere rende possibile.",
       "point": "La proposta prende forma dall’incontro fra richiesta e capacità effettive. Importo, requisiti e candidatura acquistano significato rispetto al progetto che si vuole realizzare."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo al tuo contesto",
+      "paragraphs": [
+        "Una richiesta finanziata può riguardare ricerca, un servizio culturale o un progetto industriale. Si conserva il rapporto fra bisogno del beneficiario, capacità disponibili e risultato nuovo da formare. Cambiano chi beneficia, le conoscenze necessarie, gli impegni, il budget e le condizioni della richiesta.",
+        "Fornisci il testo della richiesta, il problema concreto e il sapere già presente nella tua organizzazione. Forma da quell’incontro una soluzione e ciò che serve per realizzarla. La proposta può generare anche una nuova competenza o un kernel riusabile; la candidatura conserva termini e responsabilità propri."
+      ]
     }
   },
   "showcase": {

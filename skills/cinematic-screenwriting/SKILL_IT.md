@@ -17,6 +17,12 @@ In un’officina di fantasia un robot si ferma accanto a una pianta caduta. La s
 
 La scrittura collega situazione, azione e conseguenza. Regia e interpretazione potranno renderle visibili attraverso sguardo, pausa, gesto e inquadratura.
 
+## Adattare il metodo al tuo contesto
+
+La scrittura può formare una scena di fiction, il racconto di una scoperta per un museo o un film che spiega un servizio. Si conserva il rapporto fra situazione, azione e cambiamento compreso dallo spettatore. Cambiano intento autoriale, pubblico e statuto delle immagini: una fiction inventa il proprio mondo; documentazione e ricostruzione mantengono la relazione con le fonti.
+
+Descrivi che cosa deve accadere, chi incontra la scena e quali materiali esistono. Il robot che rialza la pianta è un caso inventato per confrontare le competenze cinematografiche. Nel tuo lavoro possono bastare una persona, un oggetto o una scoperta: la forma narrativa nasce da quella situazione.
+
 ## Riconoscere situazione e statuto
 
 Comprendi soggetto, intento autoriale e statuto: documentazione osservata, ricostruzione, allegoria o fiction. Individua mondo, punto di vista e cambiamento possibile. La fiction può attribuire intenzioni e interiorità; un film tecnico richiede fonti per persone, sistemi ed eventi reali. La situazione determina la forma narrativa.

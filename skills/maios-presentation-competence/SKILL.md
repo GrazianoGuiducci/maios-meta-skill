@@ -17,6 +17,12 @@ A technician asks what changes during a shift; an engineer asks how the assistan
 
 The presentation begins with the actual question and makes the same mechanism and sources reachable. The depth of the view changes while the system’s identity and capabilities remain coherent.
 
+## Adapt the method to your context
+
+A museum presents a digital archive, a company introduces a service, a research group explains an experimental system. Preserve the relationship between what the system is, what it can do and the question of the person encountering it. The source system, audience, words and required depth change.
+
+Provide documents, actual capabilities and a use case of the system being presented. Start with a question recognizable to that audience and connect it to the mechanism that makes it possible. MAIOS references in the examples identify their origin; your system supplies the identity, sources and possibilities of the new presentation.
+
 ## Recover the system behind the latest artifact
 
 Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including its ability to form further competences. Preserve the distinct status of source, illustration and observed result.

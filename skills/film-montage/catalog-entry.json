@@ -1,7 +1,7 @@
 {
   "id": "comporre-montaggio-cinematografico",
   "name": "Film Montage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "41",
@@ -35,7 +35,7 @@
   "starter": "skills/film-montage/START_CHAT_EN.txt",
   "examples": "skills/film-montage/EXAMPLES.md",
   "presentation": "skills/film-montage/presentation.json",
-  "package": "dist/film-montage-0.1.1.zip",
+  "package": "dist/film-montage-0.1.2.zip",
   "en": {
     "title": "Edit images and sound to form a film’s meaning",
     "subtitle": "Order, duration, cuts and sound shape the relations a viewer can perceive.",

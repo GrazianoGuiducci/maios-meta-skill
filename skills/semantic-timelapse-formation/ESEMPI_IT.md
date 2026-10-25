@@ -6,9 +6,9 @@ Casi illustrativi da adattare.
 
 Un’illustrazione generata mostra un robot vicino al tavolo. Il film affidato deve animare quel mondo: sovrapporre un diagramma nuovo produrrebbe un altro film. Osserva la reference, riconosci testa, braccio, oggetto e ambiente pertinenti e comprendi livelli, pivot o geometrie disponibili. Un’articolazione 2.5D contenuta può conservare l’identità meglio di un corpo 3D inventato. Se servono superfici nascoste, formale come ricostruzione esplicita o scegli un’altra vista. Il metodo segue il movimento realmente affidato.
 
-## Un’altra relazione richiede un’altra geometria
+## Mostrare come nasce una bicicletta
 
-Un film esplicativo mostra due correzioni indipendenti che tornano a competenze diverse. Un centro luminoso implicherebbe un controllore unico. Recupera la fonte e forma due percorsi distinguibili o un’altra geometria pertinente. Il tempo rende percepibili i cambiamenti senza farne fasi seriali. Il caso è una spiegazione illustrativa, non la registrazione di un agente. La correzione insegna come un oggetto nuovo può cambiare la grammatica rappresentativa.
+Una classe deve comprendere come si arriva dalle parti alla bicicletta completa. Nel processo illustrativo scelto, telaio e ruote vengono preparati lungo percorsi distinti e poi assemblati. La scena conserva rami, punti d’incontro e ordine delle operazioni indicati dalle fonti del laboratorio. Una sola fila di icone nasconderebbe il rapporto fra i pezzi; accelerare il film non lo renderebbe più chiaro. Tempo e geometria rendono percepibile quel processo. Un’altra produzione può richiedere una struttura diversa.
 
 ## Un film, saperi cinematografici complementari
 

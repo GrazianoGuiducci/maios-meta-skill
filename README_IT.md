@@ -20,6 +20,8 @@ La directory `skills/` contiene i 42 ingressi operativi. Gli [ID precedenti](doc
 
 Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).
 
+Scopri [come adattare i metodi a formazione, cultura, servizi e ricerca](docs/ADATTARE.md). MKCV, il metodo di produzione video, è **beta e in apprendimento**.
+
 ## Scegliere una risorsa
 
 La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza una gerarchia di qualità. KA, Kernel Assiomatico, è un kernel semantico: le metacompetenze ne sono facoltà operative. Meta_Skill forma ed evolve competenze nello stesso campo; FDLA rende operativa la correzione nel lavoro, senza aggiungere un controllore esterno.
@@ -59,7 +61,7 @@ La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza u
 | [Resource Need Formation](skills/resource-need-formation/README_IT.md) | Forma il bisogno di risorse da ciò che deve diventare possibile, prima di scegliere fornitore, strumento finanziario o altro portatore. | Competenza business |
 | [Authorial Source Discrimination](skills/authorial-source-discrimination/README_IT.md) | Riconosce ciò che porta il significato dell’autore e lo conserva adattando quanto richiedono l’artefatto e la situazione ricevente selezionati. | Competenza editoriale |
 | [Concept-to-Media Formation](skills/concept-to-media-formation/README_IT.md) | Forma il concetto e la relazione editoriale comuni da cui produrre media diversi conservando il significato sorgente. | Metacompetenza editoriale |
-| [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README_IT.md) | Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV. | Competenza visiva generativa |
+| [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README_IT.md) | Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento. | Competenza visiva generativa |
 | [Onto-Skill](skills/onto-skill/README_IT.md) | Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti. | Metacompetenza generativa |
 | [Form Cooperative Capability from Sources](skills/form-cooperative-capability-from-sources/README_IT.md) | Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali. | Metacompetenza generativa |
 | [Funded Request Project Formation](skills/funded-request-project-formation/README_IT.md) | Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie. | Metacompetenza generativa |

@@ -1,5 +1,7 @@
 # Use a MAIOS competence with your AI
 
+[Adapt the method to your context](ADAPTING.md): education, cultural work, services and research cases.
+
 [Italiano](USO.md) · [Resource catalogue](../README.md).
 
 A competence contains operating knowledge. Add an actual intent, relevant sources and the means your environment can use.

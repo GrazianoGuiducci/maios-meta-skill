@@ -9,9 +9,9 @@ Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un
 
 ## Il sapere di manutenzione diventa capacità cooperativa
 
-Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabili. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
+Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabile. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
 
 
-## Un kernel è un risultato significativo
+## Volontari e assistenti preparano una rassegna culturale
 
-Una collaborazione cerca un modo riusabile per formare gruppi competenti in domini diversi. Il lavoro sorgente fa emergere un kernel che sa scoprire, comporre e approfondire competenze nel destinatario. Consideralo un risultato possibile in sé. Consegnagli sapere operativo accessibile e ritorno di apprendimento. Un’applicazione potrà emergere dall’uso; aggiungerla soltanto per rendere il kernel apparentemente concreto cambierebbe l’oggetto.
+Un’associazione prepara una rassegna con scuole, artisti e volontari. I contributi arrivano in documenti diversi e alcune proposte restano incompatibili. Forma il sapere con cui il gruppo collega esigenze, risorse e ragioni delle scelte, conservando autori e questioni aperte. Un metodo condiviso o un kernel di progetto può far continuare quel sapere tra un incontro e l’altro. Programma, spazio collaborativo o applicazione emergono dalle necessità effettive della rassegna.

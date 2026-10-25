@@ -1,5 +1,9 @@
 # Nine further capabilities — public edition 0.1.0
 
+## 25 October 2026 — adaptable examples and MKCV beta
+
+The nine new resources are edition 0.1.2. Their methods and presentations distinguish the transferable relationship from the context-specific sources, purposes and means. New illustrative cases cover education, cultural cooperation, museum storytelling and workshop processes. The shared adaptation guide serves all 42 resources. MKCV — Mini Kernel Code Video — is beta, learning through production and observed corrections. Package version and method maturity remain distinct.
+
 ## Public portability and reader-context correction — 25 October 2026
 
 The nine newest resources are edition 0.1.1. Their functional titles identify the work, and their methods include a concrete receiving situation and the relationship it teaches. Semantic Timelapse retains its detailed production knowledge while development chronology and collection-maintenance responsibilities are separated from recipient instructions. UX-AI Kernel Design is 0.3.3 for a functional-role clarification. The other 32 operating editions retain their versions and archives.
