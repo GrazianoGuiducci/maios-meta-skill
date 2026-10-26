@@ -331,7 +331,7 @@
           "documents",
           "corrects"
         ],
-        "description": "Relationships in the same illustrative case, with no mandatory order. The visitor starts from a subject and reaches the photograph’s record in the archive. The curator follows the same record to the document describing origin and attribution. Corrected provenance changes the record and dependent views. The method preserves the relation between image, attribution and source."
+        "description": "The same archive, from question to source. Illustrative relationships, not mandatory stages."
       },
       "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
@@ -367,7 +367,7 @@
           "documenta",
           "corregge"
         ],
-        "description": "Relazioni dello stesso caso illustrativo, senza ordine obbligatorio. La visitatrice parte da un soggetto e raggiunge la scheda della fotografia nell’archivio. Il curatore segue dalla stessa scheda il documento che ne descrive origine e attribuzione. Una provenienza corretta cambia la scheda e le viste dipendenti. Il metodo conserva il nesso tra immagine, attribuzione e fonte."
+        "description": "Lo stesso archivio, dalla domanda alla fonte. Relazioni illustrative, non fasi obbligatorie."
       },
       "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }

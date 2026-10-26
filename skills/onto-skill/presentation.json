@@ -312,12 +312,12 @@
           "New case"
         ],
         "relations": [
-          "makes pertinent",
+          "makes recognizable",
           "changes method",
           "guides choice",
           "refines principle"
         ],
-        "description": "Relationships in the same illustrative case, with no mandatory order. Source: the teacher’s intent. Competence: educational assistance. Choice: a question, example or explanation from the actual attempt. In another subject it preserves the reason and changes the help. Source: similar requests with different support coverage. Competence: request handling. Choice: connect conditions and decision. With different symptoms it recognizes the same useful relationship. Source: missing reasons in a quotation. Competence: quotation writing. Choice: explain consequential departures. In an ordinary quotation it stays concise."
+        "description": "Intent, discovery or correction in the same work. Illustrative relationships, not mandatory stages."
       },
       "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
@@ -348,12 +348,12 @@
           "Nuovo caso"
         ],
         "relations": [
-          "rende pertinente",
+          "rende riconoscibile",
           "cambia il metodo",
           "orienta la scelta",
           "affina il principio"
         ],
-        "description": "Relazioni dello stesso caso illustrativo, senza ordine obbligatorio. Fonte: intento della docente. Competenza: assistenza didattica. Scelta: domanda, esempio o spiegazione dal tentativo reale. In un’altra materia conserva la ragione, cambiando l’aiuto. Fonte: due richieste simili con coperture diverse. Competenza: trattamento delle richieste. Scelta: collegare condizioni e decisione. Con sintomi diversi riconosce lo stesso nesso utile. Fonte: ragioni mancanti nel preventivo. Competenza: redazione dei preventivi. Scelta: spiegare gli scostamenti rilevanti. Nel preventivo ordinario mantiene la concisione."
+        "description": "Intento, scoperta o correzione nello stesso lavoro. Relazioni illustrative, non fasi obbligatorie."
       },
       "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }
