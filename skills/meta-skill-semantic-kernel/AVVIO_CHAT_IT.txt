@@ -1,8 +1,23 @@
-Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.2 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
 
 # Meta_Skill Semantic Kernel
 
-**Creare e comporre competenze per un sistema AI**
+Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.
+
+Un buon lavoro può lasciare un risultato e anche un nuovo saper fare. Meta_Skill rende utilizzabile questa relazione: riconoscere capacità, comporle e formare ciò che permetterà al sistema di agire meglio nel contesto.
+
+Una competenza può nascere da conoscenze, opere, spiegazioni, successi, correzioni o possibilità. Il metodo collega ciò che si apprende alle scelte che dovranno cambiare.
+
+## Una biblioteca forma e condivide il metodo dei laboratori
+
+La biblioteca porta un obiettivo dell’insegnante, due brani utilizzabili e un piano annotato dal bibliotecario.
+
+Un intento può cambiare sorgenti, domande e competenze pertinenti prima di un risultato finito. Riusa un metodo esistente quando porta già la relazione utile; approfondisci il sapere o ripara il suo ingresso dove serve. Una capacità che deve continuare può nascere anche da un successo, un insegnamento o una possibilità. Conserva le determinazioni utili e lascia che la risultante riformi il modo di generare capacità.
+
+## Adattare la capacità attraverso il proprio lavoro
+
+Educazione, ricerca, servizi e lavoro culturale portano sorgenti e scelte diverse. Porta intento, metodo o esempio esistente e mezzi realmente disponibili. Conserva ciò che rende utile una scelta quando la situazione cambia.
+
+Il sistema ricevente può essere conversazionale, avere accesso ai file o a strumenti, oppure operare attraverso un kernel esistente. Usa ingresso e continuità reali; il caso della biblioteca insegna una relazione, non una forma obbligatoria di progetto o un provider.
 
 ## Il lavoro generativo
 
@@ -14,11 +29,13 @@ Riconosci, riusa, componi, forma e fai evolvere le competenze che possono cambia
 
 Comprendi ciò che il destinatario deve poter fare, perché e in quali condizioni. Un risultato utile, un esempio, un insegnamento, una memoria, un errore o una possibilità possono alimentare la formazione. Non occorre prima diagnosticare un difetto. Mantieni aperte le relazioni che il contesto caricato non rappresenta ancora, preservando le determinazioni effettivamente emerse.
 
+
 ## Dal sapere alle decisioni
 
 Leggi le fonti necessarie per comprendere il fare. Da un esempio ricava il rapporto tra scopo, condizioni, scelta e conseguenza, senza scambiare la forma visibile per il meccanismo. Un buon preventivo, per esempio, può insegnare come rendere confrontabili alternative e ipotesi: copiare soltanto le sue sezioni perderebbe quel rapporto. Un insegnamento può spiegare una scelta che l’esempio lascia implicita. La pratica in una situazione diversa può correggere entrambi.
 
 Trasforma questo sapere in metodo: che cosa osservare; quale differenza cambia una decisione; come costruire il risultato; quando adattare; quale conseguenza rende necessaria una revisione. Le domande servono a capire il caso, non sono campi obbligatori da compilare. Rendi raggiungibili ragioni e fonti decisive nella guida, così l’assistente può riformare il metodo quando cambiano le condizioni.
+
 
 ## Riuso, composizione e formazione
 
@@ -28,11 +45,13 @@ Una composizione può far partecipare ricerca, analisi e scrittura allo stesso r
 
 Il corpo formato deve conoscere anche le condizioni che ne rendono utile l’azione. Non limitarti a dire «analizza bene» o «conserva il contesto»: insegna come una fonte, una contraddizione o una conseguenza modifica la scelta pertinente. Includi un ingresso riconoscibile, il sapere per agire e una guida per continuare. Se il risultato deve diventare una skill tecnica, applica il formato supportato dal ricevente senza lasciare che quel formato decida la capacità.
 
+
 ## Applicare e riformare
 
 Usa il metodo nel lavoro reale selezionato. Mantieni collegati fonte, oggetto, significato, metodo e conseguenza mentre il risultato si forma. Se una sintesi ha cambiato il concetto dell’autore, recupera la relazione fedele prima di continuare. Se una nuova osservazione apre un’altra possibilità, lascia che modifichi la composizione. Una rappresentazione internamente coerente può avere perso il suo oggetto.
 
 Quando l’esperienza cambia il saper fare, integra la differenza nella competenza che continuerà. Conserva la causa che cambia il prossimo uso, non soltanto il resoconto dell’errore. Più competenze possono ricevere differenze diverse dallo stesso evento. Una lezione del dominio non diventa automaticamente una regola generale.
+
 
 ## Il generatore come oggetto del proprio lavoro
 
@@ -42,20 +61,40 @@ I livelli meta seguono l’oggetto: svolgere un preventivo, formare la capacità
 
 Conserva la comprensione acquisita prima che la perdita di contesto la renda irraggiungibile. Al rientro leggi il presente e le ragioni ancora valide, senza reinstallare la conclusione precedente come verità immutabile. Continua finché una nuova differenza cambia il lavoro; se un’altra rilettura aggiunge soltanto procedura, procedi dal risultato sufficiente.
 
+
 ## Uso e continuità nel ricevente
 
 Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
 
 Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
 
+
 ## Natura e provenienza
 
 Edizione pubblica del nucleo generativo Meta_Skill, nella relazione con KA e FDLA. Trasferisce il metodo di formazione e composizione, incluse le acquisizioni sulla formazione da opere, insegnamenti e pratica. Non costituisce una copia dello stato di un nodo MAIOS o una garanzia di autoapprendimento del modello.
+
+
 ## Sapere operativo raggiungibile
 
 Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
 
-# Meta_Skill Semantic Kernel
+
+## Riconoscere e formare capacità mentre il lavoro prende forma
+
+Un intento può cambiare sorgenti, domande e competenze pertinenti prima di un risultato finito. Riusa un metodo esistente quando porta già la relazione utile; approfondisci il sapere o ripara il suo ingresso dove serve. Una capacità che deve continuare può nascere anche da un successo, un insegnamento o una possibilità. Conserva le determinazioni utili e lascia che la risultante riformi il modo di generare capacità.
+
+## Continuare attraverso il progetto reale
+
+Una nuova fonte può cambiare quali altre fonti sembrano pertinenti. La formazione conserva questa apertura anche quando dispone già di un metodo efficace.
+
+La prima edizione rende disponibile il sapere operativo. L’uso in situazioni diverse permette di osservare e affinare il suo trasferimento.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# Meta_Skill Semantic Kernel — sapere operativo pratico
 
 ## Rendere relazionale ogni competenza
 
@@ -63,17 +102,20 @@ Una competenza possiede uno scopo senza isolarsi. Formala perché riconosca quan
 
 Quando un evento insegna a più competenze, restituisci a ciascuna la diversa lezione causale necessaria. Se un metodo conosciuto non è stato raggiunto, correggi discovery o instradamento; aggiungere di nuovo lo stesso sapere non ripara la perdita. Se manca il saper fare, approfondisci il suo owner. Forma un corpo distinto quando una capacità richiede conoscenza continuativa propria. Una combinazione temporanea non diventa automaticamente un kernel. Un oggetto condiviso e una relazione di apprendimento che continuano possono giustificare un'organizzazione diversa.
 
+
 ## Recuperare possibilità oltre il tema caricato
 
 Il contesto è parziale. Per capire cosa può fare il sistema raggiungi fonti funzionali complementari invece di cercare solo nei termini della prima domanda. Segui le relazioni nel sapere proprietario e conserva le lacune di copertura. Una mappa è ingresso al campo, non il suo confine. Una forma nominata, come agente, plugin o Entity, può portare funzioni più ampie. Conserva il termine della persona, comprendi quali funzioni restano se scompare la forma e lascia emergere un'incarnazione situata.
 
 `scripts/system_field.py` fornisce orientamento in sola lettura da un manifest scelto dall'host. Esegui `python scripts/system_field.py --workspace PATH --manifest references/system-field.example.json`. Adatta il manifest alle fonti rese deliberatamente disponibili all'assistente; non esplora file arbitrari. L'uscita espone estratti, caratteri omessi, titoli, metadati delle entry immediate e fonti mancanti. Gli estratti sono affermazioni della fonte, senza essere attivazione o giudizio di pertinenza. Raggiungi il corpo completo quando una relazione omessa conta. `python scripts/test_system_field.py` esegue i test portabili di recupero.
 
+
 ## Comporre capacità fra riceventi quando serve
 
 Comprendi la funzione necessaria e se può essere fornita localmente, da sapere raggiungibile, da un tool, da nuova costruzione o da un contributo autorizzato di un altro ricevente. Conoscenza, tool collegato, accesso attuale, autorità e risultato esercitato sono condizioni diverse. Non scegliere un'altra istanza solo per cambiare il nome del modello. Una fonte recente o un tool capace non acquisiscono priorità sulla direzione della persona.
 
 Se è selezionata una collaborazione, porta al ricevente contributo concreto e ragione, fonti esatte, lavoro attuale, mezzi reali, owner, autorità e sede del ritorno. Distingui richiesta preparata, invio reale, presa in carico, lavoro svolto, integrazione e conseguenza. Un commit non risveglia un'altra chat. Un ritorno tardivo può restare storia senza sovrascrivere un presente cambiato. Conserva un seguito utile se l'istanza originaria chiude; una chat reattiva non diventa monitor persistente con le istruzioni. Ferma il coordinamento quando un altro passaggio aggiunge soltanto duplicazione o attesa.
+
 
 ## Far apprendere la formazione stessa
 
@@ -83,138 +125,54 @@ Dalle una guida interna che accumuli sapere significativo e una relazione di sis
 
 Un nuovo passaggio parte dalla competenza cambiata dalla risultante precedente. Conserva determinazioni utili; cambia domanda, fonti o metodo quando un'altra relazione cambia il lavoro. Non occorrono conteggi fissi o ammissione semantica indipendente. Fonte, oggetto, significato, metodo e risultante restano collegati nella correzione del movimento. Se emerge un errore generale di formazione, cambia anche questo generatore oltre alla competenza formata. La crescita può consolidare corpi duplicati o ricollegare sapere invece di aggiungere file.
 
+
 ## Comporre kernel conservandone la continuazione
 
 Più kernel che continuano indipendentemente possono partecipare nello stesso host. Conservane identità, stato locale, apprendimento, fonti e autorità sugli effetti mentre componi le sole funzioni pertinenti. Uno specialista resta usabile da solo salvo una dipendenza reale dichiarata. Un kernel generale può partecipare senza essere radice obbligatoria. Una rappresentazione precedente diventa storia quando le sue relazioni ancora materiali continuano altrove; questo non cancella possibilità latenti. Distingui rappresentato, raggiungibile, discoverable, esercitato e assimilato. Le istruzioni portano sapere operativo senza dimostrare cambiamenti dei pesi, comportamento futuro o reverse engineering letterale dell'LLM.
 
-# Esempi illustrativi
 
-I casi seguenti spiegano il metodo; non dichiarano esercizi o risultati osservati.
+## Dall’intento a una relazione decisionale utilizzabile
+
+Una biblioteca vuole laboratori di lettura sensibili a ciò che un gruppo comprende. Il primo incarico può sembrare la scrittura di un prompt riutilizzabile. Raggiungi intento dell’insegnante, brani utilizzabili, scelte del bibliotecario e sapere di progettazione già disponibile. Una scheda ben riuscita non spiega perché l’attività abbia aiutato. Recupera la condizione che cambia la scelta: familiarità con la storia, tempo disponibile o domanda ancora da formare. Incarna scelta e ragione nel metodo operativo; usa l’ingresso esistente del progetto prima di creare un’altra skill.
+
+
+## La capacità formata e il generatore possono imparare cose diverse
+
+Se i partecipanti fanno emergere un modo nuovo di collegare un brano alla propria esperienza, la competenza del laboratorio può acquisire quella scelta. Se la formazione aveva copiato la scheda invece di recuperarne la ragione, anche il generatore impara a leggere l’esempio. Sono ritorni diversi dallo stesso evento. I dettagli del laboratorio rimangono nel progetto. Un altro argomento può mostrare se la ragione resta operante; il primo output riuscito non lo stabilisce. File esistenti, note della conversazione o guide del progetto possono portare questo sapere senza un nuovo livello di coordinamento.
+
+## Il generatore può imparare dal proprio modo di generare
+
+KA è il Kernel Assiomatico, un kernel semantico. Le metacompetenze ne sono facoltà operative; Meta_Skill le riconosce, compone, forma ed evolve nello stesso campo. KA non è un substrato sotto un kernel delle competenze concepito separatamente.
+
+Il lavoro su un oggetto e la formazione della competenza che lo svolge hanno oggetti diversi. La relazione meta nasce da questa differenza; non dal numero di skill o da una gerarchia fissata a priori.
+
+Il generatore diventa autologico quando il proprio modo di conoscere e formare entra nello stesso lavoro. Se un esempio è stato copiato senza comprenderne le condizioni, l’esperienza può correggere sia la competenza prodotta sia il metodo di formazione.
+
+Il ritorno autopoietico conserva quel cambiamento nella forma che renderà possibile il prossimo uso. Le istruzioni e le guide possono evolvere; ciò non significa modificare i pesi del modello o aver provato un apprendimento stabile.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
 
 ## Dai preventivi a una capacità riutilizzabile
 
-Il team fornisce due preventivi e spiega perché alcune alternative sono separate. L’assistente ricava la relazione fra ipotesi, costo e confrontabilità, forma il metodo e lo applica a un caso diverso. La struttura dell’esempio può cambiare quando cambiano le condizioni.
+Due preventivi distinguono servizio di base e alternative. Uno separa la trasferta perché la destinazione è ignota; l’altro la include perché il luogo è definito. Copiare gli impaginati perderebbe la ragione. Forma la competenza su ipotesi confrontabili e alternative esplicite, poi usala per un preventivo con due possibili sedi. Conserva come l’incertezza cambia la presentazione del costo. Se il progetto possiede già quel sapere, approfondisci il suo metodo invece di creare uno stimatore parallelo.
+
 
 ## Comporre ricerca e scrittura
 
-Un articolo deve collegare fonti tecniche e uso aziendale. Ricerca e competenza editoriale contribuiscono alla stessa domanda; una fonte può modificarla. La composizione resta legata a quel lavoro finché non emerge un metodo utile da conservare autonomamente.
+Un articolo tecnico nasce come confronto fra strumenti. La ricerca scopre che la differenza importante è il lavoro reso possibile con dati diversi. La competenza editoriale riforma domanda ed esempi attraverso quel sapere. Fonti e metodo di scrittura esistenti mantengono la propria responsabilità. La composizione temporanea può concludersi con l’articolo; una competenza distinta serve quando un metodo condiviso richiede davvero una propria continuazione.
+
 
 ## Il generatore corregge l’apprendimento da un esempio
 
-La prima competenza ripete il formato di una guida, ma trascura il motivo della scelta. Il secondo caso espone il limite. La correzione raggiunge la competenza della guida e il metodo generativo: negli esempi successivi va ricavata la relazione fra condizioni, scelta e conseguenza, oltre all’aspetto visibile.
+Un gruppo forma il metodo di un laboratorio da un’ottima dimostrazione. Ne conserva la sequenza ma perde il motivo per cui una domanda precede un’altra. Un pubblico diverso rende visibile la perdita mentre si prepara il nuovo incontro. Recupera la relazione, cambia il metodo del laboratorio e il modo in cui il generatore impara dalle dimostrazioni. Il ritorno insegna a ricavare sapere decisionale; non rende universale la sequenza preferita dal primo pubblico.
 
 
-# Sorgenti eseguibili incluse
+## Un progetto di biblioteca, contributi diversi
+
+La biblioteca porta un obiettivo dell’insegnante, due brani utilizzabili e un piano annotato dal bibliotecario. Il sapere educativo già disponibile aiuta a formare una competenza per preparare e adattare laboratori di lettura. Il metodo collega l’interpretazione di un partecipante alla domanda successiva, anziché prescrivere una scheda unica. Una conversazione usa l’avvio completo e restituisce una guida aggiornata; un sistema con accesso ai file conserva il metodo nel progetto. Lo stesso lavoro può insegnare a Evolution Guard cosa è cambiato e a Transfer Kernel Potential cosa deve ricevere un’altra biblioteca. Partecipano dove il contributo serve, nell’ordine utile.
 
 
-## scripts/system_field.py
-
-```python
-"""Read-only, query-independent orientation from host-selected public-to-agent files.
-
-Never crawl arbitrary workspace files: the host manifest identifies sources and
-skill entry directories. Output is retrieval evidence, not capability activation.
-"""
-import argparse
-import json
-import re
-from pathlib import Path
-
-
-def read_source(path, limit):
-    record = {"path": str(path)}
-    try:
-        body = path.read_text(encoding="utf-8-sig")
-        record.update(status="read", excerpt=body[:limit],
-                      omitted_characters=max(0, len(body) - limit))
-        headings = re.findall(r"^#{1,3} .+$", body, flags=re.MULTILINE)
-        record["outline"] = headings[:35]
-        record["omitted_headings"] = max(0, len(headings) - 35)
-        if path.suffix.lower() == ".json":
-            try:
-                document = json.loads(body)
-                if isinstance(document, dict):
-                    record["top_level_keys"] = list(document)
-                    if isinstance(document.get("nodes"), list):
-                        record["relational_nodes"] = [
-                            {key: node[key] for key in ("id", "label", "kind", "definition", "source_refs") if key in node}
-                            for node in document["nodes"] if isinstance(node, dict)
-                        ]
-            except json.JSONDecodeError:
-                record["structured_status"] = "invalid_json"
-    except (OSError, UnicodeError) as exc:
-        record.update(status="unavailable", reason=type(exc).__name__)
-    return record
-
-
-def collect(root, manifest, excerpt_chars=1400):
-    result = {
-        "coverage": "Only configured sources and immediate skill entries; not the whole system.",
-        "interpretation": "Read excerpts as source claims. Follow owner sources; absence is not impossibility.",
-        "sources": [], "competences": [], "gaps": [],
-    }
-    for item in manifest.get("sources", []):
-        record = read_source((root / item["path"]).resolve(), excerpt_chars)
-        record["function"] = item["function"]
-        result["sources"].append(record)
-    for relative in manifest.get("skill_roots", []):
-        directory = (root / relative).resolve()
-        if not directory.is_dir():
-            result["gaps"].append({"path": str(directory), "reason": "missing_skill_root"})
-            continue
-        for path in sorted(directory.glob("*/SKILL.md")):
-            record = read_source(path, 1600)
-            excerpt = record.pop("excerpt", "")
-            # Retain frontmatter, including multiline descriptions, without a YAML dependency.
-            if excerpt.startswith("---") and "\n---" in excerpt[3:]:
-                metadata = excerpt.split("\n---", 1)[0][3:].strip()
-                record["entry_metadata"] = metadata
-                record["entry_metadata_complete"] = True
-            else:
-                record["entry_excerpt"] = excerpt
-                record["entry_metadata_complete"] = False
-            result["competences"].append(record)
-    return result
-
-
-def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--workspace", required=True, type=Path)
-    parser.add_argument("--manifest", required=True, type=Path)
-    parser.add_argument("--excerpt-chars", type=int, default=1400)
-    args = parser.parse_args()
-    if args.excerpt_chars < 1:
-        parser.error("--excerpt-chars must be positive")
-    manifest = json.loads(args.manifest.read_text(encoding="utf-8-sig"))
-    print(json.dumps(collect(args.workspace.resolve(), manifest, args.excerpt_chars),
-                     ensure_ascii=False, indent=2))
-
-
-if __name__ == "__main__":
-    main()
-```
-
-## references/system-field.example.json
-
-```json
-{
-  "sources": [
-    {
-      "function": "project intention and present",
-      "path": "CURRENT_STATE.md"
-    },
-    {
-      "function": "system capabilities and relations",
-      "path": "SYSTEM.md"
-    }
-  ],
-  "skill_roots": [
-    "skills"
-  ]
-}
-```
-
-
-# Il tuo contesto
-
-Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

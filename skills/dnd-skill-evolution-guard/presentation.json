@@ -35,6 +35,10 @@
       {
         "title": "Preservare stabilità attraverso il cambiamento",
         "body": "Una revisione supera la precedente quando conserva le relazioni ancora utili e rende il metodo più capace o rimuove una perdita senza nasconderne un’altra. Novità, data o validità del formato non bastano. Se cambia un compromesso, esplicitalo. Mantieni il passato attribuito al suo momento: una correzione odierna non era già presente nell’esperienza precedente. Una verifica tecnica può mostrare leggibilità o corrispondenza, mentre un caso diverso può mostrare un cambiamento del comportamento. Conserva anche esiti invariati, regressioni e incertezze."
+      },
+      {
+        "title": "Lasciare che la relazione cambiata guidi il prossimo atto utile",
+        "body": "L’apprendimento può cambiare domanda, selezione delle fonti o metodo mentre il lavoro si forma. Distingui una relazione pratica mancante, sapere non raggiunto dall’ingresso e metodo noto sostituito nell’uso. Correggi la causa responsabile e prosegui dalla capacità cambiata. Una fonte aggiornata o un file valido rendono disponibile il sapere; non trasferiscono al successore la prova del comportamento precedente. Conserva un metodo sufficiente quando non cambia nulla di materiale."
       }
     ],
     "depth": {
@@ -62,7 +66,115 @@
       "Conserva fonte, differenza, parte del metodo cambiata e prima situazione utile per osservarla. Una modifica rende il sapere disponibile; assimilazione significa che un caso successivo diverso ne beneficia senza dover ricostruire ogni volta la stessa correzione.",
       "L’apprendimento interno non installa automaticamente il metodo in altri ambienti e non pubblica una nuova versione. Le mutazioni e gli effetti concreti restano legati al mandato, al destinatario e agli strumenti effettivi."
     ],
-    "operating_guide": "skills/dnd-skill-evolution-guard/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/dnd-skill-evolution-guard/GUIDA_OPERATIVA_IT.md",
+    "entry_description": "Improve the competence through which reusable learning must continue. Use when a correction, successful outcome, recurring loss or new possibility should change an operating method, guide, entry or connection to another capability.",
+    "operating_method": [
+      {
+        "title": "Comprendere la differenza causale",
+        "body": "Recupera la relazione fra intenzione, fonti, lavoro effettivamente svolto e conseguenza. Individua che cosa è stato perso, conservato o reso possibile e quale correzione cambia il seguito. Mantieni distinguibili le parole dell’operatore, i fatti dell’oggetto, le tue inferenze e gli esiti osservati. Una frase corretta non diventa un divieto universale; una formulazione elegante non sostituisce il significato. Se il materiale proviene da conversazioni, preserva l’attribuzione; se è molto esteso, conserva l’essenza con le sue ragioni."
+      },
+      {
+        "title": "Distinguere sapere mancante, ingresso e uso",
+        "body": "Leggi il metodo attuale e il punto da cui il ricevente lo raggiunge. Se manca una conoscenza pratica, acquisiscila o approfondisci la competenza. Se la conoscenza esiste ma non è raggiunta, correggi il collegamento o il richiamo. Se l’assistente conosceva il metodo e lo ha sostituito con la propria prima interpretazione, correggi quella scelta e l’eventuale errore riusabile di selezione. Aggiungere un’altra regola al file più vicino può lasciare intatta la causa. L’assenza di una cartella prova solo l’assenza di quella forma."
+      },
+      {
+        "title": "Far cambiare chi dovrà agire diversamente",
+        "body": "Una stessa conseguenza può riguardare più competenze. Porta a ciascuna la parte che cambia il suo modo di comprendere o agire, preservando i rispettivi oggetti e le conoscenze valide. Non copiare la stessa spiegazione ovunque. Una competenza distinta diventa utile quando emerge una funzione, un sapere, un ingresso o una continuità realmente differenti. Altrimenti approfondisci l’interfaccia già esistente. Quando il cambiamento riguarda il metodo che forma competenze, raggiungi quella capacità generativa anziché riscriverne i fondamenti da una comprensione parziale."
+      },
+      {
+        "title": "Scrivere un metodo che sappia continuare",
+        "body": "Rendi esplicita la relazione che cambia le scelte: che cosa osservare, perché conta, come adattare il lavoro e cosa può correggere il metodo. Conserva l’ingresso discriminante, le fonti pertinenti e le condizioni dell’effetto. Elimina consigli duplicati e procedure superate che non aiutano più. Il dettaglio può stare in una guida raggiunta quando serve. Collega le proiezioni attive che devono cambiare, senza sincronizzare superfici estranee. Se il lavoro è soltanto una proposta, consegna il delta preciso; se l’aggiornamento è nel mandato e nei mezzi disponibili, integralo nel luogo pertinente."
+      },
+      {
+        "title": "Preservare stabilità attraverso il cambiamento",
+        "body": "Una revisione supera la precedente quando conserva le relazioni ancora utili e rende il metodo più capace o rimuove una perdita senza nasconderne un’altra. Novità, data o validità del formato non bastano. Se cambia un compromesso, esplicitalo. Mantieni il passato attribuito al suo momento: una correzione odierna non era già presente nell’esperienza precedente. Una verifica tecnica può mostrare leggibilità o corrispondenza, mentre un caso diverso può mostrare un cambiamento del comportamento. Conserva anche esiti invariati, regressioni e incertezze."
+      },
+      {
+        "title": "Evoluzione, autologica e continuità della capacità",
+        "body": "La relazione meta è l’oggetto diretto di questa risorsa: modifica il metodo di una competenza, oltre a produrre il risultato del singolo compito.\n\nLa relazione diventa autologica quando anche il modo di far evolvere viene corretto: per esempio, se aggiungeva sempre istruzioni mentre la causa era un ingresso che non veniva usato. Il ritorno autopoietico è la differenza del lavoro che cambia la capacità da cui nascerà il lavoro successivo. Non equivale ad autonomia esecutiva o aggiornamento dei pesi del modello."
+      },
+      {
+        "title": "Apprendimento e continuità",
+        "body": "Conserva fonte, differenza, parte del metodo cambiata e prima situazione utile per osservarla. Una modifica rende il sapere disponibile; assimilazione significa che un caso successivo diverso ne beneficia senza dover ricostruire ogni volta la stessa correzione.\n\nL’apprendimento interno non installa automaticamente il metodo in altri ambienti e non pubblica una nuova versione. Le mutazioni e gli effetti concreti restano legati al mandato, al destinatario e agli strumenti effettivi."
+      },
+      {
+        "title": "Sapere operativo raggiungibile",
+        "body": "Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente."
+      },
+      {
+        "title": "Lasciare che la relazione cambiata guidi il prossimo atto utile",
+        "body": "L’apprendimento può cambiare domanda, selezione delle fonti o metodo mentre il lavoro si forma. Distingui una relazione pratica mancante, sapere non raggiunto dall’ingresso e metodo noto sostituito nell’uso. Correggi la causa responsabile e prosegui dalla capacità cambiata. Una fonte aggiornata o un file valido rendono disponibile il sapere; non trasferiscono al successore la prova del comportamento precedente. Conserva un metodo sufficiente quando non cambia nulla di materiale."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Riconoscere la causa prima di cambiare una competenza",
+        "body": "Recupera la relazione sorgente, ciò che il movimento ha introdotto e possibilità o risultato perduti, conservati o acquisiti. Un file mancante non prova funzione mancante: può vivere in un altro corpo o nella composizione. Distingui saper fare assente, sapere non scoperto e metodo compreso ma scavalcato nell'uso. Correggi metodo, adattatore o scelta responsabile invece di aggiungere una regola alla skill più vicina.\n\nSe un'emergenza cambia più competenze, allarga il campo prima di propagare un'interpretazione parziale. Ogni owner riceve la differenza che cambia la propria scelta; gli altri restano invariati. Se coinvolge concetti fondativi, usa la competenza che li comprende e conserva la fonte; questa guardia non acquisisce autorità di ridefinirli. Una competenza utile può unire intento, mappa di fonti/owner, metodo, autoapplicazione e apprendimento in un corpo breve o una guida profonda, senza template obbligatorio."
+      },
+      {
+        "title": "La stabilità comprende la capacità di evolvere",
+        "body": "Mantieni collegati fonte, oggetto e risultante. Un successore conserva le relazioni ancora materiali ampliando i risultati raggiungibili o togliendo una perdita senza costo nascosto equivalente. Nuovo lessico, data o validità tecnica non stabiliscono superamento. Conserva esiti invariati, regressioni e compromessi come riscontri reali. Le identità dei cicli precedenti restano genealogia invece di riscrivere il passato col presente.\n\nIntegra l'apprendimento riusabile mentre la causa è presente, incluso il generatore se cambia la formazione. Un audit durevole registra relazione corretta e owner continuativo oltre all'errore. L'uso successivo non identico può mostrare assimilazione senza diventare un permesso sull'apprendimento presente. Release pubblica, installazione e runtime restano azioni selezionate proprie. Fermati quando un'altra modifica non aggiunge relazioni utili a fonte, comportamento o seguito."
+      },
+      {
+        "title": "Localizzare ciò che deve cambiare prima di propagare una correzione",
+        "body": "La guida di un laboratorio chiede di seguire la comprensione dei partecipanti, ma l’assistente applica sempre la stessa sequenza. Leggi guida e ingresso realmente usati. Se l’ingresso consegna solo la sequenza, ricollega il metodo completo. Se manca il nesso fra risposta del partecipante e domanda successiva, forma quel sapere. Se il sapere era presente e compreso, correggi la scelta che l’ha sostituito. Lo stesso esito visibile può richiedere tre cambiamenti diversi; aggiungere un’istruzione a ogni skill nasconderebbe la causa."
+      },
+      {
+        "title": "Leggere il successore attraverso ciò che conserva e rende possibile",
+        "body": "Quando un metodo permette a un gruppo di spiegare il proprio ragionamento, conserva le scelte riuscite e le condizioni che le hanno rese utili. Confronta una revisione con quelle relazioni, comprese capacità perse o nuovi costi di attenzione. Una guida più breve può peggiorare se perde la ragione dell’adattamento. Conserva un’alternativa o un compromesso quando la differenza resta aperta. Un altro gruppo può mostrare se il metodo cambiato partecipa senza una nuova spiegazione dell’operatore; questa osservazione affina l’apprendimento, non autorizza la sua prima integrazione."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "1. Una correzione ai titoli cambia il metodo di scrittura successivo.",
+        "body": "Un titolo si capisce solo conoscendo la chat precedente. L’editor controlla se il metodo insegna a nominare soggetto e contesto. Se manca quel sapere, lo approfondisce con un prima/dopo concreto e la ragione dell’utilità. Se esiste già, ripara ingresso o uso sostituito. Il soggetto voluto dall’autore rimane riconoscibile. Un articolo diverso fornirà prova sul metodo rivisto; il titolo corretto prova soltanto quel titolo."
+      },
+      {
+        "title": "2. Una ricerca riuscita arricchisce la competenza di analisi.",
+        "body": "La ricerca confronta due progetti riusciti in periodi diversi. Il secondo funziona grazie a una fonte che prima mancava. La condizione entra nel modo in cui la competenza sceglie le prove; la decisione precedente conserva il proprio contesto. La guida del progetto mantiene i fatti particolari. Il metodo generale impara a leggere un cambiamento di accesso quando conta, senza imporre una ricerca storica a ogni incarico."
+      },
+      {
+        "title": "3. Un errore dovuto all’ingresso della skill viene corretto nel suo richiamo.",
+        "body": "Un metodo di orientamento spiega già come recuperare possibilità oltre il tema caricato. L’ingresso lo descrive soltanto come recupero dagli errori, così un nuovo progetto non lo raggiunge mentre forma l’intento. Cambia situazioni di richiamo e ingresso consumato; conserva il corpo sufficiente. Un’altra skill di orientamento duplicherebbe il metodo lasciando stretto il primo percorso. Un uso successivo in una nuova opportunità può mostrare se la discovery è cambiata."
+      },
+      {
+        "title": "Un progetto di biblioteca, contributi diversi",
+        "body": "Nel laboratorio illustrativo della biblioteca, un gruppo comprende la storia quando il bibliotecario invita a confrontare due interpretazioni plausibili. La scelta riuscita rende visibile una ragione che mancava nella guida riutilizzabile. La competenza del laboratorio acquisisce confronto e condizione d’uso. Se la formazione aveva copiato un programma, Meta_Skill riceve anche il sapere su come recuperare le ragioni dagli esempi. Un’altra biblioteca porta poi un metodo locale diverso: quel contributo si conserva integrando la differenza utile. Le note dell’incontro restano distinte dal metodo riutilizzabile e le parti sufficienti non richiedono riscrittura."
+      }
+    ],
+    "reader_context": {
+      "title": "Una biblioteca forma e condivide il metodo dei laboratori",
+      "situation": "Nel laboratorio illustrativo della biblioteca, un gruppo comprende la storia quando il bibliotecario invita a confrontare due interpretazioni plausibili.",
+      "point": "L’apprendimento può cambiare domanda, selezione delle fonti o metodo mentre il lavoro si forma. Distingui una relazione pratica mancante, sapere non raggiunto dall’ingresso e metodo noto sostituito nell’uso. Correggi la causa responsabile e prosegui dalla capacità cambiata. Una fonte aggiornata o un file valido rendono disponibile il sapere; non trasferiscono al successore la prova del comportamento precedente. Conserva un metodo sufficiente quando non cambia nulla di materiale."
+    },
+    "competence_relation": "La relazione meta è l’oggetto diretto di questa risorsa: modifica il metodo di una competenza, oltre a produrre il risultato del singolo compito.",
+    "adaptation": {
+      "title": "Adattare la capacità attraverso il proprio lavoro",
+      "paragraphs": [
+        "Educazione, ricerca, servizi e lavoro culturale portano sorgenti e scelte diverse. Porta intento, metodo o esempio esistente e mezzi realmente disponibili. Conserva ciò che rende utile una scelta quando la situazione cambia.",
+        "Il sistema ricevente può essere conversazionale, avere accesso ai file o a strumenti, oppure operare attraverso un kernel esistente. Usa ingresso e continuità reali; il caso della biblioteca insegna una relazione, non una forma obbligatoria di progetto o un provider."
+      ]
+    },
+    "adoption_paths": [
+      {
+        "title": "Usa questa capacità",
+        "body": "Porta l’avvio completo nella conversazione, oppure usa il kit intero nel tuo progetto con ingresso e mezzi effettivi.",
+        "label": "Primo uso e download",
+        "href": "#start"
+      },
+      {
+        "title": "Componi le risorse pubbliche",
+        "body": "Raggiungi i metodi utili al lavoro e conserva il sapere esistente. Le tre capacità contribuiscono autonomamente o insieme.",
+        "label": "Guida all’uso e alla composizione",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md"
+      },
+      {
+        "title": "Integra con MAIOS Project Kernel",
+        "body": "MPK 5.1.0 è un prodotto distinto e facoltativo. Confronta funzione, responsabile e metodo, conservando apprendimento locale e contributi complementari.",
+        "label": "Conoscere MPK",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ]
   },
   "en": {
     "title": "Evolve an AI competence through real work",
@@ -111,6 +223,10 @@
       {
         "title": "Preserve stability through change",
         "body": "A revision supersedes the previous one when it preserves relationships that remain useful and makes the method more capable, or removes a loss without concealing another. Novelty, date or validity of the format are not enough. If a trade-off changes, make it explicit. Keep the past attributable to its own time: today's correction was not already present in the earlier experience. A technical check can show readability or correspondence, while a different case can show a change in behaviour. Preserve unchanged outcomes, regressions and uncertainties as well."
+      },
+      {
+        "title": "Let the changed relation guide the next useful act",
+        "body": "Learning can change the question, source selection or method while work is still taking shape. Distinguish a missing practical relation, knowledge missed by the entry and a known method displaced in use. Correct the responsible cause and continue from the changed capability. A source update or a valid file makes knowledge available; it does not transfer the earlier behavior’s proof to the successor. Preserve a sufficient method when nothing material needs to change."
       }
     ],
     "use": [
@@ -127,6 +243,110 @@
         "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
       }
     ],
-    "operating_guide": "skills/dnd-skill-evolution-guard/OPERATING_GUIDE.md"
+    "operating_guide": "skills/dnd-skill-evolution-guard/OPERATING_GUIDE.md",
+    "entry_description": "Improve the competence through which reusable learning must continue. Use when a correction, successful outcome, recurring loss or new possibility should change an operating method, guide, entry or connection to another capability.",
+    "operating_method": [
+      {
+        "title": "Understand the causal difference",
+        "body": "Recover intent, sources, work actually performed and consequence. Understand what was lost, preserved or made possible and which correction changes continuation. Distinguish the person's words, object facts, your inferences and observed outcomes. A corrected phrase does not become a universal prohibition; elegant wording does not replace meaning. Preserve attribution for conversational material and retain the essence with its reasons when material is extensive."
+      },
+      {
+        "title": "Distinguish missing knowledge, entry and use",
+        "body": "Read the current method and the entry through which the recipient reaches it. Acquire practical knowledge when it is missing. Reconnect the entry when the knowledge exists but is not reached. If the assistant knew the method yet replaced it with its first interpretation, correct that choice and any reusable selection error. Adding another rule to the nearest file may leave the cause intact. An absent folder proves only the absence of that form."
+      },
+      {
+        "title": "Change what must act differently",
+        "body": "One consequence can affect several competences. Give each the part changing its understanding or action while preserving their objects and valid knowledge. Do not copy the same explanation everywhere. A separate competence is useful when a distinct function, knowledge body, entry or continuity actually emerges; otherwise deepen the existing interface. When formation itself must change, reach that generative capability instead of rewriting its foundations from a partial understanding."
+      },
+      {
+        "title": "Write a method that can continue",
+        "body": "Make the decision-changing relation usable: what to observe, why it matters, how to adapt the work and what could correct the method. Preserve the discriminating entry, pertinent sources and conditions of effects. Remove duplicate advice and exhausted procedures. Detail can live in a guide reached when needed. Connect active projections that must change without synchronizing unrelated surfaces. For a proposal, return the precise delta; when updating is entrusted and feasible, integrate it into the relevant location."
+      },
+      {
+        "title": "Preserve stability through change",
+        "body": "A revision supersedes its predecessor by preserving still-useful relations while increasing capability or removing a loss without hiding another. Novelty, date and format validity are insufficient. State a changed tradeoff. Attribute the past to its time: today's correction was not already present in earlier experience. A technical check may establish readability or correspondence; a different case may reveal changed behavior. Retain unchanged outcomes, regressions and uncertainty too."
+      },
+      {
+        "title": "Evolution, autology and capability continuity",
+        "body": "The meta relation is the direct object: changing a competence's method as well as producing a task result.\n\nIt becomes autological when the way evolution is performed is corrected, for example when instructions were repeatedly added but an unused entry caused the loss. Autopoietic return is the difference produced by work that changes the capability from which later work arises. It is distinct from autonomous execution or updating model weights."
+      },
+      {
+        "title": "Learning and continuation",
+        "body": "Keep source, difference, changed method and the first useful situation for observation. Editing makes knowledge available. Assimilation means that a later, different case benefits without the person reconstructing the same correction again.\n\nInternal learning does not automatically install the method elsewhere or publish a release. Concrete changes and effects remain connected to actual mandate, recipient and tools."
+      },
+      {
+        "title": "Let the changed relation guide the next useful act",
+        "body": "Learning can change the question, source selection or method while work is still taking shape. Distinguish a missing practical relation, knowledge missed by the entry and a known method displaced in use. Correct the responsible cause and continue from the changed capability. A source update or a valid file makes knowledge available; it does not transfer the earlier behavior’s proof to the successor. Preserve a sufficient method when nothing material needs to change."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Locate the cause before changing a competence",
+        "body": "Recover the source relation, what the movement introduced and the possibility or result lost, retained or gained. A missing file does not prove missing function. The function may live in another body or a composition. Distinguish missing know-how, knowledge missed by discovery and an understood method displaced in use. Correct the responsible method, adapter or selection rather than appending another rule to the nearest skill.\n\nWhen one emergence changes several competences, widen the field before propagating a partial interpretation. Each owner receives the difference changing its own choice; unaffected owners remain untouched. If foundational concepts are involved, use the competence able to understand them and preserve their source; this guard does not acquire authority to redefine them. A useful competence can combine intent, source/owner map, method, self-application and learning in a short body or deeper guide without a mandatory template."
+      },
+      {
+        "title": "Stability includes the ability to evolve",
+        "body": "Keep source, object and resultant coupled. A successor preserves all still-material relations while enlarging attainable results or removing a loss without an equivalent hidden cost. Newer language, a timestamp or technical validity cannot establish supersession. Preserve unchanged outcomes, regression and tradeoffs as real readbacks. Keep prior cycle identities as genealogy instead of writing the current understanding into the past.\n\nIntegrate reusable learning while its cause is present, including the generator when formation changed. A durable audit records the corrected relation and its continuing owner rather than merely an error report. Later non-identical use can show assimilation without becoming a permission gate on present learning. Public release, installation and runtime effects remain their own selected actions. Stop when another change adds no useful source, behavior or continuation relation."
+      },
+      {
+        "title": "Locate what must change before propagating a correction",
+        "body": "A workshop guide says to follow the participants’ understanding, yet an assistant keeps applying a fixed activity sequence. Read the guide and the actual entry used. If the entry supplies only the sequence, reconnect the fuller method. If the method lacks a relation between a participant’s answer and the next question, form that knowledge. If the knowledge was present and understood, correct the choice that displaced it. The same visible failure can require three different changes; an extra instruction in every skill would conceal the cause."
+      },
+      {
+        "title": "Read a successor through what it preserves and makes possible",
+        "body": "When a new method allows a group to explain its reasoning, preserve the successful choices and the conditions that made them useful. Compare a proposed revision against those relations, including any lost capability or new attention cost. A shorter guide can be worse if it loses the reason for adaptation. Record an alternative or tradeoff when the difference is not resolved. A later different group can reveal whether the changed method participates without another explanation from the operator; this observation refines learning rather than authorizing its first integration."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Let a title correction change the writing method",
+        "body": "A title makes sense only to someone who knows the preceding chat. The editor checks whether the writing method teaches how to name the subject and context. If that knowledge is missing, deepen it with a concrete before/after and the reason the new title helps. If it already exists, repair its entry or displaced use. Preserve the author’s intended subject. A different article later supplies evidence about the revised method; the corrected title alone proves only that title."
+      },
+      {
+        "title": "Learn from successful research",
+        "body": "Research compares two successful projects from different periods. The later one works because a source is now available that the earlier project lacked. Incorporate the condition into how the research competence selects evidence; do not rewrite the earlier decision as a mistake. The project guide retains its particular facts. The general method learns to inspect changed access when that difference matters, without demanding a historical survey for every task."
+      },
+      {
+        "title": "Repair the skill’s entry instead of duplicating its knowledge",
+        "body": "An orientation method already explains how to recover possibilities beyond the loaded topic. Its entry is described only as error recovery, so a new project never reaches it while forming an intention. Change the invocation situations and the consuming entry; keep the sufficient knowledge body. Adding another orientation skill would duplicate the method while leaving the first route narrow. Later use in an emerging opportunity can reveal whether discovery has changed."
+      },
+      {
+        "title": "One library project, several contributions",
+        "body": "In the library’s illustrative workshop, one group follows the story when the librarian asks it to compare two plausible interpretations. That successful choice reveals a reason missing from the reusable guide. The workshop competence acquires the comparison and its condition of use. If its formation had copied a schedule, Meta_Skill also receives the lesson about recovering reasons from examples. A receiving library later brings a different local method; preserve that contribution while integrating the useful difference. The project’s session notes remain distinct from the reusable method, and unchanged parts need no rewrite."
+      }
+    ],
+    "reader_context": {
+      "title": "A library forms and shares its workshop method",
+      "situation": "In the library’s illustrative workshop, one group follows the story when the librarian asks it to compare two plausible interpretations.",
+      "point": "Learning can change the question, source selection or method while work is still taking shape. Distinguish a missing practical relation, knowledge missed by the entry and a known method displaced in use. Correct the responsible cause and continue from the changed capability. A source update or a valid file makes knowledge available; it does not transfer the earlier behavior’s proof to the successor. Preserve a sufficient method when nothing material needs to change."
+    },
+    "competence_relation": "The meta relation is this resource's direct object: it changes a competence's method as well as producing the result of an individual task.",
+    "adaptation": {
+      "title": "Adapt the capability through your own work",
+      "paragraphs": [
+        "Education, research, services and cultural work supply different sources and choices. Bring your purpose, an existing method or example, and the means actually available. Preserve what makes a choice useful when the situation changes.",
+        "The receiving system may be conversational, file-enabled, tool-connected or organized through an existing kernel. Use its actual entry and continuity; the library case teaches a relationship, not a required project shape or provider."
+      ]
+    },
+    "adoption_paths": [
+      {
+        "title": "Use this capability",
+        "body": "Bring the complete starter to your conversation, or use the whole kit in your own project with its actual entry and means.",
+        "label": "First use and download",
+        "href": "#start"
+      },
+      {
+        "title": "Compose the public resources",
+        "body": "Reach the methods useful to the work and preserve existing knowledge. The three capabilities can contribute independently or together.",
+        "label": "Use and composition guide",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md"
+      },
+      {
+        "title": "Integrate with MAIOS Project Kernel",
+        "body": "MPK 5.1.0 is a distinct optional product. Compare function, responsible owner and method, preserving local learning and complementary contributions.",
+        "label": "Understand MPK",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ]
   }
 }

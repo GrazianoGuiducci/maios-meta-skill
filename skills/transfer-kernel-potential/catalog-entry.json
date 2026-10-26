@@ -1,7 +1,7 @@
 {
   "id": "trasferire-capacita-kernel",
   "name": "Transfer Kernel Potential",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "29",
@@ -35,7 +35,7 @@
   "starter": "skills/transfer-kernel-potential/START_CHAT_EN.txt",
   "examples": "skills/transfer-kernel-potential/EXAMPLES.md",
   "presentation": "skills/transfer-kernel-potential/presentation.json",
-  "package": "dist/transfer-kernel-potential-0.1.0.zip",
+  "package": "dist/transfer-kernel-potential-0.1.1.zip",
   "en": {
     "title": "Transfer a competence so it can work and continue elsewhere",
     "kind": "Transfer metacompetence",
@@ -48,7 +48,8 @@
       "Carry a partial source improvement to the entry that actually consumes it."
     ],
     "route": "/resources/trasferire-capacita-kernel/",
-    "description": "Carry functions, reasons and operating knowledge into the recipient's actual environment."
+    "description": "Carry functions, reasons and operating knowledge into the recipient's actual environment.",
+    "status": "Public edition · 0.1.1"
   },
   "it": {
     "title": "Trasferire una competenza perché possa operare e continuare altrove",
@@ -62,6 +63,7 @@
       "Porta un miglioramento parziale della fonte nell’ingresso che lo consuma davvero."
     ],
     "route": "/risorse/trasferire-capacita-kernel/",
-    "description": "Porta funzioni, ragioni e sapere operativo nell’ambiente reale del destinatario."
+    "description": "Porta funzioni, ragioni e sapere operativo nell’ambiente reale del destinatario.",
+    "status": "Edizione pubblica · 0.1.1"
   }
 }

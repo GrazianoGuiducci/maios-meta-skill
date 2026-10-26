@@ -1,7 +1,7 @@
-# Install Transfer Kernel Potential
+# Adopt Transfer Kernel Potential
 
-Keep the complete `transfer-kernel-potential` folder together. Extract the ZIP and copy the folder into your project’s `.agents/skills/` directory. Preserve an existing copy and its learned knowledge instead of overwriting it. Open Codex in that project and invoke `$transfer-kernel-potential` with a concrete task. Restart the session if the skill is not listed. Ask for Italian output when useful; the canonical entry remains English.
+In a conversation, attach the complete START_CHAT_EN.txt and supply your work, sources and available means. With file access, keep the complete folder in a project-owned location and make SKILL.md reachable through the host’s native entry. Preserve an existing method, local learning and ongoing work; compare function, responsible owner and method before integrating a revision. Read the practical guide and examples. Instructions do not create missing tools or persistence.
 
-Read OPERATING_GUIDE.md and observe the first use with the actual project. Discovery, useful work and later learning are distinct. In another host, use its native skill discovery or attach START_CHAT_EN.txt to a chat.
+## Example: a Codex project
 
-[Repository installation guide](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/INSTALL.md)
+Extract the complete ZIP and copy its transfer-kernel-potential folder into your project’s `.agents/skills/`. Keep an existing copy instead of overwriting it. Open Codex in that project and invoke `$transfer-kernel-potential` with a real task. If discovery has not refreshed, start a new session. Other hosts use their own discovery and project conventions.

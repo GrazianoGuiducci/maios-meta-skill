@@ -1,3 +1,9 @@
+# Generative capability review — candidate branch, 26 October 2026
+
+Meta_Skill Semantic Kernel and D-ND Skill Evolution Guard are candidate editions 0.3.3; Transfer Kernel Potential is candidate edition 0.1.1. The developed operating methods remain intact while expanded decision knowledge and four worked cases per resource make formation, evolution and reciprocal transfer usable in varied receiving systems. A shared library case shows their complementary contributions without prescribing a stack or provider. These branch contents await final review and publication; the preceding public editions retain their published identity. The other 39 editions remain unchanged.
+
+The authored source distinguishes developed operating method from page summaries. Complete starters carry method, practical knowledge and all cases. Host-specific adoption is an identified example within general use guidance; MAIOS Project Kernel 5.1.0 remains optional and distinct. The source, website candidate and resources-only Chat handoff have separate identities and effects.
+
 # Three public resources — edition 0.1.3, 26 October 2026
 
 MPC, Form Cooperative Capability from Sources and Onto-Skill are edition 0.1.3. Their practical methods, bilingual guides, complete starters and illustrations share a source identity. Existing use guides explain standalone use, project-owned composition and optional MPK 5.1.0 integration. The other 39 editions retain their versions and package bytes, including MKCV 0.1.3. This entry describes the public source edition. Website publication and the separately owned assistant activation retain their own source and runtime evidence.

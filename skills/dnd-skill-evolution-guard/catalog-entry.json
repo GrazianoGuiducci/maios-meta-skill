@@ -1,7 +1,7 @@
 {
   "id": "evolvere-competenze",
   "name": "D-ND Skill Evolution Guard",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "06",
@@ -10,7 +10,7 @@
   "starter": "skills/dnd-skill-evolution-guard/START_CHAT_EN.txt",
   "examples": "skills/dnd-skill-evolution-guard/EXAMPLES.md",
   "presentation": "skills/dnd-skill-evolution-guard/presentation.json",
-  "package": "dist/dnd-skill-evolution-guard-0.3.2.zip",
+  "package": "dist/dnd-skill-evolution-guard-0.3.3.zip",
   "it": {
     "route": "/risorse/evolvere-competenze/",
     "title": "Far evolvere una competenza AI attraverso il lavoro",
@@ -23,7 +23,8 @@
       "Una correzione ai titoli cambia il metodo di scrittura successivo.",
       "Una ricerca riuscita arricchisce la competenza di analisi.",
       "Un errore dovuto all’ingresso della skill viene corretto nel suo richiamo."
-    ]
+    ],
+    "status": "Edizione pubblica · 0.3.3"
   },
   "en": {
     "route": "/resources/evolvere-competenze/",
@@ -37,7 +38,8 @@
       "An editorial correction changes the method used for later titles.",
       "Successful research enriches an analysis competence.",
       "A discovery failure is corrected in the skill entry rather than duplicated in a new body."
-    ]
+    ],
+    "status": "Public edition · 0.3.3"
   },
   "native_entry": "dnd-skill-evolution-guard",
   "default_language": "en",

@@ -1,4 +1,4 @@
-# Meta_Skill Semantic Kernel
+# Meta_Skill Semantic Kernel — practical operating knowledge
 
 ## Make every competence relational
 
@@ -6,17 +6,20 @@ A competence owns a purpose without becoming isolated. Form it to recognize when
 
 When one event teaches several competences, return the different causal lesson each needs. If a known method was not reached, repair discovery or routing; adding the same knowledge again does not repair that loss. If know-how is missing, deepen its owner. Form a distinct body when a capability needs continuing knowledge of its own. A temporary combination does not automatically become a new kernel. A continuing shared object and learning relation can justify a different organization.
 
+
 ## Recover possibilities beyond the loaded topic
 
 Context is partial. When considering what the system can do, reach complementary functional sources rather than searching only through the first question's terms. Follow relationships into owner knowledge and retain coverage gaps. A map is an entry to the field, not its boundary. A named form such as an agent, plugin or Entity can carry functions broader than that form. Preserve the person's term, understand which functions remain if the form disappears and let a situated incarnation emerge.
 
 The included `scripts/system_field.py` offers read-only orientation from a host-selected manifest. Run `python scripts/system_field.py --workspace PATH --manifest references/system-field.example.json`. Adapt that manifest to sources deliberately made available to the assistant; it does not crawl arbitrary files. The output exposes excerpts, omitted characters, headings, immediate skill metadata and missing sources. Excerpts are source claims, not an activation or relevance verdict. Follow the complete owner body when an omitted relation matters. Run `python scripts/test_system_field.py` for the portable retrieval tests.
 
+
 ## Compose capabilities across receivers when needed
 
 Understand the function actually needed and whether it can be supplied locally, by reachable knowledge, by a tool, by new construction or by an authorized contribution from another receiver. Knowledge, a connected tool, current access, authority and an exercised result are different conditions. Do not choose another instance merely for a different model name. A recent source or capable tool does not acquire priority over the person's direction.
 
 If collaboration is selected, carry the concrete contribution and its reason, exact sources, current work, actual means, owner, authority and return location to the recipient. Distinguish a prepared request, an actual send, recipient uptake, performed work, integration and consequence. A commit does not wake another chat. A late result can remain history without overriding a changed present. Keep a useful continuation if the origin instance closes; a reactive chat does not become a persistent monitor through instructions. Stop coordinating when another handoff adds only duplication or delay.
+
 
 ## Let formation itself learn
 
@@ -26,6 +29,27 @@ Give it an internal guide that accumulates meaningful knowledge and a system-gui
 
 A new passage starts from the competence changed by the previous resultant. Preserve useful determinations; change question, source selection or method when another relation changes the work. No fixed pass count or independent semantic admission is required. Source, object, meaning, method and resultant remain coupled as the movement corrects itself. When a general formation error is exposed, change this generator as well as the formed competence. Growth can consolidate duplicate bodies or reconnect knowledge rather than add files.
 
+
 ## Compose kernels while retaining their continuation
 
 Several independently continuing kernels can participate in one host. Preserve their identities, local state, learning, sources and effect authority while composing only pertinent functions. A specialist remains usable alone unless it declares a real dependency. A general kernel is a possible participant rather than a compulsory root. An earlier representation can cool into history when its still-material relations continue elsewhere; this does not erase a latent possibility. Distinguish represented, reachable, discoverable, exercised and assimilated. Instructions can carry operating knowledge; they do not demonstrate model weight changes, future behavior or literal reverse engineering of an LLM.
+
+
+## From an intention to a usable decision relation
+
+A library wants reading workshops that respond to what a group understands. The task may first look like writing a reusable prompt. Reach the teacher’s purpose, permitted excerpts, the librarian’s practical choices and existing planning knowledge. An example with an attractive worksheet does not explain why that activity helped. Recover the condition changing the choice: familiarity with the story, available time or a question the group has not yet formed. Express that choice and its reason in the operating method; use the project’s existing entry before making another skill.
+
+
+## The formed capability and its generator can learn differently
+
+If participants reveal a new way to connect a passage with their experience, the workshop competence can acquire that choice. If formation had copied the worksheet instead of recovering the reason, the generator also learns how to read an example. These are different returns from the same event. The original workshop’s details stay with that project. Later use in another subject may show whether the reason remains operative; the successful first output does not establish that. Existing files, conversation notes or project guides can carry this knowledge without a new coordination layer.
+
+## The generator can learn from its own way of generating
+
+KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.
+
+Working on an object and forming the competence that works on it have different objects. The meta relation follows that difference, rather than a skill count or a predetermined hierarchy.
+
+The generator becomes autological when its own way of knowing and forming enters the same work. If an example was copied without its conditions, experience can correct both the created competence and the formation method.
+
+Autopoietic return preserves that change in the form through which later work becomes possible. Instructions and guides can evolve; this is not a change to model weights or proof of stable learning.

@@ -1,19 +1,22 @@
-# Meta_Skill Semantic Kernel — application examples
+# Worked examples
 
-[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## Form a reusable capability from quotations
 
-A team supplies two quotations and explains why some alternatives are separate. The assistant derives the relation between assumptions, cost and comparability, forms the method and applies it to a different case. The example’s structure can change when conditions change.
+Two quotations show a base service and optional alternatives. One separates travel because its destination is unknown; the other includes it because the site is fixed. Copying both layouts would hide that reason. Form the competence around comparable assumptions and explicit alternatives, then use it on a quotation with two possible sites. Preserve how uncertainty changes the presentation of cost. If the receiving project already owns estimation knowledge, deepen that method rather than creating a parallel estimator.
+
 
 ## Compose research and writing around the same question
 
-An article must connect technical sources and business use. Research and editorial competence contribute to the same question; a source may change it. The composition remains situated in that work until a method emerges that is useful to continue independently.
+A technical article begins as a comparison of tools. Research discovers that the important difference is the work each tool enables under different data conditions. Editorial competence reforms the article’s question and examples with that knowledge. The team’s existing sources and writing method remain responsible. This temporary composition can finish with the article; a distinct continuing competence is useful only if a shared method actually needs its own future.
+
 
 ## Let the generator correct how it learns from an example
 
-The first competence repeats a guide’s format but misses the reason for a choice. A second case exposes that limit. Correction reaches both the guide competence and the generative method: later examples must yield the relation between conditions, choice and consequence, beyond visible appearance.
+A team forms a workshop method from an excellent demonstration. It preserves the demonstration’s sequence but loses why one question precedes another. A different audience exposes the loss while the new session is being prepared. Recover the missing relation, change the workshop method and change how the generator learns from demonstrations. The return teaches how to extract decision knowledge; it does not turn the first audience’s preferences into a universal sequence.
 
-## Apply the method to your case
 
-Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+## One library project, several contributions
+
+The library brings a teacher’s objective, two permitted excerpts and a librarian’s annotated session plan. Existing educational knowledge helps form a competence for preparing and adapting reading workshops. Its method connects a participant’s interpretation to the next question, rather than prescribing one worksheet. A conversation can use the complete starter and return a revised guide; a file-enabled system can retain the method in the project. The same work may later teach Evolution Guard what changed and Transfer Kernel Potential what another library needs to receive. They participate where their contribution matters, in any useful order.

@@ -1,83 +1,144 @@
-Apply this competence to the work I describe after the supplied knowledge. This edition includes the complete operating method, practical guide and worked examples.
 
 # Transfer Kernel Potential
 
-**Transfer a competence so it can work and continue elsewhere**
+Understands what must continue from a source capability and forms an independently usable incarnation through the recipient's own means.
 
 A capability travels through the knowledge and method that let a recipient understand, choose, act and learn. The source's file layout is one incarnation of that relation.
 
 The recipient has its own knowledge, history, means and authority. Source and receiving competence participate in forming what should travel and how it can continue.
 
+## A library forms and shares its workshop method
+
+The second library adopts the workshop capability with its own multilingual practice.
+
+Begin with the capability the recipient should be able to exercise and the methods already present there. Read the source’s reasons and the recipient’s actual entries, knowledge and means in both directions. A useful local adaptation may deepen the source. Transfer the decision-changing relation and what lets it continue, preserving local learning and pending contributions. A prompt, folder, package or named host is a possible carrier; its presence does not establish functional equivalence or later use.
+
+## Adapt the capability through your own work
+
+Education, research, services and cultural work supply different sources and choices. Bring your purpose, an existing method or example, and the means actually available. Preserve what makes a choice useful when the situation changes.
+
+The receiving system may be conversational, file-enabled, tool-connected or organized through an existing kernel. Use its actual entry and continuity; the library case teaches a relationship, not a required project shape or provider.
+
 ## Understand the selected source relation
 
 Recover the person's intended result, source capability, reasons, qualified formulations and current work. Read the actual methods and pertinent guides, including instruments that carry a function. Recover a truncated necessary passage before relying on it. Distinguish original words, assistant interpretation and operative derivative. A summary or source pin does not contain the whole kernel. Use the existing competence to form understanding rather than substituting the nearest deliverable for the selected work.
+
 
 ## Let knowledge change the comparison
 
 Understand what the capability knows, makes possible, depends on, can revise and learns from. Reach function, context, principles and reasons when the current representation hides them. New intent or recipient can reveal potential in unchanged source bytes. A comparison that stabilizes under one question does not exhaust that potential. Success, acquired knowledge and possibility can form competence before a failure appears. Preserve determinations genuinely produced by the work alongside unresolved relations.
 
+
 ## Meet the actual recipient
 
 Inspect the recipient's native functions: instructions, source access, competences, memory, tools, continuity, interaction and exact effects. A limited connector does not describe every capability of its host. Distinguish common source, shared continuity and separate situated receivers. Express what must become possible before prescribing one host's paths or commands. Preserve local knowledge and adapt through the means actually present; do not import the originating operator's credentials, state, private identity or authority.
+
 
 ## Reconcile both directions without losing contributions
 
 Work from the source to find relations not yet carried and from the recipient to discover equivalent or deeper local methods. Compare meaning, reason, conditions and actual possible work, beyond names and text equality. A newer source can be partial; a recipient can hold useful adaptation absent upstream. A partial update changes the affected relation while preserving earlier pending work. Before reviving an old owner or declaring a gap, follow whether its knowledge already acts through a current native method.
 
+
 ## Transfer the ability to continue
 
 Provide enough independently reachable method and operating knowledge for real use. Removing private names and paths alone does not transfer a competence. Replace private dependencies with included knowledge or accessible permitted sources. Where an executable instrument carries a selected function, provide its portable means and use knowledge or build the missing relation; describing a smaller textual scope does not satisfy a full-function delivery. Include how changed context, new knowledge, competence formation and consequences can improve later work.
+
 
 ## Follow the actual consumers and return learning
 
 Trace where the relation is formed, selected, transformed and read: competence, guide, generator, package, entry, configured context or runtime as pertinent. An updated source file does not update each consumer. Correct a loss at the first responsible transformation and carry it to active dependents. Distinguish source coherence, packaging, installation, discovery, observed behavior and later assimilation when claiming them. Let recipient consequences refine its method and, where reusable, the source or transfer competence. Stop when further reading adds no material relation to the selected result.
 
+
 ## Use in the receiving environment
 
 Use the files, observations and tools actually available for the entrusted work. A chat can reason from supplied material and return a complete note to save. A host with files can keep the competence and project guide reachable. Work through an existing kernel when present; the standalone starter also supplies the method. Ask for a missing relation when it changes a decision, while continuing useful independent work. Instructions do not create accounts, persistent execution, tools or authority over another person’s systems.
+
 
 ## Learning and continuation
 
 Preserve the source, reason, relevant conditions, useful result and unresolved relation in the guide or competence that should act differently next time. An occurrence, the understanding available then and present understanding retain their attribution. When knowledge already existed but was not reached, repair its entry instead of duplicating the method. Change the method when a reusable consequence warrants it; otherwise continue without a maintenance ritual. A written correction makes knowledge available. Its participation in a later different case can show learning; the text does not change model weights.
 
+
 ## Entrusted work and material effects
 
 Carry out actions already covered by the person’s mandate and the actual environment. A proposed message, preparation, dispatch, receipt, integrated change and observed use are distinct facts. Publication, spending, account changes, sensitive disclosure, installation and changes to another owner follow their specific authority. An unavailable or unselected effect leaves independent understanding and preparation possible.
 
+
 ## Operating knowledge
 
-The practical knowledge and cases follow.
+Read OPERATING_GUIDE.md and EXAMPLES.md as part of this method. They carry decision knowledge and worked cases. START_CHAT_EN.txt includes all three bodies for a chat without access to these files.
 
-# Transfer Kernel Potential — operating knowledge
+
+## Let the recipient’s knowledge change the transfer
+
+Begin with the capability the recipient should be able to exercise and the methods already present there. Read the source’s reasons and the recipient’s actual entries, knowledge and means in both directions. A useful local adaptation may deepen the source. Transfer the decision-changing relation and what lets it continue, preserving local learning and pending contributions. A prompt, folder, package or named host is a possible carrier; its presence does not establish functional equivalence or later use.
+
+## Continue through the actual project
+
+Acquire knowledge into the distinctions that change perception, source selection and action, beyond a reading list.
+
+Preserve why a receiving difference matters and which owner should continue it. Different incarnations can remain coherent without mandatory synchronization.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Transfer Kernel Potential — practical operating knowledge
 
 ## Meaning and mechanism travel together when needed
 
 A method can operate semantically in a conversation before persistent files are created. Persistence, execution and an account action require actual mechanisms. A package with correct blobs can still leave its starter without decisive knowledge. Conversely, different file shapes can faithfully preserve the same function. Qualify the exact contract rather than treating one technical form as the kernel's ontology.
 
+
 ## Recover earlier work without replaying it
 
 Use the living guide to recover source reasons, open contributions and differences still pending. Keep temporal node state with its owner. Historical cases can teach the current transfer without making their next steps today's instructions. When a receiver reconstructed a missing route successfully, preserve that contribution and repair the route if it is still needed; recovery alone does not complete the original delivery.
+
 
 ## A generative recipient continues from work
 
 A seed must support actual initial context, useful first work, acquisition of missing knowledge, formation of pertinent competences and return of consequences. Do not require a person to design a skill catalogue before starting. A compiler or previously released package is an implementation, rather than the maximum inheritance possible. Improve the receiving source that should use the knowledge normally, without waiting for every neighboring generator to change.
 
+
+## Compare the work made possible, not the resemblance of carriers
+
+A library receives a workshop method from another library. It already has a practice for multilingual groups and cannot store participant information in the same place. Read those choices and their reasons before deciding what to import. Preserve the portable relation between an interpretation and the next question; replace a source-specific worksheet or private storage path with the receiving means. A conversational system can return a complete guide to save. A file-enabled system can retain it in the existing project. Neither form is a universal requirement or proof that a scheduler or account is configured.
+
+
+## A partial update preserves earlier learning and open contributions
+
+A source update can add a way to compare interpretations without replacing the recipient’s multilingual practice or an earlier unresolved accessibility contribution. Integrate the affected relation where the recipient actually reads it: method, guide, starter or tool input. Preserve the earlier evidence at its original identity. Read back from the recipient when its experience changes what the source should teach. If a useful method already exists but its entry is narrow, repair that entry instead of creating a second competence or changing a neighboring compiler.
+
+## Transfer can evolve the capability that transfers
+
+The object is itself a competence or kernel, giving the work a meta relation. The recipient receives the ability to understand and continue, alongside the selected operating functions.
+
+The relation is autological when a source or recipient reveals that this method's question or selection criterion narrowed what could travel. The reusable correction changes the transfer method and its entry; it does not require automatic mutation of every source.
+
+
 # Worked examples
 
-The following cases are illustrative. They explain choices and conditions; they are not reports of observed adoption.
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## A public kit loses an executable function
 
-An internal continuity competence includes a deterministic recorder. A proposed public kit retains only explanatory prose. Reading the source and recipient shows that the selected function still requires the recorder. The transfer provides portable code, usage and the knowledge that interprets its result. File checks can support package identity; they do not certify that another assistant has assimilated the method.
+An internal continuity competence includes a deterministic recorder with a schema. A public derivative keeps only its explanation, although the selected work still requires recording and querying occurrences. Recover the instrument and the knowledge needed to interpret it, provide portable means and exercise its actual contract. If the recipient already has an equivalent record, map the function there and preserve its history. Correct package bytes establish identity; they do not show that another assistant has assimilated the method.
+
 
 ## The new host has a different form of persistence
 
-A source kernel uses several files while the receiving assistant supports a project instruction and one guide. The recipient maps source functions to those real means, keeping intent, current knowledge and correction reachable without copying the original folders. Tool actions remain with the receiving mandate. Later work can show whether the compact form carries enough knowledge for independent continuation.
+A source uses several linked files. The receiving system supports one project instruction and a saved work guide. Identify which relations those files carried: purpose, acquired decisions, sources and continuation. Express them through the receiving entry and guide, keeping technical actions with its actual tools and mandate. A later session can reveal whether the reason for a decision remains recoverable. Folder resemblance would not answer that question, and the source need not lose its own useful organization.
+
 
 ## A corrected source has an unchanged consumer
 
-A competence learns that successful work can also form capabilities, but its discovery entry still invokes it only after failure. Textual comparison of the main bodies misses the restriction. Following the actual consumer identifies the narrowing entry. The selected update changes that entry and its real dependents, while preserving unrelated local adaptations and prior evidence at their observed revisions.
+A competence body learns that success and intention can form capabilities. Its starter still invokes formation only after a failure. Following the consumer reveals the restriction before installation: compare the starter with the complete method and the receiving work. Change the first responsible transformation and regenerate only its actual dependents. Preserve local adaptations and attribution of earlier tests. Matching body text alone would leave the usable entry unchanged; a newer source revision alone would not prove a recipient gap.
 
-## My work
 
-The capability to transfer is […]. These are the qualified source and the intended recipient: […]. The selected outcome is […]. Understand the required functions, recipient means and knowledge needed for independent continuation, then prepare or perform the entrusted transfer.
+## One library project, several contributions
+
+The second library adopts the workshop capability with its own multilingual practice. It receives why comparing interpretations can help, the conditions for choosing another activity and a guide it can update. In a conversation, the complete starter carries the method and the librarian supplies local sources. In a file-enabled environment, the whole kit joins existing project knowledge through the supported entry. A revised source adds one useful relation; local learning remains. A later different workshop may return a better choice to the source and formation method. This is an illustrative transfer, not an observed adoption or universal compatibility claim.
+
+
+My assignment, sources, existing work, available means and requested result:

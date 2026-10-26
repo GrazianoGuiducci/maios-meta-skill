@@ -1,3 +1,9 @@
+# Riesame delle capacità generative — branch candidato, 26 ottobre 2026
+
+Meta_Skill Semantic Kernel e D-ND Skill Evolution Guard sono edizioni candidate 0.3.3; Transfer Kernel Potential è candidata 0.1.1. I metodi operativi sviluppati si conservano; sapere decisionale approfondito e quattro casi per risorsa rendono più utilizzabili formazione, evoluzione e trasferimento reciproco in sistemi diversi. Il caso comune della biblioteca mostra contributi complementari senza prescrivere uno stack o un provider. Questo branch attende riesame finale e pubblicazione; le edizioni pubblicate precedenti conservano la propria identità. Le altre 39 edizioni restano invariate.
+
+La fonte autoriale distingue corpo operativo e sintesi per la pagina. Gli avvii completi contengono metodo, sapere pratico e tutti i casi. L’adozione specifica di un ambiente è un esempio riconoscibile dentro la guida generale; MAIOS Project Kernel 5.1.0 resta facoltativo e distinto. Fonte, candidato sito e consegna Risorse della Chat hanno identità ed effetti propri.
+
 # Patch 0.3.3 della formazione delle risorse
 
 Form Public Meta-Skill Resources distingue ingresso canonico, intestazione sorgente attribuita, denominazione pubblica e titolo funzionale localizzato, nelle due lingue e negli avvii completi. La patch riguarda questo solo kit; gli altri 24 mantengono la versione 0.3.2.

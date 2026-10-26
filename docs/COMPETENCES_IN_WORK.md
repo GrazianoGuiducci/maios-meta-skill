@@ -39,3 +39,46 @@ mandate actually available.
 ## Shared work can change how cooperation is formed
 
 Two groups compare observations and models. A disagreement changes the question: the project forms a method preserving attribution and conditions before choosing a technical medium. The specific fact stays with the project; recognizing when a difference opens a better question also changes the competence that will form later cooperation. [Use and integration](USE.md).
+
+## A library forms, improves and shares a workshop capability
+
+This is an illustrative case. A library wants reading workshops that can respond
+to a group’s understanding. It brings a teacher’s purpose, permitted excerpts
+and the librarian’s annotated choices. Another library has its own multilingual
+practice. Both can use different conversational or tool-enabled systems.
+
+[Meta_Skill Semantic Kernel](https://maios.it/resources/creare-comporre-competenze/)
+helps recover why a choice works and what changes it. Existing educational and
+planning knowledge participates. The useful result is a method for preparing
+and adapting a workshop; a reusable prompt or a new skill folder may carry it
+when that form serves the work. Copying a worksheet would lose why one question
+helps a particular group. The method retains that reason and can change as the
+library understands its purpose more deeply.
+
+During a session, comparing two plausible interpretations helps participants
+explain their reasoning. [D-ND Skill Evolution Guard](https://maios.it/resources/evolvere-competenze/)
+helps the workshop competence acquire the choice and its conditions. If that
+knowledge already existed but the entry supplied only a fixed schedule, repair
+the entry instead. If formation copied the demonstration without its reason,
+the generative method also learns how to read examples. Each receives its useful
+causal difference; the session’s particular facts remain with the project.
+
+[Transfer Kernel Potential](https://maios.it/resources/trasferire-capacita-kernel/)
+lets the second library’s knowledge participate in the adoption. Preserve its
+multilingual practice and any earlier pending contribution. Transfer the reason,
+the decision relation and the means for continuing it, using the recipient’s
+actual entry and knowledge location. A partial source update can deepen one
+relation without replacing the locally evolved method.
+
+In a conversation, the complete starter carries method, operating knowledge and
+examples; the person adds local sources and can save a revised guide. A system
+with file access can make the whole kit reachable in the existing project.
+Connected tools contribute when actual work requires them. These are modes of
+adoption, not different definitions of the capability. The resources remain
+independently useful and can participate together in any useful order. The case
+does not prescribe a stack, a provider or adoption of MAIOS Project Kernel.
+
+A later different workshop can show whether a learned reason actually changes
+the next choice. Making a method available, using it and assimilating it retain
+their own observations. The case teaches those relationships; it does not report
+customer adoption or an exercised multi-system runtime.

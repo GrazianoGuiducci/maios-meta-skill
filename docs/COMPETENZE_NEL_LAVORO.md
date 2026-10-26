@@ -40,3 +40,46 @@ gli strumenti, la continuità e il mandato effettivamente disponibili.
 ## Il lavoro comune può cambiare come si coopera
 
 Due gruppi confrontano osservazioni e modelli. Una divergenza cambia la domanda: il progetto forma il metodo che conserva attribuzione e condizioni, prima di decidere un mezzo tecnico. Il fatto specifico resta al progetto; riconoscere quando una differenza apre una domanda migliore cambia anche la competenza che formerà la cooperazione successiva. [Uso e raccordi](USO.md).
+## Una biblioteca forma, migliora e condivide una capacità
+
+Questo caso è illustrativo. Una biblioteca vuole laboratori di lettura sensibili
+alla comprensione di un gruppo. Porta intento dell’insegnante, brani utilizzabili
+e scelte annotate dal bibliotecario. Un’altra biblioteca possiede una pratica
+plurilingue propria. Possono usare sistemi conversazionali o dotati di strumenti
+diversi.
+
+[Meta_Skill Semantic Kernel](https://maios.it/risorse/creare-comporre-competenze/)
+aiuta a recuperare perché una scelta funziona e cosa la cambia. Partecipano sapere
+educativo e progettazione già disponibili. Il risultato utile è un metodo per
+preparare e adattare il laboratorio; prompt riutilizzabile o nuova cartella skill
+possono portarlo quando quella forma serve al lavoro. Copiare una scheda perderebbe
+la ragione per cui una domanda aiuta quel gruppo. Il metodo conserva quella ragione
+e può cambiare mentre la biblioteca comprende più profondamente il proprio intento.
+
+Durante un incontro il confronto fra due interpretazioni plausibili aiuta i
+partecipanti a spiegare il ragionamento. [D-ND Skill Evolution Guard](https://maios.it/risorse/evolvere-competenze/)
+aiuta la competenza del laboratorio ad acquisire scelta e condizioni. Se quel
+sapere esisteva ma l’ingresso consegnava solo un programma fisso, si ripara
+l’ingresso. Se la formazione copiava la dimostrazione senza ragione, anche il
+metodo generativo impara a leggere gli esempi. Ciascuno riceve la differenza utile;
+i fatti particolari dell’incontro restano nel progetto.
+
+[Transfer Kernel Potential](https://maios.it/risorse/trasferire-capacita-kernel/)
+fa partecipare il sapere della seconda biblioteca all’adozione. La pratica
+plurilingue e i contributi già aperti si conservano. Viaggiano ragione, relazione
+decisionale e mezzi per continuarla, attraverso ingresso e sede di conoscenza
+effettivi. Un aggiornamento parziale della sorgente approfondisce una relazione
+senza sostituire il metodo evoluto localmente.
+
+In una conversazione l’avvio completo porta metodo, sapere operativo ed esempi;
+la persona aggiunge fonti locali e può salvare una guida rivista. Un sistema con
+accesso ai file rende raggiungibile il kit intero nel progetto esistente. Gli
+strumenti collegati partecipano dove il lavoro li richiede. Sono modi di adozione,
+non definizioni diverse della capacità. Le risorse restano utili autonomamente
+e partecipano insieme nell’ordine utile. Il caso non prescrive stack, provider
+o adozione di MAIOS Project Kernel.
+
+Un laboratorio diverso può mostrare se la ragione appresa cambia realmente la
+scelta successiva. Disponibilità del metodo, uso e assimilazione conservano
+osservazioni proprie. Il caso insegna quelle relazioni; non documenta adozione
+presso clienti o un runtime multi-sistema esercitato.
