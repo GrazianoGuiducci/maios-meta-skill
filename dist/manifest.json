@@ -1505,7 +1505,7 @@
       "id": "principi-che-diventano-capacita",
       "version": "0.1.3",
       "package": "dist/onto-skill-0.1.3.zip",
-      "sha256": "59f5e1f867b6f511c8d6b899b09dd2704b322e69dd75d3d0e5c879ea5652dff5",
+      "sha256": "f744395994b4f696ed7342fcdcf3c1dace6710edbbdbee4150af91659ddd700f",
       "files": {
         "onto-skill/AVVIO_CHAT_IT.txt": "f17e83614ae6b3640f45dd37ddf3357905a3da27ac08598e2b9d32c499d46a93",
         "onto-skill/EDITION.json": "fb6921a55657c85afac35c70d874f64ff73fa213b2171692a3c2063326d5ac87",
@@ -1521,7 +1521,7 @@
         "onto-skill/SKILL_IT.md": "3b9e6fea37f849842cad3cfc6cf6ecbe9a37f95895b8ad791e611dfa0c04b34d",
         "onto-skill/START_CHAT_EN.txt": "45fb6f245e5e05526d42a8c8d1900bf60557e3bb825b8ca367c983f5fb8c7b2c",
         "onto-skill/catalog-entry.json": "386336026bedc2003722f07d3f0fe1983596ac421f8c3b54dd69b577e667c077",
-        "onto-skill/presentation.json": "7215bb02ad0803dd4c5ff21fdc732dcdbc667390942bae76383a774255e30a2d",
+        "onto-skill/presentation.json": "5628684bda074d0a4100b599c26e43260ed6748a26c18ac44ac6b73b9f11379e",
         "onto-skill/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "onto-skill/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },
@@ -1549,7 +1549,7 @@
       "id": "formare-capacita-cooperative",
       "version": "0.1.3",
       "package": "dist/form-cooperative-capability-from-sources-0.1.3.zip",
-      "sha256": "a21a4d6124bf8206cd344255e10a70159034da4747173c1b16ba2f6f3f55acd9",
+      "sha256": "b0e5d6d1499c8d8f9150c0cbae09a7409c3f292ed0eb1290badccf46cf33fac6",
       "files": {
         "form-cooperative-capability-from-sources/AVVIO_CHAT_IT.txt": "4fc18f3c2cafddb3af6ff723d5fe41690db23b9e8b144f52da081a630df53705",
         "form-cooperative-capability-from-sources/EDITION.json": "2c563bfb85c7238b6deb4e877edf52fa75869d36a6502c8311d8748668541aa2",
@@ -1565,7 +1565,7 @@
         "form-cooperative-capability-from-sources/SKILL_IT.md": "3051db0ef166211fd03e9672cbd6ec1d95816063fec09b4c093285f79679e14a",
         "form-cooperative-capability-from-sources/START_CHAT_EN.txt": "8395b979d72d5d8f77b61ee9d18fd0193ad8fa7a64288f5fd4513c1ed02338be",
         "form-cooperative-capability-from-sources/catalog-entry.json": "5295d77dbabdc36c71e28bffff2098d3b5ceb9b962dd899663128fd854774672",
-        "form-cooperative-capability-from-sources/presentation.json": "1808a77dde32e4dd5607599d3d8585ee982f1975f17939fcbd765775a2b91a16",
+        "form-cooperative-capability-from-sources/presentation.json": "bddc0836eeca78224d9061dd23e705ea920fe9ce0cf34316a0834be266cf7789",
         "form-cooperative-capability-from-sources/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "form-cooperative-capability-from-sources/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },
@@ -1637,7 +1637,7 @@
       "id": "presentare-sistemi-in-evoluzione",
       "version": "0.1.3",
       "package": "dist/maios-presentation-competence-0.1.3.zip",
-      "sha256": "aa3d8e45d267651b2b865bdef835a33c078a422cd8c7a5681668fc724d3de534",
+      "sha256": "3430228cc332c49eac47016b97ce1b28399e22d7941bbb881392729d06560130",
       "files": {
         "maios-presentation-competence/AVVIO_CHAT_IT.txt": "91ea06d65fdbddefca1f230393c00703932e50ebf8ae8fc53a9f77f834d69bc4",
         "maios-presentation-competence/EDITION.json": "bedb3771d4b62feeed9f95c1232fc0753b43ce5890cf9543d5dea7061f3cbd59",
@@ -1653,7 +1653,7 @@
         "maios-presentation-competence/SKILL_IT.md": "7dccfc9d9474d7f42a03ec9ca70a8f6d85955d07bc62e05e5fc39c13aaeb4103",
         "maios-presentation-competence/START_CHAT_EN.txt": "52a645ac12704618251a80b99d5f0108054f377e31239334b814db6e5bac20a2",
         "maios-presentation-competence/catalog-entry.json": "00c8b15263ee31283e655631b86c57b0ff537ca51a47bda21511f8ace609816f",
-        "maios-presentation-competence/presentation.json": "c1d08a93e3ef920e4edc0f256bedc5f1e01a090a273cfcdaa6704d178890d5f8",
+        "maios-presentation-competence/presentation.json": "df86ae02a75eb7e9e88c4876d42289a7075577bd7bf3fc9980a86e3cf77b122c",
         "maios-presentation-competence/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "maios-presentation-competence/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },
