@@ -23,6 +23,8 @@ class PortableRenderingTests(unittest.TestCase):
                 for section in source[lang]['operating_method']:self.assertIn(section['body'],body)
                 for section in source[lang]['knowledge']+source[lang]['worked_examples']:self.assertIn(section['body'],complete)
                 self.assertIn(str(len(source[lang]['worked_examples'])),(folder/readme).read_text(encoding='utf-8'))
+                first_use=(folder/readme).read_text(encoding='utf-8').split('## First use' if lang=='en' else '## Primo uso',1)[1].lstrip()
+                self.assertTrue(first_use.startswith('Read SKILL.md and OPERATING_GUIDE.md.' if lang=='en' else 'Leggi SKILL_IT.md e GUIDA_OPERATIVA_IT.md.'))
             self.assertEqual(json.loads((folder/'EDITION.json').read_text(encoding='utf-8'))['source_note'],'Attributed local knowledge')
 
 if __name__=='__main__':unittest.main()

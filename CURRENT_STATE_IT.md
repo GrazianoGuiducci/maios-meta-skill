@@ -1,8 +1,8 @@
-# Metodo, continuità e formazione di risorse pubbliche — candidati, 26 ottobre 2026
+# Metodo, continuità e formazione di risorse pubbliche — edizioni sorgente, 26 ottobre 2026
 
-Il ramo selezionato prepara Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 e Form Public Meta-Skill Resources 0.3.4. Metodi sviluppati e sapere pratico esistenti restano disponibili in italiano e inglese. Quattro casi per risorsa collegano preparazione, continuazione causale e trasferimento dalla fonte al ricevente. Il caso comune della biblioteca rimane illustrativo e adattabile a sistemi diversi. Le altre 39 edizioni dei pacchetti sono preservate.
+L’operatore ha selezionato la pubblicazione di Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 e Form Public Meta-Skill Resources 0.3.4, con le correzioni emerse dal riesame e l’allineamento della conoscenza Chat. Metodi sviluppati e sapere pratico esistenti restano disponibili in italiano e inglese, con quattro casi per risorsa e avvii completi. Il caso comune della biblioteca collega i contributi senza prescrivere provider o stack. Le altre 39 edizioni dei pacchetti sono preservate.
 
-Sono candidati sorgente per il riesame. I tre generativi precedenti restano la base pubblicata; questo candidato non attiva la pubblicazione del sito o il runtime Chat. Metodi, guide e avvii portano il sapere autonomamente rispetto alle fonti private. MAIOS Project Kernel 5.1.0 resta un’integrazione distinta e facoltativa.
+Il renderer portabile localizza ora istruzione di primo uso e congiunzione insieme alla guida. Questa fonte descrive le edizioni accettate. Deploy del sito, attivazione backend e comprensione del ricevente hanno osservazioni proprie nell’owner del rilascio. MAIOS Project Kernel 5.1.0 resta un’integrazione distinta e facoltativa.
 
 # Tre capacità generative — edizioni sorgente, 26 ottobre 2026
 

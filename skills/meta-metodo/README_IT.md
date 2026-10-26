@@ -16,7 +16,7 @@ Una conversazione usa l’avvio completo e restituisce una guida da salvare. Un 
 
 ## Primo uso
 
-Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT_IT.txt e descrivi il tuo incarico. L’avvio include metodo, sapere pratico e 4 esempi sviluppati.
+Leggi SKILL_IT.md e GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT_IT.txt e descrivi il tuo incarico. L’avvio include metodo, sapere pratico e 4 esempi sviluppati.
 
 ## File ed edizione
 

@@ -1,8 +1,8 @@
-# Method, continuity and public resource formation — candidates, 26 October 2026
+# Method, continuity and public resource formation — source editions, 26 October 2026
 
-The selected branch prepares Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 and Form Public Meta-Skill Resources 0.3.4. Existing developed methods and practical knowledge remain available in English and Italian. Four worked cases per resource connect preparation, causal continuation and source-to-recipient transfer. The shared library case remains illustrative and adaptable to varied systems. The other 39 package editions are preserved.
+The operator accepted publication of Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 and Form Public Meta-Skill Resources 0.3.4, including the corrections identified in review and Chat knowledge alignment. Existing developed methods and practical knowledge remain available in English and Italian, with four worked cases per resource and complete starters. A shared library case connects the contributions without prescribing a provider or stack. The other 39 package editions are preserved.
 
-These are source candidates for review. The previous three generative resources remain the published baseline; this candidate does not activate website or Chat runtime publication. The current methods, guides and starters carry the knowledge independently of private sources. MAIOS Project Kernel 5.1.0 remains a distinct optional integration.
+The portable renderer now localizes the first-use instruction and its conjunction as well as the surrounding guide. This source describes the accepted editions. Website deployment, backend activation and recipient understanding have their own observations in the release owner. MAIOS Project Kernel 5.1.0 remains a distinct optional integration.
 
 # Three generative resources — source editions, 26 October 2026
 
