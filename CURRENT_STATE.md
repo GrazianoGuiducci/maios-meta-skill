@@ -1,4 +1,8 @@
-# Nine further capabilities — public edition 0.1.0
+# MAIOS Meta-Skill — current public collection
+
+## 26 October 2026 — MKCV production paths, edition 0.1.3
+
+Semantic Timelapse Formation now transfers the MKCV method for choosing and guiding a video production from generated references, existing images or footage. The developed museum and workshop cases distinguish animatics, editable scenes and editing. Camera-matched reconstruction, localized fidelity and the roles of method and executor are explicit. MKCV remains beta and learning; the included runtime example remains the image renderer, while the receiving project supplies other actual tools. The other 41 operating editions retain their versions and package bytes.
 
 ## 25 October 2026 — adaptable examples and MKCV beta
 

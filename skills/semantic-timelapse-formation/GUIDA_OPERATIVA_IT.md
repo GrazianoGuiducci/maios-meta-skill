@@ -1,6 +1,31 @@
-# Guida operativa — il confine del riferimento visivo
+# Guida operativa — scegliere il mezzo e formare il film
 
 **MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
+
+## Scegliere e condurre la produzione dal lavoro reale
+
+Parti dal soggetto, dal pubblico e dai materiali già presenti. L’AI recupera il lavoro esistente, sceglie un mezzo realizzabile, compone le competenze necessarie e produce una versione da osservare. Le scelte tecniche ordinarie proseguono dentro l’incarico; una mancanza materiale o una decisione che cambia l’opera resta riconoscibile. Il film può cambiare mezzo quando il risultato lo richiede.
+
+**Scena da una reference.** Quando serve un nuovo riferimento generato, produci A con un vero generatore e osservala prima del codice. Per animare il soggetto, forma parti, livelli o geometrie pertinenti: una bitmap non contiene automaticamente un rig. Nel percorso reference→scena, i paragrafi successivi approfondiscono la costruzione di B.
+
+**Animatic da immagini disponibili.** Ordina immagini realmente accessibili, assegna durate e rendi leggibile la relazione fra un’immagine e la successiva. Un movimento di camera o una didascalia può guidare l’attenzione. L’animatic mostra ritmo e racconto; muovere la vista su una figura non ne anima automaticamente il corpo. I materiali esistenti conservano la propria origine.
+
+**Montaggio da clip esistenti.** Osserva le riprese, riconosci ciò che documentano e forma ordine, durata e rapporto con il suono. Uniforma formato e codifica con gli strumenti effettivi, poi osserva il file risultante. Un taglio può far apparire causali eventi soltanto vicini: il montaggio conserva il rapporto sostenuto dalle fonti.
+
+Questi percorsi sono possibilità, non tre passaggi obbligatori. Una dimostrazione software parte da una cattura reale; una scena tridimensionale richiede modelli e renderer; una generazione video richiede un provider effettivamente accessibile. Collega il mezzo necessario o conserva la differenza aperta senza presentarla come video già prodotto.
+
+## Ricostruire una reference mantenendo camera e identità
+
+Quando la somiglianza al riferimento conta, confronta la scena nella stessa vista. Comprendi prima inquadratura, ingombri, silhouette e rapporto fra soggetti; poi approfondisci dettagli, materiali e atmosfera. Una correzione al volto o a un albero non prova la fedeltà dell’intera scena. La vista laterale può rivelare una struttura che il frame frontale nascondeva: ricostruzione tridimensionale e composizione per una sola camera hanno portate diverse.
+
+Conserva una versione modificabile e osserva quali parti cambiano davvero la percezione. La camera resta un riferimento comune mentre correggi l’oggetto pertinente. Un confronto per regioni aiuta a localizzare differenze; la sola somiglianza dei pixel non decide identità, gesto o significato del film.
+
+## Metodo, strumenti ed esecuzione hanno ruoli diversi
+
+Il kit trasferisce il metodo operativo e un renderer Python d’esempio da immagine esistente. Gli strumenti di montaggio, i modelli, i provider e gli asset sono quelli del progetto che lo usa. L’AI forma e osserva le scelte; un esecutore locale applica operazioni ai materiali ricevuti. Una configurazione descritta in un documento non avvia da sola un lavoro dopo la conversazione.
+
+## Approfondire il percorso dal riferimento alla scena
+
 
 **Formare le istruzioni dal sapere.** Raggiungi l'oggetto, le relazioni da rendere visibili e ciò che deve restare riconoscibile. Nel prompt al generatore considera composizione, geometria, testo e, quando pertinente, gli spazi occupati da frame futuri. Un vecchio motivo grafico non è un preset.
 
@@ -37,7 +62,7 @@
 
 # MKCV — un film, competenze reciproche
 
-La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’responsabile mantenendo riconoscibile lo stesso film.
+La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna al responsabile mantenendo riconoscibile lo stesso film.
 
 Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cinematic Direction l’incontro percepibile con messa in scena, camera e luce. Character & Object Performance azione e reazione leggibili. Film Montage il rapporto fra immagini e suono. La produzione in codice costruisce e osserva il medium eseguibile effettivo.
 

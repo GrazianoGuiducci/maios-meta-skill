@@ -1,6 +1,6 @@
 ---
 name: semantic-timelapse-formation
-description: Forma video brevi dal sapere, generando prima un'immagine di esempio con un generatore di immagini, poi costruendo il primo frame in codice e la sequenza temporale.
+description: Forma e conduce una produzione video attraverso MKCV, componendo scrittura, regia, interpretazione, montaggio e strumenti effettivamente disponibili nel progetto. MKCV è beta, in apprendimento.
 ---
 
 # Semantic Timelapse Formation
@@ -9,17 +9,25 @@ description: Forma video brevi dal sapere, generando prima un'immagine di esempi
 
 ## Adattare il metodo al tuo contesto
 
-Un laboratorio racconta un processo, un museo rende visibile una trasformazione, un autore anima una scena inventata. Si conserva il rapporto fra soggetto, riferimento visivo generato e osservato, scena modificabile e cambiamento nel tempo. Cambiano fonti, pubblico, stile e mezzi di produzione.
+Un laboratorio spiega una procedura, un museo racconta una trasformazione, un autore forma una scena inventata. Si conserva il rapporto fra soggetto, materiali, mezzo e cambiamento compreso dal pubblico. Cambiano fonti, stile, durata e strumenti; il metodo parte da ciò che il progetto possiede e deve rendere possibile.
 
-Porta il soggetto, ciò che deve diventare comprensibile e i materiali disponibili. Le fonti determinano le relazioni da conservare; il movimento determina quali parti costruire. MKCV — Mini Kernel Code Video — è beta, in apprendimento: il film risultante permette di migliorare sia la scena sia il metodo che formerà il film successivo.
+Porta alla tua AI il soggetto, il pubblico, i materiali e il risultato richiesto. Falle condurre la produzione attraverso il mezzo pertinente e osservare ciò che produce. Nella ricostruzione da un riferimento conserva identità e camera; nel montaggio conserva i nessi delle fonti. MKCV resta beta: il lavoro e le correzioni fanno evolvere il metodo.
 
-**Prima un riferimento visivo generato, poi il primo frame scritto in codice.**
+**Scegliere il mezzo adatto al soggetto e ai materiali, poi osservare e migliorare il risultato.**
 
-## Animare il soggetto di una reference
+## Un museo ha immagini, riprese e una storia da raccontare
 
-Hai un’illustrazione generata e vuoi vedere il personaggio muoversi nel suo ambiente. Il lavoro consiste nel rendere animabili le parti necessarie e nel costruire una scena che conservi quel soggetto.
+Un museo prepara una breve spiegazione per i visitatori. Può avere tre illustrazioni, riprese già realizzate oppure un oggetto che deve essere ricostruito e animato. Questi materiali richiedono lavori diversi.
 
-Generare il riferimento, costruire gli elementi animabili e scegliere cosa cambia nel tempo sono lavori collegati. Sovrapporre un diagramma alla figura produce un effetto diverso dall’animarne il soggetto.
+Prima si comprende ciò che il pubblico deve vedere; da lì si sceglie come produrlo. Animatic, montaggio e scena modificabile sono possibilità componibili, ciascuna con i propri materiali e strumenti.
+
+## Scegliere il percorso dai materiali e dall’intento
+
+Comprendi che cosa deve diventare percepibile e quali materiali esistono. Una scena nuova richiede asset modificabili; un animatic organizza immagini nel tempo; un montaggio lavora su clip esistenti. Un’opera può comporre più mezzi. L’AI conduce le scelte tecniche ordinarie con gli strumenti disponibili e rende riconoscibile un materiale o una capacità ancora necessari.
+
+Conserva intento, materiali correnti e risultato richiesto mentre scrittura, regia, interpretazione e montaggio si richiamano per ciò che cambia il film. Produci una versione concreta, osservala e correggi il punto che ne cambia il significato. Un esecutore di render o montaggio realizza operazioni; la comprensione del film resta nel lavoro dell’AI e delle competenze coinvolte. Un’attività oltre il turno richiede un processo realmente configurato.
+
+MKCV comprende più percorsi di produzione. Questo testo approfondisce il profilo riferimento→scena: nei lavori con immagini o clip già disponibili il mezzo parte da quei materiali, come descritto nella guida operativa.
 
 ## Comprendere l'oggetto
 
@@ -96,6 +104,6 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 
 ## MKCV — un film, competenze reciproche
 
-La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’responsabile mantenendo riconoscibile lo stesso film.
+La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna al responsabile mantenendo riconoscibile lo stesso film.
 
 [Leggere il metodo cinematografico reciproco](MKCV_CINEMA_IT.md). La pagina collega i quattro kit pubblici complementari.

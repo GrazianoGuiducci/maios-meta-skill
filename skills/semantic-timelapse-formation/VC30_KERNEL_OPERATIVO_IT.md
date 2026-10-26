@@ -1,8 +1,10 @@
 # VC-30s — mini-kernel operativo per video brevi in codice
 
+MKCV comprende più percorsi di produzione. Questo testo approfondisce il profilo riferimento→scena: nei lavori con immagini o clip già disponibili il mezzo parte da quei materiali, come descritto nella guida operativa.
+
 MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
 
-Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.2; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
+Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.3; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
 
 **MKCV — Mini Kernel Code Video** nomina la composizione generale delle competenze di produzione. **VC-30s** è il profilo di durata breve descritto qui. Entrambi usano la [stessa guida di produzione](VC30_STUDIO_LAB_IT.md); durata e formato seguono il film richiesto.
 

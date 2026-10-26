@@ -2220,7 +2220,7 @@
     {
       "id": "creare-timelapse-semantici",
       "name": "Semantic Timelapse Formation",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "33",
@@ -2258,36 +2258,36 @@
       "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
       "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
       "presentation": "skills/semantic-timelapse-formation/presentation.json",
-      "package": "dist/semantic-timelapse-formation-0.1.2.zip",
+      "package": "dist/semantic-timelapse-formation-0.1.3.zip",
       "en": {
-        "title": "Create a coded film from a generated image",
+        "title": "Create videos from images, scenes and existing clips",
         "kind": "Generative media competence",
         "domain": "Visual creation",
-        "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use.",
+        "does": "Forms and guides video production through MKCV, composing writing, direction, performance, montage and tools actually available in the project. MKCV is beta and learning.",
         "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
         "examples": [
           "Animate the world in the reference",
-          "Show how a bicycle is made",
-          "One film, complementary cinematic knowledge"
+          "A museum explores rhythm with three illustrations",
+          "A workshop edits a demonstration from existing footage"
         ],
         "route": "/resources/creare-timelapse-semantici/",
-        "description": "From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.",
-        "subtitle": "Connect source knowledge, an observed visual reference, an editable scene and meaningful time."
+        "description": "From sources to video: an editable scene, an animatic from images or an edit of existing clips, with MKCV beta and learning.",
+        "subtitle": "Choose the medium that fits the subject and material, then observe and improve the result."
       },
       "it": {
-        "title": "Creare un film in codice da un’immagine generata",
+        "title": "Creare video da immagini, scene e clip esistenti",
         "kind": "Competenza visiva generativa",
         "domain": "Creazione visiva",
-        "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento.",
+        "does": "Forma e conduce una produzione video attraverso MKCV, componendo scrittura, regia, interpretazione, montaggio e strumenti effettivamente disponibili nel progetto. MKCV è beta, in apprendimento.",
         "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
         "examples": [
           "Animare il mondo della reference",
-          "Mostrare come nasce una bicicletta",
-          "Un film, saperi cinematografici complementari"
+          "Un museo esplora il ritmo con tre illustrazioni",
+          "Un laboratorio monta una dimostrazione da riprese esistenti"
         ],
         "route": "/risorse/creare-timelapse-semantici/",
-        "description": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
-        "subtitle": "Collegare sapere sorgente, riferimento visivo osservato, scena modificabile e tempo significativo."
+        "description": "Dalle fonti al video: scena modificabile, animatic da immagini o montaggio di clip, con MKCV beta in apprendimento.",
+        "subtitle": "Scegliere il mezzo adatto al soggetto e ai materiali, poi osservare e migliorare il risultato."
       },
       "maturity": {
         "component": "MKCV",

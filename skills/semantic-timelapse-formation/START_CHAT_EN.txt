@@ -5,17 +5,25 @@
 
 ## Adapt the method to your context
 
-A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.
+A workshop explains a procedure, a museum tells a transformation, an author forms an invented scene. Preserve the relationship between subject, material, medium and the change understood by the audience. Sources, style, duration and tools change; the method starts from what the project has and needs to make possible.
 
-Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film.
+Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method.
 
-**Generate a visual reference first, then build the first frame in code.**
+**Choose the medium that fits the subject and material, then observe and improve the result.**
 
-## Animate the subject of a reference image
+## A museum has images, footage and a story to tell
 
-You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.
+A museum prepares a short explanation for visitors. It may have three illustrations, existing footage or an object that needs reconstruction and animation. These materials call for different work.
 
-Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject.
+First understand what the audience needs to see; choose how to produce it from there. Animatics, editing and editable scenes are composable possibilities, each with its own material and tools.
+
+## Choose a path from the material and intent
+
+Understand what should become perceptible and what material exists. A new scene needs editable assets; an animatic organizes images through time; an edit works with existing clips. One work may compose several media. AI handles ordinary technical choices with the available tools and identifies material or a capability still needed.
+
+Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process.
+
+MKCV encompasses several production paths. This text deepens the reference-to-scene profile: work with existing images or clips starts from that material, as described in the operating guide.
 
 ## Understand the object
 
@@ -97,9 +105,34 @@ A film’s shared continuation preserves its subject, source status, current art
 [Read the reciprocal cinematic method](MKCV_CINEMA_EN.md). The four complementary public kits are linked from this resource’s page.
 
 
-# Operating guide — the visual-reference boundary
+# Operating guide — choose the medium and form the film
 
 **MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
+
+## Choose and guide production from the actual work
+
+Start with the subject, audience and existing material. AI recovers ongoing work, chooses an executable medium, composes the necessary competences and produces a version to observe. Ordinary technical choices continue within the assignment; missing material or a decision changing the work remains recognizable. The film may change medium when the result calls for it.
+
+**Scene from a reference.** When a new generated reference is needed, produce A with an actual image generator and observe it before coding. To animate its subject, form pertinent parts, layers or geometry: a bitmap does not automatically contain a rig. The following paragraphs deepen the construction of B in the reference-to-scene path.
+
+**Animatic from available images.** Order genuinely accessible images, assign durations and make the relationship between successive images readable. A camera move or caption can guide attention. An animatic shows rhythm and story; moving a view over a figure does not automatically animate its body. Existing material retains its origin.
+
+**Edit from existing clips.** Observe the footage, recognize what it documents and form order, duration and relationships with sound. Normalize format and encoding through actual tools, then observe the resulting file. A cut may make adjacent events appear causal: editing preserves relationships supported by sources.
+
+These paths are possibilities rather than three compulsory stages. A software demonstration starts from real capture; a three-dimensional scene needs models and a renderer; video generation needs an actually accessible provider. Connect the necessary medium or preserve the open difference without presenting it as an already produced video.
+
+## Reconstruct a reference while preserving camera and identity
+
+When likeness to the reference matters, compare the scene through the same view. Understand framing, volumes, silhouettes and relationships between subjects first; deepen details, materials and atmosphere from there. Correcting a face or tree does not establish fidelity of the whole scene. A side view may reveal structure hidden by the frontal frame: three-dimensional reconstruction and composition for a single camera have different scopes.
+
+Keep an editable version and observe which parts materially change perception. The camera stays a shared reference while you correct the pertinent object. Comparing regions helps localize differences; pixel similarity alone does not decide identity, gesture or film meaning.
+
+## Method, tools and execution have different roles
+
+The kit transfers the operating method and an example Python renderer from an existing image. Editing tools, models, providers and assets belong to the project using it. AI forms and observes choices; a local executor applies operations to supplied material. A configuration described in a document does not itself start work after the conversation.
+
+## Deepen the reference-to-scene path
+
 
 **Form the image instruction from knowledge.** Recover what the subject actually is, what relation the film may represent and what must remain recognisable. For the image-generator prompt include composition, relevant geometry, exact text, and when material the visual spaces later frames may occupy. A known motif is not a default.
 
@@ -153,20 +186,22 @@ Illustrative cases for adaptation.
 
 A generated illustration shows a robot beside a worktable. The entrusted film asks that world to move. Adding a new overlay of boxes would make a different film. Observe the actual reference, identify the relevant head, arm, prop and environment, then determine which layers, pivots or geometry are available. A restrained 2.5D articulation may preserve identity better than an invented full 3D body. If hidden surfaces matter, form them as an explicit reconstruction or choose another view. The method follows the actual intended motion.
 
-## Show how a bicycle is made
+## A museum explores rhythm with three illustrations
 
-A class needs to understand how separate parts become a complete bicycle. In the selected illustrative process, the frame and wheels are prepared along distinct paths and then assembled. The scene preserves branches, meeting points and operation order supplied by the workshop sources. A single row of icons would hide the relationship between parts; speeding up the film would not clarify it. Time and geometry make that process perceptible. Another production may require a different structure.
+A museum has three drawings of a tool and its use. Order, durations and points of attention suffice for an initial explanation: AI forms an animatic from the existing images, observes it and revises the timing of the discovery. If visitors need to understand how a lever moves, panning over the figure is insufficient: animatable parts or footage of the gesture become pertinent. The medium changes through what the audience needs to understand.
 
-## One film, complementary cinematic knowledge
+## A workshop edits a demonstration from existing footage
 
-An authored scene shows a small robot noticing a fallen plant and helping it stand. Writing forms discovery and action; direction chooses a view that makes the relation visible; performance makes pause and contact readable; montage forms the viewer’s discovery. Code implements actual layers and time. A rough reel may reveal that the hand never reaches the pot, returning the difference to performance and production. The contributions can change one another through one film; opening a separate agent process is a different runtime effect.
+A workshop has filmed preparation, assembly and operation of an object. AI observes the clips, connects the steps and edits an explanation from actual footage. A time jump stays recognizable; adjacent images do not invent a cause. The project supplies clips and an editing tool. Observing the finished video may call for another cut or a missing view, rather than a new generated reference.
 
 
 # VC-30s — Operational competence field for code-made short videos
 
+MKCV encompasses several production paths. This text deepens the reference-to-scene profile: work with existing images or clips starts from that material, as described in the operating guide.
+
 MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
 
-This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.2 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.3 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
 **MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 
@@ -273,9 +308,11 @@ An image may introduce a false hierarchy; a character may lose its identity whil
 
 # VC-30s Studio-Lab — building code-made video with specialized competences
 
+MKCV encompasses several production paths. This text deepens the reference-to-scene profile: work with existing images or clips starts from that material, as described in the operating guide.
+
 MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
 
-**State:** public **edition 0.1.2** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
+**State:** public **edition 0.1.3** method. Usable as a working guide in a chat or harness that actually has image, file, coding and rendering capabilities. **Not** an installed video software suite, always-on agent or guarantee of third-party provider availability. The method builds on [Semantic Timelapse Formation](SKILL.md) and [VC-30s Operating Field](VC30_OPERATIONAL_KERNEL.md).
 
 ## MKCV — Mini Kernel Code Video, beyond the thirty-second profile
 
@@ -356,6 +393,8 @@ Know-how was studied from [HyperFrames](https://github.com/heygen-com/hyperframe
 
 
 # MKCV — one film, reciprocal competences
+
+MKCV encompasses several production paths. This text deepens the reference-to-scene profile: work with existing images or clips starts from that material, as described in the operating guide.
 
 **MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
 

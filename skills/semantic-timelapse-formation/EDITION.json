@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "state": "public_edition",
   "source_competence": "Semantic Timelapse Formation — competenza evolutiva",
   "languages": [
@@ -10,5 +10,9 @@
   "maturity": {
     "component": "MKCV",
     "stage": "beta"
-  }
+  },
+  "transfer_scope": [
+    "operating_method",
+    "image_renderer_example"
+  ]
 }

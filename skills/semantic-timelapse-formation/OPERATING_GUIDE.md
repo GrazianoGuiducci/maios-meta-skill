@@ -1,6 +1,31 @@
-# Operating guide — the visual-reference boundary
+# Operating guide — choose the medium and form the film
 
 **MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
+
+## Choose and guide production from the actual work
+
+Start with the subject, audience and existing material. AI recovers ongoing work, chooses an executable medium, composes the necessary competences and produces a version to observe. Ordinary technical choices continue within the assignment; missing material or a decision changing the work remains recognizable. The film may change medium when the result calls for it.
+
+**Scene from a reference.** When a new generated reference is needed, produce A with an actual image generator and observe it before coding. To animate its subject, form pertinent parts, layers or geometry: a bitmap does not automatically contain a rig. The following paragraphs deepen the construction of B in the reference-to-scene path.
+
+**Animatic from available images.** Order genuinely accessible images, assign durations and make the relationship between successive images readable. A camera move or caption can guide attention. An animatic shows rhythm and story; moving a view over a figure does not automatically animate its body. Existing material retains its origin.
+
+**Edit from existing clips.** Observe the footage, recognize what it documents and form order, duration and relationships with sound. Normalize format and encoding through actual tools, then observe the resulting file. A cut may make adjacent events appear causal: editing preserves relationships supported by sources.
+
+These paths are possibilities rather than three compulsory stages. A software demonstration starts from real capture; a three-dimensional scene needs models and a renderer; video generation needs an actually accessible provider. Connect the necessary medium or preserve the open difference without presenting it as an already produced video.
+
+## Reconstruct a reference while preserving camera and identity
+
+When likeness to the reference matters, compare the scene through the same view. Understand framing, volumes, silhouettes and relationships between subjects first; deepen details, materials and atmosphere from there. Correcting a face or tree does not establish fidelity of the whole scene. A side view may reveal structure hidden by the frontal frame: three-dimensional reconstruction and composition for a single camera have different scopes.
+
+Keep an editable version and observe which parts materially change perception. The camera stays a shared reference while you correct the pertinent object. Comparing regions helps localize differences; pixel similarity alone does not decide identity, gesture or film meaning.
+
+## Method, tools and execution have different roles
+
+The kit transfers the operating method and an example Python renderer from an existing image. Editing tools, models, providers and assets belong to the project using it. AI forms and observes choices; a local executor applies operations to supplied material. A configuration described in a document does not itself start work after the conversation.
+
+## Deepen the reference-to-scene path
+
 
 **Form the image instruction from knowledge.** Recover what the subject actually is, what relation the film may represent and what must remain recognisable. For the image-generator prompt include composition, relevant geometry, exact text, and when material the visual spaces later frames may occupy. A known motif is not a default.
 

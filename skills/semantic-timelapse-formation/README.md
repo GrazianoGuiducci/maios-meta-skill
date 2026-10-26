@@ -2,16 +2,22 @@
 
 **MKCV · beta, learning through use.** Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.
 
-Create a coded film from a generated image
+Create videos from images, scenes and existing clips
 
-From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.
+From sources to video: an editable scene, an animatic from images or an edit of existing clips, with MKCV beta and learning.
 
 Read SKILL.md, OPERATING_GUIDE.md and EXAMPLES.md. In chat without file access, use the entire START_CHAT_EN.txt. The kit includes the production guide, technical sources and an example renderer. Installation: INSTALL.md.
 
-Public edition 0.1.2. This method derives from Semantic Timelapse Formation; its relation to KA and FDLA is the provenance of the openness and correction knowledge transferred here. Writing, visual design and production roles compose through the actual capabilities of your project.
+Public edition 0.1.3. This method derives from Semantic Timelapse Formation; its relation to KA and FDLA is the provenance of the openness and correction knowledge transferred here. Writing, visual design and production roles compose through the actual capabilities of your project.
 
 ## Adapt the method to your context
 
-A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.
+A workshop explains a procedure, a museum tells a transformation, an author forms an invented scene. Preserve the relationship between subject, material, medium and the change understood by the audience. Sources, style, duration and tools change; the method starts from what the project has and needs to make possible.
 
-Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film.
+Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method.
+
+## Choose a path from the material and intent
+
+Understand what should become perceptible and what material exists. A new scene needs editable assets; an animatic organizes images through time; an edit works with existing clips. One work may compose several media. AI handles ordinary technical choices with the available tools and identifies material or a capability still needed.
+
+Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process.

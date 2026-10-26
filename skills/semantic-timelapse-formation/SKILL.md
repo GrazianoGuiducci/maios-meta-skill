@@ -1,6 +1,6 @@
 ---
 name: semantic-timelapse-formation
-description: Create source-grounded short videos by generating an example image first, observing it, building the first frame in editable code, then animating and learning from the result.
+description: Forms and guides video production through MKCV, composing writing, direction, performance, montage and tools actually available in the project. MKCV is beta and learning.
 ---
 
 # Semantic Timelapse Formation
@@ -9,17 +9,25 @@ description: Create source-grounded short videos by generating an example image 
 
 ## Adapt the method to your context
 
-A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.
+A workshop explains a procedure, a museum tells a transformation, an author forms an invented scene. Preserve the relationship between subject, material, medium and the change understood by the audience. Sources, style, duration and tools change; the method starts from what the project has and needs to make possible.
 
-Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film.
+Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method.
 
-**Generate a visual reference first, then build the first frame in code.**
+**Choose the medium that fits the subject and material, then observe and improve the result.**
 
-## Animate the subject of a reference image
+## A museum has images, footage and a story to tell
 
-You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.
+A museum prepares a short explanation for visitors. It may have three illustrations, existing footage or an object that needs reconstruction and animation. These materials call for different work.
 
-Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject.
+First understand what the audience needs to see; choose how to produce it from there. Animatics, editing and editable scenes are composable possibilities, each with its own material and tools.
+
+## Choose a path from the material and intent
+
+Understand what should become perceptible and what material exists. A new scene needs editable assets; an animatic organizes images through time; an edit works with existing clips. One work may compose several media. AI handles ordinary technical choices with the available tools and identifies material or a capability still needed.
+
+Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process.
+
+MKCV encompasses several production paths. This text deepens the reference-to-scene profile: work with existing images or clips starts from that material, as described in the operating guide.
 
 ## Understand the object
 

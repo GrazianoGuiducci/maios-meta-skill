@@ -6,10 +6,10 @@ Casi illustrativi da adattare.
 
 Un’illustrazione generata mostra un robot vicino al tavolo. Il film affidato deve animare quel mondo: sovrapporre un diagramma nuovo produrrebbe un altro film. Osserva la reference, riconosci testa, braccio, oggetto e ambiente pertinenti e comprendi livelli, pivot o geometrie disponibili. Un’articolazione 2.5D contenuta può conservare l’identità meglio di un corpo 3D inventato. Se servono superfici nascoste, formale come ricostruzione esplicita o scegli un’altra vista. Il metodo segue il movimento realmente affidato.
 
-## Mostrare come nasce una bicicletta
+## Un museo esplora il ritmo con tre illustrazioni
 
-Una classe deve comprendere come si arriva dalle parti alla bicicletta completa. Nel processo illustrativo scelto, telaio e ruote vengono preparati lungo percorsi distinti e poi assemblati. La scena conserva rami, punti d’incontro e ordine delle operazioni indicati dalle fonti del laboratorio. Una sola fila di icone nasconderebbe il rapporto fra i pezzi; accelerare il film non lo renderebbe più chiaro. Tempo e geometria rendono percepibile quel processo. Un’altra produzione può richiedere una struttura diversa.
+Un museo dispone di tre disegni di un attrezzo e del suo uso. Per una spiegazione preliminare bastano ordine, durate e punti di attenzione: l’AI forma un animatic con le immagini esistenti, lo osserva e rivede il tempo della scoperta. Se il visitatore deve capire come una leva si muove, il solo pan sulla figura non basta: diventano pertinenti parti animabili o una ripresa del gesto. Il mezzo cambia attraverso ciò che il pubblico deve comprendere.
 
-## Un film, saperi cinematografici complementari
+## Un laboratorio monta una dimostrazione da riprese esistenti
 
-Una scena autoriale mostra un piccolo robot che nota una pianta caduta e la aiuta. Scrittura forma scoperta e azione; regia la vista del nesso; interpretazione pausa e contatto; montaggio la scoperta dello spettatore. Il codice realizza livelli e tempo reali. Un reel può mostrare che la mano non raggiunge il vaso, restituendo la differenza a interpretazione e produzione. I contributi si cambiano attraverso un film comune; aprire processi agentici separati resta un altro effetto runtime.
+Un laboratorio ha ripreso preparazione, montaggio e funzionamento di un oggetto. L’AI osserva le clip, collega i passaggi e monta una spiegazione con le riprese effettive. Un salto temporale resta riconoscibile; la vicinanza di due immagini non inventa una causa. Il progetto fornisce clip e strumento di montaggio. L’osservazione del video finale può richiedere un altro taglio o un’inquadratura mancante, non una nuova reference generata.

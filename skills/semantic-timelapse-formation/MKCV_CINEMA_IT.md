@@ -1,5 +1,7 @@
 # MKCV — un film, competenze reciproche
 
+MKCV comprende più percorsi di produzione. Questo testo approfondisce il profilo riferimento→scena: nei lavori con immagini o clip già disponibili il mezzo parte da quei materiali, come descritto nella guida operativa.
+
 **MKCV · beta, in apprendimento.** Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.
 
 La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna all’owner mantenendo riconoscibile lo stesso film.

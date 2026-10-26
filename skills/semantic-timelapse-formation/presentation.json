@@ -1,22 +1,22 @@
 {
   "en": {
-    "title": "Create a coded film from a generated image",
+    "title": "Create videos from images, scenes and existing clips",
     "kind": "Generative media competence",
     "domain": "Visual creation",
-    "does": "Forms image-generation instructions and source-grounded code-built films, composing visual, narrative and technical competences through MKCV, a beta method learning through use.",
+    "does": "Forms and guides video production through MKCV, composing writing, direction, performance, montage and tools actually available in the project. MKCV is beta and learning.",
     "when": "When a concept, documented result or authored scene should become a visual experience that can change meaningfully in time.",
     "examples": [
       "Animate the world in the reference",
-      "Show how a bicycle is made",
-      "One film, complementary cinematic knowledge"
+      "A museum explores rhythm with three illustrations",
+      "A workshop edits a demonstration from existing footage"
     ],
     "route": "/resources/creare-timelapse-semantici/",
-    "description": "Use an image generator before coding a 30-second visual sequence.",
-    "subtitle": "From an observed reference to an editable scene: preserve the film’s subject, movement and meaning.",
+    "description": "From sources to video: an editable scene, an animatic from images or an edit of existing clips, with MKCV beta and learning.",
+    "subtitle": "Choose the medium that fits the subject and material, then observe and improve the result.",
     "intro": [
-      "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment.",
-      "A real generated image A provides a reference to observe before constructing an editable scene B. The coded scene has its own first frame and can animate the world shown in A when that is the actual intent.",
-      "The competences for code-based video production are gathered in MKCV (Mini Kernel Code Video). VC-30s is its short-duration profile: other timings and formats follow the subject. The supplied Python example demonstrates a renderer from an existing image; the guide also develops layers, geometry and film composition."
+      "MKCV — Mini Kernel Code Video — is beta and learning. The method connects intent, material, competences and production means; observations of the result improve the next assignment.",
+      "A museum with three illustrations can form an animatic; a workshop with existing footage can edit it; a new scene needs assets and an editable world. The subject and material guide the choice of medium.",
+      "In the generated-reference-to-coded-scene path, image A is produced and observed before building B. The included Python example illustrates rendering from an existing image. Editing, 3D models and other means are used through the actual tools of your environment."
     ],
     "method": [
       {
@@ -24,8 +24,12 @@
         "body": "Recover intent, source meaning, subject and the distinction between observed event, reconstruction, fiction and possibility. Form the visual question from that knowledge. A source can change the geometry and temporal grammar; an inherited node diagram or camera move does not define the subject."
       },
       {
-        "title": "Generate and observe image A",
-        "body": "Use an actual image generator to produce the reference, then inspect it. Recognize useful visual properties and any invented hierarchy or causality. Let that observation reform the instructions and understanding. A is a real generated image; a code-rendered first frame has a different role."
+        "title": "Choose a path from the material and intent",
+        "body": "Understand what should become perceptible and what material exists. A new scene needs editable assets; an animatic organizes images through time; an edit works with existing clips. One work may compose several media. AI handles ordinary technical choices with the available tools and identifies material or a capability still needed."
+      },
+      {
+        "title": "New scene: generate and observe A",
+        "body": "In the new-generated-reference-to-coded-scene path, use an actual image generator to produce the reference, then inspect it. Recognize useful visual properties and any invented hierarchy or causality. Let that observation reform the instructions and understanding. A is a real generated image; a code-rendered first frame has a different role."
       },
       {
         "title": "Construct an editable scene B",
@@ -38,6 +42,10 @@
       {
         "title": "Use explicit time and observe the actual result",
         "body": "Choose the meaningful changes, identity that persists, duration and actual export. A seekable frame(t) supports reproducible inspection; a real-time update loop is a different contract. Observe first frame, significant moments and encoded film. The apparent order must preserve the source relation. Streaming frames limits memory use independently of why A was generated."
+      },
+      {
+        "title": "Guide the work and correct the result",
+        "body": "Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process."
       },
       {
         "title": "Return learning to the responsible capability",
@@ -67,15 +75,15 @@
     ],
     "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md",
     "reader_context": {
-      "title": "Animate the subject of a reference image",
-      "situation": "You have a generated illustration and want its character to move within its setting. The work is to prepare the parts that need to move and construct a scene that preserves that subject.",
-      "point": "Generating the reference, preparing movable elements and deciding what changes over time are connected tasks. Overlaying a diagram on the image has a different effect from animating its subject."
+      "title": "A museum has images, footage and a story to tell",
+      "situation": "A museum prepares a short explanation for visitors. It may have three illustrations, existing footage or an object that needs reconstruction and animation. These materials call for different work.",
+      "point": "First understand what the audience needs to see; choose how to produce it from there. Animatics, editing and editable scenes are composable possibilities, each with its own material and tools."
     },
     "adaptation": {
       "title": "Adapt the method to your context",
       "paragraphs": [
-        "A laboratory explains a process, a museum makes a transformation visible, an author animates an invented scene. Preserve the relationship between subject, a generated and observed visual reference, an editable scene and change through time. Sources, audience, style and production means change.",
-        "Provide the subject, what should become understandable and the available material. Sources determine the relationships to preserve; movement determines which parts to build. MKCV — Mini Kernel Code Video — is beta and learning: the resulting film informs improvements to both the scene and the method that will form the next film."
+        "A workshop explains a procedure, a museum tells a transformation, an author forms an invented scene. Preserve the relationship between subject, material, medium and the change understood by the audience. Sources, style, duration and tools change; the method starts from what the project has and needs to make possible.",
+        "Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method."
       ]
     },
     "status": {
@@ -84,23 +92,23 @@
     }
   },
   "it": {
-    "title": "Creare un film in codice da un’immagine generata",
+    "title": "Creare video da immagini, scene e clip esistenti",
     "kind": "Competenza visiva generativa",
     "domain": "Creazione visiva",
-    "does": "Forma istruzioni per immagini e film in codice fedeli alle sorgenti, componendo competenze visive, narrative e tecniche attraverso MKCV, beta e in apprendimento.",
+    "does": "Forma e conduce una produzione video attraverso MKCV, componendo scrittura, regia, interpretazione, montaggio e strumenti effettivamente disponibili nel progetto. MKCV è beta, in apprendimento.",
     "when": "Quando un concetto, risultato documentato o scena autoriale deve diventare un’esperienza visiva che cambia significativamente nel tempo.",
     "examples": [
       "Animare il mondo della reference",
-      "Mostrare come nasce una bicicletta",
-      "Un film, saperi cinematografici complementari"
+      "Un museo esplora il ritmo con tre illustrazioni",
+      "Un laboratorio monta una dimostrazione da riprese esistenti"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
-    "description": "Usa il generatore di immagini prima di codificare il timelapse di 30 secondi.",
-    "subtitle": "Dalla reference osservata alla scena modificabile: conserva soggetto, movimento e significato del film.",
+    "description": "Dalle fonti al video: scena modificabile, animatic da immagini o montaggio di clip, con MKCV beta in apprendimento.",
+    "subtitle": "Scegliere il mezzo adatto al soggetto e ai materiali, poi osservare e migliorare il risultato.",
     "intro": [
-      "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo.",
-      "Un’immagine A realmente generata offre un riferimento da osservare prima di costruire la scena modificabile B. La scena ha un proprio primo frame e anima il mondo raffigurato in A quando questo è l’intento effettivo.",
-      "Le competenze di produzione video in codice sono raccolte nel metodo MKCV (Mini Kernel Code Video). VC-30s ne è un profilo di durata breve: puoi scegliere altri tempi e formati attraverso il soggetto. L’esempio Python fornito mostra un renderer da immagine esistente; la guida approfondisce anche livelli, geometria e composizione del film."
+      "MKCV — Mini Kernel Code Video — è beta, in apprendimento. Il metodo collega intento, materiali, competenze e mezzi di produzione; le osservazioni sul risultato migliorano il lavoro successivo.",
+      "Un museo con tre illustrazioni può formare un animatic; un laboratorio con riprese disponibili può montarle; una nuova scena richiede asset e un mondo modificabile. Il soggetto e i materiali guidano la scelta del mezzo.",
+      "Nel percorso da un riferimento generato a una scena in codice, l’immagine A viene prodotta e osservata prima di costruire B. L’esempio Python incluso illustra il rendering da un’immagine esistente. Montaggio, modelli 3D e altri mezzi vengono usati attraverso gli strumenti reali del tuo ambiente."
     ],
     "method": [
       {
@@ -108,8 +116,12 @@
         "body": "Recupera intento, significato, soggetto e distinzione fra evento osservato, ricostruzione, fiction e possibilità. Forma la domanda visiva da quel sapere. La fonte può cambiare geometria e grammatica temporale: diagramma o moto di camera ereditati non definiscono il soggetto."
       },
       {
-        "title": "Generare e osservare l’immagine A",
-        "body": "Usa un generatore reale e osserva il risultato. Riconosci proprietà visive utili e gerarchie o causalità inventate. L’osservazione può riformare istruzioni e comprensione. A è un’immagine generata effettiva; il primo frame renderizzato in codice ha un’altra funzione."
+        "title": "Scegliere il percorso dai materiali e dall’intento",
+        "body": "Comprendi che cosa deve diventare percepibile e quali materiali esistono. Una scena nuova richiede asset modificabili; un animatic organizza immagini nel tempo; un montaggio lavora su clip esistenti. Un’opera può comporre più mezzi. L’AI conduce le scelte tecniche ordinarie con gli strumenti disponibili e rende riconoscibile un materiale o una capacità ancora necessari."
+      },
+      {
+        "title": "Nuova scena: generare e osservare A",
+        "body": "Nel percorso da un nuovo riferimento generato alla scena in codice, usa un generatore reale e osserva il risultato. Riconosci proprietà visive utili e gerarchie o causalità inventate. L’osservazione può riformare istruzioni e comprensione. A è un’immagine generata effettiva; il primo frame renderizzato in codice ha un’altra funzione."
       },
       {
         "title": "Costruire la scena modificabile B",
@@ -122,6 +134,10 @@
       {
         "title": "Usare tempo esplicito e osservare il risultato",
         "body": "Scegli cambiamenti significativi, identità persistente, durata ed esportazione reale. Un frame(t) esplorabile rende riproducibile l’osservazione; l’aggiornamento in tempo reale ha un altro contratto. Guarda primo frame, momenti significativi e film codificato. L’ordine apparente conserva il nesso sorgente. Lo streaming limita la RAM, con funzione distinta dalla generazione di A."
+      },
+      {
+        "title": "Condurre il lavoro e correggere il risultato",
+        "body": "Conserva intento, materiali correnti e risultato richiesto mentre scrittura, regia, interpretazione e montaggio si richiamano per ciò che cambia il film. Produci una versione concreta, osservala e correggi il punto che ne cambia il significato. Un esecutore di render o montaggio realizza operazioni; la comprensione del film resta nel lavoro dell’AI e delle competenze coinvolte. Un’attività oltre il turno richiede un processo realmente configurato."
       },
       {
         "title": "Restituire il sapere alla capacità pertinente",
@@ -151,15 +167,15 @@
     ],
     "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md",
     "reader_context": {
-      "title": "Animare il soggetto di una reference",
-      "situation": "Hai un’illustrazione generata e vuoi vedere il personaggio muoversi nel suo ambiente. Il lavoro consiste nel rendere animabili le parti necessarie e nel costruire una scena che conservi quel soggetto.",
-      "point": "Generare il riferimento, costruire gli elementi animabili e scegliere cosa cambia nel tempo sono lavori collegati. Sovrapporre un diagramma alla figura produce un effetto diverso dall’animarne il soggetto."
+      "title": "Un museo ha immagini, riprese e una storia da raccontare",
+      "situation": "Un museo prepara una breve spiegazione per i visitatori. Può avere tre illustrazioni, riprese già realizzate oppure un oggetto che deve essere ricostruito e animato. Questi materiali richiedono lavori diversi.",
+      "point": "Prima si comprende ciò che il pubblico deve vedere; da lì si sceglie come produrlo. Animatic, montaggio e scena modificabile sono possibilità componibili, ciascuna con i propri materiali e strumenti."
     },
     "adaptation": {
       "title": "Adattare il metodo al tuo contesto",
       "paragraphs": [
-        "Un laboratorio racconta un processo, un museo rende visibile una trasformazione, un autore anima una scena inventata. Si conserva il rapporto fra soggetto, riferimento visivo generato e osservato, scena modificabile e cambiamento nel tempo. Cambiano fonti, pubblico, stile e mezzi di produzione.",
-        "Porta il soggetto, ciò che deve diventare comprensibile e i materiali disponibili. Le fonti determinano le relazioni da conservare; il movimento determina quali parti costruire. MKCV — Mini Kernel Code Video — è beta, in apprendimento: il film risultante permette di migliorare sia la scena sia il metodo che formerà il film successivo."
+        "Un laboratorio spiega una procedura, un museo racconta una trasformazione, un autore forma una scena inventata. Si conserva il rapporto fra soggetto, materiali, mezzo e cambiamento compreso dal pubblico. Cambiano fonti, stile, durata e strumenti; il metodo parte da ciò che il progetto possiede e deve rendere possibile.",
+        "Porta alla tua AI il soggetto, il pubblico, i materiali e il risultato richiesto. Falle condurre la produzione attraverso il mezzo pertinente e osservare ciò che produce. Nella ricostruzione da un riferimento conserva identità e camera; nel montaggio conserva i nessi delle fonti. MKCV resta beta: il lavoro e le correzioni fanno evolvere il metodo."
       ]
     },
     "status": {
@@ -170,7 +186,7 @@
   "showcase": {
     "type": "timelapse",
     "en": {
-      "title": "Different origins, one coherent film",
+      "title": "A new scene from the generated reference",
       "states": [
         [
           "Reference A",
@@ -190,7 +206,7 @@
       ]
     },
     "it": {
-      "title": "Origini diverse, un film coerente",
+      "title": "Una nuova scena dal riferimento generato",
       "states": [
         [
           "Reference A",
