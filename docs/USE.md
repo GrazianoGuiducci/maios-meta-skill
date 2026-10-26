@@ -114,3 +114,10 @@ Keep the contribution in the project’s own source and make it reachable throug
 Use the environment's actual controller to create or update an entrusted activity. Recover an existing job when it has the same mandate. Read back identity, saved instructions, cadence or event, timezone and destination. A configured job and an observed future execution remain different facts.
 
 When no controller is available, the assistant can prepare the activity and perform feasible work during the present session. Recurrence becomes actual when a real mechanism activates it. Local and web environments can differ in file access and availability; follow their current contracts for the selected setup.
+
+
+## Operating knowledge and tools
+
+Each kit includes OPERATING_GUIDE.md and its Italian counterpart. The starter carries the method, this knowledge and developed examples. Where the native function supplies a runtime tool, its source is included in the folder and starter too. A chat without execution can reason with the method and prepare work; execution uses the host's actual Python, Git or other means. Follow the selected guide for inputs, command use and meaningful tests. No credentials or private node state are supplied.
+
+Operating folders use native entry names. Stable resource IDs still identify website routes; docs/IDENTITIES.json maps those coordinates. Former distribution folders link to current kits.

@@ -107,3 +107,19 @@ Prima di integrare, confronta funzione, responsabile, metodo e sapere già acqui
 | MPC | Conoscenza del progetto e sue sorgenti | Presentare l’oggetto effettivo, senza attribuirgli tutte le proprietà MAIOS |
 
 Mantieni il contributo nella sede del progetto e rendilo raggiungibile dall’ingresso nativo dell’host. Un nuovo kit non sovrascrive l’apprendimento della copia installata. Compatibilità dichiarata, installazione, discovery, esercizio e uso successivo mantengono le proprie osservazioni; questa guida non attesta l’integrazione in ogni host.
+
+
+## Quando serve una ricorrenza
+
+Chiedi di creare o aggiornare l'attività con il controller disponibile nell'ambiente. Il risultato deve identificare il job reale e la configurazione salvata: intento, istruzioni, cadenza o evento, fuso e destinazione.
+
+La [documentazione delle attività programmate OpenAI](https://learn.chatgpt.com/docs/automations) distingue gli ambienti con file locali dalle attività web. Gli accessi dipendono dalla configurazione effettiva; il testo della competenza non li crea. Un'attività locale richiede che il computer e l'app restino disponibili.
+
+Se manca il controller, l'AI può preparare l'incarico e svolgere il lavoro consentito nella sessione corrente. La ricorrenza sarà effettiva quando un mezzo reale la attiverà.
+
+
+## Sapere operativo e strumenti
+
+Ogni kit include GUIDA_OPERATIVA_IT.md e il corrispondente inglese. L'avvio porta metodo, sapere ed esempi articolati. Quando la funzione nativa fornisce un tool runtime, le sorgenti sono incluse nella cartella e nell'avvio. Una chat senza esecuzione può usare il metodo e preparare lavoro; l'esecuzione impiega Python, Git o altri mezzi reali dell'host. La guida selezionata spiega ingressi, comandi e test significativi. Non vengono fornite credenziali o stato privato dei nodi.
+
+Le cartelle usano le entry native. Gli identificatori delle risorse continuano a individuare le rotte del sito; docs/IDENTITIES.json collega queste coordinate. Le precedenti cartelle rimandano ai kit correnti.
