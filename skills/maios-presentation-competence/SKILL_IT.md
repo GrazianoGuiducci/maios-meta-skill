@@ -25,7 +25,7 @@ Porta documenti, capacità effettive e un caso d’uso del sistema da presentare
 
 ## Recuperare il sistema oltre l’ultimo artefatto
 
-Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
+Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
 
 ## Formare l’incontro con il destinatario
 
