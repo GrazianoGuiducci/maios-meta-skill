@@ -27,27 +27,23 @@ Start with shared intent, participants’ materials and the differences still op
 
 Understand what people are trying to make possible and which knowledge already carries the ability to do it. Recover source reasons, participants, existing work and available means before deciding that the answer is a platform or agent hierarchy. Let unexpected source relations change the question. A chosen form remains valid when the field actually supports it.
 
-
 ## Form the competence that can continue
 
 When the work needs a recurring transformation, give its project a competent entry: meaningful knowledge, decision method, current continuation and a way to learn from consequences. Reuse or compose an existing competence where it can do the work. The seed can already be a valuable project result; it need not imitate a predetermined application.
-
 
 ## Form cooperation together with its conditions
 
 Recognize how contributions can meet without losing their source or responsibilities. A participant’s new ability can change the shared question but does not silently expand its mandate. Knowledge ownership, recoverable reasons and actual coordination may themselves become part of the solution. Let the case determine their form instead of imposing a universal protocol.
 
-
 ## Incarnate through the recipient’s real means
 
 A useful result may be a project competence, a kernel, a service or an application. Transfer the knowledge and method the recipient needs to operate and continue it. Private source links alone do not provide that knowledge. Compose the technical or scientific owner for real construction and the resource owner for enabling conditions; their results keep their own identity.
-
 
 ## Let the work evolve the generator
 
 When a consequence changes how cooperation can be formed, return the reusable difference to this generative method and the relevant domain competence. Preserve the event and the understanding it changed. A further case should benefit from that learning while remaining free to produce another form. Stop generating new wrappers when an existing capability is sufficient to act.
 
-## Continue through the actual project
+## Continue in the project
 
 Keep project-specific knowledge with the project; preserve reusable formation knowledge in this method.
 
@@ -55,4 +51,4 @@ A valid new result can change participants, question, medium or method without l
 
 ## Operating knowledge
 
-Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+Read OPERATING_GUIDE.md and EXAMPLES.md. Without file access use the complete START_CHAT_EN.txt. Compose pertinent local methods; tools, persistence and authority remain those actually available.

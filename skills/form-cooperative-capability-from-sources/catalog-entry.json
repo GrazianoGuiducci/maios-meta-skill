@@ -1,7 +1,7 @@
 {
   "id": "formare-capacita-cooperative",
   "name": "Form Cooperative Capability from Sources",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "35",
@@ -35,10 +35,10 @@
   "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
   "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
   "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-  "package": "dist/form-cooperative-capability-from-sources-0.1.2.zip",
+  "package": "dist/form-cooperative-capability-from-sources-0.1.3.zip",
   "en": {
-    "title": "Develop cooperation between people and AI assistants",
-    "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
+    "title": "Form cooperative capabilities across people and AI systems",
+    "subtitle": "Participants’ sources and intent form the knowledge for working together and evolving the method.",
     "kind": "Generative metacompetence",
     "domain": "Cooperation and system formation",
     "does": "Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.",
@@ -49,11 +49,11 @@
       "Volunteers and assistants prepare a cultural programme"
     ],
     "route": "/resources/formare-capacita-cooperative/",
-    "description": "Connect contributions and responsibilities and form the project capability that lets the group continue."
+    "description": "Participants’ sources and intent form the knowledge for working together and evolving the method."
   },
   "it": {
-    "title": "Sviluppare la cooperazione fra persone e assistenti AI",
-    "subtitle": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.",
+    "title": "Formare capacità cooperative fra persone e sistemi AI",
+    "subtitle": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo.",
     "kind": "Metacompetenza generativa",
     "domain": "Cooperazione e formazione di sistemi",
     "does": "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.",
@@ -64,6 +64,6 @@
       "Volontari e assistenti preparano una rassegna culturale"
     ],
     "route": "/risorse/formare-capacita-cooperative/",
-    "description": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare."
+    "description": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo."
   }
 }

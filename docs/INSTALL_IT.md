@@ -4,7 +4,7 @@
 
 Ogni risorsa è una cartella Agent Skills completa. Scegli la capacità utile:
 la cartella con il nome tecnico contiene `SKILL.md` e il sapere di supporto.
-Non occorre installare le altre 24 risorse.
+Puoi installare una skill, più kit selezionati o l’intera raccolta. Le altre risorse non sono prerequisiti.
 
 ## Dal kit scaricato
 
@@ -75,3 +75,6 @@ loro istruzioni. Lo ZIP è un kit di skill: non configura un plugin o un
 servizio autenticato.
 
 Riferimento: [documentazione OpenAI sulle skill](https://learn.chatgpt.com/docs/build-skills).
+
+
+[Comporre il sistema del progetto e integrare MPK facoltativamente](USO.md): ingresso, fonti, guide, confronto funzionale e conservazione del sapere locale.

@@ -1,19 +1,20 @@
 {
   "en": {
-    "title": "Turn principles and corrections into AI capabilities",
-    "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
+    "title": "From principles to abilities that evolve through work",
+    "subtitle": "Intent, discoveries and corrections change the relevant competence’s method during work.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
-    "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-    "when": "When a principle, an intent or a correction should change how your AI works.",
+    "does": "Makes a principle operative in the relevant competence and situated ability, from intent, discovery, observation or correction.",
+    "when": "When your AI needs to use the reason behind a contribution to work differently in new situations.",
     "intro": [
+      "An intent, principle or discovery changes what your AI observes, chooses and builds. The competence and assignment participate in the same work; experience can also change how later capabilities are formed.",
       "A source can contain a principle, a local preference, a question or a fact about one project. Understanding the difference preserves the author’s direction while allowing useful knowledge to travel.",
       "Onto-Skill connects source meaning to a concrete consumer: the competence whose observation, choice or action should change. A recorded sentence becomes useful through that relationship."
     ],
     "examples": [
-      "A correction that improves quotations",
-      "A local preference remains local",
-      "An educational principle forms a new way of helping"
+      "An educational principle forms a new way of helping",
+      "A discovery changes how requests are handled",
+      "A correction that improves quotations"
     ],
     "method": [
       {
@@ -45,20 +46,40 @@
       {
         "title": "The useful continuation",
         "body": "Keep enough to recover source, reason, scope, responsible competence and the choice that should differ. Use an existing guide or knowledge owner. A catalogue of every statement loses the causal relation. If the host cannot save a change, produce a small attributed proposal for the person or receiver that can; a proposed update and a saved update retain separate states."
+      },
+      {
+        "title": "Let intent and discovery change work as it forms",
+        "body": "An educational intention, a successful example or an unexpected relationship can make a principle pertinent before any error. Understand the source while carrying out the actual assignment. The principle changes which sources, questions and competences participate; it does not suspend the task for a separate approval ritual. A useful outcome may deepen an existing capability, change the question or require no new skill."
+      },
+      {
+        "title": "Find the decision that should differ in another case",
+        "body": "Name the condition that changes the choice, the competence responsible for it and the reason it matters. Compare a different case in which that condition is absent: preserve the appropriate different action. If existing knowledge already makes that distinction, restore its participation rather than creating another rule. A principle can have several consumers without imposing one identical change on them."
+      },
+      {
+        "title": "Preserve the useful scope of a local preference",
+        "body": "A one-page board brief suited one encounter. Applying that page limit to a technical recovery guide loses the steps needed to continue. Preserve the original preference and its situation, then let communication and recovery methods carry their own useful forms. The transferable relation concerns what the recipient needs to decide or continue, not a universal page count."
+      },
+      {
+        "title": "Connect method, means and durable continuation",
+        "body": "Change the responsible competence’s actual source-selection or decision method and preserve the reason in its existing guide. In a file-capable project, save only the authorized local delta; in a chat, return the precise change for the person to retain. Tools, access and authority determine which ability is exercisable. Neither writing an instruction nor drawing an evolving skill changes model weights or configures a persistent service."
+      },
+      {
+        "title": "Let the result change how principles are formed",
+        "body": "If a principle suppresses a difference that matters in a later case, recover the source and understand why the generalization was too broad. Refine both the domain method and Onto-Skill’s way of recognizing transferable conditions when both need to act differently. Preserve what happened, what was understood then and the changed understanding. A later non-identical use can show how that learning continues."
       }
     ],
     "worked_examples": [
       {
-        "title": "A correction that improves quotations",
-        "body": "A studio rejects an AI quotation because the assistant removed the reasons behind two unusual costs. “Keep the reasons for an exception” carries more than a request for a longer document. Recover the original correction and distinguish it from a rule to explain every line item. The quotation competence learns to recognize a departure that could change a client’s decision and keeps its cause beside the amount. In a later small quotation with ordinary costs, the method stays concise. The transferable result is a better discrimination of consequential exceptions."
-      },
-      {
-        "title": "A local preference remains local",
-        "body": "An operator asks for a one-page board brief. A later assistant treats one page as a universal limit and truncates a technical recovery guide. Return to the original situation: the board’s reading conditions justified brevity there. The principle is to preserve what the recipient needs to decide or continue, in an appropriate form. Board communication and technical recovery receive different methods. The old instruction retains its attribution while its mistaken universal extension is removed."
-      },
-      {
         "title": "An educational principle forms a new way of helping",
         "body": "A teacher wants AI to help students explain their reasoning. The principle guides the formation of the teaching competence: when facing a problem, the assistant understands the student’s attempt and chooses a question that helps them continue. A direct explanation remains pertinent when a concept needs clarification. The capability grows from educational intent and changes with age, subject and difficulty encountered; the principle retains its reason."
+      },
+      {
+        "title": "A discovery changes how requests are handled",
+        "body": "A group handles support requests with AI. Two similar reports need different responses because one device is still covered by support and the other is not. The transferable distinction is to understand the condition that changes a decision before reusing an answer. The request-handling competence connects origin, conditions and choice. In a later case with different symptoms but the same condition, it recognizes the useful relationship; service authority stays with its responsible people. This learning can also refine how Onto-Skill looks for generalizable conditions."
+      },
+      {
+        "title": "A correction that improves quotations",
+        "body": "A studio rejects an AI quotation because the assistant removed the reasons behind two unusual costs. “Keep the reasons for an exception” carries more than a request for a longer document. Recover the original correction and distinguish it from a rule to explain every line item. The quotation competence learns to recognize a departure that could change a client’s decision and keeps its cause beside the amount. In a later small quotation with ordinary costs, the method stays concise. The transferable result is a better discrimination of consequential exceptions."
       }
     ],
     "depth": {
@@ -87,9 +108,9 @@
     ],
     "operating_guide": "skills/onto-skill/OPERATING_GUIDE.md",
     "reader_context": {
-      "title": "A correction that changes later quotations",
-      "situation": "A studio corrects an AI quotation because the reasons behind two unusual costs are missing. It wants those reasons to remain understandable in later work.",
-      "point": "The useful principle concerns exceptions that change a decision. The quotation-writing competence needs to recognize them and preserve their reasons without making every line longer."
+      "title": "An educational intent forms a way to help",
+      "situation": "A teacher wants students to learn to explain their reasoning. She gives her AI a problem and the student’s attempt.",
+      "point": "The intent changes the choice of help: a question, example or explanation according to the actual attempt. With another subject or difficulty, the competence preserves the reason and adapts its method."
     },
     "adaptation": {
       "title": "Adapt the method to your context",
@@ -97,23 +118,45 @@
         "In a professional practice the principle may concern the reasons behind a quotation; in education, how to help a student reason; in a newsroom, the distinction between a source and its interpretation. Preserve the relationship between principle, reason and practical choice. The work, recipient and conditions that make the choice relevant change.",
         "Give your AI the original principle or contribution, a sample of the work and what you want to make possible. Ask it to identify the competence that needs to change and how the principle guides a different situation. A preference formed for one occasion retains that scope."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Use this competence",
+        "body": "Bring the complete starter to your chat or use the kit in a project with a real assignment, sources and means.",
+        "label": "First use and download",
+        "href": "#start"
+      },
+      {
+        "title": "Compose public competences",
+        "body": "Choose useful capabilities from the collection. You can make the full collection available: the project entry reaches it according to the actual work.",
+        "label": "Use and compose the collection",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md"
+      },
+      {
+        "title": "Integrate with MAIOS Project Kernel",
+        "body": "MPK 5.1.0 is an optional, separate product. Compare existing function, responsible owner and method; preserve local learning and connect complementary knowledge.",
+        "label": "Explore MPK and its installation",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "This metacompetence brings a principle into practical capability. The relationship is autological when it refines how it recognizes and forms principles."
   },
   "it": {
-    "title": "Trasformare principi e correzioni in capacità dell’AI",
-    "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
+    "title": "Dai principi alle abilità che evolvono nel lavoro",
+    "subtitle": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
-    "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-    "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
+    "does": "Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione.",
+    "when": "Quando la tua AI deve usare la ragione di un contributo per lavorare diversamente in situazioni nuove.",
     "intro": [
+      "Un’intenzione, un principio o una scoperta cambiano ciò che la tua AI osserva, sceglie e costruisce. La competenza e l’incarico partecipano allo stesso lavoro; l’esperienza può cambiare anche come si formano le capacità successive.",
       "Una fonte può portare un principio, una preferenza locale, una domanda o un fatto di progetto. Comprendere la differenza conserva la direzione dell’autore e permette al sapere utile di continuare.",
       "Onto-Skill collega il significato sorgente a un destinatario concreto: la competenza di cui devono cambiare osservazione, scelta o azione. Una frase conservata diventa utile attraverso questo rapporto."
     ],
     "examples": [
-      "Una correzione che migliora i preventivi",
-      "Una preferenza locale resta locale",
-      "Un principio didattico forma un nuovo modo di aiutare"
+      "Un principio didattico forma un nuovo modo di aiutare",
+      "Una scoperta cambia la gestione delle richieste",
+      "Una correzione che migliora i preventivi"
     ],
     "method": [
       {
@@ -145,20 +188,40 @@
       {
         "title": "La continuazione utile",
         "body": "Conserva fonte, ragione, ambito, competenza responsabile e scelta che deve cambiare. Usa la guida o la sede di sapere già pertinente. Catalogare ogni frase perde il rapporto causale. Se il ricevente non può salvare, restituisci una proposta breve e attribuita a chi può farlo; proposta e aggiornamento persistito conservano stati distinti."
+      },
+      {
+        "title": "Far agire intento e scoperta mentre il lavoro si forma",
+        "body": "Un intento didattico, un esempio riuscito o una relazione inattesa rendono pertinente un principio anche prima di un errore. Comprendi la fonte mentre svolgi l’incarico reale. Il principio cambia fonti, domande e competenze partecipanti; non sospende il lavoro per un’approvazione separata. Un esito utile può approfondire una capacità esistente, cambiare la domanda o non richiedere una nuova skill."
+      },
+      {
+        "title": "Riconoscere la scelta che deve cambiare in un altro caso",
+        "body": "Individua la condizione che cambia una scelta, la competenza responsabile e la ragione. Confronta un caso diverso in cui quella condizione manca, conservando la diversa azione appropriata. Se il sapere già presente riconosce la distinzione, ripristinane la partecipazione anziché creare un’altra regola. Un principio può avere più destinatari senza imporre loro una modifica identica."
+      },
+      {
+        "title": "Conservare la portata utile di una preferenza locale",
+        "body": "Una relazione di una pagina per il consiglio serviva quell’incontro. Applicare lo stesso limite a una guida di ripristino fa perdere i passaggi necessari. Conserva preferenza e situazione originali; comunicazione e ripristino mantengono le rispettive forme utili. La relazione trasferibile riguarda ciò che serve al destinatario per decidere o proseguire, non un numero universale di pagine."
+      },
+      {
+        "title": "Collegare metodo, mezzi e continuazione durevole",
+        "body": "Cambia il metodo effettivo di scelta delle fonti o delle azioni nella competenza responsabile e conserva la ragione nella sua guida. In un progetto con file salva il delta locale autorizzato; in chat restituisci la modifica precisa che la persona conserverà. Mezzi, accessi e autorità determinano l’abilità esercitabile. Scrivere un’istruzione o disegnare una skill che evolve non cambia i pesi del modello né configura un servizio persistente."
+      },
+      {
+        "title": "Lasciare che il risultato cambi come si formano i principi",
+        "body": "Se un principio cancella una differenza importante in un altro caso, recupera la fonte e comprendi perché la generalizzazione era troppo ampia. Affina il metodo di dominio e il modo di Onto-Skill di riconoscere condizioni trasferibili quando entrambi devono cambiare. Conserva accaduto, comprensione di allora e comprensione attuale. L’uso successivo non identico può mostrare come continua il sapere."
       }
     ],
     "worked_examples": [
       {
-        "title": "Una correzione che migliora i preventivi",
-        "body": "Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due costi insoliti. «Conserva la ragione di un’eccezione» porta più della richiesta di allungare il testo. Recupera la correzione originale e distinguila dall’obbligo di spiegare ogni riga. La competenza preventivi impara a riconoscere lo scostamento che cambia una decisione e conserva la causa vicino all’importo. Nel successivo preventivo semplice resta concisa. Il risultato trasferibile è una migliore discriminazione delle eccezioni rilevanti."
-      },
-      {
-        "title": "Una preferenza locale resta locale",
-        "body": "Un operatore chiede una pagina per il consiglio direttivo. Un assistente successivo ne fa un limite universale e tronca la guida di ripristino. Risali alla situazione originale: le condizioni di lettura del consiglio giustificavano lì la brevità. Il principio è conservare ciò che serve al destinatario per decidere o continuare, nella forma pertinente. Comunicazione al consiglio e ripristino tecnico ricevono metodi diversi. L’istruzione conserva la propria attribuzione; si corregge la sua estensione impropria."
-      },
-      {
         "title": "Un principio didattico forma un nuovo modo di aiutare",
         "body": "Una docente vuole che l’AI aiuti gli studenti a spiegare il proprio ragionamento. Il principio guida la formazione della competenza didattica: di fronte a un problema, l’assistente comprende il tentativo dello studente e sceglie una domanda che gli permetta di proseguire. Una spiegazione diretta resta pertinente quando serve a chiarire un concetto. La capacità nasce dall’intento didattico e cambia con età, materia e difficoltà incontrata; il principio conserva la propria ragione."
+      },
+      {
+        "title": "Una scoperta cambia la gestione delle richieste",
+        "body": "Un gruppo tratta richieste di assistenza con l’AI. Due segnalazioni simili richiedono risposte diverse perché una riguarda un dispositivo ancora coperto dall’assistenza e l’altra no. La distinzione trasferibile è comprendere la condizione che cambia la decisione prima di riusare una risposta. La competenza di trattamento collega origine, condizioni e scelta. In un caso successivo con sintomi diversi ma la stessa condizione, riconosce il rapporto utile; le autorizzazioni del servizio restano ai responsabili. Il sapere acquisito può affinare anche come Onto-Skill cerca condizioni generalizzabili."
+      },
+      {
+        "title": "Una correzione che migliora i preventivi",
+        "body": "Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due costi insoliti. «Conserva la ragione di un’eccezione» porta più della richiesta di allungare il testo. Recupera la correzione originale e distinguila dall’obbligo di spiegare ogni riga. La competenza preventivi impara a riconoscere lo scostamento che cambia una decisione e conserva la causa vicino all’importo. Nel successivo preventivo semplice resta concisa. Il risultato trasferibile è una migliore discriminazione delle eccezioni rilevanti."
       }
     ],
     "depth": {
@@ -187,9 +250,9 @@
     ],
     "operating_guide": "skills/onto-skill/GUIDA_OPERATIVA_IT.md",
     "reader_context": {
-      "title": "Una correzione che cambia i preventivi successivi",
-      "situation": "Uno studio corregge un preventivo dell’AI: mancano le ragioni di due costi insoliti. Vuole che quelle ragioni restino comprensibili anche nel lavoro successivo.",
-      "point": "Il principio utile riguarda le eccezioni che cambiano una decisione. La competenza che prepara i preventivi deve imparare a riconoscerle, conservandone la ragione senza allungare ogni voce."
+      "title": "Un intento didattico forma un modo di aiutare",
+      "situation": "Una docente vuole che gli studenti imparino a spiegare il ragionamento. Affida alla propria AI un problema e il tentativo dello studente.",
+      "point": "L’intento cambia la scelta dell’aiuto: domanda, esempio o spiegazione secondo il tentativo reale. Con un’altra materia o difficoltà, la competenza conserva la ragione e adatta il metodo."
     },
     "adaptation": {
       "title": "Adattare il metodo al tuo contesto",
@@ -197,49 +260,102 @@
         "In uno studio professionale il principio può riguardare le ragioni di un preventivo; nella formazione, il modo di aiutare uno studente a ragionare; in una redazione, la distinzione fra fonte e interpretazione. Si conserva il rapporto fra principio, ragione e scelta concreta. Cambiano il lavoro, il destinatario e le condizioni che rendono pertinente quella scelta.",
         "Porta alla tua AI il principio o il contributo originale, un esempio del lavoro e ciò che vuoi rendere possibile. Falle individuare quale competenza deve cambiare e come il principio guida una situazione diversa. Una preferenza nata per una sola occasione conserva quella portata."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Usa questa competenza",
+        "body": "Porta l’avvio completo nella tua chat o usa il kit nel progetto con incarico, fonti e mezzi reali.",
+        "label": "Primo uso e download",
+        "href": "#start"
+      },
+      {
+        "title": "Componi le competenze pubbliche",
+        "body": "Scegli le capacità utili dalla raccolta. Puoi rendere disponibili anche tutte le risorse: l’ingresso del progetto le raggiunge secondo il lavoro.",
+        "label": "Uso e composizione della raccolta",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md"
+      },
+      {
+        "title": "Integra con MAIOS Project Kernel",
+        "body": "MPK 5.1.0 è un prodotto facoltativo e distinto. Confronta funzione, responsabile e metodo già presenti; conserva il sapere locale e collega il contributo complementare.",
+        "label": "Conoscere MPK e la sua installazione",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "Questa metacompetenza rende operante una relazione di principio nel saper fare. Il rapporto è autologico quando affina il proprio modo di riconoscere e formare principi."
   },
   "showcase": {
     "type": "principle",
     "en": {
-      "title": "From a corrected quotation to a better quotation method",
+      "title": "Intent, discovery or correction in the same work",
       "states": [
+        [
+          "Intent",
+          "Help someone understand",
+          "Source: the teacher’s intent. Competence: educational assistance. Choice: a question, example or explanation from the actual attempt. In another subject it preserves the reason and changes the help."
+        ],
+        [
+          "Discovery",
+          "Understand the condition that changes a response",
+          "Source: similar requests with different support coverage. Competence: request handling. Choice: connect conditions and decision. With different symptoms it recognizes the same useful relationship."
+        ],
         [
           "Correction",
-          "Two unusual costs without reasons",
-          "The studio asks to preserve the reasons for consequential exceptions."
-        ],
-        [
-          "Principle",
-          "Keep what changes the decision",
-          "The method recognizes which exceptions need an explanation."
-        ],
-        [
-          "Ability",
-          "The next quotation changes",
-          "The AI explains the unusual cost and keeps ordinary items concise."
+          "Preserve reasons for an exception",
+          "Source: missing reasons in a quotation. Competence: quotation writing. Choice: explain consequential departures. In an ordinary quotation it stays concise."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Source",
+          "Principle",
+          "Competence",
+          "New case"
+        ],
+        "relations": [
+          "makes pertinent",
+          "changes method",
+          "guides choice",
+          "refines principle"
+        ],
+        "description": "Relationships in the same illustrative case, with no mandatory order. Source: the teacher’s intent. Competence: educational assistance. Choice: a question, example or explanation from the actual attempt. In another subject it preserves the reason and changes the help. Source: similar requests with different support coverage. Competence: request handling. Choice: connect conditions and decision. With different symptoms it recognizes the same useful relationship. Source: missing reasons in a quotation. Competence: quotation writing. Choice: explain consequential departures. In an ordinary quotation it stays concise."
+      },
+      "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
     "it": {
-      "title": "Dal preventivo corretto al metodo dei prossimi preventivi",
+      "title": "Intento, scoperta o correzione nello stesso lavoro",
       "states": [
         [
+          "Intento",
+          "Aiutare a comprendere",
+          "Fonte: intento della docente. Competenza: assistenza didattica. Scelta: domanda, esempio o spiegazione dal tentativo reale. In un’altra materia conserva la ragione, cambiando l’aiuto."
+        ],
+        [
+          "Scoperta",
+          "Capire la condizione che cambia una risposta",
+          "Fonte: due richieste simili con coperture diverse. Competenza: trattamento delle richieste. Scelta: collegare condizioni e decisione. Con sintomi diversi riconosce lo stesso nesso utile."
+        ],
+        [
           "Correzione",
-          "Due costi insoliti senza ragione",
-          "Lo studio chiede di conservare le ragioni delle eccezioni rilevanti."
-        ],
-        [
-          "Principio",
-          "Conservare ciò che cambia la decisione",
-          "Il metodo riconosce quali eccezioni richiedono una spiegazione."
-        ],
-        [
-          "Abilità",
-          "Il prossimo preventivo cambia",
-          "L’AI spiega il costo insolito e mantiene concise le voci ordinarie."
+          "Conservare le ragioni di un’eccezione",
+          "Fonte: ragioni mancanti nel preventivo. Competenza: redazione dei preventivi. Scelta: spiegare gli scostamenti rilevanti. Nel preventivo ordinario mantiene la concisione."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Fonte",
+          "Principio",
+          "Competenza",
+          "Nuovo caso"
+        ],
+        "relations": [
+          "rende pertinente",
+          "cambia il metodo",
+          "orienta la scelta",
+          "affina il principio"
+        ],
+        "description": "Relazioni dello stesso caso illustrativo, senza ordine obbligatorio. Fonte: intento della docente. Competenza: assistenza didattica. Scelta: domanda, esempio o spiegazione dal tentativo reale. In un’altra materia conserva la ragione, cambiando l’aiuto. Fonte: due richieste simili con coperture diverse. Competenza: trattamento delle richieste. Scelta: collegare condizioni e decisione. Con sintomi diversi riconosce lo stesso nesso utile. Fonte: ragioni mancanti nel preventivo. Competenza: redazione dei preventivi. Scelta: spiegare gli scostamenti rilevanti. Nel preventivo ordinario mantiene la concisione."
+      },
+      "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }
   },
   "related": [

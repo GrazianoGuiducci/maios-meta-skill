@@ -1,7 +1,7 @@
 {
   "en": {
-    "title": "Develop cooperation between people and AI assistants",
-    "subtitle": "Connect contributions and responsibilities and form the project capability that lets the group continue.",
+    "title": "Form cooperative capabilities across people and AI systems",
+    "subtitle": "Participants’ sources and intent form the knowledge for working together and evolving the method.",
     "kind": "Generative metacompetence",
     "domain": "Cooperation and system formation",
     "does": "Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.",
@@ -45,12 +45,28 @@
       {
         "title": "Complementary knowledge remains distinct",
         "body": "A domain specialist understands its real object; a project competence preserves shared reasons; a coordinator carries the next contribution; economic competence handles resources and agreements. Their relationship can change during work. Common vocabulary does not merge owners, and agreement among copies of one account is not independent corroboration. New knowledge should reach the participant who must make a different choice."
+      },
+      {
+        "title": "Find the knowledge that can form cooperation",
+        "body": "Read what each participant contributes, why it matters and what remains uncertain. Follow a disagreement to the source conditions that make the interpretations different. Sources can change the shared question before a platform or deliverable is chosen. A refusal can preserve a real limit of participation or reveal a useful alternative. Shared understanding does not require every participant to adopt one account."
+      },
+      {
+        "title": "Reuse a capability before forming a duplicate",
+        "body": "Inspect existing project methods by function, responsible owner and practical decisions, including supporting guides. If knowledge exists but was not reached, reconnect its entry. Deepen an existing method when its operating knowledge is incomplete. Form a continuing project competence when the work needs a distinct capability and continuation. A coordination tool implements an actual handoff; it does not own the scientific question or make participants subordinate."
+      },
+      {
+        "title": "Distinguish contribution and authority in the same work",
+        "body": "An assistant can compare supplied materials and prepare a shared question without permission to contact another participant, move their data or execute work in their account. Retain source and mandate with each contribution. The actual controller governs the exact external action when it emerges. With no agents or file access, use the method in the present conversation and return the useful continuation to someone who can preserve it."
+      },
+      {
+        "title": "Return learning to the project and to its generator",
+        "body": "Keep experimental facts, participants’ decisions and the open inquiry with the research project. If the event teaches how to recognize a productive disagreement, improve this cooperation-formation method too: next time it asks which conditions differ before enforcing a synthesis. A different later case can refine that discrimination. The record of a change and its later use are different observations."
       }
     ],
     "worked_examples": [
       {
         "title": "A shared research group keeps its different voices",
-        "body": "Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions."
+        "body": "Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions. Two groups bring experimental observations and models. A new observation changes an earlier interpretation: the project retains attributed accounts and forms the ability to ask which conditions distinguish them. Disagreement opens a better question. The project keeps the experimental fact; the generator learns to recognize a productive difference before enforcing synthesis. Later work can change question and participants without imposing a platform or central authority."
       },
       {
         "title": "Maintenance knowledge becomes a cooperative capability",
@@ -97,11 +113,32 @@
         "A research group connects hypotheses and sources; a maintenance team relates observations to design changes; an association prepares an initiative with different volunteers and assistants. Preserve the ability to connect attributed contributions and form new shared knowledge. Participants, responsibilities and the places where knowledge continues change.",
         "Start with shared intent, participants’ materials and the differences still open. The first result may be a collaboration method, a guide or a project kernel. Its form emerges from the work: a shared platform becomes useful when it enables that cooperation."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Use this competence",
+        "body": "Bring the complete starter to your chat or use the kit in a project with a real assignment, sources and means.",
+        "label": "First use and download",
+        "href": "#start"
+      },
+      {
+        "title": "Compose public competences",
+        "body": "Choose useful capabilities from the collection. You can make the full collection available: the project entry reaches it according to the actual work.",
+        "label": "Use and compose the collection",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md"
+      },
+      {
+        "title": "Integrate with MAIOS Project Kernel",
+        "body": "MPK 5.1.0 is an optional, separate product. Compare existing function, responsible owner and method; preserve local learning and connect complementary knowledge.",
+        "label": "Explore MPK and its installation",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "This metacompetence forms the knowledge that enables cooperation. The relationship is autological when work changes how it forms cooperation."
   },
   "it": {
-    "title": "Sviluppare la cooperazione fra persone e assistenti AI",
-    "subtitle": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare.",
+    "title": "Formare capacità cooperative fra persone e sistemi AI",
+    "subtitle": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo.",
     "kind": "Metacompetenza generativa",
     "domain": "Cooperazione e formazione di sistemi",
     "does": "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.",
@@ -145,12 +182,28 @@
       {
         "title": "Il sapere complementare resta distinto",
         "body": "La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli responsabili; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente."
+      },
+      {
+        "title": "Raggiungere il sapere che può formare cooperazione",
+        "body": "Leggi ciò che ogni partecipante porta, perché conta e cosa resta incerto. Risali dalle interpretazioni divergenti alle condizioni sorgenti che le rendono diverse. Le fonti possono cambiare la domanda comune prima di scegliere piattaforma o risultato da consegnare. Un rifiuto conserva un limite reale della partecipazione o apre un’alternativa utile. Comprendere insieme non richiede che tutti adottino una sola versione."
+      },
+      {
+        "title": "Riutilizzare una capacità prima di duplicarla",
+        "body": "Confronta i metodi presenti per funzione, responsabile e scelte concrete, comprese le guide. Se il sapere esiste ma non viene raggiunto, ripara l’ingresso. Approfondisci il metodo esistente quando manca il sapere pratico. Forma una competenza di progetto quando il lavoro richiede una capacità e una continuazione distinte. Uno strumento di coordinamento realizza un passaggio effettivo; non possiede la domanda scientifica né subordina i partecipanti."
+      },
+      {
+        "title": "Distinguere contributo e autorità nello stesso lavoro",
+        "body": "Un assistente confronta i materiali forniti e prepara una domanda comune senza per questo poter contattare un partecipante, trasferirne i dati o agire nel suo account. Conserva fonte e mandato dei contributi. Il controller reale governa l’azione esterna precisa quando emerge. Senza agenti o accesso ai file, usa il metodo nella conversazione presente e restituisci la continuazione utile a chi può conservarla."
+      },
+      {
+        "title": "Restituire l’apprendimento al progetto e al generatore",
+        "body": "Fatti sperimentali, decisioni dei partecipanti e indagine aperta restano nel progetto di ricerca. Se l’evento insegna a riconoscere una divergenza produttiva, migliora anche questo metodo: nel lavoro successivo comprende quali condizioni differiscono prima di imporre una sintesi. Un altro caso può affinare questa distinzione. Conservare la modifica e usarla successivamente sono osservazioni diverse."
       }
     ],
     "worked_examples": [
       {
         "title": "Un gruppo di ricerca conserva le diverse voci",
-        "body": "Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un chatbot condiviso deciso subito nasconderebbe l’origine di tesi e domande. Forma anzitutto una competenza che recupera le fonti dei contributi, collega le domande compatibili e conserva le differenze aperte. Gli assistenti partecipano attraverso i documenti effettivamente condivisi. Il gruppo potrà scegliere un’interfaccia comune; il primo risultato utile è saper continuare l’indagine senza appiattire le posizioni."
+        "body": "Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un chatbot condiviso deciso subito nasconderebbe l’origine di tesi e domande. Forma anzitutto una competenza che recupera le fonti dei contributi, collega le domande compatibili e conserva le differenze aperte. Gli assistenti partecipano attraverso i documenti effettivamente condivisi. Il gruppo potrà scegliere un’interfaccia comune; il primo risultato utile è saper continuare l’indagine senza appiattire le posizioni. Due gruppi portano osservazioni sperimentali e modelli. Un’osservazione nuova cambia la lettura precedente: il progetto conserva le interpretazioni attribuite e forma la capacità di chiedere quali condizioni le differenziano. La divergenza apre una domanda migliore. Il progetto conserva il fatto sperimentale; il generatore impara a riconoscere una differenza produttiva prima di forzare la sintesi. Il lavoro successivo può così cambiare domanda e partecipanti senza imporre una piattaforma o un’autorità centrale."
       },
       {
         "title": "Il sapere di manutenzione diventa capacità cooperativa",
@@ -197,53 +250,107 @@
         "Un gruppo di ricerca collega ipotesi e fonti; una squadra di manutenzione mette in relazione osservazioni e modifiche di progetto; un’associazione prepara un’iniziativa con volontari e assistenti diversi. Si conserva la capacità di collegare contributi attribuiti e farne emergere nuovo sapere comune. Cambiano partecipanti, responsabilità e luoghi in cui il sapere continua.",
         "Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenze ancora aperte. Il primo risultato può essere un metodo di collaborazione, una guida o un kernel di progetto. La forma emerge dal lavoro: una piattaforma comune diventa utile quando rende possibile quella cooperazione."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Usa questa competenza",
+        "body": "Porta l’avvio completo nella tua chat o usa il kit nel progetto con incarico, fonti e mezzi reali.",
+        "label": "Primo uso e download",
+        "href": "#start"
+      },
+      {
+        "title": "Componi le competenze pubbliche",
+        "body": "Scegli le capacità utili dalla raccolta. Puoi rendere disponibili anche tutte le risorse: l’ingresso del progetto le raggiunge secondo il lavoro.",
+        "label": "Uso e composizione della raccolta",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md"
+      },
+      {
+        "title": "Integra con MAIOS Project Kernel",
+        "body": "MPK 5.1.0 è un prodotto facoltativo e distinto. Confronta funzione, responsabile e metodo già presenti; conserva il sapere locale e collega il contributo complementare.",
+        "label": "Conoscere MPK e la sua installazione",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "Questa metacompetenza forma il sapere che permette di cooperare. Il rapporto è autologico quando il lavoro cambia il suo modo di formare cooperazioni."
   },
   "showcase": {
     "type": "cooperation",
     "en": {
-      "title": "Cooperation can change what the project is",
+      "title": "A shared inquiry changes how cooperation is formed",
       "states": [
         [
           "Contributions",
-          "Different knowledge stays recognizable",
-          "Researchers, operators and assistants bring distinct sources and questions."
+          "A difference retains its value",
+          "Two groups bring observations and models with distinct sources. A new observation changes an earlier account while preserving disagreement."
         ],
         [
-          "Competence",
-          "A shared way to continue",
-          "The project learns how to connect contributions while preserving their reasons."
+          "Composition",
+          "The question changes during cooperation",
+          "The competence connects conditions and interpretations and makes scientific comparison pertinent. Groups retain decisions and responsibilities."
         ],
         [
-          "Result",
-          "The form emerges from the work",
-          "A guide, kernel, service or application can carry the acquired capability."
+          "Return",
+          "Cooperation learns how to form",
+          "The project keeps the fact; the generator recognizes how disagreement opens a better question. That knowledge changes later cooperation."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Observations",
+          "Models",
+          "Shared question",
+          "Evolved method"
+        ],
+        "relations": [
+          "contributes",
+          "contributes",
+          "reforms",
+          "enables"
+        ],
+        "description": "Relationships in the same illustrative case, with no mandatory order. Two groups bring observations and models with distinct sources. A new observation changes an earlier account while preserving disagreement. The competence connects conditions and interpretations and makes scientific comparison pertinent. Groups retain decisions and responsibilities. The project keeps the fact; the generator recognizes how disagreement opens a better question. That knowledge changes later cooperation."
+      },
+      "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
     "it": {
-      "title": "La cooperazione può cambiare il progetto",
+      "title": "Una ricerca comune cambia il modo di cooperare",
       "states": [
         [
           "Contributi",
-          "Il sapere diverso resta riconoscibile",
-          "Ricercatori, operatori e assistenti portano fonti e domande distinte."
+          "Una differenza conserva il proprio valore",
+          "Due gruppi portano osservazioni e modelli con fonti distinte. La nuova osservazione cambia la lettura precedente senza cancellare la divergenza."
         ],
         [
-          "Competenza",
-          "Un modo comune per continuare",
-          "Il progetto impara a collegare i contributi conservandone le ragioni."
+          "Composizione",
+          "La domanda cambia mentre si coopera",
+          "La competenza collega condizioni e interpretazioni e rende pertinente un confronto scientifico. I gruppi conservano decisioni e responsabilità."
         ],
         [
-          "Risultato",
-          "La forma emerge dal lavoro",
-          "Guida, kernel, servizio o applicazione possono incarnare la capacità acquisita."
+          "Ritorno",
+          "La cooperazione impara a formarsi",
+          "Il progetto conserva il fatto; il generatore riconosce come una divergenza apre una domanda migliore. Quel sapere cambia la cooperazione successiva."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Osservazioni",
+          "Modelli",
+          "Domanda comune",
+          "Metodo evoluto"
+        ],
+        "relations": [
+          "contribuisce",
+          "contribuisce",
+          "riforma",
+          "rende possibile"
+        ],
+        "description": "Relazioni dello stesso caso illustrativo, senza ordine obbligatorio. Due gruppi portano osservazioni e modelli con fonti distinte. La nuova osservazione cambia la lettura precedente senza cancellare la divergenza. La competenza collega condizioni e interpretazioni e rende pertinente un confronto scientifico. I gruppi conservano decisioni e responsabilità. Il progetto conserva il fatto; il generatore riconosce come una divergenza apre una domanda migliore. Quel sapere cambia la cooperazione successiva."
+      },
+      "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }
   },
   "related": [
     "creare-comporre-competenze",
+    "principi-che-diventano-capacita",
     "collaborazione-assistenti-ai",
     "trasferire-capacita-kernel"
   ],

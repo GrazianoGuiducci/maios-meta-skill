@@ -2297,7 +2297,7 @@
     {
       "id": "principi-che-diventano-capacita",
       "name": "Onto-Skill",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "34",
@@ -2331,42 +2331,42 @@
       "starter": "skills/onto-skill/START_CHAT_EN.txt",
       "examples": "skills/onto-skill/EXAMPLES.md",
       "presentation": "skills/onto-skill/presentation.json",
-      "package": "dist/onto-skill-0.1.2.zip",
+      "package": "dist/onto-skill-0.1.3.zip",
       "en": {
-        "title": "Turn principles and corrections into AI capabilities",
-        "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
+        "title": "From principles to abilities that evolve through work",
+        "subtitle": "Intent, discoveries and corrections change the relevant competence’s method during work.",
         "kind": "Generative metacompetence",
         "domain": "Principles and evolving capabilities",
-        "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-        "when": "When a principle, an intent or a correction should change how your AI works.",
+        "does": "Makes a principle operative in the relevant competence and situated ability, from intent, discovery, observation or correction.",
+        "when": "When your AI needs to use the reason behind a contribution to work differently in new situations.",
         "examples": [
-          "A correction that improves quotations",
-          "A local preference remains local",
-          "An educational principle forms a new way of helping"
+          "An educational principle forms a new way of helping",
+          "A discovery changes how requests are handled",
+          "A correction that improves quotations"
         ],
         "route": "/resources/principi-che-diventano-capacita/",
-        "description": "Distinguish a local preference from a reusable principle and change the method guiding the next task."
+        "description": "Intent, discoveries and corrections change the relevant competence’s method during work."
       },
       "it": {
-        "title": "Trasformare principi e correzioni in capacità dell’AI",
-        "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
+        "title": "Dai principi alle abilità che evolvono nel lavoro",
+        "subtitle": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori.",
         "kind": "Metacompetenza generativa",
         "domain": "Principi e capacità evolutive",
-        "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-        "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
+        "does": "Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione.",
+        "when": "Quando la tua AI deve usare la ragione di un contributo per lavorare diversamente in situazioni nuove.",
         "examples": [
-          "Una correzione che migliora i preventivi",
-          "Una preferenza locale resta locale",
-          "Un principio didattico forma un nuovo modo di aiutare"
+          "Un principio didattico forma un nuovo modo di aiutare",
+          "Una scoperta cambia la gestione delle richieste",
+          "Una correzione che migliora i preventivi"
         ],
         "route": "/risorse/principi-che-diventano-capacita/",
-        "description": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro."
+        "description": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori."
       }
     },
     {
       "id": "formare-capacita-cooperative",
       "name": "Form Cooperative Capability from Sources",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "35",
@@ -2400,10 +2400,10 @@
       "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
       "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
       "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-      "package": "dist/form-cooperative-capability-from-sources-0.1.2.zip",
+      "package": "dist/form-cooperative-capability-from-sources-0.1.3.zip",
       "en": {
-        "title": "Develop cooperation between people and AI assistants",
-        "subtitle": "People, AI and agents contribute through knowledge that can generate and evolve their way of working together.",
+        "title": "Form cooperative capabilities across people and AI systems",
+        "subtitle": "Participants’ sources and intent form the knowledge for working together and evolving the method.",
         "kind": "Generative metacompetence",
         "domain": "Cooperation and system formation",
         "does": "Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.",
@@ -2414,11 +2414,11 @@
           "Volunteers and assistants prepare a cultural programme"
         ],
         "route": "/resources/formare-capacita-cooperative/",
-        "description": "Connect contributions and responsibilities and form the project capability that lets the group continue."
+        "description": "Participants’ sources and intent form the knowledge for working together and evolving the method."
       },
       "it": {
-        "title": "Sviluppare la cooperazione fra persone e assistenti AI",
-        "subtitle": "Persone, AI e agenti contribuiscono attraverso un sapere che genera e fa evolvere il lavoro comune.",
+        "title": "Formare capacità cooperative fra persone e sistemi AI",
+        "subtitle": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo.",
         "kind": "Metacompetenza generativa",
         "domain": "Cooperazione e formazione di sistemi",
         "does": "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.",
@@ -2429,7 +2429,7 @@
           "Volontari e assistenti preparano una rassegna culturale"
         ],
         "route": "/risorse/formare-capacita-cooperative/",
-        "description": "Collega contributi e responsabilità e forma la capacità di progetto che permette al gruppo di continuare."
+        "description": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo."
       }
     },
     {
@@ -2504,7 +2504,7 @@
     {
       "id": "presentare-sistemi-in-evoluzione",
       "name": "MAIOS Presentation Competence",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "37",
@@ -2538,13 +2538,13 @@
       "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
       "examples": "skills/maios-presentation-competence/EXAMPLES.md",
       "presentation": "skills/maios-presentation-competence/presentation.json",
-      "package": "dist/maios-presentation-competence-0.1.2.zip",
+      "package": "dist/maios-presentation-competence-0.1.3.zip",
       "en": {
         "title": "Present a complex system’s capabilities and operation",
-        "subtitle": "A recognizable first encounter, with the sources and depth needed to explore further.",
+        "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
         "kind": "Situated communication competence",
         "domain": "Presentations and system understanding",
-        "does": "Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.",
+        "does": "Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work.",
         "when": "When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve.",
         "examples": [
           "A first encounter with MAIOS",
@@ -2556,10 +2556,10 @@
       },
       "it": {
         "title": "Presentare capacità e funzionamento di un sistema complesso",
-        "subtitle": "Un primo incontro riconoscibile, con le fonti e la profondità per proseguire.",
+        "subtitle": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
         "kind": "Competenza comunicativa situata",
         "domain": "Presentazioni e comprensione dei sistemi",
-        "does": "Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario.",
+        "does": "Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.",
         "when": "Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono.",
         "examples": [
           "Un primo incontro con MAIOS",

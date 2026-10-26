@@ -1,23 +1,23 @@
 # Onto-Skill
 
-Trasformare principi e correzioni in capacità dell’AI
+Dai principi alle abilità che evolvono nel lavoro
 
-Dal significato di un principio al metodo che guida una scelta concreta.
+Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori.
 
-Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.
+Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione.
 
-Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.
+Quando la tua AI deve usare la ragione di un contributo per lavorare diversamente in situazioni nuove.
 
-## Adattare il metodo al tuo contesto
+## Primo uso
+
+Leggi SKILL_IT.md e GUIDA_OPERATIVA_IT.md. Allega AVVIO_CHAT_IT.txt completo alla chat con il tuo incarico. Per l’installazione usa INSTALL_IT.md e conserva la cartella intera.
+
+## Adattare e comporre
 
 In uno studio professionale il principio può riguardare le ragioni di un preventivo; nella formazione, il modo di aiutare uno studente a ragionare; in una redazione, la distinzione fra fonte e interpretazione. Si conserva il rapporto fra principio, ragione e scelta concreta. Cambiano il lavoro, il destinatario e le condizioni che rendono pertinente quella scelta.
 
 Porta alla tua AI il principio o il contributo originale, un esempio del lavoro e ciò che vuoi rendere possibile. Falle individuare quale competenza deve cambiare e come il principio guida una situazione diversa. Una preferenza nata per una sola occasione conserva quella portata.
 
-## Primo uso
+[Uso autonomo, composizione e MPK facoltativo](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md).
 
-Read SKILL_IT.md and GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT_IT.txt e descrivi il tuo incarico. L’avvio include metodo, sapere pratico e tre esempi sviluppati.
-
-## File ed edizione
-
-Edizione pubblica 0.1.2. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione 0.1.3. Esempi ed esplorazione sono illustrativi. Il metodo è indipendente; il destinatario fornisce fonti, mezzi e continuità.

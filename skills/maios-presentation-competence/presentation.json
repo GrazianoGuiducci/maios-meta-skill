@@ -4,7 +4,7 @@
     "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
     "kind": "Situated communication competence",
     "domain": "Presentations and system understanding",
-    "does": "Forms presentations, explanations and navigable maps that connect a system’s real identity, generative capabilities and the receiver’s situation.",
+    "does": "Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work.",
     "when": "When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve.",
     "intro": [
       "This method was developed through MAIOS presentations and its System Map. It connects what a system is, how it works, why that matters and how someone can encounter its capabilities. With another system, supply that system’s actual sources and responsible competences.",
@@ -18,7 +18,7 @@
     "method": [
       {
         "title": "Recover the system behind the latest artifact",
-        "body": "Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including its ability to form further competences. Preserve the distinct status of source, illustration and observed result."
+        "body": "Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result."
       },
       {
         "title": "Form the encounter with the receiver",
@@ -49,6 +49,30 @@
       {
         "title": "A living map preserves reasons",
         "body": "Maintain the concepts, why they are connected, how the representation expresses them and what current questions can change it. A new version should recover that understanding rather than rebuild from labels alone. Semantic and perceptual quality develop together: clear paragraphs cannot compensate for a diagram that makes the wrong relationship dominant."
+      },
+      {
+        "title": "Recognize the object behind its latest demo",
+        "body": "Ask what the system actually does, which sources establish that capability and what earlier learning still changes its work. Separate the available release, an observed run, an illustrative example, a research question and an open possibility. A digital archive need not generate other systems; MAIOS supplies that particular generative example. Follow a missing fact to the product or research owner rather than filling it with a familiar AI architecture."
+      },
+      {
+        "title": "Organize reachable knowledge for this encounter",
+        "body": "Keep the question, subject, relevant source, practical example and next depth reachable together. This open functional profile belongs to the presenting competence; it is not another skill or a fixed team. Reuse the local writing, domain, visual-design and continuity methods when their knowledge changes the explanation. Reach their actual operating bodies, not just their names. A new question can make a previously secondary source pertinent."
+      },
+      {
+        "title": "Choose predicates before arrows",
+        "body": "Read the proposed figure as a sentence: who acts, on what, with which consequence? Choose a comparison for a difference, containment for belonging, a role map for participation, and a sequence only for an actual order. A source relation does not mean that a system can generate another system. Keep labels, geometry, control state and explanatory text attached to the same subject. Remove a misleading edge instead of repairing it only in a footnote."
+      },
+      {
+        "title": "Locate the loss before revising the surface",
+        "body": "If a visitor cannot name the subject, recover the missing premise in the explanation. If a diagram implies a central authority unsupported by the source, change the visual relation. If a depth switch loses the selected object, change the interaction. If the source itself is incomplete, return to its responsible competence. These causes can coexist; a larger paragraph does not repair every one of them."
+      },
+      {
+        "title": "Observe a first encounter without supplying its answer",
+        "body": "When a fresh person or distinct AI is available, present the actual page without explaining the expected concepts. Ask what the resource is, how it relates to their work and what they would do first. Record the page revision, actual access and spontaneous observations. The author’s rereading is useful but is not this independent encounter. A receiver can reveal a missing relationship without becoming the authority over the system."
+      },
+      {
+        "title": "Continue the method through a changed system",
+        "body": "Keep source, reason for the representation, actual feedback, unresolved question and the responsible guide in the project. A product change updates only dependent claims and views. A repeated loss of subject changes how this competence finds and composes sources next time. A perceptual lesson belongs to visual design; a new domain fact belongs to that domain. Preserve local learning when adopting a later kit."
       }
     ],
     "worked_examples": [
@@ -91,9 +115,9 @@
     ],
     "operating_guide": "skills/maios-presentation-competence/OPERATING_GUIDE.md",
     "reader_context": {
-      "title": "Explain one system to the people using or building it",
-      "situation": "A technician asks what changes during a shift; an engineer asks how the assistant works; a manager asks who needs to participate. All three questions concern the same system.",
-      "point": "The presentation begins with the actual question and makes the same mechanism and sources reachable. The depth of the view changes while the system’s identity and capabilities remain coherent."
+      "title": "One archive, different questions",
+      "situation": "A museum presents a digital archive. A visitor wants to find a photograph; a curator wants to trace its provenance. Both use the same archive.",
+      "point": "The explanation starts from the actual question and keeps search, record and provenance document connected. Depth changes while the subject and sources stay recognizable."
     },
     "adaptation": {
       "title": "Adapt the method to your context",
@@ -101,14 +125,35 @@
         "A museum presents a digital archive, a company introduces a service, a research group explains an experimental system. Preserve the relationship between what the system is, what it can do and the question of the person encountering it. The source system, audience, words and required depth change.",
         "Provide documents, actual capabilities and a use case of the system being presented. Start with a question recognizable to that audience and connect it to the mechanism that makes it possible. MAIOS references in the examples identify their origin; your system supplies the identity, sources and possibilities of the new presentation."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Use this competence",
+        "body": "Bring the complete starter to your chat or use the kit in a project with a real assignment, sources and means.",
+        "label": "First use and download",
+        "href": "#start"
+      },
+      {
+        "title": "Compose public competences",
+        "body": "Choose useful capabilities from the collection. You can make the full collection available: the project entry reaches it according to the actual work.",
+        "label": "Use and compose the collection",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md"
+      },
+      {
+        "title": "Integrate with MAIOS Project Kernel",
+        "body": "MPK 5.1.0 is an optional, separate product. Compare existing function, responsible owner and method; preserve local learning and connect complementary knowledge.",
+        "label": "Explore MPK and its installation",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "This competence forms explanations and maps; it works on its own method when an encounter changes how it understands and presents."
   },
   "it": {
     "title": "Presentare capacità e funzionamento di un sistema complesso",
     "subtitle": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
     "kind": "Competenza comunicativa situata",
     "domain": "Presentazioni e comprensione dei sistemi",
-    "does": "Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario.",
+    "does": "Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.",
     "when": "Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono.",
     "intro": [
       "Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega cosa è il sistema, come opera, perché conta e come incontrarne le capacità. Per un altro sistema fornisci le sue fonti effettive e le competenze responsabili.",
@@ -153,6 +198,30 @@
       {
         "title": "Una mappa viva conserva ragioni",
         "body": "Conserva concetti, ragioni dei collegamenti, modo in cui la rappresentazione li esprime e domande che possono cambiarli. Una nuova versione recupera questa comprensione anziché ripartire dalle etichette. Qualità semantica e percettiva crescono insieme: paragrafi chiari non compensano un diagramma che rende dominante il rapporto sbagliato."
+      },
+      {
+        "title": "Riconoscere l’oggetto dietro l’ultima demo",
+        "body": "Comprendi cosa fa il sistema, quali fonti sostengono quella capacità e quale sapere acquisito continua a cambiarne il lavoro. Distingui release disponibile, esecuzione osservata, esempio illustrativo, domanda di ricerca e possibilità aperta. Un archivio digitale non deve generare altri sistemi; MAIOS offre quello specifico esempio generativo. Raggiungi il responsabile di prodotto o ricerca quando manca un fatto, anziché colmarlo con un’architettura AI familiare."
+      },
+      {
+        "title": "Organizzare il sapere raggiungibile nell’incontro",
+        "body": "Mantieni raggiungibili insieme domanda, soggetto, fonte pertinente, esempio concreto e profondità successiva. Questo profilo funzionale aperto appartiene alla competenza di presentazione; non è un’altra skill o una squadra fissa. Usa i metodi locali di scrittura, dominio, progettazione visiva e continuità quando il loro sapere cambia la spiegazione. Raggiungi i corpi operativi, oltre ai nomi. Una nuova domanda può rendere pertinente una fonte prima secondaria."
+      },
+      {
+        "title": "Scegliere i predicati prima delle frecce",
+        "body": "Leggi la figura proposta come una frase: chi agisce, su cosa, con quale conseguenza? Usa un confronto per una differenza, il contenimento per l’appartenenza, una mappa di ruoli per la partecipazione e una sequenza solo per un ordine effettivo. Una relazione di fonte non significa che il sistema sappia generarne un altro. Etichette, geometria, stato del controllo e spiegazione conservano lo stesso soggetto. Correggi una connessione fuorviante nella figura, oltre che nella didascalia."
+      },
+      {
+        "title": "Localizzare la perdita prima di correggere la superficie",
+        "body": "Se chi legge non riconosce il soggetto, recupera la premessa mancante nella spiegazione. Se il diagramma implica un’autorità centrale che la fonte non descrive, cambia la relazione visiva. Se il cambio di profondità perde l’oggetto selezionato, correggi l’interazione. Se la fonte è incompleta, torna alla competenza responsabile. Più cause possono coesistere; allungare un paragrafo non le risolve tutte."
+      },
+      {
+        "title": "Osservare un primo incontro senza suggerirne la risposta",
+        "body": "Quando è disponibile una persona o un’AI distinta che non conosce la spiegazione attesa, mostra la pagina effettiva. Chiedi che cosa sia la risorsa, come incontri il suo lavoro e quale primo passo riconosca. Conserva revisione, accesso reale e osservazioni spontanee. La rilettura dell’autore è utile ma non è questo incontro indipendente. Il destinatario può rivelare un nesso mancante senza diventare autorità sul sistema."
+      },
+      {
+        "title": "Far continuare il metodo attraverso il sistema cambiato",
+        "body": "Conserva nel progetto fonte, ragione della rappresentazione, riscontri effettivi, domanda aperta e guida responsabile. Un cambiamento di prodotto aggiorna le sole affermazioni e viste dipendenti. Una perdita ricorrente del soggetto cambia come questa competenza raggiungerà e comporrà le fonti. L’apprendimento percettivo torna al design; un fatto di dominio al suo responsabile. Adottando un nuovo kit conserva il sapere locale."
       }
     ],
     "worked_examples": [
@@ -195,9 +264,9 @@
     ],
     "operating_guide": "skills/maios-presentation-competence/GUIDA_OPERATIVA_IT.md",
     "reader_context": {
-      "title": "Spiegare lo stesso sistema a chi deve usarlo o costruirlo",
-      "situation": "Un tecnico vuole capire cosa cambia nel proprio turno; un ingegnere come funziona l’assistente; un responsabile chi deve partecipare. Le tre domande riguardano lo stesso sistema.",
-      "point": "La presentazione parte dalla domanda concreta e rende raggiungibili il medesimo meccanismo e le sue fonti. Cambia la profondità della vista mentre conserva l’identità e le capacità del sistema."
+      "title": "Un archivio, domande diverse",
+      "situation": "Un museo presenta un archivio digitale. Una visitatrice vuole trovare una fotografia; un curatore vuole risalire alla sua provenienza. Entrambi consultano lo stesso archivio.",
+      "point": "La spiegazione parte dalla domanda effettiva e mantiene collegati ricerca, scheda e documento di provenienza. Cambia la profondità, mentre soggetto e fonti restano riconoscibili."
     },
     "adaptation": {
       "title": "Adattare il metodo al tuo contesto",
@@ -205,55 +274,109 @@
         "Un museo presenta un archivio digitale, un’impresa introduce un nuovo servizio, un gruppo di ricerca spiega un sistema sperimentale. Si conserva la relazione fra ciò che il sistema è, ciò che sa fare e la domanda di chi lo incontra. Cambiano il sistema sorgente, il pubblico, le parole e la profondità necessaria.",
         "Porta documenti, capacità effettive e un caso d’uso del sistema da presentare. Parti da una domanda riconoscibile per quel pubblico e collegala al meccanismo che la rende possibile. I riferimenti a MAIOS negli esempi ne indicano l’origine; il tuo sistema fornisce identità, fonti e possibilità della nuova presentazione."
       ]
-    }
+    },
+    "adoption_paths": [
+      {
+        "title": "Usa questa competenza",
+        "body": "Porta l’avvio completo nella tua chat o usa il kit nel progetto con incarico, fonti e mezzi reali.",
+        "label": "Primo uso e download",
+        "href": "#start"
+      },
+      {
+        "title": "Componi le competenze pubbliche",
+        "body": "Scegli le capacità utili dalla raccolta. Puoi rendere disponibili anche tutte le risorse: l’ingresso del progetto le raggiunge secondo il lavoro.",
+        "label": "Uso e composizione della raccolta",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md"
+      },
+      {
+        "title": "Integra con MAIOS Project Kernel",
+        "body": "MPK 5.1.0 è un prodotto facoltativo e distinto. Confronta funzione, responsabile e metodo già presenti; conserva il sapere locale e collega il contributo complementare.",
+        "label": "Conoscere MPK e la sua installazione",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ],
+    "competence_relation": "Questa competenza forma spiegazioni e mappe; agisce sul proprio metodo quando l’incontro cambia come comprende e presenta."
   },
   "showcase": {
     "type": "presentation",
     "en": {
-      "title": "One system, three depths of encounter",
+      "title": "The same archive, from question to source",
       "states": [
         [
-          "First encounter",
-          "A recognizable way of working",
-          "Knowledge participates in a project and changes how the next task is done."
+          "Visitor",
+          "Find a photograph",
+          "The visitor starts from a subject and reaches the photograph’s record in the archive."
         ],
         [
-          "Mechanism",
-          "The result can change the method",
-          "Sources, competences, people and consequences remain connected during work."
+          "Curator",
+          "Understand provenance",
+          "The curator follows the same record to the document describing origin and attribution."
         ],
         [
-          "Depth",
-          "The system can form another system",
-          "The acquired generative capability can take shape in another real project."
+          "Update",
+          "The source changes the explanation",
+          "Corrected provenance changes the record and dependent views. The method preserves the relation between image, attribution and source."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Digital archive",
+          "Photograph",
+          "Record",
+          "Document"
+        ],
+        "relations": [
+          "finds",
+          "describes",
+          "documents",
+          "corrects"
+        ],
+        "description": "Relationships in the same illustrative case, with no mandatory order. The visitor starts from a subject and reaches the photograph’s record in the archive. The curator follows the same record to the document describing origin and attribution. Corrected provenance changes the record and dependent views. The method preserves the relation between image, attribution and source."
+      },
+      "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
     "it": {
-      "title": "Uno stesso sistema, tre profondità d’incontro",
+      "title": "Lo stesso archivio, dalla domanda alla fonte",
       "states": [
         [
-          "Primo incontro",
-          "Un modo riconoscibile di lavorare",
-          "Il sapere partecipa al progetto e cambia come si affronta il lavoro successivo."
+          "Visitatore",
+          "Trovare una fotografia",
+          "La visitatrice parte da un soggetto e raggiunge la scheda della fotografia nell’archivio."
         ],
         [
-          "Meccanismo",
-          "Il risultato può cambiare il metodo",
-          "Fonti, competenze, persone e conseguenze restano collegate nel lavoro."
+          "Curatore",
+          "Comprendere la provenienza",
+          "Il curatore segue dalla stessa scheda il documento che ne descrive origine e attribuzione."
         ],
         [
-          "Profondità",
-          "Il sistema può formare un altro sistema",
-          "La capacità generativa acquisita prende forma in un altro progetto reale."
+          "Aggiornamento",
+          "La fonte cambia la spiegazione",
+          "Una provenienza corretta cambia la scheda e le viste dipendenti. Il metodo conserva il nesso tra immagine, attribuzione e fonte."
         ]
-      ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Archivio digitale",
+          "Fotografia",
+          "Scheda",
+          "Documento"
+        ],
+        "relations": [
+          "cerca",
+          "descrive",
+          "documenta",
+          "corregge"
+        ],
+        "description": "Relazioni dello stesso caso illustrativo, senza ordine obbligatorio. La visitatrice parte da un soggetto e raggiunge la scheda della fotografia nell’archivio. Il curatore segue dalla stessa scheda il documento che ne descrive origine e attribuzione. Una provenienza corretta cambia la scheda e le viste dipendenti. Il metodo conserva il nesso tra immagine, attribuzione e fonte."
+      },
+      "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }
   },
   "related": [
     "dal-concetto-ai-media",
-    "titoli-e-sottotitoli",
-    "comprendere-lavoro-agente"
+    "comprendere-lavoro-agente",
+    "continuita-del-lavoro-ai",
+    "creare-comporre-competenze"
   ],
   "edition_note": {
     "en": "Public operating method. Illustrative examples; use and learning in another receiver retain their own observations.",

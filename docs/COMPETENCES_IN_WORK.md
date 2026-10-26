@@ -34,3 +34,8 @@ that forms them can evolve too: this makes the system's meta relation perceptibl
 Each resource supplies an independently usable method. Within a project, people
 and AI can compose it with existing knowledge through the tools, continuity and
 mandate actually available.
+
+
+## Shared work can change how cooperation is formed
+
+Two groups compare observations and models. A disagreement changes the question: the project forms a method preserving attribution and conditions before choosing a technical medium. The specific fact stays with the project; recognizing when a difference opens a better question also changes the competence that will form later cooperation. [Use and integration](USE.md).

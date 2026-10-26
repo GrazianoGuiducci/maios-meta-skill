@@ -1,3 +1,7 @@
+# Three resource candidates — 26 October 2026
+
+MPC, Form Cooperative Capability from Sources and Onto-Skill are prepared as edition 0.1.3 candidates. Their practical methods, bilingual guides, complete starters and illustrations share a source identity. Existing use guides explain standalone use, project-owned composition and optional MPK 5.1.0 integration. The other 39 editions retain their versions and package bytes, including MKCV 0.1.3. Source publication, site deployment and backend activation remain separate pending effects.
+
 # MAIOS Meta-Skill — current public collection
 
 ## 26 October 2026 — MKCV production paths, edition 0.1.3

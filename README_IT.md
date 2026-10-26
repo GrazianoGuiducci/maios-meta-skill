@@ -90,3 +90,6 @@ La coerenza dei file verifica l’identità della distribuzione. L’uso in un a
 [Apache-2.0](LICENSE). I kit scaricabili includono licenza e nota di attribuzione.
 
 Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
+
+
+[Una competenza, un sistema pubblico di skill o integrazione MPK facoltativa](docs/USO.md): scegli il percorso dal tuo lavoro, preservando le capacità già presenti.

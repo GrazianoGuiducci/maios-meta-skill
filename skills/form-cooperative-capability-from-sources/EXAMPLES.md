@@ -1,16 +1,14 @@
 # Worked examples
 
-Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+Illustrative cases: they teach conditions, choices and continuation; they are not observed customer results.
 
 ## A shared research group keeps its different voices
 
-Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions.
-
+Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions. Two groups bring experimental observations and models. A new observation changes an earlier interpretation: the project retains attributed accounts and forms the ability to ask which conditions distinguish them. Disagreement opens a better question. The project keeps the experimental fact; the generator learns to recognize a productive difference before enforcing synthesis. Later work can change question and participants without imposing a platform or central authority.
 
 ## Maintenance knowledge becomes a cooperative capability
 
 Technicians and designers repeatedly exchange incomplete fault reports. Instead of starting with a ticket system, understand which observations change diagnosis, design and operation. Form the capability that recognizes these connections and returns useful differences to the appropriate participants. A maintenance event can teach a design criterion while leaving the technical repair with its owner. The first artifact may be a small project guide; a later service or application should incarnate that acquired method.
-
 
 ## Volunteers and assistants prepare a cultural programme
 

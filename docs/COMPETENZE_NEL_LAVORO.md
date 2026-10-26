@@ -35,3 +35,8 @@ meta del sistema.
 Ogni risorsa della raccolta porta un metodo utilizzabile autonomamente. Nel
 progetto, persone e AI possono comporlo con il sapere già presente, attraverso
 gli strumenti, la continuità e il mandato effettivamente disponibili.
+
+
+## Il lavoro comune può cambiare come si coopera
+
+Due gruppi confrontano osservazioni e modelli. Una divergenza cambia la domanda: il progetto forma il metodo che conserva attribuzione e condizioni, prima di decidere un mezzo tecnico. Il fatto specifico resta al progetto; riconoscere quando una differenza apre una domanda migliore cambia anche la competenza che formerà la cooperazione successiva. [Uso e raccordi](USO.md).

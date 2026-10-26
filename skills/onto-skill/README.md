@@ -1,23 +1,23 @@
 # Onto-Skill
 
-Turn principles and corrections into AI capabilities
+From principles to abilities that evolve through work
 
-Carry the meaning of a principle into the method guiding a practical choice.
+Intent, discoveries and corrections change the relevant competence’s method during work.
 
-Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.
+Makes a principle operative in the relevant competence and situated ability, from intent, discovery, observation or correction.
 
-When a principle, an intent or a correction should change how your AI works.
+When your AI needs to use the reason behind a contribution to work differently in new situations.
 
-## Adapt the method to your context
+## First use
+
+Read SKILL.md and OPERATING_GUIDE.md. Attach the complete START_CHAT_EN.txt to a chat with your assignment. For installation use INSTALL.md and preserve the whole folder.
+
+## Adapt and compose
 
 In a professional practice the principle may concern the reasons behind a quotation; in education, how to help a student reason; in a newsroom, the distinction between a source and its interpretation. Preserve the relationship between principle, reason and practical choice. The work, recipient and conditions that make the choice relevant change.
 
 Give your AI the original principle or contribution, a sample of the work and what you want to make possible. Ask it to identify the competence that needs to change and how the principle guides a different situation. A preference formed for one occasion retains that scope.
 
-## First use
+[Standalone use, composition and optional MPK](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md).
 
-Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a chat and describe your actual assignment. The starter includes method, practical knowledge and the three worked examples.
-
-## Files and edition
-
-Public edition 0.1.2. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
+Edition 0.1.3. Examples and exploration are illustrative. The method is independent; the recipient supplies sources, means and continuity.

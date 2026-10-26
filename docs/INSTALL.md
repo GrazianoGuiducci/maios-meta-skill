@@ -4,7 +4,7 @@
 
 Each resource is a complete Agent Skills folder. Choose the capability you
 need; its canonical folder contains `SKILL.md` and the supporting knowledge.
-The collection does not require the other 24 skills to be installed.
+You can install one skill, several selected kits or the complete collection. Other skills are not prerequisites.
 
 ## Install from a downloaded kit
 
@@ -75,3 +75,6 @@ the entire folder and follow that host's instructions. A ZIP here is a skill
 kit; it is not a preconfigured plugin or an authenticated service.
 
 Reference: [OpenAI's current skill documentation](https://learn.chatgpt.com/docs/build-skills).
+
+
+[Compose the receiving project and optionally integrate MPK](USE.md): entry, sources, guides, functional comparison and preservation of local learning.

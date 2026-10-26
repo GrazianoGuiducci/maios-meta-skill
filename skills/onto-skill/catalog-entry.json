@@ -1,7 +1,7 @@
 {
   "id": "principi-che-diventano-capacita",
   "name": "Onto-Skill",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "34",
@@ -35,35 +35,35 @@
   "starter": "skills/onto-skill/START_CHAT_EN.txt",
   "examples": "skills/onto-skill/EXAMPLES.md",
   "presentation": "skills/onto-skill/presentation.json",
-  "package": "dist/onto-skill-0.1.2.zip",
+  "package": "dist/onto-skill-0.1.3.zip",
   "en": {
-    "title": "Turn principles and corrections into AI capabilities",
-    "subtitle": "Carry the meaning of a principle into the method guiding a practical choice.",
+    "title": "From principles to abilities that evolve through work",
+    "subtitle": "Intent, discoveries and corrections change the relevant competence’s method during work.",
     "kind": "Generative metacompetence",
     "domain": "Principles and evolving capabilities",
-    "does": "Recognizes a transferable principle in an author’s contribution and makes it operative in the relevant competence and situated ability.",
-    "when": "When a principle, an intent or a correction should change how your AI works.",
+    "does": "Makes a principle operative in the relevant competence and situated ability, from intent, discovery, observation or correction.",
+    "when": "When your AI needs to use the reason behind a contribution to work differently in new situations.",
     "examples": [
-      "A correction that improves quotations",
-      "A local preference remains local",
-      "An educational principle forms a new way of helping"
+      "An educational principle forms a new way of helping",
+      "A discovery changes how requests are handled",
+      "A correction that improves quotations"
     ],
     "route": "/resources/principi-che-diventano-capacita/",
-    "description": "Distinguish a local preference from a reusable principle and change the method guiding the next task."
+    "description": "Intent, discoveries and corrections change the relevant competence’s method during work."
   },
   "it": {
-    "title": "Trasformare principi e correzioni in capacità dell’AI",
-    "subtitle": "Dal significato di un principio al metodo che guida una scelta concreta.",
+    "title": "Dai principi alle abilità che evolvono nel lavoro",
+    "subtitle": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori.",
     "kind": "Metacompetenza generativa",
     "domain": "Principi e capacità evolutive",
-    "does": "Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti.",
-    "when": "Quando un principio, un intento o una correzione deve cambiare il modo in cui lavora la tua AI.",
+    "does": "Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione.",
+    "when": "Quando la tua AI deve usare la ragione di un contributo per lavorare diversamente in situazioni nuove.",
     "examples": [
-      "Una correzione che migliora i preventivi",
-      "Una preferenza locale resta locale",
-      "Un principio didattico forma un nuovo modo di aiutare"
+      "Un principio didattico forma un nuovo modo di aiutare",
+      "Una scoperta cambia la gestione delle richieste",
+      "Una correzione che migliora i preventivi"
     ],
     "route": "/risorse/principi-che-diventano-capacita/",
-    "description": "Distingui una preferenza locale da un principio riusabile e cambia il metodo che guiderà il prossimo lavoro."
+    "description": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori."
   }
 }

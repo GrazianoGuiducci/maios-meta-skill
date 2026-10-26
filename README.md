@@ -101,3 +101,6 @@ File consistency establishes delivery identity. Actual use in another assistant 
 [Apache-2.0](LICENSE). Downloadable kits include the license and attribution notice.
 
 Origin and direction: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
+
+
+[One competence, a public skill system or optional MPK integration](docs/USE.md): choose from your work while preserving existing capabilities.
