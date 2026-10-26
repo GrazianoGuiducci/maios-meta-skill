@@ -307,7 +307,12 @@
           "reforms",
           "enables"
         ],
-        "description": "A shared inquiry changes how cooperation is formed. Illustrative relationships, not mandatory stages."
+        "description": "A shared inquiry changes how cooperation is formed. Illustrative relationships, not mandatory stages.",
+        "reading": [
+          "Observations and models contribute to the shared question.",
+          "The new question reforms the cooperation method.",
+          "The evolved method enables continuation and a changed question."
+        ]
       },
       "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
@@ -343,7 +348,12 @@
           "riforma",
           "rende possibile"
         ],
-        "description": "Una ricerca comune cambia il modo di cooperare. Relazioni illustrative, non fasi obbligatorie."
+        "description": "Una ricerca comune cambia il modo di cooperare. Relazioni illustrative, non fasi obbligatorie.",
+        "reading": [
+          "Osservazioni e modelli contribuiscono alla domanda comune.",
+          "La nuova domanda riforma il metodo di cooperazione.",
+          "Il metodo evoluto rende possibile proseguire e cambiare la domanda."
+        ]
       },
       "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }

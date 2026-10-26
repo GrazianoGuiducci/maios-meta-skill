@@ -317,7 +317,13 @@
           "guides choice",
           "refines principle"
         ],
-        "description": "Intent, discovery or correction in the same work. Illustrative relationships, not mandatory stages."
+        "description": "Intent, discovery or correction in the same work. Illustrative relationships, not mandatory stages.",
+        "reading": [
+          "The source makes a principle recognizable.",
+          "The principle changes the relevant competence’s method.",
+          "The competence guides a choice in the new case.",
+          "The new case can refine the principle and how it is formed."
+        ]
       },
       "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
@@ -353,7 +359,13 @@
           "orienta la scelta",
           "affina il principio"
         ],
-        "description": "Intento, scoperta o correzione nello stesso lavoro. Relazioni illustrative, non fasi obbligatorie."
+        "description": "Intento, scoperta o correzione nello stesso lavoro. Relazioni illustrative, non fasi obbligatorie.",
+        "reading": [
+          "La fonte rende riconoscibile una relazione di principio.",
+          "Il principio cambia il metodo della competenza pertinente.",
+          "La competenza orienta la scelta nel nuovo caso.",
+          "Il nuovo caso può affinare il principio e il modo di formarlo."
+        ]
       },
       "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }

@@ -331,7 +331,12 @@
           "documents",
           "corrects"
         ],
-        "description": "The same archive, from question to source. Illustrative relationships, not mandatory stages."
+        "description": "The same archive, from question to source. Illustrative relationships, not mandatory stages.",
+        "reading": [
+          "The record describes the photograph.",
+          "The document establishes the provenance reported in the record.",
+          "A provenance correction updates the record and dependent views."
+        ]
       },
       "caption": "Views of the same relationship, selectable in any order. Learning changes later work; the figure is illustrative."
     },
@@ -367,7 +372,12 @@
           "documenta",
           "corregge"
         ],
-        "description": "Lo stesso archivio, dalla domanda alla fonte. Relazioni illustrative, non fasi obbligatorie."
+        "description": "Lo stesso archivio, dalla domanda alla fonte. Relazioni illustrative, non fasi obbligatorie.",
+        "reading": [
+          "La scheda descrive la fotografia.",
+          "Il documento attesta la provenienza riportata nella scheda.",
+          "Una correzione della provenienza aggiorna la scheda e le viste dipendenti."
+        ]
       },
       "caption": "Viste della stessa relazione, selezionabili in qualsiasi ordine. Il ritorno cambia il lavoro successivo; la figura è illustrativa."
     }
