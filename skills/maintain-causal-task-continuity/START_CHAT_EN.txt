@@ -1,26 +1,43 @@
-Apply this competence to the work described below. The public edition 0.3.2 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
 # Maintain Causal Task Continuity
+
+Organises working knowledge in an evolving guide and keeps a reentry point that lets the AI continue from relevant sources.
 
 Preserve what makes work resumable: intent, reasons for decisions, acquired knowledge, actions performed and open questions. A short current entry reaches a sufficiently detailed guide so an assistant can continue through the method already formed.
 
 Use this competence when a project crosses sessions, collaborators, interruptions or context reduction. Preserve the depth that would be costly or impossible to reconstruct.
 
+## A library prepares, continues and shares a workshop method
+
+The library changes facilitator while preparing an accessible reading workshop.
+
+Preserve the understanding from which work can continue, including why the method was formed and which contributions must still participate. A short entry reaches the accumulated guide and sources; it does not replace them. When a bounded next selection is already named, keep its identities and selection status so a later “continue” can be understood. Reentry combines this knowledge with present facts and the person’s current signal, preserving completed effects and local learning.
+
+## Adapt the method to your work and environment
+
+Research, education, software, services and cultural projects supply different sources and choices. Bring the work, its existing knowledge and the means actually available. The library case teaches relationships that you can adapt; it does not prescribe your project.
+
+A conversation can use the complete starter and return a guide to save. A file-enabled system can keep the whole kit and connect it through the environment’s native entry. An existing kernel can compose the pertinent contribution with its own competences and local learning.
+
 ## Preserve reasons and capabilities alongside facts
 
 Identify the selected work, who determines its direction and where its knowledge belongs. Reach the existing guide before creating another container. Keep each decision's reason: its supporting source or condition, what it makes possible and what could change it. Distinguish the person's words, observations, inferences and proposals. An open possibility can remain reachable without becoming the next assignment. When several competences must continue, preserve each contribution, why it remains pertinent and the method from which it resumes. A list of names does not transfer that capability.
+
 
 ## A reentry point that reaches working knowledge
 
 Keep a short current entry with objective, object, decisive sources, attained result, completed effects and next movement. Link it to the guide explaining intent, method, corrections and substantive passages. These are functions that can live in one document. Use the project's actual knowledge location, accessible to the recipient. If a page is regenerated, preserve reasons in a source regeneration will not overwrite. In a chat-only environment, return a complete note the person can save and bring to the next session.
 
+
 ## Accumulate knowledge during work
 
 Integrate a new reason, discovery or correction where it changes the method, while its relation is still understandable. Link to evidence instead of duplicating every log. When direction changes, update the continuation and retain attribution to the previous situation; do not imply that present understanding existed earlier. Preserve a decisive relation at risk before expanding sources further. Routine actions need no diary: retain what will change a decision or reentry.
 
+
 ## Resume from the present
 
 Compose the current request with the current entry, guide and necessary sources. Make the resumed relation recognizable. Recheck facts that may have changed when verification is pertinent and accessible. A previous summary is recovery evidence, not authority over the present. Preserve still-valid decisions and resolve differences through sources and the person's new signal. Do not repeat an effect already performed because a summary is incomplete. Keep authorization, results and proposals distinguishable. Proceed when the relation is sufficient, without habitually reloading the whole history.
+
 
 ## When continuity improves its own method
 
@@ -28,16 +45,23 @@ The direct work is continuing a project. A meta relation becomes pertinent when 
 
 The relation becomes autological when continuity considers its own preservation method. A summary may have retained an outcome but lost a decision's reason; the method can learn to make that reason reachable. This does not imply unlimited memory or autonomous execution.
 
-## Learning and continuation
+
+## Resume the reasons, preparation and contributions that remain useful
+
+Preserve the understanding from which work can continue, including why the method was formed and which contributions must still participate. A short entry reaches the accumulated guide and sources; it does not replace them. When a bounded next selection is already named, keep its identities and selection status so a later “continue” can be understood. Reentry combines this knowledge with present facts and the person’s current signal, preserving completed effects and local learning.
+
+## Continue through the actual project
 
 When reentry requires a person to explain an already acquired relation again, determine whether the knowledge, its connection or use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.
 
 A written guide makes knowledge available. A later, different case can show whether it is actually resumed. Retain what changes continuation; this learning concerns accessible documents and instructions, not changes to model weights.
-## Reachable operating knowledge
 
-Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+## Operating knowledge
 
-# Maintain Causal Task Continuity
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Maintain Causal Task Continuity — practical operating knowledge
 
 ## Accumulate the context that makes continuation possible
 
@@ -45,35 +69,61 @@ Use two connected functions. A short current margin identifies the present inten
 
 Integrate a meaningful difference where its meaning belongs while the work occurs. Repeated commands do not need another page; a new reason changing the next choice does. If a correction supersedes a direction, make the current direction clear and preserve the earlier event with its temporal attribution. Preserve a possibility without converting it into an assigned task. A short entry must not replace or delete the detailed knowledge it reaches.
 
+
 ## Recover an instance without inventing its history
 
 Read the available chronology together with the actual artifacts and changed bodies when the selected task is to recover the whole instance. Recover substantial questions and possibilities as well as completed actions. Keep exact operator wording when its formulation carries meaning. Attribute assistant proposals separately; mark genuine gaps rather than fabricating a continuous story. A dirty repository can contain other instances' work. Reconstruct the selected contribution through actual changed paths, artifact identities and observed effects.
+
 
 ## Reenter through the guide
 
 Reach the present and the sections explaining its reasons; follow a source when one relation is missing. State briefly what relation is being resumed when this helps the person orient. Let a new instruction correct the continuation without deleting acquired knowledge. At completion, close the active work margin while retaining the competence's usable knowledge. If later reentry still requires the person to reconstruct a missing relation, deepen this guide and the method that forms guides.
 
-# Maintain Causal Task Continuity — application examples
 
-[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+## Preserve what made the next action understandable
+
+Before a workshop handoff, keep the goal, permitted text, reason for comparing interpretations, the accessibility contribution still needed and the facilitator’s next decision. A note saying only “prepare the session” loses the method. Use the existing guide and point the current entry to its pertinent section. If work pauses during source reading, preserve what the reading has already changed and which relation remains missing. A chat-only recipient can receive a complete saved note; a file-enabled recipient can use the project’s durable guide.
+
+
+## A named continuation preserves its status and its reason
+
+A review has completed three resources and named three for a later selection. Keep their actual names and why they matter beside the current pointer. This preserves an intelligible next choice without silently starting it. When the person later selects continuation, read the current source identities before dependent work. For recurring work, retain why continuation remains useful when consequences, duplication or changed uptake make that question material; scheduling changes remain with the activity’s responsible owner.
+
+## When continuity improves its own method
+
+The direct work is to let a project continue. A meta relation becomes relevant when experience changes how a competence organises the knowledge needed for subsequent work.
+
+The relation is autological when continuity considers its own way of preserving knowledge: if a summary retained the result but lost the reason for a decision, the method can learn to make that reason accessible. This does not amount to unlimited memory or autonomous execution.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## Resume app development with decisions and open problems intact
 
 Before interrupting development, the guide preserves why a component was chosen, what has been checked and which defect remains open. At reentry, the assistant reads those connections and checks the current files before continuing. Observe whether it resumes the same problem without repeating completed changes.
 
+The component was chosen because the application must also work offline. Keep that reason, its source, the checked revision and the unresolved synchronization problem. A later network feature need not replace the offline choice. If current files contain a collaborator’s change, identify its contribution before integrating yours. A passing test from the earlier revision remains evidence for that revision; recheck the changed behavior that now matters.
+
+
 ## Continue research after changing chat
 
 The research distinguishes its question, sources actually read, a hypothesis and an unresolved contradiction. The new chat receives the guide and accessible references. A new article may change the question while retaining attribution to what the research supported earlier.
+
+The guide records why two apparently similar studies cannot yet be compared and which source section remains unread. The receiving chat gets that reason and accessible evidence, rather than a confident merged conclusion. If the missing section becomes available, complete the comparison from that new fact. Preserve the earlier uncertainty at its time and retain the contributions still needed; the new conclusion does not make earlier access complete.
+
 
 ## Hand a business proposal to another assistant
 
 The next assistant receives the proposal’s purpose, recipient, reasons for its terms and choices still open. The guide distinguishes a prepared draft from a sent proposal. The collaborator can complete the draft; receiving context does not automatically authorize contacting the client.
 
-## Apply the method to your case
-
-Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+The price assumes a fixed delivery location; a flexible location remains an open alternative. Preserve that distinction and the recipient’s question in the existing proposal guide. The next assistant can revise the terms with the current facts while retaining the selected base offer. A saved draft and an observed send have separate identities. The handoff reaches the next choice without repeating a message already sent or treating the draft as client acceptance.
 
 
-# Your context
+## A library prepares, continues and shares a workshop method
 
-Intention, sources, existing work, available means and entrusted actions: [add here].
+The library changes facilitator while preparing an accessible reading workshop. Its current entry reaches why two interpretations will be compared, which excerpts are permitted and how multilingual participation can change the next question. The guide names the still-needed accessibility contribution and preserves a future public-kit idea as unselected. The new facilitator reads those reasons and current materials, then adapts the session without reconstructing everything from the last agenda item. A public handoff later receives the reusable method; private participant notes stay with the library. This is an illustrative continuation, not evidence that another assistant has assimilated it.
+
+
+My assignment, sources, existing work, available means and requested result:

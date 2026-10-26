@@ -1,13 +1,7 @@
-# Installare Form Public Meta-Skill Resources in Codex
+# Adottare Form Public Meta-Skill Resources
 
-Questo kit è alla versione 0.3.3. Conserva tutti i file della cartella `form-public-metaskill-resources`.
+In una conversazione, allega l’intero AVVIO_CHAT_IT.txt e porta lavoro, fonti e mezzi disponibili. Con accesso ai file, conserva la cartella completa in una sede del progetto e rendi SKILL_IT.md raggiungibile dall’ingresso nativo dell’ambiente. Preserva il metodo esistente, l’apprendimento locale e il lavoro in corso; confronta funzione, responsabile e metodo prima di integrare una revisione. Leggi guida pratica ed esempi. Le istruzioni non creano strumenti o persistenza mancanti.
 
-1. Estrai lo ZIP scaricato.
-2. Copia `form-public-metaskill-resources` nella directory `.agents/skills/` del progetto. L'ingresso è `.agents/skills/form-public-metaskill-resources/SKILL.md`. Conserva un'eventuale cartella esistente, senza sovrascriverla.
-3. Apri Codex nel progetto e richiama `$form-public-metaskill-resources` con intento concreto e fonti pertinenti. Riavvia la sessione se l'ingresso non compare.
+## Esempio: un progetto Codex
 
-Per lavorare in italiano chiedi un risultato italiano; l'ingresso installato rimane inglese e SKILL_IT.md è disponibile. Leggi GUIDA_OPERATIVA_IT.md e osserva il primo uso con i mezzi reali. Presenza nel selettore, lavoro utile e apprendimento successivo sono osservazioni distinte. Confronta gli aggiornamenti con il sapere locale prima di integrarli.
-
-[Installer della repository e aggiornamenti](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/INSTALL_IT.md) · [Uso in chat](README_IT.md)
-
-[OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills).
+Estrai il pacchetto ZIP completo e copia la cartella form-public-metaskill-resources in `.agents/skills/` del progetto. Conserva una copia esistente anziché sovrascriverla. Apri Codex nel progetto e richiama `$form-public-metaskill-resources` con un incarico reale. Se la discovery non è aggiornata, avvia una nuova sessione. Gli altri ambienti usano la propria discovery e le proprie convenzioni di progetto.

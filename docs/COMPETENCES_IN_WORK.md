@@ -82,3 +82,26 @@ A later different workshop can show whether a learned reason actually changes
 the next choice. Making a method available, using it and assimilating it retain
 their own observations. The case teaches those relationships; it does not report
 customer adoption or an exercised multi-system runtime.
+
+### Preparing, continuing and making that method public
+
+[Meta_Metodo](https://maios.it/resources/organizzare-lavoro-complesso/)
+lets educational knowledge and accessible participation reshape an initial
+request for a worksheet. The agreed session length remains a real condition.
+The useful method forms through those contributions while the work is understood.
+
+[Maintain Causal Task Continuity](https://maios.it/resources/continuita-del-lavoro-ai/)
+preserves why interpretations are compared, which sources are usable and which
+contribution must still participate when the facilitator changes. Its current
+entry reaches the accumulated guide. An idea for a future public kit retains
+its identity and unselected status until the person chooses that continuation.
+
+When sharing is selected,
+[Form Public Meta-Skill Resources](https://maios.it/resources/formare-risorse-pubbliche/)
+transfers the reusable choices and their reasons, preserving private participant
+records with the library. Follow the complete starter, extracted kit, page and
+any separate assistant knowledge collection through what each recipient actually
+receives. A page update alone does not update another consumer's snapshot.
+
+Each contribution is useful independently. Their relation follows the library's
+actual work and means; it does not prescribe an order, a provider or a new manager.

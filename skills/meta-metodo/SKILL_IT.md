@@ -1,9 +1,14 @@
 ---
 name: meta-metodo
 description: "Form a situated method for complex work. Use when intent, sources, possibilities, tools and priorities are mixed, an initial solution narrows the question, or a consequential discovery should change the method."
+metadata:
+  version: 0.3.3
+  language: it
 ---
 
 # Meta_Metodo
+
+Ricostruisce ciò da cui il lavoro prende senso, collega i piani che partecipano e lascia cambiare domanda e metodo quando emergono relazioni nuove.
 
 **Organizzare un lavoro complesso con l’AI**
 
@@ -11,25 +16,42 @@ Meta_Metodo forma il modo di affrontare un lavoro mentre la situazione diventa c
 
 Usalo quando il racconto mescola idee, strumenti, priorità e risultati attesi, oppure quando una prima soluzione rischia di decidere da sola ciò che il progetto può diventare.
 
+## Una biblioteca prepara, continua e condivide un metodo di laboratorio
+
+Una biblioteca vuole laboratori di lettura adattabili a gruppi diversi.
+
+Un intento che prende forma può rendere pertinenti fonti e competenze prima di una prima soluzione. Leggile mentre comprendi l’oggetto, poi torna alla richiesta originaria con ciò che è diventato chiaro. Il mezzo nominato per primo non determina l’intero progetto. Conserva le decisioni già emerse e lascia che una differenza materiale cambi domanda o costruzione. Integra il risultato dove il sapere continuerà; anche il metodo può imparare dal movimento.
+
+## Adattare il metodo al proprio lavoro e ambiente
+
+Ricerca, educazione, software, servizi e progetti culturali portano fonti e scelte diverse. Porta lavoro, sapere esistente e mezzi realmente disponibili. Il caso della biblioteca insegna relazioni adattabili; non prescrive il tuo progetto.
+
+Una conversazione usa l’avvio completo e restituisce una guida da salvare. Un sistema con accesso ai file conserva il kit intero e lo collega attraverso l’ingresso nativo dell’ambiente. Un kernel esistente compone il contributo pertinente con le proprie competenze e l’apprendimento locale.
+
 ## Ritrovare da che cosa il lavoro prende senso
 
 Comprendi l’intento dell’operatore, l’oggetto presente, le ragioni e ciò che è già determinato. Il primo elemento raccontato non è necessariamente l’origine causale del lavoro; l’ultimo non è necessariamente il suo risultato. Una richiesta di usare uno strumento può esprimere un bisogno più ampio. Tieni raggiungibile la relazione sorgente e permetti al sapere pertinente di cambiarne la comprensione. Conserva decisioni autentiche: non riaprirle soltanto per mantenere astrattamente tutte le possibilità.
+
 
 ## Far partecipare conoscenze e mezzi
 
 Apri le fonti e i metodi delle competenze che possono cambiare il lavoro. Un indice aiuta a trovare il sapere; non ne sostituisce la lettura. Le risorse non sono soltanto strumenti da scegliere dopo avere deciso la soluzione: una conoscenza, una persona o un mezzo possono cambiare la domanda e ciò che diventa realizzabile. Distingui ciò che una fonte spiega, ciò che una competenza sa fare, ciò che uno strumento esegue e ciò che una persona decide. Componili per la relazione utile, senza imporre un gruppo fisso o caricare tutto il sistema.
 
+
 ## Comprendere piani e relazioni
 
 Mantieni distinguibili intento, fatti, ipotesi, possibilità, metodo ed effetti quando confonderli cambia il risultato. Un dato può correggere una scelta senza diventare autorità su ogni aspetto del progetto. Una possibilità può orientare la preparazione senza essere già una capacità disponibile. Un effetto concreto dipende dai suoi strumenti e dal mandato effettivo. Queste distinzioni consentono di connettere i piani; non devono diventare silos, classificazioni obbligatorie o permessi preventivi per pensare.
+
 
 ## Lasciare che il lavoro formi il metodo
 
 Quando il campo è sufficiente, produci il prossimo risultato utile. Può essere una costruzione, una fonte recuperata, una domanda più precisa o una possibilità ancora da lasciare aperta. Se la prima lettura ha ristretto il problema, torna alla fonte dal contesto che hai ora compreso: il nuovo sapere può mostrare una relazione che prima non partecipava. Cambia domanda, rappresentazione, competenze o scala se quella differenza è materiale. La rilettura non è una conferma indipendente e non richiede un numero prestabilito di passaggi. Fermati quando un ulteriore giro riproduce soltanto la stessa forma.
 
+
 ## Integrare ciò che cambia il seguito
 
 Rendi il risultato utilizzabile nel luogo del progetto che ne possiede il significato. Conserva le ragioni del metodo e il contributo delle competenze ancora necessarie quando il lavoro attraversa sessioni. Una correzione di dominio cambia il metodo di dominio; una perdita nel modo di organizzare cambia questa competenza; un ingresso che non raggiunge sapere esistente va ricollegato. Mantieni fonte, interpretazione ed effetto distinguibili. Non creare un nuovo manager o un nuovo documento se la capacità utile è già presente e manca solo il collegamento.
+
 
 ## Il metodo come oggetto del metodo
 
@@ -37,11 +59,17 @@ Meta_Metodo opera sul modo in cui il lavoro viene compreso e organizzato: questa
 
 La relazione autologica emerge quando esamina il proprio organizzare: si accorge, per esempio, che il nome di uno strumento ha selezionato tutte le fonti e ristretto il progetto. Riforma quel metodo mentre continua. Autologica non significa esecuzione autonoma: l’autonomia riguarda mezzi, mandato e condizioni dell’effetto.
 
-## Apprendimento e continuità
+
+## Far formare il metodo da intento e conoscenza insieme
+
+Un intento che prende forma può rendere pertinenti fonti e competenze prima di una prima soluzione. Leggile mentre comprendi l’oggetto, poi torna alla richiesta originaria con ciò che è diventato chiaro. Il mezzo nominato per primo non determina l’intero progetto. Conserva le decisioni già emerse e lascia che una differenza materiale cambi domanda o costruzione. Integra il risultato dove il sapere continuerà; anche il metodo può imparare dal movimento.
+
+## Continuare attraverso il progetto reale
 
 Conserva ciò che ha cambiato domanda o metodo e come ritrovarne la sorgente. Un caso riuscito può insegnare una nuova forma di organizzazione senza renderla obbligatoria per tutti i lavori.
 
 La guida deve consentire al prossimo uso di partire dalla comprensione acquisita. Se il metodo diventa una lista rituale, torna alla relazione che quella struttura doveva rendere possibile e mantieni solo ciò che cambia il lavoro.
-## Sapere operativo raggiungibile
 
-Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

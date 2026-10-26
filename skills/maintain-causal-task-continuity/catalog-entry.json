@@ -1,7 +1,7 @@
 {
   "id": "continuita-del-lavoro-ai",
   "name": "Maintain Causal Task Continuity",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "01",
@@ -10,7 +10,7 @@
   "starter": "skills/maintain-causal-task-continuity/START_CHAT_EN.txt",
   "examples": "skills/maintain-causal-task-continuity/EXAMPLES.md",
   "presentation": "skills/maintain-causal-task-continuity/presentation.json",
-  "package": "dist/maintain-causal-task-continuity-0.3.2.zip",
+  "package": "dist/maintain-causal-task-continuity-0.3.3.zip",
   "it": {
     "route": "/risorse/continuita-del-lavoro-ai/",
     "title": "Riprendere un progetto con l’AI dopo un’interruzione",
@@ -23,7 +23,8 @@
       "Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
       "Continua una ricerca dopo il cambio di chat.",
       "Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte."
-    ]
+    ],
+    "status": "Edizione pubblica · 0.3.3"
   },
   "en": {
     "route": "/resources/continuita-del-lavoro-ai/",
@@ -37,7 +38,8 @@
       "Resume app development with decisions and unresolved problems available.",
       "Continue research after changing chats.",
       "Hand a business proposal to another assistant with its objective and reasons."
-    ]
+    ],
+    "status": "Public edition · 0.3.3"
   },
   "native_entry": "maintain-causal-task-continuity",
   "default_language": "en",

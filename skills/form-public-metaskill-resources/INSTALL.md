@@ -1,13 +1,7 @@
-# Install Form Public Meta-Skill Resources in Codex
+# Adopt Form Public Meta-Skill Resources
 
-This kit is version 0.3.3. Keep the whole `form-public-metaskill-resources` folder together.
+In a conversation, attach the complete START_CHAT_EN.txt and supply your work, sources and available means. With file access, keep the complete folder in a project-owned location and make SKILL.md reachable through the host’s native entry. Preserve an existing method, local learning and ongoing work; compare function, responsible owner and method before integrating a revision. Read the practical guide and examples. Instructions do not create missing tools or persistence.
 
-1. Extract the downloaded ZIP.
-2. Copy `form-public-metaskill-resources` into your project's `.agents/skills/` directory. The entry is `.agents/skills/form-public-metaskill-resources/SKILL.md`. Preserve any existing folder rather than overwriting it.
-3. Open Codex in that project and invoke `$form-public-metaskill-resources` with a concrete intent and relevant sources. Restart the session if the entry does not appear.
+## Example: a Codex project
 
-Ask for Italian output to work in Italian; the installed entry remains English and SKILL_IT.md is available. Read OPERATING_GUIDE.md and observe first use with your actual tools. Appearance in the selector, useful work and later learning are distinct observations. Compare future updates with local knowledge before integrating them.
-
-[Repository installer and update guide](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/INSTALL.md) · [Chat use](README.md)
-
-[OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills).
+Extract the complete ZIP and copy its form-public-metaskill-resources folder into your project’s `.agents/skills/`. Keep an existing copy instead of overwriting it. Open Codex in that project and invoke `$form-public-metaskill-resources` with a real task. If discovery has not refreshed, start a new session. Other hosts use their own discovery and project conventions.

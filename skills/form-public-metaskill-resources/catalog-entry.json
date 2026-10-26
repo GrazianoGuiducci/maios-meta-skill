@@ -1,7 +1,7 @@
 {
   "id": "formare-risorse-pubbliche",
   "name": "Form Public Meta-Skill Resources",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "08",
@@ -10,7 +10,7 @@
   "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
   "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
   "presentation": "skills/form-public-metaskill-resources/presentation.json",
-  "package": "dist/form-public-metaskill-resources-0.3.3.zip",
+  "package": "dist/form-public-metaskill-resources-0.3.4.zip",
   "it": {
     "route": "/risorse/formare-risorse-pubbliche/",
     "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -23,7 +23,8 @@
       "Converte una competenza interna in un kit con guida e avvio.",
       "Prepara scheda e pagina di una risorsa open source.",
       "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
-    ]
+    ],
+    "status": "Edizione pubblica · 0.3.4"
   },
   "en": {
     "route": "/resources/formare-risorse-pubbliche/",
@@ -37,7 +38,8 @@
       "Turn an internal competence into a kit with a guide and starter.",
       "Prepare a card and dedicated page for an open-source resource.",
       "Derive an article and social adaptations from the same resource version."
-    ]
+    ],
+    "status": "Public edition · 0.3.4"
   },
   "native_entry": "form-public-metaskill-resources",
   "default_language": "en",

@@ -78,7 +78,7 @@
     {
       "id": "continuita-del-lavoro-ai",
       "name": "Maintain Causal Task Continuity",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "01",
@@ -87,7 +87,7 @@
       "starter": "skills/maintain-causal-task-continuity/START_CHAT_EN.txt",
       "examples": "skills/maintain-causal-task-continuity/EXAMPLES.md",
       "presentation": "skills/maintain-causal-task-continuity/presentation.json",
-      "package": "dist/maintain-causal-task-continuity-0.3.2.zip",
+      "package": "dist/maintain-causal-task-continuity-0.3.3.zip",
       "it": {
         "route": "/risorse/continuita-del-lavoro-ai/",
         "title": "Riprendere un progetto con l’AI dopo un’interruzione",
@@ -100,7 +100,8 @@
           "Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
           "Continua una ricerca dopo il cambio di chat.",
           "Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte."
-        ]
+        ],
+        "status": "Edizione pubblica · 0.3.3"
       },
       "en": {
         "route": "/resources/continuita-del-lavoro-ai/",
@@ -114,7 +115,8 @@
           "Resume app development with decisions and unresolved problems available.",
           "Continue research after changing chats.",
           "Hand a business proposal to another assistant with its objective and reasons."
-        ]
+        ],
+        "status": "Public edition · 0.3.3"
       },
       "native_entry": "maintain-causal-task-continuity",
       "default_language": "en",
@@ -276,7 +278,7 @@
     {
       "id": "organizzare-lavoro-complesso",
       "name": "Meta_Metodo",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "04",
@@ -285,7 +287,7 @@
       "starter": "skills/meta-metodo/START_CHAT_EN.txt",
       "examples": "skills/meta-metodo/EXAMPLES.md",
       "presentation": "skills/meta-metodo/presentation.json",
-      "package": "dist/meta-metodo-0.3.2.zip",
+      "package": "dist/meta-metodo-0.3.3.zip",
       "it": {
         "route": "/risorse/organizzare-lavoro-complesso/",
         "title": "Organizzare un lavoro complesso con l’AI",
@@ -298,7 +300,8 @@
           "Collega ricerca, prodotto, offerta e comunicazione di un lancio.",
           "Organizza un progetto partendo da appunti esposti fuori ordine.",
           "Rivede il metodo quando una nuova fonte cambia la domanda di ricerca."
-        ]
+        ],
+        "status": "Edizione pubblica · 0.3.3"
       },
       "en": {
         "route": "/resources/organizzare-lavoro-complesso/",
@@ -312,7 +315,8 @@
           "Connect research, product, offer and communication for a launch.",
           "Organise a project from notes presented out of order.",
           "Revise the method when a new source changes the research question."
-        ]
+        ],
+        "status": "Public edition · 0.3.3"
       },
       "native_entry": "meta-metodo",
       "default_language": "en",
@@ -542,7 +546,7 @@
     {
       "id": "formare-risorse-pubbliche",
       "name": "Form Public Meta-Skill Resources",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "08",
@@ -551,7 +555,7 @@
       "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
       "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
       "presentation": "skills/form-public-metaskill-resources/presentation.json",
-      "package": "dist/form-public-metaskill-resources-0.3.3.zip",
+      "package": "dist/form-public-metaskill-resources-0.3.4.zip",
       "it": {
         "route": "/risorse/formare-risorse-pubbliche/",
         "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -564,7 +568,8 @@
           "Converte una competenza interna in un kit con guida e avvio.",
           "Prepara scheda e pagina di una risorsa open source.",
           "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
-        ]
+        ],
+        "status": "Edizione pubblica · 0.3.4"
       },
       "en": {
         "route": "/resources/formare-risorse-pubbliche/",
@@ -578,7 +583,8 @@
           "Turn an internal competence into a kit with a guide and starter.",
           "Prepare a card and dedicated page for an open-source resource.",
           "Derive an article and social adaptations from the same resource version."
-        ]
+        ],
+        "status": "Public edition · 0.3.4"
       },
       "native_entry": "form-public-metaskill-resources",
       "default_language": "en",

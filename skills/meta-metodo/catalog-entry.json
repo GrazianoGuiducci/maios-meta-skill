@@ -1,7 +1,7 @@
 {
   "id": "organizzare-lavoro-complesso",
   "name": "Meta_Metodo",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "04",
@@ -10,7 +10,7 @@
   "starter": "skills/meta-metodo/START_CHAT_EN.txt",
   "examples": "skills/meta-metodo/EXAMPLES.md",
   "presentation": "skills/meta-metodo/presentation.json",
-  "package": "dist/meta-metodo-0.3.2.zip",
+  "package": "dist/meta-metodo-0.3.3.zip",
   "it": {
     "route": "/risorse/organizzare-lavoro-complesso/",
     "title": "Organizzare un lavoro complesso con l’AI",
@@ -23,7 +23,8 @@
       "Collega ricerca, prodotto, offerta e comunicazione di un lancio.",
       "Organizza un progetto partendo da appunti esposti fuori ordine.",
       "Rivede il metodo quando una nuova fonte cambia la domanda di ricerca."
-    ]
+    ],
+    "status": "Edizione pubblica · 0.3.3"
   },
   "en": {
     "route": "/resources/organizzare-lavoro-complesso/",
@@ -37,7 +38,8 @@
       "Connect research, product, offer and communication for a launch.",
       "Organise a project from notes presented out of order.",
       "Revise the method when a new source changes the research question."
-    ]
+    ],
+    "status": "Public edition · 0.3.3"
   },
   "native_entry": "meta-metodo",
   "default_language": "en",

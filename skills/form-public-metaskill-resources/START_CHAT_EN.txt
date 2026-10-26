@@ -1,26 +1,43 @@
-Apply this competence to the work described below. The public edition 0.3.3 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
 # Form Public Meta-Skill Resources
+
+Forms a resource usable outside its original context, preserving the method and making the first use clear for another person's AI.
 
 Turn internal know-how into a resource people and assistants outside its originating context can understand, start and adapt. Hold together transferred method, guide, first use, repository or other distribution location, presentation page and editorial adaptations.
 
 Begin with work the recipient can entrust to the resource. A concrete function, competence or composition can be useful; the label “meta” does not determine its value.
 
+## A library prepares, continues and shares a workshop method
+
+The library selects publication of its workshop method.
+
+Follow each material function from its source knowledge to the operating entry the recipient consumes: kit, starter, page or assistant context. Preserve decisions, reasons, supplied tools and local adaptations. When an assistant uses a separate knowledge snapshot, a page update alone leaves that passage unchanged. Correct the first responsible transformation and its actual dependents. Keep each observation tied to the edition it exercised, while returning reusable learning to the formation method.
+
+## Adapt the method to your work and environment
+
+Research, education, software, services and cultural projects supply different sources and choices. Bring the work, its existing knowledge and the means actually available. The library case teaches relationships that you can adapt; it does not prescribe your project.
+
+A conversation can use the complete starter and return a guide to save. A file-enabled system can keep the whole kit and connect it through the environment’s native entry. An existing kernel can compose the pertinent contribution with its own competences and local learning.
+
 ## Begin with capability and recipient
 
 Read the source competence, reasons for its formation and work guide. Understand what the recipient can do, when it matters and what knowledge enables adaptation. Reach knowledge in guides and relations with other capabilities too: a folder or description does not exhaust a function. When composing competences, transfer the bridge from knowledge to choice rather than leaving the recipient to reconstruct it from names.
+
 
 ## Form a method usable outside its originating context
 
 Preserve meaning, reasons, capabilities and revisability. Replace private dependencies with included knowledge or accessible sources. Removing paths and names alone is insufficient: the recipient needs to know what to observe, which relation changes a decision and how to continue. Preserve the conditions making a lesson valid. Distinguish proposed method, implemented capability, observed exercise and assimilation. New examples remain illustrative. Remove credentials, account state, contacts, histories and unnecessary private details.
 
+
 ## Build the method, guide and first use
 
 Form an operating body at the depth required by the work. The guide explains use and adaptation; examples make different cases recognizable. A self-contained starter includes the necessary method. An entry referring to files must reach files actually available. Explain differences between chat, an agentic environment and an existing kernel where they affect use. Show how knowledge can continue through documents or a saved note. Instructions do not install tools, memory, accounts or schedulers.
 
+
 ## Present capability without losing depth
 
 The card makes what it does, when to use it and recognizable cases immediate. Title and subtitle identify object and context for a new reader. The dedicated page reaches method, starter, examples and pertinent conceptual depth. Clarify what is transformed: a meta relation forms or changes methods and competences; an autological relation concerns its own operation. Composition, automation and autonomy are not synonyms for these relations.
+
 
 ## Continue the same resource across its projections
 
@@ -28,22 +45,30 @@ Keep identity and version coherent across body, guide, starter and presentation.
 
 Keep the canonical entry identifier stable and retain the native source title with its attribution. A public display name can use the collection's primary language when it names the same competence; use that public name in both language editions. Preserve proper names such as KA, Meta_Metodo and Proto Movimento. Functional titles explain what the competence does and remain distinct from its name and identifier. Verify these relations against the native source, not only against a catalogue that may repeat an editorial substitution.
 
+
 ## A resource that also teaches resource formation
 
 The meta relation is its object: forming a usable capability from internal knowledge and connecting its entries. The method can be applied to its own public transformation.
 
 The autological relation appears when recipient difficulty corrects formation itself. A prompt pointing to a private guide lacks operating knowledge in the recipient, not merely a working link. That feedback changes how the next kit is built. Return to the method does not imply autonomous distribution.
 
-## Learning and continuation
+
+## Follow the capability through what its recipient actually receives
+
+Follow each material function from its source knowledge to the operating entry the recipient consumes: kit, starter, page or assistant context. Preserve decisions, reasons, supplied tools and local adaptations. When an assistant uses a separate knowledge snapshot, a page update alone leaves that passage unchanged. Correct the first responsible transformation and its actual dependents. Keep each observation tied to the edition it exercised, while returning reusable learning to the formation method.
+
+## Continue through the actual project
 
 An understanding problem changes a card or explanation; a usage gap changes method, guide or activation; source/package divergence changes the build mechanism. Correct the projections actually depending on the difference while preserving other work.
 
 Keep the source, reason and consequence that improve the next resource. An initial implementation makes the method available and documents its case. A different later adoption may reveal its capabilities and limits.
-## Reachable operating knowledge
 
-Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+## Operating knowledge
 
-# Form Public Meta-Skill Resources
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Form Public Meta-Skill Resources — practical operating knowledge
 
 ## Transfer the capability, then derive its presentation
 
@@ -51,11 +76,13 @@ Reach the native entry and the guides, tools and examples that supply its actual
 
 For each material function, make its operating contribution reachable in the public method, guide or supplied tool. Preserve why an observation changes a choice and what would cause adaptation. Keep the canonical entry identifier stable and retain the native source title with its attribution. A public display name can use the collection's primary language when it names the same competence; use that public name in both language editions. Preserve proper names such as KA, Meta_Metodo and Proto Movimento. Functional titles explain what the competence does and remain distinct from its name and identifier. Verify these relations against the native source, not only against a catalogue that may repeat an editorial substitution. English and Italian versions must preserve mechanisms, conditions and causal choices, including worked examples; equal section or word counts do not establish equivalence.
 
+
 ## Deliver a self-contained resource
 
 Provide an entry that teaches the work, an appropriate use guide, worked cases and a usable first start. With files, connect the entry to the folder's knowledge and executable means. In a chat without file access, carry the necessary operating knowledge into the supplied starter. A relative private link cannot transport that knowledge. Where an executable function belongs to the transfer, include its code, inputs, use instructions, failure interpretation and meaningful existing tests adapted to the public context.
 
 Build downloadable packages from one selected source identity, preserving concurrent work. Compare delivered members with that identity rather than an unrelated checkout. The website should let a person understand the function, when to use it, the examples, the practical method and its deeper relations. A summary remains an entry to the complete resource.
+
 
 ## Preserve the same meaning through distribution
 
@@ -63,27 +90,51 @@ Derive the article from the actual resource and adapt it for the selected channe
 
 The formation method learns from its own transfer. If examples were generated from catalog slogans, repair the example source consumed by the generator. If a body already taught a relation but was bypassed, reconnect that knowledge at the decision that displaced it. An audit is useful when it changes the actual transfer; diagnosis alone does not complete the selected delivery.
 
-# Form Public Meta-Skill Resources — application examples
 
-[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+## Read the delivered knowledge from the receiving side
+
+A source guide explains when to compare interpretations, but a generated starter carries only the resource’s promise. Read the starter as the recipient will receive it, including the selected language and supplied local context. Repair the transformation that lost the decision relation and regenerate its dependents. If an assistant selects documents from a separate collection, inspect that collection and the actual selection too. A source-function check can establish what is selected; an observed model answer is a separate exercise.
+
+
+## Let evidence follow the current resultant
+
+A revision may preserve the package bytes while changing a public pointer or knowledge snapshot. Retain earlier evidence for the unchanged object and check the passage that changed against its current source identity. Extracted archives should resolve their own necessary references; a repository link can remain optional and public. Preserve the recipient’s useful local method when adopting an update. Installation, discovery, exercised function and assimilation describe different observations. Their distinction helps complete the selected transfer without inventing a universal compatibility claim.
+
+## A resource that also teaches how to form resources
+
+The meta relation is its object: it forms a usable capability from internal know-how and connects its entry points. The same method can be applied to its own transformation into a public resource.
+
+The autological relation appears when a recipient's difficulty corrects the formation method: if the prompt refers to a private guide, it is not only a missing link; the receiving assistant lacks operating knowledge. That feedback changes how the next kit is built. The return to the method does not imply autonomous distribution.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## Transfer an internal research competence into a usable public kit
 
 A team shares how it organizes research. The public resource includes the knowledge needed to choose and interpret sources, with neutral examples, while removing private paths and priorities. The recipient can begin without the team’s archive and can recognize which cases are illustrative.
 
+The private guide carries source-selection reasons beyond the short skill entry. Include those decisions with permitted examples; if recording or another executable function belongs to the selected capability, supply its actual means and use knowledge too. Extract the kit and follow its required references from that location. Removing the team’s paths alone would leave the reader without the reason that changes a research choice.
+
+
 ## Connect a resource card to a complete page
 
 The card makes the work entrusted to the competence clear. The page explains method, first use and adaptation. Its meta relation is connected to a case: work changes the method producing it. The page does not use that relation as a generic promise of superiority.
+
+The card names a practical assignment; the page reaches the developed method, worked cases and complete starter. Compare the English example with the Italian case’s condition and choice, rather than its catalogue label. If the attached assistant still receives the earlier summary, update the knowledge projection through its own owner. A consistent card and page can repeat the same omission, so return to the native source when qualifying completeness.
+
 
 ## Derive an article and social adaptations from one resource edition
 
 Prepare an article and channel adaptations from the same kit edition. A short text retains the useful contribution and links the complete resource. Preparation, approval and publication keep their own states; existing files do not establish that posts have been sent.
 
-## Apply the method to your case
-
-Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
+An article uses a workshop case from a selected edition. A later correction changes why a question is useful, so reconcile that causal explanation wherever it was actually derived. Preserve a prepared queue and already observed sends. A caption correction alone may leave a coherent article unchanged. The distribution owner retains its channel and actual authority; producing a new kit does not resend its earlier announcement.
 
 
-# Your context
+## A library prepares, continues and shares a workshop method
 
-Intention, sources, existing work, available means and entrusted actions: [add here].
+The library selects publication of its workshop method. The public kit receives why comparing interpretations helps, conditions for a different question, a complete starter and a guide it can evolve. Private participant records and the library’s account configuration stay outside the transfer. A page explains the capability for varied systems. If an accompanying assistant uses a knowledge collection, the same edition and worked case must reach that consumer through its own source. Archive correspondence, page behavior and knowledge selection each have their own observations. The formation method learns from a missing passage without turning the library’s particular sequence into a universal template.
+
+
+My assignment, sources, existing work, available means and requested result:

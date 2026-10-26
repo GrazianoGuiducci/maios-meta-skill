@@ -1,13 +1,7 @@
-# Installare Meta_Metodo in Codex
+# Adottare Meta_Metodo
 
-Questo kit è alla versione 0.3.2. Conserva tutti i file della cartella `meta-metodo`.
+In una conversazione, allega l’intero AVVIO_CHAT_IT.txt e porta lavoro, fonti e mezzi disponibili. Con accesso ai file, conserva la cartella completa in una sede del progetto e rendi SKILL_IT.md raggiungibile dall’ingresso nativo dell’ambiente. Preserva il metodo esistente, l’apprendimento locale e il lavoro in corso; confronta funzione, responsabile e metodo prima di integrare una revisione. Leggi guida pratica ed esempi. Le istruzioni non creano strumenti o persistenza mancanti.
 
-1. Estrai lo ZIP scaricato.
-2. Copia `meta-metodo` nella directory `.agents/skills/` del progetto. L'ingresso è `.agents/skills/meta-metodo/SKILL.md`. Conserva un'eventuale cartella esistente, senza sovrascriverla.
-3. Apri Codex nel progetto e richiama `$meta-metodo` con intento concreto e fonti pertinenti. Riavvia la sessione se l'ingresso non compare.
+## Esempio: un progetto Codex
 
-Per lavorare in italiano chiedi un risultato italiano; l'ingresso installato rimane inglese e SKILL_IT.md è disponibile. Leggi GUIDA_OPERATIVA_IT.md e osserva il primo uso con i mezzi reali. Presenza nel selettore, lavoro utile e apprendimento successivo sono osservazioni distinte. Confronta gli aggiornamenti con il sapere locale prima di integrarli.
-
-[Installer della repository e aggiornamenti](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/INSTALL_IT.md) · [Uso in chat](README_IT.md)
-
-[OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills).
+Estrai il pacchetto ZIP completo e copia la cartella meta-metodo in `.agents/skills/` del progetto. Conserva una copia esistente anziché sovrascriverla. Apri Codex nel progetto e richiama `$meta-metodo` con un incarico reale. Se la discovery non è aggiornata, avvia una nuova sessione. Gli altri ambienti usano la propria discovery e le proprie convenzioni di progetto.

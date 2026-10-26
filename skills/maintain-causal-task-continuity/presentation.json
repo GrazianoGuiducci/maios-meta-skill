@@ -31,6 +31,10 @@
       {
         "title": "Riprendere dal presente",
         "body": "Al rientro componi la richiesta attuale con il punto corrente, la guida e le fonti necessarie. Rendi riconoscibile da dove riparti. Verifica i fatti che possono essere cambiati quando la verifica è pertinente e accessibile. Tratta un riassunto precedente come indicazione di recupero, non come autorità sul presente. Conserva le decisioni ancora valide; risolvi le differenze attraverso la fonte e il nuovo segnale dell’operatore. Un effetto già compiuto non va ripetuto perché il riepilogo è incompleto. Autorizzazioni, risultati e proposte restano distinguibili. Prosegui quando la relazione è sufficiente, senza ricaricare per inerzia tutta la cronologia."
+      },
+      {
+        "title": "Riprendere ragioni, preparazione e contributi ancora utili",
+        "body": "Conserva la comprensione da cui il lavoro può continuare, compreso perché il metodo si è formato e quali contributi devono ancora partecipare. Un ingresso breve raggiunge guida e fonti accumulate; non le sostituisce. Quando una selezione successiva circoscritta è già nominata, conserva identità e stato della selezione, così un successivo “prosegui” resta comprensibile. Il rientro compone quel sapere con fatti presenti e segnale attuale della persona, preservando effetti compiuti e apprendimento locale."
       }
     ],
     "depth": {
@@ -58,7 +62,112 @@
       "Quando un rientro richiede di rispiegare una relazione già acquisita, individua se mancava la conoscenza, il collegamento o l’uso della guida. Correggi quel punto nel progetto e, se riusabile, nel metodo di continuità.",
       "Una guida scritta rende il sapere disponibile. Un successivo lavoro diverso può mostrare se viene davvero ripreso. Conserva solo ciò che cambia il seguito; l’apprendimento riguarda documenti e istruzioni accessibili, non i pesi del modello."
     ],
-    "operating_guide": "skills/maintain-causal-task-continuity/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/maintain-causal-task-continuity/GUIDA_OPERATIVA_IT.md",
+    "entry_description": "Preserve intent, decision reasons, operating knowledge and the current continuation of work. Use across sessions, context reduction, interruptions, collaborator handoffs or project reentry.",
+    "operating_intro": [
+      "**Riprendere un progetto con l’AI dopo un’interruzione**",
+      "Questa competenza conserva ciò che rende possibile riprendere un lavoro: intento, ragioni delle scelte, sapere acquisito, operazioni svolte e questioni aperte. Il punto corrente raggiunge una guida abbastanza dettagliata da permettere all’assistente di continuare attraverso il metodo già formato.",
+      "Usala quando un progetto attraversa sessioni, collaboratori, interruzioni o una riduzione del contesto. La profondità della conservazione segue ciò che sarebbe costoso o impossibile ricostruire."
+    ],
+    "operating_method": [
+      {
+        "title": "Conservare ragioni e capacità, insieme ai fatti",
+        "body": "Individua il lavoro selezionato, chi ne decide la direzione e dove vive il suo sapere. Recupera la guida già esistente prima di creare un nuovo contenitore. Conserva il perché delle decisioni insieme alla scelta: quale fonte o condizione la sostiene, che cosa permette di fare, cosa potrebbe cambiarla. Distingui parole dell’operatore, fatti osservati, inferenze e proposte. Una possibilità ancora aperta può restare raggiungibile senza diventare il prossimo incarico. Quando più competenze devono continuare, conserva il contributo di ciascuna, la ragione per cui resta pertinente e il metodo da cui riprende; un elenco di nomi non trasferisce quella capacità."
+      },
+      {
+        "title": "Un punto di rientro che raggiunge il sapere",
+        "body": "Mantieni un punto corrente breve con obiettivo, oggetto, fonti decisive, risultato raggiunto, effetti compiuti e prossimo movimento. Collegalo alla guida che spiega intenzioni, metodo, correzioni e passaggi sostanziali. Punto corrente e guida sono funzioni: possono stare nello stesso documento. Usa il luogo realmente proprietario del progetto e raggiungibile dal ricevente. Se una pagina viene rigenerata, conserva le ragioni in una sorgente che la rigenerazione non cancelli. Se puoi operare soltanto in chat, restituisci un testo completo da salvare e riportare alla prossima sessione."
+      },
+      {
+        "title": "Accumulare durante il lavoro",
+        "body": "Integra una nuova ragione, scoperta o correzione dove cambia il metodo, mentre la relazione è comprensibile. Conserva riferimenti alle prove invece di duplicare tutti i log. Quando una direzione cambia, aggiorna il seguito e lascia attribuita la precedente situazione; non far apparire la nuova comprensione come già disponibile in passato. Prima di ampliare ancora le fonti, preserva una relazione decisiva che rischia di perdersi. Una singola operazione ordinaria non richiede un diario: scrivi ciò che cambierà una scelta o un rientro."
+      },
+      {
+        "title": "Riprendere dal presente",
+        "body": "Al rientro componi la richiesta attuale con il punto corrente, la guida e le fonti necessarie. Rendi riconoscibile da dove riparti. Verifica i fatti che possono essere cambiati quando la verifica è pertinente e accessibile. Tratta un riassunto precedente come indicazione di recupero, non come autorità sul presente. Conserva le decisioni ancora valide; risolvi le differenze attraverso la fonte e il nuovo segnale dell’operatore. Un effetto già compiuto non va ripetuto perché il riepilogo è incompleto. Autorizzazioni, risultati e proposte restano distinguibili. Prosegui quando la relazione è sufficiente, senza ricaricare per inerzia tutta la cronologia."
+      },
+      {
+        "title": "Quando la continuità migliora il proprio metodo",
+        "body": "Il lavoro diretto è far continuare un progetto. La relazione meta diventa pertinente quando l’esperienza cambia come una competenza organizza la conoscenza necessaria al lavoro successivo.\n\nLa relazione è autologica quando la continuità considera il proprio modo di conservare: se un riepilogo ha mantenuto il risultato ma perso la ragione di una scelta, il metodo può imparare a rendere raggiungibile quella ragione. Questo non equivale a memoria illimitata o autonomia esecutiva."
+      },
+      {
+        "title": "Riprendere ragioni, preparazione e contributi ancora utili",
+        "body": "Conserva la comprensione da cui il lavoro può continuare, compreso perché il metodo si è formato e quali contributi devono ancora partecipare. Un ingresso breve raggiunge guida e fonti accumulate; non le sostituisce. Quando una selezione successiva circoscritta è già nominata, conserva identità e stato della selezione, così un successivo “prosegui” resta comprensibile. Il rientro compone quel sapere con fatti presenti e segnale attuale della persona, preservando effetti compiuti e apprendimento locale."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Accumulare il contesto che permette di continuare",
+        "body": "Usa due funzioni collegate. Un margine breve identifica intento presente, oggetto e owner, comprensione acquisita e causa, movimento corrente e successivo e ciò che può superarli. Una guida accumulata insegna ragioni, fonti, decisioni, correzioni, relazioni, lavoro svolto e possibilità aperte necessari a proseguire. I file esistenti possono svolgere entrambe le funzioni; la distinzione non prescrive documenti separati.\n\nIntegra una differenza significativa nella sezione che ne comprende il significato mentre il lavoro avviene. Un comando ripetuto non richiede un'altra pagina; una nuova ragione che cambia la scelta successiva sì. Quando una correzione supera una direzione, rendi chiaro il presente e conserva l'evento precedente con la sua attribuzione temporale. Conserva una possibilità senza trasformarla in un incarico. Un ingresso breve non sostituisce né elimina il sapere dettagliato che raggiunge."
+      },
+      {
+        "title": "Recuperare un'istanza senza inventarne la storia",
+        "body": "Quando il compito selezionato è recuperare l'intera istanza, leggi la cronologia disponibile insieme agli artefatti e ai corpi modificati. Recupera domande e possibilità sostanziali oltre alle azioni compiute. Conserva le parole esatte dell'operatore quando la formulazione porta significato. Attribuisci separatamente le proposte dell'assistente; indica le lacune senza fabbricare una storia continua. Un repository sporco può contenere lavoro di altre istanze. Ricostruisci il contributo attraverso percorsi realmente cambiati, identità degli artefatti ed effetti osservati."
+      },
+      {
+        "title": "Rientrare attraverso la guida",
+        "body": "Raggiungi il presente e le sezioni che ne spiegano le ragioni; risali alla fonte se manca una relazione. Rendi brevemente riconoscibile la relazione ripresa quando aiuta a orientarsi. Una nuova istruzione può correggere il seguito senza cancellare il sapere acquisito. Alla conclusione chiudi il margine del lavoro attivo conservando la conoscenza della competenza. Se un rientro richiede ancora all'operatore di ricostruire una relazione perduta, approfondisci guida e metodo che forma le guide."
+      },
+      {
+        "title": "Conservare ciò che rendeva comprensibile l’azione successiva",
+        "body": "Prima di passare un laboratorio a un altro conduttore, conserva obiettivo, brano utilizzabile, ragione del confronto fra interpretazioni, contributo di accessibilità ancora necessario e decisione successiva. La nota “preparare l’incontro” perde il metodo. Usa la guida esistente e collegane la sezione pertinente dal punto corrente. Se il lavoro si interrompe durante le letture, conserva ciò che hanno già cambiato e quale relazione manca. Un ricevente solo conversazionale usa una nota completa da salvare; uno con file usa la guida durevole del progetto."
+      },
+      {
+        "title": "Un seguito nominato conserva stato e ragione",
+        "body": "Un riesame completa tre risorse e ne nomina tre per una selezione successiva. Conserva i nomi effettivi e perché contano accanto al punto corrente. Resta comprensibile la prossima scelta senza avviarla tacitamente. Quando la persona seleziona il seguito, leggi le identità sorgenti correnti prima del lavoro dipendente. Per un’attività ricorrente conserva perché proseguire resta utile quando conseguenze, duplicazioni o ricezione cambiata rendono materiale la domanda; le modifiche alla programmazione restano al responsabile dell’attività."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "1. Riprende lo sviluppo di un’app conservando scelte e problemi ancora aperti.",
+        "body": "Prima di interrompere lo sviluppo, la guida conserva perché un componente è stato scelto, che cosa è già stato verificato e quale difetto resta aperto. Al rientro l’assistente legge questi collegamenti e controlla lo stato corrente dei file prima di continuare. Il risultato da osservare è la ripresa dello stesso problema senza ripetere modifiche già completate.\n\nIl componente era stato scelto perché l’app deve funzionare anche offline. Conserva ragione, fonte, revisione controllata e problema di sincronizzazione aperto. Una nuova funzione di rete non sostituisce automaticamente la scelta offline. Se i file correnti contengono una modifica di un collaboratore, riconoscine il contributo prima di integrare il tuo. Un test passato sulla revisione precedente resta prova per quella revisione; ricontrolla il comportamento cambiato che ora conta."
+      },
+      {
+        "title": "2. Continua una ricerca dopo il cambio di chat.",
+        "body": "Una ricerca distingue la domanda, le fonti effettivamente lette, un’ipotesi e una contraddizione ancora aperta. Il passaggio alla nuova chat porta la guida e i riferimenti accessibili. Un nuovo articolo può cambiare la domanda, mantenendo attribuito ciò che la ricerca sosteneva prima.\n\nLa guida conserva perché due studi apparentemente simili non sono ancora confrontabili e quale sezione sorgente resta da leggere. La nuova chat riceve quella ragione e prove accessibili, anziché una conclusione unificata sicura. Se la sezione diventa disponibile, completa il confronto da quel fatto nuovo. Conserva l’incertezza precedente al proprio tempo e i contributi ancora necessari; la nuova conclusione non rende completo l’accesso precedente."
+      },
+      {
+        "title": "3. Passa una proposta commerciale a un altro assistente con obiettivo e ragioni delle scelte.",
+        "body": "Un secondo assistente riceve scopo della proposta, destinatario, ragioni delle condizioni e parti ancora da decidere. La guida distingue bozza preparata da proposta inviata. Il collaboratore può completare la bozza; il passaggio di contesto non gli attribuisce automaticamente l’autorità di contattare il cliente.\n\nIl prezzo assume una sede di consegna fissa; una sede variabile resta un’alternativa aperta. Conserva la distinzione e la domanda del destinatario nella guida della proposta esistente. L’assistente successivo rivede i termini dai fatti correnti mantenendo l’offerta base selezionata. Bozza salvata e invio osservato hanno identità distinte. Il passaggio raggiunge la prossima scelta senza ripetere un messaggio già inviato o trattare la bozza come accettazione del cliente."
+      },
+      {
+        "title": "Una biblioteca prepara, continua e condivide un metodo di laboratorio",
+        "body": "La biblioteca cambia conduttore mentre prepara un laboratorio accessibile. L’ingresso corrente raggiunge perché confrontare due interpretazioni, quali brani sono utilizzabili e come la partecipazione plurilingue può cambiare la domanda successiva. La guida nomina il contributo di accessibilità ancora necessario e conserva l’idea futura di un kit pubblico come non selezionata. Il nuovo conduttore legge ragioni e materiali correnti e adatta l’incontro senza ricostruire tutto dall’ultima voce d’agenda. Un successivo passaggio pubblico riceve il metodo riusabile; le note private dei partecipanti restano alla biblioteca. È una continuazione illustrativa, distinta dall’assimilazione in un altro assistente."
+      }
+    ],
+    "reader_context": {
+      "title": "Una biblioteca prepara, continua e condivide un metodo di laboratorio",
+      "situation": "La biblioteca cambia conduttore mentre prepara un laboratorio accessibile.",
+      "point": "Conserva la comprensione da cui il lavoro può continuare, compreso perché il metodo si è formato e quali contributi devono ancora partecipare. Un ingresso breve raggiunge guida e fonti accumulate; non le sostituisce. Quando una selezione successiva circoscritta è già nominata, conserva identità e stato della selezione, così un successivo “prosegui” resta comprensibile. Il rientro compone quel sapere con fatti presenti e segnale attuale della persona, preservando effetti compiuti e apprendimento locale."
+    },
+    "competence_relation": "Il lavoro diretto è far continuare un progetto. La relazione meta diventa pertinente quando l’esperienza cambia come una competenza organizza la conoscenza necessaria al lavoro successivo.",
+    "adaptation": {
+      "title": "Adattare il metodo al proprio lavoro e ambiente",
+      "paragraphs": [
+        "Ricerca, educazione, software, servizi e progetti culturali portano fonti e scelte diverse. Porta lavoro, sapere esistente e mezzi realmente disponibili. Il caso della biblioteca insegna relazioni adattabili; non prescrive il tuo progetto.",
+        "Una conversazione usa l’avvio completo e restituisce una guida da salvare. Un sistema con accesso ai file conserva il kit intero e lo collega attraverso l’ingresso nativo dell’ambiente. Un kernel esistente compone il contributo pertinente con le proprie competenze e l’apprendimento locale."
+      ]
+    },
+    "adoption_paths": [
+      {
+        "title": "Usa questa capacità",
+        "body": "Porta l’avvio completo nella conversazione, oppure collega il kit intero all’ingresso reale del tuo progetto.",
+        "label": "Primo uso e download",
+        "href": "#start"
+      },
+      {
+        "title": "Componi le risorse pubbliche",
+        "body": "Raggiungi i contributi utili al lavoro. Conserva metodi esistenti e sapere locale.",
+        "label": "Guida all’uso e alla composizione",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md"
+      },
+      {
+        "title": "Integra con MAIOS Project Kernel",
+        "body": "MPK 5.1.0 è un prodotto distinto e facoltativo. Confronta funzione utile e responsabile corrente prima di integrare un metodo.",
+        "label": "Conoscere MPK",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ]
   },
   "en": {
     "title": "Resume a project with AI after an interruption",
@@ -84,8 +193,8 @@
       ]
     },
     "learning": [
-      "When reentry requires explaining an already acquired relationship again, identify whether the knowledge, the connection or the use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.",
-      "A written guide makes knowledge available. A different later piece of work can show whether it is actually taken up. Keep only what changes the continuation; learning concerns accessible documents and instructions, not the model's weights."
+      "When reentry requires a person to explain an already acquired relation again, determine whether the knowledge, its connection or use of the guide was missing. Correct that point in the project and, when reusable, in the continuity method.",
+      "A written guide makes knowledge available. A later, different case can show whether it is actually resumed. Retain what changes continuation; this learning concerns accessible documents and instructions, not changes to model weights."
     ],
     "method": [
       {
@@ -103,6 +212,10 @@
       {
         "title": "Resume from the present",
         "body": "At reentry, bring the current request together with the current position, guide and necessary sources. Make the starting point recognisable. Check facts that may have changed when verification is relevant and accessible. Treat an earlier summary as a pointer for recovery, not as authority over the present. Preserve decisions that remain valid; resolve differences through the source and the operator's new input. Do not repeat an effect already completed because the summary is incomplete. Keep authorisations, results and proposals distinguishable. Continue when the relationship is sufficiently understood, without reloading the entire history out of habit."
+      },
+      {
+        "title": "Resume the reasons, preparation and contributions that remain useful",
+        "body": "Preserve the understanding from which work can continue, including why the method was formed and which contributions must still participate. A short entry reaches the accumulated guide and sources; it does not replace them. When a bounded next selection is already named, keep its identities and selection status so a later “continue” can be understood. Reentry combines this knowledge with present facts and the person’s current signal, preserving completed effects and local learning."
       }
     ],
     "use": [
@@ -119,6 +232,110 @@
         "body": "With an existing kernel, connect the method to the relevant competence and guides. Without one, the complete starter supplies the operating method for the work described here."
       }
     ],
-    "operating_guide": "skills/maintain-causal-task-continuity/OPERATING_GUIDE.md"
+    "operating_guide": "skills/maintain-causal-task-continuity/OPERATING_GUIDE.md",
+    "entry_description": "Preserve intent, decision reasons, operating knowledge and the current continuation of work. Use across sessions, context reduction, interruptions, collaborator handoffs or project reentry.",
+    "operating_intro": [
+      "Preserve what makes work resumable: intent, reasons for decisions, acquired knowledge, actions performed and open questions. A short current entry reaches a sufficiently detailed guide so an assistant can continue through the method already formed.",
+      "Use this competence when a project crosses sessions, collaborators, interruptions or context reduction. Preserve the depth that would be costly or impossible to reconstruct."
+    ],
+    "operating_method": [
+      {
+        "title": "Preserve reasons and capabilities alongside facts",
+        "body": "Identify the selected work, who determines its direction and where its knowledge belongs. Reach the existing guide before creating another container. Keep each decision's reason: its supporting source or condition, what it makes possible and what could change it. Distinguish the person's words, observations, inferences and proposals. An open possibility can remain reachable without becoming the next assignment. When several competences must continue, preserve each contribution, why it remains pertinent and the method from which it resumes. A list of names does not transfer that capability."
+      },
+      {
+        "title": "A reentry point that reaches working knowledge",
+        "body": "Keep a short current entry with objective, object, decisive sources, attained result, completed effects and next movement. Link it to the guide explaining intent, method, corrections and substantive passages. These are functions that can live in one document. Use the project's actual knowledge location, accessible to the recipient. If a page is regenerated, preserve reasons in a source regeneration will not overwrite. In a chat-only environment, return a complete note the person can save and bring to the next session."
+      },
+      {
+        "title": "Accumulate knowledge during work",
+        "body": "Integrate a new reason, discovery or correction where it changes the method, while its relation is still understandable. Link to evidence instead of duplicating every log. When direction changes, update the continuation and retain attribution to the previous situation; do not imply that present understanding existed earlier. Preserve a decisive relation at risk before expanding sources further. Routine actions need no diary: retain what will change a decision or reentry."
+      },
+      {
+        "title": "Resume from the present",
+        "body": "Compose the current request with the current entry, guide and necessary sources. Make the resumed relation recognizable. Recheck facts that may have changed when verification is pertinent and accessible. A previous summary is recovery evidence, not authority over the present. Preserve still-valid decisions and resolve differences through sources and the person's new signal. Do not repeat an effect already performed because a summary is incomplete. Keep authorization, results and proposals distinguishable. Proceed when the relation is sufficient, without habitually reloading the whole history."
+      },
+      {
+        "title": "When continuity improves its own method",
+        "body": "The direct work is continuing a project. A meta relation becomes pertinent when experience changes how a competence organizes the knowledge needed for later work.\n\nThe relation becomes autological when continuity considers its own preservation method. A summary may have retained an outcome but lost a decision's reason; the method can learn to make that reason reachable. This does not imply unlimited memory or autonomous execution."
+      },
+      {
+        "title": "Resume the reasons, preparation and contributions that remain useful",
+        "body": "Preserve the understanding from which work can continue, including why the method was formed and which contributions must still participate. A short entry reaches the accumulated guide and sources; it does not replace them. When a bounded next selection is already named, keep its identities and selection status so a later “continue” can be understood. Reentry combines this knowledge with present facts and the person’s current signal, preserving completed effects and local learning."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Accumulate the context that makes continuation possible",
+        "body": "Use two connected functions. A short current margin identifies the present intention, selected object and owner, acquired understanding and its cause, current and next movement, and what could supersede them. An accumulated guide teaches the reasons, sources, decisions, corrections, relationships, performed work and open possibilities needed to continue. Existing files can carry both functions; the distinction does not prescribe separate documents.\n\nIntegrate a meaningful difference where its meaning belongs while the work occurs. Repeated commands do not need another page; a new reason changing the next choice does. If a correction supersedes a direction, make the current direction clear and preserve the earlier event with its temporal attribution. Preserve a possibility without converting it into an assigned task. A short entry must not replace or delete the detailed knowledge it reaches."
+      },
+      {
+        "title": "Recover an instance without inventing its history",
+        "body": "Read the available chronology together with the actual artifacts and changed bodies when the selected task is to recover the whole instance. Recover substantial questions and possibilities as well as completed actions. Keep exact operator wording when its formulation carries meaning. Attribute assistant proposals separately; mark genuine gaps rather than fabricating a continuous story. A dirty repository can contain other instances' work. Reconstruct the selected contribution through actual changed paths, artifact identities and observed effects."
+      },
+      {
+        "title": "Reenter through the guide",
+        "body": "Reach the present and the sections explaining its reasons; follow a source when one relation is missing. State briefly what relation is being resumed when this helps the person orient. Let a new instruction correct the continuation without deleting acquired knowledge. At completion, close the active work margin while retaining the competence's usable knowledge. If later reentry still requires the person to reconstruct a missing relation, deepen this guide and the method that forms guides."
+      },
+      {
+        "title": "Preserve what made the next action understandable",
+        "body": "Before a workshop handoff, keep the goal, permitted text, reason for comparing interpretations, the accessibility contribution still needed and the facilitator’s next decision. A note saying only “prepare the session” loses the method. Use the existing guide and point the current entry to its pertinent section. If work pauses during source reading, preserve what the reading has already changed and which relation remains missing. A chat-only recipient can receive a complete saved note; a file-enabled recipient can use the project’s durable guide."
+      },
+      {
+        "title": "A named continuation preserves its status and its reason",
+        "body": "A review has completed three resources and named three for a later selection. Keep their actual names and why they matter beside the current pointer. This preserves an intelligible next choice without silently starting it. When the person later selects continuation, read the current source identities before dependent work. For recurring work, retain why continuation remains useful when consequences, duplication or changed uptake make that question material; scheduling changes remain with the activity’s responsible owner."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Resume app development with decisions and open problems intact",
+        "body": "Before interrupting development, the guide preserves why a component was chosen, what has been checked and which defect remains open. At reentry, the assistant reads those connections and checks the current files before continuing. Observe whether it resumes the same problem without repeating completed changes.\n\nThe component was chosen because the application must also work offline. Keep that reason, its source, the checked revision and the unresolved synchronization problem. A later network feature need not replace the offline choice. If current files contain a collaborator’s change, identify its contribution before integrating yours. A passing test from the earlier revision remains evidence for that revision; recheck the changed behavior that now matters."
+      },
+      {
+        "title": "Continue research after changing chat",
+        "body": "The research distinguishes its question, sources actually read, a hypothesis and an unresolved contradiction. The new chat receives the guide and accessible references. A new article may change the question while retaining attribution to what the research supported earlier.\n\nThe guide records why two apparently similar studies cannot yet be compared and which source section remains unread. The receiving chat gets that reason and accessible evidence, rather than a confident merged conclusion. If the missing section becomes available, complete the comparison from that new fact. Preserve the earlier uncertainty at its time and retain the contributions still needed; the new conclusion does not make earlier access complete."
+      },
+      {
+        "title": "Hand a business proposal to another assistant",
+        "body": "The next assistant receives the proposal’s purpose, recipient, reasons for its terms and choices still open. The guide distinguishes a prepared draft from a sent proposal. The collaborator can complete the draft; receiving context does not automatically authorize contacting the client.\n\nThe price assumes a fixed delivery location; a flexible location remains an open alternative. Preserve that distinction and the recipient’s question in the existing proposal guide. The next assistant can revise the terms with the current facts while retaining the selected base offer. A saved draft and an observed send have separate identities. The handoff reaches the next choice without repeating a message already sent or treating the draft as client acceptance."
+      },
+      {
+        "title": "A library prepares, continues and shares a workshop method",
+        "body": "The library changes facilitator while preparing an accessible reading workshop. Its current entry reaches why two interpretations will be compared, which excerpts are permitted and how multilingual participation can change the next question. The guide names the still-needed accessibility contribution and preserves a future public-kit idea as unselected. The new facilitator reads those reasons and current materials, then adapts the session without reconstructing everything from the last agenda item. A public handoff later receives the reusable method; private participant notes stay with the library. This is an illustrative continuation, not evidence that another assistant has assimilated it."
+      }
+    ],
+    "reader_context": {
+      "title": "A library prepares, continues and shares a workshop method",
+      "situation": "The library changes facilitator while preparing an accessible reading workshop.",
+      "point": "Preserve the understanding from which work can continue, including why the method was formed and which contributions must still participate. A short entry reaches the accumulated guide and sources; it does not replace them. When a bounded next selection is already named, keep its identities and selection status so a later “continue” can be understood. Reentry combines this knowledge with present facts and the person’s current signal, preserving completed effects and local learning."
+    },
+    "competence_relation": "The direct work is to let a project continue. A meta relation becomes relevant when experience changes how a competence organises the knowledge needed for subsequent work.",
+    "adaptation": {
+      "title": "Adapt the method to your work and environment",
+      "paragraphs": [
+        "Research, education, software, services and cultural projects supply different sources and choices. Bring the work, its existing knowledge and the means actually available. The library case teaches relationships that you can adapt; it does not prescribe your project.",
+        "A conversation can use the complete starter and return a guide to save. A file-enabled system can keep the whole kit and connect it through the environment’s native entry. An existing kernel can compose the pertinent contribution with its own competences and local learning."
+      ]
+    },
+    "adoption_paths": [
+      {
+        "title": "Use this capability",
+        "body": "Bring the complete starter to your conversation, or connect the whole kit to your project’s actual entry.",
+        "label": "First use and download",
+        "href": "#start"
+      },
+      {
+        "title": "Compose the public resources",
+        "body": "Reach the contributions useful to the work. Preserve existing methods and local knowledge.",
+        "label": "Use and composition guide",
+        "href": "https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md"
+      },
+      {
+        "title": "Integrate with MAIOS Project Kernel",
+        "body": "MPK 5.1.0 is a distinct optional product. Compare the useful function and its current owner before integrating a method.",
+        "label": "Understand MPK",
+        "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
+      }
+    ]
   }
 }

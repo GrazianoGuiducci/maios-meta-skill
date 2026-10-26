@@ -83,3 +83,26 @@ Un laboratorio diverso può mostrare se la ragione appresa cambia realmente la
 scelta successiva. Disponibilità del metodo, uso e assimilazione conservano
 osservazioni proprie. Il caso insegna quelle relazioni; non documenta adozione
 presso clienti o un runtime multi-sistema esercitato.
+
+### Preparare, continuare e rendere pubblico quel metodo
+
+[Meta_Metodo](https://maios.it/risorse/organizzare-lavoro-complesso/)
+fa partecipare sapere educativo e accessibilità alla richiesta iniziale di una
+scheda. La durata concordata resta una condizione reale. Il metodo utile si forma
+attraverso quei contributi mentre il lavoro viene compreso.
+
+[Maintain Causal Task Continuity](https://maios.it/risorse/continuita-del-lavoro-ai/)
+conserva perché confrontare interpretazioni, quali fonti sono utilizzabili e quale
+contributo deve ancora partecipare al cambio di conduttore. L'ingresso corrente
+raggiunge la guida accumulata. L'idea di un futuro kit pubblico conserva identità
+e stato non selezionato finché la persona non sceglie quel seguito.
+
+Quando viene selezionata la condivisione,
+[Form Public Meta-Skill Resources](https://maios.it/risorse/formare-risorse-pubbliche/)
+trasferisce scelte riusabili e ragioni, conservando le note private dei partecipanti
+presso la biblioteca. Segui avvio completo, kit estratto, pagina ed eventuale
+raccolta separata del sapere di un assistente fino a ciò che ogni destinatario
+riceve davvero. La sola pagina aggiornata non aggiorna lo snapshot di un altro consumer.
+
+Ciascun contributo è utile autonomamente. La relazione segue lavoro e mezzi reali
+della biblioteca; non prescrive ordine, provider o un nuovo manager.

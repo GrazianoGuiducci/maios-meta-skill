@@ -1,3 +1,9 @@
+# Metodo, continuità e formazione di risorse pubbliche — candidati, 26 ottobre 2026
+
+Il ramo selezionato prepara Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 e Form Public Meta-Skill Resources 0.3.4. Metodi sviluppati e sapere pratico esistenti restano disponibili in italiano e inglese. Quattro casi per risorsa collegano preparazione, continuazione causale e trasferimento dalla fonte al ricevente. Il caso comune della biblioteca rimane illustrativo e adattabile a sistemi diversi. Le altre 39 edizioni dei pacchetti sono preservate.
+
+Sono candidati sorgente per il riesame. I tre generativi precedenti restano la base pubblicata; questo candidato non attiva la pubblicazione del sito o il runtime Chat. Metodi, guide e avvii portano il sapere autonomamente rispetto alle fonti private. MAIOS Project Kernel 5.1.0 resta un’integrazione distinta e facoltativa.
+
 # Tre capacità generative — edizioni sorgente, 26 ottobre 2026
 
 Meta_Skill Semantic Kernel e D-ND Skill Evolution Guard sono edizioni 0.3.3; Transfer Kernel Potential è edizione 0.1.1. L’operatore ha accettato i metodi e selezionato pubblicazione e allineamento della Chat. Corpi operativi sviluppati, sapere decisionale e quattro casi per risorsa restano disponibili in italiano e inglese. Il caso comune della biblioteca collega formazione, evoluzione e trasferimento reciproco senza prescrivere uno stack o un provider. Le altre 39 edizioni conservano versioni e byte dei pacchetti.
