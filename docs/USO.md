@@ -77,10 +77,10 @@ Se stai formando un ricevente nuovo o migrando una capacità, usa [Incarnate Neu
 
 Dopo l'installazione, distingui:
 
-**Installata:** il kit è materialmente nella destinazione prevista.  
-**Raggiungibile:** il ricevente può leggere i file necessari.  
-**Scopribile:** l'ingresso della competenza appare nel meccanismo previsto dall'ambiente.  
-**Esercitata:** un incarico reale mostra che la competenza ha cambiato comprensione o azione.  
+**Installata:** il kit è materialmente nella destinazione prevista.
+**Raggiungibile:** il ricevente può leggere i file necessari.
+**Scopribile:** l'ingresso della competenza appare nel meccanismo previsto dall'ambiente.
+**Esercitata:** un incarico reale mostra che la competenza ha cambiato comprensione o azione.
 **Assimilata nel lavoro:** in una situazione successiva e diversa la correzione è usata senza doverla ricostruire da capo.
 
 Per una prima osservazione, affida un incarico concreto. Chiedi all'AI di indicare quale fonte e quale relazione hanno cambiato la sua scelta, senza considerare questa dichiarazione una prova sufficiente da sola. Conserva il lavoro e la sua conseguenza nella guida del progetto. Quando un errore, una comprensione migliore o una possibilità nuova producono sapere riutilizzabile, falla tornare alla competenza che dovrà operare diversamente; non accumulare soltanto riassunti del passato.

@@ -77,10 +77,10 @@ For a new recipient or migration, [Incarnate Neutral Kernel Node](https://maios.
 
 These are different observations:
 
-**Installed:** the files were placed in the intended location.  
-**Reachable:** the receiving environment can read them.  
-**Discoverable:** the entry is found through the host's mechanism.  
-**Exercised:** a concrete task shows that the competence actually changed understanding or action.  
+**Installed:** the files were placed in the intended location.
+**Reachable:** the receiving environment can read them.
+**Discoverable:** the entry is found through the host's mechanism.
+**Exercised:** a concrete task shows that the competence actually changed understanding or action.
 **Assimilated into later work:** a different later case benefits from a correction without asking the person to reconstruct it.
 
 Give the assistant a concrete assignment and observe what it does. It can explain which source and reason changed a decision; that report alone is not proof of later assimilation. Preserve meaningful decisions, results, and changed methods in the project guide. When experience teaches a reusable distinction, return it to the competence that should work differently, rather than accumulating summaries.
