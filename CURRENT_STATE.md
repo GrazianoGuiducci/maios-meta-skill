@@ -1,8 +1,8 @@
-# Generative capability review — candidate branch, 26 October 2026
+# Three generative resources — source editions, 26 October 2026
 
-Meta_Skill Semantic Kernel and D-ND Skill Evolution Guard are candidate editions 0.3.3; Transfer Kernel Potential is candidate edition 0.1.1. The developed operating methods remain intact while expanded decision knowledge and four worked cases per resource make formation, evolution and reciprocal transfer usable in varied receiving systems. A shared library case shows their complementary contributions without prescribing a stack or provider. These branch contents await final review and publication; the preceding public editions retain their published identity. The other 39 editions remain unchanged.
+Meta_Skill Semantic Kernel and D-ND Skill Evolution Guard are edition 0.3.3; Transfer Kernel Potential is edition 0.1.1. The operator accepted these methods and selected publication and Chat alignment. Developed operating bodies, practical decision knowledge and four worked cases per resource remain available in English and Italian. A shared library case connects formation, evolution and reciprocal transfer without prescribing a stack or provider. The other 39 editions retain their versions and package bytes.
 
-The authored source distinguishes developed operating method from page summaries. Complete starters carry method, practical knowledge and all cases. Host-specific adoption is an identified example within general use guidance; MAIOS Project Kernel 5.1.0 remains optional and distinct. The source, website candidate and resources-only Chat handoff have separate identities and effects.
+The authored source distinguishes developed operating method from page summaries. Complete starters carry method, practical knowledge and all cases. Adoption guidance addresses varied receiving systems; a host-specific installation is an identified example. MAIOS Project Kernel 5.1.0 remains optional and distinct. This entry describes the accepted source contents; website publication, runtime activation and human acceptance retain separate receipts in their owning release context.
 
 # Three public resources — edition 0.1.3, 26 October 2026
 

@@ -1,8 +1,8 @@
-# Riesame delle capacità generative — branch candidato, 26 ottobre 2026
+# Tre capacità generative — edizioni sorgente, 26 ottobre 2026
 
-Meta_Skill Semantic Kernel e D-ND Skill Evolution Guard sono edizioni candidate 0.3.3; Transfer Kernel Potential è candidata 0.1.1. I metodi operativi sviluppati si conservano; sapere decisionale approfondito e quattro casi per risorsa rendono più utilizzabili formazione, evoluzione e trasferimento reciproco in sistemi diversi. Il caso comune della biblioteca mostra contributi complementari senza prescrivere uno stack o un provider. Questo branch attende riesame finale e pubblicazione; le edizioni pubblicate precedenti conservano la propria identità. Le altre 39 edizioni restano invariate.
+Meta_Skill Semantic Kernel e D-ND Skill Evolution Guard sono edizioni 0.3.3; Transfer Kernel Potential è edizione 0.1.1. L’operatore ha accettato i metodi e selezionato pubblicazione e allineamento della Chat. Corpi operativi sviluppati, sapere decisionale e quattro casi per risorsa restano disponibili in italiano e inglese. Il caso comune della biblioteca collega formazione, evoluzione e trasferimento reciproco senza prescrivere uno stack o un provider. Le altre 39 edizioni conservano versioni e byte dei pacchetti.
 
-La fonte autoriale distingue corpo operativo e sintesi per la pagina. Gli avvii completi contengono metodo, sapere pratico e tutti i casi. L’adozione specifica di un ambiente è un esempio riconoscibile dentro la guida generale; MAIOS Project Kernel 5.1.0 resta facoltativo e distinto. Fonte, candidato sito e consegna Risorse della Chat hanno identità ed effetti propri.
+La fonte autoriale distingue corpo operativo e sintesi per la pagina. Gli avvii completi contengono metodo, sapere pratico e tutti i casi. L’adozione si rivolge a sistemi diversi; l’installazione specifica di un ambiente è un esempio riconoscibile. MAIOS Project Kernel 5.1.0 resta facoltativo e distinto. Questa entry descrive il contenuto sorgente accettato; pubblicazione del sito, attivazione runtime e accettazione umana conservano ricevute separate nel contesto di rilascio proprietario.
 
 # Patch 0.3.3 della formazione delle risorse
 
