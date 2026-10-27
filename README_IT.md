@@ -62,10 +62,10 @@ La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza u
 | [Authorial Source Discrimination](skills/authorial-source-discrimination/README_IT.md) | Riconosce ciò che porta il significato dell’autore e lo conserva adattando quanto richiedono l’artefatto e la situazione ricevente selezionati. | Competenza editoriale |
 | [Concept-to-Media Formation](skills/concept-to-media-formation/README_IT.md) | Forma il concetto e la relazione editoriale comuni da cui produrre media diversi conservando il significato sorgente. | Metacompetenza editoriale |
 | [Semantic Timelapse Formation](skills/semantic-timelapse-formation/README_IT.md) | Forma e conduce una produzione video attraverso MKCV, componendo scrittura, regia, interpretazione, montaggio e strumenti effettivamente disponibili nel progetto. MKCV è beta, in apprendimento. | Competenza visiva generativa |
-| [Onto-Skill](skills/onto-skill/README_IT.md) | Riconosce un principio trasferibile nel contributo dell’autore e lo rende operante nella competenza e nell’abilità pertinenti. | Metacompetenza generativa |
+| [Onto-Skill](skills/onto-skill/README_IT.md) | Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione. | Metacompetenza generativa |
 | [Form Cooperative Capability from Sources](skills/form-cooperative-capability-from-sources/README_IT.md) | Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali. | Metacompetenza generativa |
 | [Funded Request Project Formation](skills/funded-request-project-formation/README_IT.md) | Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie. | Metacompetenza generativa |
-| [MAIOS Presentation Competence](skills/maios-presentation-competence/README_IT.md) | Forma presentazioni, spiegazioni e mappe navigabili che collegano identità reale, capacità generative del sistema e situazione del destinatario. | Competenza comunicativa situata |
+| [MAIOS Presentation Competence](skills/maios-presentation-competence/README_IT.md) | Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro. | Competenza comunicativa situata |
 | [Cinematic Screenwriting](skills/cinematic-screenwriting/README_IT.md) | Forma situazioni cinematografiche originali, treatment, scene e dialoghi, conservando autorialità e continuità causale con regia, interpretazione e montaggio. | Competenza di scrittura cinematografica |
 | [Cinematic Direction](skills/cinematic-direction/README_IT.md) | Forma l’esperienza cinematografica di una scena attraverso messa in scena, punto di vista, camera, luce e relazione con interpretazione e montaggio. | Competenza di Design cinematografico |
 | [Character & Object Performance](skills/character-performance/README_IT.md) | Forma l’interpretazione osservabile di personaggi e oggetti animati, collegando identità, intenzione autoriale, azione, reazione e scena. | Competenza di interpretazione animata |
@@ -90,6 +90,3 @@ La coerenza dei file verifica l’identità della distribuzione. L’uso in un a
 [Apache-2.0](LICENSE). I kit scaricabili includono licenza e nota di attribuzione.
 
 Origine e direzione: **Graziano Guiducci · MAIOS** · [maios.it](https://maios.it/).
-
-
-[Una competenza, un sistema pubblico di skill o integrazione MPK facoltativa](docs/USO.md): scegli il percorso dal tuo lavoro, preservando le capacità già presenti.

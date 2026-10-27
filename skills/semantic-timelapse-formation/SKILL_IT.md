@@ -107,3 +107,11 @@ Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. L'avvio AVVIO_CHAT_IT.txt incorpora
 La continuazione del film conserva soggetto, statuto, artefatto corrente e domanda che può cambiarlo. Ogni specializzazione possiede sapere e modifiche del proprio lavoro. Una scoperta registica cambia la scena scritta; un montaggio richiede un’altra interpretazione; un giunto assente riforma il gesto. La differenza ritorna al responsabile mantenendo riconoscibile lo stesso film.
 
 [Leggere il metodo cinematografico reciproco](MKCV_CINEMA_IT.md). La pagina collega i quattro kit pubblici complementari.
+
+## Conservare il film quando il rendering si interrompe
+
+Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film.
+
+Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto.
+
+Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti.

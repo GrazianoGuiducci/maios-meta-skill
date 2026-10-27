@@ -8,7 +8,7 @@ Dalle fonti al video: scena modificabile, animatic da immagini o montaggio di cl
 
 Leggi SKILL_IT.md, GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. In chat senza accesso ai file usa l’intero AVVIO_CHAT_IT.txt. Il pacchetto comprende la guida di produzione, i riferimenti tecnici e un renderer di esempio. Installazione: INSTALL_IT.md.
 
-Edizione pubblica 0.1.3. Il metodo deriva da Semantic Timelapse Formation; la relazione con KA e FDLA appartiene alla provenienza del sapere di apertura e correzione qui trasferito. I ruoli di scrittura, progettazione visiva e produzione si compongono attraverso le capacità effettive del tuo progetto.
+Edizione pubblica 0.1.4. Il metodo deriva da Semantic Timelapse Formation; la relazione con KA e FDLA appartiene alla provenienza del sapere di apertura e correzione qui trasferito. I ruoli di scrittura, progettazione visiva e produzione si compongono attraverso le capacità effettive del tuo progetto.
 
 ## Adattare il metodo al tuo contesto
 
@@ -21,3 +21,7 @@ Porta alla tua AI il soggetto, il pubblico, i materiali e il risultato richiesto
 Comprendi che cosa deve diventare percepibile e quali materiali esistono. Una scena nuova richiede asset modificabili; un animatic organizza immagini nel tempo; un montaggio lavora su clip esistenti. Un’opera può comporre più mezzi. L’AI conduce le scelte tecniche ordinarie con gli strumenti disponibili e rende riconoscibile un materiale o una capacità ancora necessari.
 
 Conserva intento, materiali correnti e risultato richiesto mentre scrittura, regia, interpretazione e montaggio si richiamano per ciò che cambia il film. Produci una versione concreta, osservala e correggi il punto che ne cambia il significato. Un esecutore di render o montaggio realizza operazioni; la comprensione del film resta nel lavoro dell’AI e delle competenze coinvolte. Un’attività oltre il turno richiede un processo realmente configurato.
+
+## Mezzi locali inclusi
+
+Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti.

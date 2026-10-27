@@ -107,3 +107,11 @@ Read OPERATING_GUIDE.md and EXAMPLES.md. The complete START_CHAT_EN.txt includes
 A film’s shared continuation preserves its subject, source status, current artifact and the question that can change it. Each specialist owns the knowledge and changes that belong to its work. A staging discovery may change the written scene; an edit may request another performance; an unavailable joint may change the intended gesture. Return the difference to that owner while keeping one recognizable film.
 
 [Read the reciprocal cinematic method](MKCV_CINEMA_EN.md). The four complementary public kits are linked from this resource’s page.
+
+## Keep the film continuous when rendering stops
+
+When a render is long or interrupted, keep the intended timeline and render independently addressable frame intervals. Reuse a segment only after checking its inputs, code identity, frame count, dimensions, frame rate and decodability. A changed scene, asset or renderer calls for a new output identity. Segment boundaries are execution units; editing, gesture and narrative rhythm remain decisions about the film.
+
+A technical checkpoint preserves verified work. The project guide preserves subject, sources, reasons, open choices and what the next contributor must understand. Use both when needed: resuming an encoder does not restore an assistant’s understanding or start a background agent. Observing the resulting film may still change the scene, method or chosen medium.
+
+The kit also includes examples/recoverable_video: a local, bounded adapter, original scene, pinned job and verification script. Python 3.10+, Pillow, NumPy, OpenCV and local FFmpeg/ffprobe are required. Start with RECOVERABLE_VIDEO_EN.md. Conversations without these means use the production method and return an actionable continuation; instructions do not supply the tools.

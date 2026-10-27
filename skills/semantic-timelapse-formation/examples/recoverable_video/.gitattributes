@@ -1,0 +1,4 @@
+# These three source hashes are part of renderer pins and checkpoint identity.
+/autostudio.py text eol=lf
+/mkcv_resumable.py text eol=lf
+/fixtures/orbital_scene.py text eol=lf

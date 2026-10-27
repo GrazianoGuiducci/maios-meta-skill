@@ -8,7 +8,7 @@ From sources to video: an editable scene, an animatic from images or an edit of 
 
 Read SKILL.md, OPERATING_GUIDE.md and EXAMPLES.md. In chat without file access, use the entire START_CHAT_EN.txt. The kit includes the production guide, technical sources and an example renderer. Installation: INSTALL.md.
 
-Public edition 0.1.3. This method derives from Semantic Timelapse Formation; its relation to KA and FDLA is the provenance of the openness and correction knowledge transferred here. Writing, visual design and production roles compose through the actual capabilities of your project.
+Public edition 0.1.4. This method derives from Semantic Timelapse Formation; its relation to KA and FDLA is the provenance of the openness and correction knowledge transferred here. Writing, visual design and production roles compose through the actual capabilities of your project.
 
 ## Adapt the method to your context
 
@@ -21,3 +21,7 @@ Give your AI the subject, audience, material and requested result. Let it guide 
 Understand what should become perceptible and what material exists. A new scene needs editable assets; an animatic organizes images through time; an edit works with existing clips. One work may compose several media. AI handles ordinary technical choices with the available tools and identifies material or a capability still needed.
 
 Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process.
+
+## Included local means
+
+The kit also includes examples/recoverable_video: a local, bounded adapter, original scene, pinned job and verification script. Python 3.10+, Pillow, NumPy, OpenCV and local FFmpeg/ffprobe are required. Start with RECOVERABLE_VIDEO_EN.md. Conversations without these means use the production method and return an actionable continuation; instructions do not supply the tools.

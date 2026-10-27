@@ -1,0 +1,116 @@
+{
+  "receiver": "Codex TM9 / Windows",
+  "scope": "AutoStudio 0.3.2 local adapter and original coded_scene; not the original 26-test package suite",
+  "python": "3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]",
+  "cases": {
+    "windows_liveness": {
+      "live": true,
+      "terminated": false,
+      "live_child_remained_running": true
+    },
+    "pause_resume": {
+      "pause": {
+        "checkpoint": ".paused.partial",
+        "directory": "runs\\paused",
+        "next": "Run the SAME pinned job again to resume verified segments; no background job is running",
+        "rendered_this_call": 1,
+        "reused_this_call": 0,
+        "status": "partial",
+        "total_segments": 6,
+        "verified_segments": 1
+      },
+      "result": {
+        "chunk_reused_this_call": 1,
+        "chunks_rendered_this_call": 5,
+        "chunks_repaired_this_call": 0,
+        "claim": "time_addressed_code_video_not_narrative_quality_or_semantic_fidelity_certification",
+        "decoded_without_errors": true,
+        "expected_frames": 72,
+        "final_encoding": "single_continuous_h264_reencode_from_decoded_verified_chunks",
+        "total_chunks": 6,
+        "video": {
+          "audio": false,
+          "audio_codec": null,
+          "codec": "h264",
+          "duration": 3.0,
+          "fps": "24/1",
+          "frames": 72,
+          "height": 180,
+          "width": 320
+        }
+      },
+      "same_first_segment": true,
+      "changed_job_refused": true,
+      "completed_reuse": "reused_verified"
+    },
+    "continuous_comparison": {
+      "same_video_sha256": "113569bf22187a20c4a6a13bc66fd6826831a740726cdb2f562d80bc227c3a97"
+    },
+    "real_interruption": {
+      "terminated_this_test_process_tree": true,
+      "exit_code": 1,
+      "stale_lock_reclaimed": true,
+      "result": {
+        "chunk_reused_this_call": 1,
+        "chunks_rendered_this_call": 7,
+        "chunks_repaired_this_call": 0,
+        "claim": "time_addressed_code_video_not_narrative_quality_or_semantic_fidelity_certification",
+        "decoded_without_errors": true,
+        "expected_frames": 96,
+        "final_encoding": "single_continuous_h264_reencode_from_decoded_verified_chunks",
+        "total_chunks": 8,
+        "video": {
+          "audio": false,
+          "audio_codec": null,
+          "codec": "h264",
+          "duration": 4.0,
+          "fps": "24/1",
+          "frames": 96,
+          "height": 180,
+          "width": 320
+        }
+      }
+    },
+    "damaged_chunk": {
+      "quarantined_and_repaired_once": true,
+      "same_video_as_clean": true,
+      "result": {
+        "chunk_reused_this_call": 0,
+        "chunks_rendered_this_call": 6,
+        "chunks_repaired_this_call": 1,
+        "claim": "time_addressed_code_video_not_narrative_quality_or_semantic_fidelity_certification",
+        "decoded_without_errors": true,
+        "expected_frames": 72,
+        "final_encoding": "single_continuous_h264_reencode_from_decoded_verified_chunks",
+        "total_chunks": 6,
+        "video": {
+          "audio": false,
+          "audio_codec": null,
+          "codec": "h264",
+          "duration": 3.0,
+          "fps": "24/1",
+          "frames": 72,
+          "height": 180,
+          "width": 320
+        }
+      }
+    },
+    "animatic_with_local_font": {
+      "frames": 24,
+      "captions_and_srt": true
+    },
+    "edit_existing": {
+      "frames": 24,
+      "source": "actual local coded-scene clip"
+    }
+  },
+  "sources": {
+    "autostudio.py": "15795a1e64627ac92239d15d7af515b5e79d2a759935f61a25ae49d9003d1f67",
+    "mkcv_resumable.py": "d8cb72ca35ba22a7ce38ae6b59c9f859e166390f29404a6f6a3ae53379020c33",
+    "fixtures/orbital_scene.py": "9fa06e63db4dd8d3ec16b11dc55aa37a4366fc40e34dd510990beb363757dd04"
+  },
+  "media": {
+    "resumed": "72 frames, 320x180, 24fps, original coded scene",
+    "interrupted": "96 frames, 320x180, 24fps, real termination and recovery"
+  }
+}

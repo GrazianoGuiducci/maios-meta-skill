@@ -1,7 +1,7 @@
 {
   "id": "creare-timelapse-semantici",
   "name": "Semantic Timelapse Formation",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "33",
@@ -19,7 +19,11 @@
       "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md",
       "installation": "skills/semantic-timelapse-formation/INSTALL.md",
       "runtime_sources": [
-        "skills/semantic-timelapse-formation/examples/render_from_reference.py"
+        "skills/semantic-timelapse-formation/examples/render_from_reference.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/autostudio.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/mkcv_resumable.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/fixtures/orbital_scene.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/verify_recovery.py"
       ]
     },
     "it": {
@@ -30,7 +34,11 @@
       "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md",
       "installation": "skills/semantic-timelapse-formation/INSTALL_IT.md",
       "runtime_sources": [
-        "skills/semantic-timelapse-formation/examples/render_from_reference.py"
+        "skills/semantic-timelapse-formation/examples/render_from_reference.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/autostudio.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/mkcv_resumable.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/fixtures/orbital_scene.py",
+        "skills/semantic-timelapse-formation/examples/recoverable_video/verify_recovery.py"
       ]
     }
   },
@@ -39,7 +47,7 @@
   "starter": "skills/semantic-timelapse-formation/START_CHAT_EN.txt",
   "examples": "skills/semantic-timelapse-formation/EXAMPLES.md",
   "presentation": "skills/semantic-timelapse-formation/presentation.json",
-  "package": "dist/semantic-timelapse-formation-0.1.3.zip",
+  "package": "dist/semantic-timelapse-formation-0.1.4.zip",
   "en": {
     "title": "Create videos from images, scenes and existing clips",
     "kind": "Generative media competence",
@@ -49,7 +57,8 @@
     "examples": [
       "Animate the world in the reference",
       "A museum explores rhythm with three illustrations",
-      "A workshop edits a demonstration from existing footage"
+      "A workshop edits a demonstration from existing footage",
+      "An interrupted illustrative scene resumes its own timeline"
     ],
     "route": "/resources/creare-timelapse-semantici/",
     "description": "From sources to video: an editable scene, an animatic from images or an edit of existing clips, with MKCV beta and learning.",
@@ -64,7 +73,8 @@
     "examples": [
       "Animare il mondo della reference",
       "Un museo esplora il ritmo con tre illustrazioni",
-      "Un laboratorio monta una dimostrazione da riprese esistenti"
+      "Un laboratorio monta una dimostrazione da riprese esistenti",
+      "Una scena illustrativa interrotta riprende la propria timeline"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Dalle fonti al video: scena modificabile, animatic da immagini o montaggio di clip, con MKCV beta in apprendimento.",

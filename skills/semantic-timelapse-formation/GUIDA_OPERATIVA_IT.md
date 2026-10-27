@@ -22,7 +22,7 @@ Conserva una versione modificabile e osserva quali parti cambiano davvero la per
 
 ## Metodo, strumenti ed esecuzione hanno ruoli diversi
 
-Il kit trasferisce il metodo operativo e un renderer Python d’esempio da immagine esistente. Gli strumenti di montaggio, i modelli, i provider e gli asset sono quelli del progetto che lo usa. L’AI forma e osserva le scelte; un esecutore locale applica operazioni ai materiali ricevuti. Una configurazione descritta in un documento non avvia da sola un lavoro dopo la conversazione.
+Il kit trasferisce il metodo operativo, il renderer d’esempio da immagine esistente e l’esempio delimitato di video riprendibile. Gli strumenti di montaggio, i modelli, i provider e gli asset sono quelli del progetto che lo usa. L’AI forma e osserva le scelte; un esecutore locale applica operazioni ai materiali ricevuti. Una configurazione descritta in un documento non avvia da sola un lavoro dopo la conversazione.
 
 ## Approfondire il percorso dal riferimento alla scena
 
@@ -69,3 +69,11 @@ Cinematic Screenwriting forma mondo, situazione, azione e parole autoriali. Cine
 I kit pubblici sono disponibili separatamente nella stessa raccolta. Si compongono attraverso la guida comune del progetto senza API, framework, numero di agenti o ordine obbligatori. Il file deve raggiungere davvero il ricevente che lo usa. Diritti degli asset, consegna pubblica e azioni esterne mantengono autorità proprie.
 
 Quando realizzi un film, conserva i file generati, la scena modificabile e le osservazioni utili a riprenderlo. Metodo disponibile, strumenti presenti, film esportato e uso in un altro progetto descrivono risultati distinti.
+
+## Conservare il film quando il rendering si interrompe
+
+Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film.
+
+Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto.
+
+Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti.

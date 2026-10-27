@@ -13,3 +13,7 @@ Un museo dispone di tre disegni di un attrezzo e del suo uso. Per una spiegazion
 ## Un laboratorio monta una dimostrazione da riprese esistenti
 
 Un laboratorio ha ripreso preparazione, montaggio e funzionamento di un oggetto. L’AI osserva le clip, collega i passaggi e monta una spiegazione con le riprese effettive. Un salto temporale resta riconoscibile; la vicinanza di due immagini non inventa una causa. Il progetto fornisce clip e strumento di montaggio. L’osservazione del video finale può richiedere un altro taglio o un’inquadratura mancante, non una nuova reference generata.
+
+## Una scena illustrativa interrotta riprende la propria timeline
+
+Un progetto possiede una scena orbitale originale in codice e una timeline fissata di 72 frame. Dopo un segmento di 12 frame la produzione si interrompe. Lo stesso job riprende: decodifica il segmento concluso, ne controlla l’identità e calcola gli intervalli mancanti. Un job cambiato rimane distinto; un segmento danneggiato viene isolato e ricostruito. Il file locale concluso è verificato nell’insieme. Il caso insegna la continuazione tecnica; l’orbita è illustrativa e le scritte in scena sono l’opera originale italiana, non osservazioni scientifiche o risultati di un cliente.

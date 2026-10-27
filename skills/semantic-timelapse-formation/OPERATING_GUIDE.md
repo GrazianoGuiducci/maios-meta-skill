@@ -22,7 +22,7 @@ Keep an editable version and observe which parts materially change perception. T
 
 ## Method, tools and execution have different roles
 
-The kit transfers the operating method and an example Python renderer from an existing image. Editing tools, models, providers and assets belong to the project using it. AI forms and observes choices; a local executor applies operations to supplied material. A configuration described in a document does not itself start work after the conversation.
+The kit transfers the operating method, the existing-image renderer example and the bounded recoverable-video example. Editing tools, models, providers and assets belong to the project using it. AI forms and observes choices; a local executor applies operations to supplied material. A configuration described in a document does not itself start work after the conversation.
 
 ## Deepen the reference-to-scene path
 
@@ -69,3 +69,11 @@ Cinematic Screenwriting forms world, situation, action and authored words. Cinem
 These public kits are available separately in the same collection. They can compose through a shared project guide without a required orchestration API, framework, crew size or fixed order. A file handoff must actually reach the receiver that uses it. Asset rights, public delivery and external actions keep their own authority.
 
 When producing a film, keep the generated files, editable scene and observations needed to resume it. Available method, present tools, exported film and use in another project describe different results.
+
+## Keep the film continuous when rendering stops
+
+When a render is long or interrupted, keep the intended timeline and render independently addressable frame intervals. Reuse a segment only after checking its inputs, code identity, frame count, dimensions, frame rate and decodability. A changed scene, asset or renderer calls for a new output identity. Segment boundaries are execution units; editing, gesture and narrative rhythm remain decisions about the film.
+
+A technical checkpoint preserves verified work. The project guide preserves subject, sources, reasons, open choices and what the next contributor must understand. Use both when needed: resuming an encoder does not restore an assistant’s understanding or start a background agent. Observing the resulting film may still change the scene, method or chosen medium.
+
+The kit also includes examples/recoverable_video: a local, bounded adapter, original scene, pinned job and verification script. Python 3.10+, Pillow, NumPy, OpenCV and local FFmpeg/ffprobe are required. Start with RECOVERABLE_VIDEO_EN.md. Conversations without these means use the production method and return an actionable continuation; instructions do not supply the tools.

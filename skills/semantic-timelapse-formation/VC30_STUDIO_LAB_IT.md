@@ -4,7 +4,7 @@ MKCV comprende più percorsi di produzione. Questo testo approfondisce il profil
 
 MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
 
-**Stato:** metodo pubblico **edizione 0.1.3**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+**Stato:** metodo pubblico **edizione 0.1.4**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
 ## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
 

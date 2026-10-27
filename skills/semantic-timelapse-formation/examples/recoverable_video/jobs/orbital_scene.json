@@ -1,0 +1,23 @@
+{
+  "id": "orbital-example",
+  "intent": "Original illustrative coded scene: exercise local rendering continuity, not observational astronomy or an image-generated reference.",
+  "profile": "coded_scene",
+  "authority": {
+    "execute_trusted_renderer": true
+  },
+  "inputs": {
+    "renderer": "fixtures/orbital_scene.py",
+    "renderer_sha256": "9fa06e63db4dd8d3ec16b11dc55aa37a4366fc40e34dd510990beb363757dd04",
+    "frames": 72,
+    "chunk_frames": 12
+  },
+  "limits": {
+    "max_frames": 120
+  },
+  "output": {
+    "directory": "runs/orbital-example",
+    "width": 320,
+    "height": 180,
+    "fps": 24
+  }
+}

@@ -4,7 +4,7 @@ MKCV encompasses several production paths. This text deepens the reference-to-sc
 
 MKCV is beta and learning. Work on the film and the resulting observations evolve the method.
 
-This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.3 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
+This method connects subject understanding, visual design, code, sound and learning to produce a film. Public edition 0.1.4 supplies the knowledge; the receiving environment supplies image generation, tools and export capabilities.
 
 **MKCV — Mini Kernel Code Video** names the general composition of production competences. **VC-30s** is the short-duration profile described here. Both use the [same production guide](VC30_STUDIO_LAB_EN.md); duration and format follow the requested film.
 

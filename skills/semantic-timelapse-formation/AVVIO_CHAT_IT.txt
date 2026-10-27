@@ -104,6 +104,14 @@ La continuazione del film conserva soggetto, statuto, artefatto corrente e doman
 
 [Leggere il metodo cinematografico reciproco](MKCV_CINEMA_IT.md). La pagina collega i quattro kit pubblici complementari.
 
+## Conservare il film quando il rendering si interrompe
+
+Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film.
+
+Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto.
+
+Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti.
+
 
 # Guida operativa — scegliere il mezzo e formare il film
 
@@ -129,7 +137,7 @@ Conserva una versione modificabile e osserva quali parti cambiano davvero la per
 
 ## Metodo, strumenti ed esecuzione hanno ruoli diversi
 
-Il kit trasferisce il metodo operativo e un renderer Python d’esempio da immagine esistente. Gli strumenti di montaggio, i modelli, i provider e gli asset sono quelli del progetto che lo usa. L’AI forma e osserva le scelte; un esecutore locale applica operazioni ai materiali ricevuti. Una configurazione descritta in un documento non avvia da sola un lavoro dopo la conversazione.
+Il kit trasferisce il metodo operativo, il renderer d’esempio da immagine esistente e l’esempio delimitato di video riprendibile. Gli strumenti di montaggio, i modelli, i provider e gli asset sono quelli del progetto che lo usa. L’AI forma e osserva le scelte; un esecutore locale applica operazioni ai materiali ricevuti. Una configurazione descritta in un documento non avvia da sola un lavoro dopo la conversazione.
 
 ## Approfondire il percorso dal riferimento alla scena
 
@@ -177,6 +185,14 @@ I kit pubblici sono disponibili separatamente nella stessa raccolta. Si compongo
 
 Quando realizzi un film, conserva i file generati, la scena modificabile e le osservazioni utili a riprenderlo. Metodo disponibile, strumenti presenti, film esportato e uso in un altro progetto descrivono risultati distinti.
 
+## Conservare il film quando il rendering si interrompe
+
+Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film.
+
+Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto.
+
+Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti.
+
 
 # Esempi sviluppati
 
@@ -194,6 +210,10 @@ Un museo dispone di tre disegni di un attrezzo e del suo uso. Per una spiegazion
 
 Un laboratorio ha ripreso preparazione, montaggio e funzionamento di un oggetto. L’AI osserva le clip, collega i passaggi e monta una spiegazione con le riprese effettive. Un salto temporale resta riconoscibile; la vicinanza di due immagini non inventa una causa. Il progetto fornisce clip e strumento di montaggio. L’osservazione del video finale può richiedere un altro taglio o un’inquadratura mancante, non una nuova reference generata.
 
+## Una scena illustrativa interrotta riprende la propria timeline
+
+Un progetto possiede una scena orbitale originale in codice e una timeline fissata di 72 frame. Dopo un segmento di 12 frame la produzione si interrompe. Lo stesso job riprende: decodifica il segmento concluso, ne controlla l’identità e calcola gli intervalli mancanti. Un job cambiato rimane distinto; un segmento danneggiato viene isolato e ricostruito. Il file locale concluso è verificato nell’insieme. Il caso insegna la continuazione tecnica; l’orbita è illustrativa e le scritte in scena sono l’opera originale italiana, non osservazioni scientifiche o risultati di un cliente.
+
 
 # VC-30s — mini-kernel operativo per video brevi in codice
 
@@ -201,7 +221,7 @@ MKCV comprende più percorsi di produzione. Questo testo approfondisce il profil
 
 MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
 
-Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.3; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
+Questo metodo collega comprensione del soggetto, progettazione visiva, codice, suono e apprendimento per produrre un film. Il sapere è disponibile nell’edizione pubblica 0.1.4; l’ambiente che lo usa fornisce generatore, strumenti e capacità di esportazione.
 
 **MKCV — Mini Kernel Code Video** nomina la composizione generale delle competenze di produzione. **VC-30s** è il profilo di durata breve descritto qui. Entrambi usano la [stessa guida di produzione](VC30_STUDIO_LAB_IT.md); durata e formato seguono il film richiesto.
 
@@ -312,7 +332,7 @@ MKCV comprende più percorsi di produzione. Questo testo approfondisce il profil
 
 MKCV è beta, in apprendimento. Il lavoro sul film e le osservazioni risultanti fanno evolvere il metodo.
 
-**Stato:** metodo pubblico **edizione 0.1.3**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
+**Stato:** metodo pubblico **edizione 0.1.4**. Si può usare come **guida di lavoro in una chat o in un harness** che possieda strumenti reali per immagini, file, codice e render. **Non** è uno studio software installato, un servizio autonomo o una garanzia che i provider citati siano disponibili. Il sapere proviene da [Semantic Timelapse Formation](SKILL_IT.md) e dal [mini-kernel operativo VC-30s](VC30_KERNEL_OPERATIVO_IT.md).
 
 ## MKCV — Mini Kernel Code Video, oltre il profilo di 30 secondi
 
@@ -487,4 +507,1088 @@ if __name__ == '__main__':
 
 ```
 
+
+
+# Conservare il film quando il rendering si interrompe
+
+Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film.
+
+## Uso locale
+
+Il job incluso seleziona soltanto un renderer originale fidato, con SHA256 esplicito. FFmpeg e ffprobe devono essere già installati e raggiungibili nel PATH; non vengono scaricati dallo script. Dalla cartella della competenza:
+
+```sh
+cd examples/recoverable_video
+python -m venv .venv
+# Attiva questo ambiente con il comando adatto alla tua shell.
+python -m pip install -r requirements.txt
+python autostudio.py plan jobs/orbital_scene.json
+python autostudio.py run jobs/orbital_scene.json --max-chunks 1
+python autostudio.py run jobs/orbital_scene.json
+python verify_recovery.py --output NEW_EMPTY_LOCATION
+```
+
+## Interpretare la continuazione
+
+Il primo run termina con stato `partial` e codice di uscita 4: è una sospensione controllata dopo un segmento, non un fallimento e non un job rimasto in background. La seconda invocazione dello stesso job verifica i segmenti, completa il film e restituisce `completed`; una nuova invocazione restituisce `reused_verified`. `needs_capability_or_input` indica mezzi o input mancanti; `checkpoint_conflict` conserva il lavoro precedente quando l’identità è cambiata. Scegli una nuova directory per un lavoro cambiato; non cancellare i checkpoint per far passare il controllo. I quattro profili del catalogo richiedono i propri materiali; questa confezione include una scena in codice, non i media di altri esempi. `reference_3d` esegue un renderer locale già scritto e fidato con gli input forniti dal progetto: non ricostruisce automaticamente un’immagine.
+
+## Competenze e prove
+
+Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto.
+
+L’adattatore per scene in codice incluso è stato esercitato in un ricevente Windows con sospensione/ripresa, interruzione reale dell’albero di processo, riparazione di un segmento danneggiato e confronto con un render continuo. Questo non attesta qualità narrativa, fedeltà immagine→3D, recupero cross-host o accesso a un provider media. Il rapporto `examples/recoverable_video/VERIFICATION.json` conserva la prova tecnica. I test dell’archivio precedente e i suoi media non sono parte di questo pacchetto. Lo script di verifica incluso esercita il contratto locale su una cartella nuova.
+
+
+## Sorgenti facoltative incluse per un ambiente con strumenti locali
+
+Salva i file indicati con terminazioni LF e un solo LF finale. Il job seleziona il renderer originale con il suo SHA256. In una chat senza strumenti usa il metodo e conserva la continuazione del progetto.
+
+### examples/recoverable_video/autostudio.py
+
+```python
+#!/usr/bin/env python3
+"""MKCV AutoStudio 0.3 — bounded local video executor.
+
+An AI's decision about story, direction and meaning belongs to the owner-native
+competences; this script only performs exact selected, authorized local effects.
+Standard library + Pillow, NumPy, OpenCV and local ffmpeg/ffprobe for supported profiles.
+"""
+from __future__ import annotations
+import argparse
+import hashlib
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+import uuid
+from pathlib import Path
+from typing import Any
+
+VERSION = "0.3.2"
+PROFILES = {
+  "coded_scene": {"mode": "executable_with_trusted_time_renderer", "owners": ["Cinematic Direction", "Character Performance", "Film Montage", "Code Medium"], "scope": "deterministic frame-addressable authored scene, verified segments and interruption recovery; not autonomous story generation"},
+  "animatic": {"mode": "executable", "owners": ["Editoriali", "Storyboard", "Film Montage", "Code Medium"], "scope": "timed stills and editorial camera motion; not character animation"},
+  "edit_existing": {"mode": "executable", "owners": ["Film Montage", "Sound", "Code Medium"], "scope": "re-encoded normalized clip montage; optional external music; no default source-audio reuse"},
+  "reference_3d": {"mode": "executable_with_trusted_renderer", "owners": ["Cinematic Direction", "Character Performance", "Code Medium"], "scope": "execute an already-authored trusted local renderer and compare its frame with a reference; no automatic 3D reconstruction"},
+  "image_motion": {"mode": "needs_assets_or_adapter", "owners": ["Character Performance", "Code Medium"], "scope": "requires subject layers, masks and reconstructed background"},
+  "procedural_3d_film": {"mode": "needs_scene_renderer", "owners": ["Cinematic Direction", "Character Performance", "Code Medium"], "scope": "requires an authored time-addressable 3D scene"},
+  "motion_graphics": {"mode": "needs_graphics_adapter", "owners": ["Editoriali", "Perceptual Composition", "Code Medium"], "scope": "requires data semantics and a renderer"},
+  "live_capture": {"mode": "needs_capture_receiver", "owners": ["Product Owner", "Direction", "Code Medium"], "scope": "requires true screen/software capture"},
+  "generative_video": {"mode": "needs_provider", "owners": ["Storyboard", "Direction", "Provider"], "scope": "requires connected provider, explicit cost/rights and actual invocation"},
+  "interactive_film": {"mode": "needs_interactive_runtime", "owners": ["UX-AI", "Design", "Code Medium"], "scope": "MP4 is not interactive software"},
+}
+EXECUTABLE = {"animatic","edit_existing","reference_3d","coded_scene"}
+PROFILE_GAPS={
+ "image_motion": "Clean background, subject mask or rig plus an image-motion adapter not supplied",
+ "procedural_3d_film": "Authored time-addressable scene renderer must be installed in a compatible receiver",
+ "motion_graphics": "Domain data and code motion-graphics renderer required",
+ "live_capture": "Real application/screen capture controller is not connected to this process",
+ "generative_video": "Video-generation provider not connected; rights, credits and authority unresolved",
+ "interactive_film": "Requires real interactive runtime, not an MP4 renderer"
+}
+class MKCVError(Exception):
+    def __init__(self, code: str, message: str):
+        super().__init__(message)
+        self.code=code
+
+
+def hash_file(path: Path) -> str:
+    h=hashlib.sha256()
+    with path.open("rb") as fp:
+        for chunk in iter(lambda: fp.read(1024*1024),b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def exec_process(cmd:list[str], timeout:int=120, *, cwd:Path|None=None, input_bytes:bytes|None=None) -> subprocess.CompletedProcess:
+    try:
+        p=subprocess.run(cmd, input=input_bytes, capture_output=True, cwd=cwd, timeout=timeout)
+    except FileNotFoundError as exc:
+        raise MKCVError("needs_capability_or_input", f"Executable missing: {cmd[0]}") from exc
+    except subprocess.TimeoutExpired as exc:
+        raise MKCVError("execution_timed_out", f"Process exceeded {timeout}s: {cmd[0]}") from exc
+    if p.returncode:
+        raise MKCVError("execution_failed", f"{cmd[0]} returned {p.returncode}: {p.stderr.decode('utf-8','replace')[-1500:]}")
+    return p
+
+
+def probe(path:Path) -> dict[str,Any]:
+    data=json.loads(exec_process(["ffprobe","-v","error","-count_frames","-show_format","-show_streams","-of","json",str(path)],timeout=120).stdout)
+    video=next((s for s in data.get("streams",[]) if s.get("codec_type")=="video"),None)
+    if not video: raise MKCVError("bad_artifact", f"No video stream: {path.name}")
+    frames=video.get("nb_read_frames") or video.get("nb_frames")
+    fps=video.get("avg_frame_rate") or "0/1"
+    return {"codec":video.get("codec_name"),"width":video.get("width"),"height":video.get("height"),
+     "fps":fps,"frames":int(frames) if frames and frames!='N/A' else None,
+     "duration":float(data.get("format",{}).get("duration") or 0),
+     "audio":any(s.get("codec_type")=="audio" for s in data.get("streams",[])),
+     "audio_codec":next((s.get("codec_name") for s in data.get("streams",[]) if s.get("codec_type")=="audio"),None)}
+
+
+def decode_all(path:Path, timeout:int=140) -> None:
+    exec_process(["ffmpeg","-hide_banner","-nostdin","-v","error","-xerror","-i",str(path),"-f","null","-"],timeout=timeout)
+
+
+def is_inside(path:Path,root:Path)->bool:
+    return path==root or root in path.parents
+
+
+def work_path(root:Path, raw:str, *, existing:bool=True) -> Path:
+    if not isinstance(raw,str) or not raw.strip(): raise MKCVError("invalid_job","Expected relative nonblank path")
+    if Path(raw).is_absolute(): raise MKCVError("unsafe_path",f"Absolute path not allowed in job: {raw}")
+    p=(root/raw).resolve()
+    if not is_inside(p,root): raise MKCVError("unsafe_path", f"Path escapes job workspace: {raw}")
+    if existing and (not p.is_file() or p.is_symlink()):
+        raise MKCVError("needs_capability_or_input", f"Missing regular input file: {raw}")
+    return p
+
+
+def require_int(value:Any,lo:int,hi:int,name:str)->int:
+    if type(value) is not int or not lo<=value<=hi:
+        raise MKCVError("invalid_job",f"{name} must be integer in [{lo},{hi}]")
+    return value
+
+
+def select_profile(job:dict)->tuple[str|None,str|None]:
+    requested=job.get("profile")
+    if requested:
+        if requested not in PROFILES: return None,"Unrecognized profile; cannot assume a video medium"
+        return requested,None
+    inputs=job.get("inputs",{})
+    matches=[]
+    if isinstance(inputs,dict):
+        if inputs.get("images"):matches.append("animatic")
+        if inputs.get("clips"):matches.append("edit_existing")
+        if inputs.get("renderer") and inputs.get("reference"):matches.append("reference_3d")
+    if len(matches)==1:return matches[0],None
+    return None,"Material or intent is insufficient or ambiguous; select a medium from capabilities"
+
+
+def load(job_path:Path,workspace:Path|None) -> tuple[dict,Path,Path]:
+    job_path=job_path.resolve(strict=True)
+    root=(workspace or (job_path.parent.parent if job_path.parent.name=='jobs' else job_path.parent)).resolve(strict=True)
+    if not is_inside(job_path,root): raise MKCVError("unsafe_path", "Job file outside workspace")
+    try: job=json.loads(job_path.read_text(encoding="utf-8"))
+    except Exception as exc: raise MKCVError("invalid_job", f"Cannot parse job: {exc}") from exc
+    if not isinstance(job,dict): raise MKCVError("invalid_job", "Job must be a JSON object")
+    if job.get("id") and (not isinstance(job["id"],str) or not re.fullmatch(r"[\w-]{1,80}",job["id"], re.ASCII)):
+        raise MKCVError("invalid_job","Job ID must use [A-Za-z0-9_-], max 80")
+    if not isinstance(job.get("intent"),str) or not job["intent"].strip():
+        raise MKCVError("invalid_job","intent is required as substantive text")
+    return job,root,job_path
+
+
+def plan_job(job:dict,root:Path)->dict:
+    gaps=[]; warnings=[]
+    profile,ambiguity=select_profile(job)
+    if ambiguity: gaps.append(ambiguity)
+    authority=job.get("authority",{})
+    if not isinstance(authority,dict): raise MKCVError("invalid_job","authority must be object")
+    for eff in ("publish","spend","send","deploy"):
+        if authority.get(eff): gaps.append(f"{eff} is an external effect: not authorized by the local video executor")
+    inputs=job.get("inputs",{})
+    if not isinstance(inputs,dict):raise MKCVError("invalid_job","inputs must be object")
+    out=job.get("output",{})
+    if not isinstance(out,dict):raise MKCVError("invalid_job","output must be object")
+    width=require_int(out.get("width",640),160,1920,"output.width")
+    height=require_int(out.get("height",360),90,1080,"output.height")
+    if width%2 or height%2:raise MKCVError("invalid_job","width and height must be even (H.264 yuv420p)")
+    fps=require_int(out.get("fps",24),1,60,"output.fps")
+    max_frames=require_int(job.get("limits",{}).get("max_frames",1800),1,12000,"limits.max_frames")
+    dest=work_path(root,out.get("directory",f"runs/{job.get('id','job')}/"),existing=False)
+    asset_map={}; expected=0
+    def asset(label,path):
+        p=work_path(root,path)
+        if not p.exists(): gaps.append(f"Missing {label}: {path}")
+        else:asset_map[label]={"path":str(p.relative_to(root)),"sha256":hash_file(p),"bytes":p.stat().st_size}
+        return p
+    if profile in PROFILE_GAPS:gaps.append(PROFILE_GAPS[profile])
+    if profile in EXECUTABLE:
+        import importlib.util
+        for cmd in ("ffmpeg","ffprobe"):
+            if not shutil.which(cmd):gaps.append(f"Executable missing on this receiver: {cmd}")
+        for module in ("PIL","numpy","cv2"):
+            if importlib.util.find_spec(module) is None:gaps.append(f"Python dependency missing: {module}")
+    if profile=="coded_scene":
+        expected=require_int(inputs.get("frames"),1,12000,"inputs.frames")
+        chunk_frames=require_int(inputs.get("chunk_frames",48),1,500,"inputs.chunk_frames")
+        if chunk_frames>max_frames: gaps.append("chunk_frames exceeds max_frames")
+        if not inputs.get("renderer"):gaps.append("coded_scene needs a trusted time-addressed renderer")
+        else:
+            try:asset("renderer",inputs["renderer"])
+            except MKCVError as e:gaps.append(str(e))
+        if authority.get("execute_trusted_renderer") is not True:
+            gaps.append("authority.execute_trusted_renderer=true required for authored Python scene")
+        sha=inputs.get("renderer_sha256")
+        if not isinstance(sha,str) or not re.fullmatch("[a-f0-9]{64}",sha):
+            gaps.append("coded_scene requires pinned renderer_sha256")
+        elif "renderer" in asset_map and asset_map["renderer"]["sha256"]!=sha:
+            gaps.append("Pinned renderer SHA256 differs from local file")
+        assets=inputs.get("assets",[])
+        if not isinstance(assets,list):raise MKCVError("invalid_job","assets must be a list")
+        for i,v in enumerate(assets):
+            if not isinstance(v,str):raise MKCVError("invalid_job","assets entries must be paths")
+            try:asset(f"asset_{i}",v)
+            except MKCVError as e:gaps.append(str(e))
+        if inputs.get("audio"):
+            try:asset("music",inputs["audio"])
+            except MKCVError as e:gaps.append(str(e))
+    if profile=="reference_3d":
+        for n in ("reference","renderer","regions","camera"):
+            if not inputs.get(n):gaps.append(f"Missing {n} for reference_3d")
+            else:
+                try:asset(n,inputs[n])
+                except MKCVError as e:gaps.append(str(e))
+        if authority.get("execute_trusted_renderer") is not True:gaps.append("authority.execute_trusted_renderer=true required for Python execution")
+        if not re.fullmatch(r"[\w-]+\.png", inputs.get("render_name","reconstruction_R2.png"),re.ASCII):
+            raise MKCVError("invalid_job","render_name must be a flat PNG filename")
+        if not inputs.get("renderer_sha256"):
+            gaps.append("Explicit renderer_sha256 pin required to execute trusted code")
+        elif "renderer" in asset_map and inputs["renderer_sha256"]!=asset_map["renderer"]["sha256"]:
+            gaps.append("Trusted renderer hash changed — explicit authority update needed")
+    elif profile=="animatic":
+        ims=inputs.get("images",[])
+        if not isinstance(ims,list) or not ims:gaps.append("animatic needs images[]")
+        for i,im in enumerate(ims if isinstance(ims,list) else []):
+            if not isinstance(im,dict):raise MKCVError("invalid_job",f"images[{i}] must be an object")
+            frames=require_int(im.get("frames",48),1,1800,f"images[{i}].frames")
+            expected+=frames
+            try:asset(f"image_{i}",im["path"])
+            except (KeyError,MKCVError) as e:gaps.append(f"images[{i}]: {e}")
+        if inputs.get("audio"):
+            try:asset("music",inputs["audio"])
+            except MKCVError as e:gaps.append(str(e))
+    elif profile=="edit_existing":
+        clips=inputs.get("clips",[])
+        if not isinstance(clips,list) or not clips:gaps.append("edit_existing needs clips[]")
+        for i,clip in enumerate(clips if isinstance(clips,list) else []):
+            if not isinstance(clip,dict):raise MKCVError("invalid_job",f"clips[{i}] must be an object")
+            expected+=require_int(clip.get("frames",48),1,1800,f"clips[{i}].frames")
+            require_int(clip.get("start_frame",0),0,10000000,f"clips[{i}].start_frame")
+            try:
+                path=asset(f"clip_{i}",clip["path"])
+                if path.exists():
+                    p=probe(path)
+                    if p["frames"] and clip.get("start_frame",0)+clip.get("frames",48)>p["frames"]:
+                        gaps.append(f"clips[{i}]: selection exceeds original video frames")
+            except (KeyError,MKCVError) as e:gaps.append(f"clips[{i}]: {e}")
+        if inputs.get("audio"):
+            try:asset("music",inputs["audio"])
+            except MKCVError as e:gaps.append(str(e))
+        else:warnings.append("Source clip audio is not copied by this adapter; output is silent unless music input is supplied")
+    if expected>max_frames:gaps.append(f"Expected {expected} frames exceeds max_frames={max_frames}")
+    executor_files=[Path(__file__).resolve()]
+    if profile=="coded_scene":executor_files.append(Path(__file__).resolve().with_name("mkcv_resumable.py"))
+    executor_sources={x.name:hash_file(x) for x in executor_files}
+    job_signature={"job":job,"inputs":asset_map,"executor":VERSION,"executor_sources":executor_sources,"profile":profile}
+    fingerprint=hashlib.sha256(json.dumps(job_signature,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
+    return {"status":"executable" if profile in EXECUTABLE and not gaps else "needs_capability_or_input",
+       "profile":profile,"intent":job["intent"],"owners":PROFILES.get(profile,{}).get("owners",[]),
+       "profile_note":PROFILES.get(profile,{}).get("scope"),"gaps":gaps,"warnings":warnings,
+       "fingerprint":fingerprint,"executor_sources":executor_sources,"inputs":asset_map,"expected_frames":expected or None,
+       "output":{"directory":str(dest.relative_to(root)),"width":width,"height":height,"fps":fps}}
+
+
+def crop_to_frame(img, width, height, progress:float, scale_from:float, scale_to:float, focus_x:float=.5, focus_y:float=.5):
+    from PIL import Image
+    import numpy as np
+    s=scale_from+(scale_to-scale_from)*progress
+    base=max(width/img.width,height/img.height)
+    nw=max(width,int(round(img.width*base*s)));nh=max(height,int(round(img.height*base*s)))
+    im=img.resize((nw,nh),Image.Resampling.LANCZOS)
+    # Ease pan tied to progress, not to frame-count-dependent hidden state.
+    ox=int((nw-width)*focus_x);oy=int((nh-height)*focus_y)
+    ox=min(nw-width,max(0,ox));oy=min(nh-height,max(0,oy))
+    return im.crop((ox,oy,ox+width,oy+height))
+
+
+def write_rgb_frames(frames, output:Path,width:int,height:int,fps:int, count:int) -> None:
+    cmd=["ffmpeg","-hide_banner","-loglevel","error","-nostdin","-y","-f","rawvideo","-vcodec","rawvideo","-pix_fmt","rgb24",
+          "-s",f"{width}x{height}","-r",str(fps),"-i","pipe:0","-an","-c:v","libx264","-preset","veryfast","-crf","21",
+          "-pix_fmt","yuv420p","-threads","1","-movflags","+faststart",str(output)]
+    import subprocess
+    proc=subprocess.Popen(cmd,stdin=subprocess.PIPE,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
+    seen=0
+    try:
+        for im in frames:
+            if im.size!=(width,height):raise MKCVError("bad_frame",f"Expected {(width,height)}, got {im.size}")
+            proc.stdin.write(im.convert("RGB").tobytes())
+            seen+=1
+        proc.stdin.close()
+        err=proc.stderr.read()
+        code=proc.wait(timeout=120)
+        if code:raise MKCVError("execution_failed",f"ffmpeg exit {code}: {err.decode('utf-8','replace')[-1200:]}")
+        if seen!=count:raise MKCVError("bad_artifact",f"Input frame count mismatch {seen} != {count}")
+    except BaseException:
+        if proc.stdin and not proc.stdin.closed:proc.stdin.close()
+        proc.kill();proc.wait()
+        raise
+
+
+def local_font(size:int):
+    """Resolve a local font on this receiver; never require a private asset."""
+    from PIL import ImageFont
+    for name in ("DejaVuSans.ttf", "Arial.ttf"):
+        try:
+            return ImageFont.truetype(name, size)
+        except OSError:
+            pass
+    try:
+        return ImageFont.load_default(size=size)
+    except TypeError:
+        return ImageFont.load_default()
+
+
+def generate_animatic(job:dict, root:Path, work:Path, width:int,height:int,fps:int)->tuple[Path,int]:
+    from PIL import Image, ImageDraw, ImageFont
+    from itertools import accumulate
+    images=[]; total=0
+    for row in job["inputs"]["images"]:
+        img=Image.open(work_path(root,row["path"])).convert("RGB")
+        frames=row.get("frames",48)
+        focus=row.get("focus",[.5,.5]); z=row.get("zoom",[1.0,1.04])
+        if not (isinstance(focus,list) and len(focus)==2 and all(type(x) in (int,float) and 0<=x<=1 for x in focus)):
+            raise MKCVError("invalid_job","focus must be [0..1,0..1]")
+        if not (isinstance(z,list) and len(z)==2 and all(type(x) in (int,float) and 1<=x<=1.6 for x in z)):
+            raise MKCVError("invalid_job","zoom must be [1..1.6,1..1.6]")
+        images.append((img,frames,focus,z,row.get("caption","")))
+        total+=frames
+    # Editable accessibility companion for visible titles, never a transcript of spoken audio.
+    def srt_time(frame:int)->str:
+        ms=round(frame*1000/fps)
+        h,ms=divmod(ms,3600000);m,ms=divmod(ms,60000);sec,ms=divmod(ms,1000)
+        return f"{h:02d}:{m:02d}:{sec:02d},{ms:03d}"
+    cues=[];cursor=0
+    for img,n,focus,z,caption in images:
+        if caption:
+            cues.append(f"{len(cues)+1}\n{srt_time(cursor)} --> {srt_time(cursor+n)}\n{caption}\n")
+        cursor+=n
+    if cues:
+        (work/"visual_titles.srt").write_text("\n".join(cues)+"\n",encoding="utf-8")
+    def frames():
+        for img,n,focus,z,caption in images:
+            for i in range(n):
+                t=i/max(1,n-1); smooth=t*t*(3-2*t)
+                a=crop_to_frame(img,width,height,smooth,z[0],z[1],focus[0],focus[1])
+                if caption:
+                    draw=ImageDraw.Draw(a)
+                    from PIL import ImageFont
+                    font=local_font(max(16,round(height*.05)))
+                    limit=max(0,int(width*.84))
+                    # Caption is editable overlay, not claimed to be in source image.
+                    while draw.textbbox((0,0),caption,font=font)[2]>limit and font.size>12:
+                        font=local_font(font.size-1)
+                    bb=draw.textbbox((0,0),caption,font=font)
+                    cx=(width-(bb[2]-bb[0]))//2; y=height-round(height*.11)
+                    draw.rounded_rectangle((max(0,cx-13),y-8,min(width,cx+bb[2]-bb[0]+13),y+bb[3]-bb[1]+14),radius=10,fill=(12,16,31))
+                    draw.text((cx,y),caption,font=font,fill=(246,248,252))
+                yield a
+    path=work/"video_only.mp4"
+    write_rgb_frames(frames(),path,width,height,fps,total)
+    return path,total
+
+
+def generate_edit(job:dict, root:Path, work:Path,width:int,height:int,fps:int)->tuple[Path,int]:
+    paths=[];total=0
+    for i,clip in enumerate(job["inputs"]["clips"]):
+        p=work_path(root,clip["path"])
+        num=clip.get("frames",48); start=clip.get("start_frame",0)
+        part=work/f"part_{i:02d}.mp4"
+        # Explicit output-frame sampling, with trim enforced after output fps normalization.
+        vf=(f"fps={fps},trim=start_frame={start}:end_frame={start+num},setpts=PTS-STARTPTS,"
+            f"scale={width}:{height}:force_original_aspect_ratio=decrease,"
+            f"pad={width}:{height}:(ow-iw)/2:(oh-ih)/2:color=black,setsar=1")
+        exec_process(["ffmpeg","-hide_banner","-nostdin","-v","error","-y","-i",str(p),"-vf",vf,
+               "-an","-frames:v",str(num),"-c:v","libx264","-preset","veryfast","-crf","21","-pix_fmt","yuv420p", "-threads","1",str(part)],timeout=180)
+        pr=probe(part)
+        if pr["frames"]!=num:raise MKCVError("bad_artifact",f"Clip {i}: expected {num}, got {pr['frames']}")
+        paths.append(part);total+=num
+    # Reconstruct a strict CFR timeline instead of concatenating MP4 packets with
+    # inherited container time bases (which can report an inaccurate avg FPS).
+    video=work/"video_only.mp4"
+    inputs=[]
+    for item in paths: inputs.extend(["-i",str(item)])
+    labels=''.join(f"[{i}:v]" for i in range(len(paths)))
+    exec_process(["ffmpeg","-hide_banner","-nostdin","-v","error","-y",*inputs,
+        "-filter_complex",f"{labels}concat=n={len(paths)}:v=1:a=0[v]",
+        "-map","[v]","-r",str(fps),"-fps_mode","cfr","-frames:v",str(total),
+        "-an","-c:v","libx264","-preset","veryfast","-crf","21",
+        "-pix_fmt","yuv420p","-threads","1",str(video)],timeout=180)
+    return video,total
+
+
+def compare_reference(job:dict,root:Path, work:Path)->tuple[Path,None]:
+    from PIL import Image,ImageDraw
+    import numpy as np
+    import cv2
+    inputs=job["inputs"]
+    trusted=work_path(root,inputs["renderer"])
+    assert hash_file(trusted)==inputs["renderer_sha256"]
+    shutil.copy2(trusted,work/"rebuild_reference.py")
+    shutil.copy2(work_path(root,inputs["reference"]),work/"reference.png")
+    shutil.copy2(work_path(root,inputs["camera"]),work/"scene_spec.json")
+    shutil.copy2(work_path(root,inputs["regions"]),work/"regions.json")
+    exec_process([sys.executable,str(work/"rebuild_reference.py")],cwd=work,timeout=150)
+    output_name=inputs.get("render_name","reconstruction_R2.png")
+    p=work/output_name
+    if not p.is_file():raise MKCVError("bad_artifact",f"Renderer did not create {output_name}")
+    ref=Image.open(work/"reference.png").convert("RGB")
+    render=Image.open(p).convert("RGB")
+    w,h=render.size; ref=ref.resize((w,h),Image.Resampling.LANCZOS)
+    combo=Image.new("RGB",(w*2,h));combo.paste(ref);combo.paste(render,(w,0))
+    combo.save(work/"comparison.png")
+    Image.blend(ref,render,.5).save(work/"overlay.png")
+    spec=json.loads((work/"regions.json").read_text(encoding="utf-8"));results=[]
+    if not isinstance(spec.get("regions"),list):raise MKCVError("invalid_job","regions must be array")
+    ref_array=np.asarray(ref,dtype=np.float32); ren_array=np.asarray(render,dtype=np.float32)
+    for i,r in enumerate(spec["regions"]):
+        name=re.sub(r"[^A-Za-z0-9_-]","_",r.get("id",f"ROI{i}"))
+        v=r["roi"]
+        if len(v)!=4 or not all(0<=x<=1 for x in v) or v[0]>=v[2] or v[1]>=v[3]:
+            raise MKCVError("invalid_job",f"Invalid ROI: {name}")
+        coords=[int(a*b) for a,b in zip(v,[w,h,w,h])]; x0,y0,x1,y1=coords
+        if x0==x1 or y0==y1:continue
+        im=Image.new("RGB",((x1-x0)*2,y1-y0));im.paste(ref.crop(coords));im.paste(render.crop(coords),(x1-x0,0));im.save(work/f"roi_{i:02}_{name}.png")
+        results.append({"region":name,"mean_abs_pixel_difference_descriptive_not_fidelity":round(float(np.abs(ref_array[y0:y1,x0:x1]-ren_array[y0:y1,x0:x1]).mean()),2)})
+    (work/"OBSERVATIONS.json").write_text(json.dumps({"status":"not_a_fidelity_certificate","camera_matched":"not_verified_automatically","regions":results},ensure_ascii=False,indent=2))
+    return p,None
+
+
+def mux_music(video:Path, audio:Path,out:Path, duration:float)->None:
+    exec_process(["ffmpeg","-hide_banner","-nostdin","-v","error","-y","-i",str(video),"-i",str(audio),
+       "-filter_complex",f"[1:a]apad,atrim=duration={duration:.7f}[a]",
+       "-map","0:v:0","-map","[a]","-c:v","copy","-c:a","aac","-b:a","160k","-movflags","+faststart",str(out)],timeout=120)
+
+
+def contact_sheet(path:Path,out:Path, positions:tuple[float,...]=(.05,.25,.5,.75,.95)) -> None:
+    from PIL import Image,ImageDraw
+    import cv2
+    cap=cv2.VideoCapture(str(path))
+    n=int(cap.get(cv2.CAP_PROP_FRAME_COUNT));cells=[]
+    for p in positions:
+        cap.set(cv2.CAP_PROP_POS_FRAMES, min(n-1,int(round((n-1)*p))))
+        ok,frame=cap.read()
+        if ok:cells.append(Image.fromarray(cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)).resize((320,180)))
+    cap.release()
+    if cells:
+        sheet=Image.new("RGB",(320*len(cells),180));
+        for i,img in enumerate(cells):sheet.paste(img,(320*i,0))
+        sheet.save(out,quality=90)
+
+
+def execute(job:dict, root:Path, plan:dict, *, max_chunks:int|None=None) -> dict:
+    if max_chunks is not None and plan["profile"]!="coded_scene":
+        raise MKCVError("invalid_job","--max-chunks is supported only for coded_scene")
+    if plan["profile"]=="coded_scene":
+        from mkcv_resumable import execute as execute_resumable
+        return execute_resumable(job,root,plan,sys.modules[__name__],max_chunks=max_chunks)
+    if plan["status"]!="executable":return {"status":"needs_capability_or_input","plan":plan}
+    folder=work_path(root,plan["output"]["directory"],existing=False)
+    if folder.exists():
+        receipt=folder/"EXECUTION.json"
+        if receipt.exists():
+            try:
+                prev=json.loads(receipt.read_text())
+                if prev.get("fingerprint")==plan["fingerprint"]:
+                    assets=prev.get("artifacts",{})
+                    if all((folder/k).is_file() and hash_file(folder/k)==v["sha256"] for k,v in assets.items()):
+                        return {"status":"reused_verified","directory":plan["output"]["directory"],"receipt":prev}
+            except (ValueError,KeyError):pass
+        raise MKCVError("output_conflict","Destination exists but cannot prove matching job and intact files; select new output.directory")
+    folder.parent.mkdir(parents=True,exist_ok=True)
+    lock=folder.parent/("."+folder.name+".execution.lock")
+    try: lock.mkdir()
+    except FileExistsError as ex:
+        raise MKCVError("execution_in_progress_or_stale_lock", "Another execution or an unresolved lock exists for this exact output; reconcile before retrying") from ex
+    stage=folder.parent/("."+folder.name+".attempt-"+uuid.uuid4().hex[:8]);stage.mkdir()
+    w=plan["output"]["width"];h=plan["output"]["height"];fps=plan["output"]["fps"]
+    profile=plan["profile"]
+    try:
+        expected=plan["expected_frames"]
+        if profile=="animatic": vid,expected=generate_animatic(job,root,stage,w,h,fps)
+        elif profile=="edit_existing": vid,expected=generate_edit(job,root,stage,w,h,fps)
+        elif profile=="reference_3d": vid,expected=compare_reference(job,root,stage)
+        else:raise MKCVError("needs_capability_or_input",f"Profile not runnable: {profile}")
+        if profile!="reference_3d":
+            final=stage/"film.mp4"
+            if job["inputs"].get("audio"):
+                mux_music(vid,work_path(root,job["inputs"]["audio"]),final,expected/fps)
+            else:shutil.copy2(vid,final)
+            meta=probe(final)
+            if meta["frames"]!=expected:
+                raise MKCVError("bad_artifact",f"Decoded frame count {meta['frames']} != expected {expected}")
+            if (meta["width"],meta["height"])!=(w,h):raise MKCVError("bad_artifact","Dimension mismatch")
+            num,den=map(int,meta["fps"].split('/'))
+            if den==0 or num!=fps*den:raise MKCVError("bad_artifact",f"Frame rate mismatch: {meta['fps']} != {fps}/1")
+            decode_all(final)
+            contact_sheet(final,stage/"contact_sheet.jpg")
+            result={"video":meta,"expected_frames":expected,"decoded_without_errors":True,"claim":"technical_output_not_semantic_quality_certification"}
+            # Normalized intermediate files are implementation detail: keep only deliverables.
+            for file in stage.glob("part_*.mp4"):file.unlink()
+            for name in ("video_only.mp4","concat.txt"):
+                tmp=stage/name
+                if tmp.exists():tmp.unlink()
+        else:
+            from PIL import Image
+            x=Image.open(vid);x.verify()
+            result={"still":{"width":x.width,"height":x.height},"decoded_without_errors":True,"claim":"model_rendered_not_reference_fidelity_certification"}
+        artifacts={f.name:{"sha256":hash_file(f),"bytes":f.stat().st_size} for f in sorted(stage.iterdir()) if f.is_file() and f.name not in ("EXECUTION.json",)}
+        receipt={"schema":"mkcv-execution-receipt/0.2","status":"completed","version":VERSION,"profile":profile,
+            "job_id":job.get("id"),"fingerprint":plan["fingerprint"],"inputs":plan["inputs"],"result":result,
+            "artifacts":artifacts,"limits":"local output only; no publication/spend/background execution"}
+        (stage/"EXECUTION.json").write_text(json.dumps(receipt,ensure_ascii=False,indent=2,sort_keys=True)+"\n",encoding="utf-8")
+        stage.rename(folder)
+        return {"status":"completed","directory":plan["output"]["directory"],"receipt":receipt}
+    except BaseException as e:
+        (stage/"ATTEMPT.json").write_text(json.dumps({"status":"failed_without_claimed_output","code":getattr(e,"code",type(e).__name__),"message":str(e),"job_fingerprint":plan["fingerprint"]},ensure_ascii=False,indent=2),encoding="utf-8")
+        raise
+    finally:
+        # The incomplete attempt survives for analysis; only the active lock ends.
+        lock.rmdir()
+
+
+def main():
+    ap=argparse.ArgumentParser(description="MKCV AutoStudio — local, bounded, receipts-first media executor")
+    ap.add_argument("command",choices=["catalog","plan","run"])
+    ap.add_argument("job",nargs="?",type=Path)
+    ap.add_argument("--workspace",type=Path,default=None,help="Explicit workspace root; job and all assets must reside within it")
+    ap.add_argument("--max-chunks",type=int,default=None,help="QA controlled suspension after this many newly rendered chunks (no background work)")
+    args=ap.parse_args()
+    try:
+        if args.command=="catalog":
+            print(json.dumps({"version":VERSION,"profiles":PROFILES,"implemented_profiles":sorted(EXECUTABLE)},ensure_ascii=False,indent=2));return
+        if not args.job:raise MKCVError("invalid_job","Job path required")
+        job,root,jobpath=load(args.job,args.workspace)
+        plan=plan_job(job,root)
+        obj=plan if args.command=="plan" else execute(job,root,plan,max_chunks=args.max_chunks)
+        print(json.dumps(obj,ensure_ascii=False,indent=2,sort_keys=True))
+        if obj.get("status")=="partial":sys.exit(4)
+        if obj.get("status") not in ("executable","completed","reused_verified"): sys.exit(3)
+    except MKCVError as e:
+        print(json.dumps({"status":e.code,"message":str(e)},ensure_ascii=False,indent=2),file=sys.stderr)
+        sys.exit(2)
+    except Exception as e:
+        # Do not claim success; preserve the failed attempt and a machine-readable error.
+        print(json.dumps({"status":"execution_failed","type":type(e).__name__,"message":str(e)},ensure_ascii=False,indent=2),file=sys.stderr)
+        sys.exit(2)
+
+if __name__=="__main__": main()
+```
+
+### examples/recoverable_video/mkcv_resumable.py
+
+```python
+#!/usr/bin/env python3
+"""Resumable, receipt-backed video-chunk adapter for MKCV AutoStudio.
+
+The caller supplies a pinned, trusted, deterministic renderer that accepts:
+--start-frame N --end-frame M --fps F --width W --height H --output PATH
+Each invocation must make an H264/no-audio MP4 of exactly M-N frames.
+This module never invents scenes or selects unauthorized external effects.
+"""
+from __future__ import annotations
+import json
+import os
+import shutil
+import socket
+import sys
+import time
+import uuid
+from pathlib import Path
+from typing import Any
+
+
+def _atomic_json(dest:Path, data:dict) -> None:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    tmp=dest.with_name(dest.name+'.new-'+uuid.uuid4().hex[:8])
+    try:
+        with tmp.open('w',encoding='utf-8') as f:
+            json.dump(data,f,sort_keys=True,indent=2,ensure_ascii=False)
+            f.write('\n');f.flush();os.fsync(f.fileno())
+        os.replace(tmp,dest)
+    finally:
+        if tmp.exists(): tmp.unlink()
+
+
+def _load_json(p:Path, a)->dict:
+    try:
+        data=json.loads(p.read_text(encoding='utf-8'))
+        if not isinstance(data,dict):raise ValueError('not an object')
+        return data
+    except (OSError, ValueError, UnicodeError) as exc:
+        raise a.MKCVError('checkpoint_invalid',f'Cannot trust {p.name}; preserve and review partial work: {exc}') from exc
+
+
+def _pid_alive(pid:int)->bool:
+    if type(pid) is not int or pid<1:return False
+    if os.name == "nt":
+        # Windows signal 0 is CTRL_C_EVENT, not a process-existence query.
+        # Wait on a query-only handle; never send a signal to inspect a lock.
+        import ctypes
+        from ctypes import wintypes
+        api = ctypes.WinDLL("kernel32", use_last_error=True)
+        api.OpenProcess.argtypes = (wintypes.DWORD, wintypes.BOOL, wintypes.DWORD)
+        api.OpenProcess.restype = wintypes.HANDLE
+        api.WaitForSingleObject.argtypes = (wintypes.HANDLE, wintypes.DWORD)
+        api.WaitForSingleObject.restype = wintypes.DWORD
+        api.CloseHandle.argtypes = (wintypes.HANDLE,)
+        api.CloseHandle.restype = wintypes.BOOL
+        handle = api.OpenProcess(0x00100000, False, pid)  # SYNCHRONIZE only
+        if not handle:
+            return ctypes.get_last_error() != 87  # absent PID; otherwise unknown
+        try:
+            status = api.WaitForSingleObject(handle, 0)
+            return status != 0  # WAIT_OBJECT_0 means terminated; unknown stays live
+        finally:
+            api.CloseHandle(handle)
+    try:os.kill(pid,0);return True
+    except ProcessLookupError:return False
+    except PermissionError:return True
+
+
+def _lock_dir(lock:Path,a)->list[dict[str,Any]]:
+    events=[]
+    try:lock.mkdir()
+    except FileExistsError:
+        if lock.is_symlink() or not lock.is_dir():raise a.MKCVError('unsafe_path','Lock path is not a directory')
+        state=_load_json(lock/'holder.json',a)
+        if state.get('hostname')!=socket.gethostname():
+            raise a.MKCVError('execution_in_progress_or_unknown_lock','Cross-host or unidentified lock; do not steal')
+        pid=state.get('pid')
+        if _pid_alive(pid):
+            raise a.MKCVError('execution_in_progress_or_stale_lock',f'Existing active renderer process {pid}')
+        # This lock was held by a process that no longer exists on the same host.
+        archived=lock.with_name(lock.name+'.stale-'+uuid.uuid4().hex[:8])
+        lock.rename(archived)
+        events.append({'event':'stale_lock_reclaimed','old_pid':pid,'archive':archived.name})
+        try:lock.mkdir()
+        except FileExistsError as exc:raise a.MKCVError('execution_in_progress_or_stale_lock','Concurrent restart') from exc
+    _atomic_json(lock/'holder.json',{'pid':os.getpid(),'hostname':socket.gethostname(),'started':time.time()})
+    return events
+
+
+def _verify_chunk(path:Path,first:int,end:int,w:int,h:int,fps:int,a)->dict:
+    if not path.is_file() or path.is_symlink():raise a.MKCVError('missing_chunk',f'Chunk missing/unsafe: {path.name}')
+    info=a.probe(path)
+    if info['codec']!='h264' or info['audio'] or (info['width'],info['height'])!=(w,h) or info['frames']!=end-first:
+        raise a.MKCVError('invalid_chunk',f'{path.name}: wrong codec/dims/audio/frame count: {info}')
+    num,den=map(int,info['fps'].split('/'))
+    if den<=0 or num!=fps*den:
+        raise a.MKCVError('invalid_chunk',f'{path.name}: FPS {info["fps"]} != {fps}')
+    a.decode_all(path)
+    return {'sha256':a.hash_file(path),'bytes':path.stat().st_size,'frames':end-first,'fps':info['fps'],'codec':'h264'}
+
+
+def _verified_reuse(dest:Path, plan:dict, a)->dict:
+    rec=_load_json(dest/'EXECUTION.json',a)
+    if rec.get('fingerprint')!=plan['fingerprint'] or rec.get('status')!='completed':
+        raise a.MKCVError('output_conflict','Completed output belongs to another input, job or executor')
+    records=rec.get('artifacts',{})
+    if not isinstance(records,dict) or not records or 'film.mp4' not in records:
+        raise a.MKCVError('output_conflict','Completed receipt lacks verifiable media')
+    for raw,datum in records.items():
+        p=dest/raw
+        if p.is_symlink() or not p.is_file() or a.hash_file(p)!=datum.get('sha256'):
+            raise a.MKCVError('output_conflict',f'Published local artifact missing/modified: {raw}')
+    meta=a.probe(dest/'film.mp4')
+    if meta.get('frames')!=plan['expected_frames'] or meta.get('codec')!='h264':
+        raise a.MKCVError('output_conflict','Final video could not be verified')
+    a.decode_all(dest/'film.mp4')
+    return {'status':'reused_verified','directory':plan['output']['directory'],'receipt':rec}
+
+
+def execute(job:dict,root:Path,plan:dict,a,*,max_chunks:int|None=None)->dict:
+    """Execute/resume chunks synchronously. max_chunks allows *controlled* suspend for QA."""
+    if plan['status']!='executable':return {'status':'needs_capability_or_input','plan':plan}
+    if max_chunks is not None and (type(max_chunks) is not int or max_chunks<=0):
+        raise a.MKCVError('invalid_job','max_chunks must be positive integer')
+    dest=a.work_path(root,plan['output']['directory'],existing=False)
+    if dest.is_symlink():raise a.MKCVError('unsafe_path','Final output is a symlink')
+    if dest.exists():
+        return _verified_reuse(dest,plan,a)
+    partial=dest.parent/('.'+dest.name+'.partial')
+    lock=dest.parent/('.'+dest.name+'.execution.lock')
+    if partial.is_symlink():raise a.MKCVError('unsafe_path','Partial output is a symlink')
+    dest.parent.mkdir(parents=True,exist_ok=True)
+    startup_events=_lock_dir(lock,a)
+    try:
+        inputs=job['inputs'];fps=plan['output']['fps'];w=plan['output']['width'];h=plan['output']['height']
+        count=plan['expected_frames'];chunk=inputs['chunk_frames'];segments=[(s,min(s+chunk,count)) for s in range(0,count,chunk)]
+        if partial.exists():
+            state=_load_json(partial/'STATE.json',a)
+            if state.get('fingerprint')!=plan['fingerprint'] or state.get('version')!=a.VERSION:
+                raise a.MKCVError('checkpoint_conflict','Partial job has different inputs/owner/executor. Preserve old and select new output directory.')
+            if state.get('segments_expected')!=[[s,e] for s,e in segments]:
+                raise a.MKCVError('checkpoint_conflict','Partial segment schedule changed')
+            for event in startup_events:state['events'].append(event)
+        else:
+            partial.mkdir()
+            (partial/'segments').mkdir()
+            (partial/'quarantine').mkdir()
+            shutil.copy2(a.work_path(root,inputs['renderer']),partial/'scene_renderer.py')
+            (partial/'assets').mkdir()
+            for i,path in enumerate(inputs.get('assets',[])):
+                shutil.copy2(a.work_path(root,path),partial/'assets'/f'{i:02d}_{Path(path).name}')
+            state={'schema':'mkcv-chunk-checkpoint/0.3','version':a.VERSION,'fingerprint':plan['fingerprint'],
+                  'profile':'coded_scene','expected_frames':count,'fps':fps,'width':w,'height':h,
+                  'segments_expected':[[s,e] for s,e in segments], 'completed':{}, 'events':startup_events,
+                  'source_renderer_sha256':plan['inputs']['renderer']['sha256'],
+                  'source_assets':plan['inputs']}
+            _atomic_json(partial/'STATE.json',state)
+        # Pins are still valid at point of resume, including when the job includes external inputs.
+        if a.hash_file(partial/'scene_renderer.py')!=plan['inputs']['renderer']['sha256']:
+            raise a.MKCVError('checkpoint_conflict','Staged renderer changed from pinned source')
+        for i,path in enumerate(inputs.get('assets',[])):
+            if a.hash_file(partial/'assets'/f'{i:02d}_{Path(path).name}')!=plan['inputs'][f'asset_{i}']['sha256']:
+                raise a.MKCVError('checkpoint_conflict','Staged asset changed')
+        done_this_call=0; reused=0;created=0; repaired=0
+        for start,end in segments:
+            key=f'{start:08d}_{end:08d}'
+            name=f'part_{key}.mp4'
+            movie=partial/'segments'/name
+            current=state['completed'].get(key)
+            valid=None
+            if movie.exists():
+                try:
+                    valid=_verify_chunk(movie,start,end,w,h,fps,a)
+                    if current and (valid['sha256']!=current.get('sha256') or valid['bytes']!=current.get('bytes')):
+                        raise a.MKCVError('invalid_chunk','Recorded chunk digest differs')
+                except (a.MKCVError,ValueError,KeyError,RuntimeError) as exc:
+                    reason=str(exc)[:250]
+                    q=partial/'quarantine'/(name+'.damaged-'+uuid.uuid4().hex[:8])
+                    movie.rename(q)
+                    state['events'].append({'event':'invalid_chunk_quarantined','segment':key,'reason':reason,'quarantine':q.name})
+                    repaired+=1;valid=None
+                    state['completed'].pop(key,None)
+                    current=None  # It was quarantined, not an independent missing chunk.
+                    _atomic_json(partial/'STATE.json',state)
+            if valid:
+                if not current:
+                    # Crash after encode, before checkpoint write. Adopt only after full decode.
+                    state['events'].append({'event':'orphan_chunk_verified_and_adopted','segment':key})
+                    state['completed'][key]=valid
+                    _atomic_json(partial/'STATE.json',state)
+                reused+=1
+                continue
+            if current and not movie.exists():
+                state['events'].append({'event':'missing_chunk_regenerated','segment':key})
+                repaired+=1
+                state['completed'].pop(key,None)
+                _atomic_json(partial/'STATE.json',state)
+            # Trusted time-addressable renderer executes only the local selected effect.
+            cmd=[sys.executable,str(partial/'scene_renderer.py'),'--start-frame',str(start),'--end-frame',str(end),
+                 '--fps',str(fps),'--width',str(w),'--height',str(h),'--output',str(movie),
+                 '--asset-root',str(partial/'assets')]
+            try:
+                executed=a.exec_process(cmd,timeout=180,cwd=partial)
+                (partial/'segments'/f'{key}.log').write_bytes(executed.stdout[-10000:]+b'\nSTDERR:\n'+executed.stderr[-10000:])
+                record=_verify_chunk(movie,start,end,w,h,fps,a)
+            except BaseException as exc:
+                state['events'].append({'event':'segment_failed','segment':key,'reason':str(exc)[:250]})
+                _atomic_json(partial/'STATE.json',state)
+                raise
+            state['completed'][key]=record
+            state['events'].append({'event':'rendered_and_decoded','segment':key,'sha256':record['sha256']})
+            _atomic_json(partial/'STATE.json',state)
+            created+=1;done_this_call+=1
+            if max_chunks is not None and done_this_call>=max_chunks and len(state['completed'])<len(segments):
+                return {'status':'partial','directory':plan['output']['directory'],
+                        'checkpoint':partial.name,'verified_segments':len(state['completed']),
+                        'total_segments':len(segments),'rendered_this_call':created,'reused_this_call':reused,
+                        'next':'Run the SAME pinned job again to resume verified segments; no background job is running'}
+        if len(state['completed'])!=len(segments):
+            raise a.MKCVError('checkpoint_invalid','Not all expected segments verified')
+        concat=partial/'concat.txt'
+        concat.write_text(''.join(f"file 'segments/part_{s:08d}_{e:08d}.mp4'\n" for s,e in segments),encoding='utf-8')
+        video=partial/'video_only.mp4'
+        # Segment H264 encoders restart prediction at every boundary. Decode and
+        # re-encode a single final timeline to reduce GOP seam artifacts.
+        a.exec_process(['ffmpeg','-hide_banner','-nostdin','-v','error','-y','-f','concat','-safe','0',
+                        '-i',str(concat),'-an','-c:v','libx264','-preset','veryfast','-crf','21',
+                        '-r',str(fps),'-fps_mode','cfr','-frames:v',str(count),
+                        '-threads','1','-pix_fmt','yuv420p','-movflags','+faststart',str(video)],timeout=160)
+        final=partial/'film.mp4'
+        if inputs.get('audio'):
+            a.mux_music(video,a.work_path(root,inputs['audio']),final,count/fps)
+        else:shutil.copy2(video,final)
+        meta=a.probe(final)
+        if meta['frames']!=count or (meta['width'],meta['height'])!=(w,h):
+            raise a.MKCVError('bad_artifact',f'Concatenated video mismatch: {meta}')
+        num,den=map(int,meta['fps'].split('/'))
+        if den<1 or num!=fps*den:raise a.MKCVError('bad_artifact',f'Concatenated video FPS mismatch: {meta["fps"]}')
+        a.decode_all(final,timeout=180)
+        a.contact_sheet(final,partial/'contact_sheet.jpg')
+        (partial/'segment_manifest.json').write_text(json.dumps({'fingerprint':plan['fingerprint'],
+            'segments':[{'start':s,'end':e,'name':f'part_{s:08d}_{e:08d}.mp4',
+                         **state['completed'][f'{s:08d}_{e:08d}']} for s,e in segments],
+            'events':state['events']},ensure_ascii=False,sort_keys=True,indent=2)+'\n',encoding='utf-8')
+        video.unlink();concat.unlink()
+        artifacts={str(p.relative_to(partial)):{'sha256':a.hash_file(p),'bytes':p.stat().st_size}
+                   for p in sorted(partial.rglob('*')) if p.is_file() and not p.is_symlink()
+                   and not p.name.startswith('STATE.json') and p.name!='EXECUTION.json'}
+        receipt={'schema':'mkcv-execution-receipt/0.3','version':a.VERSION,'status':'completed',
+                 'profile':'coded_scene','job_id':job.get('id'),'fingerprint':plan['fingerprint'],
+                 'inputs':plan['inputs'],'executor_sources':plan.get('executor_sources'),'result':{'video':meta,'expected_frames':count,'decoded_without_errors':True,
+                    'claim':'time_addressed_code_video_not_narrative_quality_or_semantic_fidelity_certification',
+                    'final_encoding':'single_continuous_h264_reencode_from_decoded_verified_chunks',
+                    'chunk_reused_this_call':reused,'chunks_rendered_this_call':created,
+                    'chunks_repaired_this_call':repaired,'total_chunks':len(segments)},
+                 'artifacts':artifacts,'limits':'No background processing, provider effects, publication or spending'}
+        _atomic_json(partial/'EXECUTION.json',receipt)
+        # Atomic public promotion occurs only after the entire output is verified.
+        partial.rename(dest)
+        return {'status':'completed','directory':plan['output']['directory'],'receipt':receipt}
+    finally:
+        if lock.is_dir() and not lock.is_symlink():shutil.rmtree(lock)
+```
+
+### examples/recoverable_video/fixtures/orbital_scene.py
+
+```python
+#!/usr/bin/env python3
+"""MKCV — original *illustrative* orbital observatory code-made mini-film.
+
+Deterministic, frame-index-addressable renderer for MKCV AutoStudio 0.3.
+This is a stylized imaginary scene; it contains no spacecraft measurements,
+photos, astronomical data, or real simulation of orbital mechanics.
+"""
+import argparse
+import math
+import subprocess
+import sys
+from pathlib import Path
+
+import cv2
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
+
+SEED=20261026
+rng=np.random.default_rng(SEED)
+STARS=[(float(x),float(y),float(a),float(p)) for x,y,a,p in zip(rng.random(155),rng.random(155),rng.uniform(.3,1.,155),rng.uniform(0,6.28,155))]
+FONT='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+FONT_BOLD='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+def font_at(size:int,bold:bool=False):
+    # System fonts are used where available. Font files are not redistributed.
+    faces=[FONT_BOLD if bold else FONT,'DejaVuSans-Bold.ttf' if bold else 'DejaVuSans.ttf',
+           'C:/Windows/Fonts/arialbd.ttf' if bold else 'C:/Windows/Fonts/arial.ttf']
+    for f in faces:
+        try:return ImageFont.truetype(f,size)
+        except OSError:pass
+    return ImageFont.load_default()
+
+
+def rgba_color(rgb):return tuple(map(int,np.clip(rgb,0,255)))
+def render_frame(frame:int,fps:int,w:int,h:int)->Image.Image:
+    """Entire image depends only on absolute frame index and fixed seed."""
+    t=frame/fps
+    y,x=np.mgrid[0:h,0:w].astype(np.float32)
+    xx=x/w;yy=y/h
+    soft=np.exp(-((xx-.72)**2/.24+(yy-.48)**2/.35))
+    b=np.zeros((h,w,3),dtype=np.float32)
+    b[:,:,0]=7+24*yy+15*soft; b[:,:,1]=12+15*yy+18*soft; b[:,:,2]=36+36*yy+29*soft
+    # Gently moving atmospheric glow: procedural 2D space art, NOT a star chart.
+    wave=np.exp(-((yy-(.72+.04*np.sin(xx*8-t*.25)))**2)/.018)
+    b[:,:,0]+=7*wave; b[:,:,1]+=13*wave; b[:,:,2]+=29*wave
+    im=Image.fromarray(np.uint8(np.clip(b,0,255)),mode='RGB').convert('RGBA')
+    d=ImageDraw.Draw(im,'RGBA')
+    for sx,sy,power,phase in STARS:
+        starx=int(((sx + .008*t*(.3+sy))%1)*w);stary=int(sy*h)
+        v=max(0.08,0.6+0.4*math.sin(phase+t*(1+sy*.8)))
+        r=1.7 if power>.84 else 1
+        d.ellipse((starx-r,stary-r,starx+r,stary+r),fill=(182,209,255,int(70+140*v*power)))
+    # Planet is a code-constructed 2.5D sphere with a moving terminator.
+    cx=w*.74;cy=h*.53;R=h*.325
+    py,px=np.mgrid[0:h,0:w]
+    dx=(px-cx)/R; dy=(py-cy)/R
+    rad2=dx*dx+dy*dy; mask=rad2<=1
+    nz=np.sqrt(np.clip(1-rad2,0,1))
+    light=.31+.69*np.clip(-dx*.58-dy*.18+nz*.7,0,1)
+    bands=(np.sin((dy+.3)*13.5+np.sin(dx*6+t*.025)*.6)+1)/2
+    stripes=.22*np.sin(dy*31+dx*5+1.3)
+    pc=np.zeros((h,w,4),dtype=np.uint8)
+    pc[:,:,0]=np.uint8(np.clip((30+64*bands+44*stripes)*light,0,255))
+    pc[:,:,1]=np.uint8(np.clip((84+70*bands)*light,0,255))
+    pc[:,:,2]=np.uint8(np.clip((143+94*bands-22*stripes)*light+36*nz,0,255))
+    pc[:,:,3]=np.where(mask,255,0)
+    # Planetary atmosphere, low-key and stylized.
+    gl=Image.new('RGBA',(w,h));g=ImageDraw.Draw(gl,'RGBA')
+    for k in range(13,0,-1):
+        gr=R+k*(h/330)
+        g.ellipse((cx-gr,cy-gr,cx+gr,cy+gr),outline=(42,179,243,int(5+4*(14-k))),width=2)
+    gl=gl.filter(ImageFilter.GaussianBlur(6))
+    im=Image.alpha_composite(im,gl)
+    # Back ring, planet, front ring; depth suggested through deliberate occlusion.
+    ring=Image.new('RGBA',(w,h));dr=ImageDraw.Draw(ring,'RGBA')
+    for j in range(15):
+        rr=R*(1.15+j*.034)
+        box=(cx-rr*1.38,cy-rr*.34,cx+rr*1.38,cy+rr*.34)
+        dr.arc(box,181,359,fill=(106+j*4,164+j*2,211+j,int(47+4*j)),width=1)
+    im=Image.alpha_composite(im,ring)
+    im=Image.alpha_composite(im,Image.fromarray(pc,mode='RGBA'))
+    front=Image.new('RGBA',(w,h));df=ImageDraw.Draw(front,'RGBA')
+    for j in range(15):
+        rr=R*(1.15+j*.034)
+        box=(cx-rr*1.38,cy-rr*.34,cx+rr*1.38,cy+rr*.34)
+        df.arc(box,1,179,fill=(119+j*4,176+j*2,205+j,int(43+5*j)),width=1)
+    im=Image.alpha_composite(im,front)
+    d=ImageDraw.Draw(im,'RGBA')
+    # Small spacecraft scanning the atmosphere: fictional orbital motion.
+    sx=w*(.31+.038*math.sin(t*.53));sy=h*(.46+.063*math.cos(t*.71));angle=.16*math.sin(t*.7)
+    # a connecting beam grows near the middle of the film, tied to time and scene geometry
+    progress=min(1,max(0,(t-1.9)/1.1));fade=max(0,min(1,(4.7-t)/.7))
+    if progress>0:
+        endpoint=(cx-R*.65,cy-R*.13)
+        ex=sx+(endpoint[0]-sx)*progress;ey=sy+(endpoint[1]-sy)*progress
+        beam=Image.new('RGBA',(w,h));bd=ImageDraw.Draw(beam,'RGBA')
+        bd.line((sx,sy,ex,ey),fill=(28,192,243,int(70*fade)),width=9)
+        beam=beam.filter(ImageFilter.GaussianBlur(9)); im=Image.alpha_composite(im,beam)
+        d=ImageDraw.Draw(im,'RGBA');d.line((sx,sy,ex,ey),fill=(134,239,253,int(235*fade)),width=2)
+        if progress>.99:
+            glowR=12+3*math.sin((t-2.9)*5)
+            d.ellipse((ex-glowR,ey-glowR,ex+glowR,ey+glowR),outline=(79,236,232,int(140*fade)),width=2)
+    # Spacecraft facets, arranged around a rotated central body.
+    def rot(qx,qy):return sx+qx*math.cos(angle)-qy*math.sin(angle),sy+qx*math.sin(angle)+qy*math.cos(angle)
+    solar1=[rot(u,v) for u,v in [(-44,-13),(-17,-13),(-17,13),(-44,13)]]
+    solar2=[rot(u,v) for u,v in [(17,-13),(44,-13),(44,13),(17,13)]]
+    for panel in (solar1,solar2):
+        d.polygon(panel,fill=(18,90,143,255),outline=(83,230,255,240))
+        for k in range(1,4):
+            xx1=panel[0][0]+(panel[1][0]-panel[0][0])*k/4
+            xx2=panel[3][0]+(panel[2][0]-panel[3][0])*k/4
+            d.line((xx1,panel[0][1],xx2,panel[3][1]),fill=(122,211,239,115),width=1)
+    d.line((*rot(-18,0),*rot(18,0)),fill=(199,215,240,255),width=4)
+    d.ellipse((*rot(-13,-11),*rot(13,11)),fill=(229,235,244,255),outline=(102,203,245,255),width=2)
+    d.ellipse((sx-3,sy-3,sx+3,sy+3),fill=(33,241,233,255))
+    d.line((*rot(0,-11),*rot(0,-24)),fill=(158,211,233,250),width=2)
+    # Title holds the human meaning, not fake software UI or measured telemetry.
+    f1=font_at(max(15,int(h*.062)),True)
+    f2=font_at(max(11,int(h*.035)))
+    f3=font_at(max(9,int(h*.026)))
+    d.text((w*.06,h*.105),'MONDI IN CODICE',fill=(244,251,255,255),font=f1)
+    d.text((w*.06,h*.105+h*.09),'Una scena prende movimento',fill=(157,228,245,250),font=f2)
+    d.line((w*.06,h*.255,w*.18,h*.255),fill=(71,209,229,220),width=3)
+    d.text((w*.06,h*.91),'MKCV  /  VISUALIZZAZIONE ORIGINALE',fill=(140,183,212,230),font=f3)
+    return im.convert('RGB')
+
+def main():
+    p=argparse.ArgumentParser(description=__doc__)
+    p.add_argument('--start-frame',type=int,required=True)
+    p.add_argument('--end-frame',type=int,required=True)
+    p.add_argument('--fps',type=int,required=True)
+    p.add_argument('--width',type=int,required=True)
+    p.add_argument('--height',type=int,required=True)
+    p.add_argument('--output',type=Path,required=True)
+    p.add_argument('--asset-root',type=Path,required=True)
+    a=p.parse_args()
+    if a.start_frame<0 or a.end_frame<=a.start_frame or a.end_frame-a.start_frame>1000:
+        p.error('Invalid segment range')
+    if a.width>1920 or a.height>1080 or a.width%2 or a.height%2 or a.fps>60:
+        p.error('Invalid scene parameters')
+    a.output.parent.mkdir(parents=True,exist_ok=True)
+    cmd=['ffmpeg','-hide_banner','-nostdin','-v','error','-y','-f','rawvideo','-pix_fmt','rgb24',
+         '-s',f'{a.width}x{a.height}','-r',str(a.fps),'-i','pipe:0','-an','-c:v','libx264',
+         '-preset','veryfast','-crf','21','-threads','1','-pix_fmt','yuv420p','-movflags','+faststart',str(a.output)]
+    proc=subprocess.Popen(cmd,stdin=subprocess.PIPE,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
+    try:
+        for i in range(a.start_frame,a.end_frame):
+            frame=render_frame(i,a.fps,a.width,a.height)
+            proc.stdin.write(frame.tobytes())
+        proc.stdin.close()
+        err=proc.stderr.read();code=proc.wait(timeout=100)
+        if code:raise RuntimeError(err.decode('utf8','replace')[-1300:])
+    except BaseException:
+        if proc.stdin and not proc.stdin.closed:proc.stdin.close()
+        proc.kill();proc.wait();raise
+if __name__=='__main__':main()
+```
+
+### examples/recoverable_video/jobs/orbital_scene.json
+
+```json
+{
+  "id": "orbital-example",
+  "intent": "Original illustrative coded scene: exercise local rendering continuity, not observational astronomy or an image-generated reference.",
+  "profile": "coded_scene",
+  "authority": {
+    "execute_trusted_renderer": true
+  },
+  "inputs": {
+    "renderer": "fixtures/orbital_scene.py",
+    "renderer_sha256": "9fa06e63db4dd8d3ec16b11dc55aa37a4366fc40e34dd510990beb363757dd04",
+    "frames": 72,
+    "chunk_frames": 12
+  },
+  "limits": {
+    "max_frames": 120
+  },
+  "output": {
+    "directory": "runs/orbital-example",
+    "width": 320,
+    "height": 180,
+    "fps": 24
+  }
+}
+```
+
+### examples/recoverable_video/verify_recovery.py
+
+```python
+"""Exercise a local recovery contract in a new, explicitly selected directory."""
+import argparse
+import hashlib
+import importlib.util
+import json
+from pathlib import Path
+import shutil
+import subprocess
+import sys
+
+sys.dont_write_bytecode=True
+
+def main():
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--output',type=Path,required=True,help='New directory; existing work is never overwritten')
+    args=parser.parse_args();root=args.output.resolve();root.mkdir(parents=True,exist_ok=False)
+    source=Path(__file__).resolve().parent
+    (root/'fixtures').mkdir();(root/'jobs').mkdir()
+    for name in ['autostudio.py','mkcv_resumable.py','fixtures/orbital_scene.py']:
+        shutil.copyfile(source/name,root/name)
+    spec=importlib.util.spec_from_file_location('recovery_adapter',root/'mkcv_resumable.py')
+    module=importlib.util.module_from_spec(spec);spec.loader.exec_module(module)
+    child=subprocess.Popen([sys.executable,'-c','import time;time.sleep(30)'])
+    try:
+        assert module._pid_alive(child.pid) and child.poll() is None
+        child.kill();child.wait();assert not module._pid_alive(child.pid)
+    finally:
+        if child.poll() is None:child.kill();child.wait()
+    original=json.loads((source/'jobs/orbital_scene.json').read_text(encoding='utf-8'))
+    path=root/'jobs/orbital_scene.json'
+    def run(job,label,partial=False,expected=0):
+        path.write_text(json.dumps(job,ensure_ascii=False)+'\n',encoding='utf-8')
+        command=[sys.executable,str(root/'autostudio.py'),'run',str(path),'--workspace',str(root)]
+        if partial:command+=['--max-chunks','1']
+        result=subprocess.run(command,capture_output=True,timeout=180)
+        (root/(label+'.stdout.json')).write_bytes(result.stdout)
+        (root/(label+'.stderr.txt')).write_bytes(result.stderr)
+        if result.returncode!=expected:
+            raise RuntimeError(label+': '+result.stderr.decode('utf-8','replace'))
+        return json.loads(result.stdout or result.stderr)
+    first=run(original,'pause',partial=True,expected=4);assert first['status']=='partial'
+    changed=dict(original);changed['inputs']=dict(original['inputs'],frames=84)
+    assert run(changed,'changed-job',expected=2)['status']=='checkpoint_conflict'
+    final=run(original,'resume');assert final['receipt']['result']['chunk_reused_this_call']==1
+    assert run(original,'reuse')['status']=='reused_verified'
+    clean=dict(original);clean['id']='continuous';clean['output']=dict(original['output'],directory='runs/continuous')
+    run(clean,'continuous')
+    video=root/original['output']['directory']/'film.mp4'
+    digest=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+    assert digest(video)==digest(root/'runs/continuous/film.mp4')
+    proof={'state':'passed','scope':'local process liveness, controlled pause/resume, changed-job refusal, completed reuse and exact video comparison','platform':sys.platform,'video_sha256':digest(video),'video':str(video)}
+    (root/'VERIFICATION.json').write_text(json.dumps(proof,indent=2)+'\n',encoding='utf-8')
+    print(json.dumps(proof))
+
+if __name__=='__main__':main()
+```
 Il mio incarico, le fonti, i mezzi disponibili e il risultato richiesto:

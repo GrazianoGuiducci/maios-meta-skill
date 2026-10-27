@@ -8,7 +8,8 @@
     "examples": [
       "Animate the world in the reference",
       "A museum explores rhythm with three illustrations",
-      "A workshop edits a demonstration from existing footage"
+      "A workshop edits a demonstration from existing footage",
+      "An interrupted illustrative scene resumes its own timeline"
     ],
     "route": "/resources/creare-timelapse-semantici/",
     "description": "From sources to video: an editable scene, an animatic from images or an edit of existing clips, with MKCV beta and learning.",
@@ -48,6 +49,10 @@
         "body": "Preserve intent, current material and the requested result while writing, direction, performance and montage call on one another where they change the film. Produce a concrete version, observe it and correct what changes its meaning. A render or editing executor performs operations; understanding the film remains in the work of AI and the participating competences. Work beyond the turn requires an actually configured process."
       },
       {
+        "title": "Keep the film continuous when rendering stops",
+        "body": "When a render is long or interrupted, keep the intended timeline and render independently addressable frame intervals. Reuse a segment only after checking its inputs, code identity, frame count, dimensions, frame rate and decodability. A changed scene, asset or renderer calls for a new output identity. Segment boundaries are execution units; editing, gesture and narrative rhythm remain decisions about the film. A technical checkpoint preserves verified work. The project guide preserves subject, sources, reasons, open choices and what the next contributor must understand. Use both when needed: resuming an encoder does not restore an assistant’s understanding or start a background agent. Observing the resulting film may still change the scene, method or chosen medium."
+      },
+      {
         "title": "Return learning to the responsible capability",
         "body": "An observed image, frame or film can change source understanding, visual grammar, writing or technical construction. Return the reusable difference to the competence that must act differently. Keep editable source and reasons. Later non-identical use can deepen the method without claiming that depicted growth is real model learning."
       }
@@ -56,7 +61,8 @@
       "title": "The film can change the method that makes films",
       "paragraphs": [
         "An image can expose a semantic error; coding can reveal missing animable parts; montage can create an unsupported causal implication. Correcting the common source relation can improve both the actual film and the way future productions are formed.",
-        "The production method preserves the same film across distinct writing, direction, performance, editing and technical responsibilities. Available knowledge, the supplied renderer and the film constructed in your environment have different functions."
+        "The production method preserves the same film across distinct writing, direction, performance, editing and technical responsibilities. Available knowledge, the supplied renderer and the film constructed in your environment have different functions.",
+        "A technical checkpoint preserves verified work. The project guide preserves subject, sources, reasons, open choices and what the next contributor must understand. Use both when needed: resuming an encoder does not restore an assistant’s understanding or start a background agent. Observing the resulting film may still change the scene, method or chosen medium."
       ]
     },
     "use": [
@@ -67,11 +73,16 @@
       {
         "title": "In a harness",
         "body": "Use native image and coding tools."
+      },
+      {
+        "title": "Recoverable executable example",
+        "body": "The kit also includes examples/recoverable_video: a local, bounded adapter, original scene, pinned job and verification script. Python 3.10+, Pillow, NumPy, OpenCV and local FFmpeg/ffprobe are required. Start with RECOVERABLE_VIDEO_EN.md. Conversations without these means use the production method and return an actionable continuation; instructions do not supply the tools."
       }
     ],
     "learning": [
       "Keep source interpretation, production learning and the receiving case attributable. A new rendered illustration does not by itself establish a new runtime capability.",
-      "Preserve what lets later work use the improved method in the project: sources, reasons, editable scene and instructions for resuming."
+      "Preserve what lets later work use the improved method in the project: sources, reasons, editable scene and instructions for resuming.",
+      "A technical checkpoint preserves verified work. The project guide preserves subject, sources, reasons, open choices and what the next contributor must understand. Use both when needed: resuming an encoder does not restore an assistant’s understanding or start a background agent. Observing the resulting film may still change the scene, method or chosen medium."
     ],
     "operating_guide": "skills/semantic-timelapse-formation/OPERATING_GUIDE.md",
     "reader_context": {
@@ -86,10 +97,7 @@
         "Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method."
       ]
     },
-    "status": {
-      "label": "MKCV · beta, learning through use",
-      "body": "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment."
-    }
+    "status": "The included coded-scene adapter was exercised in a Windows receiver with pause/resume, real process-tree interruption, damaged-segment repair and a continuous-render comparison. This does not establish narrative quality, image-to-3D fidelity, cross-host recovery or access to a media provider."
   },
   "it": {
     "title": "Creare video da immagini, scene e clip esistenti",
@@ -100,7 +108,8 @@
     "examples": [
       "Animare il mondo della reference",
       "Un museo esplora il ritmo con tre illustrazioni",
-      "Un laboratorio monta una dimostrazione da riprese esistenti"
+      "Un laboratorio monta una dimostrazione da riprese esistenti",
+      "Una scena illustrativa interrotta riprende la propria timeline"
     ],
     "route": "/risorse/creare-timelapse-semantici/",
     "description": "Dalle fonti al video: scena modificabile, animatic da immagini o montaggio di clip, con MKCV beta in apprendimento.",
@@ -140,6 +149,10 @@
         "body": "Conserva intento, materiali correnti e risultato richiesto mentre scrittura, regia, interpretazione e montaggio si richiamano per ciò che cambia il film. Produci una versione concreta, osservala e correggi il punto che ne cambia il significato. Un esecutore di render o montaggio realizza operazioni; la comprensione del film resta nel lavoro dell’AI e delle competenze coinvolte. Un’attività oltre il turno richiede un processo realmente configurato."
       },
       {
+        "title": "Conservare il film quando il rendering si interrompe",
+        "body": "Quando un rendering è lungo o si interrompe, conserva la timeline prevista e calcola intervalli di fotogrammi raggiungibili indipendentemente. Riusa un segmento solo dopo aver verificato input, identità del codice, numero di frame, dimensioni, frequenza e decodifica. Una scena, un asset o un renderer cambiato richiedono una nuova identità dell’output. I segmenti sono unità di esecuzione; montaggio, gesto e ritmo narrativo restano scelte sul film. Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto."
+      },
+      {
         "title": "Restituire il sapere alla capacità pertinente",
         "body": "Immagine, frame o film osservati possono cambiare comprensione, grammatica visiva, scrittura o costruzione tecnica. La differenza riusabile torna alla competenza che deve agire diversamente. Conserva sorgente editabile e ragioni. Un altro caso approfondisce il metodo senza attribuire alla crescita disegnata un apprendimento reale del modello."
       }
@@ -148,7 +161,8 @@
       "title": "Il film può cambiare il metodo che crea film",
       "paragraphs": [
         "Un’immagine espone un errore semantico; il codice rende visibili parti animabili mancanti; il montaggio suggerisce una causalità priva di fonte. Correggere il significato comune migliora sia il film sia la formazione delle produzioni future.",
-        "Il metodo di produzione conserva lo stesso film attraverso responsabilità distinte di scrittura, regia, interpretazione, montaggio e realizzazione tecnica. Il sapere disponibile, il renderer fornito e il film costruito nel tuo ambiente hanno funzioni diverse."
+        "Il metodo di produzione conserva lo stesso film attraverso responsabilità distinte di scrittura, regia, interpretazione, montaggio e realizzazione tecnica. Il sapere disponibile, il renderer fornito e il film costruito nel tuo ambiente hanno funzioni diverse.",
+        "Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto."
       ]
     },
     "use": [
@@ -159,11 +173,16 @@
       {
         "title": "In harness",
         "body": "Usa strumenti nativi realmente disponibili."
+      },
+      {
+        "title": "Esempio eseguibile riprendibile",
+        "body": "Il kit comprende anche examples/recoverable_video: adattatore locale delimitato, scena originale, job con identità fissate e script di verifica. Servono Python 3.10+, Pillow, NumPy, OpenCV e FFmpeg/ffprobe locali. Parti da VIDEO_RIPRENDIBILE_IT.md. Una conversazione senza questi mezzi usa il metodo di produzione e restituisce una continuazione utilizzabile; le istruzioni non forniscono gli strumenti."
       }
     ],
     "learning": [
       "Mantieni attribuiti interpretazione sorgente, apprendimento produttivo e caso ricevente. Un’illustrazione renderizzata non attesta da sola una nuova capacità runtime.",
-      "Conserva nel progetto ciò che permette al prossimo lavoro di usare il metodo migliorato: fonti, ragioni, scena modificabile e indicazioni per riprendere."
+      "Conserva nel progetto ciò che permette al prossimo lavoro di usare il metodo migliorato: fonti, ragioni, scena modificabile e indicazioni per riprendere.",
+      "Il checkpoint tecnico conserva lavoro verificato. La guida del progetto conserva soggetto, fonti, ragioni, scelte aperte e ciò che il prossimo contributore deve comprendere. Componili quando serve: riprendere un encoder non ricostruisce la comprensione di un assistente e non avvia un agente in background. L’osservazione del film risultante può ancora cambiare scena, metodo o mezzo scelto."
     ],
     "operating_guide": "skills/semantic-timelapse-formation/GUIDA_OPERATIVA_IT.md",
     "reader_context": {
@@ -178,10 +197,7 @@
         "Porta alla tua AI il soggetto, il pubblico, i materiali e il risultato richiesto. Falle condurre la produzione attraverso il mezzo pertinente e osservare ciò che produce. Nella ricostruzione da un riferimento conserva identità e camera; nel montaggio conserva i nessi delle fonti. MKCV resta beta: il lavoro e le correzioni fanno evolvere il metodo."
       ]
     },
-    "status": {
-      "label": "MKCV · beta, in apprendimento",
-      "body": "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo."
-    }
+    "status": "L’adattatore per scene in codice incluso è stato esercitato in un ricevente Windows con sospensione/ripresa, interruzione reale dell’albero di processo, riparazione di un segmento danneggiato e confronto con un render continuo. Questo non attesta qualità narrativa, fedeltà immagine→3D, recupero cross-host o accesso a un provider media."
   },
   "showcase": {
     "type": "timelapse",

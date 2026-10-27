@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "state": "public_edition",
   "source_competence": "Semantic Timelapse Formation — competenza evolutiva",
   "languages": [
@@ -13,6 +13,9 @@
   },
   "transfer_scope": [
     "operating_method",
-    "image_renderer_example"
-  ]
+    "image_renderer_example",
+    "recoverable_local_video_example"
+  ],
+  "technical_adapter_version": "0.3.2",
+  "technical_receiving_use": "Windows local coded_scene, pause/resume and actual interruption exercised; see included verification"
 }
