@@ -99,7 +99,7 @@
     },
     "status": {
       "label": "MKCV · beta, learning through use",
-      "body": "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment. The included coded-scene adapter was exercised in a Windows receiver with pause/resume, real process-tree interruption, damaged-segment repair and a continuous-render comparison. This does not establish narrative quality, image-to-3D fidelity, cross-host recovery or access to a media provider."
+      "body": "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment. The guide and an executable example support resuming local rendering while retaining verified segments."
     }
   },
   "it": {
@@ -202,7 +202,7 @@
     },
     "status": {
       "label": "MKCV · beta, in apprendimento",
-      "body": "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo. L’adattatore per scene in codice incluso è stato esercitato in un ricevente Windows con sospensione/ripresa, interruzione reale dell’albero di processo, riparazione di un segmento danneggiato e confronto con un render continuo. Questo non attesta qualità narrativa, fedeltà immagine→3D, recupero cross-host o accesso a un provider media."
+      "body": "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo. La guida e un esempio eseguibile permettono di riprendere un rendering locale conservando i segmenti verificati."
     }
   },
   "showcase": {
