@@ -1,5 +1,9 @@
 # Funded Request Project Formation — edition 0.1.3, 27 October 2026
 
+## MKCV video receiver update — candidate, 27 October 2026
+
+Semantic Timelapse Formation 0.1.4 retains the complete bilingual method and adds a bounded AutoStudio 0.3.2 example, original coded scene, job, local requirements and verification. Windows pause/resume, actual interruption and recovery, changed-job refusal, damaged-chunk repair, captioned animatic and clip editing were exercised with their own evidence. The selected ZIP has 35 members and preserves the other 41 editions. Methods remain usable across receiving systems; model/provider access and MPK integration retain their own means. This is a branch candidate, not a new live-site or Chat activation.
+
 The public method now carries general knowledge for connecting resources, cost evidence and exported records, with a fourth illustrative educational-workshop case. Estimates, documented costs, cash and completed funding effects retain their distinct meanings. The project remains the object while budget and spreadsheet work support it. Private call details, amounts, templates and provider-specific instructions are not transferred. The other 41 resource editions are preserved.
 
 # Method, continuity and public resource formation — source editions, 26 October 2026
