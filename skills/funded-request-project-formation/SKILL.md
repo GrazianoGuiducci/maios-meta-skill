@@ -1,6 +1,9 @@
 ---
 name: funded-request-project-formation
-description: Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs. When an external request offers resources and you need to understand what useful work your actual capabilities can make possible.
+description: "Forms solutions and projects from grants, challenges, RFPs and funded collaborations, composing existing knowledge and developing the competences the work needs. When an external request offers resources and you need to understand what useful work your actual capabilities can make possible."
+metadata:
+  version: 0.1.3
+  language: en
 ---
 
 # Funded Request Project Formation
@@ -45,7 +48,7 @@ Connect an observed need to a useful transformation, the mechanism capable of pr
 
 ## Compose a sustainable proposal
 
-Bring the formed project to the economic competence for resources, scope, rights, obligations and the actual application. Explain why the work answers this request and what the support makes possible. Distinguish announced funds, contractual compensation, a conditional prize and an award received. Reuse knowledge across projects while keeping results, costs and commitments distinct.
+Bring the formed project to the economic competence for resources, scope, rights, obligations and the actual application. Explain why the work answers this request and what the support makes possible. Distinguish announced funds, contractual compensation, a conditional prize and an award received. Reuse knowledge across projects while keeping results, costs and commitments distinct. When the budget is material, preserve the relationship between activities, resources, estimate evidence and the attachments actually produced.
 
 
 ## Learn through preparation and consequences

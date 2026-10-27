@@ -41,7 +41,7 @@ Connect an observed need to a useful transformation, the mechanism capable of pr
 
 ## Compose a sustainable proposal
 
-Bring the formed project to the economic competence for resources, scope, rights, obligations and the actual application. Explain why the work answers this request and what the support makes possible. Distinguish announced funds, contractual compensation, a conditional prize and an award received. Reuse knowledge across projects while keeping results, costs and commitments distinct.
+Bring the formed project to the economic competence for resources, scope, rights, obligations and the actual application. Explain why the work answers this request and what the support makes possible. Distinguish announced funds, contractual compensation, a conditional prize and an award received. Reuse knowledge across projects while keeping results, costs and commitments distinct. When the budget is material, preserve the relationship between activities, resources, estimate evidence and the attachments actually produced.
 
 
 ## Learn through preparation and consequences
@@ -75,6 +75,16 @@ A copied questionnaire can omit conditional branches, upload limits or current t
 
 A request for evidence can matter to a scientific statement, technical claim or eligibility condition. Understand that exact relation and support it appropriately. It does not require an undetermined generative project to have already delivered its future result. Likewise, open possibility does not convert a planned effect into a completed one.
 
+
+## Connect activities, resources and cost evidence
+
+When forming the budget, understand which resources the work needs and what contribution they enable. Keep documented facts, comparison prices, estimates and approved decisions distinguishable. A still-unknown cost remains to be clarified: entering zero would change the project being represented. A proposed budget, an incurred cost and available cash describe different situations. The spreadsheet preserves its relationship to project activities and results while the economic competence deepens quantities, prices and conditions.
+
+
+## Compare source items with the records actually exported
+
+If an attachment or spreadsheet check shows a discrepancy, compare the original items with the records actually extracted: filters, ranges and helper formulas may omit a record even when visible sums are correct. Identify the item and the step causing the difference before changing the model. Preserve the original and observe any correction on a copy. Arithmetic results, spreadsheet operation and attachment completeness are distinct facts; changes to a funder-owned template follow the arrangements agreed with its owner.
+
 ## The request can change how projects are formed
 
 The practical result is a project; the meta result is a better ability to form another project. The same encounter can change the domain competence, resource method and generative method at their respective owners.
@@ -97,6 +107,11 @@ A programme offers support for digital improvements in small companies. Your tea
 ## The second request teaches another solution
 
 After preparing one cooperation proposal, the team encounters a call about portability of learned project knowledge. Reuse the formation method rather than the earlier solution. Understand the beneficiary who owns that knowledge and the receivers across which it should continue. A focused transfer capability now becomes central, while the prior cooperation study remains a source. Separate the costs and intended new results. The second project can improve the common generator without being a renamed copy of the first.
+
+
+## A workshop budget loses an item in its attachment
+
+An association prepares an educational workshop and connects people, materials and services to the planned activities. Spreadsheet sums agree, but the application attachment contains fewer items. AI compares source items with exported records and finds an item excluded by the selection range. The difference concerns data transfer as well as calculation. Preserve the original file, observe the correction on a copy and connect the new attachment to the project’s actual resources. A cost still to be estimated retains that status; correcting the spreadsheet does not turn the proposal into awarded funding.
 
 
 My assignment, sources, existing work, available means and requested result:

@@ -1,3 +1,7 @@
+# Funded Request Project Formation — edizione 0.1.3, 27 ottobre 2026
+
+Il metodo pubblico porta il sapere generale per collegare risorse, basi di costo e voci realmente esportate, con un quarto caso illustrativo su un laboratorio formativo. Stime, costi documentati, cassa ed effetti di finanziamento compiuti conservano significati distinti. Il progetto resta l’oggetto mentre budget e foglio ne sostengono il lavoro. Dettagli, importi, modelli e istruzioni di provider del caso privato restano alle proprie fonti. Le altre 41 edizioni sono conservate.
+
 # Metodo, continuità e formazione di risorse pubbliche — edizioni sorgente, 26 ottobre 2026
 
 L’operatore ha selezionato la pubblicazione di Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 e Form Public Meta-Skill Resources 0.3.4, con le correzioni emerse dal riesame e l’allineamento della conoscenza Chat. Metodi sviluppati e sapere pratico esistenti restano disponibili in italiano e inglese, con quattro casi per risorsa e avvii completi. Il caso comune della biblioteca collega i contributi senza prescrivere provider o stack. Le altre 39 edizioni dei pacchetti sono preservate.

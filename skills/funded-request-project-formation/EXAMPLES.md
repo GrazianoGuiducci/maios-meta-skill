@@ -15,3 +15,8 @@ A programme offers support for digital improvements in small companies. Your tea
 ## The second request teaches another solution
 
 After preparing one cooperation proposal, the team encounters a call about portability of learned project knowledge. Reuse the formation method rather than the earlier solution. Understand the beneficiary who owns that knowledge and the receivers across which it should continue. A focused transfer capability now becomes central, while the prior cooperation study remains a source. Separate the costs and intended new results. The second project can improve the common generator without being a renamed copy of the first.
+
+
+## A workshop budget loses an item in its attachment
+
+An association prepares an educational workshop and connects people, materials and services to the planned activities. Spreadsheet sums agree, but the application attachment contains fewer items. AI compares source items with exported records and finds an item excluded by the selection range. The difference concerns data transfer as well as calculation. Preserve the original file, observe the correction on a copy and connect the new attachment to the project’s actual resources. A cost still to be estimated retains that status; correcting the spreadsheet does not turn the proposal into awarded funding.

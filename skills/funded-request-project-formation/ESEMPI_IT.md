@@ -15,3 +15,8 @@ Un programma sostiene miglioramenti digitali nelle piccole imprese. Il gruppo sa
 ## La seconda richiesta insegna un’altra soluzione
 
 Dopo una proposta sulla cooperazione, il gruppo incontra una call sulla portabilità del sapere acquisito nei progetti. Riusa il metodo di formazione anziché la soluzione precedente. Comprendi il beneficiario proprietario del sapere e i riceventi fra cui deve continuare. Diventa centrale una capacità di trasferimento; lo studio cooperativo resta fonte. Distingui costi e nuovi risultati. Il secondo progetto può migliorare il generatore comune senza essere una copia rinominata del primo.
+
+
+## Il budget di un laboratorio perde una voce nell’allegato
+
+Un’associazione prepara un laboratorio formativo e collega persone, materiali e servizi alle attività previste. Nel foglio le somme tornano, ma l’allegato destinato alla candidatura contiene meno voci. L’AI confronta gli elementi sorgente con quelli esportati e trova una voce esclusa dall’intervallo di selezione. La differenza riguarda il trasferimento dei dati, oltre al calcolo. Conserva il file originale, verifica la correzione in copia e collega il nuovo allegato alle risorse effettive del progetto. Un costo ancora da stimare conserva quello stato; correggere il foglio non trasforma la proposta in un finanziamento ottenuto.

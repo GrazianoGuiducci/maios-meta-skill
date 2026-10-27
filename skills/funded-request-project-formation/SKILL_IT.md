@@ -1,6 +1,9 @@
 ---
 name: funded-request-project-formation
-description: Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie. Quando una richiesta esterna offre risorse e vuoi comprendere quale lavoro utile rendono possibile le tue capacità effettive.
+description: "Forma soluzioni e progetti da bandi, challenge, RFP e collaborazioni finanziate, componendo il sapere esistente e sviluppando le competenze necessarie. Quando una richiesta esterna offre risorse e vuoi comprendere quale lavoro utile rendono possibile le tue capacità effettive."
+metadata:
+  version: 0.1.3
+  language: it
 ---
 
 # Funded Request Project Formation
@@ -45,7 +48,7 @@ Collega bisogno osservato, trasformazione utile, meccanismo capace di produrla e
 
 ## Comporre una proposta sostenibile
 
-Porta il progetto formato alla competenza economica per risorse, portata, diritti, obblighi e candidatura. Spiega perché risponde alla richiesta e cosa rende possibile il supporto. Distingui fondi annunciati, compenso contrattuale, premio condizionale e finanziamento ricevuto. Riusa il sapere mantenendo distinti risultati, costi e impegni dei progetti.
+Porta il progetto formato alla competenza economica per risorse, portata, diritti, obblighi e candidatura. Spiega perché risponde alla richiesta e cosa rende possibile il supporto. Distingui fondi annunciati, compenso contrattuale, premio condizionale e finanziamento ricevuto. Riusa il sapere mantenendo distinti risultati, costi e impegni dei progetti. Quando il budget è materiale, conserva il rapporto fra attività, risorse, basi della stima e allegati effettivamente prodotti.
 
 
 ## Imparare dalla preparazione e dalle conseguenze

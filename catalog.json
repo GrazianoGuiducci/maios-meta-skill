@@ -2447,7 +2447,7 @@
     {
       "id": "formare-progetti-da-richieste-finanziate",
       "name": "Funded Request Project Formation",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "36",
@@ -2481,7 +2481,7 @@
       "starter": "skills/funded-request-project-formation/START_CHAT_EN.txt",
       "examples": "skills/funded-request-project-formation/EXAMPLES.md",
       "presentation": "skills/funded-request-project-formation/presentation.json",
-      "package": "dist/funded-request-project-formation-0.1.2.zip",
+      "package": "dist/funded-request-project-formation-0.1.3.zip",
       "en": {
         "title": "Form projects from funded calls and requests",
         "subtitle": "Understand the requested change and form the capability, solution and project that can answer it.",
@@ -2492,7 +2492,8 @@
         "examples": [
           "A research challenge can fund a capability",
           "An industrial pilot needs an actual beneficiary",
-          "The second request teaches another solution"
+          "The second request teaches another solution",
+          "A workshop budget loses an item in its attachment"
         ],
         "route": "/resources/formare-progetti-da-richieste-finanziate/",
         "description": "Understand the requested change, compose relevant capabilities and connect the project, beneficiaries and resources."
@@ -2507,7 +2508,8 @@
         "examples": [
           "Una challenge di ricerca può sostenere una capacità",
           "Un pilot industriale richiede un beneficiario reale",
-          "La seconda richiesta insegna un’altra soluzione"
+          "La seconda richiesta insegna un’altra soluzione",
+          "Il budget di un laboratorio perde una voce nell’allegato"
         ],
         "route": "/risorse/formare-progetti-da-richieste-finanziate/",
         "description": "Comprendi il cambiamento richiesto, componi le capacità pertinenti e collega progetto, beneficiari e risorse."

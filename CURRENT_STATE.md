@@ -1,3 +1,7 @@
+# Funded Request Project Formation — edition 0.1.3, 27 October 2026
+
+The public method now carries general knowledge for connecting resources, cost evidence and exported records, with a fourth illustrative educational-workshop case. Estimates, documented costs, cash and completed funding effects retain their distinct meanings. The project remains the object while budget and spreadsheet work support it. Private call details, amounts, templates and provider-specific instructions are not transferred. The other 41 resource editions are preserved.
+
 # Method, continuity and public resource formation — source editions, 26 October 2026
 
 The operator accepted publication of Meta_Metodo 0.3.3, Maintain Causal Task Continuity 0.3.3 and Form Public Meta-Skill Resources 0.3.4, including the corrections identified in review and Chat knowledge alignment. Existing developed methods and practical knowledge remain available in English and Italian, with four worked cases per resource and complete starters. A shared library case connects the contributions without prescribing a provider or stack. The other 39 package editions are preserved.

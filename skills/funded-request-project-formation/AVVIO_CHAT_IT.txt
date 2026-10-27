@@ -41,7 +41,7 @@ Collega bisogno osservato, trasformazione utile, meccanismo capace di produrla e
 
 ## Comporre una proposta sostenibile
 
-Porta il progetto formato alla competenza economica per risorse, portata, diritti, obblighi e candidatura. Spiega perché risponde alla richiesta e cosa rende possibile il supporto. Distingui fondi annunciati, compenso contrattuale, premio condizionale e finanziamento ricevuto. Riusa il sapere mantenendo distinti risultati, costi e impegni dei progetti.
+Porta il progetto formato alla competenza economica per risorse, portata, diritti, obblighi e candidatura. Spiega perché risponde alla richiesta e cosa rende possibile il supporto. Distingui fondi annunciati, compenso contrattuale, premio condizionale e finanziamento ricevuto. Riusa il sapere mantenendo distinti risultati, costi e impegni dei progetti. Quando il budget è materiale, conserva il rapporto fra attività, risorse, basi della stima e allegati effettivamente prodotti.
 
 
 ## Imparare dalla preparazione e dalle conseguenze
@@ -75,6 +75,16 @@ Un questionario copiato può omettere rami condizionali, limiti degli allegati o
 
 Una richiesta di evidenza può riguardare affermazione scientifica, capacità tecnica o ammissibilità. Comprendi quel rapporto e sostienilo in modo pertinente. Non impone al progetto generativo indeterminato di aver già consegnato il risultato futuro. L’apertura delle possibilità, a sua volta, non rende compiuto un effetto previsto.
 
+
+## Collegare attività, risorse e basi di costo
+
+Quando si forma il budget, comprendi quali risorse servono al lavoro e quale contributo rendono possibile. Mantieni distinguibili un dato documentato, un prezzo di confronto, una stima e una decisione approvata. Un costo ancora sconosciuto resta da chiarire: inserirlo come zero cambierebbe il progetto rappresentato. Budget proposto, costo sostenuto e denaro disponibile descrivono situazioni diverse. Il foglio conserva il rapporto con attività e risultati del progetto mentre la competenza economica ne approfondisce quantità, prezzi e condizioni.
+
+
+## Confrontare le voci sorgente con quelle realmente esportate
+
+Se un allegato o un controllo del foglio mostra uno scarto, confronta le voci originarie con quelle effettivamente estratte: filtri, intervalli e formule di supporto possono escludere un record anche quando le somme visibili sono corrette. Identifica la voce e il passaggio che producono la differenza prima di cambiare il modello. Conserva l’originale e osserva l’eventuale correzione su una copia. Il risultato aritmetico, il funzionamento del foglio e la completezza dell’allegato sono fatti distinti; le modifiche a un modello del finanziatore seguono le modalità concordate con chi lo possiede.
+
 ## La richiesta può cambiare come si formano i progetti
 
 Il risultato pratico è un progetto; quello meta è una migliore capacità di formarne un altro. Lo stesso incontro può cambiare competenza di dominio, metodo delle risorse e generatore presso i rispettivi responsabili.
@@ -97,6 +107,11 @@ Un programma sostiene miglioramenti digitali nelle piccole imprese. Il gruppo sa
 ## La seconda richiesta insegna un’altra soluzione
 
 Dopo una proposta sulla cooperazione, il gruppo incontra una call sulla portabilità del sapere acquisito nei progetti. Riusa il metodo di formazione anziché la soluzione precedente. Comprendi il beneficiario proprietario del sapere e i riceventi fra cui deve continuare. Diventa centrale una capacità di trasferimento; lo studio cooperativo resta fonte. Distingui costi e nuovi risultati. Il secondo progetto può migliorare il generatore comune senza essere una copia rinominata del primo.
+
+
+## Il budget di un laboratorio perde una voce nell’allegato
+
+Un’associazione prepara un laboratorio formativo e collega persone, materiali e servizi alle attività previste. Nel foglio le somme tornano, ma l’allegato destinato alla candidatura contiene meno voci. L’AI confronta gli elementi sorgente con quelli esportati e trova una voce esclusa dall’intervallo di selezione. La differenza riguarda il trasferimento dei dati, oltre al calcolo. Conserva il file originale, verifica la correzione in copia e collega il nuovo allegato alle risorse effettive del progetto. Un costo ancora da stimare conserva quello stato; correggere il foglio non trasforma la proposta in un finanziamento ottenuto.
 
 
 Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

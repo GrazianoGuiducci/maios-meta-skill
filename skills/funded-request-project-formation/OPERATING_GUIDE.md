@@ -14,6 +14,16 @@ A copied questionnaire can omit conditional branches, upload limits or current t
 
 A request for evidence can matter to a scientific statement, technical claim or eligibility condition. Understand that exact relation and support it appropriately. It does not require an undetermined generative project to have already delivered its future result. Likewise, open possibility does not convert a planned effect into a completed one.
 
+
+## Connect activities, resources and cost evidence
+
+When forming the budget, understand which resources the work needs and what contribution they enable. Keep documented facts, comparison prices, estimates and approved decisions distinguishable. A still-unknown cost remains to be clarified: entering zero would change the project being represented. A proposed budget, an incurred cost and available cash describe different situations. The spreadsheet preserves its relationship to project activities and results while the economic competence deepens quantities, prices and conditions.
+
+
+## Compare source items with the records actually exported
+
+If an attachment or spreadsheet check shows a discrepancy, compare the original items with the records actually extracted: filters, ranges and helper formulas may omit a record even when visible sums are correct. Identify the item and the step causing the difference before changing the model. Preserve the original and observe any correction on a copy. Arithmetic results, spreadsheet operation and attachment completeness are distinct facts; changes to a funder-owned template follow the arrangements agreed with its owner.
+
 ## The request can change how projects are formed
 
 The practical result is a project; the meta result is a better ability to form another project. The same encounter can change the domain competence, resource method and generative method at their respective owners.
