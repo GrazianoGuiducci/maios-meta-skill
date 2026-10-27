@@ -97,7 +97,10 @@
         "Give your AI the subject, audience, material and requested result. Let it guide production through the pertinent medium and observe what it produces. Preserve identity and camera when reconstructing from a reference; preserve source relationships in editing. MKCV remains beta: work and corrections evolve the method."
       ]
     },
-    "status": "The included coded-scene adapter was exercised in a Windows receiver with pause/resume, real process-tree interruption, damaged-segment repair and a continuous-render comparison. This does not establish narrative quality, image-to-3D fidelity, cross-host recovery or access to a media provider."
+    "status": {
+      "label": "MKCV · beta, learning through use",
+      "body": "Mini Kernel Code Video is an evolving method. The examples explain how to work; observations of the film and corrections improve production and the knowledge for the next assignment. The included coded-scene adapter was exercised in a Windows receiver with pause/resume, real process-tree interruption, damaged-segment repair and a continuous-render comparison. This does not establish narrative quality, image-to-3D fidelity, cross-host recovery or access to a media provider."
+    }
   },
   "it": {
     "title": "Creare video da immagini, scene e clip esistenti",
@@ -197,7 +200,10 @@
         "Porta alla tua AI il soggetto, il pubblico, i materiali e il risultato richiesto. Falle condurre la produzione attraverso il mezzo pertinente e osservare ciò che produce. Nella ricostruzione da un riferimento conserva identità e camera; nel montaggio conserva i nessi delle fonti. MKCV resta beta: il lavoro e le correzioni fanno evolvere il metodo."
       ]
     },
-    "status": "L’adattatore per scene in codice incluso è stato esercitato in un ricevente Windows con sospensione/ripresa, interruzione reale dell’albero di processo, riparazione di un segmento danneggiato e confronto con un render continuo. Questo non attesta qualità narrativa, fedeltà immagine→3D, recupero cross-host o accesso a un provider media."
+    "status": {
+      "label": "MKCV · beta, in apprendimento",
+      "body": "Mini Kernel Code Video è un metodo in evoluzione. Gli esempi spiegano come lavorare; osservazioni sul film e correzioni migliorano la produzione e il sapere per il lavoro successivo. L’adattatore per scene in codice incluso è stato esercitato in un ricevente Windows con sospensione/ripresa, interruzione reale dell’albero di processo, riparazione di un segmento danneggiato e confronto con un render continuo. Questo non attesta qualità narrativa, fedeltà immagine→3D, recupero cross-host o accesso a un provider media."
+    }
   },
   "showcase": {
     "type": "timelapse",
