@@ -1867,7 +1867,7 @@
       "id": "progetti-dalle-capacita-del-sistema",
       "version": "0.1.0",
       "package": "dist/system-fundable-project-extraction-0.1.0.zip",
-      "sha256": "bb28aae578ab23d7566f820564f69c12a3846a7f3383615cb414aa94d415c8e9",
+      "sha256": "8206b44145299857cc914b3eaae3b2b6c8a55e430ef4fff69f91867490ca667e",
       "files": {
         "system-fundable-project-extraction/AVVIO_CHAT_IT.txt": "54d276f5357cfd03e756c88b4c91ab56bddc0730070220123a911593ab620699",
         "system-fundable-project-extraction/EDITION.json": "a2c02a24e4e8b49aa1ed3b48ea6328a6738f6f1b45883d9dd6056f43669b2400",
@@ -1883,7 +1883,7 @@
         "system-fundable-project-extraction/SKILL_IT.md": "11eb1e3b67da1b392867886e6718155c467741c1ed6c082b0a7966d85cd2af71",
         "system-fundable-project-extraction/START_CHAT_EN.txt": "3b9bf55c5cea5fea631acf265ac1396b6e3d84777ed7883a17b87ed8f25eaf7e",
         "system-fundable-project-extraction/catalog-entry.json": "cd74b7e1946866ecd6ef476cd378159f7d6390968c14e233dd2ad980b499a736",
-        "system-fundable-project-extraction/presentation.json": "fd4b946fd2ba578c1c1fd24dd4acee8e16ecedac43df5ea7949c3c575815ffea",
+        "system-fundable-project-extraction/presentation.json": "fdf33e871fa94f0ab807bbac8e67d4944772a711be3497d63ac1168a61bd3696",
         "system-fundable-project-extraction/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "system-fundable-project-extraction/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },
