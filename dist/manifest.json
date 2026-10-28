@@ -1862,6 +1862,50 @@
         "film-montage/LICENSE": "LICENSE",
         "film-montage/NOTICE": "NOTICE"
       }
+    },
+    {
+      "id": "progetti-dalle-capacita-del-sistema",
+      "version": "0.1.0",
+      "package": "dist/system-fundable-project-extraction-0.1.0.zip",
+      "sha256": "bb28aae578ab23d7566f820564f69c12a3846a7f3383615cb414aa94d415c8e9",
+      "files": {
+        "system-fundable-project-extraction/AVVIO_CHAT_IT.txt": "54d276f5357cfd03e756c88b4c91ab56bddc0730070220123a911593ab620699",
+        "system-fundable-project-extraction/EDITION.json": "a2c02a24e4e8b49aa1ed3b48ea6328a6738f6f1b45883d9dd6056f43669b2400",
+        "system-fundable-project-extraction/ESEMPI_IT.md": "ed70ea5c8c71a78dca40b6320c81239e3859bcbbe81029aa1baa2ca04d86a6a8",
+        "system-fundable-project-extraction/EXAMPLES.md": "ac32d898b2026f573bdfaad92625224cead1150e63f2cd7a109735d257c2c588",
+        "system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md": "e5e6bd2dcf44c99d033251760610d6a2f0b4c3421d5695c88e75e243a3f197bf",
+        "system-fundable-project-extraction/INSTALL.md": "bfc2741bdb476bfb78296ffc65d878810dad11e2976f915eb095dc64e3749710",
+        "system-fundable-project-extraction/INSTALL_IT.md": "6c73cae23ca083adbfc325633029c9dab93a621530dfe2041a44c0535d878792",
+        "system-fundable-project-extraction/OPERATING_GUIDE.md": "50c0ff3f15de81270efdacbf1a0817f6ce628689d58185cf4f1876a3ef65401e",
+        "system-fundable-project-extraction/README.md": "aa176885f431a95e0752d477b225148c28b037527c39174f46723d7a8324745d",
+        "system-fundable-project-extraction/README_IT.md": "d0d7789c81f20c098b2aae71d386f365e1cb668a49bf16bf4a7c634ec741a2b2",
+        "system-fundable-project-extraction/SKILL.md": "28f90cfe5df779428294aecc16271b4cf49ebec86035363a9dcb2831bf8bf63d",
+        "system-fundable-project-extraction/SKILL_IT.md": "11eb1e3b67da1b392867886e6718155c467741c1ed6c082b0a7966d85cd2af71",
+        "system-fundable-project-extraction/START_CHAT_EN.txt": "3b9bf55c5cea5fea631acf265ac1396b6e3d84777ed7883a17b87ed8f25eaf7e",
+        "system-fundable-project-extraction/catalog-entry.json": "cd74b7e1946866ecd6ef476cd378159f7d6390968c14e233dd2ad980b499a736",
+        "system-fundable-project-extraction/presentation.json": "fd4b946fd2ba578c1c1fd24dd4acee8e16ecedac43df5ea7949c3c575815ffea",
+        "system-fundable-project-extraction/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "system-fundable-project-extraction/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
+      },
+      "source_files": {
+        "system-fundable-project-extraction/AVVIO_CHAT_IT.txt": "skills/system-fundable-project-extraction/AVVIO_CHAT_IT.txt",
+        "system-fundable-project-extraction/EDITION.json": "skills/system-fundable-project-extraction/EDITION.json",
+        "system-fundable-project-extraction/ESEMPI_IT.md": "skills/system-fundable-project-extraction/ESEMPI_IT.md",
+        "system-fundable-project-extraction/EXAMPLES.md": "skills/system-fundable-project-extraction/EXAMPLES.md",
+        "system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md": "skills/system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md",
+        "system-fundable-project-extraction/INSTALL.md": "skills/system-fundable-project-extraction/INSTALL.md",
+        "system-fundable-project-extraction/INSTALL_IT.md": "skills/system-fundable-project-extraction/INSTALL_IT.md",
+        "system-fundable-project-extraction/OPERATING_GUIDE.md": "skills/system-fundable-project-extraction/OPERATING_GUIDE.md",
+        "system-fundable-project-extraction/README.md": "skills/system-fundable-project-extraction/README.md",
+        "system-fundable-project-extraction/README_IT.md": "skills/system-fundable-project-extraction/README_IT.md",
+        "system-fundable-project-extraction/SKILL.md": "skills/system-fundable-project-extraction/SKILL.md",
+        "system-fundable-project-extraction/SKILL_IT.md": "skills/system-fundable-project-extraction/SKILL_IT.md",
+        "system-fundable-project-extraction/START_CHAT_EN.txt": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
+        "system-fundable-project-extraction/catalog-entry.json": "skills/system-fundable-project-extraction/catalog-entry.json",
+        "system-fundable-project-extraction/presentation.json": "skills/system-fundable-project-extraction/presentation.json",
+        "system-fundable-project-extraction/LICENSE": "LICENSE",
+        "system-fundable-project-extraction/NOTICE": "NOTICE"
+      }
     }
   ]
 }

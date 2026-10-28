@@ -277,6 +277,16 @@
         "en": "/resources/fdla-correzione-ai/",
         "it": "/risorse/fdla-correzione-ai/"
       }
+    },
+    {
+      "resource_id": "progetti-dalle-capacita-del-sistema",
+      "name": "System Fundable Project Extraction",
+      "skill_name": "system-fundable-project-extraction",
+      "folder": "skills/system-fundable-project-extraction",
+      "routes": {
+        "en": "/resources/progetti-dalle-capacita-del-sistema/",
+        "it": "/risorse/progetti-dalle-capacita-del-sistema/"
+      }
     }
   ],
   "identity_fields": {

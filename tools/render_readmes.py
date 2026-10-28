@@ -140,4 +140,6 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
             note=(f'This branch prepares {prepared} additional resources for review. Each new kit declares its prepared state; website publication and receiving use retain their own status.' if en else f'Questo ramo prepara {prepared} risorse aggiuntive per revisione. Ogni nuovo kit dichiara il proprio stato di preparazione; pubblicazione del sito e uso nel ricevente mantengono il proprio stato.')
             marker='## Start with your work' if en else '## Scegliere una risorsa'
             text=text.replace(marker,note+'\n\n'+marker,1)
+        adoption = ('[One competence, a public skill system or optional MPK integration](docs/USE.md): choose from your work while preserving existing capabilities.' if en else '[Una competenza, un sistema pubblico di skill o integrazione MPK facoltativa](docs/USO.md): scegli il percorso dal tuo lavoro, preservando le capacità già presenti.')
+        text = text.rstrip()+'\n\n'+adoption+'\n'
         (root/('README.md' if en else 'README_IT.md')).write_text(text,encoding='utf-8',newline='\n')

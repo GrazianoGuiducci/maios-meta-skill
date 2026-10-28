@@ -1,0 +1,69 @@
+{
+  "id": "progetti-dalle-capacita-del-sistema",
+  "name": "System Fundable Project Extraction",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "42",
+  "native_entry": "system-fundable-project-extraction",
+  "skill_name": "system-fundable-project-extraction",
+  "source_title": "System Fundable Project Extraction — estrarre progetti dal sistema",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "en": {
+      "skill": "skills/system-fundable-project-extraction/SKILL.md",
+      "guide": "skills/system-fundable-project-extraction/README.md",
+      "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
+      "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
+      "operating_guide": "skills/system-fundable-project-extraction/OPERATING_GUIDE.md",
+      "installation": "skills/system-fundable-project-extraction/INSTALL.md",
+      "runtime_sources": []
+    },
+    "it": {
+      "skill": "skills/system-fundable-project-extraction/SKILL_IT.md",
+      "guide": "skills/system-fundable-project-extraction/README_IT.md",
+      "starter": "skills/system-fundable-project-extraction/AVVIO_CHAT_IT.txt",
+      "examples": "skills/system-fundable-project-extraction/ESEMPI_IT.md",
+      "operating_guide": "skills/system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/system-fundable-project-extraction/INSTALL_IT.md",
+      "runtime_sources": []
+    }
+  },
+  "en": {
+    "title": "Find projects in the capabilities you already have",
+    "subtitle": "Recognise work worth developing, recover paused ideas and understand which resources could make them possible.",
+    "kind": "Generative metacompetence",
+    "domain": "Projects and enabling resources",
+    "does": "Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found.",
+    "when": "When you want to understand what your existing know-how could enable, or a new resource makes a paused idea possible again.",
+    "examples": [
+      "A photographic archive becomes a workshop across generations",
+      "Technicians’ knowledge makes a new service possible",
+      "New access reopens a laboratory question"
+    ],
+    "route": "/resources/progetti-dalle-capacita-del-sistema/",
+    "description": "Recognise work worth developing, recover paused ideas and understand which resources could make them possible."
+  },
+  "it": {
+    "title": "Far emergere progetti dalle capacità già presenti",
+    "subtitle": "Riconoscere lavori da sviluppare, recuperare idee sospese e capire quali risorse possono renderli possibili.",
+    "kind": "Metacompetenza generativa",
+    "domain": "Progetti e risorse abilitanti",
+    "does": "Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore.",
+    "when": "Quando vuoi capire che cosa potresti sviluppare con ciò che sai già fare, oppure un nuovo mezzo rende possibile riprendere un’idea.",
+    "examples": [
+      "L’archivio fotografico diventa un laboratorio fra generazioni",
+      "Il sapere dei tecnici rende possibile un nuovo servizio",
+      "Un nuovo accesso riapre una domanda di laboratorio"
+    ],
+    "route": "/risorse/progetti-dalle-capacita-del-sistema/",
+    "description": "Riconoscere lavori da sviluppare, recuperare idee sospese e capire quali risorse possono renderli possibili."
+  },
+  "skill": "skills/system-fundable-project-extraction/SKILL.md",
+  "guide": "skills/system-fundable-project-extraction/README.md",
+  "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
+  "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
+  "presentation": "skills/system-fundable-project-extraction/presentation.json",
+  "package": "dist/system-fundable-project-extraction-0.1.0.zip"
+}
