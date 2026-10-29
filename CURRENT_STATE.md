@@ -1,3 +1,7 @@
+# Meta-Activity — recoverable activity configuration, 29 October 2026
+
+Meta-Activity 0.3.3 now transfers complete private configuration preservation before and after native changes, actual controller and archive readback, concurrent-edit handling, backup-pending continuation and a separately selected recovery. The operating body, practical guide and complete starter also distinguish requested execution preferences from configured settings and let domain knowledge participate already when assigning work. A developed museum-digest case is illustrative. The other 42 resource editions retain their versions and package bytes. A saved configuration and an observed activity remain different facts.
+
 # System Fundable Project Extraction — first public edition, 28 October 2026
 
 A new bilingual resource helps a receiver form projects from existing knowledge, capabilities and visions, before finding a call or funder. It preserves paused possibilities with their reasons, lets new resources change the question, and follows how method and work can evolve together. Three developed cases and the archive exploration are illustrative. The 42 existing resource editions retain their versions and package bytes. Publication and runtime consumption keep their own source identities and observations.

@@ -74,6 +74,10 @@
       {
         "title": "Competenze",
         "body": "Un criterio riusabile cambia la capacità che condurrà il prossimo lavoro."
+      },
+      {
+        "title": "Istruzioni recuperabili",
+        "body": "Quando cambia un’attività, conserva privatamente la configurazione integrale salvata e confrontala con il controller. La guida spiega backup e recupero."
       }
     ],
     "learning_note": "L'attività conserva la ragione di una modifica. L'uso successivo mostra se quella conoscenza cambia davvero il seguito.",
@@ -211,6 +215,10 @@
       {
         "title": "Competences",
         "body": "Reusable knowledge changes the capability that will guide later work."
+      },
+      {
+        "title": "Recoverable instructions",
+        "body": "When an activity changes, preserve its full saved configuration privately and compare it with the controller. The guide explains backup and recovery."
       }
     ],
     "learning_note": "The activity preserves the reason for a change. Later use shows whether that knowledge changes what follows.",

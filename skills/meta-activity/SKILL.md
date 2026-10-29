@@ -2,7 +2,7 @@
 name: meta-activity
 description: "Form and evolve context-aware recurring AI activities. Use when entrusted work needs a schedule or event trigger, connected functions, persistent knowledge, self-management or adaptation of an existing activity."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
   language: en
 ---
 
@@ -59,6 +59,16 @@ Activities can begin on request, through events or on a cadence. When recurrence
 The next wake must reach mandate, knowledge and present state. Include needed knowledge in the prompt when external files are unavailable. A link or competence name does not guarantee the next executor can read it.
 
 Follow the person's actual mandate. Preparing contact, sending it, publishing, changing cadence, spending and changing another job are distinct effects. Complete entrusted actions without repeatedly requesting the same authorization. A new effect outside that scope remains a concrete proposal while independent work continues.
+
+Read the operating body and guide of the competence responsible for the assignment already when adding work to an activity. Let that knowledge change the question and method in this work. Keep the next wake's entry short and sufficient to reach the present; a later wake can refine useful understanding without being required before using it.
+
+Distinguish the requested temporal and execution profile from the configuration the controller actually exposes: trigger, timezone, receiver, notifications and, when supported, model and reasoning settings. Preserve an unattested preference as such.
+
+## Keep the native activity recoverable
+
+When a job is created or its native instructions or settings change, preserve the full installed configuration in a private versioned archive. For a selected change, retain a matching previous configuration, then read back and save the complete resulting prompt and exposed recovery fields. Preserve concurrent edits, deliberate pauses and expired states. Keep credentials out of the archive and declare any redacted recovery gap.
+
+Read back the archive, retain version identities and update the recovery index. A missing private write remains backup pending; an edit made elsewhere is not automatically captured. An unchanged wake or project-guide edit needs no new snapshot. A saved copy neither runs nor restores a job: govern the selected recovery separately from its current mandate and completed effects. OPERATING_GUIDE.md develops the method, including drift, unavailable fields and recovery.
 
 ## Continue from the present
 

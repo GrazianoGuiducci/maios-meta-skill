@@ -1,6 +1,6 @@
 # Install Meta-Activity in Codex
 
-This kit is version 0.3.2. Keep the whole `meta-activity` folder together.
+This kit is version 0.3.3. Keep the whole `meta-activity` folder together.
 
 1. Extract the downloaded ZIP.
 2. Copy `meta-activity` into your project's `.agents/skills/` directory. The entry is `.agents/skills/meta-activity/SKILL.md`. Preserve any existing folder rather than overwriting it.

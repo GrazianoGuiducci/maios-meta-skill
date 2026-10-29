@@ -25,3 +25,7 @@ Contributo successivo utile, condizioni di arresto o riapertura, scelte ancora r
 ## Attivazione, quando esiste
 
 Controller e identità del job, evento o cadenza e fuso, destinazione, configurazione osservata e azioni affidate.
+
+## Recupero, quando cambia la configurazione nativa
+
+Archivio privato e indice, versioni qualificate prima/dopo, rilettura del controller, campi non disponibili o redatti ed eventuale operazione di backup pendente. Conserva una pausa intenzionale; la copia di recupero non esegue il job.

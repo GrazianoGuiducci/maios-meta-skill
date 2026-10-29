@@ -52,7 +52,7 @@ In Codex puoi copiare questa intera cartella in .agents/skills/meta-activity nel
 - [Continuità e autogestione](references/continuita-e-autogestione.md): ripresa, adattamento e apprendimento.
 - [CONTINUITA_ATTIVITA.md](CONTINUITA_ATTIVITA.md): una traccia facoltativa da adattare.
 
-Versione 0.3.1 · Prima incarnazione pubblica · Conoscenza e istruzioni in italiano.
+Versione 0.3.3 · Prima incarnazione pubblica · Conoscenza e istruzioni in italiano.
 
 
 [English](README.md). Questa edizione offre il metodo completo in inglese come lingua principale; i file italiani ne conservano la traduzione.

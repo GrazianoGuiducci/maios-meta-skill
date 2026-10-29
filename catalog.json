@@ -6,7 +6,7 @@
     {
       "id": "meta-activity",
       "name": "Meta-Activity",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "skill": "skills/meta-activity/SKILL.md",
@@ -15,7 +15,7 @@
       "examples": "skills/meta-activity/EXAMPLES.md",
       "presentation": "skills/meta-activity/presentation.json",
       "contexts": "skills/meta-activity/contexts.json",
-      "package": "dist/meta-activity-0.3.2.zip",
+      "package": "dist/meta-activity-0.3.3.zip",
       "it": {
         "route": "/risorse/meta-activity/",
         "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -30,7 +30,7 @@
           "Gestisce campagne social e caselle email."
         ],
         "format": "Competenza · guida · avvio in chat · esempi",
-        "status": "Edizione pubblica · 0.3.2"
+        "status": "Edizione pubblica · 0.3.3"
       },
       "en": {
         "route": "/resources/meta-activity/",
@@ -46,7 +46,7 @@
           "Manages social campaigns and email inboxes."
         ],
         "format": "Competence · guide · complete chat starter · examples in English and Italian",
-        "status": "Public edition · 0.3.2"
+        "status": "Public edition · 0.3.3"
       },
       "review_id": "00",
       "native_entry": "meta-activity",

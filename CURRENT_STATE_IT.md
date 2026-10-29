@@ -1,3 +1,7 @@
+# Meta-Activity — configurazione recuperabile dell'attività, 29 ottobre 2026
+
+Meta-Activity 0.3.3 trasferisce ora la conservazione privata integrale della configurazione prima e dopo i cambi nativi, la rilettura del controller e dell'archivio, la gestione delle modifiche concorrenti, il seguito di backup pendente e il recupero selezionato come effetto distinto. Corpo, guida pratica e avvio completo distinguono anche preferenze esecutive richieste e impostazioni configurate e fanno partecipare il sapere di dominio già nell'assegnazione del lavoro. Il caso sviluppato del bollettino di un museo è illustrativo. Le altre 42 edizioni conservano versioni e byte degli archivi. Configurazione salvata ed esecuzione osservata restano fatti diversi.
+
 # Funded Request Project Formation — edizione 0.1.3, 27 ottobre 2026
 
 Il metodo pubblico porta il sapere generale per collegare risorse, basi di costo e voci realmente esportate, con un quarto caso illustrativo su un laboratorio formativo. Stime, costi documentati, cassa ed effetti di finanziamento compiuti conservano significati distinti. Il progetto resta l’oggetto mentre budget e foglio ne sostengono il lavoro. Dettagli, importi, modelli e istruzioni di provider del caso privato restano alle proprie fonti. Le altre 41 edizioni sono conservate.

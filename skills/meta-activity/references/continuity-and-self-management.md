@@ -37,3 +37,7 @@ If a means fails, understand whether access, capability, source or temporary ava
 Local knowledge stays in the activity guide. Reusable method enters the competence that should act differently; recipient difficulty may correct its starter or use guide too.
 
 When operating knowledge changes, follow dependent entries and descriptions. Align version and distributed package. A later different case can provide evidence of assimilation distinct from file consistency.
+
+## Recover the installed configuration
+
+When a native job changes, use the complete private backup, controller readback, concurrent-edit and recovery method in [OPERATING_GUIDE.md](../OPERATING_GUIDE.md). Project knowledge, an archived configuration and an observed run are different objects. The guide and complete starter include the full method.
