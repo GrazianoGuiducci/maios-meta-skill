@@ -1911,7 +1911,7 @@
       "id": "collegare-competenze-al-lavoro",
       "version": "0.1.0",
       "package": "dist/meta-focus-0.1.0.zip",
-      "sha256": "0c5851589d0637da9363cd3769e6ba209930bc7fdf34bf837274a9ee09ae899d",
+      "sha256": "d02e7ffc50a71e03e37c48e4a7b869d7a6bda77e6c20935764f6d7f204efe0f7",
       "files": {
         "meta-focus/AVVIO_CHAT_IT.txt": "36242523ca0415d72bd1c17dce84cb36d2ca2046a2dc7af512c60efe86c5fbea",
         "meta-focus/EDITION.json": "8219f3ffee17d12d2f3c4845f4d894b470a88483617315d56cbb9ec65bafd14c",
@@ -1927,7 +1927,7 @@
         "meta-focus/SKILL_IT.md": "c4720124d261395ada99d5ea1b8dfeeab709c7ac42e7ba768f8f9592118e65a4",
         "meta-focus/START_CHAT_EN.txt": "f500f90e3acab919a76a6e5533d1e43f5b7cdf8ee7559d8ec5ba106557a5f2d6",
         "meta-focus/catalog-entry.json": "9c9953834bf3a144f3aa5ebd1047577674898e732b4378bcb9b6a4abcaa5641f",
-        "meta-focus/presentation.json": "34812a9108a44a245ffce7cc958d170f7771b2c5a7a41a53317c70cc700a73dc",
+        "meta-focus/presentation.json": "1fa0d7920c0768a99d15daa8e50d71c2d0c809fd36a96cfacc24c9f37908dc19",
         "meta-focus/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "meta-focus/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
       },

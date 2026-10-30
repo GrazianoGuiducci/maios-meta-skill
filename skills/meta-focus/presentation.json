@@ -140,7 +140,11 @@
       "A new room recomposes the exhibition’s work",
       "Two assistants change different contributions to one manual",
       "Resume an experiment when the available instrument changes"
-    ]
+    ],
+    "status": {
+      "label": "Method in formation",
+      "body": "First public edition. Cases are illustrative; use across receiving environments requires its own observations."
+    }
   },
   "it": {
     "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -283,7 +287,11 @@
       "Una nuova sala ricompone il lavoro della mostra",
       "Due assistenti modificano contributi diversi allo stesso manuale",
       "Riprendere un esperimento quando cambia lo strumento disponibile"
-    ]
+    ],
+    "status": {
+      "label": "Metodo in formazione",
+      "body": "Prima edizione pubblica. I casi sono illustrativi; l’uso nei diversi ambienti richiede osservazioni proprie."
+    }
   },
   "showcase": {
     "type": "cooperation",
