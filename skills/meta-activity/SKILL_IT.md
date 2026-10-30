@@ -2,7 +2,7 @@
 name: meta-activity
 description: "Form and evolve context-aware recurring AI activities. Use when entrusted work needs a schedule or event trigger, connected functions, persistent knowledge, self-management or adaptation of an existing activity."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
 ---
 
 # Meta-Activity
@@ -58,6 +58,16 @@ L'attività può partire su richiesta, da un evento o con una cadenza. Se è aff
 Le istruzioni devono permettere al prossimo avvio di raggiungere mandato, sapere e presente dell'attività. Includi nel prompt ciò che è necessario quando i file esterni non sono disponibili. Un link o un nome di competenza non garantisce che il prossimo esecutore possa leggerli.
 
 Le azioni seguono il mandato concreto della persona. Preparare un contatto, inviarlo, pubblicare un contenuto, cambiare cadenza, spendere o intervenire su un altro job sono effetti distinti. Esegui quelli già affidati senza chiedere nuovamente la stessa autorizzazione. Un nuovo effetto non incluso resta una proposta concreta, mentre il lavoro indipendente continua.
+
+Leggi corpo operativo e guida della competenza responsabile dell'incarico già quando aggiungi lavoro a un'attività. Lascia che quel sapere cambi domanda e metodo nel lavoro presente. Mantieni breve e sufficiente l'ingresso che permette al prossimo risveglio di raggiungere il presente; un successivo avvio può affinare la comprensione utile senza essere una condizione per usarla.
+
+Distingui il profilo temporale ed esecutivo richiesto dalla configurazione realmente esposta dal controller: evento, fuso, ricevente, notifiche e, quando supportati, modello e sforzo di ragionamento. Una preferenza non attestata conserva quello stato.
+
+## Rendere recuperabile l'attività nativa
+
+Quando un job viene creato o ne cambiano istruzioni o impostazioni native, conserva la configurazione integrale installata in un archivio privato versionato. Per una modifica selezionata mantieni una configurazione precedente corrispondente, poi rileggi e salva prompt risultante completo e campi esposti necessari al recupero. Preserva modifiche concorrenti, pause deliberate e stati scaduti. Tieni le credenziali fuori dall'archivio e dichiara l'eventuale lacuna di una copia redatta.
+
+Rileggi l'archivio, conserva le identità delle versioni e aggiorna l'indice di recupero. Una scrittura privata mancante resta backup pendente; una modifica fatta altrove non è acquisita automaticamente. Un risveglio invariato o una modifica alla guida del progetto non richiedono una nuova copia. Il salvataggio non esegue né ripristina un job: governa il recupero selezionato dal mandato corrente e dagli effetti già compiuti. GUIDA_OPERATIVA_IT.md sviluppa il metodo, comprese divergenze, campi non disponibili e recupero.
 
 ## Continuare dal presente
 

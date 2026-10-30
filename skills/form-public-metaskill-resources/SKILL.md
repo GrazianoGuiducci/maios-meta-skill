@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.4
+  version: 0.3.5
   language: en
 ---
 
@@ -63,6 +63,11 @@ The autological relation appears when recipient difficulty corrects formation it
 ## Follow the capability through what its recipient actually receives
 
 Follow each material function from its source knowledge to the operating entry the recipient consumes: kit, starter, page or assistant context. Preserve decisions, reasons, supplied tools and local adaptations. When an assistant uses a separate knowledge snapshot, a page update alone leaves that passage unchanged. Correct the first responsible transformation and its actual dependents. Keep each observation tied to the edition it exercised, while returning reusable learning to the formation method.
+
+
+## Make the method’s maturity perceivable in the actual first encounter
+
+A file edition identifies a distribution; the source establishes the method’s maturity and the scope of its evidence. Preserve that distinction where it changes adoption. Follow the information into the field the page or receiving interface actually consumes, as well as the method, guide and starter. A status stored in a catalogue may not feed the visible introduction. Observe the generated first encounter and correct the responsible projection while preserving the available capability and its useful depth.
 
 ## Continue through the actual project
 

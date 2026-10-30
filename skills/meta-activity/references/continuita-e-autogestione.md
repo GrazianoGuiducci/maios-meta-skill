@@ -37,3 +37,7 @@ Se fallisce un mezzo, comprendi se mancano accesso, capacità, fonte o disponibi
 Una conoscenza locale resta nella guida dell'attività. Un metodo riusabile entra nella competenza che deve agire diversamente; una difficoltà di ricezione può correggere anche l'avvio o la guida d'uso.
 
 Quando l'apprendimento cambia il corpo operativo, controlla quali ingressi e descrizioni dipendono da quel significato. Allinea la versione e il pacchetto distribuito. Un uso successivo in una situazione diversa fornisce un riscontro dell'assimilazione, distinto dalla coerenza dei file.
+
+## Recuperare la configurazione installata
+
+Quando cambia un job nativo, usa il metodo completo di backup privato, rilettura del controller, modifiche concorrenti e recupero in [GUIDA_OPERATIVA_IT.md](../GUIDA_OPERATIVA_IT.md). Conoscenza del progetto, configurazione archiviata ed esecuzione osservata sono oggetti diversi. Guida e avvio completo includono l’intero metodo.

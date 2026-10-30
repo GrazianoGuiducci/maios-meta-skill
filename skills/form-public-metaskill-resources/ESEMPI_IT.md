@@ -26,3 +26,12 @@ Un articolo usa il caso di laboratorio di un’edizione selezionata. Una correzi
 ## Una biblioteca prepara, continua e condivide un metodo di laboratorio
 
 La biblioteca seleziona la pubblicazione del metodo dei laboratori. Il kit pubblico riceve perché confrontare interpretazioni aiuta, le condizioni per una domanda diversa, un avvio completo e una guida evolvibile. Dati privati dei partecipanti e configurazione degli account restano fuori dal trasferimento. La pagina spiega la capacità per sistemi diversi. Se un assistente collegato usa una raccolta di conoscenze, la stessa edizione e il caso sviluppato raggiungono quel consumer attraverso la sua sorgente. Corrispondenza dell’archivio, comportamento della pagina e selezione del sapere hanno osservazioni proprie. Il metodo di formazione impara da un passaggio mancante senza rendere universale la sequenza particolare della biblioteca.
+
+
+## Un’associazione condivide un metodo utilizzabile ancora in formazione
+
+Un’associazione culturale sviluppa un metodo per progettare passeggiate accessibili da osservazioni locali. Prepara l’edizione 0.1.0 con corpo operativo utilizzabile, guida e casi illustrativi; la fonte qualifica ancora il metodo come in formazione. Il catalogo contiene quello stato, ma il riquadro introduttivo della pagina generata mostra soltanto l’edizione. Chi cura la risorsa presume inizialmente che il campo aggiunto al catalogo raggiunga il visitatore.
+
+La lettura della pagina generata espone il rapporto mancante. Si risale al distinto ingresso di presentazione che alimenta il riquadro, si conserva l’identità dell’edizione e si porta lì una spiegazione breve dello stato formativo. Guida e avvio completo mantengono ciò che il metodo permette di fare, lo statuto illustrativo dei casi e le condizioni che l’uso successivo può cambiare. Non ricevono maturità universale dal numero di versione o da una build riuscita.
+
+Il primo incontro risultante permette a un’altra associazione di comprendere sia il metodo disponibile sia come adottarlo con il proprio sapere. Chi cura la risorsa osserva le viste linguistiche generate e il kit consegnato, mantenendo l’eventuale snapshot dell’assistente come consumer distinto. La competenza che forma risorse impara dove quello stato dovrà partecipare la prossima volta, senza aggiungere una revisione rituale a ogni pubblicazione. L’associazione e l’esito sono illustrativi.

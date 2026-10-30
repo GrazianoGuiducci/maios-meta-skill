@@ -5,7 +5,7 @@
 
 Una competenza porta all'AI un metodo: quali aspetti di una situazione comprendere, quali sorgenti raggiungere, che cosa cambia una scelta e come conservare ciò che il lavoro insegna. Puoi usare una sola competenza, comporne alcune in un progetto oppure rendere disponibile un'intera raccolta al tuo sistema agentico.
 
-Le risorse MAIOS sono indipendenti dal progetto che le ha generate. La raccolta pubblica è nel repository [maios-meta-skill](https://github.com/GrazianoGuiducci/maios-meta-skill). Contiene, alla data di questa edizione, 42 kit con metodo, guida, esempi, versioni italiane e inglesi e avvii per la chat. Non serve adottarle tutte per ottenere valore. E installarle tutte non significa, da solo, che un agente sappia selezionarle e utilizzarle.
+Le risorse MAIOS sono indipendenti dal progetto che le ha generate. La raccolta pubblica è nel repository [maios-meta-skill](https://github.com/GrazianoGuiducci/maios-meta-skill). Il catalogo elenca i kit correnti, ciascuno con metodo, guida, esempi, versioni italiane e inglesi e avvii per la chat. Non serve adottarle tutte per ottenere valore. E installarle tutte non significa, da solo, che un agente sappia selezionarle e utilizzarle.
 
 ## Quando ti basta una singola competenza
 
@@ -21,6 +21,7 @@ Un compito può richiedere conoscenze diverse. Se la presentazione contiene un d
 
 Puoi comporre MPC con risorse già pubbliche, secondo ciò che il tuo progetto rende pertinente:
 
+- [Meta-Focus](https://maios.it/risorse/collegare-competenze-al-lavoro/) per collegare lavoro selezionato, responsabili, sapere e mezzi effettivi nella guida già presente del progetto.
 - [Meta_Skill Semantic Kernel](https://maios.it/risorse/creare-comporre-competenze/): riconoscere, formare e comporre capacità.
 - [UX-AI Kernel Design](https://maios.it/risorse/comprendere-lavoro-agente/): rendere comprensibile l'attività di un agente e mantenerne il focus.
 - [Concept-to-Media Formation](https://maios.it/risorse/dal-concetto-ai-media/): formare un concetto coerente prima dei suoi diversi media.

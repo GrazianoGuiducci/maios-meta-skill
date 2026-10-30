@@ -30,6 +30,16 @@ A source guide explains when to compare interpretations, but a generated starter
 
 A revision may preserve the package bytes while changing a public pointer or knowledge snapshot. Retain earlier evidence for the unchanged object and check the passage that changed against its current source identity. Extracted archives should resolve their own necessary references; a repository link can remain optional and public. Preserve the recipient’s useful local method when adopting an update. Installation, discovery, exercised function and assimilation describe different observations. Their distinction helps complete the selected transfer without inventing a universal compatibility claim.
 
+
+## An edition does not determine a method’s maturity
+
+A new version can identify a complete, usable kit whose method is still forming. An implemented tool, an illustrative case, an observed local exercise and independent use establish different things. Read the source’s actual state before choosing the public explanation. Preserve a demonstrated capability at its supported scope and keep an open or formative method recognizable when that difference matters to the recipient. A later file version does not itself promote the method to universal maturity; conversely, one uncertain integration does not erase a capability already demonstrated elsewhere.
+
+
+## Follow maturity into the field that the recipient actually consumes
+
+The catalogue may supply identity and discovery while a separate presentation supplies the introductory status. Determine which authored input produces the first visible explanation. A maturity field present in an unused object cannot inform the recipient. Bring the same qualified relationship into the consumed presentation, operating guide and complete starter, then inspect the generated result in its language. Keep the first encounter concise and useful, with deeper evidence reachable. This source-to-consumer relation also applies to a separate assistant snapshot; a page correction does not silently update that consumer.
+
 ## A resource that also teaches how to form resources
 
 The meta relation is its object: it forms a usable capability from internal know-how and connects its entry points. The same method can be applied to its own transformation into a public resource.

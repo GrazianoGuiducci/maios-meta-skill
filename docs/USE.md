@@ -5,7 +5,7 @@
 
 A competence gives an AI a method: what to understand in a situation, which sources matter, what should change a decision, and how useful learning can continue. You can use one competence, compose several in a project, or make a complete public collection available to your agentic environment.
 
-The public MAIOS collection is at [maios-meta-skill](https://github.com/GrazianoGuiducci/maios-meta-skill). At the time of this edition it contains 42 bilingual resource kits with operating methods, guides, developed examples, and complete chat starters. You do not need all of them for every assignment. Installing every folder does not by itself make an agent able to select and exercise them.
+The public MAIOS collection is at [maios-meta-skill](https://github.com/GrazianoGuiducci/maios-meta-skill). Its catalogue lists the current bilingual kits, each with an operating method, guide, developed examples and complete chat starters. You do not need all of them for every assignment. Installing every folder does not by itself make an agent able to select and exercise them.
 
 ## When one competence is enough
 
@@ -21,6 +21,7 @@ A presentation with a diagram may need knowledge about spatial relationships. A 
 
 Compose as needed with public resources such as:
 
+- [Meta-Focus](https://maios.it/resources/collegare-competenze-al-lavoro/) to connect the selected work, responsible owners, knowledge and actual means in the project’s existing guide.
 - [Meta_Skill Semantic Kernel](https://maios.it/resources/creare-comporre-competenze/) to recognize, form, and compose competences.
 - [UX-AI Kernel Design](https://maios.it/resources/comprendere-lavoro-agente/) for comprehensible AI behavior and orientation.
 - [Concept-to-Media Formation](https://maios.it/resources/dal-concetto-ai-media/) to preserve meaning across explanatory media.

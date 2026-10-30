@@ -2,7 +2,7 @@
 
 **Form and evolve AI activities from the context of your work.**
 
-[Italiano](README_IT.md) · Public edition 0.3.1 · English operating method
+[Italiano](README_IT.md) · Public edition 0.3.3 · English operating method
 
 ## What it does
 

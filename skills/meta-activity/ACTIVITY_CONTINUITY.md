@@ -28,3 +28,7 @@ Next useful contribution, stopping or reopening conditions and remaining human c
 
 Controller and job identity, event or cadence, timezone, destination, observed
 configuration and entrusted actions.
+
+## Recovery, when the native configuration changes
+
+Private archive and index, qualified pre/post versions, controller readback, unavailable or redacted fields and any backup-pending operation. Preserve an intentional pause; the recovery copy does not execute the job.

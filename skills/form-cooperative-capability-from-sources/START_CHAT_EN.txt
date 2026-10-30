@@ -1,3 +1,4 @@
+
 # Form Cooperative Capability from Sources
 
 Forms and evolves the project-specific competence that can generate cooperation from source knowledge, intent and the real participants.
@@ -22,23 +23,32 @@ Start with shared intent, participants’ materials and the differences still op
 
 Understand what people are trying to make possible and which knowledge already carries the ability to do it. Recover source reasons, participants, existing work and available means before deciding that the answer is a platform or agent hierarchy. Let unexpected source relations change the question. A chosen form remains valid when the field actually supports it.
 
+
 ## Form the competence that can continue
 
 When the work needs a recurring transformation, give its project a competent entry: meaningful knowledge, decision method, current continuation and a way to learn from consequences. Reuse or compose an existing competence where it can do the work. The seed can already be a valuable project result; it need not imitate a predetermined application.
+
 
 ## Form cooperation together with its conditions
 
 Recognize how contributions can meet without losing their source or responsibilities. A participant’s new ability can change the shared question but does not silently expand its mandate. Knowledge ownership, recoverable reasons and actual coordination may themselves become part of the solution. Let the case determine their form instead of imposing a universal protocol.
 
+
 ## Incarnate through the recipient’s real means
 
 A useful result may be a project competence, a kernel, a service or an application. Transfer the knowledge and method the recipient needs to operate and continue it. Private source links alone do not provide that knowledge. Compose the technical or scientific owner for real construction and the resource owner for enabling conditions; their results keep their own identity.
+
+
+## Keep knowledge, requested action, applied effect and observation distinct
+
+A participant may have read a source while another has not received it. Asking a tool to act does not establish that the change occurred, and a returned observation has its own object and limits. Let those differences change the next contribution. If a readback times out, preserve the uncertainty about the object and use the means or responsible participant that can observe it. Continue independent work without attributing unobserved knowledge, decisions or powers to another participant.
+
 
 ## Let the work evolve the generator
 
 When a consequence changes how cooperation can be formed, return the reusable difference to this generative method and the relevant domain competence. Preserve the event and the understanding it changed. A further case should benefit from that learning while remaining free to produce another form. Stop generating new wrappers when an existing capability is sufficient to act.
 
-## Continue in the project
+## Continue through the actual project
 
 Keep project-specific knowledge with the project; preserve reusable formation knowledge in this method.
 
@@ -46,52 +56,81 @@ A valid new result can change participants, question, medium or method without l
 
 ## Operating knowledge
 
-Read OPERATING_GUIDE.md and EXAMPLES.md. Without file access use the complete START_CHAT_EN.txt. Compose pertinent local methods; tools, persistence and authority remain those actually available.
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
 
-# Form Cooperative Capability from Sources — operating knowledge
+
+# Form Cooperative Capability from Sources — practical operating knowledge
 
 ## A seed is a source of work
 
 The project seed preserves why this transformation matters, the knowledge that enables it, the method for choosing and building, and the open continuation. It can be a small readable project faculty. File shape and runtime architecture follow the actual recipient. A seed initializes a capability; delivered software, deployed autonomy and observed cooperation are further results with their own evidence.
 
+
 ## Complementary knowledge remains distinct
 
 A domain specialist understands its real object; a project competence preserves shared reasons; a coordinator carries the next contribution; economic competence handles resources and agreements. Their relationship can change during work. Common vocabulary does not merge owners, and agreement among copies of one account is not independent corroboration. New knowledge should reach the participant who must make a different choice.
+
 
 ## Find the knowledge that can form cooperation
 
 Read what each participant contributes, why it matters and what remains uncertain. Follow a disagreement to the source conditions that make the interpretations different. Sources can change the shared question before a platform or deliverable is chosen. A refusal can preserve a real limit of participation or reveal a useful alternative. Shared understanding does not require every participant to adopt one account.
 
+
 ## Reuse a capability before forming a duplicate
 
 Inspect existing project methods by function, responsible owner and practical decisions, including supporting guides. If knowledge exists but was not reached, reconnect its entry. Deepen an existing method when its operating knowledge is incomplete. Form a continuing project competence when the work needs a distinct capability and continuation. A coordination tool implements an actual handoff; it does not own the scientific question or make participants subordinate.
+
 
 ## Distinguish contribution and authority in the same work
 
 An assistant can compare supplied materials and prepare a shared question without permission to contact another participant, move their data or execute work in their account. Retain source and mandate with each contribution. The actual controller governs the exact external action when it emerges. With no agents or file access, use the method in the present conversation and return the useful continuation to someone who can preserve it.
 
+
 ## Return learning to the project and to its generator
 
 Keep experimental facts, participants’ decisions and the open inquiry with the research project. If the event teaches how to recognize a productive disagreement, improve this cooperation-formation method too: next time it asks which conditions differ before enforcing a synthesis. A different later case can refine that discrimination. The record of a change and its later use are different observations.
+
+
+## Follow what actually reached each participant
+
+For a contribution that changes shared work, understand which source and revision the recipient could read and what its response actually demonstrates. A shared folder or sent request does not show that every person or assistant received and used the same knowledge. Preserve the reason the contribution matters and make it reachable at the recipient’s real entry. Distinguish an explicit decision from an assistant’s reconstruction. Keep unknown reception unknown; seek the missing relationship when it changes the work rather than adding a permanent receipt process for every exchange.
+
+
+## An observation limit can change the next act
+
+A command request, an applied change and an observation returned to the group are different events. A browser timeout establishes a limit of that observation; by itself it neither shows the page’s contents nor whether a preceding write succeeded. Reach the authoritative record or the participant able to inspect it before repeating a potentially duplicating action. Other supplied sources can still support independent work. Report the scope actually observed and return useful learning to the participant or method that should continue differently; no new supervisor is required.
 
 ## The generator learns from another form of cooperation
 
 A new project can reveal that the way a capability was formed is itself incomplete. Evolving that method improves the source of future cooperation, alongside the practical project.
 
+
 # Worked examples
 
-Illustrative cases: they teach conditions, choices and continuation; they are not observed customer results.
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## A shared research group keeps its different voices
 
 Several researchers use separate assistants and want to develop one inquiry. An immediate shared chatbot would hide how claims and questions originated. First form a project competence that can recover the source of a contribution, connect compatible questions and keep unresolved differences. Individual assistants contribute through the group’s actual shared documents. The group may later choose a common interface, but its useful first result is a capacity to continue the inquiry without flattening the participants’ positions. Two groups bring experimental observations and models. A new observation changes an earlier interpretation: the project retains attributed accounts and forms the ability to ask which conditions distinguish them. Disagreement opens a better question. The project keeps the experimental fact; the generator learns to recognize a productive difference before enforcing synthesis. Later work can change question and participants without imposing a platform or central authority.
 
+
 ## Maintenance knowledge becomes a cooperative capability
 
 Technicians and designers repeatedly exchange incomplete fault reports. Instead of starting with a ticket system, understand which observations change diagnosis, design and operation. Form the capability that recognizes these connections and returns useful differences to the appropriate participants. A maintenance event can teach a design criterion while leaving the technical repair with its owner. The first artifact may be a small project guide; a later service or application should incarnate that acquired method.
+
 
 ## Volunteers and assistants prepare a cultural programme
 
 An association prepares a programme with schools, artists and volunteers. Contributions arrive in different documents and some proposals remain incompatible. Form the knowledge through which the group connects needs, resources and decision reasons, preserving authors and open questions. A shared method or project kernel can carry that knowledge between meetings. A programme, collaborative space or application emerges from the actual needs of the initiative.
 
-Assignment and context: add what you want to make possible, sources, previous work, real means and responsible people. Preserve continuation in the project or return it to the person when you cannot save it.
+
+## Two libraries continue after an uncertain shared-note update
+
+Two libraries prepare an exhibition with their own assistants. One librarian supplies a revised lending condition; the first assistant reads it, while the second still has the earlier note. The group has entrusted the first assistant to update one shared record. Its browser requests the write, then times out while reading the result.
+
+The group preserves four different facts: the revised condition reached one assistant; a write was requested; the record’s resulting state is not yet observed; the timeout is observed. It does not conclude that the second assistant knows the revision or that the write failed. The librarian who can reach the authoritative record checks its current contents before any repeat. Meanwhile the other assistant can compare the exhibition descriptions already supplied, keeping the lending condition open.
+
+If the record contains the revision, the group connects that observed version and its reason to the second library’s working guide. If it does not, the responsible participant chooses the actual correction within the existing mandate. The cooperation method learns to distinguish reception, request, effect and readback at the point where confusion would change a choice. This illustrative case does not claim a deployed multi-agent service or a new controller.
+
+
+My assignment, sources, existing work, available means and requested result:

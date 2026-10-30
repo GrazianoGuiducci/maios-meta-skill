@@ -1,6 +1,6 @@
 # Installare Meta-Activity in Codex
 
-Questo kit è alla versione 0.3.2. Conserva tutti i file della cartella `meta-activity`.
+Questo kit è alla versione 0.3.3. Conserva tutti i file della cartella `meta-activity`.
 
 1. Estrai lo ZIP scaricato.
 2. Copia `meta-activity` nella directory `.agents/skills/` del progetto. L'ingresso è `.agents/skills/meta-activity/SKILL.md`. Conserva un'eventuale cartella esistente, senza sovrascriverla.

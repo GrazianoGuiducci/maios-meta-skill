@@ -1,0 +1,342 @@
+{
+  "en": {
+    "title": "Find projects in the capabilities you already have",
+    "subtitle": "Recognise work worth developing, recover paused ideas and understand which resources could make them possible.",
+    "kind": "Generative metacompetence",
+    "domain": "Projects and enabling resources",
+    "does": "Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found.",
+    "when": "When you want to understand what your existing know-how could enable, or a new resource makes a paused idea possible again.",
+    "intro": [
+      "An archive has an interpretive method, a technical team has learned to solve a problem, a laboratory retains an open question. This knowledge can make a project possible before anyone publishes a funding request.",
+      "The competence connects what exists, the work that could emerge and the conditions for beginning it. A person, infrastructure or new access can also change the project’s question. The method preserves that transformation and learns through experience."
+    ],
+    "reader_context": {
+      "title": "An archive recognises a project before looking for a call",
+      "situation": "An association knows how to interpret photographs and collect local memories. It wants schools to use this knowledge, but has neither a funder nor access to family documents.",
+      "point": "A project can already become intelligible: a workshop built on the archive’s knowledge. Later access to documents can transform it into shared research across generations."
+    },
+    "adaptation": {
+      "title": "Adapt the method to your organisation",
+      "paragraphs": [
+        "Preserve the relationship between existing knowledge, possible work and the condition enabling its development. Sources, beneficiaries, tools, responsibilities and forms of support change. The knowledge may belong to a company, laboratory, community or individual.",
+        "Supply documents, results, acquired methods and paused ideas with the reasons they were paused. A new resource can reopen a possibility or generate another one. Forming the project can improve both how you work with AI and the product, research or service you are developing."
+      ]
+    },
+    "method": [
+      {
+        "title": "Recognise the knowledge that can generate work",
+        "body": "Read the group’s live sources: works, results, competences, research questions and retained ideas. Reach the people who understand the object. Distinguish an exercised capability from a hypothesis, a vision and a capability still to form. The product catalogue and latest call are partial entry points: an unnamed possibility outside the current focus may also change the question."
+      },
+      {
+        "title": "Form an intelligible project possibility",
+        "body": "Understand what work the existing knowledge could enable, for whom and why. An experiment, service, work, competence or research programme may emerge. Compose pertinent knowledge and form what is missing with the domain owners. Leave genuinely undetermined relations open; preserve a determination when it emerges. A well-formed question may be the first useful resultant."
+      },
+      {
+        "title": "Understand what makes the next work practicable",
+        "body": "Connect the possible transformation to its enabling resource: time, people, tools, access, space, data or money. An actually available means can change the project and create a new question. Keep availability, promise, estimate and decision distinguishable. The economic competence deepens costs, terms and sustainability when those relations become pertinent."
+      },
+      {
+        "title": "Recover a paused possibility through its reason",
+        "body": "Preserve why the work stopped and which event could change that situation. Missing access, time or a partner does not automatically refute the idea. Reopen the question when a material condition changes, understanding what now becomes possible; repeating the old proposal may lose that difference. If nothing changes, keep the possibility reachable without restarting it."
+      },
+      {
+        "title": "Meet an actual request or supporter",
+        "body": "When a concrete counterpart emerges, understand the encounter between the project and their actual interest. A funded request can reform the project together with Funded Request Project Formation; the technical or scientific owner retains the object’s truth while the resource owner governs terms and application. Interest, rights, eligibility and an award do not follow from the project’s existence alone."
+      },
+      {
+        "title": "Learn while method and work evolve",
+        "body": "A discussion, attempt, result or refusal can change the project and how later projects are formed. Recover what happened, what you understood then and which difference changes a choice now. Return knowledge to whoever must work differently: domain competence, project formation, AI method, economics or relationship. If the knowledge already existed but did not participate, repair the connection that makes it useful."
+      },
+      {
+        "title": "Leave proportionate continuation",
+        "body": "Preserve the useful source, responsible owner, understood possibility, actual state and next condition that could change it. Use the existing guide or project; an index does not recreate an active project. Stop when the possibility is intelligible enough to revisit. Sending, spending, signing or activation requires the receiver’s selection and means for that exact effect."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A resource can change which research becomes possible",
+        "body": "Access to an instrument can do more than accelerate an already defined experiment: it can make another question observable. The scientific owner determines the new object and distinguishes hypothesis, available means and observed result. Likewise, a room or collaboration may transform a cultural project. The relationship also holds when the first enabling resource was acquired knowledge."
+      },
+      {
+        "title": "An open vision and a first piece of work have different scales",
+        "body": "Long-term research may remain meaningful while the first work is bounded. Make their relationship intelligible without calling the vision accomplished or reducing it to the first product. A form of support can change the focus to develop; it does not determine everything the group could become."
+      },
+      {
+        "title": "Support takes different forms",
+        "body": "A project may meet a collaboration, commission, shared infrastructure, donation or research request. Qualify the actual form through current sources when it matters to the work. The project possibility precedes that encounter; an economic category is neither an identified programme nor a commitment from a possible supporter."
+      },
+      {
+        "title": "The working method and its result can improve each other",
+        "body": "A technical team develops a service and, through that work, improves how it preserves and uses knowledge with AI. That method may then change the service. Understand both effects where present: an installed automation, a measured improvement and a capability still to form retain their own states. The relationship does not prescribe two packages or two funding awards."
+      },
+      {
+        "title": "Preserve potential without inflating a portfolio",
+        "body": "Several descriptions may refer to one project. Reach its guide before creating another entry. Preserve a paused possibility with its useful reopening condition; avoid rankings and quotas that do not help a choice. A new source may open a distinct project, but a different title or funder alone does not establish that difference."
+      },
+      {
+        "title": "Memory belongs to the work that must continue",
+        "body": "In a chat, keep a recoverable note with sources, understanding and the open point; with file access, use the responsible owner’s guide. Instructions do not create persistent memory or missing tools. An available method, its exercise and learning in another case are different facts. Private details about people and applications stay in their authorised context."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A photographic archive becomes a workshop across generations",
+        "body": "An association preserves photographs and knows how to reconstruct their context. Before finding a call, it recognises possible work: a workshop where students and residents connect images with neighbourhood memories. The first condition is access to family documents and the people who can interpret them. A library offers a room and helps arrange meetings; conflicting sources emerge alongside a new question about changing spaces. The project becomes shared research beyond the original exhibition. Its guide preserves sources, interpretations and actual agreements; the method learns to involve different readings. Available space, reuse permissions and funding are distinct conditions. This case teaches how to see a project in existing knowledge and let a new means change it."
+      },
+      {
+        "title": "Technicians’ knowledge makes a new service possible",
+        "body": "A small team has acquired a method for interpreting faults and explaining maintenance decisions. It recognises a possible service supporting other technicians before a commission exists. The work requires access to real cases and cooperation from equipment owners. An interested company makes an initial meeting possible: the discussion reveals that knowledge transfer between shifts is the more useful problem. The domain owner reforms the service; the team also improves how it uses AI to preserve reasons and sources. A meeting, an agreed pilot and an achieved result remain different states. A later economic proposal concerns work determined together, without attributing a demand to that company in advance."
+      },
+      {
+        "title": "New access reopens a laboratory question",
+        "body": "A laboratory paused an idea because its available instrument could not distinguish two explanations. It retains the question, limitation and reopening condition. A collaboration provides access to a new measurement: the researcher sees that a different experiment can now be formed, beyond repeating the previous one faster. The AI recovers pertinent knowledge and connects the new project to its original question, keeping hypotheses and observations distinguishable. Support might concern measurement time, analysis and collaboration; responsible owners qualify actual costs and terms. Announced access is not an executed experiment. The case teaches how to preserve a possibility without freezing it in its first form."
+      }
+    ],
+    "depth": {
+      "title": "The method’s value continues beyond the first project",
+      "paragraphs": [
+        "A project is one possible resultant. The knowledge enabling you to recognise and form another project is the generative capability being transferred. A source or encounter can change both; the next case provides its own observations."
+      ]
+    },
+    "learning": [
+      "Keep reasons that change the next project in the existing guides, together with their sources and actual states.",
+      "Let acquired understanding participate in the present choice. Logical consequences open possibilities; the situation determines which continuation is useful."
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter and describe knowledge, existing work, paused ideas and available means."
+      },
+      {
+        "title": "In a project with files",
+        "body": "Keep method, guide and examples reachable and preserve continuation with the work’s owner."
+      },
+      {
+        "title": "With an existing kernel",
+        "body": "Compose this capability with the domain, continuity and resource competences already operating."
+      }
+    ],
+    "examples": [
+      "A photographic archive becomes a workshop across generations",
+      "Technicians’ knowledge makes a new service possible",
+      "New access reopens a laboratory question"
+    ],
+    "operating_guide": "skills/system-fundable-project-extraction/OPERATING_GUIDE.md"
+  },
+  "it": {
+    "title": "Far emergere progetti dalle capacità già presenti",
+    "subtitle": "Riconoscere lavori da sviluppare, recuperare idee sospese e capire quali risorse possono renderli possibili.",
+    "kind": "Metacompetenza generativa",
+    "domain": "Progetti e risorse abilitanti",
+    "does": "Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore.",
+    "when": "Quando vuoi capire che cosa potresti sviluppare con ciò che sai già fare, oppure un nuovo mezzo rende possibile riprendere un’idea.",
+    "intro": [
+      "Un archivio possiede un metodo di lettura, un gruppo tecnico ha imparato a risolvere un problema, un laboratorio conserva una domanda ancora aperta. Questo patrimonio può rendere possibile un nuovo progetto prima che qualcuno pubblichi una richiesta di finanziamento.",
+      "La competenza collega ciò che esiste, il lavoro che può nascerne e le condizioni per iniziarlo. Una persona, un’infrastruttura o un nuovo accesso possono cambiare anche la domanda del progetto. Il metodo conserva questa trasformazione e impara dall’esperienza."
+    ],
+    "reader_context": {
+      "title": "Un archivio riconosce un progetto prima di cercare un bando",
+      "situation": "Un’associazione sa leggere fotografie e raccogliere memorie locali. Vorrebbe aprire questo sapere alle scuole, ma non ha ancora un finanziatore né l’accesso ai documenti delle famiglie.",
+      "point": "Il progetto può già diventare comprensibile: un laboratorio costruito sul sapere dell’archivio. Un successivo accesso ai documenti può trasformarlo in una ricerca condivisa fra generazioni."
+    },
+    "adaptation": {
+      "title": "Adattare il metodo alla tua organizzazione",
+      "paragraphs": [
+        "Si conserva il rapporto fra patrimonio già presente, lavoro possibile e condizione che ne permette lo sviluppo. Cambiano le fonti, chi beneficia del lavoro, gli strumenti, le responsabilità e il tipo di sostegno. Il patrimonio può appartenere a un’impresa, un laboratorio, una comunità o una singola persona.",
+        "Porta documenti, risultati, metodi acquisiti e idee sospese con le ragioni della sospensione. Una risorsa nuova può riaprire una possibilità o farne nascere un’altra. La formazione del progetto può migliorare sia il metodo con cui usi l’AI sia il prodotto, la ricerca o il servizio su cui lavori."
+      ]
+    },
+    "method": [
+      {
+        "title": "Riconoscere il patrimonio che può generare un lavoro",
+        "body": "Leggi le fonti vive del gruppo: opere, risultati, competenze, domande di ricerca e idee conservate. Raggiungi chi conosce l’oggetto. Distingui una capacità già esercitata da un’ipotesi, una visione e una capacità ancora da formare. Il catalogo dei prodotti e l’ultimo bando sono ingressi parziali: anche una possibilità senza nome o fuori dal focus corrente può cambiare la domanda."
+      },
+      {
+        "title": "Formare una possibilità di progetto riconoscibile",
+        "body": "Comprendi quale lavoro il patrimonio può rendere possibile, per chi e perché. Può emergere un esperimento, un servizio, un’opera, una competenza o un programma di ricerca. Componi il sapere pertinente e forma ciò che manca insieme ai responsabili del dominio. Lascia indeterminato ciò che non ha ancora una forma utile; conserva una determinazione quando emerge. Una domanda ben formata può essere la prima risultante."
+      },
+      {
+        "title": "Comprendere che cosa rende praticabile il prossimo lavoro",
+        "body": "Collega la trasformazione possibile alla risorsa che può abilitarla: tempo, persone, strumenti, accesso, spazio, dati o denaro. Un mezzo realmente disponibile può cambiare il progetto e far nascere una nuova domanda. Mantieni distinguibili disponibilità, promessa, stima e decisione. La competenza economica approfondisce costi, termini e sostenibilità quando diventano pertinenti."
+      },
+      {
+        "title": "Recuperare una possibilità sospesa dalla sua ragione",
+        "body": "Conserva perché il lavoro si era fermato e quale evento potrebbe cambiarlo. La mancanza di accesso, tempo o partner non confuta automaticamente l’idea. Riapri la domanda quando cambia una condizione materiale, comprendendo che cosa ora diventa possibile; ripetere la vecchia proposta può perdere il cambiamento. Se nulla cambia, lascia la possibilità raggiungibile senza riavviarla."
+      },
+      {
+        "title": "Incontrare una richiesta o un sostenitore reale",
+        "body": "Quando emerge un soggetto concreto, comprendi l’incontro fra progetto e suo interesse effettivo. Una richiesta finanziata può riformare il progetto insieme a Funded Request Project Formation; il responsabile tecnico o scientifico conserva la verità dell’oggetto e chi gestisce le risorse governa condizioni e candidatura. Nessun interesse, diritto, ammissibilità o assegnazione si deduce dalla sola presenza del progetto."
+      },
+      {
+        "title": "Imparare mentre metodo e opera evolvono",
+        "body": "Un confronto, un tentativo, un risultato o un rifiuto possono cambiare il progetto e il modo di formarne altri. Recupera che cosa è accaduto, che cosa avevi compreso e quale differenza cambia ora una scelta. Restituisci il sapere a chi dovrà lavorare diversamente: competenza di dominio, formazione dei progetti, metodo AI, gestione economica o relazione. Se il sapere esisteva già ma non partecipava, correggi il collegamento che lo rende utile."
+      },
+      {
+        "title": "Lasciare una continuazione proporzionata",
+        "body": "Conserva la fonte utile, il responsabile, la possibilità compresa, lo stato effettivo e la prossima condizione che può cambiarla. Usa la guida o il progetto già esistente; un indice non ricrea un progetto attivo. Quando la possibilità è abbastanza intelligibile da essere ripresa, fermati. Un invio, una spesa, una firma o un’attivazione richiedono la selezione e i mezzi del ricevente per quell’effetto preciso."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Una risorsa può cambiare la ricerca che diventa possibile",
+        "body": "L’accesso a uno strumento non serve soltanto a velocizzare un esperimento già definito: può rendere osservabile un’altra domanda. Il responsabile scientifico determina il nuovo oggetto e distingue ipotesi, mezzo disponibile e risultato osservato. Allo stesso modo, una sala o una collaborazione possono trasformare un progetto culturale. La relazione vale anche quando la prima risorsa era conoscenza acquisita."
+      },
+      {
+        "title": "Una visione aperta e un primo lavoro hanno scale diverse",
+        "body": "Una ricerca di lungo periodo può restare significativa mentre il primo lavoro è circoscritto. Rendi comprensibile il nesso senza chiamare già realizzata la visione e senza ridurla per forza al primo prodotto. Il tipo di sostegno può cambiare il focus da sviluppare; non decide da solo tutto ciò che il gruppo può diventare."
+      },
+      {
+        "title": "Il sostegno assume forme diverse",
+        "body": "Un progetto può incontrare una collaborazione, una commessa, un’infrastruttura condivisa, una donazione o una richiesta di ricerca. Qualifica la forma effettiva con le fonti correnti quando conta per il lavoro. La possibilità progettuale precede questo incontro; una categoria economica non è un programma già individuato né un impegno del possibile sostenitore."
+      },
+      {
+        "title": "Il metodo di lavoro e il risultato possono migliorarsi a vicenda",
+        "body": "Un gruppo tecnico sviluppa un servizio e, lavorandoci, migliora il modo di conservare e usare il proprio sapere con l’AI. Quel nuovo metodo può a sua volta cambiare il servizio. Comprendi entrambi gli effetti quando sono presenti: un’automazione installata, un miglioramento misurato e una capacità ancora da formare conservano stati propri. Il rapporto non impone due pacchetti o due finanziamenti."
+      },
+      {
+        "title": "Conservare il potenziale senza gonfiare il portafoglio",
+        "body": "Più descrizioni possono riguardare lo stesso progetto. Raggiungi la sua guida prima di creare un’altra voce. Conserva una possibilità sospesa con la condizione utile a riprenderla; evita classifiche e quote che non aiutano la scelta. Una fonte nuova può aprire un progetto distinto, ma il cambio di titolo o finanziatore non basta a provarlo."
+      },
+      {
+        "title": "La memoria appartiene al lavoro che deve continuare",
+        "body": "In chat conserva una nota recuperabile con fonti, comprensione e punto aperto; con accesso ai file usa la guida del responsabile. Le istruzioni non creano memoria persistente o strumenti mancanti. Un metodo reso disponibile, il suo esercizio e l’apprendimento in un altro caso sono fatti diversi. I dettagli privati di persone e candidature rimangono nel loro contesto autorizzato."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "L’archivio fotografico diventa un laboratorio fra generazioni",
+        "body": "Un’associazione conserva fotografie e sa ricostruire il contesto delle immagini. Prima di trovare un bando riconosce un lavoro possibile: un laboratorio in cui studenti e abitanti collegano immagini e memorie del quartiere. La prima condizione è accedere ai documenti delle famiglie e alle persone che possono interpretarli. Una biblioteca offre una sala e facilita gli incontri; emergono fonti discordanti e una nuova domanda sulla trasformazione degli spazi. Il progetto diventa ricerca condivisa oltre alla mostra iniziale. La guida conserva fonti, interpretazioni e accordi effettivi; il metodo impara a far partecipare più letture. Sala disponibile, permessi di riuso e finanziamento sono condizioni distinte. Il caso insegna a vedere il progetto dal patrimonio esistente e a lasciarlo cambiare quando arriva un nuovo mezzo."
+      },
+      {
+        "title": "Il sapere dei tecnici rende possibile un nuovo servizio",
+        "body": "Un piccolo gruppo ha acquisito un metodo per interpretare guasti e spiegare decisioni manutentive. Riconosce la possibilità di un servizio di affiancamento ad altri tecnici, prima di avere una commessa. Il lavoro richiede accesso a casi reali e collaborazione di chi possiede gli impianti. Un’impresa interessata rende possibile un primo incontro: dal confronto emerge che il problema più utile riguarda il passaggio di sapere fra turni. Il responsabile del dominio riforma il servizio; il gruppo migliora anche il proprio metodo di usare l’AI per conservare ragioni e fonti. Incontro, pilot concordato e risultato ottenuto restano stati diversi. Una futura proposta economica riguarda il lavoro determinato insieme, senza attribuire in anticipo una domanda a quell’impresa."
+      },
+      {
+        "title": "Un nuovo accesso riapre una domanda di laboratorio",
+        "body": "Un laboratorio ha sospeso un’idea perché lo strumento disponibile non permetteva di distinguere due spiegazioni. Conserva la domanda, il limite e la condizione di riapertura. Una collaborazione rende accessibile una nuova misura: il ricercatore comprende che ora può formulare un esperimento diverso, non solo ripetere più velocemente quello precedente. L’AI recupera il sapere pertinente e collega il nuovo progetto alla domanda originaria, mantenendo ipotesi e osservazioni distinguibili. Il sostegno richiesto può riguardare tempo di misura, analisi e collaborazione; costi e termini vengono qualificati con chi ne è responsabile. La disponibilità annunciata non è ancora un esperimento eseguito. Il caso insegna a conservare una possibilità senza congelarla nella sua prima forma."
+      }
+    ],
+    "depth": {
+      "title": "Il valore del metodo continua oltre il primo progetto",
+      "paragraphs": [
+        "Il progetto è una risultante possibile. Il sapere che permette di riconoscerne e formarne un altro è la capacità generativa trasferita. Una fonte o un incontro possono cambiare entrambi; il prossimo caso fornisce osservazioni proprie."
+      ]
+    },
+    "learning": [
+      "Conserva nelle guide esistenti le ragioni che cambiano il prossimo progetto, insieme alle fonti e al loro stato.",
+      "Fai partecipare il compreso alla scelta attuale. Le conseguenze logiche aprono possibilità; la situazione determina quale seguito è utile."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Porta l’avvio completo e descrivi sapere, lavoro esistente, idee sospese e mezzi disponibili."
+      },
+      {
+        "title": "In un progetto con file",
+        "body": "Rendi raggiungibili metodo, guida ed esempi e conserva il seguito presso il responsabile del lavoro."
+      },
+      {
+        "title": "Con un kernel esistente",
+        "body": "Componi questa capacità con competenze di dominio, continuità e risorse già presenti."
+      }
+    ],
+    "examples": [
+      "L’archivio fotografico diventa un laboratorio fra generazioni",
+      "Il sapere dei tecnici rende possibile un nuovo servizio",
+      "Un nuovo accesso riapre una domanda di laboratorio"
+    ],
+    "operating_guide": "skills/system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md"
+  },
+  "showcase": {
+    "type": "funding",
+    "it": {
+      "title": "L’archivio cambia progetto quando incontra nuove fonti",
+      "states": [
+        [
+          "Patrimonio",
+          "Dal sapere d’archivio nasce un laboratorio",
+          "La capacità di interpretare le immagini permette di riconoscere un progetto prima di trovare un finanziatore."
+        ],
+        [
+          "Nuovo mezzo",
+          "L’accesso alle famiglie cambia la domanda",
+          "Documenti e testimonianze fanno emergere una ricerca condivisa, oltre alla mostra iniziale."
+        ],
+        [
+          "Apprendimento",
+          "Il lavoro migliora il metodo di ricerca",
+          "Il confronto fra fonti insegna come formare il laboratorio successivo. Non simula un finanziamento ottenuto."
+        ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Sapere d’archivio",
+          "Laboratorio pubblico",
+          "Nuove fonti",
+          "Metodo ampliato"
+        ],
+        "relations": [
+          "rende possibile",
+          "incontra",
+          "cambiano il",
+          "riforma"
+        ],
+        "description": "Il sapere d’archivio rende possibile un laboratorio; nuove fonti cambiano il metodo che riforma il progetto.",
+        "reading": [
+          "Il sapere d’archivio rende possibile un laboratorio pubblico.",
+          "Nuove fonti trasformano domanda e metodo di ricerca.",
+          "Il metodo ampliato cambia il progetto e il lavoro successivo."
+        ]
+      }
+    },
+    "en": {
+      "title": "The archive changes its project when it meets new sources",
+      "states": [
+        [
+          "Knowledge",
+          "Archive knowledge makes a workshop possible",
+          "Interpreting images helps recognise a project before finding a funder."
+        ],
+        [
+          "New means",
+          "Family access changes the question",
+          "Documents and memories reveal shared research beyond the original exhibition."
+        ],
+        [
+          "Learning",
+          "The work improves the research method",
+          "Comparing sources teaches how to form the next workshop. It does not simulate an awarded grant."
+        ]
+      ],
+      "diagram": {
+        "nodes": [
+          "Archive knowledge",
+          "Public workshop",
+          "New sources",
+          "Enriched method"
+        ],
+        "relations": [
+          "enables",
+          "meets",
+          "change the",
+          "reforms"
+        ],
+        "description": "Archive knowledge enables a workshop; new sources change the method that reforms the project.",
+        "reading": [
+          "Archive knowledge enables a public workshop.",
+          "New sources transform the research question and method.",
+          "The enriched method changes this project and subsequent work."
+        ]
+      }
+    }
+  },
+  "related": [
+    "formare-progetti-da-richieste-finanziate",
+    "formare-fabbisogno-risorse",
+    "sviluppare-possibilita-progetto"
+  ],
+  "edition_note": {
+    "en": "First public edition of the method. Cases and exploration are illustrative; use and learning in your context require their own observations.",
+    "it": "Prima edizione pubblica del metodo. Casi ed esplorazione sono illustrativi; uso e apprendimento nel tuo contesto richiedono osservazioni proprie."
+  }
+}

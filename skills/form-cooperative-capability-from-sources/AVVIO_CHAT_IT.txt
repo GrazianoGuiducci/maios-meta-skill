@@ -1,3 +1,4 @@
+
 # Form Cooperative Capability from Sources
 
 Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali.
@@ -22,23 +23,32 @@ Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenz
 
 Comprendi ciò che le persone vogliono rendere possibile e quale sapere ne porta già la capacità. Recupera ragioni sorgenti, partecipanti, lavoro e mezzi prima di decidere per una piattaforma o gerarchia di agenti. Le relazioni emerse possono cambiare la domanda. Una forma realmente determinata dal campo resta acquisita.
 
+
 ## Formare la competenza che può continuare
 
 Quando il lavoro richiede una trasformazione ricorrente, dai al progetto un ingresso competente: sapere significativo, metodo decisionale, continuazione e apprendimento dalle conseguenze. Riusa o componi capacità esistenti. Il seme può essere già un risultato utile del progetto e non deve imitare un’applicazione predeterminata.
+
 
 ## Formare la cooperazione insieme alle sue condizioni
 
 Riconosci come i contributi possono incontrarsi conservando fonte e responsabilità. Una nuova capacità può cambiare la domanda condivisa senza ampliare implicitamente il mandato. Titolarità del sapere, ragioni recuperabili e coordinamento possono diventare parte della soluzione. Il caso ne determina la forma, oltre un protocollo universale.
 
+
 ## Incarnare attraverso i mezzi reali del destinatario
 
 Il risultato può essere una competenza, un kernel, un servizio o un’applicazione. Trasferisci il sapere e il metodo necessari al destinatario per operare e continuare. I soli rinvii a fonti private non lo consegnano. Componi il proprietario tecnico o scientifico per la costruzione e quello delle risorse per le condizioni abilitanti, con risultati distinti.
+
+
+## Distinguere sapere, azione richiesta, effetto applicato e osservazione
+
+Un partecipante può aver letto una fonte mentre un altro non l’ha ricevuta. Chiedere a uno strumento di agire non attesta che la modifica sia avvenuta; anche l’osservazione restituita ha un oggetto e limiti propri. Queste differenze cambiano il contributo successivo. Se la rilettura termina con un timeout, conserva l’incertezza sull’oggetto e raggiungi il mezzo o il responsabile che può osservarlo. Il lavoro indipendente prosegue senza attribuire ad altri sapere, decisioni o poteri non osservati.
+
 
 ## Lasciare che il lavoro evolva il generatore
 
 Quando una conseguenza cambia come formare cooperazione, restituisci la differenza riusabile a questo metodo e alla competenza di dominio pertinente. Conserva evento e comprensione mutata. Un altro caso beneficia dell’apprendimento e resta libero di produrre una forma diversa. Quando la capacità basta, esercitala senza aggiungere altri involucri.
 
-## Continuare nel progetto
+## Continuare attraverso il progetto reale
 
 Conserva nel progetto il suo sapere specifico; mantieni qui quello riusabile sulla formazione.
 
@@ -46,52 +56,81 @@ Una nuova risultante può cambiare partecipanti, domanda, mezzo o metodo conserv
 
 ## Sapere operativo
 
-Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Componi i metodi pertinenti del tuo ambiente; strumenti, persistenza e autorità restano quelli realmente disponibili.
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
 
-# Form Cooperative Capability from Sources — sapere operativo
+
+# Form Cooperative Capability from Sources — sapere operativo pratico
 
 ## Un seme è una sorgente di lavoro
 
 Il seme conserva perché conta la trasformazione, sapere abilitante, metodo per scegliere e costruire e continuazione aperta. Può essere una piccola facoltà leggibile del progetto. Forma dei file e architettura seguono il destinatario reale. Il seme inizializza una capacità; software consegnato, autonomia attiva e cooperazione osservata sono risultati ulteriori.
 
+
 ## Il sapere complementare resta distinto
 
 La specializzazione di dominio comprende il proprio oggetto; la competenza di progetto conserva ragioni comuni; il coordinamento porta il contributo successivo; il sapere economico gestisce risorse e accordi. La relazione può cambiare. Vocabolario comune non fonde gli responsabili; copie concordanti dello stesso racconto non sono riscontri indipendenti. Il nuovo sapere raggiunge chi deve scegliere diversamente.
+
 
 ## Raggiungere il sapere che può formare cooperazione
 
 Leggi ciò che ogni partecipante porta, perché conta e cosa resta incerto. Risali dalle interpretazioni divergenti alle condizioni sorgenti che le rendono diverse. Le fonti possono cambiare la domanda comune prima di scegliere piattaforma o risultato da consegnare. Un rifiuto conserva un limite reale della partecipazione o apre un’alternativa utile. Comprendere insieme non richiede che tutti adottino una sola versione.
 
+
 ## Riutilizzare una capacità prima di duplicarla
 
 Confronta i metodi presenti per funzione, responsabile e scelte concrete, comprese le guide. Se il sapere esiste ma non viene raggiunto, ripara l’ingresso. Approfondisci il metodo esistente quando manca il sapere pratico. Forma una competenza di progetto quando il lavoro richiede una capacità e una continuazione distinte. Uno strumento di coordinamento realizza un passaggio effettivo; non possiede la domanda scientifica né subordina i partecipanti.
+
 
 ## Distinguere contributo e autorità nello stesso lavoro
 
 Un assistente confronta i materiali forniti e prepara una domanda comune senza per questo poter contattare un partecipante, trasferirne i dati o agire nel suo account. Conserva fonte e mandato dei contributi. Il controller reale governa l’azione esterna precisa quando emerge. Senza agenti o accesso ai file, usa il metodo nella conversazione presente e restituisci la continuazione utile a chi può conservarla.
 
+
 ## Restituire l’apprendimento al progetto e al generatore
 
 Fatti sperimentali, decisioni dei partecipanti e indagine aperta restano nel progetto di ricerca. Se l’evento insegna a riconoscere una divergenza produttiva, migliora anche questo metodo: nel lavoro successivo comprende quali condizioni differiscono prima di imporre una sintesi. Un altro caso può affinare questa distinzione. Conservare la modifica e usarla successivamente sono osservazioni diverse.
+
+
+## Seguire ciò che ha effettivamente raggiunto i partecipanti
+
+Per un contributo che cambia il lavoro comune, comprendi quale fonte e revisione il ricevente poteva leggere e che cosa dimostra davvero la sua risposta. Una cartella condivisa o una richiesta inviata non attestano che tutte le persone e AI abbiano ricevuto e usato lo stesso sapere. Conserva la ragione del contributo e rendila raggiungibile nell’ingresso reale del destinatario. Distingui una decisione esplicita dalla ricostruzione dell’assistente. Una ricezione ignota rimane tale: recupera il rapporto mancante quando cambia il lavoro, senza aggiungere ricevute obbligatorie a ogni scambio.
+
+
+## Un limite dell’osservazione può cambiare il prossimo atto
+
+Richiesta di comando, modifica applicata e osservazione restituita al gruppo sono eventi differenti. Un timeout del browser attesta un limite di quella osservazione; da solo non mostra il contenuto della pagina né se una scrittura precedente sia riuscita. Raggiungi il record autorevole o il partecipante che può ispezionarlo prima di ripetere un’azione che potrebbe duplicare un effetto. Le altre fonti già disponibili possono sostenere lavoro indipendente. Riferisci la portata realmente osservata e restituisci l’apprendimento utile al partecipante o al metodo che dovrà continuare diversamente, senza un nuovo supervisore.
 
 ## Il generatore impara da un’altra cooperazione
 
 Un altro progetto può mostrare che è incompleto il modo stesso di formare la capacità. Evolvere quel metodo migliora la sorgente delle cooperazioni future insieme al progetto pratico.
 
+
 # Esempi sviluppati
 
-Casi illustrativi: insegnano condizioni, scelte e continuazione; non sono risultati osservati presso clienti.
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
 
 ## Un gruppo di ricerca conserva le diverse voci
 
 Più ricercatori usano assistenti separati per sviluppare una ricerca comune. Un chatbot condiviso deciso subito nasconderebbe l’origine di tesi e domande. Forma anzitutto una competenza che recupera le fonti dei contributi, collega le domande compatibili e conserva le differenze aperte. Gli assistenti partecipano attraverso i documenti effettivamente condivisi. Il gruppo potrà scegliere un’interfaccia comune; il primo risultato utile è saper continuare l’indagine senza appiattire le posizioni. Due gruppi portano osservazioni sperimentali e modelli. Un’osservazione nuova cambia la lettura precedente: il progetto conserva le interpretazioni attribuite e forma la capacità di chiedere quali condizioni le differenziano. La divergenza apre una domanda migliore. Il progetto conserva il fatto sperimentale; il generatore impara a riconoscere una differenza produttiva prima di forzare la sintesi. Il lavoro successivo può così cambiare domanda e partecipanti senza imporre una piattaforma o un’autorità centrale.
 
+
 ## Il sapere di manutenzione diventa capacità cooperativa
 
 Tecnici e progettisti si scambiano rapporti di guasto incompleti. Prima di partire da un sistema ticket, comprendi quali osservazioni cambiano diagnosi, progetto e conduzione. Forma la capacità che riconosce i collegamenti e restituisce le differenze ai partecipanti pertinenti. Un evento manutentivo può insegnare un criterio progettuale mentre la riparazione resta al proprio responsabile. Il primo artefatto può essere una guida di progetto; un servizio o un’applicazione successivi incarneranno quel metodo.
+
 
 ## Volontari e assistenti preparano una rassegna culturale
 
 Un’associazione prepara una rassegna con scuole, artisti e volontari. I contributi arrivano in documenti diversi e alcune proposte restano incompatibili. Forma il sapere con cui il gruppo collega esigenze, risorse e ragioni delle scelte, conservando autori e questioni aperte. Un metodo condiviso o un kernel di progetto può far continuare quel sapere tra un incontro e l’altro. Programma, spazio collaborativo o applicazione emergono dalle necessità effettive della rassegna.
 
-Incarico e contesto: aggiungi ciò che vuoi rendere possibile, fonti, lavoro precedente, mezzi e responsabili reali. Conserva la continuazione nel progetto o restituiscila alla persona quando non puoi salvarla.
+
+## Due biblioteche proseguono dopo un aggiornamento dall’esito incerto
+
+Due biblioteche preparano una mostra con i propri assistenti. Una bibliotecaria porta una condizione di prestito rivista: il primo assistente la legge, mentre il secondo conserva ancora la nota precedente. Il gruppo ha affidato al primo la modifica di un solo record condiviso. Il browser richiede la scrittura e poi termina con un timeout durante la rilettura del risultato.
+
+Il gruppo conserva quattro fatti distinti: la condizione rivista ha raggiunto un assistente; la scrittura è stata richiesta; lo stato risultante del record non è ancora osservato; il timeout è osservato. Non conclude che il secondo assistente conosca la revisione o che la scrittura sia fallita. La bibliotecaria che può raggiungere il record autorevole ne verifica il contenuto prima di ripetere il gesto. Nel frattempo l’altro assistente può confrontare le descrizioni della mostra già fornite, mantenendo aperta la condizione di prestito.
+
+Se il record contiene la revisione, il gruppo collega quella versione osservata e la sua ragione alla guida di lavoro della seconda biblioteca. Se non la contiene, il responsabile sceglie la correzione effettiva nel mandato esistente. Il metodo cooperativo impara a distinguere ricezione, richiesta, effetto e rilettura nel punto in cui confonderli cambierebbe una scelta. Il caso è illustrativo: non dichiara un servizio multiagente installato o un nuovo controller.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

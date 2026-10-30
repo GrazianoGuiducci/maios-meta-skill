@@ -182,6 +182,17 @@
 
 **Useful attention:** A useful result, choice or difference changing the service.
 
+
+## 19. Preserve a museum's weekly digest activity during an instruction change
+
+**Situation:** A museum's activity prepares a weekly internal digest from its event archive. Staff entrust a source-selection improvement; the delivery day and internal recipient stay the same. They would like a particular model, but the controller does not expose model selection. The museum already has a private versioned operations archive.
+
+**Work and choice:** Read the editorial competence and museum guide while forming the new selection method. Read the actual job and capture its entire installed prompt, ID, trigger, timezone, recipient association and enabled state. Preserve that complete pre-change version, then apply the entrusted instruction change and read back the result. Save the full post-change version privately and update the recovery index. Retain the model request as an unconfigured preference. The public method contains none of the museum's recipient details or private prompt.
+
+**A changed condition:** If another editor changes the job between capture and readback, keep both observations and reconcile the current controller instead of restoring the first copy over that contribution. If private archive access fails after the job has changed, mark backup pending with the exact observed version and destination. An authorized receiver can finish from a fresh read; it cannot claim an earlier capture it never made.
+
+**Continuation:** The next weekly digest uses the revised method through the actual job. If staff later select recovery, compare the saved instructions with current intent and messages already delivered before restoring anything. A deliberately paused activity stays paused until a corresponding action is entrusted. The copies establish recoverability of the observed configurations; they do not prove a digest was produced or delivered. The case is illustrative and applies equally to other domains and controllers.
+
 ## Adapt the method
 
 Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with your actual context. Keep the source, intended contribution, decision reasons and available means connected. Preserve useful learning in the guide the project actually uses; a later different case can show whether the correction participates.

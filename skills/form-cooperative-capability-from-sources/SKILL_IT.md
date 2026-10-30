@@ -1,6 +1,9 @@
 ---
 name: form-cooperative-capability-from-sources
-description: Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali. Quando una collaborazione umani–AI deve sviluppare le proprie capacità prima di scegliere piattaforma, protocollo o applicazione.
+description: "Forma ed evolve la competenza di progetto che genera cooperazione da conoscenza sorgente, intento e partecipanti reali. Quando una collaborazione umani–AI deve sviluppare le proprie capacità prima di scegliere piattaforma, protocollo o applicazione."
+metadata:
+  version: 0.1.4
+  language: it
 ---
 
 # Form Cooperative Capability from Sources
@@ -27,23 +30,32 @@ Parti dall’intento condiviso, dai materiali dei partecipanti e dalle differenz
 
 Comprendi ciò che le persone vogliono rendere possibile e quale sapere ne porta già la capacità. Recupera ragioni sorgenti, partecipanti, lavoro e mezzi prima di decidere per una piattaforma o gerarchia di agenti. Le relazioni emerse possono cambiare la domanda. Una forma realmente determinata dal campo resta acquisita.
 
+
 ## Formare la competenza che può continuare
 
 Quando il lavoro richiede una trasformazione ricorrente, dai al progetto un ingresso competente: sapere significativo, metodo decisionale, continuazione e apprendimento dalle conseguenze. Riusa o componi capacità esistenti. Il seme può essere già un risultato utile del progetto e non deve imitare un’applicazione predeterminata.
+
 
 ## Formare la cooperazione insieme alle sue condizioni
 
 Riconosci come i contributi possono incontrarsi conservando fonte e responsabilità. Una nuova capacità può cambiare la domanda condivisa senza ampliare implicitamente il mandato. Titolarità del sapere, ragioni recuperabili e coordinamento possono diventare parte della soluzione. Il caso ne determina la forma, oltre un protocollo universale.
 
+
 ## Incarnare attraverso i mezzi reali del destinatario
 
 Il risultato può essere una competenza, un kernel, un servizio o un’applicazione. Trasferisci il sapere e il metodo necessari al destinatario per operare e continuare. I soli rinvii a fonti private non lo consegnano. Componi il proprietario tecnico o scientifico per la costruzione e quello delle risorse per le condizioni abilitanti, con risultati distinti.
+
+
+## Distinguere sapere, azione richiesta, effetto applicato e osservazione
+
+Un partecipante può aver letto una fonte mentre un altro non l’ha ricevuta. Chiedere a uno strumento di agire non attesta che la modifica sia avvenuta; anche l’osservazione restituita ha un oggetto e limiti propri. Queste differenze cambiano il contributo successivo. Se la rilettura termina con un timeout, conserva l’incertezza sull’oggetto e raggiungi il mezzo o il responsabile che può osservarlo. Il lavoro indipendente prosegue senza attribuire ad altri sapere, decisioni o poteri non osservati.
+
 
 ## Lasciare che il lavoro evolva il generatore
 
 Quando una conseguenza cambia come formare cooperazione, restituisci la differenza riusabile a questo metodo e alla competenza di dominio pertinente. Conserva evento e comprensione mutata. Un altro caso beneficia dell’apprendimento e resta libero di produrre una forma diversa. Quando la capacità basta, esercitala senza aggiungere altri involucri.
 
-## Continuare nel progetto
+## Continuare attraverso il progetto reale
 
 Conserva nel progetto il suo sapere specifico; mantieni qui quello riusabile sulla formazione.
 
@@ -51,4 +63,4 @@ Una nuova risultante può cambiare partecipanti, domanda, mezzo o metodo conserv
 
 ## Sapere operativo
 
-Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Componi i metodi pertinenti del tuo ambiente; strumenti, persistenza e autorità restano quelli realmente disponibili.
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

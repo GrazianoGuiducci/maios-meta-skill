@@ -33,6 +33,10 @@
         "body": "A useful result may be a project competence, a kernel, a service or an application. Transfer the knowledge and method the recipient needs to operate and continue it. Private source links alone do not provide that knowledge. Compose the technical or scientific owner for real construction and the resource owner for enabling conditions; their results keep their own identity."
       },
       {
+        "title": "Keep knowledge, requested action, applied effect and observation distinct",
+        "body": "A participant may have read a source while another has not received it. Asking a tool to act does not establish that the change occurred, and a returned observation has its own object and limits. Let those differences change the next contribution. If a readback times out, preserve the uncertainty about the object and use the means or responsible participant that can observe it. Continue independent work without attributing unobserved knowledge, decisions or powers to another participant."
+      },
+      {
         "title": "Let the work evolve the generator",
         "body": "When a consequence changes how cooperation can be formed, return the reusable difference to this generative method and the relevant domain competence. Preserve the event and the understanding it changed. A further case should benefit from that learning while remaining free to produce another form. Stop generating new wrappers when an existing capability is sufficient to act."
       }
@@ -61,6 +65,14 @@
       {
         "title": "Return learning to the project and to its generator",
         "body": "Keep experimental facts, participants’ decisions and the open inquiry with the research project. If the event teaches how to recognize a productive disagreement, improve this cooperation-formation method too: next time it asks which conditions differ before enforcing a synthesis. A different later case can refine that discrimination. The record of a change and its later use are different observations."
+      },
+      {
+        "title": "Follow what actually reached each participant",
+        "body": "For a contribution that changes shared work, understand which source and revision the recipient could read and what its response actually demonstrates. A shared folder or sent request does not show that every person or assistant received and used the same knowledge. Preserve the reason the contribution matters and make it reachable at the recipient’s real entry. Distinguish an explicit decision from an assistant’s reconstruction. Keep unknown reception unknown; seek the missing relationship when it changes the work rather than adding a permanent receipt process for every exchange."
+      },
+      {
+        "title": "An observation limit can change the next act",
+        "body": "A command request, an applied change and an observation returned to the group are different events. A browser timeout establishes a limit of that observation; by itself it neither shows the page’s contents nor whether a preceding write succeeded. Reach the authoritative record or the participant able to inspect it before repeating a potentially duplicating action. Other supplied sources can still support independent work. Report the scope actually observed and return useful learning to the participant or method that should continue differently; no new supervisor is required."
       }
     ],
     "worked_examples": [
@@ -75,6 +87,10 @@
       {
         "title": "Volunteers and assistants prepare a cultural programme",
         "body": "An association prepares a programme with schools, artists and volunteers. Contributions arrive in different documents and some proposals remain incompatible. Form the knowledge through which the group connects needs, resources and decision reasons, preserving authors and open questions. A shared method or project kernel can carry that knowledge between meetings. A programme, collaborative space or application emerges from the actual needs of the initiative."
+      },
+      {
+        "title": "Two libraries continue after an uncertain shared-note update",
+        "body": "Two libraries prepare an exhibition with their own assistants. One librarian supplies a revised lending condition; the first assistant reads it, while the second still has the earlier note. The group has entrusted the first assistant to update one shared record. Its browser requests the write, then times out while reading the result.\n\nThe group preserves four different facts: the revised condition reached one assistant; a write was requested; the record’s resulting state is not yet observed; the timeout is observed. It does not conclude that the second assistant knows the revision or that the write failed. The librarian who can reach the authoritative record checks its current contents before any repeat. Meanwhile the other assistant can compare the exhibition descriptions already supplied, keeping the lending condition open.\n\nIf the record contains the revision, the group connects that observed version and its reason to the second library’s working guide. If it does not, the responsible participant chooses the actual correction within the existing mandate. The cooperation method learns to distinguish reception, request, effect and readback at the point where confusion would change a choice. This illustrative case does not claim a deployed multi-agent service or a new controller."
       }
     ],
     "depth": {
@@ -170,6 +186,10 @@
         "body": "Il risultato può essere una competenza, un kernel, un servizio o un’applicazione. Trasferisci il sapere e il metodo necessari al destinatario per operare e continuare. I soli rinvii a fonti private non lo consegnano. Componi il proprietario tecnico o scientifico per la costruzione e quello delle risorse per le condizioni abilitanti, con risultati distinti."
       },
       {
+        "title": "Distinguere sapere, azione richiesta, effetto applicato e osservazione",
+        "body": "Un partecipante può aver letto una fonte mentre un altro non l’ha ricevuta. Chiedere a uno strumento di agire non attesta che la modifica sia avvenuta; anche l’osservazione restituita ha un oggetto e limiti propri. Queste differenze cambiano il contributo successivo. Se la rilettura termina con un timeout, conserva l’incertezza sull’oggetto e raggiungi il mezzo o il responsabile che può osservarlo. Il lavoro indipendente prosegue senza attribuire ad altri sapere, decisioni o poteri non osservati."
+      },
+      {
         "title": "Lasciare che il lavoro evolva il generatore",
         "body": "Quando una conseguenza cambia come formare cooperazione, restituisci la differenza riusabile a questo metodo e alla competenza di dominio pertinente. Conserva evento e comprensione mutata. Un altro caso beneficia dell’apprendimento e resta libero di produrre una forma diversa. Quando la capacità basta, esercitala senza aggiungere altri involucri."
       }
@@ -198,6 +218,14 @@
       {
         "title": "Restituire l’apprendimento al progetto e al generatore",
         "body": "Fatti sperimentali, decisioni dei partecipanti e indagine aperta restano nel progetto di ricerca. Se l’evento insegna a riconoscere una divergenza produttiva, migliora anche questo metodo: nel lavoro successivo comprende quali condizioni differiscono prima di imporre una sintesi. Un altro caso può affinare questa distinzione. Conservare la modifica e usarla successivamente sono osservazioni diverse."
+      },
+      {
+        "title": "Seguire ciò che ha effettivamente raggiunto i partecipanti",
+        "body": "Per un contributo che cambia il lavoro comune, comprendi quale fonte e revisione il ricevente poteva leggere e che cosa dimostra davvero la sua risposta. Una cartella condivisa o una richiesta inviata non attestano che tutte le persone e AI abbiano ricevuto e usato lo stesso sapere. Conserva la ragione del contributo e rendila raggiungibile nell’ingresso reale del destinatario. Distingui una decisione esplicita dalla ricostruzione dell’assistente. Una ricezione ignota rimane tale: recupera il rapporto mancante quando cambia il lavoro, senza aggiungere ricevute obbligatorie a ogni scambio."
+      },
+      {
+        "title": "Un limite dell’osservazione può cambiare il prossimo atto",
+        "body": "Richiesta di comando, modifica applicata e osservazione restituita al gruppo sono eventi differenti. Un timeout del browser attesta un limite di quella osservazione; da solo non mostra il contenuto della pagina né se una scrittura precedente sia riuscita. Raggiungi il record autorevole o il partecipante che può ispezionarlo prima di ripetere un’azione che potrebbe duplicare un effetto. Le altre fonti già disponibili possono sostenere lavoro indipendente. Riferisci la portata realmente osservata e restituisci l’apprendimento utile al partecipante o al metodo che dovrà continuare diversamente, senza un nuovo supervisore."
       }
     ],
     "worked_examples": [
@@ -212,6 +240,10 @@
       {
         "title": "Volontari e assistenti preparano una rassegna culturale",
         "body": "Un’associazione prepara una rassegna con scuole, artisti e volontari. I contributi arrivano in documenti diversi e alcune proposte restano incompatibili. Forma il sapere con cui il gruppo collega esigenze, risorse e ragioni delle scelte, conservando autori e questioni aperte. Un metodo condiviso o un kernel di progetto può far continuare quel sapere tra un incontro e l’altro. Programma, spazio collaborativo o applicazione emergono dalle necessità effettive della rassegna."
+      },
+      {
+        "title": "Due biblioteche proseguono dopo un aggiornamento dall’esito incerto",
+        "body": "Due biblioteche preparano una mostra con i propri assistenti. Una bibliotecaria porta una condizione di prestito rivista: il primo assistente la legge, mentre il secondo conserva ancora la nota precedente. Il gruppo ha affidato al primo la modifica di un solo record condiviso. Il browser richiede la scrittura e poi termina con un timeout durante la rilettura del risultato.\n\nIl gruppo conserva quattro fatti distinti: la condizione rivista ha raggiunto un assistente; la scrittura è stata richiesta; lo stato risultante del record non è ancora osservato; il timeout è osservato. Non conclude che il secondo assistente conosca la revisione o che la scrittura sia fallita. La bibliotecaria che può raggiungere il record autorevole ne verifica il contenuto prima di ripetere il gesto. Nel frattempo l’altro assistente può confrontare le descrizioni della mostra già fornite, mantenendo aperta la condizione di prestito.\n\nSe il record contiene la revisione, il gruppo collega quella versione osservata e la sua ragione alla guida di lavoro della seconda biblioteca. Se non la contiene, il responsabile sceglie la correzione effettiva nel mandato esistente. Il metodo cooperativo impara a distinguere ricezione, richiesta, effetto e rilettura nel punto in cui confonderli cambierebbe una scelta. Il caso è illustrativo: non dichiara un servizio multiagente installato o un nuovo controller."
       }
     ],
     "depth": {

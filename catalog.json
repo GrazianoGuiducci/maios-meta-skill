@@ -6,7 +6,7 @@
     {
       "id": "meta-activity",
       "name": "Meta-Activity",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "skill": "skills/meta-activity/SKILL.md",
@@ -15,7 +15,7 @@
       "examples": "skills/meta-activity/EXAMPLES.md",
       "presentation": "skills/meta-activity/presentation.json",
       "contexts": "skills/meta-activity/contexts.json",
-      "package": "dist/meta-activity-0.3.2.zip",
+      "package": "dist/meta-activity-0.3.3.zip",
       "it": {
         "route": "/risorse/meta-activity/",
         "title": "Creare e far evolvere attività AI dal contesto del proprio lavoro.",
@@ -30,7 +30,7 @@
           "Gestisce campagne social e caselle email."
         ],
         "format": "Competenza · guida · avvio in chat · esempi",
-        "status": "Edizione pubblica · 0.3.2"
+        "status": "Edizione pubblica · 0.3.3"
       },
       "en": {
         "route": "/resources/meta-activity/",
@@ -46,7 +46,7 @@
           "Manages social campaigns and email inboxes."
         ],
         "format": "Competence · guide · complete chat starter · examples in English and Italian",
-        "status": "Public edition · 0.3.2"
+        "status": "Public edition · 0.3.3"
       },
       "review_id": "00",
       "native_entry": "meta-activity",
@@ -546,7 +546,7 @@
     {
       "id": "formare-risorse-pubbliche",
       "name": "Form Public Meta-Skill Resources",
-      "version": "0.3.4",
+      "version": "0.3.5",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "08",
@@ -555,7 +555,7 @@
       "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
       "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
       "presentation": "skills/form-public-metaskill-resources/presentation.json",
-      "package": "dist/form-public-metaskill-resources-0.3.4.zip",
+      "package": "dist/form-public-metaskill-resources-0.3.5.zip",
       "it": {
         "route": "/risorse/formare-risorse-pubbliche/",
         "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -569,7 +569,7 @@
           "Prepara scheda e pagina di una risorsa open source.",
           "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
         ],
-        "status": "Edizione pubblica · 0.3.4"
+        "status": "Edizione pubblica · 0.3.5"
       },
       "en": {
         "route": "/resources/formare-risorse-pubbliche/",
@@ -584,7 +584,7 @@
           "Prepare a card and dedicated page for an open-source resource.",
           "Derive an article and social adaptations from the same resource version."
         ],
-        "status": "Public edition · 0.3.4"
+        "status": "Public edition · 0.3.5"
       },
       "native_entry": "form-public-metaskill-resources",
       "default_language": "en",
@@ -2388,7 +2388,7 @@
     {
       "id": "formare-capacita-cooperative",
       "name": "Form Cooperative Capability from Sources",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "35",
@@ -2422,7 +2422,7 @@
       "starter": "skills/form-cooperative-capability-from-sources/START_CHAT_EN.txt",
       "examples": "skills/form-cooperative-capability-from-sources/EXAMPLES.md",
       "presentation": "skills/form-cooperative-capability-from-sources/presentation.json",
-      "package": "dist/form-cooperative-capability-from-sources-0.1.3.zip",
+      "package": "dist/form-cooperative-capability-from-sources-0.1.4.zip",
       "en": {
         "title": "Form cooperative capabilities across people and AI systems",
         "subtitle": "Participants’ sources and intent form the knowledge for working together and evolving the method.",
@@ -2436,7 +2436,8 @@
           "Volunteers and assistants prepare a cultural programme"
         ],
         "route": "/resources/formare-capacita-cooperative/",
-        "description": "Participants’ sources and intent form the knowledge for working together and evolving the method."
+        "description": "Participants’ sources and intent form the knowledge for working together and evolving the method.",
+        "status": "Public edition · 0.1.4"
       },
       "it": {
         "title": "Formare capacità cooperative fra persone e sistemi AI",
@@ -2451,7 +2452,8 @@
           "Volontari e assistenti preparano una rassegna culturale"
         ],
         "route": "/risorse/formare-capacita-cooperative/",
-        "description": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo."
+        "description": "Dalle fonti e dagli intenti dei partecipanti nasce il sapere per lavorare insieme e far evolvere il metodo.",
+        "status": "Edizione pubblica · 0.1.4"
       }
     },
     {
@@ -2869,6 +2871,147 @@
         "route": "/risorse/comporre-montaggio-cinematografico/",
         "description": "Scegli ordine, durata e raccordi attraverso ciò che la sequenza fa scoprire allo spettatore."
       }
+    },
+    {
+      "id": "progetti-dalle-capacita-del-sistema",
+      "name": "System Fundable Project Extraction",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "42",
+      "native_entry": "system-fundable-project-extraction",
+      "skill_name": "system-fundable-project-extraction",
+      "source_title": "System Fundable Project Extraction — estrarre progetti dal sistema",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "languages": {
+        "en": {
+          "skill": "skills/system-fundable-project-extraction/SKILL.md",
+          "guide": "skills/system-fundable-project-extraction/README.md",
+          "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
+          "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
+          "operating_guide": "skills/system-fundable-project-extraction/OPERATING_GUIDE.md",
+          "installation": "skills/system-fundable-project-extraction/INSTALL.md",
+          "runtime_sources": []
+        },
+        "it": {
+          "skill": "skills/system-fundable-project-extraction/SKILL_IT.md",
+          "guide": "skills/system-fundable-project-extraction/README_IT.md",
+          "starter": "skills/system-fundable-project-extraction/AVVIO_CHAT_IT.txt",
+          "examples": "skills/system-fundable-project-extraction/ESEMPI_IT.md",
+          "operating_guide": "skills/system-fundable-project-extraction/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/system-fundable-project-extraction/INSTALL_IT.md",
+          "runtime_sources": []
+        }
+      },
+      "en": {
+        "title": "Find projects in the capabilities you already have",
+        "subtitle": "Recognise work worth developing, recover paused ideas and understand which resources could make them possible.",
+        "kind": "Generative metacompetence",
+        "domain": "Projects and enabling resources",
+        "does": "Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found.",
+        "when": "When you want to understand what your existing know-how could enable, or a new resource makes a paused idea possible again.",
+        "examples": [
+          "A photographic archive becomes a workshop across generations",
+          "Technicians’ knowledge makes a new service possible",
+          "New access reopens a laboratory question"
+        ],
+        "route": "/resources/progetti-dalle-capacita-del-sistema/",
+        "description": "Recognise work worth developing, recover paused ideas and understand which resources could make them possible."
+      },
+      "it": {
+        "title": "Far emergere progetti dalle capacità già presenti",
+        "subtitle": "Riconoscere lavori da sviluppare, recuperare idee sospese e capire quali risorse possono renderli possibili.",
+        "kind": "Metacompetenza generativa",
+        "domain": "Progetti e risorse abilitanti",
+        "does": "Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore.",
+        "when": "Quando vuoi capire che cosa potresti sviluppare con ciò che sai già fare, oppure un nuovo mezzo rende possibile riprendere un’idea.",
+        "examples": [
+          "L’archivio fotografico diventa un laboratorio fra generazioni",
+          "Il sapere dei tecnici rende possibile un nuovo servizio",
+          "Un nuovo accesso riapre una domanda di laboratorio"
+        ],
+        "route": "/risorse/progetti-dalle-capacita-del-sistema/",
+        "description": "Riconoscere lavori da sviluppare, recuperare idee sospese e capire quali risorse possono renderli possibili."
+      },
+      "skill": "skills/system-fundable-project-extraction/SKILL.md",
+      "guide": "skills/system-fundable-project-extraction/README.md",
+      "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
+      "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
+      "presentation": "skills/system-fundable-project-extraction/presentation.json",
+      "package": "dist/system-fundable-project-extraction-0.1.0.zip"
+    },
+    {
+      "id": "collegare-competenze-al-lavoro",
+      "name": "Meta-Focus",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "43",
+      "native_entry": "meta-focus",
+      "skill_name": "meta-focus",
+      "source_title": "Meta-Focus — il campo operativo che nasce con il lavoro",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "maturity": "method_in_formation",
+      "languages": {
+        "en": {
+          "skill": "skills/meta-focus/SKILL.md",
+          "guide": "skills/meta-focus/README.md",
+          "starter": "skills/meta-focus/START_CHAT_EN.txt",
+          "examples": "skills/meta-focus/EXAMPLES.md",
+          "operating_guide": "skills/meta-focus/OPERATING_GUIDE.md",
+          "installation": "skills/meta-focus/INSTALL.md",
+          "runtime_sources": []
+        },
+        "it": {
+          "skill": "skills/meta-focus/SKILL_IT.md",
+          "guide": "skills/meta-focus/README_IT.md",
+          "starter": "skills/meta-focus/AVVIO_CHAT_IT.txt",
+          "examples": "skills/meta-focus/ESEMPI_IT.md",
+          "operating_guide": "skills/meta-focus/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/meta-focus/INSTALL_IT.md",
+          "runtime_sources": []
+        }
+      },
+      "en": {
+        "title": "Connect competences, people and tools to the work you are starting",
+        "subtitle": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
+        "kind": "Metacompetence",
+        "domain": "Operating focus and collaboration",
+        "does": "Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution.",
+        "when": "When starting or resuming a project with scattered references, several specialisms, or people and AI working on shared material.",
+        "examples": [
+          "A new room recomposes the exhibition’s work",
+          "Two assistants change different contributions to one manual",
+          "Resume an experiment when the available instrument changes"
+        ],
+        "route": "/resources/collegare-competenze-al-lavoro/",
+        "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
+        "status": "Method in formation · 0.1.0"
+      },
+      "it": {
+        "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
+        "subtitle": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
+        "kind": "Metacompetenza",
+        "domain": "Focus operativo e collaborazione",
+        "does": "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile.",
+        "when": "Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio.",
+        "examples": [
+          "Una nuova sala ricompone il lavoro della mostra",
+          "Due assistenti modificano contributi diversi allo stesso manuale",
+          "Riprendere un esperimento quando cambia lo strumento disponibile"
+        ],
+        "route": "/risorse/collegare-competenze-al-lavoro/",
+        "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
+        "status": "Metodo in formazione · 0.1.0"
+      },
+      "skill": "skills/meta-focus/SKILL.md",
+      "guide": "skills/meta-focus/README.md",
+      "starter": "skills/meta-focus/START_CHAT_EN.txt",
+      "examples": "skills/meta-focus/EXAMPLES.md",
+      "presentation": "skills/meta-focus/presentation.json",
+      "package": "dist/meta-focus-0.1.0.zip"
     }
   ],
   "primary_language": "en",

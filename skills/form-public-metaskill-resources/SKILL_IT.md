@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.4
+  version: 0.3.5
   language: it
 ---
 
@@ -65,6 +65,11 @@ La relazione autologica compare quando una difficoltà del destinatario corregge
 ## Seguire la capacità fino a ciò che il destinatario riceve davvero
 
 Segui ogni funzione materiale dal sapere sorgente all’ingresso operativo consumato dal destinatario: kit, avvio, pagina o contesto dell’assistente. Conserva decisioni, ragioni, strumenti forniti e adattamenti locali. Se un assistente usa uno snapshot separato del sapere, la sola pagina aggiornata lascia invariato quel passaggio. Correggi la prima trasformazione responsabile e i suoi dipendenti effettivi. Ogni osservazione resta legata all’edizione esercitata, mentre l’apprendimento riusabile ritorna al metodo di formazione.
+
+
+## Rendere percepibile la maturità del metodo nel primo incontro reale
+
+L’edizione dei file identifica una distribuzione; la fonte stabilisce la maturità del metodo e la portata delle prove. Conserva questa distinzione dove cambia l’adozione. Segui l’informazione fino al campo realmente consumato dalla pagina o dall’interfaccia del ricevente, oltre che nel metodo, nella guida e nell’avvio. Uno stato nel catalogo può non alimentare l’introduzione visibile. Osserva il primo incontro generato e correggi la proiezione responsabile, conservando la capacità disponibile e la sua profondità utile.
 
 ## Continuare attraverso il progetto reale
 

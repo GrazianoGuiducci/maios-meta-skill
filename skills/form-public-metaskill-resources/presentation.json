@@ -39,6 +39,10 @@
       {
         "title": "Seguire la capacità fino a ciò che il destinatario riceve davvero",
         "body": "Segui ogni funzione materiale dal sapere sorgente all’ingresso operativo consumato dal destinatario: kit, avvio, pagina o contesto dell’assistente. Conserva decisioni, ragioni, strumenti forniti e adattamenti locali. Se un assistente usa uno snapshot separato del sapere, la sola pagina aggiornata lascia invariato quel passaggio. Correggi la prima trasformazione responsabile e i suoi dipendenti effettivi. Ogni osservazione resta legata all’edizione esercitata, mentre l’apprendimento riusabile ritorna al metodo di formazione."
+      },
+      {
+        "title": "Rendere percepibile la maturità del metodo nel primo incontro reale",
+        "body": "Distingui la versione della distribuzione dalla maturità effettiva del metodo. Porta lo stato qualificato dalla fonte nell’introduzione realmente incontrata dal ricevente, senza nascondere il metodo utilizzabile o presentare un primo caso come prova universale."
       }
     ],
     "depth": {
@@ -101,6 +105,10 @@
       {
         "title": "Seguire la capacità fino a ciò che il destinatario riceve davvero",
         "body": "Segui ogni funzione materiale dal sapere sorgente all’ingresso operativo consumato dal destinatario: kit, avvio, pagina o contesto dell’assistente. Conserva decisioni, ragioni, strumenti forniti e adattamenti locali. Se un assistente usa uno snapshot separato del sapere, la sola pagina aggiornata lascia invariato quel passaggio. Correggi la prima trasformazione responsabile e i suoi dipendenti effettivi. Ogni osservazione resta legata all’edizione esercitata, mentre l’apprendimento riusabile ritorna al metodo di formazione."
+      },
+      {
+        "title": "Rendere percepibile la maturità del metodo nel primo incontro reale",
+        "body": "L’edizione dei file identifica una distribuzione; la fonte stabilisce la maturità del metodo e la portata delle prove. Conserva questa distinzione dove cambia l’adozione. Segui l’informazione fino al campo realmente consumato dalla pagina o dall’interfaccia del ricevente, oltre che nel metodo, nella guida e nell’avvio. Uno stato nel catalogo può non alimentare l’introduzione visibile. Osserva il primo incontro generato e correggi la proiezione responsabile, conservando la capacità disponibile e la sua profondità utile."
       }
     ],
     "knowledge": [
@@ -123,6 +131,14 @@
       {
         "title": "Far seguire le prove alla risultante corrente",
         "body": "Una revisione può conservare i byte del pacchetto cambiando un collegamento pubblico o lo snapshot del sapere. Mantieni la prova precedente per l’oggetto invariato e controlla il passaggio cambiato rispetto alla sua identità corrente. Gli archivi estratti risolvono i riferimenti necessari; un collegamento alla repository può restare pubblico e facoltativo. Conserva il metodo locale utile del destinatario nell’aggiornamento. Installazione, discovery, funzione esercitata e assimilazione descrivono osservazioni diverse. La distinzione aiuta a completare il trasferimento selezionato senza inventare compatibilità universale."
+      },
+      {
+        "title": "L’edizione non determina la maturità del metodo",
+        "body": "Una nuova versione può identificare un kit completo e utilizzabile il cui metodo è ancora in formazione. Strumento implementato, caso illustrativo, esercizio locale osservato e uso indipendente attestano fatti differenti. Leggi lo stato effettivo della fonte prima di scegliere la spiegazione pubblica. Conserva una capacità dimostrata nella sua portata e rendi riconoscibile un metodo aperto o in formazione quando questa differenza conta per il destinatario. Una successiva versione dei file non promuove da sola il metodo a maturità universale; allo stesso modo, un’integrazione incerta non cancella una capacità già dimostrata altrove."
+      },
+      {
+        "title": "Seguire la maturità fino al dato consumato dal destinatario",
+        "body": "Il catalogo può fornire identità e scoperta mentre una presentazione distinta alimenta lo stato introduttivo. Individua quale sorgente produce la prima spiegazione visibile. Un campo di maturità presente in un oggetto non letto non informa il destinatario. Porta la stessa relazione qualificata nella presentazione consumata, nella guida operativa e nell’avvio completo, poi osserva il risultato generato nella sua lingua. Il primo incontro rimane breve e utile, con le prove più profonde raggiungibili. La relazione sorgente-consumer vale anche per uno snapshot separato dell’assistente: correggere la pagina non aggiorna automaticamente quel consumer."
       }
     ],
     "worked_examples": [
@@ -141,6 +157,10 @@
       {
         "title": "Una biblioteca prepara, continua e condivide un metodo di laboratorio",
         "body": "La biblioteca seleziona la pubblicazione del metodo dei laboratori. Il kit pubblico riceve perché confrontare interpretazioni aiuta, le condizioni per una domanda diversa, un avvio completo e una guida evolvibile. Dati privati dei partecipanti e configurazione degli account restano fuori dal trasferimento. La pagina spiega la capacità per sistemi diversi. Se un assistente collegato usa una raccolta di conoscenze, la stessa edizione e il caso sviluppato raggiungono quel consumer attraverso la sua sorgente. Corrispondenza dell’archivio, comportamento della pagina e selezione del sapere hanno osservazioni proprie. Il metodo di formazione impara da un passaggio mancante senza rendere universale la sequenza particolare della biblioteca."
+      },
+      {
+        "title": "Un’associazione condivide un metodo utilizzabile ancora in formazione",
+        "body": "Un’associazione culturale sviluppa un metodo per progettare passeggiate accessibili da osservazioni locali. Prepara l’edizione 0.1.0 con corpo operativo utilizzabile, guida e casi illustrativi; la fonte qualifica ancora il metodo come in formazione. Il catalogo contiene quello stato, ma il riquadro introduttivo della pagina generata mostra soltanto l’edizione. Chi cura la risorsa presume inizialmente che il campo aggiunto al catalogo raggiunga il visitatore.\n\nLa lettura della pagina generata espone il rapporto mancante. Si risale al distinto ingresso di presentazione che alimenta il riquadro, si conserva l’identità dell’edizione e si porta lì una spiegazione breve dello stato formativo. Guida e avvio completo mantengono ciò che il metodo permette di fare, lo statuto illustrativo dei casi e le condizioni che l’uso successivo può cambiare. Non ricevono maturità universale dal numero di versione o da una build riuscita.\n\nIl primo incontro risultante permette a un’altra associazione di comprendere sia il metodo disponibile sia come adottarlo con il proprio sapere. Chi cura la risorsa osserva le viste linguistiche generate e il kit consegnato, mantenendo l’eventuale snapshot dell’assistente come consumer distinto. La competenza che forma risorse impara dove quello stato dovrà partecipare la prossima volta, senza aggiungere una revisione rituale a ogni pubblicazione. L’associazione e l’esito sono illustrativi."
       }
     ],
     "reader_context": {
@@ -228,6 +248,10 @@
       {
         "title": "Follow the capability through what its recipient actually receives",
         "body": "Follow each material function from its source knowledge to the operating entry the recipient consumes: kit, starter, page or assistant context. Preserve decisions, reasons, supplied tools and local adaptations. When an assistant uses a separate knowledge snapshot, a page update alone leaves that passage unchanged. Correct the first responsible transformation and its actual dependents. Keep each observation tied to the edition it exercised, while returning reusable learning to the formation method."
+      },
+      {
+        "title": "Make the method’s maturity perceivable in the actual first encounter",
+        "body": "Distinguish the distribution’s version from the method’s actual maturity. Carry the source-qualified state into the introduction the recipient really encounters, without hiding the usable method or presenting an early case as universal proof."
       }
     ],
     "use": [
@@ -278,6 +302,10 @@
       {
         "title": "Follow the capability through what its recipient actually receives",
         "body": "Follow each material function from its source knowledge to the operating entry the recipient consumes: kit, starter, page or assistant context. Preserve decisions, reasons, supplied tools and local adaptations. When an assistant uses a separate knowledge snapshot, a page update alone leaves that passage unchanged. Correct the first responsible transformation and its actual dependents. Keep each observation tied to the edition it exercised, while returning reusable learning to the formation method."
+      },
+      {
+        "title": "Make the method’s maturity perceivable in the actual first encounter",
+        "body": "A file edition identifies a distribution; the source establishes the method’s maturity and the scope of its evidence. Preserve that distinction where it changes adoption. Follow the information into the field the page or receiving interface actually consumes, as well as the method, guide and starter. A status stored in a catalogue may not feed the visible introduction. Observe the generated first encounter and correct the responsible projection while preserving the available capability and its useful depth."
       }
     ],
     "knowledge": [
@@ -300,6 +328,14 @@
       {
         "title": "Let evidence follow the current resultant",
         "body": "A revision may preserve the package bytes while changing a public pointer or knowledge snapshot. Retain earlier evidence for the unchanged object and check the passage that changed against its current source identity. Extracted archives should resolve their own necessary references; a repository link can remain optional and public. Preserve the recipient’s useful local method when adopting an update. Installation, discovery, exercised function and assimilation describe different observations. Their distinction helps complete the selected transfer without inventing a universal compatibility claim."
+      },
+      {
+        "title": "An edition does not determine a method’s maturity",
+        "body": "A new version can identify a complete, usable kit whose method is still forming. An implemented tool, an illustrative case, an observed local exercise and independent use establish different things. Read the source’s actual state before choosing the public explanation. Preserve a demonstrated capability at its supported scope and keep an open or formative method recognizable when that difference matters to the recipient. A later file version does not itself promote the method to universal maturity; conversely, one uncertain integration does not erase a capability already demonstrated elsewhere."
+      },
+      {
+        "title": "Follow maturity into the field that the recipient actually consumes",
+        "body": "The catalogue may supply identity and discovery while a separate presentation supplies the introductory status. Determine which authored input produces the first visible explanation. A maturity field present in an unused object cannot inform the recipient. Bring the same qualified relationship into the consumed presentation, operating guide and complete starter, then inspect the generated result in its language. Keep the first encounter concise and useful, with deeper evidence reachable. This source-to-consumer relation also applies to a separate assistant snapshot; a page correction does not silently update that consumer."
       }
     ],
     "worked_examples": [
@@ -318,6 +354,10 @@
       {
         "title": "A library prepares, continues and shares a workshop method",
         "body": "The library selects publication of its workshop method. The public kit receives why comparing interpretations helps, conditions for a different question, a complete starter and a guide it can evolve. Private participant records and the library’s account configuration stay outside the transfer. A page explains the capability for varied systems. If an accompanying assistant uses a knowledge collection, the same edition and worked case must reach that consumer through its own source. Archive correspondence, page behavior and knowledge selection each have their own observations. The formation method learns from a missing passage without turning the library’s particular sequence into a universal template."
+      },
+      {
+        "title": "An association shares a usable method that is still forming",
+        "body": "A cultural association develops a method for planning accessible walks from local observations. It prepares edition 0.1.0 with a usable operating body, guide and illustrative cases; the source still qualifies the method as forming. The catalogue contains that state, but the generated page’s introductory box shows only the edition. The maintainer initially assumes that the added catalogue field reaches the visitor.\n\nReading the generated page exposes the missing relationship. The maintainer traces the introductory box to its separate presentation input, preserves the edition identity and gives that input a short explanation of the method’s formative state. The guide and complete starter retain what the method can do, the illustrative status of the cases and the conditions that later use may change. They do not acquire universal maturity from a version number or a successful build.\n\nThe resulting first encounter lets another association understand both the available method and how to adopt it with its own knowledge. The maintainer verifies the generated language views and the delivered kit, preserving any separate assistant snapshot as its own consumer. The resource-formation competence learns where that status must participate next time, rather than adding a routine review stage to every publication. The association and its outcome are illustrative."
       }
     ],
     "reader_context": {

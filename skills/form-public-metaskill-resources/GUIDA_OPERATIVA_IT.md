@@ -30,6 +30,16 @@ Una guida sorgente spiega quando confrontare interpretazioni, ma l’avvio gener
 
 Una revisione può conservare i byte del pacchetto cambiando un collegamento pubblico o lo snapshot del sapere. Mantieni la prova precedente per l’oggetto invariato e controlla il passaggio cambiato rispetto alla sua identità corrente. Gli archivi estratti risolvono i riferimenti necessari; un collegamento alla repository può restare pubblico e facoltativo. Conserva il metodo locale utile del destinatario nell’aggiornamento. Installazione, discovery, funzione esercitata e assimilazione descrivono osservazioni diverse. La distinzione aiuta a completare il trasferimento selezionato senza inventare compatibilità universale.
 
+
+## L’edizione non determina la maturità del metodo
+
+Una nuova versione può identificare un kit completo e utilizzabile il cui metodo è ancora in formazione. Strumento implementato, caso illustrativo, esercizio locale osservato e uso indipendente attestano fatti differenti. Leggi lo stato effettivo della fonte prima di scegliere la spiegazione pubblica. Conserva una capacità dimostrata nella sua portata e rendi riconoscibile un metodo aperto o in formazione quando questa differenza conta per il destinatario. Una successiva versione dei file non promuove da sola il metodo a maturità universale; allo stesso modo, un’integrazione incerta non cancella una capacità già dimostrata altrove.
+
+
+## Seguire la maturità fino al dato consumato dal destinatario
+
+Il catalogo può fornire identità e scoperta mentre una presentazione distinta alimenta lo stato introduttivo. Individua quale sorgente produce la prima spiegazione visibile. Un campo di maturità presente in un oggetto non letto non informa il destinatario. Porta la stessa relazione qualificata nella presentazione consumata, nella guida operativa e nell’avvio completo, poi osserva il risultato generato nella sua lingua. Il primo incontro rimane breve e utile, con le prove più profonde raggiungibili. La relazione sorgente-consumer vale anche per uno snapshot separato dell’assistente: correggere la pagina non aggiorna automaticamente quel consumer.
+
 ## Una risorsa che insegna anche a formare risorse
 
 La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.

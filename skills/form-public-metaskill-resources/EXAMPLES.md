@@ -26,3 +26,12 @@ An article uses a workshop case from a selected edition. A later correction chan
 ## A library prepares, continues and shares a workshop method
 
 The library selects publication of its workshop method. The public kit receives why comparing interpretations helps, conditions for a different question, a complete starter and a guide it can evolve. Private participant records and the library’s account configuration stay outside the transfer. A page explains the capability for varied systems. If an accompanying assistant uses a knowledge collection, the same edition and worked case must reach that consumer through its own source. Archive correspondence, page behavior and knowledge selection each have their own observations. The formation method learns from a missing passage without turning the library’s particular sequence into a universal template.
+
+
+## An association shares a usable method that is still forming
+
+A cultural association develops a method for planning accessible walks from local observations. It prepares edition 0.1.0 with a usable operating body, guide and illustrative cases; the source still qualifies the method as forming. The catalogue contains that state, but the generated page’s introductory box shows only the edition. The maintainer initially assumes that the added catalogue field reaches the visitor.
+
+Reading the generated page exposes the missing relationship. The maintainer traces the introductory box to its separate presentation input, preserves the edition identity and gives that input a short explanation of the method’s formative state. The guide and complete starter retain what the method can do, the illustrative status of the cases and the conditions that later use may change. They do not acquire universal maturity from a version number or a successful build.
+
+The resulting first encounter lets another association understand both the available method and how to adopt it with its own knowledge. The maintainer verifies the generated language views and the delivered kit, preserving any separate assistant snapshot as its own consumer. The resource-formation competence learns where that status must participate next time, rather than adding a routine review stage to every publication. The association and its outcome are illustrative.

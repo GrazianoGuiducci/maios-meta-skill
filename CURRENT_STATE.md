@@ -1,3 +1,19 @@
+# Public-resource candidates — 30 October 2026
+
+The review branch combines the current public collection with the recoverable MKCV 0.1.4 candidate, cooperative capability 0.1.4 and resource formation 0.3.5. New practical knowledge distinguishes reception, requested action, effect and observation; edition and method maturity follow the actual receiving presentation. Existing methods and cases remain available in both languages. General use guides follow the current catalogue and connect Meta-Focus without a fixed stack. The other 41 public resource editions and archives are preserved. These are review candidates: source preparation does not publish the website or activate Chat.
+
+# Meta-Focus — first public method, 30 October 2026
+
+Meta-Focus connects purpose, responsible owners, competences, sources and actual means where complex work begins or changes. The method remains in formation; its three developed cases and exhibition exploration are illustrative. Both languages include a complete method, practical guide and starter. Existing guides are reused, with no added controller or mandatory register. The other 43 public editions and archives retain their identities.
+
+# Meta-Activity — recoverable activity configuration, 29 October 2026
+
+Meta-Activity 0.3.3 now transfers complete private configuration preservation before and after native changes, actual controller and archive readback, concurrent-edit handling, backup-pending continuation and a separately selected recovery. The operating body, practical guide and complete starter also distinguish requested execution preferences from configured settings and let domain knowledge participate already when assigning work. A developed museum-digest case is illustrative. The other 42 resource editions retain their versions and package bytes. A saved configuration and an observed activity remain different facts.
+
+# System Fundable Project Extraction — first public edition, 28 October 2026
+
+A new bilingual resource helps a receiver form projects from existing knowledge, capabilities and visions, before finding a call or funder. It preserves paused possibilities with their reasons, lets new resources change the question, and follows how method and work can evolve together. Three developed cases and the archive exploration are illustrative. The 42 existing resource editions retain their versions and package bytes. Publication and runtime consumption keep their own source identities and observations.
+
 # Funded Request Project Formation — edition 0.1.3, 27 October 2026
 
 ## MKCV video receiver update — candidate, 27 October 2026

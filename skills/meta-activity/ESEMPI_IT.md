@@ -199,3 +199,14 @@ Fonti: Mandato della persona, conoscenze del dominio, strumenti e riscontri dell
 Autogestione: Lasciare che il lavoro formi metodi e capacità ulteriori nel contesto del ricevente.
 
 Quando coinvolgere la persona: Una risultante utile, una scelta o una differenza che cambia il servizio.
+
+
+## 19. Conservare l'attività di un museo mentre cambia il bollettino settimanale
+
+**Situazione:** Un'attività del museo prepara un bollettino interno settimanale dall'archivio degli eventi. Il personale affida un miglioramento della selezione delle fonti; giorno di consegna e destinatario interno restano gli stessi. Desidera un certo modello, ma il controller non espone quella scelta. Il museo possiede già un archivio operativo privato versionato.
+
+**Lavoro e scelta:** Leggi la competenza editoriale e la guida del museo mentre formi il nuovo metodo di selezione. Leggi il job effettivo e acquisisci interamente prompt installato, ID, evento, fuso, associazione al destinatario e stato attivo. Conserva quella versione integrale precedente, poi applica il cambiamento delle istruzioni affidato e rileggi il risultato. Salva privatamente la versione completa successiva e aggiorna l'indice di recupero. Il modello richiesto resta una preferenza non configurata. Il metodo pubblico non contiene destinatari o prompt privati del museo.
+
+**Una condizione cambiata:** Se un altro redattore modifica il job fra acquisizione e rilettura, conserva entrambe le osservazioni e riconcilia il controller corrente anziché ripristinare la prima copia sopra quel contributo. Se l'accesso all'archivio privato fallisce dopo la modifica del job, indica backup pendente con versione osservata e destinazione esatte. Un ricevente autorizzato può completare da una lettura fresca; non può dichiarare una cattura precedente mai avvenuta.
+
+**Continuazione:** Il bollettino seguente usa il metodo rivisto attraverso il job reale. Se il personale seleziona poi un recupero, confronta le istruzioni conservate con intento attuale e messaggi già consegnati prima di ripristinare. Un'attività deliberatamente in pausa resta tale finché non viene affidata l'azione corrispondente. Le copie rendono recuperabili le configurazioni osservate; non provano produzione o consegna di un bollettino. Il caso è illustrativo e si adatta ad altri domini e controller.

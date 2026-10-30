@@ -8,16 +8,16 @@ Forms and evolves the project-specific competence that can generate cooperation 
 
 When a human–AI collaboration needs a way to develop its own capabilities before choosing a platform, protocol or application.
 
-## First use
-
-Read SKILL.md and OPERATING_GUIDE.md. Attach the complete START_CHAT_EN.txt to a chat with your assignment. For installation use INSTALL.md and preserve the whole folder.
-
-## Adapt and compose
+## Adapt the method to your context
 
 A research group connects hypotheses and sources; a maintenance team relates observations to design changes; an association prepares an initiative with different volunteers and assistants. Preserve the ability to connect attributed contributions and form new shared knowledge. Participants, responsibilities and the places where knowledge continues change.
 
 Start with shared intent, participants’ materials and the differences still open. The first result may be a collaboration method, a guide or a project kernel. Its form emerges from the work: a shared platform becomes useful when it enables that cooperation.
 
-[Standalone use, composition and optional MPK](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USE.md).
+## First use
 
-Edition 0.1.3. Examples and exploration are illustrative. The method is independent; the recipient supplies sources, means and continuity.
+Read SKILL.md and OPERATING_GUIDE.md. Attach the whole START_CHAT_EN.txt in a chat and describe your actual assignment. The starter includes method, practical knowledge and 4 worked examples.
+
+## Files and edition
+
+Public edition 0.1.4. English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.
