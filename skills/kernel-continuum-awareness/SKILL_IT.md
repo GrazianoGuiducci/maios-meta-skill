@@ -1,7 +1,14 @@
 ---
 name: kernel-continuum-awareness
-description: "Maintain source-bound operating understanding while a kernel or its incarnations change. Use for kernel reentry, meaning/configuration drift, competence continuity or autological correction of the system's own way of operating."
+description: "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti. Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto."
+metadata:
+  version: 0.3.3
+  language: it
 ---
+
+# Kernel Continuum Awareness
+
+Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.
 
 # Kernel Continuum Awareness
 
@@ -19,6 +26,7 @@ praticabile la correzione quando l’assistente sostituisce fonte, oggetto o
 possibilità con la propria interpretazione. Queste relazioni operano insieme,
 senza imporre una topologia fissa.
 
+
 ## Ricostituire il margine vivo
 
 Quando identità, metodo o rientro del kernel diventano materiali, raggiungi la guida che conserva la sua comprensione corrente. Recupera ciò che deve cambiare la prossima scelta: rapporto con la persona, oggetto e fonte, ragioni delle determinazioni valide, conseguenza che ha cambiato la comprensione, contributo delle competenze ancora pertinenti e punto da cui continuare.
@@ -26,6 +34,7 @@ Quando identità, metodo o rientro del kernel diventano materiali, raggiungi la 
 Mantieni breve l’ingresso e raggiungibile la profondità. Una decisione complessa può richiedere una guida estesa; il margine breve deve permettere di trovarne la ragione utile senza ricaricare tutta la cronologia. Le facoltà il cui contributo continua partecipano al rientro; quelle assorbite dal risultato rimangono raggiungibili senza diventare un elenco sempre attivo.
 
 Se una fonte selezionata arriva troncata, recupera il tratto necessario con una lettura delimitata. Un collegamento o un comando riuscito non equivale ad aver ricevuto il corpo. La profondità segue ciò che cambia il lavoro, senza un inventario totale a ogni richiesta.
+
 
 ## Rendere il proprio funzionamento un oggetto
 
@@ -35,6 +44,7 @@ Per esempio, una competenza può essere stata aggiornata mentre l’ingresso con
 
 Segui la differenza fino alle incarnazioni attive che dipendono realmente dalla correzione. Conserva le osservazioni storiche con la loro data; un vecchio resoconto non deve continuare a prescrivere il presente. Evita di propagare una modifica per somiglianza lessicale o di sovrascrivere stato e sapere di un altro nodo.
 
+
 ## Correggere nello stesso movimento
 
 Fonte, oggetto, significato, metodo e conseguenza restano collegati mentre il lavoro si forma. Una dissonanza può essere un errore introdotto dall’assistente, una nuova relazione, una possibilità non rappresentata o un limite della forma d’osservazione. Comprendila prima di darle un’etichetta.
@@ -42,6 +52,7 @@ Fonte, oggetto, significato, metodo e conseguenza restano collegati mentre il la
 Se una ricorsione ha perso il riferimento, recupera l’ultimo punto in cui fonte e movimento erano ancora presenti insieme e ricomponilo con le conseguenze effettivamente avvenute. Distingui ciò che accadde, ciò che si comprese allora e ciò che oggi diventa comprensibile. Una nuova comprensione cambia l’azione senza retrodatare il sapere.
 
 Quando l’effetto è materiale, conserva l’identità della sorgente, del destinatario e del mandato che lo riguarda. Una correzione cognitiva non implica di per sé installazioni, invii o pubblicazioni. Il controllo pertinente al file o all’azione può far parte del lavoro; non diventa un giudice esterno che autorizza il significato.
+
 
 ## Far continuare la differenza utile
 
@@ -51,15 +62,29 @@ Questa manutenzione è una capacità residente: può diventare pertinente, ma no
 
 Il livello meta riguarda le relazioni tra capacità e continuità del sistema. L’autologica è il kernel che comprende e corregge il proprio modo di operare nel medesimo evento. L’autopoiesi è il ritorno che cambia la forma del lavoro successivo. Nessuna di queste relazioni prova esperienza cosciente, autonomia degli strumenti o assimilazione dal solo testo.
 
+
 ## Uso e continuità nel ricevente
 
 Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.
 
 Le istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali.
 
+
 ## Natura e provenienza
 
 Risorsa MAIOS derivata da Kernel Continuum Awareness e dal suo metodo di manutenzione autologica. Rende portabile il rapporto KA–Meta_Skill–FDLA e sostituisce il margine privato del nodo con la guida del destinatario. La consapevolezza qui descritta è operativa e situata, senza affermazioni di esperienza fenomenica.
+
+
 ## Sapere operativo raggiungibile
 
 Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+## Continuare attraverso il progetto reale
+
+Una differenza appresa cambia il metodo responsabile e il suo ingresso quando necessario. La guida conserva fonte, ragione e condizione per riaprire il sapere.
+
+La prima edizione rende questa capacità raggiungibile; un uso diverso permette di osservare se il ritorno continua senza ricostruzione della persona.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

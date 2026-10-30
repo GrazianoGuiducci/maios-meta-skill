@@ -2,7 +2,7 @@
 name: meta-focus
 description: "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile. Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: it
 ---
 

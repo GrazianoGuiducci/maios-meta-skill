@@ -1,0 +1,352 @@
+{
+  "it": {
+    "title": "Riconoscere ruoli e responsabilità nel sistema realmente usato",
+    "subtitle": "Collega persone, interfacce, servizi e fonti per distinguere ciò che è dichiarato da ciò che è effettivamente disponibile.",
+    "kind": "Metacompetenza",
+    "domain": "Topologia, capacità e responsabilità",
+    "does": "Ricostruisce le relazioni operative di un sistema e individua differenze di identità, capacità, stato o responsabilità che cambiano il lavoro.",
+    "when": "Quando cambiano strumenti, persone, provider o ambienti, oppure due ingressi sembrano appartenere allo stesso sistema ma conducono a realtà diverse.",
+    "intro": [
+      "Un’interfaccia nuova può usare lo stesso servizio; un nome rimasto uguale può nascondere un diverso responsabile. Il metodo ricostruisce le relazioni prima di scegliere dove intervenire.",
+      "Il risultato può essere una mappa breve, una spiegazione o una proposta mirata. Osservare una differenza non autorizza sincronizzazioni, installazioni o modifiche agli altri sistemi."
+    ],
+    "reader_context": {
+      "title": "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+      "situation": "Una rete di volontari cambia il portale delle iscrizioni. Il sito mostra ancora il vecchio indirizzo e due gruppi credono che l’altro gestisca le conferme.",
+      "point": "Occorre collegare il modulo visibile, il servizio che conserva le richieste e il gruppo che può correggere le conferme, senza attribuire poteri dal solo nome del portale."
+    },
+    "adaptation": {
+      "title": "Adattare la mappa al tuo sistema",
+      "paragraphs": [
+        "Si conserva la distinzione fra identità, nome, ruolo, interfaccia, fornitore, luogo di esecuzione, fonte dello stato e responsabilità della modifica. Cambiano organizzazioni, strumenti e forme di prova.",
+        "Porta la scelta da fare, le descrizioni disponibili e gli accessi di osservazione autorizzati. Un progetto umano, una rete di servizi e un ambiente con assistenti possono richiedere mappe diverse. Non serve creare un registro generale per una relazione già chiara."
+      ]
+    },
+    "method": [
+      {
+        "title": "Partire dalla relazione che il lavoro deve comprendere",
+        "body": "Riconosci quale decisione o rischio la mappa deve rendere leggibile."
+      },
+      {
+        "title": "Confrontare capacità dichiarata e possibilità effettiva",
+        "body": "Una skill presente, un pacchetto installato, un account accessibile, uno strumento raggiungibile e un’operazione esercitata descrivono situazioni diverse."
+      },
+      {
+        "title": "Formare una proposta proporzionata e rileggere le conseguenze",
+        "body": "Aggiorna la sede topologica esistente quando il mandato comprende quella scrittura, oppure restituisci la proposta a chi la possiede."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Partire dalla relazione che il lavoro deve comprendere",
+        "body": "Riconosci quale decisione o rischio la mappa deve rendere leggibile. Un compito chiaro può procedere direttamente; un’identità incerta richiede fonti ulteriori. Il nome di una cartella, un ramo o l’interfaccia aperta non selezionano da soli l’oggetto della modifica. Un artefatto aperto per osservare un risultato può restare soltanto una prova."
+      },
+      {
+        "title": "Distinguere entità e ruoli attraverso le fonti correnti",
+        "body": "Comprendi chi agisce, su quale superficie, con quale fornitore o host e quale fonte ne conserva lo stato. Una stessa entità può svolgere ruoli diversi; un ruolo può cambiare titolare. Qualifica gli alias e conserva la ragione di un’identità stabile. La vicinanza sul filesystem o una login disponibile non dimostrano un rapporto di proprietà."
+      },
+      {
+        "title": "Collegare le relazioni che producono l’effetto",
+        "body": "Usa verbi comprensibili: ospita, usa, distribuisce, legge lo stato, scrive, osserva o sostituisce. Dichiara chi possiede il significato, lo stato e l’effetto pertinente. Un dashboard può osservare un servizio senza poterlo modificare. La mappa raggiunge il responsabile competente, non ne assorbe tutte le decisioni."
+      },
+      {
+        "title": "Confrontare capacità dichiarata e possibilità effettiva",
+        "body": "Una skill presente, un pacchetto installato, un account accessibile, uno strumento raggiungibile e un’operazione esercitata descrivono situazioni diverse. Confronta soltanto le capacità che cambiano la scelta. Una differenza può essere un’evoluzione valida, una condizione ignota o un disallineamento; il solo scarto fra due ambienti non impone di renderli uguali."
+      },
+      {
+        "title": "Qualificare il disallineamento e il suo responsabile",
+        "body": "Distingui cambiamento d’interfaccia, capacità, stato, autorità, identità, versione attiva o ingresso della competenza. Conserva dichiarazione, osservazione, fonti, impatto e chi può correggere. Nella produzione separa sorgente, avvio del servizio, instradamento e recupero applicativo o infrastrutturale. Ripristinare una macchina non prova di aver recuperato l’applicazione."
+      },
+      {
+        "title": "Formare una proposta proporzionata e rileggere le conseguenze",
+        "body": "Aggiorna la sede topologica esistente quando il mandato comprende quella scrittura, oppure restituisci la proposta a chi la possiede. Qualifica ciò che resta ignoto e l’evento che richiede una nuova osservazione. Una sincronizzazione, un deploy o un cambio di provider hanno un proprio incarico. Se una differenza rivela un limite del metodo, migliora quel metodo; un nuovo alias locale resta nel progetto."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Un record utile insegna da dove arriva la relazione",
+        "body": "Conserva identità, nome comprensibile, ruolo nello scopo presente, superficie, responsabile, fonte e momento dell’osservazione nella misura utile. Una condizione di riesame può essere un cambio di contratto o di servizio, non necessariamente una scadenza fissa. La mappa non deve dichiarare completo ciò che non è stato raggiunto."
+      },
+      {
+        "title": "Osservare non trasferisce proprietà",
+        "body": "Una dashboard, un file esportato o una copia locale possono rendere visibile il risultato di un altro owner. Mantieni quel legame come osservazione. Per una correzione raggiungi la sorgente che produce il dato, salvo un incarico esplicito sulla proiezione. Modificare la copia più vicina può nascondere la causa e venire annullato al prossimo aggiornamento."
+      },
+      {
+        "title": "La salute della mappa segue una conseguenza concreta",
+        "body": "Comprendi se le relazioni decisive hanno una fonte corrente, se le responsabilità sono in conflitto, se una capacità è dichiarata senza riscontro e se il lavoro si può riprendere. Usa una misura soltanto quando orienta una scelta. Un’informazione non verificata può restare ignota senza rendere inutilizzabile tutto il sistema; un solo conflitto sul writer può invece essere decisivo."
+      },
+      {
+        "title": "Un cambio di interfaccia non è necessariamente un cambio di sistema",
+        "body": "Due applicazioni possono usare lo stesso backend o filesystem, con permessi e sessioni differenti. Due ambienti dal nome uguale possono usare release o credenziali diverse. Verifica il nesso pertinente senza ispezionare segreti o profili personali. Un trasferimento di capacità conserva separati package, installazione, discovery, esercizio e apprendimento."
+      },
+      {
+        "title": "L’evoluzione riguarda un passaggio e un ambiente qualificati",
+        "body": "Il metodo può osservare, visualizzare e preparare una proposta senza mutare gli altri sistemi. Una modifica locale selezionata richiede identità e riscontro propri; l’applicazione automatica richiede policy ristretta e recupero esercitati. Non promuovere tutta la mappa ad automazione dal successo di una migrazione. Conserva il sapere generale nella competenza e i nomi temporanei nell’adattatore del progetto."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+        "body": "La rete di volontari affida all’AI la comprensione del nuovo percorso. Le fonti mostrano che il sito pubblico ospita soltanto il collegamento; il nuovo modulo scrive nel servizio del gruppo organizzatore, mentre le email dipendono da un altro servizio. La mappa distingue interfaccia, archivio e invio. Identifica il responsabile del link vecchio e quello delle conferme, conservando la fonte di ciascun rapporto. L’AI prepara due correzioni mirate anziché un cambio generale di piattaforma. La persona può selezionarle presso i rispettivi gruppi; sapere chi gestisce il modulo non conferisce all’AI accesso agli iscritti o permesso di inviare email."
+      },
+      {
+        "title": "Due interfacce AI non hanno automaticamente le stesse capacità",
+        "body": "Un laboratorio apre lo stesso progetto in due applicazioni. Entrambe mostrano il nome della competenza, ma una può leggere i file locali e l’altra riceve soltanto un allegato. Il metodo confronta la capacità utile al compito, non il marchio delle applicazioni: versione del sapere, fonti raggiungibili, strumenti disponibili e autorità sulla scrittura. La prima può mantenere una guida; la seconda restituisce una nota completa che il responsabile conserverà. Nessuna viene dichiarata difettosa dalla sola asimmetria. Il progetto registra la condizione di uso e potrà integrare un adattatore quando esiste un bisogno reale e un incarico adeguato."
+      },
+      {
+        "title": "Una migrazione universitaria distingue hosting e recupero applicativo",
+        "body": "Un dipartimento sposta un servizio di consultazione su un nuovo host. La descrizione del fornitore include snapshot della macchina, ma il database applicativo è gestito altrove. La mappa collega repository, processo di avvio, proxy, database e responsabili del recupero. Prima di proporre l’attivazione, il gruppo qualifica quale versione verrà eseguita e come ripristinare i dati coerenti. La disponibilità dello snapshot infrastrutturale non viene chiamata backup completo dell’applicazione. Il risultato è una proposta di migrazione con una condizione ancora aperta sul database; l’AI non avvia il trasferimento né modifica il provider dal solo lavoro di ricostruzione."
+      }
+    ],
+    "examples": [
+      "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+      "Due interfacce AI non hanno automaticamente le stesse capacità",
+      "Una migrazione universitaria distingue hosting e recupero applicativo"
+    ],
+    "learning": [
+      "Conserva la relazione verificata, il responsabile pertinente e la condizione che può renderla superata nella sede già usata dal progetto.",
+      "Restituisci una distinzione riusabile al metodo topologico; lascia alias, accessi e stato temporale presso i loro owner."
+    ],
+    "depth": {
+      "title": "La mappa rende possibili interventi mirati",
+      "paragraphs": [
+        "Il kit trasferisce osservazione, confronto e formazione di proposte. Non installa un sincronizzatore, non concede accessi e non controlla i servizi descritti.",
+        "Un nuovo evento può cambiare identità, ruoli e fonti pertinenti. La mappa continua attraverso questi riscontri, senza diventare un modello chiuso del sistema."
+      ]
+    },
+    "use": [
+      {
+        "title": "In una chat",
+        "body": "Fornisci l’avvio completo, il lavoro, le fonti e i mezzi disponibili."
+      },
+      {
+        "title": "In un progetto",
+        "body": "Rendi raggiungibili metodo e guida dall’ingresso già usato dal progetto."
+      }
+    ],
+    "status": {
+      "label": "Metodo operativo",
+      "body": "Edizione iniziale. Casi illustrativi; mezzi ed effetti appartengono al tuo ambiente."
+    }
+  },
+  "en": {
+    "title": "Identify roles and responsibilities in the system actually used",
+    "subtitle": "Connect people, interfaces, services and sources to distinguish declared relationships from actual availability.",
+    "kind": "Metacompetence",
+    "domain": "Topology, capabilities and responsibility",
+    "does": "Reconstructs operational relationships and identifies differences in identity, capability, state or responsibility that change the work.",
+    "when": "When tools, people, providers or environments change, or two entries appear to belong to the same system while reaching different realities.",
+    "intro": [
+      "A new interface can use the same service; an unchanged name can hide a different responsible owner. This method reconstructs relationships before choosing where to intervene.",
+      "The result can be a small map, explanation or targeted proposal. Observing a difference does not authorize synchronization, installation or changes to other systems."
+    ],
+    "reader_context": {
+      "title": "A registration portal changes while responsibilities remain separate",
+      "situation": "A volunteer network changes its registration portal. The website still shows the old address, and two groups each believe the other handles confirmations.",
+      "point": "Connect the visible form, service retaining requests and group able to correct confirmations, without assigning powers from the portal name alone."
+    },
+    "adaptation": {
+      "title": "Adapt the map to your system",
+      "paragraphs": [
+        "Preserve the distinction between identity, name, role, interface, provider, execution location, state source and responsibility for a change. Organizations, tools and evidence forms vary.",
+        "Bring the choice, available descriptions and authorized observational access. A human project, service network and assistant environment can need different maps. An already clear relation need not generate a new general register."
+      ]
+    },
+    "method": [
+      {
+        "title": "Begin with the relationship the work needs to understand",
+        "body": "Recognize which decision or risk the map should make intelligible."
+      },
+      {
+        "title": "Compare declared capability and actual possibility",
+        "body": "A present skill, installed package, accessible account, reachable tool and exercised operation describe different states."
+      },
+      {
+        "title": "Form a proportionate proposal and read its consequences",
+        "body": "Update the existing topology location when that write is entrusted, or return a proposal to its owner."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Begin with the relationship the work needs to understand",
+        "body": "Recognize which decision or risk the map should make intelligible. A clear task can proceed directly; uncertain identity requires further sources. A folder name, branch or open interface does not select the mutation object by itself. An artifact opened to inspect a result may remain only evidence."
+      },
+      {
+        "title": "Distinguish entities and roles through current sources",
+        "body": "Understand who acts, on which surface, with which provider or host and which source retains state. An entity can occupy several roles; a role can change holder. Qualify aliases and retain the reason for a stable identity. Filesystem proximity or available login does not establish ownership."
+      },
+      {
+        "title": "Connect relationships producing the effect",
+        "body": "Use understandable verbs: hosts, uses, distributes, reads state, writes, observes or replaces. State who owns pertinent meaning, state and effects. A dashboard can observe a service without controlling it. The map reaches the competent owner rather than absorbing all their decisions."
+      },
+      {
+        "title": "Compare declared capability and actual possibility",
+        "body": "A present skill, installed package, accessible account, reachable tool and exercised operation describe different states. Compare capabilities that could change the choice. A difference can be valid evolution, an unknown condition or drift; differing environments need not be made identical."
+      },
+      {
+        "title": "Qualify drift and its responsible owner",
+        "body": "Distinguish interface, capability, state, authority, identity, active-version and competence-entry differences. Preserve declaration, observation, sources, impact and who can correct it. In production separate source, service bootstrap, routing and application or infrastructure recovery. Restoring a machine does not establish application recovery."
+      },
+      {
+        "title": "Form a proportionate proposal and read its consequences",
+        "body": "Update the existing topology location when that write is entrusted, or return a proposal to its owner. Qualify remaining unknowns and the event requiring renewed observation. Synchronization, deployment or provider replacement has its own mandate. If a difference reveals a method limitation, refine that method; a new local alias stays with the project."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A useful record teaches where the relation comes from",
+        "body": "Retain identity, understandable label, role in the current purpose, surface, responsible owner, source and observation time as needed. A recheck condition can be a contract or service change rather than a fixed deadline. The map must not claim completeness for unreached relationships."
+      },
+      {
+        "title": "Observation does not transfer ownership",
+        "body": "A dashboard, export or local copy can reveal another owner’s result. Preserve that link as observation. For correction reach the source producing the data unless the projection itself was explicitly selected. Editing the nearest copy can hide the cause and be undone by the next update."
+      },
+      {
+        "title": "Map health follows a concrete consequence",
+        "body": "Understand whether decisive relations have current sources, responsibilities conflict, a capability is asserted without observation and work can be resumed. Use a metric only when it guides a choice. An unverified fact can remain unknown without making the whole system unusable; one conflict about who writes can instead be decisive."
+      },
+      {
+        "title": "A changed interface need not mean a changed system",
+        "body": "Two applications can use the same backend or filesystem with different permissions and sessions. Similarly named environments can use different releases or credentials. Verify pertinent relationships without inspecting secrets or personal profiles. Capability transfer keeps package, installation, discovery, exercise and learning distinct."
+      },
+      {
+        "title": "Evolution belongs to a qualified transition and environment",
+        "body": "The method can observe, visualize and prepare a proposal without mutating other systems. An entrusted local change needs its own identity and readback; automatic application needs narrow policy and exercised recovery. One successful migration does not automate the entire map. Keep general knowledge with the competence and temporal names in the project’s adapter."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A registration portal changes while responsibilities remain separate",
+        "body": "The volunteer network asks the AI to understand the new path. Sources show that the public site hosts only a link; the new form writes to the organizing group’s service, while email depends on another service. The map distinguishes interface, archive and sending. It identifies the stale-link owner and confirmation owner, preserving the source for each relation. The AI prepares two targeted corrections rather than replacing the whole platform. A person can select them with their respective groups; knowing who manages the form does not give the AI access to registrations or authority to send email."
+      },
+      {
+        "title": "Two AI interfaces do not automatically have the same capabilities",
+        "body": "A laboratory opens the same project in two applications. Both display the competence name, but one can read local files while the other receives only an attachment. The method compares capability relevant to the task rather than application branding: knowledge version, reachable sources, available tools and write authority. One can maintain a guide; the other returns a complete note for its owner to preserve. Neither is declared defective from asymmetry alone. The project records the use condition and may integrate an adapter when an actual need and suitable mandate exist."
+      },
+      {
+        "title": "A university migration distinguishes hosting from application recovery",
+        "body": "A department moves a consultation service to another host. Its provider offers machine snapshots, but the application database is managed elsewhere. The map connects repository, startup process, proxy, database and recovery owners. Before proposing activation, the group qualifies which version will run and how coherent data can be restored. Availability of an infrastructure snapshot is not called a complete application backup. The result is a migration proposal with an open database condition; reconstruction alone neither starts the transfer nor modifies the provider."
+      }
+    ],
+    "examples": [
+      "A registration portal changes while responsibilities remain separate",
+      "Two AI interfaces do not automatically have the same capabilities",
+      "A university migration distinguishes hosting from application recovery"
+    ],
+    "learning": [
+      "Keep the verified relationship, pertinent owner and supersession condition in the project’s existing location.",
+      "Return reusable distinctions to the topology method; keep aliases, access and temporal state with their owners."
+    ],
+    "depth": {
+      "title": "The map enables targeted interventions",
+      "paragraphs": [
+        "The kit transfers observation, comparison and proposal formation. It installs no synchronizer, grants no access and controls none of the described services.",
+        "A new event can change identity, roles and pertinent sources. The map continues through observations without becoming a closed model of the system."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter, your work, sources and available means."
+      },
+      {
+        "title": "In a project",
+        "body": "Keep the complete method and guide reachable through the project’s own entry."
+      }
+    ],
+    "status": {
+      "label": "Operating method",
+      "body": "Initial edition. Cases are illustrative; tools and effects belong to your environment."
+    }
+  },
+  "related": [
+    "coerenza-kernel-ai",
+    "dalla-sorgente-al-servizio",
+    "collegare-competenze-al-lavoro"
+  ],
+  "showcase": {
+    "type": "dnd-topology-evolution-guard",
+    "it": {
+      "title": "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+      "states": [
+        [
+          "Situazione",
+          "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+          "Una rete di volontari cambia il portale delle iscrizioni. Il sito mostra ancora il vecchio indirizzo e due gruppi credono che l’altro gestisca le conferme."
+        ],
+        [
+          "Scelta",
+          "Confrontare capacità dichiarata e possibilità effettiva",
+          "Occorre collegare il modulo visibile, il servizio che conserva le richieste e il gruppo che può correggere le conferme, senza attribuire poteri dal solo nome del portale."
+        ],
+        [
+          "Seguito",
+          "Formare una proposta proporzionata e rileggere le conseguenze",
+          "Conserva la relazione verificata, il responsabile pertinente e la condizione che può renderla superata nella sede già usata dal progetto."
+        ]
+      ],
+      "caption": "Caso illustrativo: le scelte spiegano il metodo, senza operare su servizi reali.",
+      "diagram": {
+        "nodes": [
+          "Mappa dichiarata",
+          "Relazioni verificate",
+          "Responsabile pertinente",
+          "Proposta mirata"
+        ],
+        "relations": [
+          "si confronta con",
+          "individuano",
+          "riceve",
+          "richiede un riscontro"
+        ],
+        "description": "Il portale è ricostruito attraverso relazioni verificate e responsabilità distinte.",
+        "reading": [
+          "Il sito ospita il link; non possiede automaticamente iscrizioni ed email.",
+          "Fonti correnti identificano il responsabile di ciascuna correzione.",
+          "Una proposta non modifica il servizio prima della sua selezione."
+        ]
+      }
+    },
+    "en": {
+      "title": "A registration portal changes while responsibilities remain separate",
+      "states": [
+        [
+          "Situation",
+          "A registration portal changes while responsibilities remain separate",
+          "A volunteer network changes its registration portal. The website still shows the old address, and two groups each believe the other handles confirmations."
+        ],
+        [
+          "Choice",
+          "Compare declared capability and actual possibility",
+          "Connect the visible form, service retaining requests and group able to correct confirmations, without assigning powers from the portal name alone."
+        ],
+        [
+          "Continuation",
+          "Form a proportionate proposal and read its consequences",
+          "Keep the verified relationship, pertinent owner and supersession condition in the project’s existing location."
+        ]
+      ],
+      "caption": "Illustrative case: the choices explain the method without operating on real services.",
+      "diagram": {
+        "nodes": [
+          "Declared map",
+          "Verified relations",
+          "Pertinent owner",
+          "Targeted proposal"
+        ],
+        "relations": [
+          "compares with",
+          "identify",
+          "receives",
+          "requires readback"
+        ],
+        "description": "The portal is reconstructed through verified relationships and distinct responsibilities.",
+        "reading": [
+          "Hosting the link does not automatically mean owning registrations or email.",
+          "Current sources identify the owner of each correction.",
+          "A proposal does not mutate a service before its selection."
+        ]
+      }
+    }
+  }
+}

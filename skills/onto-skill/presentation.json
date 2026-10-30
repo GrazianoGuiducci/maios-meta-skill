@@ -14,7 +14,8 @@
     "examples": [
       "An educational principle forms a new way of helping",
       "A discovery changes how requests are handled",
-      "A correction that improves quotations"
+      "A correction that improves quotations",
+      "A library network changes how projects inherit a competence"
     ],
     "method": [
       {
@@ -66,6 +67,10 @@
       {
         "title": "Let the result change how principles are formed",
         "body": "If a principle suppresses a difference that matters in a later case, recover the source and understand why the generalization was too broad. Refine both the domain method and Onto-Skill’s way of recognizing transferable conditions when both need to act differently. Preserve what happened, what was understood then and the changed understanding. A later non-identical use can show how that learning continues."
+      },
+      {
+        "title": "A principle can make project and system support reciprocal",
+        "body": "When a project should operate through available competences, incarnate the principle in its actual entry and source-selection method. Domain differences remain project-owned; a reusable relation can refine the shared knowledge supporting it. If a capability exists but does not participate, repair the connection. If know-how is missing, deepen the competence; if the means cannot perform the action, qualify that condition with the receiver. A reminder or footer alone does not establish participation."
       }
     ],
     "worked_examples": [
@@ -80,6 +85,10 @@
       {
         "title": "A correction that improves quotations",
         "body": "A studio rejects an AI quotation because the assistant removed the reasons behind two unusual costs. “Keep the reasons for an exception” carries more than a request for a longer document. Recover the original correction and distinguish it from a rule to explain every line item. The quotation competence learns to recognize a departure that could change a client’s decision and keeps its cause beside the amount. In a later small quotation with ordinary costs, the method stays concise. The transferable result is a better discrimination of consequential exceptions."
+      },
+      {
+        "title": "A library network changes how projects inherit a competence",
+        "body": "The network wants local libraries to learn from shared knowledge and return what can help elsewhere. An assistant proposes copying every instruction into each project. Onto-Skill recovers the principle and its reason: make knowledge pertinent while work forms, preserving the ability to improve it. A library’s entry reaches the shared method and its own sources without reading the whole archive. A local case shows that an edition reference omits a different lending condition; that rule remains domain-owned, while the shared method learns to preserve the condition making a reference valid. The network does not assume every library already received the update. This transfers a generative relationship rather than automatic synchronization."
       }
     ],
     "depth": {
@@ -156,7 +165,8 @@
     "examples": [
       "Un principio didattico forma un nuovo modo di aiutare",
       "Una scoperta cambia la gestione delle richieste",
-      "Una correzione che migliora i preventivi"
+      "Una correzione che migliora i preventivi",
+      "Una rete di biblioteche cambia come eredita una competenza"
     ],
     "method": [
       {
@@ -208,6 +218,10 @@
       {
         "title": "Lasciare che il risultato cambi come si formano i principi",
         "body": "Se un principio cancella una differenza importante in un altro caso, recupera la fonte e comprendi perché la generalizzazione era troppo ampia. Affina il metodo di dominio e il modo di Onto-Skill di riconoscere condizioni trasferibili quando entrambi devono cambiare. Conserva accaduto, comprensione di allora e comprensione attuale. L’uso successivo non identico può mostrare come continua il sapere."
+      },
+      {
+        "title": "Un principio può rendere reciproco il rapporto fra progetto e sistema",
+        "body": "Quando il progetto deve lavorare attraverso le competenze già disponibili, incarna il principio nel suo ingresso effettivo e nel metodo che sceglie le fonti. La differenza di dominio resta al progetto; una relazione riusabile può affinare il sapere comune che lo sostiene. Se la capacità esiste ma non partecipa, correggi il collegamento. Se manca il saper fare, approfondisci la competenza; se il mezzo non può compiere il gesto, qualifica quella condizione presso il ricevente. Un richiamo o un footer non dimostrano da soli questa partecipazione."
       }
     ],
     "worked_examples": [
@@ -222,6 +236,10 @@
       {
         "title": "Una correzione che migliora i preventivi",
         "body": "Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due costi insoliti. «Conserva la ragione di un’eccezione» porta più della richiesta di allungare il testo. Recupera la correzione originale e distinguila dall’obbligo di spiegare ogni riga. La competenza preventivi impara a riconoscere lo scostamento che cambia una decisione e conserva la causa vicino all’importo. Nel successivo preventivo semplice resta concisa. Il risultato trasferibile è una migliore discriminazione delle eccezioni rilevanti."
+      },
+      {
+        "title": "Una rete di biblioteche cambia come eredita una competenza",
+        "body": "La rete vuole che le biblioteche locali imparino dal sapere comune e restituiscano ciò che funziona altrove. Un assistente propone di copiare tutte le istruzioni in ogni progetto. Onto-Skill recupera il principio e la sua ragione: rendere pertinente il sapere mentre il lavoro si forma, mantenendo la possibilità di migliorarlo. L’ingresso di una biblioteca raggiunge il metodo comune e le proprie fonti, senza leggere tutto l’archivio. Un caso locale mostra che il rinvio a un’edizione non conserva una diversa regola di prestito; quella regola resta del dominio, mentre il metodo condiviso impara a conservare la condizione che rende valido un riferimento. La rete non presume che ogni biblioteca abbia già ricevuto l’aggiornamento. Il caso trasferisce un rapporto generativo, non una sincronizzazione automatica."
       }
     ],
     "depth": {

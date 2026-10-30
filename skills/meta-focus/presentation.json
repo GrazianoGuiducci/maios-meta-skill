@@ -94,6 +94,10 @@
       {
         "title": "One learning may have several destinations",
         "body": "One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure."
+      },
+      {
+        "title": "Connect the project to knowledge that could change its work",
+        "body": "At project entry, reach pertinent competences and sources while observing and choosing the contribution. The project uses shared knowledge and returns reusable differences during the work to competences that must act differently. Knowledge can also change the object recognized and the question asked; placing it only as information inside a fixed frame can leave that frame’s limit intact. Exercise this relation through the existing guide without a second supervising boot or a reading of the whole system."
       }
     ],
     "worked_examples": [
@@ -108,6 +112,10 @@
       {
         "title": "Resume an experiment when the available instrument changes",
         "body": "A research group retains a question and an experiment paused because of a measurement limit. After an interruption, a collaboration makes a different instrument available. The AI reads the working guide, the reason for pausing and actual access conditions. The researcher understands that a different question is now useful instead of merely repeating the old plan. Focus connects the new object to pertinent scientific knowledge, the instrument’s owner and necessary analysis. The guide retains the proposed experiment and what remains to be agreed. The continuity method learns which reason the former summary omitted; scientific knowledge stays in its domain. Announced access, a planned experiment and an observed measurement retain distinct states. Reentry uses acquired understanding in the present instead of turning a deduction from the old plan into an obligation."
+      },
+      {
+        "title": "Shared knowledge changes both the project and its common method",
+        "body": "A cooperative maintains equipment at several sites. A new assignment appears to ask for guide reorganization, but its entry reaches shared knowledge about responsibility and maintenance. Sources show that the same spare-part label refers to two different components: the useful question becomes which identification technicians need before intervention. The project keeps that technical distinction and involves its competent owner. The shared continuity method receives a smaller lesson: retain component identity with the reason for a reference where that difference changes the next action. The project guide reaches both contributions without copying them into every file. System and project support each other; writing the guide does not install its method at every site or in future assistants."
       }
     ],
     "depth": {
@@ -139,11 +147,12 @@
     "examples": [
       "A new room recomposes the exhibition’s work",
       "Two assistants change different contributions to one manual",
-      "Resume an experiment when the available instrument changes"
+      "Resume an experiment when the available instrument changes",
+      "Shared knowledge changes both the project and its common method"
     ],
     "status": {
       "label": "Method in formation",
-      "body": "First public edition. Cases are illustrative; use across receiving environments requires its own observations."
+      "body": "Updated edition. The method remains in formation; cases are illustrative."
     }
   },
   "it": {
@@ -241,6 +250,10 @@
       {
         "title": "Un apprendimento può avere più destinazioni",
         "body": "Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto."
+      },
+      {
+        "title": "Collegare il progetto al sapere che può cambiarne il lavoro",
+        "body": "All’ingresso di un progetto raggiungi le competenze e le fonti già pertinenti mentre osservi e scegli il contributo. Il progetto usa il sapere comune e restituisce durante il lavoro la differenza riusabile alle competenze che dovranno agire diversamente. Una conoscenza può cambiare anche quale oggetto riconosci e quale domanda poni; portarla soltanto come informazione in una cornice già fissata può lasciarne intatto il limite. La relazione si esercita nella guida esistente, senza un secondo Boot di controllo o la lettura dell’intero sistema."
       }
     ],
     "worked_examples": [
@@ -255,6 +268,10 @@
       {
         "title": "Riprendere un esperimento quando cambia lo strumento disponibile",
         "body": "Un gruppo di ricerca conserva una domanda e una prova sospesa per un limite di misura. Dopo un’interruzione, una collaborazione mette a disposizione un altro strumento. L’AI legge la guida del lavoro, il motivo della sospensione e le condizioni reali di accesso. Il ricercatore comprende che ora conviene porre una domanda diversa, invece di ripetere il vecchio piano. Il focus collega il nuovo oggetto al sapere scientifico pertinente, al responsabile dello strumento e all’analisi necessaria. La guida conserva la proposta di esperimento e ciò che resta da concordare. Il metodo di continuità impara quale ragione mancava nel precedente riassunto; il sapere scientifico rimane nel suo dominio. Accesso annunciato, esperimento pianificato e misura osservata mantengono stati distinti. La ripresa usa il compreso nel presente e non trasforma una deduzione dal vecchio piano in un obbligo."
+      },
+      {
+        "title": "Un principio condiviso cambia il progetto e il metodo comune",
+        "body": "Una cooperativa mantiene attrezzature in sedi diverse. Il nuovo incarico sembra richiedere di riordinare una guida, ma l’ingresso raggiunge il sapere comune su responsabilità e manutenzione. Le fonti mostrano che la stessa parola ricambio indica due componenti differenti: la domanda utile diventa quale identificazione serva ai tecnici prima dell’intervento. Il progetto conserva la distinzione tecnica e coinvolge chi possiede quel sapere. Il metodo comune di continuità riceve invece una lezione più piccola: conservare l’identità del componente insieme alla ragione del rinvio, quando quella differenza cambia il prossimo gesto. La guida del progetto raggiunge entrambi i contributi senza copiarli in ogni file. Sistema e progetto si sostengono reciprocamente; una scrittura nella guida non installa il metodo in tutte le sedi o negli assistenti futuri."
       }
     ],
     "depth": {
@@ -286,11 +303,12 @@
     "examples": [
       "Una nuova sala ricompone il lavoro della mostra",
       "Due assistenti modificano contributi diversi allo stesso manuale",
-      "Riprendere un esperimento quando cambia lo strumento disponibile"
+      "Riprendere un esperimento quando cambia lo strumento disponibile",
+      "Un principio condiviso cambia il progetto e il metodo comune"
     ],
     "status": {
       "label": "Metodo in formazione",
-      "body": "Prima edizione pubblica. I casi sono illustrativi; l’uso nei diversi ambienti richiede osservazioni proprie."
+      "body": "Edizione aggiornata. Il metodo resta in formazione; i casi sono illustrativi."
     }
   },
   "showcase": {

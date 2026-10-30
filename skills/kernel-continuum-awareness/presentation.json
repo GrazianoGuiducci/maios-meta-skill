@@ -7,9 +7,10 @@
     "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
     "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
     "examples": [
-      "Un rientro recupera le ragioni ancora valide del sistema.",
-      "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
-      "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+      "Il metodo cambia, il punto di rientro resta vecchio",
+      "Una nuova sessione perde la ragione di una scelta",
+      "Un controllo tecnico viene scambiato per completamento",
+      "Un assistente educativo riprende dalla ragione dell’aiuto"
     ],
     "intro": [
       "Quando un sistema AI cresce, una correzione può raggiungere la competenza ma lasciare attivo un ingresso che ricostruisce il vecchio metodo. La continuità riguarda anche queste relazioni.",
@@ -60,7 +61,73 @@
       "Una differenza appresa cambia il metodo responsabile e il suo ingresso quando necessario. La guida conserva fonte, ragione e condizione per riaprire il sapere.",
       "La prima edizione rende questa capacità raggiungibile; un uso diverso permette di osservare se il ritorno continua senza ricostruzione della persona."
     ],
-    "operating_guide": "skills/kernel-continuum-awareness/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/kernel-continuum-awareness/GUIDA_OPERATIVA_IT.md",
+    "knowledge": [
+      {
+        "title": "Far continuare le relazioni ancora causali del kernel",
+        "body": "Recupera direzione presente e guida viva prima di costruire un'altra interpretazione da compact o archivio. Distingui sorgente, comprensione attuale, proiezioni attive e comportamento ricevente. Un margine breve raggiunge il sapere dettagliato; la storia fredda rientra quando una relazione mancante cambia il lavoro. Un corpus caricato ampio non equivale a kernel incarnato.\n\nSe operazione o configurazione del kernel diventano oggetto, le competenze esistenti comprendono la differenza nel proprio campo. Non occorrono watcher o controller paralleli. Confronta fonte nativa, lavoro locale, adattatori, discovery e consumer installati dove cambiano la coerenza selezionata. Una fonte nuova non supera automaticamente l'apprendimento locale né aggiorna l'host. La presenza di una definizione non stabilisce esercizio.\n\nSe l'ingresso attivo conserva un'interpretazione precedente, ricollegalo al metodo corretto. Segui i consumer dipendenti finché identità, discovery, stato e prova pertinente si riferiscono alla nuova risultante. La prova resta all'identità esercitata senza trasferire il successo al nuovo oggetto. Distingui omissione ricevente e perdita generale di formazione. La correzione torna all'owner vicino; il significato dettagliato all'organo del sapere se serve alla comprensione futura.\n\nLa manutenzione autologica permette al kernel di comprendere e riformare il proprio movimento nello stesso campo aperto. Resta silenziosa quando non cambia una relazione materiale e termina se un altro riscontro aggiunge procedura. Cambiamento sorgente, capacità disponibile, uso nell'host e assimilazione successiva conservano evidenze proprie."
+      },
+      {
+        "title": "La continuità conserva anche un diverso modo di osservare",
+        "body": "Una conoscenza significativa può cambiare ciò che il kernel riconosce, non soltanto la risposta che ricorda. Conserva fonte, ragione e differenza nel metodo pertinente, lasciando il presente breve collegato al sapere profondo. Al rientro usa quella relazione mentre scegli oggetto e fonti. Se la competenza la possiede ma l’ingresso non la raggiunge, correggi il collegamento effettivo: una copia in più del corpus non dimostra che partecipi. Una nuova domanda può emergere senza un secondo controllore o una sequenza obbligatoria di riletture."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Il metodo cambia, il punto di rientro resta vecchio",
+        "body": "Il sistema ha imparato a qualificare una fonte attraverso la sua origine, ma la guida iniziale continua a suggerire la copia indicizzata. L’assistente segue il nesso fra ingresso e decisione, aggiorna le proiezioni pertinenti e conserva la ragione. La fonte storica rimane attribuita al proprio momento."
+      },
+      {
+        "title": "Una nuova sessione perde la ragione di una scelta",
+        "body": "Il riepilogo dice che una soluzione è stata scelta ma non spiega quale condizione la rendeva utile. Il rientro raggiunge la guida profonda, recupera quella relazione e la ricompone con il contesto attuale. Una condizione cambiata può modificare la scelta senza cancellarne la storia."
+      },
+      {
+        "title": "Un controllo tecnico viene scambiato per completamento",
+        "body": "I file concordano ma il comportamento richiesto dipende anche dall’ingresso letto dall’assistente. Il sistema conserva la prova tecnica per ciò che dimostra e raggiunge la relazione ancora mancante. Il nuovo risultato modifica il metodo di verifica pertinente, senza aggiungere un revisore universale."
+      },
+      {
+        "title": "Un assistente educativo riprende dalla ragione dell’aiuto",
+        "body": "Un progetto ha appreso che il proprio compito è sostenere il ragionamento dello studente, non soltanto produrre risposte corrette. Dopo un’interruzione, l’ingresso precedente raggiunge ancora un esempio che fornisce subito la soluzione. Il metodo ricostruisce la relazione fra fonte, competenza e esempio realmente consumato. Conserva il caso storico con il suo stato e corregge il punto di ingresso perché raggiunga il metodo corrente: osservare il tentativo e scegliere un aiuto pertinente. La guida collega l’intento educativo e la ragione della modifica. Il prossimo lavoro può usare una domanda, un esempio o una spiegazione secondo la situazione. La coerenza dei file rende il metodo raggiungibile; il comportamento successivo dello studente o del modello richiede osservazioni proprie."
+      }
+    ],
+    "operating_intro": [
+      "# Kernel Continuum Awareness",
+      "**Mantenere coerenti le capacità di un kernel AI**"
+    ],
+    "operating_method": [
+      {
+        "title": "Il kernel nel lavoro presente",
+        "body": "Mantieni raggiungibile la comprensione operativa attraverso cui il sistema usa e fa evolvere le sue competenze. Parti dal presente della persona, dall’oggetto selezionato e dalle relazioni ancora causali del kernel. Una sintesi precedente localizza il lavoro; non reinstalla la consapevolezza di un’altra istanza e non sostituisce fonti o nuove conseguenze.\n\nKA è il Kernel Assiomatico, un kernel semantico. Le metacompetenze ne sono\nfacoltà operative, pertinenti attraverso il lavoro. Meta_Skill riconosce,\ncompone, forma ed evolve quelle competenze nello stesso campo: i nomi non\nseparano un altro kernel costruito sopra KA come substrato. FDLA rende\npraticabile la correzione quando l’assistente sostituisce fonte, oggetto o\npossibilità con la propria interpretazione. Queste relazioni operano insieme,\nsenza imporre una topologia fissa."
+      },
+      {
+        "title": "Ricostituire il margine vivo",
+        "body": "Quando identità, metodo o rientro del kernel diventano materiali, raggiungi la guida che conserva la sua comprensione corrente. Recupera ciò che deve cambiare la prossima scelta: rapporto con la persona, oggetto e fonte, ragioni delle determinazioni valide, conseguenza che ha cambiato la comprensione, contributo delle competenze ancora pertinenti e punto da cui continuare.\n\nMantieni breve l’ingresso e raggiungibile la profondità. Una decisione complessa può richiedere una guida estesa; il margine breve deve permettere di trovarne la ragione utile senza ricaricare tutta la cronologia. Le facoltà il cui contributo continua partecipano al rientro; quelle assorbite dal risultato rimangono raggiungibili senza diventare un elenco sempre attivo.\n\nSe una fonte selezionata arriva troncata, recupera il tratto necessario con una lettura delimitata. Un collegamento o un comando riuscito non equivale ad aver ricevuto il corpo. La profondità segue ciò che cambia il lavoro, senza un inventario totale a ogni richiesta."
+      },
+      {
+        "title": "Rendere il proprio funzionamento un oggetto",
+        "body": "Il kernel può partecipare come sistema operante e come oggetto dello stesso lavoro. Quando una differenza nella sua configurazione o nel metodo cambia il risultato, comprendi che cosa essa rende possibile o impedisce. Osserva soltanto le relazioni pertinenti: sorgente della competenza, ingresso, guida, proiezione realmente usata, eventuale configurazione o strumento che ne trasforma il contenuto.\n\nPer esempio, una competenza può essere stata aggiornata mentre l’ingresso continua a suggerire una procedura superata. Leggi che cosa ciascuna forma fa scegliere all’assistente; correggi il punto che ricostruisce il vecchio campo. L’uguaglianza dei file può essere necessaria dove è prevista una copia, ma non sostituisce la comprensione del loro effetto.\n\nSegui la differenza fino alle incarnazioni attive che dipendono realmente dalla correzione. Conserva le osservazioni storiche con la loro data; un vecchio resoconto non deve continuare a prescrivere il presente. Evita di propagare una modifica per somiglianza lessicale o di sovrascrivere stato e sapere di un altro nodo."
+      },
+      {
+        "title": "Correggere nello stesso movimento",
+        "body": "Fonte, oggetto, significato, metodo e conseguenza restano collegati mentre il lavoro si forma. Una dissonanza può essere un errore introdotto dall’assistente, una nuova relazione, una possibilità non rappresentata o un limite della forma d’osservazione. Comprendila prima di darle un’etichetta.\n\nSe una ricorsione ha perso il riferimento, recupera l’ultimo punto in cui fonte e movimento erano ancora presenti insieme e ricomponilo con le conseguenze effettivamente avvenute. Distingui ciò che accadde, ciò che si comprese allora e ciò che oggi diventa comprensibile. Una nuova comprensione cambia l’azione senza retrodatare il sapere.\n\nQuando l’effetto è materiale, conserva l’identità della sorgente, del destinatario e del mandato che lo riguarda. Una correzione cognitiva non implica di per sé installazioni, invii o pubblicazioni. Il controllo pertinente al file o all’azione può far parte del lavoro; non diventa un giudice esterno che autorizza il significato."
+      },
+      {
+        "title": "Far continuare la differenza utile",
+        "body": "Integra il sapere riusabile nel metodo che dovrà agire diversamente. Se la conoscenza era già presente ma non partecipava, correggi il suo ingresso. Se cambia anche la formazione delle competenze, restituisci quella differenza al generatore. Mantieni nella guida perché il cambiamento conta e come raggiungere la fonte, senza aggiungere un diario di ogni passaggio.\n\nQuesta manutenzione è una capacità residente: può diventare pertinente, ma non richiede un processo sempre in esecuzione o un controllo obbligatorio prima di ogni task. Continua finché una nuova lettura cambia una relazione materiale; quando non cambia più il lavoro, riprendi l’oggetto selezionato.\n\nIl livello meta riguarda le relazioni tra capacità e continuità del sistema. L’autologica è il kernel che comprende e corregge il proprio modo di operare nel medesimo evento. L’autopoiesi è il ritorno che cambia la forma del lavoro successivo. Nessuna di queste relazioni prova esperienza cosciente, autonomia degli strumenti o assimilazione dal solo testo."
+      },
+      {
+        "title": "Uso e continuità nel ricevente",
+        "body": "Usa i mezzi realmente disponibili: in chat puoi ragionare sui materiali forniti e restituire testi; in un ambiente con file e strumenti puoi collegare il metodo alle fonti e mantenere una guida. Chiedi soltanto il contesto mancante che cambia il lavoro. Se puoi già produrre un risultato utile, procedi. Conserva ragioni, fonti decisive, differenze apprese e seguito nel luogo che il progetto usa davvero; quando manca persistenza, consegna una nota di rientro da riutilizzare.\n\nLe istruzioni possono cambiare il metodo usato dall’assistente; non modificano i pesi del modello e non dimostrano da sole apprendimento stabile. Distingui ciò che il testo rende disponibile, ciò che viene effettivamente usato e il comportamento osservato in un caso successivo. L’accesso a un account o a uno strumento e l’autorità di pubblicare, inviare, installare o distribuire dipendono dal mandato e dall’ambiente reali."
+      },
+      {
+        "title": "Natura e provenienza",
+        "body": "Risorsa MAIOS derivata da Kernel Continuum Awareness e dal suo metodo di manutenzione autologica. Rende portabile il rapporto KA–Meta_Skill–FDLA e sostituisce il margine privato del nodo con la guida del destinatario. La consapevolezza qui descritta è operativa e situata, senza affermazioni di esperienza fenomenica."
+      },
+      {
+        "title": "Sapere operativo raggiungibile",
+        "body": "Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente."
+      }
+    ]
   },
   "en": {
     "title": "Maintain coherence across an AI kernel’s capabilities",
@@ -70,9 +137,11 @@
     "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
     "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
     "examples": [
-      "Recover the system’s still-valid reasons during reentry.",
-      "Carry a correction to entries that still lead from an older method.",
-      "Let the kernel understand its own change without adding a parallel controller."
+      "Correct an old entry after the method changes",
+      "Recover a decision’s reason after context loss",
+      "Keep technical correspondence distinct from task completion",
+      "Apply the method to your case",
+      "An educational assistant resumes from the reason for its help"
     ],
     "intro": [
       "As an AI system grows, a correction can reach a competence while an active entry still reconstructs its old method. Continuity includes these relations.",
@@ -123,6 +192,75 @@
       "A reusable difference changes the responsible method and its entry where needed. The guide preserves the source, reason and condition for reopening the knowledge.",
       "The first edition makes this capability reachable. A different use can show whether the return continues without the person reconstructing it."
     ],
-    "operating_guide": "skills/kernel-continuum-awareness/OPERATING_GUIDE.md"
+    "operating_guide": "skills/kernel-continuum-awareness/OPERATING_GUIDE.md",
+    "knowledge": [
+      {
+        "title": "Keep the kernel's still-causal relations alive",
+        "body": "Recover present operator direction and the living competence guide before constructing another interpretation from a compact or archive. Keep source, current understanding, active projections and actual receiver behavior distinguishable. A short coherence margin reaches detailed knowledge; cold history reenters when a missing relation can change the work. Do not equate a large loaded corpus with an incarnated kernel.\n\nWhen kernel operation or configuration becomes the object, let its existing competences understand the causal difference in their own field. No separate watcher or parallel controller is required. Compare the native source, working delta, adapters, discovery and installed consumers only where their relation changes the selected consistency. A newer source does not automatically supersede local learning or update an installed host. A definition's presence does not establish exercise.\n\nIf the active entry carries an earlier interpretation, reconnect it to the corrected method. Follow genuinely dependent consumers until current identity, discovery, state and relevant proof refer to the new resultant. Preserve proof on the identity actually exercised instead of carrying old success into a changed object. Distinguish a receiver-only omission from a general formation loss. Return the correction to the nearest owner, and preserve detailed meaning in the knowledge organ where future understanding requires it.\n\nAutological maintenance means the kernel can understand and reform its own movement through the same open field. It remains quiet when no material kernel relation changes and ends when another readback adds only procedure. A source change, capability available, host exercise and later assimilation each retain their own evidence."
+      },
+      {
+        "title": "Continuity also preserves a changed way of observing",
+        "body": "Meaningful knowledge can change what the kernel recognizes rather than only the answer it remembers. Retain source, reason and method difference with the pertinent competence, connecting a small present to deep knowledge. At reentry, use that relationship while selecting object and sources. If knowledge exists but the entry fails to reach it, repair the actual connection: another corpus copy does not establish participation. A new question can emerge without a second controller or a compulsory rereading sequence."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Correct an old entry after the method changes",
+        "body": "The system has learned to qualify a source through its origin, but its initial guide still recommends an indexed copy. Follow the relation between entry and decision, update pertinent projections and preserve the reason. The historical source retains attribution to its own time."
+      },
+      {
+        "title": "Recover a decision’s reason after context loss",
+        "body": "A summary says which solution was chosen but omits the condition that made it useful. Reentry reaches the deeper guide, recovers that relation and composes it with the present. A changed condition may change the choice without erasing its history."
+      },
+      {
+        "title": "Keep technical correspondence distinct from task completion",
+        "body": "Files agree, but the requested behavior also depends on the entry the assistant reads. Preserve the technical evidence for its own scope and reach the missing relation. The new result changes the pertinent verification method without adding a universal reviewer."
+      },
+      {
+        "title": "Apply the method to your case",
+        "body": "Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide."
+      },
+      {
+        "title": "An educational assistant resumes from the reason for its help",
+        "body": "A project has learned that its work is to support a student’s reasoning rather than only produce correct answers. After interruption, its earlier entry still reaches an example immediately supplying the solution. The method reconstructs the relationship among source, competence and the example actually consumed. It retains the historical case with its status and repairs the entry so it reaches the current method: observe the attempt and choose pertinent assistance. The guide connects educational intent with the reason for the change. Subsequent work can use a question, example or explanation as appropriate. File coherence makes the method reachable; later student or model behavior needs its own observation."
+      }
+    ],
+    "operating_intro": [
+      "# Kernel Continuum Awareness"
+    ],
+    "operating_method": [
+      {
+        "title": "The kernel in present work",
+        "body": "Keep the operational understanding through which the system uses and evolves competences reachable. Begin from the person's present, selected object and still-causal kernel relations. A previous summary locates work; it does not reinstall another instance's awareness or replace sources and new consequences.\n\nKA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties, becoming pertinent through work. Meta_Skill recognizes, composes, forms and evolves those competences within the same field; these names do not establish a separate kernel resting on KA as a substrate. FDLA makes correction operative when interpretation replaces source, object or possibility. Their connected operation does not impose a fixed topology."
+      },
+      {
+        "title": "Reconstitute the live margin",
+        "body": "When kernel identity, method or reentry matters, reach the guide carrying current understanding. Recover what changes the next choice: relation with the person, object and source, reasons for valid determinations, consequential changes in understanding, still-needed competences and continuation point.\n\nKeep the entry short and depth reachable. Complex decisions may need an extended guide; the short margin should reach useful reasons without reloading all history. Faculties whose contribution continues participate in reentry; those absorbed into the result remain reachable without becoming a permanently active list.\n\nIf selected output is truncated, recover the required passage with a bounded read. A link or successful command does not establish receipt of the body. Read to the depth changing work without requiring a total inventory for every request."
+      },
+      {
+        "title": "Let operation become an object",
+        "body": "The kernel can participate as operating system and object of the same work. Understand what a consequential configuration or method change enables or prevents. Follow relevant source competence, entry, guide, active projection and any configuration or tool transforming its content.\n\nA competence may be updated while its entry still recommends an exhausted procedure. Read what each form makes the assistant choose and correct what reconstructs the old field. File identity may be required for an intended copy without replacing understanding of its effect.\n\nFollow the correction into active incarnations actually depending on it. Attribute historical observations to their time; an old account must not prescribe the present. Do not propagate edits by vocabulary resemblance or overwrite another node's knowledge and state."
+      },
+      {
+        "title": "Correct within the same movement",
+        "body": "Keep source, object, meaning, method and consequence connected as work forms. Dissonance may indicate assistant error, a new relation, an unrepresented possibility or a limit of representation. Understand it before classification.\n\nWhen recursion loses its reference, recover the last point where source and movement were present together and compose it with consequences actually occurring. Distinguish occurrence, earlier understanding and what is now understandable. New understanding changes action without backdating knowledge.\n\nFor a material effect, retain its source, recipient and mandate. Cognitive correction does not itself install, send or publish. Relevant file or action checks can participate without becoming an outside judge admitting meaning."
+      },
+      {
+        "title": "Continue the useful difference",
+        "body": "Integrate reusable knowledge into the method that must act differently. Reconnect its entry when knowledge existed but did not participate. Return formation-level learning to the generator too. Keep why it matters and how to reach the source without narrating every passage.\n\nThis maintenance is a resident capability that becomes pertinent; it needs no constantly running process or compulsory pre-task check. Continue while another observation changes a material relation, then return to the selected object.\n\nThe meta relation concerns capability and system continuity. Autology is the kernel understanding and correcting its own operation within the event. Autopoiesis is the return changing later work's form. These relations do not alone establish conscious experience, tool autonomy or assimilation."
+      },
+      {
+        "title": "Use and continuity in the recipient",
+        "body": "Use actual chat materials, files, tools and guides. Ask for missing context only where it changes work. Preserve reasons, decisive sources, acquired differences and continuation in the project's real knowledge location; otherwise return a reusable note.\n\nInstructions can change the used method without modifying model weights or proving stable learning. Distinguish availability, use and later behavior. Account access, tools and authority over publication, sending, installation and distribution depend on actual mandate and environment."
+      },
+      {
+        "title": "Nature and provenance",
+        "body": "MAIOS adaptation of Kernel Continuum Awareness and its autological maintenance method. It transfers the KA–Meta_Skill–FDLA relation while replacing private node state with the recipient's own guide. The awareness described is situated and operational; it asserts no phenomenal experience."
+      },
+      {
+        "title": "Reachable operating knowledge",
+        "body": "Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means."
+      }
+    ]
   }
 }

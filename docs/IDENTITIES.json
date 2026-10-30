@@ -297,6 +297,46 @@
         "en": "/resources/collegare-competenze-al-lavoro/",
         "it": "/risorse/collegare-competenze-al-lavoro/"
       }
+    },
+    {
+      "resource_id": "dalla-sorgente-al-servizio",
+      "name": "Govern Source to Runtime",
+      "skill_name": "govern-source-to-runtime",
+      "folder": "skills/govern-source-to-runtime",
+      "routes": {
+        "en": "/resources/dalla-sorgente-al-servizio/",
+        "it": "/risorse/dalla-sorgente-al-servizio/"
+      }
+    },
+    {
+      "resource_id": "presentare-prodotti-su-github",
+      "name": "Present GitHub Product",
+      "skill_name": "present-github-product",
+      "folder": "skills/present-github-product",
+      "routes": {
+        "en": "/resources/presentare-prodotti-su-github/",
+        "it": "/risorse/presentare-prodotti-su-github/"
+      }
+    },
+    {
+      "resource_id": "ridurre-rumore-operativo",
+      "name": "D-ND Operational Noise Controller",
+      "skill_name": "dnd-operational-noise-controller",
+      "folder": "skills/dnd-operational-noise-controller",
+      "routes": {
+        "en": "/resources/ridurre-rumore-operativo/",
+        "it": "/risorse/ridurre-rumore-operativo/"
+      }
+    },
+    {
+      "resource_id": "comprendere-topologia-del-sistema",
+      "name": "D-ND Topology Evolution Guard",
+      "skill_name": "dnd-topology-evolution-guard",
+      "folder": "skills/dnd-topology-evolution-guard",
+      "routes": {
+        "en": "/resources/comprendere-topologia-del-sistema/",
+        "it": "/risorse/comprendere-topologia-del-sistema/"
+      }
     }
   ],
   "identity_fields": {

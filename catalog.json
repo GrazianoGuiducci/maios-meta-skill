@@ -1218,7 +1218,7 @@
     {
       "id": "creare-comporre-competenze",
       "name": "Meta_Skill Semantic Kernel",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "18",
@@ -1227,7 +1227,7 @@
       "starter": "skills/meta-skill-semantic-kernel/START_CHAT_EN.txt",
       "examples": "skills/meta-skill-semantic-kernel/EXAMPLES.md",
       "presentation": "skills/meta-skill-semantic-kernel/presentation.json",
-      "package": "dist/meta-skill-semantic-kernel-0.3.3.zip",
+      "package": "dist/meta-skill-semantic-kernel-0.3.4.zip",
       "it": {
         "title": "Creare e comporre competenze per un sistema AI",
         "kind": "Kernel generativo di competenze",
@@ -1235,13 +1235,15 @@
         "does": "Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.",
         "when": "Quando un sistema deve sviluppare un saper fare duraturo e la sola istruzione per il task non ne conserva metodo e apprendimento.",
         "examples": [
-          "Forma una competenza da un metodo maturato nel progetto.",
-          "Compone ricerca e scrittura per un lavoro specifico.",
-          "Riporta ciò che una nuova competenza insegna al modo di formarne altre."
+          "Dai preventivi a una capacità riutilizzabile",
+          "Comporre ricerca e scrittura",
+          "Il generatore corregge l’apprendimento da un esempio",
+          "Un progetto di biblioteca, contributi diversi",
+          "Un archivio cambia la capacità che stava per formare"
         ],
         "route": "/risorse/creare-comporre-competenze/",
         "description": "Meta_Skill fa diventare sapere, esperienza e possibilità capacità utilizzabili e capaci di evolvere.",
-        "status": "Edizione pubblica · 0.3.3"
+        "status": "Edizione pubblica · 0.3.4"
       },
       "en": {
         "title": "Create and compose competences for an AI system",
@@ -1250,13 +1252,15 @@
         "does": "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs.",
         "when": "When a system needs lasting know-how and a task instruction alone does not preserve its method or learning.",
         "examples": [
-          "Form a competence from a method developed in a project.",
-          "Compose research and writing for a particular piece of work.",
-          "Let a created competence improve how later competences are formed."
+          "Form a reusable capability from quotations",
+          "Compose research and writing around the same question",
+          "Let the generator correct how it learns from an example",
+          "One library project, several contributions",
+          "An archive changes the competence it was about to form"
         ],
         "route": "/resources/creare-comporre-competenze/",
         "description": "Meta_Skill turns knowledge, experience and possibilities into operating capabilities that can evolve through use.",
-        "status": "Public edition · 0.3.3"
+        "status": "Public edition · 0.3.4"
       },
       "native_entry": "meta-skill-semantic-kernel",
       "default_language": "en",
@@ -1430,7 +1434,7 @@
     {
       "id": "coerenza-kernel-ai",
       "name": "Kernel Continuum Awareness",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "21",
@@ -1439,7 +1443,7 @@
       "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
       "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
       "presentation": "skills/kernel-continuum-awareness/presentation.json",
-      "package": "dist/kernel-continuum-awareness-0.3.2.zip",
+      "package": "dist/kernel-continuum-awareness-0.3.3.zip",
       "it": {
         "title": "Mantenere coerenti le capacità di un kernel AI",
         "kind": "Metacompetenza del kernel",
@@ -1447,9 +1451,10 @@
         "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
         "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
         "examples": [
-          "Un rientro recupera le ragioni ancora valide del sistema.",
-          "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
-          "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+          "Il metodo cambia, il punto di rientro resta vecchio",
+          "Una nuova sessione perde la ragione di una scelta",
+          "Un controllo tecnico viene scambiato per completamento",
+          "Un assistente educativo riprende dalla ragione dell’aiuto"
         ],
         "route": "/risorse/coerenza-kernel-ai/",
         "description": "Conserva le relazioni vive del sistema attraverso correzioni, cambiamenti e riprese del lavoro."
@@ -1461,9 +1466,11 @@
         "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
         "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
         "examples": [
-          "Recover the system’s still-valid reasons during reentry.",
-          "Carry a correction to entries that still lead from an older method.",
-          "Let the kernel understand its own change without adding a parallel controller."
+          "Correct an old entry after the method changes",
+          "Recover a decision’s reason after context loss",
+          "Keep technical correspondence distinct from task completion",
+          "Apply the method to your case",
+          "An educational assistant resumes from the reason for its help"
         ],
         "route": "/resources/coerenza-kernel-ai/",
         "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."
@@ -1761,7 +1768,7 @@
     {
       "id": "sviluppare-possibilita-progetto",
       "name": "Situated Possibility Formation",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "26",
@@ -1795,7 +1802,7 @@
       "starter": "skills/situated-possibility-formation/START_CHAT_EN.txt",
       "examples": "skills/situated-possibility-formation/EXAMPLES.md",
       "presentation": "skills/situated-possibility-formation/presentation.json",
-      "package": "dist/situated-possibility-formation-0.1.0.zip",
+      "package": "dist/situated-possibility-formation-0.1.1.zip",
       "en": {
         "title": "Discover and develop possibilities for a project",
         "kind": "Generative competence",
@@ -1803,9 +1810,10 @@
         "does": "Makes useful possibilities intelligible and develops the questions, relations or means that can turn them into work.",
         "when": "When an idea is incomplete, the first solution feels narrow, or new knowledge can change what the project could become.",
         "examples": [
-          "Discover a service from knowledge already held by a team.",
-          "Develop a product idea through sketches and progressive decisions.",
-          "Recognize a useful collaboration in an unexpected source."
+          "A team's knowledge suggests a service",
+          "A sketch becomes a design conversation",
+          "A paper changes the question without taking over the project",
+          "Two equal readings open a question about representation"
         ],
         "route": "/resources/sviluppare-possibilita-progetto/",
         "description": "Let intent, existing capabilities and new understanding shape a useful next movement."
@@ -1817,9 +1825,10 @@
         "does": "Rende comprensibili possibilità utili e sviluppa domande, relazioni o mezzi che possono trasformarle in lavoro.",
         "when": "Quando un’idea è incompleta, la prima soluzione appare stretta o un nuovo sapere può cambiare ciò che il progetto può diventare.",
         "examples": [
-          "Riconosce un servizio dal sapere già presente in un gruppo.",
-          "Sviluppa un’idea di prodotto con schizzi e decisioni progressive.",
-          "Coglie una collaborazione utile in una fonte inattesa."
+          "Il sapere del gruppo suggerisce un servizio",
+          "Uno schizzo diventa una conversazione progettuale",
+          "Un paper cambia la domanda senza assorbire il progetto",
+          "Due letture uguali aprono una domanda sulla rappresentazione"
         ],
         "route": "/risorse/sviluppare-possibilita-progetto/",
         "description": "Intento, capacità presenti e nuova comprensione formano il prossimo movimento utile."
@@ -2319,7 +2328,7 @@
     {
       "id": "principi-che-diventano-capacita",
       "name": "Onto-Skill",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "34",
@@ -2353,7 +2362,7 @@
       "starter": "skills/onto-skill/START_CHAT_EN.txt",
       "examples": "skills/onto-skill/EXAMPLES.md",
       "presentation": "skills/onto-skill/presentation.json",
-      "package": "dist/onto-skill-0.1.3.zip",
+      "package": "dist/onto-skill-0.1.4.zip",
       "en": {
         "title": "From principles to abilities that evolve through work",
         "subtitle": "Intent, discoveries and corrections change the relevant competence’s method during work.",
@@ -2364,7 +2373,8 @@
         "examples": [
           "An educational principle forms a new way of helping",
           "A discovery changes how requests are handled",
-          "A correction that improves quotations"
+          "A correction that improves quotations",
+          "A library network changes how projects inherit a competence"
         ],
         "route": "/resources/principi-che-diventano-capacita/",
         "description": "Intent, discoveries and corrections change the relevant competence’s method during work."
@@ -2379,7 +2389,8 @@
         "examples": [
           "Un principio didattico forma un nuovo modo di aiutare",
           "Una scoperta cambia la gestione delle richieste",
-          "Una correzione che migliora i preventivi"
+          "Una correzione che migliora i preventivi",
+          "Una rete di biblioteche cambia come eredita una competenza"
         ],
         "route": "/risorse/principi-che-diventano-capacita/",
         "description": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori."
@@ -2530,7 +2541,7 @@
     {
       "id": "presentare-sistemi-in-evoluzione",
       "name": "MAIOS Presentation Competence",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "37",
@@ -2564,7 +2575,7 @@
       "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
       "examples": "skills/maios-presentation-competence/EXAMPLES.md",
       "presentation": "skills/maios-presentation-competence/presentation.json",
-      "package": "dist/maios-presentation-competence-0.1.3.zip",
+      "package": "dist/maios-presentation-competence-0.1.4.zip",
       "en": {
         "title": "Present a complex system’s capabilities and operation",
         "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -2575,7 +2586,8 @@
         "examples": [
           "A first encounter with MAIOS",
           "One system, different useful entrances",
-          "A diagram reveals a conceptual error"
+          "A diagram reveals a conceptual error",
+          "A school office understands what to delegate to AI"
         ],
         "route": "/resources/presentare-sistemi-in-evoluzione/",
         "description": "Connect identity, examples and sources in an explanation readers can navigate and explore."
@@ -2590,7 +2602,8 @@
         "examples": [
           "Un primo incontro con MAIOS",
           "Uno stesso sistema, ingressi utili differenti",
-          "Un diagramma rivela un errore concettuale"
+          "Un diagramma rivela un errore concettuale",
+          "Una segreteria scolastica comprende che cosa delegare all’AI"
         ],
         "route": "/risorse/presentare-sistemi-in-evoluzione/",
         "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire."
@@ -2944,7 +2957,7 @@
     {
       "id": "collegare-competenze-al-lavoro",
       "name": "Meta-Focus",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "43",
@@ -2984,11 +2997,12 @@
         "examples": [
           "A new room recomposes the exhibition’s work",
           "Two assistants change different contributions to one manual",
-          "Resume an experiment when the available instrument changes"
+          "Resume an experiment when the available instrument changes",
+          "Shared knowledge changes both the project and its common method"
         ],
         "route": "/resources/collegare-competenze-al-lavoro/",
         "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
-        "status": "Method in formation · 0.1.0"
+        "status": "Method in formation · 0.1.1"
       },
       "it": {
         "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -3000,18 +3014,312 @@
         "examples": [
           "Una nuova sala ricompone il lavoro della mostra",
           "Due assistenti modificano contributi diversi allo stesso manuale",
-          "Riprendere un esperimento quando cambia lo strumento disponibile"
+          "Riprendere un esperimento quando cambia lo strumento disponibile",
+          "Un principio condiviso cambia il progetto e il metodo comune"
         ],
         "route": "/risorse/collegare-competenze-al-lavoro/",
         "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
-        "status": "Metodo in formazione · 0.1.0"
+        "status": "Metodo in formazione · 0.1.1"
       },
       "skill": "skills/meta-focus/SKILL.md",
       "guide": "skills/meta-focus/README.md",
       "starter": "skills/meta-focus/START_CHAT_EN.txt",
       "examples": "skills/meta-focus/EXAMPLES.md",
       "presentation": "skills/meta-focus/presentation.json",
-      "package": "dist/meta-focus-0.1.0.zip"
+      "package": "dist/meta-focus-0.1.1.zip"
+    },
+    {
+      "id": "dalla-sorgente-al-servizio",
+      "name": "Govern Source to Runtime",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "44",
+      "native_entry": "govern-source-to-runtime",
+      "skill_name": "govern-source-to-runtime",
+      "source_title": "Govern Source to Runtime",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "languages": {
+        "it": {
+          "skill": "skills/govern-source-to-runtime/SKILL_IT.md",
+          "guide": "skills/govern-source-to-runtime/README_IT.md",
+          "starter": "skills/govern-source-to-runtime/AVVIO_CHAT_IT.txt",
+          "examples": "skills/govern-source-to-runtime/ESEMPI_IT.md",
+          "operating_guide": "skills/govern-source-to-runtime/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/govern-source-to-runtime/INSTALL_IT.md",
+          "runtime_sources": [
+            "skills/govern-source-to-runtime/scripts/reduce_release_state.py",
+            "skills/govern-source-to-runtime/scripts/validate_effect_request.py",
+            "skills/govern-source-to-runtime/references/release-context.schema.json",
+            "skills/govern-source-to-runtime/references/effect-request.schema.json",
+            "skills/govern-source-to-runtime/examples/release-context.sample.json",
+            "skills/govern-source-to-runtime/examples/effect-request.sample.json"
+          ],
+          "tool_guide": "skills/govern-source-to-runtime/TOOLS_IT.md"
+        },
+        "en": {
+          "skill": "skills/govern-source-to-runtime/SKILL.md",
+          "guide": "skills/govern-source-to-runtime/README.md",
+          "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
+          "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
+          "operating_guide": "skills/govern-source-to-runtime/OPERATING_GUIDE.md",
+          "installation": "skills/govern-source-to-runtime/INSTALL.md",
+          "runtime_sources": [
+            "skills/govern-source-to-runtime/scripts/reduce_release_state.py",
+            "skills/govern-source-to-runtime/scripts/validate_effect_request.py",
+            "skills/govern-source-to-runtime/references/release-context.schema.json",
+            "skills/govern-source-to-runtime/references/effect-request.schema.json",
+            "skills/govern-source-to-runtime/examples/release-context.sample.json",
+            "skills/govern-source-to-runtime/examples/effect-request.sample.json"
+          ],
+          "tool_guide": "skills/govern-source-to-runtime/TOOLS.md"
+        }
+      },
+      "it": {
+        "title": "Portare una modifica dalla sorgente al servizio realmente usato",
+        "subtitle": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio.",
+        "kind": "Metacompetenza",
+        "domain": "Pubblicazione e operatività",
+        "does": "Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.",
+        "when": "Quando pubblichi un sito, rilasci software, aggiorni un servizio o devi capire perché ciò che è online differisce dalla sorgente.",
+        "examples": [
+          "Il calendario corretto non è ancora quello pubblico",
+          "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
+          "La guida PDF cambia nell’esportazione"
+        ],
+        "route": "/risorse/dalla-sorgente-al-servizio/",
+        "description": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio."
+      },
+      "en": {
+        "title": "Carry a change from its source to the service people actually use",
+        "subtitle": "Connect revision, publication, activation and observation while keeping the transition recoverable.",
+        "kind": "Metacompetence",
+        "domain": "Publication and operation",
+        "does": "Governs the path from a selected change through publication to the result actually reached by its recipients.",
+        "when": "When publishing a website, releasing software, updating a service or explaining why the live result differs from its source.",
+        "examples": [
+          "The corrected calendar is not yet the public calendar",
+          "A published analysis model is not yet the model used by the service",
+          "A maintenance PDF changes during export"
+        ],
+        "route": "/resources/dalla-sorgente-al-servizio/",
+        "description": "Connect revision, publication, activation and observation while keeping the transition recoverable."
+      },
+      "skill": "skills/govern-source-to-runtime/SKILL.md",
+      "guide": "skills/govern-source-to-runtime/README.md",
+      "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
+      "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
+      "presentation": "skills/govern-source-to-runtime/presentation.json",
+      "package": "dist/govern-source-to-runtime-0.1.0.zip",
+      "maturity": "method_available_automation_candidate"
+    },
+    {
+      "id": "presentare-prodotti-su-github",
+      "name": "Present GitHub Product",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "45",
+      "native_entry": "present-github-product",
+      "skill_name": "present-github-product",
+      "source_title": "Present GitHub Product",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "languages": {
+        "it": {
+          "skill": "skills/present-github-product/SKILL_IT.md",
+          "guide": "skills/present-github-product/README_IT.md",
+          "starter": "skills/present-github-product/AVVIO_CHAT_IT.txt",
+          "examples": "skills/present-github-product/ESEMPI_IT.md",
+          "operating_guide": "skills/present-github-product/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/present-github-product/INSTALL_IT.md",
+          "runtime_sources": []
+        },
+        "en": {
+          "skill": "skills/present-github-product/SKILL.md",
+          "guide": "skills/present-github-product/README.md",
+          "starter": "skills/present-github-product/START_CHAT_EN.txt",
+          "examples": "skills/present-github-product/EXAMPLES.md",
+          "operating_guide": "skills/present-github-product/OPERATING_GUIDE.md",
+          "installation": "skills/present-github-product/INSTALL.md",
+          "runtime_sources": []
+        }
+      },
+      "it": {
+        "title": "Presentare un prodotto GitHub dal lavoro che permette di fare",
+        "subtitle": "Collega README, metadati, prove e primo uso, così chi arriva può capire e iniziare.",
+        "kind": "Metacompetenza",
+        "domain": "Presentazione di prodotti e repository",
+        "does": "Trasforma una repository in una presentazione coerente del prodotto, con capacità reali, prove pertinenti e un primo passo utilizzabile.",
+        "when": "Quando un README è corretto ma chi arriva non capisce il prodotto, il valore nel proprio lavoro o come iniziare.",
+        "examples": [
+          "Uno strumento universitario diventa comprensibile al primo uso",
+          "Un’infrastruttura mostra che cosa sostiene il suo benchmark",
+          "Un metodo educativo si presenta attraverso una lezione"
+        ],
+        "route": "/risorse/presentare-prodotti-su-github/",
+        "description": "Collega README, metadati, prove e primo uso, così chi arriva può capire e iniziare."
+      },
+      "en": {
+        "title": "Present a GitHub product through the work it enables",
+        "subtitle": "Connect README, metadata, evidence and first use so newcomers can understand and begin.",
+        "kind": "Metacompetence",
+        "domain": "Product and repository presentation",
+        "does": "Turns a repository into a coherent product presentation with real capabilities, pertinent evidence and a usable first step.",
+        "when": "When a README is accurate but newcomers cannot understand the product, its relevance to their work or how to begin.",
+        "examples": [
+          "A university tool becomes understandable at first use",
+          "An infrastructure product explains what its benchmark supports",
+          "An educational method presents itself through a lesson"
+        ],
+        "route": "/resources/presentare-prodotti-su-github/",
+        "description": "Connect README, metadata, evidence and first use so newcomers can understand and begin."
+      },
+      "skill": "skills/present-github-product/SKILL.md",
+      "guide": "skills/present-github-product/README.md",
+      "starter": "skills/present-github-product/START_CHAT_EN.txt",
+      "examples": "skills/present-github-product/EXAMPLES.md",
+      "presentation": "skills/present-github-product/presentation.json",
+      "package": "dist/present-github-product-0.1.0.zip"
+    },
+    {
+      "id": "ridurre-rumore-operativo",
+      "name": "D-ND Operational Noise Controller",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "46",
+      "native_entry": "dnd-operational-noise-controller",
+      "skill_name": "dnd-operational-noise-controller",
+      "source_title": "D-ND Operational Noise Controller",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "languages": {
+        "it": {
+          "skill": "skills/dnd-operational-noise-controller/SKILL_IT.md",
+          "guide": "skills/dnd-operational-noise-controller/README_IT.md",
+          "starter": "skills/dnd-operational-noise-controller/AVVIO_CHAT_IT.txt",
+          "examples": "skills/dnd-operational-noise-controller/ESEMPI_IT.md",
+          "operating_guide": "skills/dnd-operational-noise-controller/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/dnd-operational-noise-controller/INSTALL_IT.md",
+          "runtime_sources": []
+        },
+        "en": {
+          "skill": "skills/dnd-operational-noise-controller/SKILL.md",
+          "guide": "skills/dnd-operational-noise-controller/README.md",
+          "starter": "skills/dnd-operational-noise-controller/START_CHAT_EN.txt",
+          "examples": "skills/dnd-operational-noise-controller/EXAMPLES.md",
+          "operating_guide": "skills/dnd-operational-noise-controller/OPERATING_GUIDE.md",
+          "installation": "skills/dnd-operational-noise-controller/INSTALL.md",
+          "runtime_sources": []
+        }
+      },
+      "it": {
+        "title": "Ridurre il rumore informativo senza perdere le ragioni del lavoro",
+        "subtitle": "Seleziona le fonti che cambiano una scelta e conserva il resto raggiungibile, senza ripetere ogni volta la ricostruzione.",
+        "kind": "Metacompetenza",
+        "domain": "Attenzione, conoscenza e continuità",
+        "does": "Riduce il costo ripetuto di ritrovare decisioni, fonti e seguito, conservando prove, incertezze e possibilità utili.",
+        "when": "Quando guide, file, messaggi o risultati generati rendono lenta la ripresa e non è più chiaro quale fonte governi la scelta attuale.",
+        "examples": [
+          "Riprendere un laboratorio senza rileggere tutti i verbali",
+          "Una ricerca mantiene i dati profondi fuori dal primo ingresso",
+          "Una squadra distingue il rilascio dai residui del prototipo"
+        ],
+        "route": "/risorse/ridurre-rumore-operativo/",
+        "description": "Seleziona le fonti che cambiano una scelta e conserva il resto raggiungibile, senza ripetere ogni volta la ricostruzione."
+      },
+      "en": {
+        "title": "Reduce information noise without losing the reasons for the work",
+        "subtitle": "Select sources that can change a choice and keep the rest reachable, avoiding repeated reconstruction.",
+        "kind": "Metacompetence",
+        "domain": "Attention, knowledge and continuity",
+        "does": "Reduces the repeated cost of recovering decisions, sources and continuation while preserving evidence, uncertainty and useful possibilities.",
+        "when": "When guides, files, messages or generated results make resumption slow and it is unclear which source governs the current choice.",
+        "examples": [
+          "Resume a workshop without rereading every minute",
+          "Research keeps deep data outside the first entry",
+          "A team separates its release from prototype residue"
+        ],
+        "route": "/resources/ridurre-rumore-operativo/",
+        "description": "Select sources that can change a choice and keep the rest reachable, avoiding repeated reconstruction."
+      },
+      "skill": "skills/dnd-operational-noise-controller/SKILL.md",
+      "guide": "skills/dnd-operational-noise-controller/README.md",
+      "starter": "skills/dnd-operational-noise-controller/START_CHAT_EN.txt",
+      "examples": "skills/dnd-operational-noise-controller/EXAMPLES.md",
+      "presentation": "skills/dnd-operational-noise-controller/presentation.json",
+      "package": "dist/dnd-operational-noise-controller-0.1.0.zip"
+    },
+    {
+      "id": "comprendere-topologia-del-sistema",
+      "name": "D-ND Topology Evolution Guard",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "47",
+      "native_entry": "dnd-topology-evolution-guard",
+      "skill_name": "dnd-topology-evolution-guard",
+      "source_title": "D-ND Topology Evolution Guard",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "languages": {
+        "it": {
+          "skill": "skills/dnd-topology-evolution-guard/SKILL_IT.md",
+          "guide": "skills/dnd-topology-evolution-guard/README_IT.md",
+          "starter": "skills/dnd-topology-evolution-guard/AVVIO_CHAT_IT.txt",
+          "examples": "skills/dnd-topology-evolution-guard/ESEMPI_IT.md",
+          "operating_guide": "skills/dnd-topology-evolution-guard/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/dnd-topology-evolution-guard/INSTALL_IT.md",
+          "runtime_sources": []
+        },
+        "en": {
+          "skill": "skills/dnd-topology-evolution-guard/SKILL.md",
+          "guide": "skills/dnd-topology-evolution-guard/README.md",
+          "starter": "skills/dnd-topology-evolution-guard/START_CHAT_EN.txt",
+          "examples": "skills/dnd-topology-evolution-guard/EXAMPLES.md",
+          "operating_guide": "skills/dnd-topology-evolution-guard/OPERATING_GUIDE.md",
+          "installation": "skills/dnd-topology-evolution-guard/INSTALL.md",
+          "runtime_sources": []
+        }
+      },
+      "it": {
+        "title": "Riconoscere ruoli e responsabilità nel sistema realmente usato",
+        "subtitle": "Collega persone, interfacce, servizi e fonti per distinguere ciò che è dichiarato da ciò che è effettivamente disponibile.",
+        "kind": "Metacompetenza",
+        "domain": "Topologia, capacità e responsabilità",
+        "does": "Ricostruisce le relazioni operative di un sistema e individua differenze di identità, capacità, stato o responsabilità che cambiano il lavoro.",
+        "when": "Quando cambiano strumenti, persone, provider o ambienti, oppure due ingressi sembrano appartenere allo stesso sistema ma conducono a realtà diverse.",
+        "examples": [
+          "Il portale delle iscrizioni cambia ma le responsabilità restano separate",
+          "Due interfacce AI non hanno automaticamente le stesse capacità",
+          "Una migrazione universitaria distingue hosting e recupero applicativo"
+        ],
+        "route": "/risorse/comprendere-topologia-del-sistema/",
+        "description": "Collega persone, interfacce, servizi e fonti per distinguere ciò che è dichiarato da ciò che è effettivamente disponibile."
+      },
+      "en": {
+        "title": "Identify roles and responsibilities in the system actually used",
+        "subtitle": "Connect people, interfaces, services and sources to distinguish declared relationships from actual availability.",
+        "kind": "Metacompetence",
+        "domain": "Topology, capabilities and responsibility",
+        "does": "Reconstructs operational relationships and identifies differences in identity, capability, state or responsibility that change the work.",
+        "when": "When tools, people, providers or environments change, or two entries appear to belong to the same system while reaching different realities.",
+        "examples": [
+          "A registration portal changes while responsibilities remain separate",
+          "Two AI interfaces do not automatically have the same capabilities",
+          "A university migration distinguishes hosting from application recovery"
+        ],
+        "route": "/resources/comprendere-topologia-del-sistema/",
+        "description": "Connect people, interfaces, services and sources to distinguish declared relationships from actual availability."
+      },
+      "skill": "skills/dnd-topology-evolution-guard/SKILL.md",
+      "guide": "skills/dnd-topology-evolution-guard/README.md",
+      "starter": "skills/dnd-topology-evolution-guard/START_CHAT_EN.txt",
+      "examples": "skills/dnd-topology-evolution-guard/EXAMPLES.md",
+      "presentation": "skills/dnd-topology-evolution-guard/presentation.json",
+      "package": "dist/dnd-topology-evolution-guard-0.1.0.zip"
     }
   ],
   "primary_language": "en",

@@ -1,0 +1,114 @@
+
+# D-ND Topology Evolution Guard
+
+Reconstructs operational relationships and identifies differences in identity, capability, state or responsibility that change the work.
+
+A new interface can use the same service; an unchanged name can hide a different responsible owner. This method reconstructs relationships before choosing where to intervene.
+
+The result can be a small map, explanation or targeted proposal. Observing a difference does not authorize synchronization, installation or changes to other systems.
+
+## A registration portal changes while responsibilities remain separate
+
+A volunteer network changes its registration portal. The website still shows the old address, and two groups each believe the other handles confirmations.
+
+Connect the visible form, service retaining requests and group able to correct confirmations, without assigning powers from the portal name alone.
+
+## Adapt the map to your system
+
+Preserve the distinction between identity, name, role, interface, provider, execution location, state source and responsibility for a change. Organizations, tools and evidence forms vary.
+
+Bring the choice, available descriptions and authorized observational access. A human project, service network and assistant environment can need different maps. An already clear relation need not generate a new general register.
+
+## Begin with the relationship the work needs to understand
+
+Recognize which decision or risk the map should make intelligible. A clear task can proceed directly; uncertain identity requires further sources. A folder name, branch or open interface does not select the mutation object by itself. An artifact opened to inspect a result may remain only evidence.
+
+
+## Distinguish entities and roles through current sources
+
+Understand who acts, on which surface, with which provider or host and which source retains state. An entity can occupy several roles; a role can change holder. Qualify aliases and retain the reason for a stable identity. Filesystem proximity or available login does not establish ownership.
+
+
+## Connect relationships producing the effect
+
+Use understandable verbs: hosts, uses, distributes, reads state, writes, observes or replaces. State who owns pertinent meaning, state and effects. A dashboard can observe a service without controlling it. The map reaches the competent owner rather than absorbing all their decisions.
+
+
+## Compare declared capability and actual possibility
+
+A present skill, installed package, accessible account, reachable tool and exercised operation describe different states. Compare capabilities that could change the choice. A difference can be valid evolution, an unknown condition or drift; differing environments need not be made identical.
+
+
+## Qualify drift and its responsible owner
+
+Distinguish interface, capability, state, authority, identity, active-version and competence-entry differences. Preserve declaration, observation, sources, impact and who can correct it. In production separate source, service bootstrap, routing and application or infrastructure recovery. Restoring a machine does not establish application recovery.
+
+
+## Form a proportionate proposal and read its consequences
+
+Update the existing topology location when that write is entrusted, or return a proposal to its owner. Qualify remaining unknowns and the event requiring renewed observation. Synchronization, deployment or provider replacement has its own mandate. If a difference reveals a method limitation, refine that method; a new local alias stays with the project.
+
+## Continue through the actual project
+
+Keep the verified relationship, pertinent owner and supersession condition in the project’s existing location.
+
+Return reusable distinctions to the topology method; keep aliases, access and temporal state with their owners.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# D-ND Topology Evolution Guard — practical operating knowledge
+
+## A useful record teaches where the relation comes from
+
+Retain identity, understandable label, role in the current purpose, surface, responsible owner, source and observation time as needed. A recheck condition can be a contract or service change rather than a fixed deadline. The map must not claim completeness for unreached relationships.
+
+
+## Observation does not transfer ownership
+
+A dashboard, export or local copy can reveal another owner’s result. Preserve that link as observation. For correction reach the source producing the data unless the projection itself was explicitly selected. Editing the nearest copy can hide the cause and be undone by the next update.
+
+
+## Map health follows a concrete consequence
+
+Understand whether decisive relations have current sources, responsibilities conflict, a capability is asserted without observation and work can be resumed. Use a metric only when it guides a choice. An unverified fact can remain unknown without making the whole system unusable; one conflict about who writes can instead be decisive.
+
+
+## A changed interface need not mean a changed system
+
+Two applications can use the same backend or filesystem with different permissions and sessions. Similarly named environments can use different releases or credentials. Verify pertinent relationships without inspecting secrets or personal profiles. Capability transfer keeps package, installation, discovery, exercise and learning distinct.
+
+
+## Evolution belongs to a qualified transition and environment
+
+The method can observe, visualize and prepare a proposal without mutating other systems. An entrusted local change needs its own identity and readback; automatic application needs narrow policy and exercised recovery. One successful migration does not automate the entire map. Keep general knowledge with the competence and temporal names in the project’s adapter.
+
+## The map enables targeted interventions
+
+The kit transfers observation, comparison and proposal formation. It installs no synchronizer, grants no access and controls none of the described services.
+
+A new event can change identity, roles and pertinent sources. The map continues through observations without becoming a closed model of the system.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## A registration portal changes while responsibilities remain separate
+
+The volunteer network asks the AI to understand the new path. Sources show that the public site hosts only a link; the new form writes to the organizing group’s service, while email depends on another service. The map distinguishes interface, archive and sending. It identifies the stale-link owner and confirmation owner, preserving the source for each relation. The AI prepares two targeted corrections rather than replacing the whole platform. A person can select them with their respective groups; knowing who manages the form does not give the AI access to registrations or authority to send email.
+
+
+## Two AI interfaces do not automatically have the same capabilities
+
+A laboratory opens the same project in two applications. Both display the competence name, but one can read local files while the other receives only an attachment. The method compares capability relevant to the task rather than application branding: knowledge version, reachable sources, available tools and write authority. One can maintain a guide; the other returns a complete note for its owner to preserve. Neither is declared defective from asymmetry alone. The project records the use condition and may integrate an adapter when an actual need and suitable mandate exist.
+
+
+## A university migration distinguishes hosting from application recovery
+
+A department moves a consultation service to another host. Its provider offers machine snapshots, but the application database is managed elsewhere. The map connects repository, startup process, proxy, database and recovery owners. Before proposing activation, the group qualifies which version will run and how coherent data can be restored. Availability of an infrastructure snapshot is not called a complete application backup. The result is a migration proposal with an open database condition; reconstruction alone neither starts the transfer nor modifies the provider.
+
+
+My assignment, sources, existing work, available means and requested result:

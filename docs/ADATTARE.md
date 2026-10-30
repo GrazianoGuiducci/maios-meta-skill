@@ -26,3 +26,7 @@ La risorsa si usa direttamente con la propria AI, dentro un progetto o con un ke
 ## MKCV: beta, in apprendimento
 
 **MKCV — Mini Kernel Code Video è beta e sta imparando.** È il metodo di produzione video contenuto in Semantic Timelapse Formation. Un film rende osservabili scelte, limiti e nuove possibilità; queste osservazioni migliorano l’opera e il sapere che formerà il lavoro successivo. La versione del kit identifica i file distribuiti; lo stato beta descrive la maturità del metodo.
+
+## Pubblicazione, GitHub, attenzione e topologia
+
+Un’associazione può seguire il calendario corretto fino alla copia pubblica con Govern Source to Runtime; un gruppo di ricerca può spiegare uno strumento di inventario con Present GitHub Product. Operational Noise Controller aiuta a riprendere un laboratorio attraverso decisione e fonti effettive. Topology Evolution Guard distingue la pagina delle iscrizioni da archivio, servizio email e rispettivi responsabili. I casi completi spiegano quale rapporto si conserva e che cosa varia in un altro progetto. Leggere i metodi non crea credenziali di deploy, accessi, diritti di cancellazione o attivazioni di account.

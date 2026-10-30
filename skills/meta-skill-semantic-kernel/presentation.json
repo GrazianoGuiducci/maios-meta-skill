@@ -7,9 +7,11 @@
     "does": "Riconosce le capacità pertinenti, riusa o compone quelle presenti e forma il sapere operativo necessario a una nuova competenza quando emerge quella relazione.",
     "when": "Quando un sistema deve sviluppare un saper fare duraturo e la sola istruzione per il task non ne conserva metodo e apprendimento.",
     "examples": [
-      "Forma una competenza da un metodo maturato nel progetto.",
-      "Compone ricerca e scrittura per un lavoro specifico.",
-      "Riporta ciò che una nuova competenza insegna al modo di formarne altre."
+      "Dai preventivi a una capacità riutilizzabile",
+      "Comporre ricerca e scrittura",
+      "Il generatore corregge l’apprendimento da un esempio",
+      "Un progetto di biblioteca, contributi diversi",
+      "Un archivio cambia la capacità che stava per formare"
     ],
     "intro": [
       "Un buon lavoro può lasciare un risultato e anche un nuovo saper fare. Meta_Skill rende utilizzabile questa relazione: riconoscere capacità, comporle e formare ciò che permetterà al sistema di agire meglio nel contesto.",
@@ -132,6 +134,10 @@
       {
         "title": "La capacità formata e il generatore possono imparare cose diverse",
         "body": "Se i partecipanti fanno emergere un modo nuovo di collegare un brano alla propria esperienza, la competenza del laboratorio può acquisire quella scelta. Se la formazione aveva copiato la scheda invece di recuperarne la ragione, anche il generatore impara a leggere l’esempio. Sono ritorni diversi dallo stesso evento. I dettagli del laboratorio rimangono nel progetto. Un altro argomento può mostrare se la ragione resta operante; il primo output riuscito non lo stabilisce. File esistenti, note della conversazione o guide del progetto possono portare questo sapere senza un nuovo livello di coordinamento."
+      },
+      {
+        "title": "Il sapere acquisito può cambiare il punto da cui formi una capacità",
+        "body": "Non limitarti a inserire una nuova informazione nel compito inizialmente rappresentato. Comprendi se cambia l’oggetto riconoscibile, le relazioni, la pertinenza delle fonti, la domanda o il metodo. Un’osservazione aperta può produrre direttamente comprensione o una domanda prima non selezionata. Un incarico già determinato continua dal sapere pertinente, senza riaprirlo per abitudine. Incarnare questa relazione significa cambiare il metodo nativo della competenza, non aggiungere una domanda rituale, un controllo separato o l’attesa del richiamo umano."
       }
     ],
     "worked_examples": [
@@ -150,6 +156,10 @@
       {
         "title": "Un progetto di biblioteca, contributi diversi",
         "body": "La biblioteca porta un obiettivo dell’insegnante, due brani utilizzabili e un piano annotato dal bibliotecario. Il sapere educativo già disponibile aiuta a formare una competenza per preparare e adattare laboratori di lettura. Il metodo collega l’interpretazione di un partecipante alla domanda successiva, anziché prescrivere una scheda unica. Una conversazione usa l’avvio completo e restituisce una guida aggiornata; un sistema con accesso ai file conserva il metodo nel progetto. Lo stesso lavoro può insegnare a Evolution Guard cosa è cambiato e a Transfer Kernel Potential cosa deve ricevere un’altra biblioteca. Partecipano dove il contributo serve, nell’ordine utile."
+      },
+      {
+        "title": "Un archivio cambia la capacità che stava per formare",
+        "body": "Un archivio chiede una competenza che ordini automaticamente i documenti per autore. Una fonte raggiunta durante il lavoro mostra che diversi testi sono interventi collettivi e che attribuirli a una persona cancellerebbe una relazione significativa. Il generatore non si limita ad aggiungere un campo autori: il nuovo sapere cambia l’oggetto della capacità, che ora deve conservare contributi e provenienza prima di scegliere una classificazione. Riusa i metodi già disponibili su fonte e attribuzione e forma soltanto il sapere operativo ancora mancante. La guida dell’archivio conserva il caso; il generatore impara a riconoscere quando il criterio richiesto presuppone un’identità non sostenuta. Un altro archivio può continuare dal proprio criterio valido. Il metodo non impone di cambiare domanda a ogni incarico."
       }
     ],
     "reader_context": {
@@ -194,9 +204,11 @@
     "does": "Recognizes relevant capabilities, reuses or composes existing ones and forms the operating knowledge a continuing competence needs.",
     "when": "When a system needs lasting know-how and a task instruction alone does not preserve its method or learning.",
     "examples": [
-      "Form a competence from a method developed in a project.",
-      "Compose research and writing for a particular piece of work.",
-      "Let a created competence improve how later competences are formed."
+      "Form a reusable capability from quotations",
+      "Compose research and writing around the same question",
+      "Let the generator correct how it learns from an example",
+      "One library project, several contributions",
+      "An archive changes the competence it was about to form"
     ],
     "intro": [
       "Useful work can leave both a result and new know-how. Meta_Skill makes that relation usable: recognizing capabilities, composing them and forming what lets a system act in its actual context.",
@@ -315,6 +327,10 @@
       {
         "title": "The formed capability and its generator can learn differently",
         "body": "If participants reveal a new way to connect a passage with their experience, the workshop competence can acquire that choice. If formation had copied the worksheet instead of recovering the reason, the generator also learns how to read an example. These are different returns from the same event. The original workshop’s details stay with that project. Later use in another subject may show whether the reason remains operative; the successful first output does not establish that. Existing files, conversation notes or project guides can carry this knowledge without a new coordination layer."
+      },
+      {
+        "title": "Acquired knowledge can change where competence formation begins",
+        "body": "Do not only insert new information into the initially represented task. Understand whether it changes the recognizable object, relationships, source relevance, question or method. Open observation can directly produce understanding or a previously unselected question. A determined assignment continues through pertinent knowledge without habitual reopening. Incarnating this relation changes the competence’s native method rather than adding a ritual question, separate check or wait for a human reminder."
       }
     ],
     "worked_examples": [
@@ -333,6 +349,10 @@
       {
         "title": "One library project, several contributions",
         "body": "The library brings a teacher’s objective, two permitted excerpts and a librarian’s annotated session plan. Existing educational knowledge helps form a competence for preparing and adapting reading workshops. Its method connects a participant’s interpretation to the next question, rather than prescribing one worksheet. A conversation can use the complete starter and return a revised guide; a file-enabled system can retain the method in the project. The same work may later teach Evolution Guard what changed and Transfer Kernel Potential what another library needs to receive. They participate where their contribution matters, in any useful order."
+      },
+      {
+        "title": "An archive changes the competence it was about to form",
+        "body": "An archive requests a competence that automatically sorts documents by author. A source reached during the work shows that several texts are collective contributions and assigning one author would erase a meaningful relationship. The generator does not merely add an authors field: new knowledge changes the capability’s object, which must now preserve contributions and provenance before choosing classification. It reuses available source and attribution methods and forms only missing operating knowledge. The archive guide keeps the case; the generator learns to notice when a requested criterion assumes an unsupported identity. Another archive can continue with its own valid criterion. The method does not require changing the question in every assignment."
       }
     ],
     "reader_context": {

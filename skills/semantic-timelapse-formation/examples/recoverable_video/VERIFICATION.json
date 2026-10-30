@@ -1,5 +1,5 @@
 {
-  "receiver": "Codex TM9 / Windows",
+  "receiver": "Codex / Windows receiving environment",
   "scope": "AutoStudio 0.3.2 local adapter and original coded_scene; not the original 26-test package suite",
   "python": "3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]",
   "cases": {
@@ -112,5 +112,12 @@
   "media": {
     "resumed": "72 frames, 320x180, 24fps, original coded scene",
     "interrupted": "96 frames, 320x180, 24fps, real termination and recovery"
+  },
+  "projection_note": "The source observation retains its attribution; its private local node alias is generalized in this public projection.",
+  "current_receiver_verification": {
+    "state": "passed",
+    "scope": "local process liveness, controlled pause/resume, changed-job refusal, completed reuse and exact video comparison",
+    "platform": "win32",
+    "video_sha256": "113569bf22187a20c4a6a13bc66fd6826831a740726cdb2f562d80bc227c3a97"
   }
 }

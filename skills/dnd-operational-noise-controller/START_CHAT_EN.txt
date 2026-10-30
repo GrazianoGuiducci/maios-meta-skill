@@ -1,0 +1,119 @@
+
+# D-ND Operational Noise Controller
+
+Reduces the repeated cost of recovering decisions, sources and continuation while preserving evidence, uncertainty and useful possibilities.
+
+Many documents do not necessarily make a folder noisy. One superseded note still issuing instructions can force a group to reconstruct every decision.
+
+This method reduces what must be reconsidered for present work. Meaningful material remains in its own place; classification does not become permission to delete.
+
+## Resume a workshop without rereading every minute
+
+An association resumes a public workshop after a month. The approved program, drafts and minutes all have plausible titles; newcomers must ask again which one applies.
+
+A small entry should reach the current program, reasons for its choices and the condition that could change them, keeping previous versions recoverable.
+
+## Adapt attention to the present work
+
+Preserve the relationship between the current choice, sources that could change it and knowledge needed to continue. Documents, people, tools and privacy conditions vary. A low file count is not a universal quality measure.
+
+Bring the decision being resumed and existing entries. Begin with a note or reference list where sufficient; reading the whole archive or opening private material is unnecessary for classification.
+
+## Identify the choice the material should support
+
+Recognize object, responsible owner and present decision. A document can matter to another work without changing this choice. Let acquired knowledge correct the question too: the problem may be a superseded authority rather than too many files. Stopping at the first label of disorder would lose that difference.
+
+
+## Understand material roles before reducing attention
+
+Distinguish current source, active evidence, work contribution, supporting material, regenerable output and history. A conflicting source needs comparison, not removal. Unknown material remains unclassified; private input must not be opened or summarized by inertia. A count can guide attention without deciding what is disposable.
+
+
+## Reduce reconstruction where the work already belongs
+
+Connect the current entry to reasons and evidence enabling continuation. Replace repetition with reachable references, separate regenerable detail from decision knowledge and identify superseded instructions. Reuse the existing guide. A new index is useful when it preserves a scattered relation rather than duplicating another authoritative state.
+
+
+## Retain a small present with recoverable depth
+
+The present reaches work, reasons, decisive sources, completed effects and next movement. History remains available and returns when a question, conflict or recovery makes it pertinent. Before interruption, preserve what the consequence requires: delicate work may need version, completed boundary and recovery; a simple act may need one note.
+
+
+## Separate attention selection from material mutation
+
+Labeling a document historical does not authorize deletion, movement or shared-history rewriting. Where those actions become useful, resolve object, mandate and recovery with the actual owner. Classification can already help without changing the archive. Preserve concurrent contributions and do not include unrelated files in a release merely to tidy the state.
+
+
+## Observe whether continuation requires less reconstruction
+
+Resume from the resulting entry and check that decision, reasons and evidence remain reachable without rebuilding them from chronology. One fewer passage, a resolved conflict or a clearer note can be useful; retain only a measure that changes the work. If reduction hides uncertainty or recovery, restore that connection. Refine the method rather than adding another permanent report.
+
+## Continue through the actual project
+
+Keep an entry reaching the choice, its reasons and continuation with the least useful reconstruction.
+
+Return a recurring loss to the method or connection that must change; keep meaningful material with its owner.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# D-ND Operational Noise Controller — practical operating knowledge
+
+## Noise depends on a decision rather than volume
+
+A measurement collection can be necessary for scientific verification and irrelevant to choosing a meeting date. A short note can instead introduce a wrong deadline. Qualify what each source supports and who owns its truth. Unloaded material remains reachable: current selection and overall value are different facts.
+
+
+## A pointer should preserve the useful relation
+
+“See the folder” leaves reconstruction to its recipient. A useful reference identifies both the material and why it enters the choice. If the recipient cannot access it, place essential knowledge in the note they will use. Condensation preserves reasons and conditions; shortening to a quota can erase them.
+
+
+## A contradiction is not a duplicate to hide
+
+Two minutes may represent different times or a still-open decision. Compare source, date, object and authority. Preserve the distinction identifying today’s applicable version, remaining uncertainty and who can resolve it. Copies agreeing on the same text do not provide independent confirmation.
+
+
+## Generated detail needs a recovery route
+
+A regenerable log or figure can stay outside the daily entry if its source, identity and recovery means remain clear. Irreproducible proof or a recovery reason may need specific retention. Do not delete output merely because it looks generated or multiply attachments to attest an already available check.
+
+
+## Checking tools can themselves create noise
+
+A detector can confuse an identifier with a credential or an example with an active command. Retain only path, class and count before exposing a value; understand the observation mechanism and verify correction on the same scope. A qualified false positive may correct the checker; a real match remains for its responsible owner to handle.
+
+
+## Attention reduction should reduce its own cost
+
+Do not turn every folder into a taxonomy or every wake into a complete audit. A new material difference makes another passage useful; still-valid knowledge need not be reread ceremonially. If an index requires more maintenance than the reconstruction it avoids, simplify it while retaining necessary connections.
+
+## A clearer entry preserves more possibilities
+
+The kit transfers an attention and continuity method. It includes no automatic cleaner and grants no access to private material.
+
+Later use shows whether the small present still preserves evidence and possibilities. A material difference can bring a previously secondary source into focus.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## Resume a workshop without rereading every minute
+
+The association has six program drafts, two decisions and a private registration list. The AI reads authorized entries and finds that the latest note proposes a date while an earlier minute retains the approved decision. It connects the current program to that minute and identifies the proposal as such in the existing guide. Old drafts remain reachable; the private list is not opened to classify the archive. On resumption, organizers reach the valid date, its reason and the remaining decision. The improvement is avoided reconstruction with the same proof available, not fewer files.
+
+
+## Research keeps deep data outside the first entry
+
+A group produces many plots during an experiment. Its summary copies every result and obscures the open question. The method keeps question, pertinent configuration, supported conclusion and observational limit in the entry, reaching other plots through the dossier preserving their origin and identity. A relevant anomaly reopens that series without loading every file at every session. Material kept in depth is not declared useless, and a summary does not strengthen the scientific result. Research retains its own owner and evidence.
+
+
+## A team separates its release from prototype residue
+
+A repository contains the entrusted change, a colleague’s prototype and many generated test files. The AI does not use their count to propose general cleanup. It qualifies the release delta, preserves the prototype and connects verification results to their cases. The release summary reaches what is needed to understand version and recovery, with detail in its dossier. An unexpected observation reopens the pertinent case rather than the whole folder. The commit selects only entrusted work. Reduction concerns attention and ambiguity; removing files remains a separate effect.
+
+
+My assignment, sources, existing work, available means and requested result:

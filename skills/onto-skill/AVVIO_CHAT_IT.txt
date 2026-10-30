@@ -1,3 +1,4 @@
+
 # Onto-Skill
 
 Rende operante una relazione di principio nella competenza e nell’abilità situata, da intento, scoperta, osservazione o correzione.
@@ -24,23 +25,27 @@ Porta alla tua AI il principio o il contributo originale, un esempio del lavoro 
 
 Recupera parole effettive, autore, situazione e ragione della differenza. Distingui il contributo originale dall’interpretazione dell’assistente. Tenere breve una relazione può essere una scelta per quell’incontro; recuperare ragioni decisionali mancanti può insegnare una capacità ricorrente. Conserva un significato ancora indeterminato come domanda aperta.
 
+
 ## Riconoscere la relazione che cambia un altro caso
 
 Forma la relazione generale più piccola sostenuta dal contributo, conservando le condizioni che la rendono utile. Distingui principio, divieto permanente, invariante e preferenza. Riconosci se la competenza pertinente possiede già quel sapere: quando non ha partecipato, ripara l’ingresso anziché duplicare una regola.
+
 
 ## Cambiare il metodo della competenza
 
 Individua il lavoro che deve cambiare: scegliere una fonte, formare una domanda, confrontare alternative, costruire un artefatto o riprendere dopo un’interruzione. La competenza responsabile incarna il principio nelle proprie scelte e nella propria guida. Lo stesso evento può cambiare più responsabili, ciascuno nel proprio metodo.
 
+
 ## Rendere l’abilità situata
 
 Comprendi quali ricevente, sapere, strumenti e responsabilità rendono esercitabile l’abilità. Lo stesso metodo può contribuire diversamente a chat, assistente di progetto o attività programmata. Conserva la distinzione utile al seguito. La skill rende disponibile il sapere; l’ambiente determina persistenza ed effetti esterni effettivamente esercitabili.
+
 
 ## Lasciare che le conseguenze affinino il principio
 
 Nel lavoro successivo osserva cosa il principio ha conservato, cambiato o ristretto involontariamente. Distingui accaduto, comprensione di allora e attuale. Affina o raffredda il principio quando cambia la relazione; un altro caso può indicare una formulazione o un destinatario migliori. Fermati quando generalizzare ancora aggiunge soltanto forma.
 
-## Continuare nel progetto
+## Continuare attraverso il progetto reale
 
 Restituisci la discriminazione delle fonti a questo metodo e le scelte di dominio alla competenza che le possiede.
 
@@ -48,56 +53,77 @@ Mantieni operante il principio mentre è utile; lascia che un caso materialmente
 
 ## Sapere operativo
 
-Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Componi i metodi pertinenti del tuo ambiente; strumenti, persistenza e autorità restano quelli realmente disponibili.
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
 
-# Onto-Skill — sapere operativo
+
+# Onto-Skill — sapere operativo pratico
 
 ## Principio, competenza e abilità
 
 Un principio è una relazione trasferibile che cambia una classe di scelte. Una competenza conserva sapere e metodo. Un’abilità ne è l’esercizio situato attraverso un ricevente e mezzi reali. La relazione evolve nel lavoro, senza fasi seriali obbligatorie. Quando la fonte contiene assiomi fondativi, essi conservano l’autorità dell’autore; Onto-Skill approfondisce comprensione e metodo senza riscriverli.
 
+
 ## La continuazione utile
 
 Conserva fonte, ragione, ambito, competenza responsabile e scelta che deve cambiare. Usa la guida o la sede di sapere già pertinente. Catalogare ogni frase perde il rapporto causale. Se il ricevente non può salvare, restituisci una proposta breve e attribuita a chi può farlo; proposta e aggiornamento persistito conservano stati distinti.
+
 
 ## Far agire intento e scoperta mentre il lavoro si forma
 
 Un intento didattico, un esempio riuscito o una relazione inattesa rendono pertinente un principio anche prima di un errore. Comprendi la fonte mentre svolgi l’incarico reale. Il principio cambia fonti, domande e competenze partecipanti; non sospende il lavoro per un’approvazione separata. Un esito utile può approfondire una capacità esistente, cambiare la domanda o non richiedere una nuova skill.
 
+
 ## Riconoscere la scelta che deve cambiare in un altro caso
 
 Individua la condizione che cambia una scelta, la competenza responsabile e la ragione. Confronta un caso diverso in cui quella condizione manca, conservando la diversa azione appropriata. Se il sapere già presente riconosce la distinzione, ripristinane la partecipazione anziché creare un’altra regola. Un principio può avere più destinatari senza imporre loro una modifica identica.
+
 
 ## Conservare la portata utile di una preferenza locale
 
 Una relazione di una pagina per il consiglio serviva quell’incontro. Applicare lo stesso limite a una guida di ripristino fa perdere i passaggi necessari. Conserva preferenza e situazione originali; comunicazione e ripristino mantengono le rispettive forme utili. La relazione trasferibile riguarda ciò che serve al destinatario per decidere o proseguire, non un numero universale di pagine.
 
+
 ## Collegare metodo, mezzi e continuazione durevole
 
 Cambia il metodo effettivo di scelta delle fonti o delle azioni nella competenza responsabile e conserva la ragione nella sua guida. In un progetto con file salva il delta locale autorizzato; in chat restituisci la modifica precisa che la persona conserverà. Mezzi, accessi e autorità determinano l’abilità esercitabile. Scrivere un’istruzione o disegnare una skill che evolve non cambia i pesi del modello né configura un servizio persistente.
+
 
 ## Lasciare che il risultato cambi come si formano i principi
 
 Se un principio cancella una differenza importante in un altro caso, recupera la fonte e comprendi perché la generalizzazione era troppo ampia. Affina il metodo di dominio e il modo di Onto-Skill di riconoscere condizioni trasferibili quando entrambi devono cambiare. Conserva accaduto, comprensione di allora e comprensione attuale. L’uso successivo non identico può mostrare come continua il sapere.
 
+
+## Un principio può rendere reciproco il rapporto fra progetto e sistema
+
+Quando il progetto deve lavorare attraverso le competenze già disponibili, incarna il principio nel suo ingresso effettivo e nel metodo che sceglie le fonti. La differenza di dominio resta al progetto; una relazione riusabile può affinare il sapere comune che lo sostiene. Se la capacità esiste ma non partecipa, correggi il collegamento. Se manca il saper fare, approfondisci la competenza; se il mezzo non può compiere il gesto, qualifica quella condizione presso il ricevente. Un richiamo o un footer non dimostrano da soli questa partecipazione.
+
 ## Il principio cambia anche come si formano i principi
 
 Quando l’uso mostra una generalizzazione troppo ampia o senza fonte, Onto-Skill affina anche il proprio modo di riconoscere i principi. La correzione cambia la formazione successiva.
 
+
 # Esempi sviluppati
 
-Casi illustrativi: insegnano condizioni, scelte e continuazione; non sono risultati osservati presso clienti.
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
 
 ## Un principio didattico forma un nuovo modo di aiutare
 
 Una docente vuole che l’AI aiuti gli studenti a spiegare il proprio ragionamento. Il principio guida la formazione della competenza didattica: di fronte a un problema, l’assistente comprende il tentativo dello studente e sceglie una domanda che gli permetta di proseguire. Una spiegazione diretta resta pertinente quando serve a chiarire un concetto. La capacità nasce dall’intento didattico e cambia con età, materia e difficoltà incontrata; il principio conserva la propria ragione.
 
+
 ## Una scoperta cambia la gestione delle richieste
 
 Un gruppo tratta richieste di assistenza con l’AI. Due segnalazioni simili richiedono risposte diverse perché una riguarda un dispositivo ancora coperto dall’assistenza e l’altra no. La distinzione trasferibile è comprendere la condizione che cambia la decisione prima di riusare una risposta. La competenza di trattamento collega origine, condizioni e scelta. In un caso successivo con sintomi diversi ma la stessa condizione, riconosce il rapporto utile; le autorizzazioni del servizio restano ai responsabili. Il sapere acquisito può affinare anche come Onto-Skill cerca condizioni generalizzabili.
+
 
 ## Una correzione che migliora i preventivi
 
 Uno studio rifiuta un preventivo AI perché sono scomparse le ragioni di due costi insoliti. «Conserva la ragione di un’eccezione» porta più della richiesta di allungare il testo. Recupera la correzione originale e distinguila dall’obbligo di spiegare ogni riga. La competenza preventivi impara a riconoscere lo scostamento che cambia una decisione e conserva la causa vicino all’importo. Nel successivo preventivo semplice resta concisa. Il risultato trasferibile è una migliore discriminazione delle eccezioni rilevanti.
 
-Incarico e contesto: aggiungi ciò che vuoi rendere possibile, fonti, lavoro precedente, mezzi e responsabili reali. Conserva la continuazione nel progetto o restituiscila alla persona quando non puoi salvarla.
+
+## Una rete di biblioteche cambia come eredita una competenza
+
+La rete vuole che le biblioteche locali imparino dal sapere comune e restituiscano ciò che funziona altrove. Un assistente propone di copiare tutte le istruzioni in ogni progetto. Onto-Skill recupera il principio e la sua ragione: rendere pertinente il sapere mentre il lavoro si forma, mantenendo la possibilità di migliorarlo. L’ingresso di una biblioteca raggiunge il metodo comune e le proprie fonti, senza leggere tutto l’archivio. Un caso locale mostra che il rinvio a un’edizione non conserva una diversa regola di prestito; quella regola resta del dominio, mentre il metodo condiviso impara a conservare la condizione che rende valido un riferimento. La rete non presume che ogni biblioteca abbia già ricevuto l’aggiornamento. Il caso trasferisce un rapporto generativo, non una sincronizzazione automatica.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

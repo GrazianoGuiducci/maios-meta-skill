@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**44 resources for working with AI, forming competences and evolving their methods.**
+**48 resources for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -22,7 +22,7 @@ Edition 0.3.0 restores developed examples and practical operating knowledge from
 
 Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
 
-The `skills/` directory contains the 44 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
+The `skills/` directory contains the 48 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
 ## Choose a resource
 
@@ -74,6 +74,10 @@ The collection includes operating competences, metacompetences, functions and ke
 | [Film Montage](skills/film-montage/README.md) | Forms cinematic meaning through the temporal relation of shots, duration, sound and transitions, preserving the source and the scene’s intended consequences. | Temporal composition competence |
 | [System Fundable Project Extraction](skills/system-fundable-project-extraction/README.md) | Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found. | Generative metacompetence |
 | [Meta-Focus](skills/meta-focus/README.md) | Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution. | Metacompetence |
+| [Govern Source to Runtime](skills/govern-source-to-runtime/README.md) | Governs the path from a selected change through publication to the result actually reached by its recipients. | Metacompetence |
+| [Present GitHub Product](skills/present-github-product/README.md) | Turns a repository into a coherent product presentation with real capabilities, pertinent evidence and a usable first step. | Metacompetence |
+| [D-ND Operational Noise Controller](skills/dnd-operational-noise-controller/README.md) | Reduces the repeated cost of recovering decisions, sources and continuation while preserving evidence, uncertainty and useful possibilities. | Metacompetence |
+| [D-ND Topology Evolution Guard](skills/dnd-topology-evolution-guard/README.md) | Reconstructs operational relationships and identifies differences in identity, capability, state or responsibility that change the work. | Metacompetence |
 
 ## Compose capabilities around a real task
 
@@ -86,7 +90,7 @@ These are possible compositions, not compulsory pipelines.
 
 ## Use in your environment
 
-With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 44 resources for one assignment.
+With an existing kernel, integrate the selected capability into the knowledge and guides already serving the project. Without a kernel, use the included method directly. You do not need to load all 48 resources for one assignment.
 
 Host tools, persistence, accounts and recurring activation depend on the actual environment. A method file does not configure them. The [use guide](docs/USE.md) explains how to connect the method to real means and preserve the knowledge needed for reentry.
 

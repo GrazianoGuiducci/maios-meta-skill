@@ -1,3 +1,13 @@
+# Public competence resources — 48 transferable methods
+
+Four initial editions add source-to-runtime governance, GitHub product presentation, operational noise control and system topology. Each provides English and Italian operating knowledge, complete starters and three developed cases situated beyond MAIOS. Release governance also carries the two read-only validators and their schemas and fictional fixtures; it installs no privileged activator.
+
+Nine existing editions receive operating knowledge: recoverable MKCV video, cooperative reception and effect distinctions, public-method maturity, reciprocal project/system support, adoption, observation resolution and knowledge that can change the point of observation. The 35 other competence editions and package identities are preserved. MKCV remains beta and learning; Meta-Focus remains a method in formation. An edition number does not establish independent use or universal maturity.
+
+This is the source edition. Website publication, request-context consumption, runtime activation and recipient behavior retain their own identities and observations. Examples are illustrative. Use each method independently, compose it with existing project competences or integrate through the actual receiving kernel and tools.
+
+## Earlier source states
+
 # Public-resource candidates — 30 October 2026
 
 The review branch combines the current public collection with the recoverable MKCV 0.1.4 candidate, cooperative capability 0.1.4 and resource formation 0.3.5. New practical knowledge distinguishes reception, requested action, effect and observation; edition and method maturity follow the actual receiving presentation. Existing methods and cases remain available in both languages. General use guides follow the current catalogue and connect Meta-Focus without a fixed stack. The other 41 public resource editions and archives are preserved. These are review candidates: source preparation does not publish the website or activate Chat.

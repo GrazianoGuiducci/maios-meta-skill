@@ -1,0 +1,175 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://d-nd.com/schemas/govern-source-to-runtime/effect-request.v1.json",
+  "title": "Evidence-bound source/runtime effect request",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "request_id",
+    "created_at",
+    "effect",
+    "operator_selection",
+    "source",
+    "validation",
+    "runtime",
+    "security",
+    "receipt"
+  ],
+  "properties": {
+    "schema": {"const": "dnd.effect-request.v1"},
+    "request_id": {"type": "string", "minLength": 1},
+    "created_at": {"type": "string", "format": "date-time"},
+    "effect": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind", "source_publication", "runtime_activation", "production_bound",
+        "batch_policy", "policy_evidence"
+      ],
+      "properties": {
+        "kind": {"enum": ["source_push", "production_bound_push", "runtime_activation", "combined_release"]},
+        "source_publication": {"type": "boolean"},
+        "runtime_activation": {"type": "boolean"},
+        "production_bound": {"type": "boolean"},
+        "batch_policy": {"enum": ["single_effect", "combined_adopted"]},
+        "policy_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "operator_selection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["outcome", "source", "covers_source_publication", "covers_runtime_activation"],
+      "properties": {
+        "outcome": {"type": "string", "minLength": 1},
+        "source": {"type": "string", "minLength": 1},
+        "covers_source_publication": {"type": "boolean"},
+        "covers_runtime_activation": {"type": "boolean"}
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "repository", "branch", "local_revision", "local_tree", "diff_reviewed",
+        "diff_review_evidence", "scoped_paths", "excluded_dirty_paths",
+        "excluded_paths_preserved", "remote_targets", "authenticated_remote_verified",
+        "remote_verification_evidence", "ancestry_verified", "ancestry_evidence",
+        "production_consumer_known", "production_consumer_evidence"
+      ],
+      "properties": {
+        "repository": {"type": "string", "minLength": 1},
+        "branch": {"type": "string", "minLength": 1},
+        "local_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "local_tree": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "diff_reviewed": {"type": "boolean"},
+        "diff_review_evidence": {"type": "string", "minLength": 1},
+        "scoped_paths": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "excluded_dirty_paths": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "excluded_paths_preserved": {"type": "boolean"},
+        "remote_targets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["branch", "role", "observed_revision", "expected_revision", "will_update"],
+            "properties": {
+              "branch": {"type": "string", "minLength": 1},
+              "role": {"enum": ["candidate", "production"]},
+              "observed_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+              "expected_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+              "will_update": {"type": "boolean"}
+            }
+          }
+        },
+        "authenticated_remote_verified": {"type": "boolean"},
+        "remote_verification_evidence": {"type": "string", "minLength": 1},
+        "ancestry_verified": {"type": "boolean"},
+        "ancestry_evidence": {"type": "string", "minLength": 1},
+        "production_consumer_known": {"type": "boolean"},
+        "production_consumer_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "passed_checks", "failed_checks"],
+      "properties": {
+        "status": {"enum": ["pass", "partial", "fail"]},
+        "passed_checks": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "failed_checks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "classification", "evidence"],
+            "properties": {
+              "id": {"type": "string", "minLength": 1},
+              "classification": {"enum": ["preexisting_out_of_scope", "in_scope", "unknown"]},
+              "evidence": {"type": "string", "minLength": 1}
+            }
+          }
+        }
+      }
+    },
+    "runtime": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": [
+        "host", "path", "current_revision", "target_revision", "identity_evidence",
+        "source_first_path", "runtime_drift", "direct_runtime_edit", "service_allowlist",
+        "services_to_restart", "services_currently_active", "rollback_revision",
+        "rollback_available", "rollback_independent", "rollback_evidence",
+        "terminal_checks", "unchanged_surfaces"
+      ],
+      "properties": {
+        "host": {"type": "string", "minLength": 1},
+        "path": {"type": "string", "minLength": 1},
+        "current_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "target_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "identity_evidence": {"type": "string", "minLength": 1},
+        "source_first_path": {"type": "boolean"},
+        "runtime_drift": {"type": "boolean"},
+        "direct_runtime_edit": {"type": "boolean"},
+        "service_allowlist": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "services_to_restart": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "services_currently_active": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "services_currently_successful_oneshot": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "rollback_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "rollback_available": {"type": "boolean"},
+        "rollback_independent": {"type": "boolean"},
+        "rollback_evidence": {"type": "string", "minLength": 1},
+        "terminal_checks": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "unchanged_surfaces": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "security": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "credential_policy_source", "credential_locality_preserved", "noninteractive_auth",
+        "secrets_redacted", "candidate_code_runs_privileged", "force_push",
+        "destructive_history", "credential_evidence"
+      ],
+      "properties": {
+        "credential_policy_source": {"type": "string", "minLength": 1},
+        "credential_locality_preserved": {"type": "boolean"},
+        "noninteractive_auth": {"type": "boolean"},
+        "secrets_redacted": {"type": "boolean"},
+        "candidate_code_runs_privileged": {"type": "boolean"},
+        "force_push": {"type": "boolean"},
+        "destructive_history": {"type": "boolean"},
+        "credential_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "receipt": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["owner", "path"],
+      "properties": {
+        "owner": {"type": "string", "minLength": 1},
+        "path": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

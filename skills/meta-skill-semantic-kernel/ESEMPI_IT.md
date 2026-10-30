@@ -20,3 +20,8 @@ Un gruppo forma il metodo di un laboratorio da un’ottima dimostrazione. Ne con
 ## Un progetto di biblioteca, contributi diversi
 
 La biblioteca porta un obiettivo dell’insegnante, due brani utilizzabili e un piano annotato dal bibliotecario. Il sapere educativo già disponibile aiuta a formare una competenza per preparare e adattare laboratori di lettura. Il metodo collega l’interpretazione di un partecipante alla domanda successiva, anziché prescrivere una scheda unica. Una conversazione usa l’avvio completo e restituisce una guida aggiornata; un sistema con accesso ai file conserva il metodo nel progetto. Lo stesso lavoro può insegnare a Evolution Guard cosa è cambiato e a Transfer Kernel Potential cosa deve ricevere un’altra biblioteca. Partecipano dove il contributo serve, nell’ordine utile.
+
+
+## Un archivio cambia la capacità che stava per formare
+
+Un archivio chiede una competenza che ordini automaticamente i documenti per autore. Una fonte raggiunta durante il lavoro mostra che diversi testi sono interventi collettivi e che attribuirli a una persona cancellerebbe una relazione significativa. Il generatore non si limita ad aggiungere un campo autori: il nuovo sapere cambia l’oggetto della capacità, che ora deve conservare contributi e provenienza prima di scegliere una classificazione. Riusa i metodi già disponibili su fonte e attribuzione e forma soltanto il sapere operativo ancora mancante. La guida dell’archivio conserva il caso; il generatore impara a riconoscere quando il criterio richiesto presuppone un’identità non sostenuta. Un altro archivio può continuare dal proprio criterio valido. Il metodo non impone di cambiare domanda a ogni incarico.

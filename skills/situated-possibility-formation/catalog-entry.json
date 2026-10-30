@@ -1,7 +1,7 @@
 {
   "id": "sviluppare-possibilita-progetto",
   "name": "Situated Possibility Formation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "26",
@@ -35,7 +35,7 @@
   "starter": "skills/situated-possibility-formation/START_CHAT_EN.txt",
   "examples": "skills/situated-possibility-formation/EXAMPLES.md",
   "presentation": "skills/situated-possibility-formation/presentation.json",
-  "package": "dist/situated-possibility-formation-0.1.0.zip",
+  "package": "dist/situated-possibility-formation-0.1.1.zip",
   "en": {
     "title": "Discover and develop possibilities for a project",
     "kind": "Generative competence",
@@ -43,9 +43,10 @@
     "does": "Makes useful possibilities intelligible and develops the questions, relations or means that can turn them into work.",
     "when": "When an idea is incomplete, the first solution feels narrow, or new knowledge can change what the project could become.",
     "examples": [
-      "Discover a service from knowledge already held by a team.",
-      "Develop a product idea through sketches and progressive decisions.",
-      "Recognize a useful collaboration in an unexpected source."
+      "A team's knowledge suggests a service",
+      "A sketch becomes a design conversation",
+      "A paper changes the question without taking over the project",
+      "Two equal readings open a question about representation"
     ],
     "route": "/resources/sviluppare-possibilita-progetto/",
     "description": "Let intent, existing capabilities and new understanding shape a useful next movement."
@@ -57,9 +58,10 @@
     "does": "Rende comprensibili possibilità utili e sviluppa domande, relazioni o mezzi che possono trasformarle in lavoro.",
     "when": "Quando un’idea è incompleta, la prima soluzione appare stretta o un nuovo sapere può cambiare ciò che il progetto può diventare.",
     "examples": [
-      "Riconosce un servizio dal sapere già presente in un gruppo.",
-      "Sviluppa un’idea di prodotto con schizzi e decisioni progressive.",
-      "Coglie una collaborazione utile in una fonte inattesa."
+      "Il sapere del gruppo suggerisce un servizio",
+      "Uno schizzo diventa una conversazione progettuale",
+      "Un paper cambia la domanda senza assorbire il progetto",
+      "Due letture uguali aprono una domanda sulla rappresentazione"
     ],
     "route": "/risorse/sviluppare-possibilita-progetto/",
     "description": "Intento, capacità presenti e nuova comprensione formano il prossimo movimento utile."

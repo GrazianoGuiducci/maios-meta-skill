@@ -7,6 +7,22 @@ spec=importlib.util.spec_from_file_location('portable_renderer',ROOT/'tools/rend
 renderer=importlib.util.module_from_spec(spec);spec.loader.exec_module(renderer)
 
 class PortableRenderingTests(unittest.TestCase):
+    def test_page_summary_cannot_silently_replace_developed_method(self):
+        name='meta-skill-semantic-kernel'
+        with tempfile.TemporaryDirectory() as temporary:
+            root=Path(temporary);folder=root/'skills'/name
+            shutil.copytree(ROOT/'skills'/name,folder)
+            original=(folder/'SKILL.md').read_bytes()
+            source=json.loads((folder/'presentation.json').read_text(encoding='utf-8'))
+            source['it'].pop('operating_method')
+            (folder/'presentation.json').write_text(json.dumps(source),encoding='utf-8')
+            previous=renderer.ROOT
+            try:
+                renderer.ROOT=root
+                with self.assertRaisesRegex(ValueError,'Developed operating_method required'):renderer.render(name)
+            finally:renderer.ROOT=previous
+            self.assertEqual((folder/'SKILL.md').read_bytes(),original)
+
     def test_operative_depth_cases_and_attributed_metadata_survive_rendering(self):
         name='meta-skill-semantic-kernel'
         with tempfile.TemporaryDirectory() as temporary:

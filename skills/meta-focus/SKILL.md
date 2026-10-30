@@ -2,7 +2,7 @@
 name: meta-focus
 description: "Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution. When starting or resuming a project with scattered references, several specialisms, or people and AI working on shared material."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: en
 ---
 

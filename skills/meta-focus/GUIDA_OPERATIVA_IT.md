@@ -34,6 +34,11 @@ Una chat può conservare una nota; un progetto con file può usare il proprio CU
 
 Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto.
 
+
+## Collegare il progetto al sapere che può cambiarne il lavoro
+
+All’ingresso di un progetto raggiungi le competenze e le fonti già pertinenti mentre osservi e scegli il contributo. Il progetto usa il sapere comune e restituisce durante il lavoro la differenza riusabile alle competenze che dovranno agire diversamente. Una conoscenza può cambiare anche quale oggetto riconosci e quale domanda poni; portarla soltanto come informazione in una cornice già fissata può lasciarne intatto il limite. La relazione si esercita nella guida esistente, senza un secondo Boot di controllo o la lettura dell’intero sistema.
+
 ## Il focus diventa più preciso attraverso il lavoro
 
 La risorsa condivide un metodo in formazione. I suoi primi esercizi sorgenti mostrano raccordi situati fra compiti e competenze; non costituiscono una prova di avvio automatico, coordinamento universale o riduzione misurata dei tempi. I casi qui descritti e l’esplorazione sono illustrativi.

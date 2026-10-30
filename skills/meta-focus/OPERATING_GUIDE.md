@@ -34,6 +34,11 @@ A chat may retain a note; a file-based project may use its CURRENT or guide; an 
 
 One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure.
 
+
+## Connect the project to knowledge that could change its work
+
+At project entry, reach pertinent competences and sources while observing and choosing the contribution. The project uses shared knowledge and returns reusable differences during the work to competences that must act differently. Knowledge can also change the object recognized and the question asked; placing it only as information inside a fixed frame can leave that frame’s limit intact. Exercise this relation through the existing guide without a second supervising boot or a reading of the whole system.
+
 ## Focus becomes more precise through work
 
 This resource shares a method still being formed. Its first source exercises show situated connections between tasks and competences; they do not establish automatic activation, universal coordination or measured time reductions. These cases and the exploration are illustrative.

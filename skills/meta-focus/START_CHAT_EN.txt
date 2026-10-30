@@ -100,6 +100,11 @@ A chat may retain a note; a file-based project may use its CURRENT or guide; an 
 
 One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure.
 
+
+## Connect the project to knowledge that could change its work
+
+At project entry, reach pertinent competences and sources while observing and choosing the contribution. The project uses shared knowledge and returns reusable differences during the work to competences that must act differently. Knowledge can also change the object recognized and the question asked; placing it only as information inside a fixed frame can leave that frame’s limit intact. Exercise this relation through the existing guide without a second supervising boot or a reading of the whole system.
+
 ## Focus becomes more precise through work
 
 This resource shares a method still being formed. Its first source exercises show situated connections between tasks and competences; they do not establish automatic activation, universal coordination or measured time reductions. These cases and the exploration are illustrative.
@@ -124,6 +129,11 @@ A cooperative is updating a maintenance manual. One assistant prepares images; a
 ## Resume an experiment when the available instrument changes
 
 A research group retains a question and an experiment paused because of a measurement limit. After an interruption, a collaboration makes a different instrument available. The AI reads the working guide, the reason for pausing and actual access conditions. The researcher understands that a different question is now useful instead of merely repeating the old plan. Focus connects the new object to pertinent scientific knowledge, the instrument’s owner and necessary analysis. The guide retains the proposed experiment and what remains to be agreed. The continuity method learns which reason the former summary omitted; scientific knowledge stays in its domain. Announced access, a planned experiment and an observed measurement retain distinct states. Reentry uses acquired understanding in the present instead of turning a deduction from the old plan into an obligation.
+
+
+## Shared knowledge changes both the project and its common method
+
+A cooperative maintains equipment at several sites. A new assignment appears to ask for guide reorganization, but its entry reaches shared knowledge about responsibility and maintenance. Sources show that the same spare-part label refers to two different components: the useful question becomes which identification technicians need before intervention. The project keeps that technical distinction and involves its competent owner. The shared continuity method receives a smaller lesson: retain component identity with the reason for a reference where that difference changes the next action. The project guide reaches both contributions without copying them into every file. System and project support each other; writing the guide does not install its method at every site or in future assistants.
 
 
 My assignment, sources, existing work, available means and requested result:

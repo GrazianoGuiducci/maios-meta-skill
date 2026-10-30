@@ -44,6 +44,11 @@ A library wants reading workshops that respond to what a group understands. The 
 
 If participants reveal a new way to connect a passage with their experience, the workshop competence can acquire that choice. If formation had copied the worksheet instead of recovering the reason, the generator also learns how to read an example. These are different returns from the same event. The original workshop’s details stay with that project. Later use in another subject may show whether the reason remains operative; the successful first output does not establish that. Existing files, conversation notes or project guides can carry this knowledge without a new coordination layer.
 
+
+## Acquired knowledge can change where competence formation begins
+
+Do not only insert new information into the initially represented task. Understand whether it changes the recognizable object, relationships, source relevance, question or method. Open observation can directly produce understanding or a previously unselected question. A determined assignment continues through pertinent knowledge without habitual reopening. Incarnating this relation changes the competence’s native method rather than adding a ritual question, separate check or wait for a human reminder.
+
 ## The generator can learn from its own way of generating
 
 KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.

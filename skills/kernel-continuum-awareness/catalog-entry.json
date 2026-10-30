@@ -1,7 +1,7 @@
 {
   "id": "coerenza-kernel-ai",
   "name": "Kernel Continuum Awareness",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "21",
@@ -10,7 +10,7 @@
   "starter": "skills/kernel-continuum-awareness/START_CHAT_EN.txt",
   "examples": "skills/kernel-continuum-awareness/EXAMPLES.md",
   "presentation": "skills/kernel-continuum-awareness/presentation.json",
-  "package": "dist/kernel-continuum-awareness-0.3.2.zip",
+  "package": "dist/kernel-continuum-awareness-0.3.3.zip",
   "it": {
     "title": "Mantenere coerenti le capacità di un kernel AI",
     "kind": "Metacompetenza del kernel",
@@ -18,9 +18,10 @@
     "does": "Rende raggiungibile la comprensione operativa del kernel e gli permette di riconoscere come una differenza cambia il proprio metodo e le incarnazioni pertinenti.",
     "when": "Quando il sistema cresce, cambia configurazione o deve ritrovare il proprio modo di operare dopo una perdita di contesto.",
     "examples": [
-      "Un rientro recupera le ragioni ancora valide del sistema.",
-      "Una correzione raggiunge gli ingressi che continuavano da una versione superata.",
-      "Il kernel comprende un proprio cambiamento senza avviare un controllore parallelo."
+      "Il metodo cambia, il punto di rientro resta vecchio",
+      "Una nuova sessione perde la ragione di una scelta",
+      "Un controllo tecnico viene scambiato per completamento",
+      "Un assistente educativo riprende dalla ragione dell’aiuto"
     ],
     "route": "/risorse/coerenza-kernel-ai/",
     "description": "Conserva le relazioni vive del sistema attraverso correzioni, cambiamenti e riprese del lavoro."
@@ -32,9 +33,11 @@
     "does": "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.",
     "when": "When a system grows, changes configuration or needs to recover how it operates after losing context.",
     "examples": [
-      "Recover the system’s still-valid reasons during reentry.",
-      "Carry a correction to entries that still lead from an older method.",
-      "Let the kernel understand its own change without adding a parallel controller."
+      "Correct an old entry after the method changes",
+      "Recover a decision’s reason after context loss",
+      "Keep technical correspondence distinct from task completion",
+      "Apply the method to your case",
+      "An educational assistant resumes from the reason for its help"
     ],
     "route": "/resources/coerenza-kernel-ai/",
     "description": "Preserve the system’s living relations through corrections, configuration changes and reentry."

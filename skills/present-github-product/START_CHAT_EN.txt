@@ -1,0 +1,114 @@
+
+# Present GitHub Product
+
+Turns a repository into a coherent product presentation with real capabilities, pertinent evidence and a usable first step.
+
+A code library can open with module names and release notes while hiding the work it enables. This method begins with the product and forms the newcomer’s path.
+
+Identity, evidence and first action stay connected. A presentation can be concise without reducing an evolving system to its latest demo.
+
+## A university tool becomes understandable at first use
+
+A university group shares a small tool for comparing inventories. Its README describes directories; students keep asking which command to run and what they will obtain.
+
+The first reading should make inventory comparison, available result, required conditions and an executable example recognizable.
+
+## Adapt the presentation to your product
+
+Preserve the relationship between product identity, the recipient’s work, capability supported by sources and the first available action. Sector, maturity, audience and evidence form vary.
+
+Bring README, project instructions, an actual use case, installation, state and proof. A repository can carry software, an educational method or research; the form follows what the reader can do now.
+
+## Recover the product before rewriting its README
+
+Read instructions, current state, license, installation, examples and product-owned facts. Understand the whole subject and the work it enables. A repository is its delivery location, not necessarily the product definition. Keep authorial words, interpretation and observed results distinct.
+
+
+## Choose the recipient’s first encounter
+
+Understand who arrives, what they seek and which first action exists. A user, dependency evaluator and method learner need different entries. Select an encounter preserving product identity and capability while keeping depth and selected direction reachable. The easiest benefit to explain does not automatically become the whole subject.
+
+
+## Make the first screen understandable
+
+A recognizable name, concrete effect, pertinent evidence or mechanism and first step should be recoverable before a long chronology. Title, subtitle and opening identify the same object. An image or demo helps when it explains a relation; badges and adjectives do not replace that explanation.
+
+
+## Connect instructions and evidence to their actual result
+
+Check commands, paths and prerequisites against the current revision. Explain input, action and expected output. Separate local configuration from host- or account-dependent activation. A demo proves its own case; declared compatibility needs pertinent evidence. A diagram of intended operation does not establish observed behavior.
+
+
+## Align the places describing the product
+
+Compare README, About description, topics, homepage, release, documentation and first use where entrusted. Keep identity, version and capability coherent. If the README feeds manifests or packages, follow that contract and regenerate affected derivatives. Metadata mutation and publication retain their own authority.
+
+
+## Observe the presentation as reader and user
+
+Read the rendered README at its actual width, reach evidence and first use and check that the first action produces the explained result. A different person or AI can reveal a missing relationship: retain what they actually saw without suggesting the expected answer. Author rereading, link checking and newcomer understanding have different scopes. Correct the point where the path lost meaning.
+
+## Continue through the actual project
+
+Keep the reason for the selected entry, verified first action and feedback that could change them with the product.
+
+Return a difference useful to another product to the presentation method; keep preferences and temporal state with the artifact.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# Present GitHub Product — practical operating knowledge
+
+## A concise form can preserve a broad product
+
+Distinguish stable nucleus, present capability, first recognizable value and selected direction. The first screen can choose one concrete relation while keeping others reachable. Avoid reducing a product to its latest adapter or claiming a future possibility already realized. States belong to product sources, not the README’s tone.
+
+
+## First use should teach the change it produces
+
+Explain required material, command or gesture, output and the condition making it interpretable. Separate account-dependent activation from locally available work. If no usable path exists yet, honestly present research or a candidate and how to study it. Do not invent installation to complete a page structure.
+
+
+## The form of proof follows the claim
+
+A tool may use reproducible input/output; a method, a worked case; research, its argument, data and limits. Place evidence beside the capability it supports. Stars, popularity, screenshots and green tests do not establish adoption, security or universal quality. Another repository can teach a relation without donating its section sequence.
+
+
+## README and metadata provide different depths
+
+About helps identify the product; README orients and starts; focused documents deepen architecture and development. Topics aid search without letting an external category define the project. A changed command need not change every field. Internal guidance can remain private while delivering all knowledge needed for first use.
+
+
+## Presentation learns through a different encounter
+
+If a reader mistakes a demo for the entire product, correct the premise and path rather than only an adjective. A layout preference stays artifact-local; a recurring causal loss in another product class may refine this competence. Preserve source, revision and the question actually raised with the product.
+
+## The repository becomes a usable encounter
+
+The kit transfers a presentation method and illustrative cases. Reading or installing it does not mutate accounts, About fields or releases.
+
+Quality grows when the product and its readers reveal a previously missing relationship. A valid page and a person able to begin have their own evidence.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
+
+## A university tool becomes understandable at first use
+
+The group repeatedly receives questions about a program comparing two inventories. The AI reads source and instructions and checks a small example input. The README now explains comparison and its differences file before directory structure. An example shows two CSV files with a changed item, the existing command and expected output; full guidance retains options and limits. About describes the same product and the homepage reaches the right documentation. The case does not promise support for every inventory format. A newcomer can recognize the action and check its result; the group retains feedback to refine the entry without rewriting the program.
+
+
+## An infrastructure product explains what its benchmark supports
+
+A team presents a distributed job queue. Its demo is fast, but the README does not explain its delivery guarantee. The method reaches the product contract and opens with function, conditions and failure behavior, then ties the benchmark to the configuration actually measured. First use remains local and explains what follows a request. Production installation, accounts and external services have their own guidance. A dependency evaluator finds evidence without treating it as a guarantee for every future workload. Benchmark settings do not become production defaults by imitation.
+
+
+## An educational method presents itself through a lesson
+
+A foundation shares an assisted-reading method. Its README only lists competence names. The AI reaches available knowledge and develops a case: the teacher supplies a text and a student’s attempt; the assistant chooses a question that helps the student continue reasoning. First use requests those materials and reaches the complete method without installing a service. Example status, educational purpose and data protection stay explicit. Presentation makes a change in the teacher’s work recognizable; it claims neither measured educational improvement nor an already delivered course. A later observation can change both explanation and the taught method.
+
+
+My assignment, sources, existing work, available means and requested result:

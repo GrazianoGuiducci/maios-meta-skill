@@ -1,0 +1,1466 @@
+
+# Govern Source to Runtime
+
+Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.
+
+Una modifica può essere corretta nella repository mentre il servizio continua a usare la versione precedente. Il metodo ricostruisce il collegamento reale e conduce il solo effetto affidato fino al riscontro.
+
+Il sapere si usa anche senza amministrare un server: può distinguere un documento preparato, il file distribuito e la copia realmente incontrata dal destinatario. Gli strumenti inclusi valutano dati dichiarati e non eseguono pubblicazioni.
+
+## Il calendario corretto non è ancora quello pubblico
+
+Un’associazione pubblica un calendario dal proprio archivio Git. La correzione degli orari è condivisa, ma la pagina continua a mostrare quelli vecchi.
+
+Occorre sapere quale revisione alimenta la pagina, se il controller l’ha acquisita e quale risultato il visitatore riceve: un nuovo riavvio scelto alla cieca potrebbe non cambiare nulla.
+
+## Adattare il rilascio al tuo ambiente
+
+Si conserva il rapporto fra cambiamento selezionato, identità consegnata, mezzo che applica l’effetto e osservazione finale. Cambiano repository, persone, controller, destinazioni e modalità di recupero.
+
+Porta l’incarico, la versione di partenza, quella proposta, le istruzioni del progetto e i riscontri disponibili. In chat il risultato può essere un piano verificabile; con accessi adeguati il metodo accompagna gli effetti già affidati.
+
+## Raggiungere la sorgente e chi possiede il rilascio
+
+Individua il lavoro da cambiare, la sorgente autorevole, chi seleziona il rilascio e chi possiede il servizio o il documento distribuito. Un accesso tecnico permette di osservare o trasportare; non sostituisce queste responsabilità. Conserva le modifiche concorrenti e distingui il tuo delta da ciò che era già presente.
+
+
+## Ricostruire il percorso realmente consumato
+
+Collega revisione locale, riferimento remoto, eventuale artefatto, checkout o servizio attivo e destinazione pubblica. Raggiungi il controller effettivo: un ramo può attivare un webhook oppure essere soltanto una proposta. Un template vicino, un percorso dal nome plausibile e un servizio attivo non provano quale contenuto venga servito.
+
+
+## Preparare una modifica con identità e recupero propri
+
+Qualifica il delta, la versione immutabile e le dipendenze. Esegui il codice candidato in un ambiente che non possa controllare il servizio reale o leggere credenziali inutili. Individua una versione precedente e un percorso di recupero che non dipenda soltanto dalla componente da cambiare. Conserva anche migrazioni e dati quando il semplice ritorno ai file precedenti non basta.
+
+
+## Condurre soltanto l’effetto realmente affidato
+
+La condivisione della sorgente, la promozione pubblica e l’attivazione hanno conseguenze diverse. Usa il mandato e il contratto correnti per capire quali siano già compresi; chiedi una decisione soltanto quando resta una scelta sostanziale della persona. Non frammentare un rilascio già selezionato in conferme sulle sue meccaniche ordinarie. Una nuova destinazione o revisione può invece cambiare l’effetto.
+
+
+## Attivare attraverso mezzi proporzionati alla conseguenza
+
+Per un servizio, un attuatore ristretto e indipendente dal candidato può consumare dati validati e applicare le operazioni consentite. Non eseguire test, hook o moduli appena ricevuti con privilegi di amministrazione. Riavvia soltanto ciò che il contratto richiede. Un cambiamento statico può non richiedere alcun riavvio; la topologia corrente lo determina.
+
+
+## Verificare ciò che raggiunge davvero il destinatario
+
+Rileggi identità attiva, salute convergente e comportamento pertinente. Confronta hash esatti quando i byte sono serviti invariati; per HTML trasformato verifica il contenuto e i comportamenti prodotti dalla trasformazione. Se una prova dipendente fallisce dopo l’attivazione, segui lo stesso percorso di recupero e rileggine l’esito. La verifica tecnica non sostituisce il giudizio della persona sull’uso reale.
+
+
+## Continuare dal risultato effettivamente osservato
+
+Conserva versione precedente e attiva, controlli compiuti, eventuale recupero, ignoti e seguito utile presso il rilascio. Prima di riprendere un tentativo interrotto osserva che cosa è già accaduto. Una contraddizione riapre il passaggio da cui dipende, preservando prove e lavoro ancora validi. Restituisci al metodo la correzione riusabile senza creare registri duplicati.
+
+## Continuare attraverso il progetto reale
+
+Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile.
+
+Restituisci la differenza al controller o al metodo che deve cambiare, lasciando stato del prodotto e dati presso i loro responsabili.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# Govern Source to Runtime — sapere operativo pratico
+
+## Le credenziali restano presso il nodo che ne possiede la policy
+
+Usa l’adattatore autorizzato del tuo ambiente, con autenticazione non interattiva quando prevista. Non stampare, salvare nel codice o trasferire a un altro host il token locale, nemmeno codificato. Un bundle o un artefatto immutabile possono trasportare una revisione senza trasportarne la credenziale, quando quel trasferimento è compreso nell’incarico. Un errore di accesso non autorizza un altro account.
+
+
+## La configurazione effettiva può differire dal file vicino
+
+Un server può includere una copia indipendente anziché il template atteso. Leggi la configurazione realmente consumata, il tipo di file e i byte. Un percorso canonico, da solo, non prova un collegamento simbolico. Nelle prove isolate preserva la risoluzione corretta di moduli e dipendenze: un prefisso di test sbagliato può produrre un falso guasto del candidato.
+
+
+## La salute ha tempi e forme propri
+
+Dopo un riavvio attendi la convergenza entro un termine breve, conservando l’ultimo riscontro. Un rifiuto di connessione durante l’avvio non prova un guasto definitivo. Un servizio che esegue una singola operazione può tornare inattivo dopo un esito riuscito: conserva risultato, codice d’uscita e controllo terminale, anziché fingere attività continua. Una prova manuale conserva utente e gruppo effettivi.
+
+
+## Una nuova identità non cancella tutte le prove precedenti
+
+Riusa una prova soltanto per la relazione rimasta applicabile e con la sua identità originaria. Aggiorna revisioni, concorrenza, artefatto, controller e destinazione quando possono cambiare l’effetto. Un metodo o un controller cambiati riaprono le dipendenze pertinenti; non serve ricominciare tutto se la contraddizione è locale. Un’istruzione configurata non sostituisce l’ultima installazione realmente confermata.
+
+
+## Supporto dichiarato e prova eseguita sono informazioni diverse
+
+Minimo tecnico, piattaforme dichiarate e matrice effettivamente esercitata non coincidono. Verifica l’attribuzione di una dipendenza al suo tag e commit, compresi i tag annotati. Un archivio rigenerato cambia identità: rileggi il risultato corrente prima di un rilascio immutabile. La revisione dei file non decide da sola il significato di una modifica alla compatibilità.
+
+
+## Il recupero riguarda tutti gli effetti cambiati
+
+Tornare a un commit non ripristina necessariamente dati, notifiche o servizi esterni. Qualifica ripristino o compensazione presso i rispettivi responsabili. Mantieni indipendente la versione precedente e non usare riscritture forzate della storia condivisa come sostituto del recupero. La pulizia finale riguarda soltanto file del tentativo identificati e verificati.
+
+
+## Gli strumenti inclusi leggono dati, non certificano il mondo
+
+scripts/reduce_release_state.py riduce osservazioni a una prossima azione; scripts/validate_effect_request.py controlla coerenza, identità, servizi, recupero e selezione dell’effetto secondo gli schemi inclusi. Leggi TOOLS_IT.md per esempio e comandi. Un risultato ready è relativo alle evidenze fornite: nessuno dei due strumenti interroga account, pubblica, riavvia o concede permessi.
+
+
+## L’automazione appartiene a una transizione qualificata
+
+Una procedura riuscita non rende automaticamente governabili tutti i server. Per automatizzare servono contratto ristretto, idempotenza, separazione dei privilegi, osservazione terminale e recupero esercitati nel contesto pertinente. Anche rami, diff, log e artefatti di una pubblicazione possono esporre dati: trasferisci sapere riusabile, mantenendo privati dettagli e credenziali.
+
+## La pubblicazione impara dal proprio percorso
+
+Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
+
+Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
+
+## Il calendario corretto non è ancora quello pubblico
+
+L’associazione vede il commit con i nuovi orari e chiede di portarli online. L’AI legge il contratto e scopre che il webhook segue un altro ramo: il commit condiviso non è una pubblicazione. Confronta il delta, conserva i contributi altrui e identifica la revisione precedente recuperabile. Il mandato copre la pagina pubblica, quindi prepara e conduce la promozione prevista dal progetto. Il controller statico aggiorna i file senza riavviare il servizio degli iscritti. Il riscontro confronta gli orari nella pagina realmente servita e i byte dell’asset immutabile; conserva identità e risultato. Se il controller non acquisisce la nuova revisione, il metodo segue quel passaggio invece di avviare riavvii indiscriminati. Il caso è illustrativo e non dichiara una pubblicazione osservata per un cliente.
+
+
+## Un modello di analisi è pubblicato ma il servizio usa ancora il precedente
+
+Un gruppo di ricerca pubblica il nuovo pacchetto del proprio modello. Il servizio mantiene una versione precedente perché il contratto separa distribuzione e attivazione. L’AI non chiama il nuovo pacchetto già attivo: prepara validazione isolata senza privilegi, dipendenze fissate, identità della versione precedente e riscontro di una richiesta sintetica pertinente. La decisione sull’esatta attivazione resta al responsabile previsto dal contratto. Dopo quella selezione, il rilascio può cambiare il solo servizio interessato e verificarne la salute entro il termine stabilito. Un errore della richiesta percorre il recupero e conserva ciò che è stato ripristinato. Il caso distingue identità del modello, effetto del servizio e qualità scientifica; non presume miglioramenti di accuratezza dalla sola riuscita tecnica.
+
+
+## La guida PDF cambia nell’esportazione
+
+Una cooperativa aggiorna una guida di manutenzione. Il file sorgente corretto viene esportato con un nuovo avviso di licenza: i byte del PDF cambiano anche se l’argomento tecnico è identico. L’AI confronta la revisione dei contenuti, osserva il documento renderizzato e acquisisce l’impronta del PDF effettivamente caricato. Dopo la pubblicazione scarica la copia accessibile senza login e ne confronta l’identità; verifica anche che il collegamento della pagina raggiunga quella copia. Un controllo del solo file locale o un identificatore riservato non avrebbero provato la distribuzione. Il metodo conserva le edizioni storiche e la scelta dei diritti per i file selezionati. La versione resa disponibile e l’avvenuta lettura da parte dei manutentori restano fatti diversi.
+
+
+# Strumenti di lettura per il rilascio
+
+Il kit include il riduttore deterministico e il validatore delle richieste del metodo sorgente. Leggono JSON fornito da te. Non ispezionano repository o account, non dimostrano la verità delle dichiarazioni, non approvano effetti, non pubblicano, non riavviano e non riparano un rilascio.
+
+## Eseguire gli esempi fittizi forniti
+
+Dalla cartella completa della competenza, con Python 3.10 o successivo:
+
+```text
+python scripts/reduce_release_state.py --self-test
+python scripts/validate_effect_request.py --self-test
+python scripts/reduce_release_state.py examples/release-context.sample.json
+python scripts/validate_effect_request.py examples/effect-request.sample.json
+```
+
+L’esempio del riduttore rappresenta sorgente già promossa, runtime differente e autorità di attivazione assente. Restituisce await_runtime_gate anziché attivare. L’esempio della richiesta è sintetico, con revisioni ed evidenze segnaposto: il suo esito ready controlla la coerenza della fixture, non autorizza l’uso di quei dati su un sistema reale. Conservalo come dimostrazione e forma i tuoi dati dalle fonti effettive.
+
+## Fornire le evidenze del proprio effetto
+
+Leggi references/release-context.schema.json per i fatti osservati del ciclo e references/effect-request.schema.json per una richiesta esatta. Collega destinazione, revisione, servizi consentiti, località delle credenziali, versione precedente e verifiche compiute alle rispettive prove. Il validatore restituisce ready, needs_operator_decision o blocked. Una richiesta modificata produce una diversa impronta. L’identificatore dnd.effect-request.v1 conserva il protocollo sorgente dello strumento; non richiede il workspace che lo ha generato.
+
+Gli strumenti usano la libreria standard Python. Se jsonschema è installato, il validatore esegue anche lo schema JSON incluso; i propri controlli strutturali e semantici funzionano senza quella dipendenza facoltativa. I self-test esercitano casi positivi e condizioni di arresto senza rete o controllo dei servizi. references/capability-manifest.json conserva lo stato candidato dell’automazione sorgente. Una fixture coerente non qualifica il tuo controller, host o recupero.
+
+
+## Sorgenti degli strumenti inclusi
+
+### scripts/reduce_release_state.py
+
+```python
+#!/usr/bin/env python3
+"""Reduce observed release facts to one next legal action without side effects."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from pathlib import Path
+from typing import Any
+
+
+REQUIRED = {
+    "source_owner_known": bool,
+    "release_owner_known": bool,
+    "production_consumer_known": bool,
+    "remote_verified_authenticated": bool,
+    "source_diff_reviewed": bool,
+    "validation_passed": bool,
+    "push_effect": str,
+    "source_publication_authorized": bool,
+    "runtime_activation_authorized": bool,
+    "validator_executes_candidate_code_as_privileged": bool,
+    "runtime_drift": bool,
+    "rollback_proved": bool,
+    "live_identity_verified": bool,
+    "human_acceptance_verified": bool,
+}
+
+PUSH_EFFECTS = {"local_source", "source_remote_only", "production_bound_push"}
+
+
+def validate_context(context: dict[str, Any]) -> None:
+    missing = sorted(set(REQUIRED) - set(context))
+    if missing:
+        raise ValueError("missing required fields: " + ", ".join(missing))
+    for field, expected in REQUIRED.items():
+        if not isinstance(context[field], expected):
+            raise ValueError(f"{field} must be {expected.__name__}")
+    if context["push_effect"] not in PUSH_EFFECTS:
+        raise ValueError("push_effect must be one of: " + ", ".join(sorted(PUSH_EFFECTS)))
+    for optional in ("production_source_matches_candidate", "runtime_matches_production_source"):
+        if optional in context and context[optional] is not None and not isinstance(context[optional], bool):
+            raise ValueError(f"{optional} must be boolean or null")
+
+
+def decision(classification: str, next_action: str, gate: str | None, reason: str) -> dict[str, Any]:
+    return {
+        "classification": classification,
+        "next_legal_action": next_action,
+        "effect_gate": gate,
+        "reason": reason,
+        "side_effect_performed": False,
+    }
+
+
+def reduce_state(context: dict[str, Any]) -> dict[str, Any]:
+    validate_context(context)
+
+    if context["validator_executes_candidate_code_as_privileged"]:
+        return decision(
+            "stop_security",
+            "separate unprivileged validation from the fixed privileged activator",
+            None,
+            "candidate-controlled code would execute with elevated privilege",
+        )
+
+    remote_identity_required = context["push_effect"] != "local_source"
+    if (
+        not context["source_owner_known"]
+        or not context["release_owner_known"]
+        or not context["production_consumer_known"]
+        or (remote_identity_required and not context["remote_verified_authenticated"])
+    ):
+        return decision(
+            "observe_only",
+            "resolve owners, production consumer and any applicable authenticated remote identity",
+            None,
+            "the source-to-runtime graph is incomplete",
+        )
+
+    if context["runtime_drift"]:
+        return decision(
+            "stop_drift",
+            "preserve drift evidence and reconcile the accepted change in source before runtime mutation",
+            None,
+            "runtime differs from its owning source",
+        )
+
+    if not context["source_diff_reviewed"] or not context["validation_passed"]:
+        return decision(
+            "prepare_source",
+            "review the exact source boundary and complete least-privileged validation",
+            None,
+            "the candidate is not yet a validated source movement",
+        )
+
+    if context["push_effect"] != "local_source" and not context["source_publication_authorized"]:
+        return decision(
+            "await_source_gate",
+            "request authorization for the exact source publication effect",
+            context["push_effect"],
+            "validated local source does not grant remote publication",
+        )
+
+    production_matches = context.get("production_source_matches_candidate")
+    if context["push_effect"] != "local_source" and production_matches is not True:
+        return decision(
+            "publish_source",
+            "perform only the authorized source movement and verify the resulting remote revision",
+            context["push_effect"],
+            "the production source does not yet identify the validated candidate",
+        )
+
+    runtime_matches = context.get("runtime_matches_production_source")
+    if runtime_matches is not True:
+        if not context["rollback_proved"]:
+            return decision(
+                "stop_recovery",
+                "prove an independent previous-release restore path",
+                None,
+                "runtime activation lacks an independent rollback proof",
+            )
+        if not context["runtime_activation_authorized"]:
+            return decision(
+                "await_runtime_gate",
+                "request authorization for the exact runtime activation",
+                "runtime_activation",
+                "source publication and runtime activation are distinct effects",
+            )
+        return decision(
+            "activate_runtime",
+            "activate the immutable validated release through the fixed activator and verify rollback readiness",
+            "runtime_activation",
+            "production source is selected but runtime identity has not advanced",
+        )
+
+    if not context["live_identity_verified"]:
+        return decision(
+            "verify_terminal",
+            "verify service, ingress and destination behavior against the exact runtime identity",
+            None,
+            "matching source and runtime do not prove the live destination",
+        )
+
+    if not context["human_acceptance_verified"]:
+        return decision(
+            "await_acceptance",
+            "obtain human acceptance tied to the verified live identity",
+            None,
+            "technical reconciliation is not operator acceptance",
+        )
+
+    return decision(
+        "complete",
+        "write terminal receipts and assess one bounded learning delta",
+        None,
+        "source, runtime, live behavior and acceptance are reconciled",
+    )
+
+
+def _base_case() -> dict[str, Any]:
+    return {
+        "source_owner_known": True,
+        "release_owner_known": True,
+        "production_consumer_known": True,
+        "remote_verified_authenticated": True,
+        "source_diff_reviewed": True,
+        "validation_passed": True,
+        "push_effect": "production_bound_push",
+        "source_publication_authorized": False,
+        "runtime_activation_authorized": False,
+        "validator_executes_candidate_code_as_privileged": False,
+        "runtime_drift": False,
+        "rollback_proved": True,
+        "production_source_matches_candidate": False,
+        "runtime_matches_production_source": False,
+        "live_identity_verified": False,
+        "human_acceptance_verified": False,
+    }
+
+
+def self_test() -> None:
+    cases: list[tuple[dict[str, Any], str]] = []
+    case = _base_case()
+    cases.append((case, "await_source_gate"))
+
+    case = _base_case()
+    case["validator_executes_candidate_code_as_privileged"] = True
+    cases.append((case, "stop_security"))
+
+    case = _base_case()
+    case["runtime_drift"] = True
+    cases.append((case, "stop_drift"))
+
+    case = _base_case()
+    case.update(
+        source_publication_authorized=True,
+        production_source_matches_candidate=True,
+        runtime_matches_production_source=False,
+    )
+    cases.append((case, "await_runtime_gate"))
+
+    case = _base_case()
+    case.update(
+        source_publication_authorized=True,
+        runtime_activation_authorized=True,
+        production_source_matches_candidate=True,
+        runtime_matches_production_source=True,
+        live_identity_verified=True,
+        human_acceptance_verified=True,
+    )
+    cases.append((case, "complete"))
+
+    case = _base_case()
+    case.update(
+        remote_verified_authenticated=False,
+        push_effect="local_source",
+        source_publication_authorized=False,
+        runtime_activation_authorized=True,
+        production_source_matches_candidate=None,
+        runtime_matches_production_source=True,
+        live_identity_verified=True,
+        human_acceptance_verified=True,
+    )
+    cases.append((case, "complete"))
+
+    for index, (candidate, expected) in enumerate(cases, start=1):
+        actual = reduce_state(candidate)["classification"]
+        if actual != expected:
+            raise AssertionError(f"case {index}: expected {expected}, got {actual}")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("context", nargs="?", type=Path)
+    parser.add_argument("--self-test", action="store_true")
+    args = parser.parse_args()
+
+    if args.self_test:
+        self_test()
+        print(json.dumps({"self_test": "passed", "cases": 6}, sort_keys=True))
+        return 0
+    if args.context is None:
+        parser.error("context is required unless --self-test is used")
+
+    try:
+        context = json.loads(args.context.read_text(encoding="utf-8"))
+        if not isinstance(context, dict):
+            raise ValueError("context root must be an object")
+        print(json.dumps(reduce_state(context), indent=2, sort_keys=True))
+    except (OSError, json.JSONDecodeError, ValueError) as exc:
+        print(json.dumps({"error": str(exc)}, sort_keys=True), file=sys.stderr)
+        return 2
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+```
+
+### scripts/validate_effect_request.py
+
+```python
+#!/usr/bin/env python3
+"""Validate an evidence-bound source/runtime effect request without side effects."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import sys
+from datetime import datetime
+from pathlib import Path
+from typing import Any
+
+
+SCHEMA_ID = "dnd.effect-request.v1"
+DECISION_SCHEMA_ID = "dnd.effect-request-decision.v1"
+REVISION_LENGTH = 40
+EFFECT_CONTRACTS = {
+    "source_push": (True, False, False),
+    "production_bound_push": (True, False, True),
+    "runtime_activation": (False, True, True),
+    "combined_release": (True, True, True),
+}
+REQUIRED_TERMINAL_CHECKS = {
+    "checkout_revision",
+    "service_health",
+    "public_identity",
+    "destination_behavior",
+}
+SCHEMA_PATH = Path(__file__).resolve().parents[1] / "references" / "effect-request.schema.json"
+
+
+def _is_revision(value: Any) -> bool:
+    return (
+        isinstance(value, str)
+        and len(value) == REVISION_LENGTH
+        and all(character in "0123456789abcdefABCDEF" for character in value)
+    )
+
+
+def _nonempty_string(value: Any) -> bool:
+    return isinstance(value, str) and bool(value.strip())
+
+
+def _read_schema_validate(request: dict[str, Any]) -> None:
+    try:
+        import jsonschema  # type: ignore
+    except ImportError:
+        return
+    schema = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
+    jsonschema.validate(request, schema)
+
+
+def _shape_validate(request: dict[str, Any]) -> None:
+    if request.get("schema") != SCHEMA_ID:
+        raise ValueError(f"schema must be {SCHEMA_ID}")
+    required = {
+        "request_id",
+        "created_at",
+        "effect",
+        "operator_selection",
+        "source",
+        "validation",
+        "runtime",
+        "security",
+        "receipt",
+    }
+    missing = sorted(required - set(request))
+    if missing:
+        raise ValueError("missing required fields: " + ", ".join(missing))
+    if not _nonempty_string(request["request_id"]):
+        raise ValueError("request_id must be a non-empty string")
+    try:
+        datetime.fromisoformat(str(request["created_at"]).replace("Z", "+00:00"))
+    except ValueError as exc:
+        raise ValueError("created_at must be an ISO-8601 timestamp") from exc
+    _read_schema_validate(request)
+
+
+def _check(
+    checks: list[dict[str, str]],
+    blockers: list[str],
+    check_id: str,
+    condition: bool,
+    success: str,
+    failure: str,
+) -> None:
+    checks.append(
+        {
+            "id": check_id,
+            "status": "pass" if condition else "fail",
+            "detail": success if condition else failure,
+        }
+    )
+    if not condition:
+        blockers.append(f"{check_id}: {failure}")
+
+
+def validate_effect_request(request: dict[str, Any]) -> dict[str, Any]:
+    _shape_validate(request)
+    checks: list[dict[str, str]] = []
+    blockers: list[str] = []
+    decisions_needed: list[str] = []
+    declared_limits: list[str] = []
+
+    effect = request["effect"]
+    operator = request["operator_selection"]
+    source = request["source"]
+    validation = request["validation"]
+    runtime = request["runtime"]
+    security = request["security"]
+    receipt = request["receipt"]
+
+    kind = effect.get("kind")
+    expected_contract = EFFECT_CONTRACTS.get(kind)
+    actual_contract = (
+        effect.get("source_publication"),
+        effect.get("runtime_activation"),
+        effect.get("production_bound"),
+    )
+    _check(
+        checks,
+        blockers,
+        "effect.contract",
+        expected_contract is not None and actual_contract == expected_contract,
+        f"{kind} has a coherent effect boundary",
+        "effect flags do not match the declared effect kind",
+    )
+    batch_policy = effect.get("batch_policy")
+    policy_evidence = effect.get("policy_evidence")
+    batch_policy_coherent = (
+        kind == "combined_release" and batch_policy == "combined_adopted"
+    ) or (
+        kind != "combined_release" and batch_policy == "single_effect"
+    )
+    _check(
+        checks,
+        blockers,
+        "effect.batch_policy",
+        batch_policy_coherent and _nonempty_string(policy_evidence),
+        "the effect batch matches an explicit owner policy",
+        "a combined release requires an adopted combined policy; other requests must contain one effect",
+    )
+
+    local_revision = source.get("local_revision")
+    _check(
+        checks,
+        blockers,
+        "source.identity",
+        _is_revision(local_revision) and _is_revision(source.get("local_tree")),
+        "local commit and tree are immutable Git identities",
+        "local_revision and local_tree must be exact 40-character Git identities",
+    )
+    _check(
+        checks,
+        blockers,
+        "source.diff",
+        bool(source.get("diff_reviewed"))
+        and bool(source.get("scoped_paths"))
+        and _nonempty_string(source.get("diff_review_evidence")),
+        "the reviewed payload has an explicit path boundary and evidence",
+        "the diff must be reviewed with scoped paths and evidence",
+    )
+    excluded_dirty = source.get("excluded_dirty_paths") or []
+    _check(
+        checks,
+        blockers,
+        "source.concurrent_work",
+        not excluded_dirty or bool(source.get("excluded_paths_preserved")),
+        "concurrent dirty paths are absent or explicitly preserved outside the payload",
+        "excluded dirty paths are not proved preserved",
+    )
+
+    remote_targets = source.get("remote_targets") or []
+    remote_targets_coherent = True
+    production_target_selected = False
+    for target in remote_targets:
+        remote_targets_coherent = remote_targets_coherent and all(
+            [
+                _nonempty_string(target.get("branch")),
+                target.get("role") in {"candidate", "production"},
+                _is_revision(target.get("observed_revision")),
+                _is_revision(target.get("expected_revision")),
+                target.get("observed_revision") == target.get("expected_revision"),
+                isinstance(target.get("will_update"), bool),
+            ]
+        )
+        if target.get("role") == "production" and target.get("will_update"):
+            production_target_selected = True
+    if effect.get("source_publication"):
+        remote_targets_coherent = bool(remote_targets) and remote_targets_coherent and any(
+            target.get("will_update") for target in remote_targets
+        )
+    remote_auth_coherent = (
+        bool(source.get("authenticated_remote_verified"))
+        if remote_targets or effect.get("source_publication")
+        else not bool(source.get("authenticated_remote_verified"))
+    )
+    _check(
+        checks,
+        blockers,
+        "source.remote_refs",
+        remote_targets_coherent
+        and remote_auth_coherent
+        and _nonempty_string(source.get("remote_verification_evidence")),
+        "remote refs match their locked identities, or are explicitly not applicable to a local-only runtime effect",
+        "remote refs are missing, stale, inconsistently authenticated or incompatible with the effect boundary",
+    )
+    _check(
+        checks,
+        blockers,
+        "source.ancestry",
+        bool(source.get("ancestry_verified"))
+        and _nonempty_string(source.get("ancestry_evidence")),
+        "the target revision is proven to extend the selected remote bases",
+        "fast-forward ancestry is not evidenced",
+    )
+    if effect.get("production_bound") and effect.get("source_publication"):
+        _check(
+            checks,
+            blockers,
+            "source.production_target",
+            production_target_selected,
+            "a production source target is explicitly included",
+            "the production-bound movement does not name a production source target",
+        )
+    _check(
+        checks,
+        blockers,
+        "source.consumer",
+        not effect.get("production_bound")
+        or (
+            bool(source.get("production_consumer_known"))
+            and _nonempty_string(source.get("production_consumer_evidence"))
+        ),
+        "the production consumer is known or not applicable",
+        "a production-bound effect lacks a verified consumer map",
+    )
+
+    failed_checks = validation.get("failed_checks") or []
+    in_scope_failures = [
+        item
+        for item in failed_checks
+        if item.get("classification") != "preexisting_out_of_scope"
+    ]
+    validation_coherent = (
+        validation.get("status") == "pass"
+        or (
+            validation.get("status") == "partial"
+            and bool(validation.get("passed_checks"))
+            and not in_scope_failures
+            and bool(failed_checks)
+        )
+    )
+    _check(
+        checks,
+        blockers,
+        "validation.scope",
+        validation_coherent,
+        "all in-scope checks pass; any declared failure is pre-existing and out of scope",
+        "validation has an in-scope or unclassified failure",
+    )
+    declared_limits.extend(
+        f"{item.get('id')}: {item.get('evidence')}" for item in failed_checks
+    )
+
+    security_conditions = [
+        bool(security.get("credential_locality_preserved")),
+        bool(security.get("noninteractive_auth")),
+        bool(security.get("secrets_redacted")),
+        not bool(security.get("candidate_code_runs_privileged")),
+        not bool(security.get("force_push")),
+        not bool(security.get("destructive_history")),
+        _nonempty_string(security.get("credential_policy_source")),
+        _nonempty_string(security.get("credential_evidence")),
+    ]
+    _check(
+        checks,
+        blockers,
+        "security.boundary",
+        all(security_conditions),
+        "credential locality, least privilege and non-destructive history are preserved",
+        "credential, privilege, secret or history safety is not proved",
+    )
+
+    if effect.get("runtime_activation"):
+        runtime_present = isinstance(runtime, dict)
+        _check(
+            checks,
+            blockers,
+            "runtime.contract",
+            runtime_present,
+            "runtime activation has an explicit target contract",
+            "runtime_activation requires a runtime object",
+        )
+        if runtime_present:
+            current_revision = runtime.get("current_revision")
+            target_revision = runtime.get("target_revision")
+            rollback_revision = runtime.get("rollback_revision")
+            _check(
+                checks,
+                blockers,
+                "runtime.identity",
+                _is_revision(current_revision)
+                and _is_revision(target_revision)
+                and target_revision == local_revision
+                and _nonempty_string(runtime.get("identity_evidence")),
+                "runtime current and target revisions are exact and target the reviewed source",
+                "runtime identities are missing or the target differs from the reviewed source",
+            )
+            _check(
+                checks,
+                blockers,
+                "runtime.source_first",
+                bool(runtime.get("source_first_path"))
+                and not bool(runtime.get("runtime_drift"))
+                and not bool(runtime.get("direct_runtime_edit")),
+                "activation preserves one source-first causal chain",
+                "runtime drift or a direct-edit path would break source ownership",
+            )
+            allowlist = set(runtime.get("service_allowlist") or [])
+            restart_set = set(runtime.get("services_to_restart") or [])
+            active_set = set(runtime.get("services_currently_active") or [])
+            successful_oneshot_set = set(
+                runtime.get("services_currently_successful_oneshot") or []
+            )
+            _check(
+                checks,
+                blockers,
+                "runtime.services",
+                bool(allowlist)
+                and restart_set.issubset(allowlist)
+                and allowlist.issubset(active_set | successful_oneshot_set),
+                "restart scope is bounded and every service is active or a successful oneshot",
+                "service restart scope exceeds the allowlist or current service state is incomplete",
+            )
+            _check(
+                checks,
+                blockers,
+                "runtime.rollback",
+                _is_revision(rollback_revision)
+                and rollback_revision != target_revision
+                and bool(runtime.get("rollback_available"))
+                and bool(runtime.get("rollback_independent"))
+                and _nonempty_string(runtime.get("rollback_evidence")),
+                "an independent previous revision and restore path are locked",
+                "rollback identity is absent, identical to target or not independently proved",
+            )
+            terminal_checks = set(runtime.get("terminal_checks") or [])
+            _check(
+                checks,
+                blockers,
+                "runtime.terminal_proof",
+                REQUIRED_TERMINAL_CHECKS.issubset(terminal_checks)
+                and bool(runtime.get("unchanged_surfaces")),
+                "terminal identity, health, public behavior and unchanged surfaces are planned",
+                "terminal proof or unchanged-surface checks are incomplete",
+            )
+    else:
+        _check(
+            checks,
+            blockers,
+            "runtime.not_applicable",
+            runtime is None,
+            "no runtime mutation is included",
+            "a runtime object is present although runtime activation is outside the effect",
+        )
+
+    _check(
+        checks,
+        blockers,
+        "receipt.boundary",
+        _nonempty_string(receipt.get("owner")) and _nonempty_string(receipt.get("path")),
+        "the terminal receipt has an owner and durable path",
+        "receipt owner or path is missing",
+    )
+
+    if effect.get("source_publication") and not operator.get("covers_source_publication"):
+        decisions_needed.append("select the source publication outcome")
+    if effect.get("runtime_activation") and not operator.get("covers_runtime_activation"):
+        decisions_needed.append("select the runtime activation outcome")
+    if not _nonempty_string(operator.get("outcome")) or not _nonempty_string(operator.get("source")):
+        decisions_needed.append("identify the operator-selected outcome and its source")
+
+    technical_status = "coherent" if not blockers else "incoherent"
+    if blockers:
+        status = "blocked"
+        next_action = "resolve the listed technical contradictions with read-only evidence"
+    elif decisions_needed:
+        status = "needs_operator_decision"
+        next_action = "ask one plain-language outcome question covering only the missing effect"
+    else:
+        status = "ready"
+        next_action = "submit the locked effect request to the platform gate and execute only that batch"
+
+    target_branches = [
+        target["branch"] for target in remote_targets if target.get("will_update")
+    ]
+    runtime_summary = None
+    if isinstance(runtime, dict):
+        runtime_summary = {
+            "host": runtime.get("host"),
+            "path": runtime.get("path"),
+            "current_revision": runtime.get("current_revision"),
+            "target_revision": runtime.get("target_revision"),
+            "services_to_restart": runtime.get("services_to_restart"),
+            "rollback_revision": runtime.get("rollback_revision"),
+            "unchanged_surfaces": runtime.get("unchanged_surfaces"),
+        }
+    canonical = json.dumps(request, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    request_digest = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+    platform_message = (
+        f"Effetto {kind} sul repository {source.get('repository')} alla revisione "
+        f"{str(local_revision)[:12]}; branch {', '.join(target_branches) or 'nessuno'}"
+    )
+    if runtime_summary:
+        platform_message += (
+            f"; runtime {runtime_summary['host']}:{runtime_summary['path']} da "
+            f"{str(runtime_summary['current_revision'])[:12]} a "
+            f"{str(runtime_summary['target_revision'])[:12]}; restart "
+            f"{', '.join(runtime_summary['services_to_restart'] or []) or 'nessuno'}; rollback "
+            f"{str(runtime_summary['rollback_revision'])[:12]}"
+        )
+    platform_message += ". Le superfici non nominate restano invariate."
+
+    return {
+        "schema": DECISION_SCHEMA_ID,
+        "request_id": request["request_id"],
+        "request_digest": request_digest,
+        "status": status,
+        "technical_status": technical_status,
+        "operator_decision_status": "covered" if not decisions_needed else "missing",
+        "checks": checks,
+        "blockers": blockers,
+        "decisions_needed": decisions_needed,
+        "declared_limits": declared_limits,
+        "locked_effect": {
+            "kind": kind,
+            "repository": source.get("repository"),
+            "revision": local_revision,
+            "target_branches": target_branches,
+            "runtime": runtime_summary,
+        },
+        "platform_gate": {
+            "expected": bool(effect.get("production_bound")),
+            "message": platform_message,
+        },
+        "next_legal_action": next_action,
+        "side_effect_performed": False,
+    }
+
+
+def _base_case() -> dict[str, Any]:
+    previous = "1" * 40
+    target = "2" * 40
+    return {
+        "schema": SCHEMA_ID,
+        "request_id": "maios-release-test",
+        "created_at": "2026-08-11T09:00:00+02:00",
+        "effect": {
+            "kind": "combined_release",
+            "source_publication": True,
+            "runtime_activation": True,
+            "production_bound": True,
+            "batch_policy": "combined_adopted",
+            "policy_evidence": "owner release contract explicitly adopts one combined source/runtime effect",
+        },
+        "operator_selection": {
+            "outcome": "publish online and hand back the exact surface for testing",
+            "source": "operator message",
+            "covers_source_publication": True,
+            "covers_runtime_activation": True,
+        },
+        "source": {
+            "repository": "example/project",
+            "branch": "candidate",
+            "local_revision": target,
+            "local_tree": "3" * 40,
+            "diff_reviewed": True,
+            "diff_review_evidence": "cached diff and path list",
+            "scoped_paths": ["src/app.py", "tests/test_app.py"],
+            "excluded_dirty_paths": ["notes/operator.html"],
+            "excluded_paths_preserved": True,
+            "remote_targets": [
+                {
+                    "branch": "candidate",
+                    "role": "candidate",
+                    "observed_revision": previous,
+                    "expected_revision": previous,
+                    "will_update": True,
+                },
+                {
+                    "branch": "main",
+                    "role": "production",
+                    "observed_revision": previous,
+                    "expected_revision": previous,
+                    "will_update": True,
+                },
+            ],
+            "authenticated_remote_verified": True,
+            "remote_verification_evidence": "prompt-free authenticated fetch and ref readback",
+            "ancestry_verified": True,
+            "ancestry_evidence": "merge-base --is-ancestor for every updated ref",
+            "production_consumer_known": True,
+            "production_consumer_evidence": "mapped production checkout consumes main",
+        },
+        "validation": {
+            "status": "partial",
+            "passed_checks": ["focused tests", "syntax", "diff check"],
+            "failed_checks": [
+                {
+                    "id": "workspace-topology",
+                    "classification": "preexisting_out_of_scope",
+                    "evidence": "known unrelated audit outside the selected owner",
+                }
+            ],
+        },
+        "runtime": {
+            "host": "production.example",
+            "path": "/opt/project",
+            "current_revision": previous,
+            "target_revision": target,
+            "identity_evidence": "clean checkout and exact HEAD readback",
+            "source_first_path": True,
+            "runtime_drift": False,
+            "direct_runtime_edit": False,
+            "service_allowlist": ["project-api"],
+            "services_to_restart": ["project-api"],
+            "services_currently_active": ["project-api"],
+            "services_currently_successful_oneshot": [],
+            "rollback_revision": previous,
+            "rollback_available": True,
+            "rollback_independent": True,
+            "rollback_evidence": "previous release remains reachable by the fixed restore path",
+            "terminal_checks": sorted(REQUIRED_TERMINAL_CHECKS),
+            "unchanged_surfaces": ["nginx", "database"],
+        },
+        "security": {
+            "credential_policy_source": "workspace AGENTS.md",
+            "credential_locality_preserved": True,
+            "noninteractive_auth": True,
+            "secrets_redacted": True,
+            "candidate_code_runs_privileged": False,
+            "force_push": False,
+            "destructive_history": False,
+            "credential_evidence": "token loaded in process memory under workspace policy",
+        },
+        "receipt": {
+            "owner": "release owner",
+            "path": "process/release-receipt.json",
+        },
+    }
+
+
+def _local_runtime_case() -> dict[str, Any]:
+    candidate = _base_case()
+    candidate["request_id"] = "local-runtime-test"
+    candidate["effect"] = {
+        "kind": "runtime_activation",
+        "source_publication": False,
+        "runtime_activation": True,
+        "production_bound": True,
+        "batch_policy": "single_effect",
+        "policy_evidence": "one local-source runtime activation with no remote publication",
+    }
+    candidate["operator_selection"]["covers_source_publication"] = False
+    candidate["source"]["remote_targets"] = []
+    candidate["source"]["authenticated_remote_verified"] = False
+    candidate["source"]["remote_verification_evidence"] = (
+        "not applicable: the selected immutable source repository has no remote target"
+    )
+    return candidate
+
+
+def self_test() -> None:
+    cases: list[tuple[str, dict[str, Any], str, str | None]] = []
+    cases.append(("ready", _base_case(), "ready", None))
+    cases.append(("local runtime ready", _local_runtime_case(), "ready", None))
+
+    successful_oneshot = _local_runtime_case()
+    successful_oneshot["runtime"]["services_currently_active"] = []
+    successful_oneshot["runtime"]["services_currently_successful_oneshot"] = ["project-api"]
+    cases.append(("successful oneshot runtime ready", successful_oneshot, "ready", None))
+
+    missing_decision = _base_case()
+    missing_decision["operator_selection"]["covers_runtime_activation"] = False
+    cases.append(("operator decision", missing_decision, "needs_operator_decision", None))
+
+    missing_combined_policy = _base_case()
+    missing_combined_policy["effect"]["batch_policy"] = "single_effect"
+    cases.append(
+        (
+            "combined release without adopted policy",
+            missing_combined_policy,
+            "blocked",
+            "effect.batch_policy",
+        )
+    )
+
+    stale_ref = _base_case()
+    stale_ref["source"]["remote_targets"][0]["observed_revision"] = "4" * 40
+    cases.append(("stale remote ref", stale_ref, "blocked", "source.remote_refs"))
+
+    wrong_runtime = _base_case()
+    wrong_runtime["runtime"]["target_revision"] = "5" * 40
+    cases.append(("wrong runtime target", wrong_runtime, "blocked", "runtime.identity"))
+
+    bad_rollback = _base_case()
+    bad_rollback["runtime"]["rollback_revision"] = "2" * 40
+    cases.append(("bad rollback", bad_rollback, "blocked", "runtime.rollback"))
+
+    extra_service = _base_case()
+    extra_service["runtime"]["services_to_restart"].append("nginx")
+    cases.append(("service outside allowlist", extra_service, "blocked", "runtime.services"))
+
+    in_scope_failure = _base_case()
+    in_scope_failure["validation"]["failed_checks"][0]["classification"] = "in_scope"
+    cases.append(("in-scope failure", in_scope_failure, "blocked", "validation.scope"))
+
+    privileged = _base_case()
+    privileged["security"]["candidate_code_runs_privileged"] = True
+    cases.append(("privileged candidate", privileged, "blocked", "security.boundary"))
+
+    for name, candidate, expected_status, expected_blocker in cases:
+        result = validate_effect_request(candidate)
+        if result["status"] != expected_status:
+            raise AssertionError(
+                f"{name}: expected {expected_status}, got {result['status']}"
+            )
+        if expected_blocker and not any(
+            blocker.startswith(expected_blocker) for blocker in result["blockers"]
+        ):
+            raise AssertionError(f"{name}: missing blocker {expected_blocker}")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("request", nargs="?", type=Path)
+    parser.add_argument("--self-test", action="store_true")
+    args = parser.parse_args()
+
+    if args.self_test:
+        self_test()
+        print(json.dumps({"self_test": "passed", "cases": 11}, sort_keys=True))
+        return 0
+    if args.request is None:
+        parser.error("request is required unless --self-test is used")
+    try:
+        request = json.loads(args.request.read_text(encoding="utf-8"))
+        if not isinstance(request, dict):
+            raise ValueError("request root must be an object")
+        print(json.dumps(validate_effect_request(request), ensure_ascii=False, indent=2))
+    except Exception as exc:  # CLI boundary: always emit a compact machine-readable error.
+        print(json.dumps({"status": "invalid", "error": str(exc)}, ensure_ascii=False), file=sys.stderr)
+        return 2
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+```
+
+### references/release-context.schema.json
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://d-nd.com/schemas/govern-source-to-runtime/release-context.v0.json",
+  "title": "Source-to-runtime release context",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_owner_known",
+    "release_owner_known",
+    "production_consumer_known",
+    "remote_verified_authenticated",
+    "source_diff_reviewed",
+    "validation_passed",
+    "push_effect",
+    "source_publication_authorized",
+    "runtime_activation_authorized",
+    "validator_executes_candidate_code_as_privileged",
+    "runtime_drift",
+    "rollback_proved",
+    "live_identity_verified",
+    "human_acceptance_verified"
+  ],
+  "properties": {
+    "source_owner_known": {"type": "boolean"},
+    "release_owner_known": {"type": "boolean"},
+    "production_consumer_known": {"type": "boolean"},
+    "remote_verified_authenticated": {"type": "boolean"},
+    "source_diff_reviewed": {"type": "boolean"},
+    "validation_passed": {"type": "boolean"},
+    "push_effect": {
+      "enum": ["local_source", "source_remote_only", "production_bound_push"]
+    },
+    "source_publication_authorized": {"type": "boolean"},
+    "runtime_activation_authorized": {"type": "boolean"},
+    "validator_executes_candidate_code_as_privileged": {"type": "boolean"},
+    "runtime_drift": {"type": "boolean"},
+    "rollback_proved": {"type": "boolean"},
+    "production_source_matches_candidate": {"type": ["boolean", "null"]},
+    "runtime_matches_production_source": {"type": ["boolean", "null"]},
+    "live_identity_verified": {"type": "boolean"},
+    "human_acceptance_verified": {"type": "boolean"}
+  }
+}
+```
+
+### references/effect-request.schema.json
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://d-nd.com/schemas/govern-source-to-runtime/effect-request.v1.json",
+  "title": "Evidence-bound source/runtime effect request",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "request_id",
+    "created_at",
+    "effect",
+    "operator_selection",
+    "source",
+    "validation",
+    "runtime",
+    "security",
+    "receipt"
+  ],
+  "properties": {
+    "schema": {"const": "dnd.effect-request.v1"},
+    "request_id": {"type": "string", "minLength": 1},
+    "created_at": {"type": "string", "format": "date-time"},
+    "effect": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind", "source_publication", "runtime_activation", "production_bound",
+        "batch_policy", "policy_evidence"
+      ],
+      "properties": {
+        "kind": {"enum": ["source_push", "production_bound_push", "runtime_activation", "combined_release"]},
+        "source_publication": {"type": "boolean"},
+        "runtime_activation": {"type": "boolean"},
+        "production_bound": {"type": "boolean"},
+        "batch_policy": {"enum": ["single_effect", "combined_adopted"]},
+        "policy_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "operator_selection": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["outcome", "source", "covers_source_publication", "covers_runtime_activation"],
+      "properties": {
+        "outcome": {"type": "string", "minLength": 1},
+        "source": {"type": "string", "minLength": 1},
+        "covers_source_publication": {"type": "boolean"},
+        "covers_runtime_activation": {"type": "boolean"}
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "repository", "branch", "local_revision", "local_tree", "diff_reviewed",
+        "diff_review_evidence", "scoped_paths", "excluded_dirty_paths",
+        "excluded_paths_preserved", "remote_targets", "authenticated_remote_verified",
+        "remote_verification_evidence", "ancestry_verified", "ancestry_evidence",
+        "production_consumer_known", "production_consumer_evidence"
+      ],
+      "properties": {
+        "repository": {"type": "string", "minLength": 1},
+        "branch": {"type": "string", "minLength": 1},
+        "local_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "local_tree": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "diff_reviewed": {"type": "boolean"},
+        "diff_review_evidence": {"type": "string", "minLength": 1},
+        "scoped_paths": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "excluded_dirty_paths": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "excluded_paths_preserved": {"type": "boolean"},
+        "remote_targets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["branch", "role", "observed_revision", "expected_revision", "will_update"],
+            "properties": {
+              "branch": {"type": "string", "minLength": 1},
+              "role": {"enum": ["candidate", "production"]},
+              "observed_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+              "expected_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+              "will_update": {"type": "boolean"}
+            }
+          }
+        },
+        "authenticated_remote_verified": {"type": "boolean"},
+        "remote_verification_evidence": {"type": "string", "minLength": 1},
+        "ancestry_verified": {"type": "boolean"},
+        "ancestry_evidence": {"type": "string", "minLength": 1},
+        "production_consumer_known": {"type": "boolean"},
+        "production_consumer_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "passed_checks", "failed_checks"],
+      "properties": {
+        "status": {"enum": ["pass", "partial", "fail"]},
+        "passed_checks": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "failed_checks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "classification", "evidence"],
+            "properties": {
+              "id": {"type": "string", "minLength": 1},
+              "classification": {"enum": ["preexisting_out_of_scope", "in_scope", "unknown"]},
+              "evidence": {"type": "string", "minLength": 1}
+            }
+          }
+        }
+      }
+    },
+    "runtime": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": [
+        "host", "path", "current_revision", "target_revision", "identity_evidence",
+        "source_first_path", "runtime_drift", "direct_runtime_edit", "service_allowlist",
+        "services_to_restart", "services_currently_active", "rollback_revision",
+        "rollback_available", "rollback_independent", "rollback_evidence",
+        "terminal_checks", "unchanged_surfaces"
+      ],
+      "properties": {
+        "host": {"type": "string", "minLength": 1},
+        "path": {"type": "string", "minLength": 1},
+        "current_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "target_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "identity_evidence": {"type": "string", "minLength": 1},
+        "source_first_path": {"type": "boolean"},
+        "runtime_drift": {"type": "boolean"},
+        "direct_runtime_edit": {"type": "boolean"},
+        "service_allowlist": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "services_to_restart": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "services_currently_active": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "services_currently_successful_oneshot": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "rollback_revision": {"type": "string", "pattern": "^[0-9a-fA-F]{40}$"},
+        "rollback_available": {"type": "boolean"},
+        "rollback_independent": {"type": "boolean"},
+        "rollback_evidence": {"type": "string", "minLength": 1},
+        "terminal_checks": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "unchanged_surfaces": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "security": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "credential_policy_source", "credential_locality_preserved", "noninteractive_auth",
+        "secrets_redacted", "candidate_code_runs_privileged", "force_push",
+        "destructive_history", "credential_evidence"
+      ],
+      "properties": {
+        "credential_policy_source": {"type": "string", "minLength": 1},
+        "credential_locality_preserved": {"type": "boolean"},
+        "noninteractive_auth": {"type": "boolean"},
+        "secrets_redacted": {"type": "boolean"},
+        "candidate_code_runs_privileged": {"type": "boolean"},
+        "force_push": {"type": "boolean"},
+        "destructive_history": {"type": "boolean"},
+        "credential_evidence": {"type": "string", "minLength": 1}
+      }
+    },
+    "receipt": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["owner", "path"],
+      "properties": {
+        "owner": {"type": "string", "minLength": 1},
+        "path": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}
+```
+
+### examples/release-context.sample.json
+
+```json
+{
+  "source_owner_known": true,
+  "release_owner_known": true,
+  "production_consumer_known": true,
+  "remote_verified_authenticated": true,
+  "source_diff_reviewed": true,
+  "validation_passed": true,
+  "push_effect": "production_bound_push",
+  "source_publication_authorized": true,
+  "runtime_activation_authorized": false,
+  "validator_executes_candidate_code_as_privileged": false,
+  "runtime_drift": false,
+  "rollback_proved": true,
+  "live_identity_verified": false,
+  "human_acceptance_verified": false,
+  "production_source_matches_candidate": true,
+  "runtime_matches_production_source": false
+}
+```
+
+### examples/effect-request.sample.json
+
+```json
+{
+  "schema": "dnd.effect-request.v1",
+  "request_id": "maios-release-test",
+  "created_at": "2026-08-11T09:00:00+02:00",
+  "effect": {
+    "kind": "combined_release",
+    "source_publication": true,
+    "runtime_activation": true,
+    "production_bound": true,
+    "batch_policy": "combined_adopted",
+    "policy_evidence": "owner release contract explicitly adopts one combined source/runtime effect"
+  },
+  "operator_selection": {
+    "outcome": "publish online and hand back the exact surface for testing",
+    "source": "operator message",
+    "covers_source_publication": true,
+    "covers_runtime_activation": true
+  },
+  "source": {
+    "repository": "example/project",
+    "branch": "candidate",
+    "local_revision": "2222222222222222222222222222222222222222",
+    "local_tree": "3333333333333333333333333333333333333333",
+    "diff_reviewed": true,
+    "diff_review_evidence": "cached diff and path list",
+    "scoped_paths": [
+      "src/app.py",
+      "tests/test_app.py"
+    ],
+    "excluded_dirty_paths": [
+      "notes/operator.html"
+    ],
+    "excluded_paths_preserved": true,
+    "remote_targets": [
+      {
+        "branch": "candidate",
+        "role": "candidate",
+        "observed_revision": "1111111111111111111111111111111111111111",
+        "expected_revision": "1111111111111111111111111111111111111111",
+        "will_update": true
+      },
+      {
+        "branch": "main",
+        "role": "production",
+        "observed_revision": "1111111111111111111111111111111111111111",
+        "expected_revision": "1111111111111111111111111111111111111111",
+        "will_update": true
+      }
+    ],
+    "authenticated_remote_verified": true,
+    "remote_verification_evidence": "prompt-free authenticated fetch and ref readback",
+    "ancestry_verified": true,
+    "ancestry_evidence": "merge-base --is-ancestor for every updated ref",
+    "production_consumer_known": true,
+    "production_consumer_evidence": "mapped production checkout consumes main"
+  },
+  "validation": {
+    "status": "partial",
+    "passed_checks": [
+      "focused tests",
+      "syntax",
+      "diff check"
+    ],
+    "failed_checks": [
+      {
+        "id": "workspace-topology",
+        "classification": "preexisting_out_of_scope",
+        "evidence": "known unrelated audit outside the selected owner"
+      }
+    ]
+  },
+  "runtime": {
+    "host": "production.example",
+    "path": "/opt/project",
+    "current_revision": "1111111111111111111111111111111111111111",
+    "target_revision": "2222222222222222222222222222222222222222",
+    "identity_evidence": "clean checkout and exact HEAD readback",
+    "source_first_path": true,
+    "runtime_drift": false,
+    "direct_runtime_edit": false,
+    "service_allowlist": [
+      "project-api"
+    ],
+    "services_to_restart": [
+      "project-api"
+    ],
+    "services_currently_active": [
+      "project-api"
+    ],
+    "services_currently_successful_oneshot": [],
+    "rollback_revision": "1111111111111111111111111111111111111111",
+    "rollback_available": true,
+    "rollback_independent": true,
+    "rollback_evidence": "previous release remains reachable by the fixed restore path",
+    "terminal_checks": [
+      "checkout_revision",
+      "destination_behavior",
+      "public_identity",
+      "service_health"
+    ],
+    "unchanged_surfaces": [
+      "nginx",
+      "database"
+    ]
+  },
+  "security": {
+    "credential_policy_source": "workspace AGENTS.md",
+    "credential_locality_preserved": true,
+    "noninteractive_auth": true,
+    "secrets_redacted": true,
+    "candidate_code_runs_privileged": false,
+    "force_push": false,
+    "destructive_history": false,
+    "credential_evidence": "token loaded in process memory under workspace policy"
+  },
+  "receipt": {
+    "owner": "release owner",
+    "path": "process/release-receipt.json"
+  }
+}
+```
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

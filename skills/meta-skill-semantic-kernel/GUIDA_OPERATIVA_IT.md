@@ -44,6 +44,11 @@ Una biblioteca vuole laboratori di lettura sensibili a ciò che un gruppo compre
 
 Se i partecipanti fanno emergere un modo nuovo di collegare un brano alla propria esperienza, la competenza del laboratorio può acquisire quella scelta. Se la formazione aveva copiato la scheda invece di recuperarne la ragione, anche il generatore impara a leggere l’esempio. Sono ritorni diversi dallo stesso evento. I dettagli del laboratorio rimangono nel progetto. Un altro argomento può mostrare se la ragione resta operante; il primo output riuscito non lo stabilisce. File esistenti, note della conversazione o guide del progetto possono portare questo sapere senza un nuovo livello di coordinamento.
 
+
+## Il sapere acquisito può cambiare il punto da cui formi una capacità
+
+Non limitarti a inserire una nuova informazione nel compito inizialmente rappresentato. Comprendi se cambia l’oggetto riconoscibile, le relazioni, la pertinenza delle fonti, la domanda o il metodo. Un’osservazione aperta può produrre direttamente comprensione o una domanda prima non selezionata. Un incarico già determinato continua dal sapere pertinente, senza riaprirlo per abitudine. Incarnare questa relazione significa cambiare il metodo nativo della competenza, non aggiungere una domanda rituale, un controllo separato o l’attesa del richiamo umano.
+
 ## Il generatore può imparare dal proprio modo di generare
 
 KA è il Kernel Assiomatico, un kernel semantico. Le metacompetenze ne sono facoltà operative; Meta_Skill le riconosce, compone, forma ed evolve nello stesso campo. KA non è un substrato sotto un kernel delle competenze concepito separatamente.

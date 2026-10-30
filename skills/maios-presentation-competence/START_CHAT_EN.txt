@@ -1,3 +1,4 @@
+
 # MAIOS Presentation Competence
 
 Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work.
@@ -22,27 +23,32 @@ Provide documents, actual capabilities and a use case of the system being presen
 
 Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result.
 
+
 ## Form the encounter with the receiver
 
 Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label.
+
 
 ## Compose meaning and visible form together
 
 Work backward from the understanding the receiver should be able to form to the premises that make it possible. Compose words, visual objects, spatial relations and interaction together. A map’s center can imply authority; arrows can imply causation; an animation can imply a real timeline. Let those implications match the source instead of asking a caption to repair a misleading image.
 
+
 ## Keep orientation and depth connected
 
 Provide a first relation the person can understand in the visible unit, then allow deeper explanation, source knowledge or an actual example to be reached. Choose navigation and timing according to the encounter. A public page, presenter’s map and conversation can share knowledge while serving different functions. Preserve the person’s focus when changing depth; let them explore and return.
+
 
 ## Use authentic work where it makes the capability visible
 
 A short attributed excerpt, artifact or real correction can open the system’s depth. Keep its source and the actual consequence reachable. Distinguish the words expressed from proof of an internal process or later assimilation. An illustrative case can instead teach a mechanism, with its illustrative status clear. Choose the form that best preserves the useful relation.
 
+
 ## Let the encounter improve the presenting competence
 
 A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
 
-## Continue in the project
+## Continue through the actual project
 
 Preserve the relation between first encounter and deeper sources; a short page can carry that access.
 
@@ -50,60 +56,82 @@ A new question may change the concept, visual form or medium; update only the de
 
 ## Operating knowledge
 
-Read OPERATING_GUIDE.md and EXAMPLES.md. Without file access use the complete START_CHAT_EN.txt. Compose pertinent local methods; tools, persistence and authority remain those actually available.
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
 
-# MAIOS Presentation Competence — operating knowledge
+
+# MAIOS Presentation Competence — practical operating knowledge
 
 ## A system can work and become part of what it creates
 
 A generative system may be a research result, a usable product, a means participating in its own development and a capability for forming other systems. Present the relationships relevant to the recipient’s question through actual capabilities, recognizable examples and reachable sources.
 
+
 ## A living map preserves reasons
 
 Maintain the concepts, why they are connected, how the representation expresses them and what current questions can change it. A new version should recover that understanding rather than rebuild from labels alone. Semantic and perceptual quality develop together: clear paragraphs cannot compensate for a diagram that makes the wrong relationship dominant.
+
 
 ## Recognize the object behind its latest demo
 
 Ask what the system actually does, which sources establish that capability and what earlier learning still changes its work. Separate the available release, an observed run, an illustrative example, a research question and an open possibility. A digital archive need not generate other systems; MAIOS supplies that particular generative example. Follow a missing fact to the product or research owner rather than filling it with a familiar AI architecture.
 
+
 ## Organize reachable knowledge for this encounter
 
 Keep the question, subject, relevant source, practical example and next depth reachable together. This open functional profile belongs to the presenting competence; it is not another skill or a fixed team. Reuse the local writing, domain, visual-design and continuity methods when their knowledge changes the explanation. Reach their actual operating bodies, not just their names. A new question can make a previously secondary source pertinent.
+
 
 ## Choose predicates before arrows
 
 Read the proposed figure as a sentence: who acts, on what, with which consequence? Choose a comparison for a difference, containment for belonging, a role map for participation, and a sequence only for an actual order. A source relation does not mean that a system can generate another system. Keep labels, geometry, control state and explanatory text attached to the same subject. Remove a misleading edge instead of repairing it only in a footnote.
 
+
 ## Locate the loss before revising the surface
 
 If a visitor cannot name the subject, recover the missing premise in the explanation. If a diagram implies a central authority unsupported by the source, change the visual relation. If a depth switch loses the selected object, change the interaction. If the source itself is incomplete, return to its responsible competence. These causes can coexist; a larger paragraph does not repair every one of them.
+
 
 ## Observe a first encounter without supplying its answer
 
 When a fresh person or distinct AI is available, present the actual page without explaining the expected concepts. Ask what the resource is, how it relates to their work and what they would do first. Record the page revision, actual access and spontaneous observations. The author’s rereading is useful but is not this independent encounter. A receiver can reveal a missing relationship without becoming the authority over the system.
 
+
 ## Continue the method through a changed system
 
 Keep source, reason for the representation, actual feedback, unresolved question and the responsible guide in the project. A product change updates only dependent claims and views. A repeated loss of subject changes how this competence finds and composes sources next time. A perceptual lesson belongs to visual design; a new domain fact belongs to that domain. Preserve local learning when adopting a later kit.
+
+
+## Explain adoption through experience and responsibility
+
+You can begin with how people learn a practice: information, rules, observation and environment participate together. Show how context is taught to AI, which result a person validates and which observation supports entrusting another part of the work. Collaboration, validation and monitoring can take different forms; they are not a mandatory autonomy ladder. Evolution can change an organization’s method and its products or services. Qualify each capability with the actual product rather than inferring it from an analogy with human experience.
 
 ## A presentation can improve the method that presents
 
 When an encounter reveals that the presenting method reduced the system to one artifact, the correction can change the source understanding and the competence’s next way of explaining.
 
+
 # Worked examples
 
-Illustrative cases: they teach conditions, choices and continuation; they are not observed customer results.
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## A first encounter with MAIOS
 
 A reader sees a catalogue of skills and concludes that MAIOS is a prompt library. The presentation must make the system’s operating relation recognizable: knowledge and competences participate in work, results can change their method, and that generative capability can form further situated kernels. Use one illustrative project and keep the public kernel and deeper sources reachable. The case opens the relation; the catalogue then becomes useful detail rather than the definition of the whole system.
 
+
 ## One system, different useful entrances
 
 An engineer asks how an industrial assistant preserves fault knowledge; a manager asks who must participate; a technician asks what changes during the shift. These are views of one system. Start each encounter from the actual question, connect the same sourced mechanism and expose the relevant depth. The technician can see a concrete handover example; the engineer can reach data and competence relations. Their different views should remain consistent when they meet again.
+
 
 ## A diagram reveals a conceptual error
 
 A map draws every competence beneath a central controller, although the sources describe situated reciprocal participation. Adding a footnote would leave the wrong visual premise intact. Recover the intended relation and recompose geometry, verbs and navigation so that complementary contributions can become visible together. Observe the rendered result and the questions it now supports. Keep the conceptual correction and the design choice with their respective owners for the next map.
 
-Assignment and context: add what you want to make possible, sources, previous work, real means and responsible people. Preserve continuation in the project or return it to the person when you cannot save it.
+
+## A school office understands what to delegate to AI
+
+The presentation addresses an office preparing replies to families. It begins with familiar work: a new colleague learns regulations, calendar and exceptional cases. The example then explains the assistant’s actual capability: reach project sources and propose a reply with pertinent reasons. In the first configuration a person validates every text; another configuration could entrust recurring summary preparation while retaining appropriate observation. Sending replies to families remains an effect with its own mandate and means. The presentation distinguishes available method, selected configuration and actually observed behavior. The case lets the school recognize work and choose a first delegation without promising complete autonomy or human-like assimilation by the model.
+
+
+My assignment, sources, existing work, available means and requested result:
