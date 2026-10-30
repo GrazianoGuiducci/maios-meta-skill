@@ -1906,6 +1906,50 @@
         "system-fundable-project-extraction/LICENSE": "LICENSE",
         "system-fundable-project-extraction/NOTICE": "NOTICE"
       }
+    },
+    {
+      "id": "collegare-competenze-al-lavoro",
+      "version": "0.1.0",
+      "package": "dist/meta-focus-0.1.0.zip",
+      "sha256": "0c5851589d0637da9363cd3769e6ba209930bc7fdf34bf837274a9ee09ae899d",
+      "files": {
+        "meta-focus/AVVIO_CHAT_IT.txt": "36242523ca0415d72bd1c17dce84cb36d2ca2046a2dc7af512c60efe86c5fbea",
+        "meta-focus/EDITION.json": "8219f3ffee17d12d2f3c4845f4d894b470a88483617315d56cbb9ec65bafd14c",
+        "meta-focus/ESEMPI_IT.md": "4e868c09d0dff1118cc387f1700c79645333824340652b91518f211c586428e0",
+        "meta-focus/EXAMPLES.md": "f69151e0d85848cbfd19590c1ba1c3dc272344818d2d43292cbb33a91688ed3e",
+        "meta-focus/GUIDA_OPERATIVA_IT.md": "50d6db86a3f82037c579743837d69a9866ab8d337d256cdd3d2028090c3feaf7",
+        "meta-focus/INSTALL.md": "3ea693cc51ede8ea35b4d06ab1ee470b5f78f8ea4b46429cc94b39d6f610f119",
+        "meta-focus/INSTALL_IT.md": "6e1533de4b152e58fc6ed1eab3d6a42739cef16953609fae66f1c424e2f53a6a",
+        "meta-focus/OPERATING_GUIDE.md": "bab606e3274dab6d4b71fc7dc38e2d4814f007bb1a8a66bf27520f5e684df822",
+        "meta-focus/README.md": "3a81dc60f39c7564e538d62d0e31ae63d52993e3edc13c3c63dac4f22a93e897",
+        "meta-focus/README_IT.md": "88410c1d5a9caaa76c3d634b3d42e38386c9084364494d1d50ea3d4793dac1e9",
+        "meta-focus/SKILL.md": "e97717d0512dbc3ea731046286f9e7f96c059804fe12290b1f06565267b7310f",
+        "meta-focus/SKILL_IT.md": "c4720124d261395ada99d5ea1b8dfeeab709c7ac42e7ba768f8f9592118e65a4",
+        "meta-focus/START_CHAT_EN.txt": "f500f90e3acab919a76a6e5533d1e43f5b7cdf8ee7559d8ec5ba106557a5f2d6",
+        "meta-focus/catalog-entry.json": "9c9953834bf3a144f3aa5ebd1047577674898e732b4378bcb9b6a4abcaa5641f",
+        "meta-focus/presentation.json": "34812a9108a44a245ffce7cc958d170f7771b2c5a7a41a53317c70cc700a73dc",
+        "meta-focus/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "meta-focus/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae"
+      },
+      "source_files": {
+        "meta-focus/AVVIO_CHAT_IT.txt": "skills/meta-focus/AVVIO_CHAT_IT.txt",
+        "meta-focus/EDITION.json": "skills/meta-focus/EDITION.json",
+        "meta-focus/ESEMPI_IT.md": "skills/meta-focus/ESEMPI_IT.md",
+        "meta-focus/EXAMPLES.md": "skills/meta-focus/EXAMPLES.md",
+        "meta-focus/GUIDA_OPERATIVA_IT.md": "skills/meta-focus/GUIDA_OPERATIVA_IT.md",
+        "meta-focus/INSTALL.md": "skills/meta-focus/INSTALL.md",
+        "meta-focus/INSTALL_IT.md": "skills/meta-focus/INSTALL_IT.md",
+        "meta-focus/OPERATING_GUIDE.md": "skills/meta-focus/OPERATING_GUIDE.md",
+        "meta-focus/README.md": "skills/meta-focus/README.md",
+        "meta-focus/README_IT.md": "skills/meta-focus/README_IT.md",
+        "meta-focus/SKILL.md": "skills/meta-focus/SKILL.md",
+        "meta-focus/SKILL_IT.md": "skills/meta-focus/SKILL_IT.md",
+        "meta-focus/START_CHAT_EN.txt": "skills/meta-focus/START_CHAT_EN.txt",
+        "meta-focus/catalog-entry.json": "skills/meta-focus/catalog-entry.json",
+        "meta-focus/presentation.json": "skills/meta-focus/presentation.json",
+        "meta-focus/LICENSE": "LICENSE",
+        "meta-focus/NOTICE": "NOTICE"
+      }
     }
   ]
 }

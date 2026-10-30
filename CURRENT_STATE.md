@@ -1,3 +1,7 @@
+# Meta-Focus — first public method, 30 October 2026
+
+Meta-Focus connects purpose, responsible owners, competences, sources and actual means where complex work begins or changes. The method remains in formation; its three developed cases and exhibition exploration are illustrative. Both languages include a complete method, practical guide and starter. Existing guides are reused, with no added controller or mandatory register. The other 43 public editions and archives retain their identities.
+
 # Meta-Activity — recoverable activity configuration, 29 October 2026
 
 Meta-Activity 0.3.3 now transfers complete private configuration preservation before and after native changes, actual controller and archive readback, concurrent-edit handling, backup-pending continuation and a separately selected recovery. The operating body, practical guide and complete starter also distinguish requested execution preferences from configured settings and let domain knowledge participate already when assigning work. A developed museum-digest case is illustrative. The other 42 resource editions retain their versions and package bytes. A saved configuration and an observed activity remain different facts.

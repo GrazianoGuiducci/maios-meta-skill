@@ -287,6 +287,16 @@
         "en": "/resources/progetti-dalle-capacita-del-sistema/",
         "it": "/risorse/progetti-dalle-capacita-del-sistema/"
       }
+    },
+    {
+      "resource_id": "collegare-competenze-al-lavoro",
+      "name": "Meta-Focus",
+      "skill_name": "meta-focus",
+      "folder": "skills/meta-focus",
+      "routes": {
+        "en": "/resources/collegare-competenze-al-lavoro/",
+        "it": "/risorse/collegare-competenze-al-lavoro/"
+      }
     }
   ],
   "identity_fields": {

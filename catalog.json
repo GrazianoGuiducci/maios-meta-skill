@@ -2928,6 +2928,78 @@
       "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
       "presentation": "skills/system-fundable-project-extraction/presentation.json",
       "package": "dist/system-fundable-project-extraction-0.1.0.zip"
+    },
+    {
+      "id": "collegare-competenze-al-lavoro",
+      "name": "Meta-Focus",
+      "version": "0.1.0",
+      "state": "public_edition",
+      "instruction_language": "en",
+      "review_id": "43",
+      "native_entry": "meta-focus",
+      "skill_name": "meta-focus",
+      "source_title": "Meta-Focus — il campo operativo che nasce con il lavoro",
+      "default_language": "en",
+      "license": "Apache-2.0",
+      "maturity": "method_in_formation",
+      "languages": {
+        "en": {
+          "skill": "skills/meta-focus/SKILL.md",
+          "guide": "skills/meta-focus/README.md",
+          "starter": "skills/meta-focus/START_CHAT_EN.txt",
+          "examples": "skills/meta-focus/EXAMPLES.md",
+          "operating_guide": "skills/meta-focus/OPERATING_GUIDE.md",
+          "installation": "skills/meta-focus/INSTALL.md",
+          "runtime_sources": []
+        },
+        "it": {
+          "skill": "skills/meta-focus/SKILL_IT.md",
+          "guide": "skills/meta-focus/README_IT.md",
+          "starter": "skills/meta-focus/AVVIO_CHAT_IT.txt",
+          "examples": "skills/meta-focus/ESEMPI_IT.md",
+          "operating_guide": "skills/meta-focus/GUIDA_OPERATIVA_IT.md",
+          "installation": "skills/meta-focus/INSTALL_IT.md",
+          "runtime_sources": []
+        }
+      },
+      "en": {
+        "title": "Connect competences, people and tools to the work you are starting",
+        "subtitle": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
+        "kind": "Metacompetence",
+        "domain": "Operating focus and collaboration",
+        "does": "Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution.",
+        "when": "When starting or resuming a project with scattered references, several specialisms, or people and AI working on shared material.",
+        "examples": [
+          "A new room recomposes the exhibition’s work",
+          "Two assistants change different contributions to one manual",
+          "Resume an experiment when the available instrument changes"
+        ],
+        "route": "/resources/collegare-competenze-al-lavoro/",
+        "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
+        "status": "Method in formation · 0.1.0"
+      },
+      "it": {
+        "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
+        "subtitle": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
+        "kind": "Metacompetenza",
+        "domain": "Focus operativo e collaborazione",
+        "does": "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile.",
+        "when": "Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio.",
+        "examples": [
+          "Una nuova sala ricompone il lavoro della mostra",
+          "Due assistenti modificano contributi diversi allo stesso manuale",
+          "Riprendere un esperimento quando cambia lo strumento disponibile"
+        ],
+        "route": "/risorse/collegare-competenze-al-lavoro/",
+        "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
+        "status": "Metodo in formazione · 0.1.0"
+      },
+      "skill": "skills/meta-focus/SKILL.md",
+      "guide": "skills/meta-focus/README.md",
+      "starter": "skills/meta-focus/START_CHAT_EN.txt",
+      "examples": "skills/meta-focus/EXAMPLES.md",
+      "presentation": "skills/meta-focus/presentation.json",
+      "package": "dist/meta-focus-0.1.0.zip"
     }
   ],
   "primary_language": "en",

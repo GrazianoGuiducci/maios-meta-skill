@@ -1,3 +1,7 @@
+# Meta-Focus — primo metodo pubblico, 30 ottobre 2026
+
+Meta-Focus collega scopo, responsabili, competenze, fonti e mezzi reali nel punto in cui un lavoro complesso nasce o cambia. Il metodo resta in formazione; i tre casi sviluppati e l’esplorazione della mostra sono illustrativi. Entrambe le lingue includono metodo, sapere pratico e avvio completi. Le guide esistenti si riusano, senza aggiungere un controller o un registro obbligatorio. Le altre 43 edizioni pubbliche e gli archivi conservano le proprie identità.
+
 # Meta-Activity — configurazione recuperabile dell'attività, 29 ottobre 2026
 
 Meta-Activity 0.3.3 trasferisce ora la conservazione privata integrale della configurazione prima e dopo i cambi nativi, la rilettura del controller e dell'archivio, la gestione delle modifiche concorrenti, il seguito di backup pendente e il recupero selezionato come effetto distinto. Corpo, guida pratica e avvio completo distinguono anche preferenze esecutive richieste e impostazioni configurate e fanno partecipare il sapere di dominio già nell'assegnazione del lavoro. Il caso sviluppato del bollettino di un museo è illustrativo. Le altre 42 edizioni conservano versioni e byte degli archivi. Configurazione salvata ed esecuzione osservata restano fatti diversi.

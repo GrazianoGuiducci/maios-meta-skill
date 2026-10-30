@@ -1,0 +1,382 @@
+{
+  "en": {
+    "title": "Connect competences, people and tools to the work you are starting",
+    "subtitle": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
+    "kind": "Metacompetence",
+    "domain": "Operating focus and collaboration",
+    "does": "Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution.",
+    "when": "When starting or resuming a project with scattered references, several specialisms, or people and AI working on shared material.",
+    "intro": [
+      "An exhibition may already have objects, texts and technicians available while lacking the connection needed to decide what to do today. Meta-Focus makes that relationship readable where the work continues.",
+      "The method is still being formed. The public examples are illustrative; the file version identifies the edition and does not establish maturity across environments. The competence adapts to the guides and tools you already have."
+    ],
+    "reader_context": {
+      "title": "Prepare an exhibition while its contributions are still separate",
+      "situation": "The curator keeps the selection of objects; the technical team knows the room; an association is preparing captions. Another room has become available.",
+      "point": "Today’s work needs to be situated again: who leads the decision, which sources and competences could change it, and which action is actually possible? The exhibition guide may already hold these connections."
+    },
+    "adaptation": {
+      "title": "Adapt the focus to your project",
+      "paragraphs": [
+        "Preserve the relationship between the selected work, those responsible for its decisions, knowledge that must participate, available means and consequences. Domain, people, sources, tools and memory location change. One person working with an assistant may need it as much as a group.",
+        "Bring still-valid work, a concrete situation and existing guides. Focus can emerge while you act: a simple request needs no new document, and an adequate guide should be reused."
+      ]
+    },
+    "method": [
+      {
+        "title": "Recognise the work and who leads it",
+        "body": "Begin with intent, valid decisions and the place where the work continues."
+      },
+      {
+        "title": "Connect knowledge and means to today’s contribution",
+        "body": "Reach the competences and sources that could change a choice, using actually available tools."
+      },
+      {
+        "title": "Recompose focus when something changes",
+        "body": "Keep the difference with the project and return learning to whoever must act differently."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Recognise the object, purpose and still-valid decisions",
+        "body": "Begin from what the person wants to achieve and the work that already exists. Understand which object can change and why it matters now. A recent file, tool name or word in a request does not identify its responsible owner by itself. Continue when the work is determined; reach a missing relationship when it could change the result, without reopening every decision."
+      },
+      {
+        "title": "Enter through the place that owns the work",
+        "body": "Reach the guide, present state and sources of whoever owns the work. Use that location if it already retains the necessary connections. If material complexity risks scattering them, form a small live margin there that makes current work, contributions, tools and continuation understandable. Documents and evidence remain with their owners; the margin connects them without becoming a second authoritative copy."
+      },
+      {
+        "title": "Let the competence that changes the choice participate",
+        "body": "Read the operating body and practical knowledge of pertinent competences while forming the question and action. Describe an actual contribution when continuation needs it; a nearby or still-to-be-acquired capability retains that state. A list of names does not prove consultation, installation or exercise. Domain method stays with its competent owner even when several specialisms contribute to one work."
+      },
+      {
+        "title": "Connect actual tools and entrusted effects",
+        "body": "Understand which sources and tools the receiver can reach and which actions it has been entrusted to perform. A readable guide does not grant control of the service it describes. Identify the missing condition for a concrete action and continue independent work. A shared file preserves information but does not automatically notify or wake another person or AI."
+      },
+      {
+        "title": "Continue from changed understanding",
+        "body": "A source, result or correction may change the question, relevant owner or useful means. Use what you have understood now, in the present from which you choose how to continue. Logical consequences remain possibilities: the chain of your first interpretation does not decide the next act by itself. Preserve a still-valid determination and reform focus where the new difference requires it."
+      },
+      {
+        "title": "Preserve contributions proceeding in parallel",
+        "body": "Before writing, reread the exact object and its current version. Change your own delta in the entrusted location; if another contribution has advanced, reread and compose it without blind replacement. Where the means offer revision protection, use the freshly read identity and read back the result. This protects that write without installing a distributed lock or automatically settling a disagreement about meaning."
+      },
+      {
+        "title": "Continue results and learning in their respective homes",
+        "body": "When a material difference changes the work, retain its source, acquired understanding, result, actual state and next movement or resumption condition. A method correction returns to the competence that must act differently; the margin keeps the connection. Prepared, written, received, exercised and assimilated are different facts. Stop when another passage changes no useful relationship, without producing updates to fill a quota."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A short margin can reach deep knowledge",
+        "body": "The margin supports resuming a choice: what is being done, why, who owns it, which contributions remain causal and which event could change it. A reference suffices only if the next receiver can reach it and recover its reason. When files are inaccessible, keep essential knowledge in the note or prompt that will actually be available. Do not copy the entire archive at every reentry."
+      },
+      {
+        "title": "Operating focus, method and continuity make distinct contributions",
+        "body": "Focus connects work to its capabilities in the present; method formation understands how to approach it; continuity retains knowledge and reasons for proceeding. These functions can cooperate in the existing guide. Focus does not become the supervisor of all competences or automatically assume another person’s or instance’s work."
+      },
+      {
+        "title": "Availability does not establish use",
+        "body": "An assistant may read a method without possessing the tool needed to carry it out. A capability may be installed but not invoked; a written contribution may not yet have reached its recipient. State the relationship that matters for the present act. A statement or footer can make participation readable, but does not produce it or authorize a mutation."
+      },
+      {
+        "title": "Responsibilities can change with the question",
+        "body": "In the exhibition, the curator retains the curatorial decision while the technical team qualifies the room’s availability. If a different question about the visitor’s experience emerges, the person competent to design it becomes pertinent. Focus keeps that passage reachable without transferring every project truth to one owner. A complete organizational chart need not be fixed in advance."
+      },
+      {
+        "title": "Concurrency involves identity and meaning",
+        "body": "A Git revision or service version check protects one exact body. It does not establish that two proposals are compatible, that another AI read the changed text, or that effects cannot be duplicated. Keep contributions and their observed states attributed; the integration owner composes meaning. A coordinator or automatic synchronization needs its own means and mandate."
+      },
+      {
+        "title": "Use the state form the project already supplies",
+        "body": "A chat may retain a note; a file-based project may use its CURRENT or guide; an agentic environment may have validated state transitions. Use the means that preserve the relationship and respect their contract. Do not write directly into validated state to bypass its transitions. The method transfers a connection rather than prescribing a file, schema or new runtime."
+      },
+      {
+        "title": "One learning may have several destinations",
+        "body": "One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A new room recomposes the exhibition’s work",
+        "body": "A museum is preparing a small exhibition. The curator has selected the objects, an association has draft captions and the technicians know only the old room. A different space becomes available. The AI reaches the exhibition guide and connects the new room to today’s question: preserve the route or change it? The curator owns the narrative decision; technicians qualify space and means; whoever designs the reading experience understands how visitors will encounter the objects. The first useful contribution is a reasoned arrangement proposal based on those sources. The guide retains what is proposed and what has been accepted, together with the next necessary conversation. No new organizational chart is created, and room availability is not approval of the installation. At reentry, the next AI reaches the reason for the arrangement as well as its final drawing."
+      },
+      {
+        "title": "Two assistants change different contributions to one manual",
+        "body": "A cooperative is updating a maintenance manual. One assistant prepares images; another revises explanations with the technicians. The manual’s guide identifies both contributions, their sources and the edition’s integration owner. Before writing an explanation, the second assistant rereads the current text and finds a correction just entered by a technician. It preserves that contribution, changes only its own passage and reads back the resulting version. The image assistant can continue independent work, but neither assumes it has already received the revised text. The integration owner connects the affected caption to the changed meaning. The case teaches the difference between a revision-protected write, integration of knowledge and actual reception; the method installs no distributed lock or messaging service."
+      },
+      {
+        "title": "Resume an experiment when the available instrument changes",
+        "body": "A research group retains a question and an experiment paused because of a measurement limit. After an interruption, a collaboration makes a different instrument available. The AI reads the working guide, the reason for pausing and actual access conditions. The researcher understands that a different question is now useful instead of merely repeating the old plan. Focus connects the new object to pertinent scientific knowledge, the instrument’s owner and necessary analysis. The guide retains the proposed experiment and what remains to be agreed. The continuity method learns which reason the former summary omitted; scientific knowledge stays in its domain. Announced access, a planned experiment and an observed measurement retain distinct states. Reentry uses acquired understanding in the present instead of turning a deduction from the old plan into an obligation."
+      }
+    ],
+    "depth": {
+      "title": "Focus becomes more precise through work",
+      "paragraphs": [
+        "This resource shares a method still being formed. Its first source exercises show situated connections between tasks and competences; they do not establish automatic activation, universal coordination or measured time reductions. These cases and the exploration are illustrative.",
+        "You can use it without adopting a new system: continue through the guides and competences you already have. A different use may show where the connection helps and where it should change."
+      ]
+    },
+    "learning": [
+      "Keep the relationship enabling the next choice in the work’s existing home, retaining sources and observed states.",
+      "Return reusable differences to the competence that must act differently. The edition makes the method available; its use and assimilation require their own observations."
+    ],
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter, your situation, still-valid work and available means."
+      },
+      {
+        "title": "In a project",
+        "body": "Keep method and guide reachable; use the location already retaining the work’s present."
+      },
+      {
+        "title": "With other people or AI",
+        "body": "Connect contributions, sources and responsibilities without assuming automatic access or notifications."
+      }
+    ],
+    "operating_guide": "skills/meta-focus/OPERATING_GUIDE.md",
+    "examples": [
+      "A new room recomposes the exhibition’s work",
+      "Two assistants change different contributions to one manual",
+      "Resume an experiment when the available instrument changes"
+    ]
+  },
+  "it": {
+    "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
+    "subtitle": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
+    "kind": "Metacompetenza",
+    "domain": "Focus operativo e collaborazione",
+    "does": "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile.",
+    "when": "Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio.",
+    "intro": [
+      "Una mostra può avere opere, testi e tecnici già disponibili, ma mancare del collegamento che permette di decidere che cosa fare oggi. Meta-Focus rende quel rapporto leggibile nel luogo dove il lavoro continua.",
+      "Il metodo è in formazione. Gli esempi pubblici sono illustrativi; la versione dei file identifica l’edizione e non una maturità dimostrata in tutti gli ambienti. La competenza si adatta alle guide e agli strumenti che possiedi già."
+    ],
+    "reader_context": {
+      "title": "Preparare una mostra quando i contributi sono ancora separati",
+      "situation": "La curatrice conserva la selezione delle opere; il gruppo tecnico conosce lo spazio; un’associazione sta preparando le didascalie. Una nuova sala è diventata disponibile.",
+      "point": "Il lavoro di oggi va ricollocato: chi conduce la decisione, quali fonti e competenze possono cambiarla e quale azione è realmente possibile? La guida della mostra può già conservare questi collegamenti."
+    },
+    "adaptation": {
+      "title": "Adattare il focus al tuo progetto",
+      "paragraphs": [
+        "Si conserva il rapporto fra lavoro scelto, chi ne possiede le decisioni, sapere che deve partecipare, mezzi disponibili e conseguenze. Cambiano dominio, persone, fonti, strumenti e sede della memoria. Una singola persona con un assistente può averne bisogno quanto un gruppo.",
+        "Porta il lavoro già valido, una situazione concreta e le guide esistenti. Il focus può emergere mentre agisci: una richiesta semplice non richiede un nuovo documento, e una guida adeguata non va duplicata."
+      ]
+    },
+    "method": [
+      {
+        "title": "Riconoscere il lavoro e chi lo conduce",
+        "body": "Partire dall’intento, dalle decisioni valide e dal luogo dove il lavoro continua."
+      },
+      {
+        "title": "Collegare sapere e mezzi al contributo attuale",
+        "body": "Raggiungere le competenze e le fonti che possono cambiare una scelta, con strumenti realmente disponibili."
+      },
+      {
+        "title": "Ricomporre il focus quando qualcosa cambia",
+        "body": "Conservare la differenza nel progetto e restituire l’apprendimento a chi deve operare diversamente."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Riconoscere oggetto, scopo e decisioni già valide",
+        "body": "Parti da ciò che la persona vuole ottenere e dal lavoro che esiste già. Comprendi quale oggetto può cambiare e perché conta adesso. Un ultimo file, un nome di strumento o una parola della richiesta non individuano da soli il responsabile. Quando il lavoro è determinato, prosegui; quando una relazione mancante può cambiarlo, raggiungila senza riaprire ogni decisione."
+      },
+      {
+        "title": "Entrare nel luogo che possiede il lavoro",
+        "body": "Raggiungi la guida, il presente e le fonti del responsabile dell’opera. Usa quella sede se conserva già i collegamenti necessari. Se la complessità rischia di disperderli, forma lì un margine breve che permetta di capire lavoro attuale, contributi, strumenti e seguito. I documenti e le prove restano presso i loro responsabili: il margine li collega e non ne diventa una seconda copia autorevole."
+      },
+      {
+        "title": "Far partecipare la competenza che cambia la scelta",
+        "body": "Leggi corpo e sapere pratico delle competenze pertinenti mentre formi domanda e azione. Descrivi il contributo effettivo quando serve alla continuazione; una capacità vicina o da acquisire conserva quello stato. Un elenco di nomi non prova consultazione, installazione o esercizio. Il metodo di un dominio resta presso chi lo conosce, anche quando più specializzazioni contribuiscono alla stessa opera."
+      },
+      {
+        "title": "Collegare strumenti reali ed effetti affidati",
+        "body": "Comprendi quali fonti e strumenti il ricevente può raggiungere e quali azioni gli sono state affidate. Una guida leggibile non conferisce controllo sul servizio che descrive. Identifica la condizione mancante per un’azione concreta e continua il lavoro indipendente. Un file condiviso conserva informazioni ma non notifica o risveglia automaticamente un’altra persona o AI."
+      },
+      {
+        "title": "Proseguire dalla comprensione cambiata",
+        "body": "Una fonte, un risultato o una correzione possono cambiare domanda, responsabile pertinente o mezzo utile. Usa subito ciò che hai compreso nel presente da cui scegli il seguito. Le conseguenze logiche restano possibilità: il concatenarsi della tua prima interpretazione non decide da solo il prossimo atto. Conserva una determinazione ancora valida e riforma il focus dove la nuova differenza lo richiede."
+      },
+      {
+        "title": "Preservare contributi che procedono in parallelo",
+        "body": "Prima di una scrittura rileggi l’oggetto esatto e la sua versione corrente. Modifica il tuo delta nella sede affidata; se un altro contributo è avanzato, rileggilo e ricomponi senza sovrascriverlo ciecamente. Quando il mezzo offre un controllo di revisione, usa l’identità appena letta e rileggi l’esito. Questo protegge quella scrittura, senza installare un blocco distribuito o risolvere automaticamente un disaccordo sul significato."
+      },
+      {
+        "title": "Far continuare risultato e apprendimento nei rispettivi luoghi",
+        "body": "Quando una differenza materiale cambia il lavoro, conserva fonte, ciò che è stato compreso, risultato, stato effettivo e prossimo gesto o condizione di ripresa. La correzione di un metodo torna alla competenza che deve agire diversamente; il margine lascia il collegamento. Preparato, scritto, ricevuto, esercitato e assimilato sono fatti distinti. Se un altro passaggio non cambia una relazione utile, fermati senza produrre un aggiornamento per quota."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Un margine breve può raggiungere sapere profondo",
+        "body": "Il margine serve a riprendere una scelta: che cosa si sta facendo, perché, chi ne è responsabile, quali contributi sono ancora causali e quale evento può cambiarla. Un rinvio è sufficiente solo se il prossimo ricevente può raggiungerlo e comprenderne la ragione. Quando i file non sono accessibili, conserva il sapere essenziale nella nota o nel prompt che sarà davvero disponibile. Non copiare l’intero archivio per ogni ripresa."
+      },
+      {
+        "title": "Focus operativo, metodo e continuità hanno contributi distinti",
+        "body": "Il focus collega il lavoro alle sue capacità nel presente; la formazione del metodo comprende come affrontarlo; la continuità conserva sapere e ragioni per proseguirlo. Queste funzioni possono cooperare nella guida esistente. Il focus non diventa il supervisore di tutte le competenze e non assegna automaticamente il lavoro di un’altra persona o istanza."
+      },
+      {
+        "title": "La disponibilità di una capacità non ne prova l’uso",
+        "body": "Un assistente può leggere un metodo senza possedere lo strumento necessario a realizzarlo. Una capacità può essere installata ma non richiamata; un contributo scritto può non essere ancora arrivato al ricevente. Indica il rapporto che conta per il gesto presente. Una dichiarazione o un footer possono rendere leggibile la partecipazione, ma non la producono e non autorizzano una modifica."
+      },
+      {
+        "title": "Le responsabilità possono cambiare con la domanda",
+        "body": "Nella mostra la scelta curatoriale resta della curatrice, mentre la disponibilità della sala è qualificata dal gruppo tecnico. Se emerge una domanda diversa sull’esperienza del visitatore, diventa pertinente chi la sa progettare. Il focus rende quel passaggio raggiungibile senza trasferire a un solo responsabile tutte le verità del progetto. Non serve fissare in anticipo un organigramma completo."
+      },
+      {
+        "title": "La concorrenza comprende identità e significato",
+        "body": "Una revisione Git o un controllo di versione di un servizio protegge un corpo preciso. Non prova che due proposte siano compatibili, che un’altra AI abbia letto il nuovo testo o che gli effetti non possano duplicarsi. Mantieni attribuiti i contributi e il loro stato osservato; il responsabile dell’integrazione compone il significato. Un coordinatore o una sincronizzazione automatica richiedono mezzi e incarico propri."
+      },
+      {
+        "title": "Usare la forma di stato già offerta dal progetto",
+        "body": "Una chat può conservare una nota; un progetto con file può usare il proprio CURRENT o una guida; un ambiente agentico può avere transizioni di stato validate. Usa il mezzo che conserva la relazione, rispettando il suo contratto. Non scrivere direttamente in uno stato validato per aggirarne le transizioni. Il metodo trasferisce il collegamento, non impone un file, uno schema o un nuovo runtime."
+      },
+      {
+        "title": "Un apprendimento può avere più destinazioni",
+        "body": "Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Una nuova sala ricompone il lavoro della mostra",
+        "body": "Un museo prepara una piccola mostra. La curatrice ha selezionato le opere; l’associazione ha bozze di didascalie; i tecnici conoscono soltanto la vecchia sala. Si rende disponibile uno spazio diverso. L’AI raggiunge la guida della mostra e collega il nuovo spazio alla domanda di oggi: conservare il percorso o cambiarlo? La curatrice possiede la decisione narrativa; i tecnici qualificano spazio e mezzi; chi progetta la lettura comprende come il visitatore incontrerà le opere. Il primo contributo utile è una proposta motivata di disposizione basata su questi dati. La guida conserva ciò che è proposto e ciò che è accettato, con il prossimo confronto necessario. Non nasce un organigramma nuovo e la disponibilità della sala non equivale all’approvazione dell’allestimento. Al rientro la nuova AI raggiunge il motivo della disposizione, non soltanto il disegno finale."
+      },
+      {
+        "title": "Due assistenti modificano contributi diversi allo stesso manuale",
+        "body": "Una cooperativa aggiorna un manuale di manutenzione. Un’assistente prepara le immagini; un’altra rivede le spiegazioni con i tecnici. La guida del manuale identifica i due contributi, le fonti e chi integra l’edizione. Prima di scrivere una spiegazione, la seconda assistente rilegge il testo corrente e scopre una correzione appena inserita dal tecnico. Conserva quel contributo e modifica soltanto il proprio passaggio; la nuova versione viene riletta. L’assistente delle immagini può continuare il lavoro indipendente, ma nessuno presume che abbia già ricevuto il testo rivisto. Il responsabile dell’edizione collega la didascalia interessata al nuovo significato. Il caso insegna a distinguere scrittura protetta da versione, integrazione del sapere e ricezione effettiva; nessun blocco distribuito o servizio di messaggi è installato dal metodo."
+      },
+      {
+        "title": "Riprendere un esperimento quando cambia lo strumento disponibile",
+        "body": "Un gruppo di ricerca conserva una domanda e una prova sospesa per un limite di misura. Dopo un’interruzione, una collaborazione mette a disposizione un altro strumento. L’AI legge la guida del lavoro, il motivo della sospensione e le condizioni reali di accesso. Il ricercatore comprende che ora conviene porre una domanda diversa, invece di ripetere il vecchio piano. Il focus collega il nuovo oggetto al sapere scientifico pertinente, al responsabile dello strumento e all’analisi necessaria. La guida conserva la proposta di esperimento e ciò che resta da concordare. Il metodo di continuità impara quale ragione mancava nel precedente riassunto; il sapere scientifico rimane nel suo dominio. Accesso annunciato, esperimento pianificato e misura osservata mantengono stati distinti. La ripresa usa il compreso nel presente e non trasforma una deduzione dal vecchio piano in un obbligo."
+      }
+    ],
+    "depth": {
+      "title": "Il focus diventa più preciso attraverso il lavoro",
+      "paragraphs": [
+        "La risorsa condivide un metodo in formazione. I suoi primi esercizi sorgenti mostrano raccordi situati fra compiti e competenze; non costituiscono una prova di avvio automatico, coordinamento universale o riduzione misurata dei tempi. I casi qui descritti e l’esplorazione sono illustrativi.",
+        "Puoi usarlo senza adottare un nuovo sistema: fai continuare la guida e le competenze che già possiedi. Un uso diverso potrà mostrare dove il collegamento aiuta e dove deve cambiare."
+      ]
+    },
+    "learning": [
+      "Conserva nella sede del lavoro il rapporto che permette di scegliere il seguito, mantenendo le fonti e gli stati osservati.",
+      "Restituisci la differenza riusabile alla competenza che deve operare diversamente. La nuova edizione rende il metodo disponibile; il suo uso e la sua assimilazione richiedono osservazioni proprie."
+    ],
+    "use": [
+      {
+        "title": "In chat",
+        "body": "Allega l’avvio completo e porta la tua situazione, il lavoro valido e i mezzi disponibili."
+      },
+      {
+        "title": "In un progetto",
+        "body": "Rendi raggiungibili metodo e guida; usa la sede che già conserva il presente del lavoro."
+      },
+      {
+        "title": "Con altre persone o AI",
+        "body": "Collega contributi, fonti e responsabilità senza assumere accessi o notifiche automatiche."
+      }
+    ],
+    "operating_guide": "skills/meta-focus/GUIDA_OPERATIVA_IT.md",
+    "examples": [
+      "Una nuova sala ricompone il lavoro della mostra",
+      "Due assistenti modificano contributi diversi allo stesso manuale",
+      "Riprendere un esperimento quando cambia lo strumento disponibile"
+    ]
+  },
+  "showcase": {
+    "type": "cooperation",
+    "it": {
+      "title": "La mostra resta un lavoro comune mentre cambia il focus",
+      "states": [
+        [
+          "La decisione di oggi",
+          "La guida collega opere, competenze e decisione",
+          "La curatrice conduce la scelta; fonti e contributi tecnici la rendono comprensibile. Il margine raggiunge il sapere che serve ora."
+        ],
+        [
+          "Una sala diversa",
+          "Un nuovo spazio cambia ciò che va compreso",
+          "La disponibilità della sala rende pertinenti accessibilità delle opere e percorso di lettura. Il focus può cambiare domanda e contributi."
+        ],
+        [
+          "Il lavoro prosegue",
+          "Contributi distinti continuano dalla stessa ragione",
+          "Chi prepara le didascalie e chi dispone le opere conservano i propri compiti. La guida raggiunge la modifica accettata senza presumere che ogni ricevente l’abbia già letta."
+        ]
+      ],
+      "caption": "Caso illustrativo. Le scelte mostrano letture dello stesso lavoro, senza simulare un progetto o una sincronizzazione in esecuzione.",
+      "diagram": {
+        "nodes": [
+          "Fonti e opere",
+          "Curatrice e tecnici",
+          "Decisione di oggi",
+          "Guida della mostra"
+        ],
+        "relations": [
+          "orientano",
+          "compongono",
+          "aggiorna",
+          "ricollega"
+        ],
+        "description": "Fonti e contributi distinti formano la decisione attuale, che aggiorna la guida e rende raggiungibili i collegamenti per continuare.",
+        "reading": [
+          "Fonti e opere orientano la decisione di oggi.",
+          "Curatrice e tecnici contribuiscono attraverso competenze diverse.",
+          "La guida conserva la ragione della decisione e i collegamenti utili al seguito."
+        ]
+      }
+    },
+    "en": {
+      "title": "The exhibition remains shared work while its focus changes",
+      "states": [
+        [
+          "Today’s decision",
+          "The guide connects objects, competences and the decision",
+          "The curator leads the choice; sources and technical contributions make it understandable. The margin reaches knowledge that matters now."
+        ],
+        [
+          "A different room",
+          "New space changes what needs to be understood",
+          "The room’s availability makes object access and the reading route pertinent. Focus can change the question and its contributors."
+        ],
+        [
+          "Work continues",
+          "Distinct contributions continue from the same reason",
+          "Caption authors and those arranging objects retain their tasks. The guide reaches the accepted change without assuming every receiver has already read it."
+        ]
+      ],
+      "caption": "Illustrative case. Choices show readings of the same work without simulating a running project or synchronization service.",
+      "diagram": {
+        "nodes": [
+          "Sources and objects",
+          "Curator and team",
+          "Today’s decision",
+          "Exhibition guide"
+        ],
+        "relations": [
+          "inform",
+          "compose",
+          "updates",
+          "reconnects"
+        ],
+        "description": "Sources and distinct contributions form today’s decision, which updates the guide and keeps useful connections reachable for continuation.",
+        "reading": [
+          "Sources and objects inform today’s decision.",
+          "The curator and technical team contribute through distinct competences.",
+          "The guide preserves the decision’s reason and useful connections for continuation."
+        ]
+      }
+    }
+  },
+  "related": [
+    "organizzare-lavoro-complesso",
+    "continuita-del-lavoro-ai",
+    "formare-capacita-cooperative"
+  ],
+  "edition_note": {
+    "en": "First public edition · method in formation. Cases and exploration are illustrative; no automatic coordination or universal receiving use is claimed.",
+    "it": "Prima edizione pubblica · metodo in formazione. Casi ed esplorazione sono illustrativi; non è dichiarato coordinamento automatico o uso universale nei riceventi."
+  }
+}
