@@ -2,9 +2,11 @@
 
 Quattro prime edizioni aggiungono governo sorgente/runtime, presentazione dei prodotti GitHub, rumore operativo e topologia del sistema. Ognuna offre sapere operativo inglese e italiano, avvii completi e tre casi sviluppati fuori dal contesto MAIOS. Il governo dei rilasci trasferisce anche due validatori di sola lettura, schemi e fixture fittizie; non installa un attuatore privilegiato.
 
-Nove edizioni esistenti ricevono sapere operativo: video MKCV riprendibile, ricezione ed effetti nella cooperazione, maturità del metodo pubblico, sostegno reciproco progetto/sistema, adozione, risoluzione osservativa e conoscenza che cambia il punto di osservazione. Le altre 35 edizioni e identità dei pacchetti sono preservate. MKCV resta beta e in apprendimento; Meta-Focus resta un metodo in formazione. Il numero di versione non dimostra uso indipendente o maturità universale.
+Dieci edizioni esistenti ricevono sapere operativo: video MKCV riprendibile, ricezione ed effetti nella cooperazione, maturità del metodo pubblico, sostegno reciproco progetto/sistema, adozione, risoluzione osservativa e conoscenza che cambia il punto di osservazione. Le altre 34 edizioni e identità dei pacchetti sono preservate. MKCV resta beta e in apprendimento; Meta-Focus resta un metodo in formazione. Il numero di versione non dimostra uso indipendente o maturità universale.
 
 Questa è l’edizione sorgente. Pubblicazione del sito, contesto ricevuto dall’assistente, attivazione runtime e comportamento del destinatario conservano identità e osservazioni proprie. I casi sono illustrativi. Il metodo si usa autonomamente, con le competenze del progetto o attraverso il kernel e i mezzi reali del ricevente.
+
+UX-AI Kernel Design 0.3.4 allinea inoltre le precedenti etichette di metodo e avvio all’identità del kit, conservandone il sapere operativo.
 
 ## Stati sorgenti precedenti
 

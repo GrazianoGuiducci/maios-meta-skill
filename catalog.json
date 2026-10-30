@@ -887,7 +887,7 @@
     {
       "id": "comprendere-lavoro-agente",
       "name": "UX-AI Kernel Design",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "13",
@@ -896,7 +896,7 @@
       "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
       "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
       "presentation": "skills/ux-ai-kernel-design/presentation.json",
-      "package": "dist/ux-ai-kernel-design-0.3.3.zip",
+      "package": "dist/ux-ai-kernel-design-0.3.4.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
         "title": "Rendere comprensibile il lavoro di un agente AI",

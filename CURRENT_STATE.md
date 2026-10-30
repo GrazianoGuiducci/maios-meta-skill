@@ -2,9 +2,11 @@
 
 Four initial editions add source-to-runtime governance, GitHub product presentation, operational noise control and system topology. Each provides English and Italian operating knowledge, complete starters and three developed cases situated beyond MAIOS. Release governance also carries the two read-only validators and their schemas and fictional fixtures; it installs no privileged activator.
 
-Nine existing editions receive operating knowledge: recoverable MKCV video, cooperative reception and effect distinctions, public-method maturity, reciprocal project/system support, adoption, observation resolution and knowledge that can change the point of observation. The 35 other competence editions and package identities are preserved. MKCV remains beta and learning; Meta-Focus remains a method in formation. An edition number does not establish independent use or universal maturity.
+Ten existing editions receive operating knowledge: recoverable MKCV video, cooperative reception and effect distinctions, public-method maturity, reciprocal project/system support, adoption, observation resolution and knowledge that can change the point of observation. The 34 other competence editions and package identities are preserved. MKCV remains beta and learning; Meta-Focus remains a method in formation. An edition number does not establish independent use or universal maturity.
 
 This is the source edition. Website publication, request-context consumption, runtime activation and recipient behavior retain their own identities and observations. Examples are illustrative. Use each method independently, compose it with existing project competences or integrate through the actual receiving kernel and tools.
+
+UX-AI Kernel Design 0.3.4 also reconciles older method/starter labels with the kit identity, preserving its operating knowledge.
 
 ## Earlier source states
 

@@ -2,7 +2,7 @@
 name: ux-ai-kernel-design
 description: "Make an AI agent's work and human intervention points understandable. Use when explanations, depth, interface state or representations should help a person orient, correct, guide or continue actual work."
 metadata:
-  version: 0.3.2
+  version: 0.3.4
   language: en
 ---
 
