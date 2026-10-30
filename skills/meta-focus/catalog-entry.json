@@ -46,7 +46,7 @@
     ],
     "route": "/resources/collegare-competenze-al-lavoro/",
     "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
-    "status": "Method in formation · 0.1.1"
+    "status": "Method in formation · 0.1.2"
   },
   "it": {
     "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -63,7 +63,7 @@
     ],
     "route": "/risorse/collegare-competenze-al-lavoro/",
     "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
-    "status": "Metodo in formazione · 0.1.1"
+    "status": "Metodo in formazione · 0.1.2"
   },
   "skill": "skills/meta-focus/SKILL.md",
   "guide": "skills/meta-focus/README.md",

@@ -2591,7 +2591,7 @@
         ],
         "route": "/resources/presentare-sistemi-in-evoluzione/",
         "description": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
-        "status": "Public edition · 0.1.4"
+        "status": "Public edition · 0.1.5"
       },
       "it": {
         "title": "Presentare capacità e funzionamento di un sistema complesso",
@@ -2608,7 +2608,7 @@
         ],
         "route": "/risorse/presentare-sistemi-in-evoluzione/",
         "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
-        "status": "Edizione pubblica · 0.1.4"
+        "status": "Edizione pubblica · 0.1.5"
       }
     },
     {
@@ -3004,7 +3004,7 @@
         ],
         "route": "/resources/collegare-competenze-al-lavoro/",
         "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
-        "status": "Method in formation · 0.1.1"
+        "status": "Method in formation · 0.1.2"
       },
       "it": {
         "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -3021,7 +3021,7 @@
         ],
         "route": "/risorse/collegare-competenze-al-lavoro/",
         "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
-        "status": "Metodo in formazione · 0.1.1"
+        "status": "Metodo in formazione · 0.1.2"
       },
       "skill": "skills/meta-focus/SKILL.md",
       "guide": "skills/meta-focus/README.md",

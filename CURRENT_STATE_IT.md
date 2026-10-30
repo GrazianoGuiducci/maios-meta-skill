@@ -1,3 +1,7 @@
+# Meta-Focus e MPC — seguito da riesaminare
+
+Meta-Focus 0.1.2 e competenza di presentazione 0.1.5 conservano il sapere pubblico corrente e il contributo concorrente aggiuntivo in entrambe le lingue. Ciascuna ha cinque casi illustrativi. Le altre 46 edizioni pubbliche e i loro archivi restano invariati. Le quattro nuove competenze operative pubblicate entrano con la storia del loro owner. Queste due nuove edizioni restano candidate al riesame; sito e runtime Chat non sono pubblicati da questa preparazione.
+
 # Risorse competenziali pubbliche — 48 metodi trasferibili
 
 Quattro prime edizioni aggiungono governo sorgente/runtime, presentazione dei prodotti GitHub, rumore operativo e topologia del sistema. Ognuna offre sapere operativo inglese e italiano, avvii completi e tre casi sviluppati fuori dal contesto MAIOS. Il governo dei rilasci trasferisce anche due validatori di sola lettura, schemi e fixture fittizie; non installa un attuatore privilegiato.

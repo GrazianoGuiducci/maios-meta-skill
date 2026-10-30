@@ -1,3 +1,7 @@
+# Meta-Focus and MPC — review continuation
+
+Meta-Focus 0.1.2 and presentation competence 0.1.5 preserve the current public knowledge and the additional concurrent contribution in both languages. Each has five illustrative cases. The 46 other current public editions and archives remain unchanged. The four newly published operating competences are incorporated from their owner history. These two new editions remain candidates for review; no website or Chat runtime publication is selected.
+
 # Public competence resources — 48 transferable methods
 
 Four initial editions add source-to-runtime governance, GitHub product presentation, operational noise control and system topology. Each provides English and Italian operating knowledge, complete starters and three developed cases situated beyond MAIOS. Release governance also carries the two read-only validators and their schemas and fictional fixtures; it installs no privileged activator.

@@ -51,7 +51,7 @@
     ],
     "route": "/resources/presentare-sistemi-in-evoluzione/",
     "description": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
-    "status": "Public edition · 0.1.4"
+    "status": "Public edition · 0.1.5"
   },
   "it": {
     "title": "Presentare capacità e funzionamento di un sistema complesso",
@@ -68,6 +68,6 @@
     ],
     "route": "/risorse/presentare-sistemi-in-evoluzione/",
     "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
-    "status": "Edizione pubblica · 0.1.4"
+    "status": "Edizione pubblica · 0.1.5"
   }
 }
