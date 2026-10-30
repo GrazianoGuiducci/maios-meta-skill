@@ -1,7 +1,7 @@
 {
   "id": "presentare-sistemi-in-evoluzione",
   "name": "MAIOS Presentation Competence",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "37",
@@ -35,7 +35,7 @@
   "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
   "examples": "skills/maios-presentation-competence/EXAMPLES.md",
   "presentation": "skills/maios-presentation-competence/presentation.json",
-  "package": "dist/maios-presentation-competence-0.1.3.zip",
+  "package": "dist/maios-presentation-competence-0.1.4.zip",
   "en": {
     "title": "Present a complex system’s capabilities and operation",
     "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -49,7 +49,8 @@
       "A diagram reveals a conceptual error"
     ],
     "route": "/resources/presentare-sistemi-in-evoluzione/",
-    "description": "Connect identity, examples and sources in an explanation readers can navigate and explore."
+    "description": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
+    "status": "Public edition · 0.1.4"
   },
   "it": {
     "title": "Presentare capacità e funzionamento di un sistema complesso",
@@ -64,6 +65,7 @@
       "Un diagramma rivela un errore concettuale"
     ],
     "route": "/risorse/presentare-sistemi-in-evoluzione/",
-    "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire."
+    "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
+    "status": "Edizione pubblica · 0.1.4"
   }
 }

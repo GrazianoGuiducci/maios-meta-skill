@@ -34,6 +34,16 @@ A chat may retain a note; a file-based project may use its CURRENT or guide; an 
 
 One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure.
 
+
+## A competent project entry connects domain and wider knowledge
+
+A project may already have a kernel, guide or working note that knows its own object. Reach that knowledge together with complementary competences before a generic first answer fixes the method. The whole available field remains reachable in depth, while participation follows what can change this situation. Familiar knowledge already operating needs no repeated loading; a brief clear task needs no second preparatory stage. If the entry bypasses a known capability, repair that connection instead of forming another controller, compulsory template or duplicate skill.
+
+
+## Reciprocity preserves different learning owners
+
+A project can teach its own domain and a broader method through the same event. Keep the local source meaning and result with the project; send the reusable condition, changed choice and reason to the competence whose future work should differ. Updated shared knowledge returns through the project’s actual entry and tools. A source update, transfer, installation and later use are distinct observations. When another owner controls the write, return an attributed delta for that owner to integrate. Reciprocity does not synchronize every kernel automatically or make a domain fact a universal rule.
+
 ## Focus becomes more precise through work
 
 This resource shares a method still being formed. Its first source exercises show situated connections between tasks and competences; they do not establish automatic activation, universal coordination or measured time reductions. These cases and the exploration are illustrative.

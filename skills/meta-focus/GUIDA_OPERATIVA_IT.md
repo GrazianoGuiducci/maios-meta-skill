@@ -34,6 +34,16 @@ Una chat può conservare una nota; un progetto con file può usare il proprio CU
 
 Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto.
 
+
+## Un ingresso competente collega dominio e sapere più ampio
+
+Un progetto può già avere un kernel, una guida o una nota di lavoro che conosce il proprio oggetto. Raggiungi quel sapere insieme alle competenze complementari prima che una prima risposta generica fissi il metodo. L’intero campo disponibile rimane raggiungibile in profondità, mentre la partecipazione segue ciò che può cambiare questa situazione. Il sapere già operante non richiede caricamenti ripetuti; una richiesta breve e chiara non richiede una seconda preparazione. Se l’ingresso scavalca una capacità conosciuta, correggi quel collegamento anziché formare un altro controller, un modello obbligatorio o una skill duplicata.
+
+
+## La reciprocità conserva i diversi owner dell’apprendimento
+
+Uno stesso evento può insegnare al dominio del progetto e a un metodo più generale. Conserva il significato della fonte locale e il risultato presso il progetto; restituisci condizione riusabile, scelta cambiata e ragione alla competenza che dovrà lavorare diversamente. Il sapere condiviso aggiornato torna attraverso l’ingresso e gli strumenti effettivi del progetto. Modifica sorgente, trasferimento, installazione e uso successivo sono osservazioni distinte. Quando la scrittura appartiene a un altro owner, restituiscigli un delta attribuito da integrare. La reciprocità non sincronizza automaticamente ogni kernel e non rende universale un fatto di dominio.
+
 ## Il focus diventa più preciso attraverso il lavoro
 
 La risorsa condivide un metodo in formazione. I suoi primi esercizi sorgenti mostrano raccordi situati fra compiti e competenze; non costituiscono una prova di avvio automatico, coordinamento universale o riduzione misurata dei tempi. I casi qui descritti e l’esplorazione sono illustrativi.

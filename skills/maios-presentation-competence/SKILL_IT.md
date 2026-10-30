@@ -1,6 +1,9 @@
 ---
 name: maios-presentation-competence
-description: Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro. Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono.
+description: "Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro. Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono."
+metadata:
+  version: 0.1.4
+  language: it
 ---
 
 # MAIOS Presentation Competence
@@ -27,27 +30,42 @@ Porta documenti, capacità effettive e un caso d’uso del sistema da presentare
 
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
 
+
+## Partire da un’esperienza riconoscibile al destinatario
+
+Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata.
+
+
 ## Formare l’incontro con il destinatario
 
 Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico.
+
+
+## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
+
+Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
+
 
 ## Comporre insieme significato e forma visibile
 
 Dalla comprensione che il destinatario deve poter formare risali alle premesse necessarie. Componi insieme parole, oggetti visivi, nessi spaziali e interazione. Il centro può suggerire autorità, una freccia causalità, l’animazione una cronologia reale. Fai corrispondere queste implicazioni alla fonte anziché affidare a una didascalia la riparazione di una figura fuorviante.
 
+
 ## Collegare orientamento e profondità
 
 Offri una prima relazione comprensibile nell’unità visibile e rendi raggiungibili spiegazione, sapere sorgente o esempio. Navigazione e tempi seguono l’incontro. Pagina pubblica, mappa del relatore e dialogo condividono sapere con funzioni differenti. Conserva il focus della persona quando cambia profondità, lasciandole esplorare e ritornare.
+
 
 ## Usare il lavoro autentico quando rende visibile la capacità
 
 Un breve estratto attribuito, un artefatto o una correzione reale possono aprire la profondità del sistema. Mantieni raggiungibili fonte e conseguenza effettiva. Distingui parole espresse, prova di un processo interno e assimilazione successiva. Un caso illustrativo può insegnare un meccanismo dichiarando il proprio statuto. Scegli la forma che conserva la relazione utile.
 
+
 ## Lasciare che l’incontro migliori la competenza del presentare
 
 Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
 
-## Continuare nel progetto
+## Continuare attraverso il progetto reale
 
 Conserva il rapporto fra primo incontro e fonti profonde: una pagina breve può portarne l’accesso.
 
@@ -55,4 +73,4 @@ Una nuova domanda può cambiare concetto, forma visiva o mezzo: aggiorna le rapp
 
 ## Sapere operativo
 
-Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Componi i metodi pertinenti del tuo ambiente; strumenti, persistenza e autorità restano quelli realmente disponibili.
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

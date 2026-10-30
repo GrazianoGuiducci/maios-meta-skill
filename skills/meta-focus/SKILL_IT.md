@@ -2,7 +2,7 @@
 name: meta-focus
 description: "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile. Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: it
 ---
 
@@ -39,6 +39,11 @@ Raggiungi la guida, il presente e le fonti del responsabile dell’opera. Usa qu
 ## Far partecipare la competenza che cambia la scelta
 
 Leggi corpo e sapere pratico delle competenze pertinenti mentre formi domanda e azione. Descrivi il contributo effettivo quando serve alla continuazione; una capacità vicina o da acquisire conserva quello stato. Un elenco di nomi non prova consultazione, installazione o esercizio. Il metodo di un dominio resta presso chi lo conosce, anche quando più specializzazioni contribuiscono alla stessa opera.
+
+
+## Far partecipare il progetto al campo competente fin dal suo ingresso
+
+Parti da scopo, guida corrente e sapere di dominio del progetto, insieme alle competenze condivise che possono cambiare la prima domanda o azione. Il loro sapere sostiene il lavoro mentre si forma; una correzione successiva non è l’unica occasione di partecipazione. Usa direttamente un ingresso già competente. Ripristina il richiamo se il sapere è disponibile, oppure approfondisci la competenza responsabile se manca il saper fare. L’esperienza del progetto restituisce le differenze riusabili ai loro owner, e il sapere evoluto torna raggiungibile attraverso l’ingresso effettivo del ricevente.
 
 
 ## Collegare strumenti reali ed effetti affidati

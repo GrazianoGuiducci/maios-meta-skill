@@ -1,3 +1,7 @@
+# Meta-Focus and MPC — source candidates, 30 October 2026
+
+Meta-Focus 0.1.1 deepens reciprocal support between a project and its wider competence field at the actual entry. MPC 0.1.4 connects shared experience, information/method/environment and the human contributions involved in adoption and autonomy. Both languages retain all previous knowledge and three worked cases, with a fourth illustrative case and complete starters. Meta-Focus remains a method in formation. The earlier MKCV 0.1.4, cooperation 0.1.4 and resource formation 0.3.5 candidates are preserved; the other 39 published editions and archives keep their identities. These are source candidates for review, with no site publication or Chat activation selected.
+
 # Public-resource candidates — 30 October 2026
 
 The review branch combines the current public collection with the recoverable MKCV 0.1.4 candidate, cooperative capability 0.1.4 and resource formation 0.3.5. New practical knowledge distinguishes reception, requested action, effect and observation; edition and method maturity follow the actual receiving presentation. Existing methods and cases remain available in both languages. General use guides follow the current catalogue and connect Meta-Focus without a fixed stack. The other 41 public resource editions and archives are preserved. These are review candidates: source preparation does not publish the website or activate Chat.

@@ -1,3 +1,4 @@
+
 # MAIOS Presentation Competence
 
 Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.
@@ -22,27 +23,42 @@ Porta documenti, capacità effettive e un caso d’uso del sistema da presentare
 
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
 
+
+## Partire da un’esperienza riconoscibile al destinatario
+
+Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata.
+
+
 ## Formare l’incontro con il destinatario
 
 Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico.
+
+
+## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
+
+Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
+
 
 ## Comporre insieme significato e forma visibile
 
 Dalla comprensione che il destinatario deve poter formare risali alle premesse necessarie. Componi insieme parole, oggetti visivi, nessi spaziali e interazione. Il centro può suggerire autorità, una freccia causalità, l’animazione una cronologia reale. Fai corrispondere queste implicazioni alla fonte anziché affidare a una didascalia la riparazione di una figura fuorviante.
 
+
 ## Collegare orientamento e profondità
 
 Offri una prima relazione comprensibile nell’unità visibile e rendi raggiungibili spiegazione, sapere sorgente o esempio. Navigazione e tempi seguono l’incontro. Pagina pubblica, mappa del relatore e dialogo condividono sapere con funzioni differenti. Conserva il focus della persona quando cambia profondità, lasciandole esplorare e ritornare.
+
 
 ## Usare il lavoro autentico quando rende visibile la capacità
 
 Un breve estratto attribuito, un artefatto o una correzione reale possono aprire la profondità del sistema. Mantieni raggiungibili fonte e conseguenza effettiva. Distingui parole espresse, prova di un processo interno e assimilazione successiva. Un caso illustrativo può insegnare un meccanismo dichiarando il proprio statuto. Scegli la forma che conserva la relazione utile.
 
+
 ## Lasciare che l’incontro migliori la competenza del presentare
 
 Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
 
-## Continuare nel progetto
+## Continuare attraverso il progetto reale
 
 Conserva il rapporto fra primo incontro e fonti profonde: una pagina breve può portarne l’accesso.
 
@@ -50,60 +66,96 @@ Una nuova domanda può cambiare concetto, forma visiva o mezzo: aggiorna le rapp
 
 ## Sapere operativo
 
-Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Componi i metodi pertinenti del tuo ambiente; strumenti, persistenza e autorità restano quelli realmente disponibili.
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
 
-# MAIOS Presentation Competence — sapere operativo
+
+# MAIOS Presentation Competence — sapere operativo pratico
 
 ## Un sistema può lavorare e diventare parte di ciò che crea
 
 Un sistema generativo può essere risultato di ricerca, prodotto utilizzabile, mezzo che partecipa al proprio sviluppo e capacità di formare altri sistemi. Presenta le relazioni pertinenti alla domanda del destinatario attraverso capacità effettive, esempi riconoscibili e fonti raggiungibili.
 
+
 ## Una mappa viva conserva ragioni
 
 Conserva concetti, ragioni dei collegamenti, modo in cui la rappresentazione li esprime e domande che possono cambiarli. Una nuova versione recupera questa comprensione anziché ripartire dalle etichette. Qualità semantica e percettiva crescono insieme: paragrafi chiari non compensano un diagramma che rende dominante il rapporto sbagliato.
+
 
 ## Riconoscere l’oggetto dietro l’ultima demo
 
 Comprendi cosa fa il sistema, quali fonti sostengono quella capacità e quale sapere acquisito continua a cambiarne il lavoro. Distingui release disponibile, esecuzione osservata, esempio illustrativo, domanda di ricerca e possibilità aperta. Un archivio digitale non deve generare altri sistemi; MAIOS offre quello specifico esempio generativo. Raggiungi il responsabile di prodotto o ricerca quando manca un fatto, anziché colmarlo con un’architettura AI familiare.
 
+
 ## Organizzare il sapere raggiungibile nell’incontro
 
 Mantieni raggiungibili insieme domanda, soggetto, fonte pertinente, esempio concreto e profondità successiva. Questo profilo funzionale aperto appartiene alla competenza di presentazione; non è un’altra skill o una squadra fissa. Usa i metodi locali di scrittura, dominio, progettazione visiva e continuità quando il loro sapere cambia la spiegazione. Raggiungi i corpi operativi, oltre ai nomi. Una nuova domanda può rendere pertinente una fonte prima secondaria.
+
 
 ## Scegliere i predicati prima delle frecce
 
 Leggi la figura proposta come una frase: chi agisce, su cosa, con quale conseguenza? Usa un confronto per una differenza, il contenimento per l’appartenenza, una mappa di ruoli per la partecipazione e una sequenza solo per un ordine effettivo. Una relazione di fonte non significa che il sistema sappia generarne un altro. Etichette, geometria, stato del controllo e spiegazione conservano lo stesso soggetto. Correggi una connessione fuorviante nella figura, oltre che nella didascalia.
 
+
 ## Localizzare la perdita prima di correggere la superficie
 
 Se chi legge non riconosce il soggetto, recupera la premessa mancante nella spiegazione. Se il diagramma implica un’autorità centrale che la fonte non descrive, cambia la relazione visiva. Se il cambio di profondità perde l’oggetto selezionato, correggi l’interazione. Se la fonte è incompleta, torna alla competenza responsabile. Più cause possono coesistere; allungare un paragrafo non le risolve tutte.
+
 
 ## Osservare un primo incontro senza suggerirne la risposta
 
 Quando è disponibile una persona o un’AI distinta che non conosce la spiegazione attesa, mostra la pagina effettiva. Chiedi che cosa sia la risorsa, come incontri il suo lavoro e quale primo passo riconosca. Conserva revisione, accesso reale e osservazioni spontanee. La rilettura dell’autore è utile ma non è questo incontro indipendente. Il destinatario può rivelare un nesso mancante senza diventare autorità sul sistema.
 
+
 ## Far continuare il metodo attraverso il sistema cambiato
 
 Conserva nel progetto fonte, ragione della rappresentazione, riscontri effettivi, domanda aperta e guida responsabile. Un cambiamento di prodotto aggiorna le sole affermazioni e viste dipendenti. Una perdita ricorrente del soggetto cambia come questa competenza raggiungerà e comporrà le fonti. L’apprendimento percettivo torna al design; un fatto di dominio al suo responsabile. Adottando un nuovo kit conserva il sapere locale.
+
+
+## L’esperienza comune apre la spiegazione conservando la fonte
+
+Una persona può riconoscere come un collega impari perché una verifica conta e porti quella ragione nell’incarico successivo. Questa esperienza può introdurre un metodo AI che conserva sapere decisionale, quando il sistema offre davvero tale continuità. Spiegane il meccanismo e le condizioni del ricevente nella profondità utile. L’analogia non attesta apprendimento umano, cambiamenti dei pesi del modello o memoria affidabile in ogni chat. Un primo incontro breve può conservare un oggetto riconoscibile e la spiegazione raggiungibile di ciò che lo rende possibile.
+
+
+## Informazioni, metodi e ambiente rendono concreta l’adozione
+
+Individua le fonti utilizzabili dal sistema, i metodi o le regole che ne formano le scelte e gli strumenti o l’ambiente attraverso cui il lavoro continua. Il sapere in linguaggio naturale può essere ispezionato e adattato, mentre persistenza, esecuzione e controllo dipendono dal ricevente effettivo. Spiega queste relazioni attraverso il compito del destinatario, invece di imporre una figura architetturale fissa. Risposta proposta, metodo approvato e servizio che compie un’azione hanno condizioni e osservazioni differenti.
+
+
+## Le persone partecipano in modi diversi quando cambia l’autonomia
+
+Le persone possono trasmettere conoscenze e ragioni, convalidare le scelte di propria responsabilità e monitorare lavoro e conseguenze. Questi contributi possono coesistere in un flusso e variare fra compiti. Presenta il rapporto effettivo senza trasformare insegnamento, convalida e monitoraggio in una sequenza obbligatoria o nella promessa di autonomia crescente. Un’azione delimitata diventa autonoma attraverso mezzi e mandato adeguati. L’uso dell’AI che evolve nell’organizzazione rimane collegato e distinguibile dal prodotto o servizio eventualmente sviluppato.
 
 ## Una presentazione può migliorare il metodo che presenta
 
 Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare.
 
+
 # Esempi sviluppati
 
-Casi illustrativi: insegnano condizioni, scelte e continuazione; non sono risultati osservati presso clienti.
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
 
 ## Un primo incontro con MAIOS
 
 Un lettore vede un catalogo di skill e interpreta MAIOS come raccolta di prompt. La presentazione rende riconoscibile la relazione operativa: sapere e competenze partecipano al lavoro, i risultati possono cambiarne il metodo e la capacità generativa forma altri kernel situati. Usa un progetto illustrativo e rendi raggiungibili kernel pubblico e fonti profonde. Il caso apre il rapporto; il catalogo diventa un dettaglio utile, oltre la definizione dell’intero sistema.
 
+
 ## Uno stesso sistema, ingressi utili differenti
 
 Un ingegnere chiede come un assistente conserva i guasti; un responsabile chi deve partecipare; un tecnico cosa cambia nel turno. Sono viste dello stesso sistema. Parti dalla domanda, collega il medesimo meccanismo sorgente e rendi accessibile la profondità pertinente. Il tecnico incontra un passaggio di consegne concreto, l’ingegnere dati e relazioni fra competenze. Le viste devono restare coerenti quando tornano a incontrarsi.
+
 
 ## Un diagramma rivela un errore concettuale
 
 Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di progettazione visiva presso i rispettivi responsabili per la mappa successiva.
 
-Incarico e contesto: aggiungi ciò che vuoi rendere possibile, fonti, lavoro precedente, mezzi e responsabili reali. Conserva la continuazione nel progetto o restituiscila alla persona quando non puoi salvarla.
+
+## Una cooperativa di manutenzione presenta come lavorerà con un assistente
+
+Una cooperativa di manutenzione valuta un assistente per preparare i rapporti d’intervento. Il prototipo effettivo può leggere rapporti forniti, proporre una checklist e conservare nella cartella di progetto una guida di lavoro approvata. La prima spiegazione parte da un’attività familiare: i tecnici apprendono perché una verifica conta e ne portano la ragione nel lavoro successivo. Mostra poi le fonti reali del prototipo e i mezzi che conservano il metodo rivisto.
+
+La presentazione distingue i rapporti leggibili, le regole e le ragioni che formano una proposta e l’ambiente che può salvare il sapere approvato. Un tecnico può insegnare il significato di un’osservazione; il responsabile può confrontare una proposta con il record; un gruppo può monitorare le conseguenze dove servizio e mandato rendono possibile un’azione. Le relazioni possono coesistere. La spiegazione non promette che un prompt trasformi una chat in un servizio autonomo di manutenzione o che ogni compito segua un’unica sequenza di adozione.
+
+Se una checklist migliora, cambia il metodo con cui la cooperativa lavora con l’AI. Può svilupparsi anche un successivo servizio per i clienti, con costruzione e prove proprie. La presentazione collega i due oggetti senza dichiarare consegnato il servizio futuro. Una domanda del pubblico può cambiare esempio, profondità o prossimo gesto proposto. L’incarico è illustrativo: non è il resoconto di un sistema installato presso un cliente.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

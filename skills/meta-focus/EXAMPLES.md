@@ -15,3 +15,12 @@ A cooperative is updating a maintenance manual. One assistant prepares images; a
 ## Resume an experiment when the available instrument changes
 
 A research group retains a question and an experiment paused because of a measurement limit. After an interruption, a collaboration makes a different instrument available. The AI reads the working guide, the reason for pausing and actual access conditions. The researcher understands that a different question is now useful instead of merely repeating the old plan. Focus connects the new object to pertinent scientific knowledge, the instrument’s owner and necessary analysis. The guide retains the proposed experiment and what remains to be agreed. The continuity method learns which reason the former summary omitted; scientific knowledge stays in its domain. Announced access, a planned experiment and an observed measurement retain distinct states. Reentry uses acquired understanding in the present instead of turning a deduction from the old plan into an obligation.
+
+
+## A research archive teaches the methods that support it
+
+A group studies historical laboratory notebooks. Its project guide identifies the research question, permitted scans and the meaning of the author’s annotations. The receiving environment already supplies methods for source comparison, visual reading and continuity. At the next assignment, the project entry connects those competences with the domain guide before an assistant turns extracted text into a catalogue. It does not load every available skill or replace the research owner.
+
+A comparison reveals that coloured marks distinguish planned trials from recorded observations. Text extraction retained the words but lost that distinction. The domain owner preserves what the marks mean in this archive. The source-reading competence receives a reusable conditional lesson: where meaning depends on a visual mark, reach the image and legend before treating extracted text as the whole source. If that knowledge was already present but bypassed, the correction belongs to the entry that failed to reach it.
+
+The project continues from its corrected catalogue and guide. A different project can receive the improved source-reading method through its own entry, without inheriting these notebooks or their notation. Meta-Focus keeps the relationship between project, shared competence and learning destination reachable. This is an illustrative case of reciprocal support; it does not report automatic propagation, a deployed research service or future assimilation.

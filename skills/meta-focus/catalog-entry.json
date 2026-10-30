@@ -1,7 +1,7 @@
 {
   "id": "collegare-competenze-al-lavoro",
   "name": "Meta-Focus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "43",
@@ -45,7 +45,7 @@
     ],
     "route": "/resources/collegare-competenze-al-lavoro/",
     "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
-    "status": "Method in formation · 0.1.0"
+    "status": "Public edition · 0.1.1"
   },
   "it": {
     "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -61,12 +61,12 @@
     ],
     "route": "/risorse/collegare-competenze-al-lavoro/",
     "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
-    "status": "Metodo in formazione · 0.1.0"
+    "status": "Edizione pubblica · 0.1.1"
   },
   "skill": "skills/meta-focus/SKILL.md",
   "guide": "skills/meta-focus/README.md",
   "starter": "skills/meta-focus/START_CHAT_EN.txt",
   "examples": "skills/meta-focus/EXAMPLES.md",
   "presentation": "skills/meta-focus/presentation.json",
-  "package": "dist/meta-focus-0.1.0.zip"
+  "package": "dist/meta-focus-0.1.1.zip"
 }

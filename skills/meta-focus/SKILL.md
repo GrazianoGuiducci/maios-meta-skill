@@ -2,7 +2,7 @@
 name: meta-focus
 description: "Forms a shared orientation for complex work by connecting its purpose, responsible people, knowledge, means and next useful contribution. When starting or resuming a project with scattered references, several specialisms, or people and AI working on shared material."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: en
 ---
 
@@ -39,6 +39,11 @@ Reach the guide, present state and sources of whoever owns the work. Use that lo
 ## Let the competence that changes the choice participate
 
 Read the operating body and practical knowledge of pertinent competences while forming the question and action. Describe an actual contribution when continuation needs it; a nearby or still-to-be-acquired capability retains that state. A list of names does not prove consultation, installation or exercise. Domain method stays with its competent owner even when several specialisms contribute to one work.
+
+
+## Let the project participate in the wider competence field from its entry
+
+Begin from the project’s own purpose, current guide and domain knowledge, with the shared competences that can change its first question or action. Their knowledge supports the work as it forms; a later correction is not their only occasion to participate. Use an existing competent entry directly. Restore a missing route when knowledge is already available, or deepen the responsible competence when know-how is missing. Let project experience return reusable differences to their actual owners, and make the evolved knowledge reachable to the project through its real receiving entry.
 
 
 ## Connect actual tools and entrusted effects
