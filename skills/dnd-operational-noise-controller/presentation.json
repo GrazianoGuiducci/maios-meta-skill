@@ -1,0 +1,360 @@
+{
+  "it": {
+    "title": "Ridurre il rumore informativo senza perdere le ragioni del lavoro",
+    "subtitle": "Seleziona le fonti che cambiano una scelta e conserva il resto raggiungibile, senza ripetere ogni volta la ricostruzione.",
+    "kind": "Metacompetenza",
+    "domain": "Attenzione, conoscenza e continuità",
+    "does": "Riduce il costo ripetuto di ritrovare decisioni, fonti e seguito, conservando prove, incertezze e possibilità utili.",
+    "when": "Quando guide, file, messaggi o risultati generati rendono lenta la ripresa e non è più chiaro quale fonte governi la scelta attuale.",
+    "intro": [
+      "Una cartella con molti documenti non è necessariamente rumorosa. Una sola nota superata che continua a dare istruzioni può costringere il gruppo a ricostruire ogni decisione.",
+      "Il metodo riduce ciò che va riconsiderato per il lavoro presente. Conserva il materiale significativo nel suo luogo, senza trasformare una classificazione in permesso di cancellare."
+    ],
+    "reader_context": {
+      "title": "Riprendere un laboratorio senza rileggere tutti i verbali",
+      "situation": "Un’associazione riprende un laboratorio pubblico dopo un mese. Programma approvato, bozze e verbali hanno tutti titoli plausibili; chi entra deve chiedere di nuovo quale valga.",
+      "point": "Serve un ingresso breve che raggiunga il programma corrente, le ragioni delle scelte e la condizione che potrebbe cambiarle, lasciando recuperabili le versioni precedenti."
+    },
+    "adaptation": {
+      "title": "Adattare l’attenzione al lavoro presente",
+      "paragraphs": [
+        "Si conserva il rapporto fra scelta attuale, fonti che possono cambiarla e sapere necessario a continuare. Cambiano documenti, persone, strumenti e criteri di riservatezza. Pochi file non sono una misura universale di qualità.",
+        "Porta la decisione da riprendere e gli ingressi già disponibili. Puoi iniziare da una nota o un elenco di riferimenti; non è necessario leggere tutto l’archivio o aprire materiali privati per classificarli."
+      ]
+    },
+    "method": [
+      {
+        "title": "Individuare la scelta che il materiale deve sostenere",
+        "body": "Riconosci oggetto, responsabile e decisione presente."
+      },
+      {
+        "title": "Conservare un presente breve con profondità recuperabile",
+        "body": "Il presente raggiunge lavoro, ragioni, fonti decisive, effetti già compiuti e prossimo movimento."
+      },
+      {
+        "title": "Osservare se il seguito richiede meno ricostruzione",
+        "body": "Riprendi il lavoro dall’ingresso risultante e verifica se si raggiungono decisione, ragioni e prova senza ricrearle dalla cronologia."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Individuare la scelta che il materiale deve sostenere",
+        "body": "Riconosci oggetto, responsabile e decisione presente. Un documento può essere importante per un altro lavoro senza cambiare questa scelta. Usa il sapere acquisito per correggere anche la domanda: il problema può essere un’autorità superata, non un numero eccessivo di file. Fermare il campo alla prima etichetta di disordine perderebbe quella differenza."
+      },
+      {
+        "title": "Comprendere il ruolo dei materiali prima di ridurli",
+        "body": "Distingui fonte corrente, prova attiva, contributo del lavoro, supporto, output rigenerabile e storia. Una fonte in conflitto richiede confronto, non eliminazione. Un materiale di ruolo ignoto rimane da qualificare; un input privato non va aperto o riassunto per inerzia. Un conteggio può orientare l’attenzione, ma non stabilisce che cosa sia sacrificabile."
+      },
+      {
+        "title": "Ridurre la ricostruzione nel luogo che già possiede il lavoro",
+        "body": "Collega l’ingresso corrente alle ragioni e alle prove che permettono di continuare. Sostituisci ripetizioni con rinvii raggiungibili, separa l’output rigenerabile dal sapere decisionale e rendi riconoscibile il testo superato. Riusa la guida esistente. Un nuovo indice serve quando conserva una relazione prima dispersa, non quando duplica un altro stato autorevole."
+      },
+      {
+        "title": "Conservare un presente breve con profondità recuperabile",
+        "body": "Il presente raggiunge lavoro, ragioni, fonti decisive, effetti già compiuti e prossimo movimento. La storia resta disponibile e rientra quando una domanda, un conflitto o un recupero la rendono pertinente. Prima di un’interruzione conserva quanto la conseguenza del lavoro richiede: per un passaggio delicato anche versione, punto compiuto e recupero; per un atto semplice può bastare una nota."
+      },
+      {
+        "title": "Separare la selezione dell’attenzione dalle modifiche ai materiali",
+        "body": "Indicare un documento come storico non autorizza cancellazione, spostamento o riscrittura della storia condivisa. Quando quelle azioni diventano utili, risolvi oggetto, mandato e recupero presso il responsabile reale. La classificazione può già aiutare senza mutare l’archivio. Conserva contributi concorrenti e non includere file estranei in una pubblicazione per ripulire lo stato."
+      },
+      {
+        "title": "Osservare se il seguito richiede meno ricostruzione",
+        "body": "Riprendi il lavoro dall’ingresso risultante e verifica se si raggiungono decisione, ragioni e prova senza ricrearle dalla cronologia. Il riscontro può essere un passaggio in meno, un conflitto risolto o una nota più chiara; conserva soltanto la misura che cambia il lavoro. Se la riduzione nasconde un dubbio o un recupero, ripristina quel collegamento. Affina il metodo anziché aggiungere un altro rapporto permanente."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Il rumore dipende dalla decisione, non dal volume",
+        "body": "Una raccolta di misure può essere necessaria alla verifica scientifica e irrilevante per scegliere la data di una riunione. Una nota breve può invece introdurre una scadenza sbagliata. Qualifica cosa ciascuna fonte sostiene e chi ne possiede la verità. La parte non caricata resta raggiungibile: selezione presente e valore complessivo non coincidono."
+      },
+      {
+        "title": "Un puntatore deve conservare la relazione utile",
+        "body": "Scrivere solo «vedi la cartella» lascia la ricostruzione al ricevente. Il rinvio utile identifica il materiale e perché entra nella scelta. Quando il destinatario non può raggiungerlo, porta il sapere essenziale nella nota che userà. Condensare conserva ragioni e condizioni; accorciare per quota può cancellarle."
+      },
+      {
+        "title": "Una contraddizione non è un duplicato da nascondere",
+        "body": "Due verbali possono rappresentare tempi diversi o una decisione ancora aperta. Confronta fonte, data, oggetto e autorità. Conserva la distinzione che permette di sapere quale versione governa oggi, quale fatto resta dubbio e chi può risolverlo. L’accordo tra copie dello stesso testo non è una conferma indipendente."
+      },
+      {
+        "title": "Il dettaglio generato ha bisogno di una via di recupero",
+        "body": "Un log o una figura rigenerabile possono restare fuori dall’ingresso quotidiano se fonte, identità e modo di recuperarli sono chiari. Una prova non riproducibile o un motivo di recupero possono richiedere conservazione specifica. Non cancellare output soltanto perché sembrano generati, e non moltiplicare allegati per attestare un controllo già disponibile."
+      },
+      {
+        "title": "Gli strumenti di controllo possono produrre rumore",
+        "body": "Un rilevatore può confondere un identificatore con una credenziale o un esempio con un comando attivo. Conserva soltanto percorso, classe e conteggio prima di esporre il valore; comprendi il meccanismo del riscontro e verifica la correzione sullo stesso perimetro. Un falso positivo qualificato può correggere il controllo; una corrispondenza reale rimane da trattare nel proprio owner."
+      },
+      {
+        "title": "La riduzione dell’attenzione deve ridurre anche il proprio costo",
+        "body": "Non trasformare ogni cartella in una tassonomia o ogni risveglio in un audit completo. Una nuova differenza materiale rende utile un altro passaggio; una fonte ancora valida non va riletta per cerimonia. Se un indice richiede più manutenzione della ricostruzione che evita, semplificalo conservando i collegamenti necessari."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Riprendere un laboratorio senza rileggere tutti i verbali",
+        "body": "L’associazione possiede sei bozze del programma, due decisioni e un elenco di iscrizioni riservato. L’AI legge gli ingressi autorizzati e scopre che la nota più recente propone una data, mentre il verbale precedente conserva ancora la decisione approvata. Collega il programma corrente a quel verbale e segnala la proposta come tale nella guida esistente. Le vecchie bozze restano raggiungibili; l’elenco privato non viene aperto per classificare l’archivio. Alla ripresa, chi organizza raggiunge data valida, ragione e punto da decidere. Il miglioramento è una ricostruzione evitata con la stessa prova disponibile, non il minor numero di file."
+      },
+      {
+        "title": "Una ricerca mantiene i dati profondi fuori dal primo ingresso",
+        "body": "Un gruppo produce molti grafici durante un esperimento. Il riepilogo copia ogni risultato e oscura la domanda ancora aperta. Il metodo mantiene nell’ingresso domanda, configurazione pertinente, conclusione sostenuta e limite osservativo; raggiunge gli altri grafici attraverso il dossier che ne conserva origine e identità. Un’anomalia diventa rilevante e riapre proprio quella serie, senza caricare ogni file a ogni sessione. Il metodo non dichiara inutili i dati lasciati in profondità e non converte una sintesi in un risultato scientifico più forte. La ricerca conserva il proprio responsabile e la propria prova."
+      },
+      {
+        "title": "Una squadra distingue il rilascio dai residui del prototipo",
+        "body": "Una repository contiene la modifica affidata, un prototipo di un collega e numerosi file di test generati. L’AI non usa il numero dei file per proporre una pulizia generale. Qualifica il delta della pubblicazione, conserva il prototipo e collega i risultati di verifica al loro caso. Il riepilogo del rilascio raggiunge ciò che è necessario a capire versione e recupero; il dettaglio resta nel suo dossier. Una prova inaspettata riapre il caso pertinente invece dell’intera cartella. Il commit seleziona soltanto il lavoro affidato. La riduzione riguarda attenzione e ambiguità, mentre la rimozione di file resta un effetto distinto."
+      }
+    ],
+    "examples": [
+      "Riprendere un laboratorio senza rileggere tutti i verbali",
+      "Una ricerca mantiene i dati profondi fuori dal primo ingresso",
+      "Una squadra distingue il rilascio dai residui del prototipo"
+    ],
+    "learning": [
+      "Mantieni un ingresso che raggiunga scelta, ragioni e seguito con il minimo di ricostruzione utile.",
+      "Restituisci la perdita ricorrente al metodo o al collegamento che deve cambiare; conserva il materiale significativo presso il suo responsabile."
+    ],
+    "depth": {
+      "title": "Un ingresso più chiaro conserva più possibilità",
+      "paragraphs": [
+        "Il kit trasferisce un metodo di attenzione e continuità. Non include un pulitore automatico né autorizza accesso a materiali privati.",
+        "Un uso successivo mostra se il presente breve conserva ancora prove e possibilità. Una differenza importante può rimettere in primo piano una fonte prima secondaria."
+      ]
+    },
+    "use": [
+      {
+        "title": "In una chat",
+        "body": "Fornisci l’avvio completo, il lavoro, le fonti e i mezzi disponibili."
+      },
+      {
+        "title": "In un progetto",
+        "body": "Rendi raggiungibili metodo e guida dall’ingresso già usato dal progetto."
+      }
+    ],
+    "status": {
+      "label": "Metodo operativo",
+      "body": "Edizione iniziale. Casi illustrativi; mezzi ed effetti appartengono al tuo ambiente."
+    }
+  },
+  "en": {
+    "title": "Reduce information noise without losing the reasons for the work",
+    "subtitle": "Select sources that can change a choice and keep the rest reachable, avoiding repeated reconstruction.",
+    "kind": "Metacompetence",
+    "domain": "Attention, knowledge and continuity",
+    "does": "Reduces the repeated cost of recovering decisions, sources and continuation while preserving evidence, uncertainty and useful possibilities.",
+    "when": "When guides, files, messages or generated results make resumption slow and it is unclear which source governs the current choice.",
+    "intro": [
+      "Many documents do not necessarily make a folder noisy. One superseded note still issuing instructions can force a group to reconstruct every decision.",
+      "This method reduces what must be reconsidered for present work. Meaningful material remains in its own place; classification does not become permission to delete."
+    ],
+    "reader_context": {
+      "title": "Resume a workshop without rereading every minute",
+      "situation": "An association resumes a public workshop after a month. The approved program, drafts and minutes all have plausible titles; newcomers must ask again which one applies.",
+      "point": "A small entry should reach the current program, reasons for its choices and the condition that could change them, keeping previous versions recoverable."
+    },
+    "adaptation": {
+      "title": "Adapt attention to the present work",
+      "paragraphs": [
+        "Preserve the relationship between the current choice, sources that could change it and knowledge needed to continue. Documents, people, tools and privacy conditions vary. A low file count is not a universal quality measure.",
+        "Bring the decision being resumed and existing entries. Begin with a note or reference list where sufficient; reading the whole archive or opening private material is unnecessary for classification."
+      ]
+    },
+    "method": [
+      {
+        "title": "Identify the choice the material should support",
+        "body": "Recognize object, responsible owner and present decision."
+      },
+      {
+        "title": "Retain a small present with recoverable depth",
+        "body": "The present reaches work, reasons, decisive sources, completed effects and next movement."
+      },
+      {
+        "title": "Observe whether continuation requires less reconstruction",
+        "body": "Resume from the resulting entry and check that decision, reasons and evidence remain reachable without rebuilding them from chronology."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Identify the choice the material should support",
+        "body": "Recognize object, responsible owner and present decision. A document can matter to another work without changing this choice. Let acquired knowledge correct the question too: the problem may be a superseded authority rather than too many files. Stopping at the first label of disorder would lose that difference."
+      },
+      {
+        "title": "Understand material roles before reducing attention",
+        "body": "Distinguish current source, active evidence, work contribution, supporting material, regenerable output and history. A conflicting source needs comparison, not removal. Unknown material remains unclassified; private input must not be opened or summarized by inertia. A count can guide attention without deciding what is disposable."
+      },
+      {
+        "title": "Reduce reconstruction where the work already belongs",
+        "body": "Connect the current entry to reasons and evidence enabling continuation. Replace repetition with reachable references, separate regenerable detail from decision knowledge and identify superseded instructions. Reuse the existing guide. A new index is useful when it preserves a scattered relation rather than duplicating another authoritative state."
+      },
+      {
+        "title": "Retain a small present with recoverable depth",
+        "body": "The present reaches work, reasons, decisive sources, completed effects and next movement. History remains available and returns when a question, conflict or recovery makes it pertinent. Before interruption, preserve what the consequence requires: delicate work may need version, completed boundary and recovery; a simple act may need one note."
+      },
+      {
+        "title": "Separate attention selection from material mutation",
+        "body": "Labeling a document historical does not authorize deletion, movement or shared-history rewriting. Where those actions become useful, resolve object, mandate and recovery with the actual owner. Classification can already help without changing the archive. Preserve concurrent contributions and do not include unrelated files in a release merely to tidy the state."
+      },
+      {
+        "title": "Observe whether continuation requires less reconstruction",
+        "body": "Resume from the resulting entry and check that decision, reasons and evidence remain reachable without rebuilding them from chronology. One fewer passage, a resolved conflict or a clearer note can be useful; retain only a measure that changes the work. If reduction hides uncertainty or recovery, restore that connection. Refine the method rather than adding another permanent report."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Noise depends on a decision rather than volume",
+        "body": "A measurement collection can be necessary for scientific verification and irrelevant to choosing a meeting date. A short note can instead introduce a wrong deadline. Qualify what each source supports and who owns its truth. Unloaded material remains reachable: current selection and overall value are different facts."
+      },
+      {
+        "title": "A pointer should preserve the useful relation",
+        "body": "“See the folder” leaves reconstruction to its recipient. A useful reference identifies both the material and why it enters the choice. If the recipient cannot access it, place essential knowledge in the note they will use. Condensation preserves reasons and conditions; shortening to a quota can erase them."
+      },
+      {
+        "title": "A contradiction is not a duplicate to hide",
+        "body": "Two minutes may represent different times or a still-open decision. Compare source, date, object and authority. Preserve the distinction identifying today’s applicable version, remaining uncertainty and who can resolve it. Copies agreeing on the same text do not provide independent confirmation."
+      },
+      {
+        "title": "Generated detail needs a recovery route",
+        "body": "A regenerable log or figure can stay outside the daily entry if its source, identity and recovery means remain clear. Irreproducible proof or a recovery reason may need specific retention. Do not delete output merely because it looks generated or multiply attachments to attest an already available check."
+      },
+      {
+        "title": "Checking tools can themselves create noise",
+        "body": "A detector can confuse an identifier with a credential or an example with an active command. Retain only path, class and count before exposing a value; understand the observation mechanism and verify correction on the same scope. A qualified false positive may correct the checker; a real match remains for its responsible owner to handle."
+      },
+      {
+        "title": "Attention reduction should reduce its own cost",
+        "body": "Do not turn every folder into a taxonomy or every wake into a complete audit. A new material difference makes another passage useful; still-valid knowledge need not be reread ceremonially. If an index requires more maintenance than the reconstruction it avoids, simplify it while retaining necessary connections."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Resume a workshop without rereading every minute",
+        "body": "The association has six program drafts, two decisions and a private registration list. The AI reads authorized entries and finds that the latest note proposes a date while an earlier minute retains the approved decision. It connects the current program to that minute and identifies the proposal as such in the existing guide. Old drafts remain reachable; the private list is not opened to classify the archive. On resumption, organizers reach the valid date, its reason and the remaining decision. The improvement is avoided reconstruction with the same proof available, not fewer files."
+      },
+      {
+        "title": "Research keeps deep data outside the first entry",
+        "body": "A group produces many plots during an experiment. Its summary copies every result and obscures the open question. The method keeps question, pertinent configuration, supported conclusion and observational limit in the entry, reaching other plots through the dossier preserving their origin and identity. A relevant anomaly reopens that series without loading every file at every session. Material kept in depth is not declared useless, and a summary does not strengthen the scientific result. Research retains its own owner and evidence."
+      },
+      {
+        "title": "A team separates its release from prototype residue",
+        "body": "A repository contains the entrusted change, a colleague’s prototype and many generated test files. The AI does not use their count to propose general cleanup. It qualifies the release delta, preserves the prototype and connects verification results to their cases. The release summary reaches what is needed to understand version and recovery, with detail in its dossier. An unexpected observation reopens the pertinent case rather than the whole folder. The commit selects only entrusted work. Reduction concerns attention and ambiguity; removing files remains a separate effect."
+      }
+    ],
+    "examples": [
+      "Resume a workshop without rereading every minute",
+      "Research keeps deep data outside the first entry",
+      "A team separates its release from prototype residue"
+    ],
+    "learning": [
+      "Keep an entry reaching the choice, its reasons and continuation with the least useful reconstruction.",
+      "Return a recurring loss to the method or connection that must change; keep meaningful material with its owner."
+    ],
+    "depth": {
+      "title": "A clearer entry preserves more possibilities",
+      "paragraphs": [
+        "The kit transfers an attention and continuity method. It includes no automatic cleaner and grants no access to private material.",
+        "Later use shows whether the small present still preserves evidence and possibilities. A material difference can bring a previously secondary source into focus."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter, your work, sources and available means."
+      },
+      {
+        "title": "In a project",
+        "body": "Keep the complete method and guide reachable through the project’s own entry."
+      }
+    ],
+    "status": {
+      "label": "Operating method",
+      "body": "Initial edition. Cases are illustrative; tools and effects belong to your environment."
+    }
+  },
+  "related": [
+    "conservare-conoscenze-utili",
+    "continuita-del-lavoro-ai",
+    "collegare-competenze-al-lavoro"
+  ],
+  "showcase": {
+    "type": "dnd-operational-noise-controller",
+    "it": {
+      "title": "Riprendere un laboratorio senza rileggere tutti i verbali",
+      "states": [
+        [
+          "Situazione",
+          "Riprendere un laboratorio senza rileggere tutti i verbali",
+          "Un’associazione riprende un laboratorio pubblico dopo un mese. Programma approvato, bozze e verbali hanno tutti titoli plausibili; chi entra deve chiedere di nuovo quale valga."
+        ],
+        [
+          "Scelta",
+          "Conservare un presente breve con profondità recuperabile",
+          "Serve un ingresso breve che raggiunga il programma corrente, le ragioni delle scelte e la condizione che potrebbe cambiarle, lasciando recuperabili le versioni precedenti."
+        ],
+        [
+          "Seguito",
+          "Osservare se il seguito richiede meno ricostruzione",
+          "Mantieni un ingresso che raggiunga scelta, ragioni e seguito con il minimo di ricostruzione utile."
+        ]
+      ],
+      "caption": "Caso illustrativo: le scelte spiegano il metodo, senza operare su servizi reali.",
+      "diagram": {
+        "nodes": [
+          "Laboratorio da riprendere",
+          "Decisione e fonti",
+          "Ingresso aggiornato",
+          "Lavoro che continua"
+        ],
+        "relations": [
+          "rende pertinenti",
+          "collegano",
+          "sostiene",
+          "rivela nuove differenze"
+        ],
+        "description": "Il laboratorio riprende da una decisione e dalle sue ragioni, conservando l’archivio raggiungibile.",
+        "reading": [
+          "La scelta attuale determina quali documenti leggere.",
+          "L’ingresso collega decisione, ragioni e fonti.",
+          "Un nuovo evento può rendere pertinente altro sapere."
+        ]
+      }
+    },
+    "en": {
+      "title": "Resume a workshop without rereading every minute",
+      "states": [
+        [
+          "Situation",
+          "Resume a workshop without rereading every minute",
+          "An association resumes a public workshop after a month. The approved program, drafts and minutes all have plausible titles; newcomers must ask again which one applies."
+        ],
+        [
+          "Choice",
+          "Retain a small present with recoverable depth",
+          "A small entry should reach the current program, reasons for its choices and the condition that could change them, keeping previous versions recoverable."
+        ],
+        [
+          "Continuation",
+          "Observe whether continuation requires less reconstruction",
+          "Keep an entry reaching the choice, its reasons and continuation with the least useful reconstruction."
+        ]
+      ],
+      "caption": "Illustrative case: the choices explain the method without operating on real services.",
+      "diagram": {
+        "nodes": [
+          "Workshop to resume",
+          "Decision and sources",
+          "Updated entry",
+          "Continuing work"
+        ],
+        "relations": [
+          "makes pertinent",
+          "connect",
+          "supports",
+          "reveals differences"
+        ],
+        "description": "The workshop resumes through a decision and its reasons, keeping the archive reachable.",
+        "reading": [
+          "The current choice determines which documents to read.",
+          "The entry connects decision, reasons and sources.",
+          "A new event can make other knowledge pertinent."
+        ]
+      }
+    }
+  }
+}

@@ -10,6 +10,9 @@ def render(entry):
     resource=json.loads((folder/'catalog-entry.json').read_text(encoding='utf-8'))
     content=json.loads((folder/'presentation.json').read_text(encoding='utf-8'))
     for lang in ('en','it'):
+        if not content[lang].get('operating_method'):
+            raise ValueError('Developed operating_method required; page summary cards cannot replace the receiving method: '+entry+'/'+lang)
+    for lang in ('en','it'):
         en=lang=='en';p=content[lang];f=resource['languages'][lang]
         def section(title, paragraphs):return '\n## '+title+'\n\n'+'\n\n'.join(paragraphs)+'\n'
         description=p.get('entry_description',p['does']+' '+p['when'])
@@ -35,7 +38,15 @@ def render(entry):
         readme+=section('First use' if en else 'Primo uso',[('Read ' if en else 'Leggi ')+Path(f['skill']).name+(' and ' if en else ' e ')+Path(f['operating_guide']).name+'. '+('Attach the whole START_CHAT_EN.txt in a chat and describe your actual assignment. The starter includes method, practical knowledge and '+count+' worked examples.' if en else 'Allega in chat l’intero AVVIO_CHAT_IT.txt e descrivi il tuo incarico. L’avvio include metodo, sapere pratico e '+count+' esempi sviluppati.')])
         readme+=section('Files and edition' if en else 'File ed edizione',[('Public edition ' if en else 'Edizione pubblica ')+resource['version']+'. '+('English is primary; Italian counterparts are included. Read INSTALL.md for project installation. The method is usable independently or with a kernel. The examples and the website exploration are illustrative.' if en else 'Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.')])
         install='# '+('Adopt ' if en else 'Adottare ')+resource['name']+'\n\n'+('In a conversation, attach the complete START_CHAT_EN.txt and supply your work, sources and available means. With file access, keep the complete folder in a project-owned location and make SKILL.md reachable through the host’s native entry. Preserve an existing method, local learning and ongoing work; compare function, responsible owner and method before integrating a revision. Read the practical guide and examples. Instructions do not create missing tools or persistence.\n\n## Example: a Codex project\n\nExtract the complete ZIP and copy its ' if en else 'In una conversazione, allega l’intero AVVIO_CHAT_IT.txt e porta lavoro, fonti e mezzi disponibili. Con accesso ai file, conserva la cartella completa in una sede del progetto e rendi SKILL_IT.md raggiungibile dall’ingresso nativo dell’ambiente. Preserva il metodo esistente, l’apprendimento locale e il lavoro in corso; confronta funzione, responsabile e metodo prima di integrare una revisione. Leggi guida pratica ed esempi. Le istruzioni non creano strumenti o persistenza mancanti.\n\n## Esempio: un progetto Codex\n\nEstrai il pacchetto ZIP completo e copia la cartella ')+entry+(' folder into your project’s `.agents/skills/`. Keep an existing copy instead of overwriting it. Open Codex in that project and invoke `$' if en else ' in `.agents/skills/` del progetto. Conserva una copia esistente anziché sovrascriverla. Apri Codex nel progetto e richiama `$')+entry+('` with a real task. If discovery has not refreshed, start a new session. Other hosts use their own discovery and project conventions.\n' if en else '` con un incarico reale. Se la discovery non è aggiornata, avvia una nuova sessione. Gli altri ambienti usano la propria discovery e le proprie convenzioni di progetto.\n')
-        starter=skill.split('---\n',2)[2]+'\n\n'+guide+'\n\n'+examples+'\n\n'+('My assignment, sources, existing work, available means and requested result:\n' if en else 'Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:\n')
+        starter=skill.split('---\n',2)[2]+'\n\n'+guide+'\n\n'+examples
+        if f.get('tool_guide'):
+            starter+='\n\n'+(ROOT/f['tool_guide']).read_text(encoding='utf-8')
+        if f.get('runtime_sources'):
+            starter+='\n\n## '+('Included tool sources' if en else 'Sorgenti degli strumenti inclusi')+'\n'
+            for source in f['runtime_sources']:
+                path=Path(source);syntax='python' if path.suffix=='.py' else 'json' if path.suffix=='.json' else 'text'
+                starter+='\n### '+path.relative_to(folder.relative_to(ROOT)).as_posix()+'\n\n```'+syntax+'\n'+(ROOT/path).read_text(encoding='utf-8').rstrip()+'\n```\n'
+        starter+='\n\n'+('My assignment, sources, existing work, available means and requested result:\n' if en else 'Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:\n')
         for key,text in [('skill',skill),('operating_guide',guide),('examples',examples),('guide',readme),('installation',install),('starter',starter)]:
             (ROOT/f[key]).write_text(text,encoding='utf-8',newline='\n')
     edition=json.loads((folder/'EDITION.json').read_text(encoding='utf-8')) if (folder/'EDITION.json').exists() else {}

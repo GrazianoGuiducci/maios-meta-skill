@@ -17,6 +17,11 @@ An engineer asks how an industrial assistant preserves fault knowledge; a manage
 A map draws every competence beneath a central controller, although the sources describe situated reciprocal participation. Adding a footnote would leave the wrong visual premise intact. Recover the intended relation and recompose geometry, verbs and navigation so that complementary contributions can become visible together. Observe the rendered result and the questions it now supports. Keep the conceptual correction and the design choice with their respective owners for the next map.
 
 
+## A school office understands what to delegate to AI
+
+The presentation addresses an office preparing replies to families. It begins with familiar work: a new colleague learns regulations, calendar and exceptional cases. The example then explains the assistant’s actual capability: reach project sources and propose a reply with pertinent reasons. In the first configuration a person validates every text; another configuration could entrust recurring summary preparation while retaining appropriate observation. Sending replies to families remains an effect with its own mandate and means. The presentation distinguishes available method, selected configuration and actually observed behavior. The case lets the school recognize work and choose a first delegation without promising complete autonomy or human-like assimilation by the model.
+
+
 ## A maintenance cooperative explains how it will work with an assistant
 
 A maintenance cooperative considers an assistant for preparing intervention reports. Its actual prototype can read supplied reports, propose a checklist and preserve an approved working guide in the project folder. The first explanation begins from a familiar activity: technicians learn why a check matters and carry that reason into later work. It then shows the prototype’s actual sources and the means that preserve a revised method.

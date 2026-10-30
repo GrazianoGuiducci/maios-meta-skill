@@ -1,0 +1,119 @@
+
+# D-ND Operational Noise Controller
+
+Riduce il costo ripetuto di ritrovare decisioni, fonti e seguito, conservando prove, incertezze e possibilità utili.
+
+Una cartella con molti documenti non è necessariamente rumorosa. Una sola nota superata che continua a dare istruzioni può costringere il gruppo a ricostruire ogni decisione.
+
+Il metodo riduce ciò che va riconsiderato per il lavoro presente. Conserva il materiale significativo nel suo luogo, senza trasformare una classificazione in permesso di cancellare.
+
+## Riprendere un laboratorio senza rileggere tutti i verbali
+
+Un’associazione riprende un laboratorio pubblico dopo un mese. Programma approvato, bozze e verbali hanno tutti titoli plausibili; chi entra deve chiedere di nuovo quale valga.
+
+Serve un ingresso breve che raggiunga il programma corrente, le ragioni delle scelte e la condizione che potrebbe cambiarle, lasciando recuperabili le versioni precedenti.
+
+## Adattare l’attenzione al lavoro presente
+
+Si conserva il rapporto fra scelta attuale, fonti che possono cambiarla e sapere necessario a continuare. Cambiano documenti, persone, strumenti e criteri di riservatezza. Pochi file non sono una misura universale di qualità.
+
+Porta la decisione da riprendere e gli ingressi già disponibili. Puoi iniziare da una nota o un elenco di riferimenti; non è necessario leggere tutto l’archivio o aprire materiali privati per classificarli.
+
+## Individuare la scelta che il materiale deve sostenere
+
+Riconosci oggetto, responsabile e decisione presente. Un documento può essere importante per un altro lavoro senza cambiare questa scelta. Usa il sapere acquisito per correggere anche la domanda: il problema può essere un’autorità superata, non un numero eccessivo di file. Fermare il campo alla prima etichetta di disordine perderebbe quella differenza.
+
+
+## Comprendere il ruolo dei materiali prima di ridurli
+
+Distingui fonte corrente, prova attiva, contributo del lavoro, supporto, output rigenerabile e storia. Una fonte in conflitto richiede confronto, non eliminazione. Un materiale di ruolo ignoto rimane da qualificare; un input privato non va aperto o riassunto per inerzia. Un conteggio può orientare l’attenzione, ma non stabilisce che cosa sia sacrificabile.
+
+
+## Ridurre la ricostruzione nel luogo che già possiede il lavoro
+
+Collega l’ingresso corrente alle ragioni e alle prove che permettono di continuare. Sostituisci ripetizioni con rinvii raggiungibili, separa l’output rigenerabile dal sapere decisionale e rendi riconoscibile il testo superato. Riusa la guida esistente. Un nuovo indice serve quando conserva una relazione prima dispersa, non quando duplica un altro stato autorevole.
+
+
+## Conservare un presente breve con profondità recuperabile
+
+Il presente raggiunge lavoro, ragioni, fonti decisive, effetti già compiuti e prossimo movimento. La storia resta disponibile e rientra quando una domanda, un conflitto o un recupero la rendono pertinente. Prima di un’interruzione conserva quanto la conseguenza del lavoro richiede: per un passaggio delicato anche versione, punto compiuto e recupero; per un atto semplice può bastare una nota.
+
+
+## Separare la selezione dell’attenzione dalle modifiche ai materiali
+
+Indicare un documento come storico non autorizza cancellazione, spostamento o riscrittura della storia condivisa. Quando quelle azioni diventano utili, risolvi oggetto, mandato e recupero presso il responsabile reale. La classificazione può già aiutare senza mutare l’archivio. Conserva contributi concorrenti e non includere file estranei in una pubblicazione per ripulire lo stato.
+
+
+## Osservare se il seguito richiede meno ricostruzione
+
+Riprendi il lavoro dall’ingresso risultante e verifica se si raggiungono decisione, ragioni e prova senza ricrearle dalla cronologia. Il riscontro può essere un passaggio in meno, un conflitto risolto o una nota più chiara; conserva soltanto la misura che cambia il lavoro. Se la riduzione nasconde un dubbio o un recupero, ripristina quel collegamento. Affina il metodo anziché aggiungere un altro rapporto permanente.
+
+## Continuare attraverso il progetto reale
+
+Mantieni un ingresso che raggiunga scelta, ragioni e seguito con il minimo di ricostruzione utile.
+
+Restituisci la perdita ricorrente al metodo o al collegamento che deve cambiare; conserva il materiale significativo presso il suo responsabile.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# D-ND Operational Noise Controller — sapere operativo pratico
+
+## Il rumore dipende dalla decisione, non dal volume
+
+Una raccolta di misure può essere necessaria alla verifica scientifica e irrilevante per scegliere la data di una riunione. Una nota breve può invece introdurre una scadenza sbagliata. Qualifica cosa ciascuna fonte sostiene e chi ne possiede la verità. La parte non caricata resta raggiungibile: selezione presente e valore complessivo non coincidono.
+
+
+## Un puntatore deve conservare la relazione utile
+
+Scrivere solo «vedi la cartella» lascia la ricostruzione al ricevente. Il rinvio utile identifica il materiale e perché entra nella scelta. Quando il destinatario non può raggiungerlo, porta il sapere essenziale nella nota che userà. Condensare conserva ragioni e condizioni; accorciare per quota può cancellarle.
+
+
+## Una contraddizione non è un duplicato da nascondere
+
+Due verbali possono rappresentare tempi diversi o una decisione ancora aperta. Confronta fonte, data, oggetto e autorità. Conserva la distinzione che permette di sapere quale versione governa oggi, quale fatto resta dubbio e chi può risolverlo. L’accordo tra copie dello stesso testo non è una conferma indipendente.
+
+
+## Il dettaglio generato ha bisogno di una via di recupero
+
+Un log o una figura rigenerabile possono restare fuori dall’ingresso quotidiano se fonte, identità e modo di recuperarli sono chiari. Una prova non riproducibile o un motivo di recupero possono richiedere conservazione specifica. Non cancellare output soltanto perché sembrano generati, e non moltiplicare allegati per attestare un controllo già disponibile.
+
+
+## Gli strumenti di controllo possono produrre rumore
+
+Un rilevatore può confondere un identificatore con una credenziale o un esempio con un comando attivo. Conserva soltanto percorso, classe e conteggio prima di esporre il valore; comprendi il meccanismo del riscontro e verifica la correzione sullo stesso perimetro. Un falso positivo qualificato può correggere il controllo; una corrispondenza reale rimane da trattare nel proprio owner.
+
+
+## La riduzione dell’attenzione deve ridurre anche il proprio costo
+
+Non trasformare ogni cartella in una tassonomia o ogni risveglio in un audit completo. Una nuova differenza materiale rende utile un altro passaggio; una fonte ancora valida non va riletta per cerimonia. Se un indice richiede più manutenzione della ricostruzione che evita, semplificalo conservando i collegamenti necessari.
+
+## Un ingresso più chiaro conserva più possibilità
+
+Il kit trasferisce un metodo di attenzione e continuità. Non include un pulitore automatico né autorizza accesso a materiali privati.
+
+Un uso successivo mostra se il presente breve conserva ancora prove e possibilità. Una differenza importante può rimettere in primo piano una fonte prima secondaria.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
+
+## Riprendere un laboratorio senza rileggere tutti i verbali
+
+L’associazione possiede sei bozze del programma, due decisioni e un elenco di iscrizioni riservato. L’AI legge gli ingressi autorizzati e scopre che la nota più recente propone una data, mentre il verbale precedente conserva ancora la decisione approvata. Collega il programma corrente a quel verbale e segnala la proposta come tale nella guida esistente. Le vecchie bozze restano raggiungibili; l’elenco privato non viene aperto per classificare l’archivio. Alla ripresa, chi organizza raggiunge data valida, ragione e punto da decidere. Il miglioramento è una ricostruzione evitata con la stessa prova disponibile, non il minor numero di file.
+
+
+## Una ricerca mantiene i dati profondi fuori dal primo ingresso
+
+Un gruppo produce molti grafici durante un esperimento. Il riepilogo copia ogni risultato e oscura la domanda ancora aperta. Il metodo mantiene nell’ingresso domanda, configurazione pertinente, conclusione sostenuta e limite osservativo; raggiunge gli altri grafici attraverso il dossier che ne conserva origine e identità. Un’anomalia diventa rilevante e riapre proprio quella serie, senza caricare ogni file a ogni sessione. Il metodo non dichiara inutili i dati lasciati in profondità e non converte una sintesi in un risultato scientifico più forte. La ricerca conserva il proprio responsabile e la propria prova.
+
+
+## Una squadra distingue il rilascio dai residui del prototipo
+
+Una repository contiene la modifica affidata, un prototipo di un collega e numerosi file di test generati. L’AI non usa il numero dei file per proporre una pulizia generale. Qualifica il delta della pubblicazione, conserva il prototipo e collega i risultati di verifica al loro caso. Il riepilogo del rilascio raggiunge ciò che è necessario a capire versione e recupero; il dettaglio resta nel suo dossier. Una prova inaspettata riapre il caso pertinente invece dell’intera cartella. Il commit seleziona soltanto il lavoro affidato. La riduzione riguarda attenzione e ambiguità, mentre la rimozione di file resta un effetto distinto.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

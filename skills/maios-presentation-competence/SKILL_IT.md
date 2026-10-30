@@ -2,7 +2,7 @@
 name: maios-presentation-competence
 description: "Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro. Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono."
 metadata:
-  version: 0.1.4
+  version: 0.1.5
   language: it
 ---
 
@@ -31,19 +31,9 @@ Porta documenti, capacità effettive e un caso d’uso del sistema da presentare
 Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato.
 
 
-## Partire da un’esperienza riconoscibile al destinatario
-
-Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata.
-
-
 ## Formare l’incontro con il destinatario
 
 Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico.
-
-
-## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
-
-Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
 
 
 ## Comporre insieme significato e forma visibile
@@ -64,6 +54,16 @@ Un breve estratto attribuito, un artefatto o una correzione reale possono aprire
 ## Lasciare che l’incontro migliori la competenza del presentare
 
 Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti.
+
+
+## Partire da un’esperienza riconoscibile al destinatario
+
+Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata.
+
+
+## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
+
+Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
 
 ## Continuare attraverso il progetto reale
 

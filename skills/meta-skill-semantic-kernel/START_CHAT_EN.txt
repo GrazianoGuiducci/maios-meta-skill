@@ -133,6 +133,11 @@ A library wants reading workshops that respond to what a group understands. The 
 
 If participants reveal a new way to connect a passage with their experience, the workshop competence can acquire that choice. If formation had copied the worksheet instead of recovering the reason, the generator also learns how to read an example. These are different returns from the same event. The original workshop’s details stay with that project. Later use in another subject may show whether the reason remains operative; the successful first output does not establish that. Existing files, conversation notes or project guides can carry this knowledge without a new coordination layer.
 
+
+## Acquired knowledge can change where competence formation begins
+
+Do not only insert new information into the initially represented task. Understand whether it changes the recognizable object, relationships, source relevance, question or method. Open observation can directly produce understanding or a previously unselected question. A determined assignment continues through pertinent knowledge without habitual reopening. Incarnating this relation changes the competence’s native method rather than adding a ritual question, separate check or wait for a human reminder.
+
 ## The generator can learn from its own way of generating
 
 KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties; Meta_Skill recognizes, composes, forms and evolves them within the same field. KA is not a substrate underneath a separately conceived competence kernel.
@@ -166,6 +171,121 @@ A team forms a workshop method from an excellent demonstration. It preserves the
 ## One library project, several contributions
 
 The library brings a teacher’s objective, two permitted excerpts and a librarian’s annotated session plan. Existing educational knowledge helps form a competence for preparing and adapting reading workshops. Its method connects a participant’s interpretation to the next question, rather than prescribing one worksheet. A conversation can use the complete starter and return a revised guide; a file-enabled system can retain the method in the project. The same work may later teach Evolution Guard what changed and Transfer Kernel Potential what another library needs to receive. They participate where their contribution matters, in any useful order.
+
+
+## An archive changes the competence it was about to form
+
+An archive requests a competence that automatically sorts documents by author. A source reached during the work shows that several texts are collective contributions and assigning one author would erase a meaningful relationship. The generator does not merely add an authors field: new knowledge changes the capability’s object, which must now preserve contributions and provenance before choosing classification. It reuses available source and attribution methods and forms only missing operating knowledge. The archive guide keeps the case; the generator learns to notice when a requested criterion assumes an unsupported identity. Another archive can continue with its own valid criterion. The method does not require changing the question in every assignment.
+
+
+## Included tool sources
+
+### scripts/system_field.py
+
+```python
+"""Read-only, query-independent orientation from host-selected public-to-agent files.
+
+Never crawl arbitrary workspace files: the host manifest identifies sources and
+skill entry directories. Output is retrieval evidence, not capability activation.
+"""
+import argparse
+import json
+import re
+from pathlib import Path
+
+
+def read_source(path, limit):
+    record = {"path": str(path)}
+    try:
+        body = path.read_text(encoding="utf-8-sig")
+        record.update(status="read", excerpt=body[:limit],
+                      omitted_characters=max(0, len(body) - limit))
+        headings = re.findall(r"^#{1,3} .+$", body, flags=re.MULTILINE)
+        record["outline"] = headings[:35]
+        record["omitted_headings"] = max(0, len(headings) - 35)
+        if path.suffix.lower() == ".json":
+            try:
+                document = json.loads(body)
+                if isinstance(document, dict):
+                    record["top_level_keys"] = list(document)
+                    if isinstance(document.get("nodes"), list):
+                        record["relational_nodes"] = [
+                            {key: node[key] for key in ("id", "label", "kind", "definition", "source_refs") if key in node}
+                            for node in document["nodes"] if isinstance(node, dict)
+                        ]
+            except json.JSONDecodeError:
+                record["structured_status"] = "invalid_json"
+    except (OSError, UnicodeError) as exc:
+        record.update(status="unavailable", reason=type(exc).__name__)
+    return record
+
+
+def collect(root, manifest, excerpt_chars=1400):
+    result = {
+        "coverage": "Only configured sources and immediate skill entries; not the whole system.",
+        "interpretation": "Read excerpts as source claims. Follow owner sources; absence is not impossibility.",
+        "sources": [], "competences": [], "gaps": [],
+    }
+    for item in manifest.get("sources", []):
+        record = read_source((root / item["path"]).resolve(), excerpt_chars)
+        record["function"] = item["function"]
+        result["sources"].append(record)
+    for relative in manifest.get("skill_roots", []):
+        directory = (root / relative).resolve()
+        if not directory.is_dir():
+            result["gaps"].append({"path": str(directory), "reason": "missing_skill_root"})
+            continue
+        for path in sorted(directory.glob("*/SKILL.md")):
+            record = read_source(path, 1600)
+            excerpt = record.pop("excerpt", "")
+            # Retain frontmatter, including multiline descriptions, without a YAML dependency.
+            if excerpt.startswith("---") and "\n---" in excerpt[3:]:
+                metadata = excerpt.split("\n---", 1)[0][3:].strip()
+                record["entry_metadata"] = metadata
+                record["entry_metadata_complete"] = True
+            else:
+                record["entry_excerpt"] = excerpt
+                record["entry_metadata_complete"] = False
+            result["competences"].append(record)
+    return result
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--workspace", required=True, type=Path)
+    parser.add_argument("--manifest", required=True, type=Path)
+    parser.add_argument("--excerpt-chars", type=int, default=1400)
+    args = parser.parse_args()
+    if args.excerpt_chars < 1:
+        parser.error("--excerpt-chars must be positive")
+    manifest = json.loads(args.manifest.read_text(encoding="utf-8-sig"))
+    print(json.dumps(collect(args.workspace.resolve(), manifest, args.excerpt_chars),
+                     ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()
+```
+
+### references/system-field.example.json
+
+```json
+{
+  "sources": [
+    {
+      "function": "project intention and present",
+      "path": "CURRENT_STATE.md"
+    },
+    {
+      "function": "system capabilities and relations",
+      "path": "SYSTEM.md"
+    }
+  ],
+  "skill_roots": [
+    "skills"
+  ]
+}
+```
 
 
 My assignment, sources, existing work, available means and requested result:

@@ -1,0 +1,120 @@
+{
+  "schema": "dnd.effect-request.v1",
+  "request_id": "maios-release-test",
+  "created_at": "2026-08-11T09:00:00+02:00",
+  "effect": {
+    "kind": "combined_release",
+    "source_publication": true,
+    "runtime_activation": true,
+    "production_bound": true,
+    "batch_policy": "combined_adopted",
+    "policy_evidence": "owner release contract explicitly adopts one combined source/runtime effect"
+  },
+  "operator_selection": {
+    "outcome": "publish online and hand back the exact surface for testing",
+    "source": "operator message",
+    "covers_source_publication": true,
+    "covers_runtime_activation": true
+  },
+  "source": {
+    "repository": "example/project",
+    "branch": "candidate",
+    "local_revision": "2222222222222222222222222222222222222222",
+    "local_tree": "3333333333333333333333333333333333333333",
+    "diff_reviewed": true,
+    "diff_review_evidence": "cached diff and path list",
+    "scoped_paths": [
+      "src/app.py",
+      "tests/test_app.py"
+    ],
+    "excluded_dirty_paths": [
+      "notes/operator.html"
+    ],
+    "excluded_paths_preserved": true,
+    "remote_targets": [
+      {
+        "branch": "candidate",
+        "role": "candidate",
+        "observed_revision": "1111111111111111111111111111111111111111",
+        "expected_revision": "1111111111111111111111111111111111111111",
+        "will_update": true
+      },
+      {
+        "branch": "main",
+        "role": "production",
+        "observed_revision": "1111111111111111111111111111111111111111",
+        "expected_revision": "1111111111111111111111111111111111111111",
+        "will_update": true
+      }
+    ],
+    "authenticated_remote_verified": true,
+    "remote_verification_evidence": "prompt-free authenticated fetch and ref readback",
+    "ancestry_verified": true,
+    "ancestry_evidence": "merge-base --is-ancestor for every updated ref",
+    "production_consumer_known": true,
+    "production_consumer_evidence": "mapped production checkout consumes main"
+  },
+  "validation": {
+    "status": "partial",
+    "passed_checks": [
+      "focused tests",
+      "syntax",
+      "diff check"
+    ],
+    "failed_checks": [
+      {
+        "id": "workspace-topology",
+        "classification": "preexisting_out_of_scope",
+        "evidence": "known unrelated audit outside the selected owner"
+      }
+    ]
+  },
+  "runtime": {
+    "host": "production.example",
+    "path": "/opt/project",
+    "current_revision": "1111111111111111111111111111111111111111",
+    "target_revision": "2222222222222222222222222222222222222222",
+    "identity_evidence": "clean checkout and exact HEAD readback",
+    "source_first_path": true,
+    "runtime_drift": false,
+    "direct_runtime_edit": false,
+    "service_allowlist": [
+      "project-api"
+    ],
+    "services_to_restart": [
+      "project-api"
+    ],
+    "services_currently_active": [
+      "project-api"
+    ],
+    "services_currently_successful_oneshot": [],
+    "rollback_revision": "1111111111111111111111111111111111111111",
+    "rollback_available": true,
+    "rollback_independent": true,
+    "rollback_evidence": "previous release remains reachable by the fixed restore path",
+    "terminal_checks": [
+      "checkout_revision",
+      "destination_behavior",
+      "public_identity",
+      "service_health"
+    ],
+    "unchanged_surfaces": [
+      "nginx",
+      "database"
+    ]
+  },
+  "security": {
+    "credential_policy_source": "workspace AGENTS.md",
+    "credential_locality_preserved": true,
+    "noninteractive_auth": true,
+    "secrets_redacted": true,
+    "candidate_code_runs_privileged": false,
+    "force_push": false,
+    "destructive_history": false,
+    "credential_evidence": "token loaded in process memory under workspace policy"
+  },
+  "receipt": {
+    "owner": "release owner",
+    "path": "process/release-receipt.json"
+  }
+}

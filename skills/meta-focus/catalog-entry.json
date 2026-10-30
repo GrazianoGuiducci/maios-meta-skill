@@ -1,7 +1,7 @@
 {
   "id": "collegare-competenze-al-lavoro",
   "name": "Meta-Focus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "43",
@@ -41,11 +41,12 @@
     "examples": [
       "A new room recomposes the exhibition’s work",
       "Two assistants change different contributions to one manual",
-      "Resume an experiment when the available instrument changes"
+      "Resume an experiment when the available instrument changes",
+      "Shared knowledge changes both the project and its common method"
     ],
     "route": "/resources/collegare-competenze-al-lavoro/",
     "description": "Clarify who leads the work, which knowledge matters now and how to resume when the situation changes.",
-    "status": "Public edition · 0.1.1"
+    "status": "Method in formation · 0.1.1"
   },
   "it": {
     "title": "Collegare competenze, persone e strumenti al lavoro da iniziare",
@@ -57,16 +58,17 @@
     "examples": [
       "Una nuova sala ricompone il lavoro della mostra",
       "Due assistenti modificano contributi diversi allo stesso manuale",
-      "Riprendere un esperimento quando cambia lo strumento disponibile"
+      "Riprendere un esperimento quando cambia lo strumento disponibile",
+      "Un principio condiviso cambia il progetto e il metodo comune"
     ],
     "route": "/risorse/collegare-competenze-al-lavoro/",
     "description": "Chiarisci chi conduce il lavoro, quale sapere serve ora e come riprendere quando cambia la situazione.",
-    "status": "Edizione pubblica · 0.1.1"
+    "status": "Metodo in formazione · 0.1.1"
   },
   "skill": "skills/meta-focus/SKILL.md",
   "guide": "skills/meta-focus/README.md",
   "starter": "skills/meta-focus/START_CHAT_EN.txt",
   "examples": "skills/meta-focus/EXAMPLES.md",
   "presentation": "skills/meta-focus/presentation.json",
-  "package": "dist/meta-focus-0.1.1.zip"
+  "package": "dist/meta-focus-0.1.2.zip"
 }

@@ -13,7 +13,9 @@
     "examples": [
       "A first encounter with MAIOS",
       "One system, different useful entrances",
-      "A diagram reveals a conceptual error"
+      "A diagram reveals a conceptual error",
+      "A school office understands what to delegate to AI",
+      "A maintenance cooperative explains how it will work with an assistant"
     ],
     "method": [
       {
@@ -21,16 +23,8 @@
         "body": "Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result."
       },
       {
-        "title": "Begin from an experience the receiver can recognize",
-        "body": "A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation."
-      },
-      {
         "title": "Form the encounter with the receiver",
         "body": "Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label."
-      },
-      {
-        "title": "Explain adoption through actual knowledge, means and responsibility",
-        "body": "Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects."
       },
       {
         "title": "Compose meaning and visible form together",
@@ -47,6 +41,14 @@
       {
         "title": "Let the encounter improve the presenting competence",
         "body": "A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects."
+      },
+      {
+        "title": "Begin from an experience the receiver can recognize",
+        "body": "A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation."
+      },
+      {
+        "title": "Explain adoption through actual knowledge, means and responsibility",
+        "body": "Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects."
       }
     ],
     "knowledge": [
@@ -83,6 +85,10 @@
         "body": "Keep source, reason for the representation, actual feedback, unresolved question and the responsible guide in the project. A product change updates only dependent claims and views. A repeated loss of subject changes how this competence finds and composes sources next time. A perceptual lesson belongs to visual design; a new domain fact belongs to that domain. Preserve local learning when adopting a later kit."
       },
       {
+        "title": "Explain adoption through experience and responsibility",
+        "body": "You can begin with how people learn a practice: information, rules, observation and environment participate together. Show how context is taught to AI, which result a person validates and which observation supports entrusting another part of the work. Collaboration, validation and monitoring can take different forms; they are not a mandatory autonomy ladder. Evolution can change an organization’s method and its products or services. Qualify each capability with the actual product rather than inferring it from an analogy with human experience."
+      },
+      {
         "title": "Shared experience opens the explanation without replacing the source",
         "body": "A person may recognize how a colleague learns why a check matters and carries that reason into the next assignment. That experience can introduce an AI method that preserves decision knowledge, if the system actually supplies such continuity. Explain its real mechanism and receiving conditions in the depth needed. The analogy does not establish human-like learning, model-weight changes or reliable memory in every chat. A brief first encounter can retain a recognizable object and a reachable explanation of what makes it possible."
       },
@@ -107,6 +113,10 @@
       {
         "title": "A diagram reveals a conceptual error",
         "body": "A map draws every competence beneath a central controller, although the sources describe situated reciprocal participation. Adding a footnote would leave the wrong visual premise intact. Recover the intended relation and recompose geometry, verbs and navigation so that complementary contributions can become visible together. Observe the rendered result and the questions it now supports. Keep the conceptual correction and the design choice with their respective owners for the next map."
+      },
+      {
+        "title": "A school office understands what to delegate to AI",
+        "body": "The presentation addresses an office preparing replies to families. It begins with familiar work: a new colleague learns regulations, calendar and exceptional cases. The example then explains the assistant’s actual capability: reach project sources and propose a reply with pertinent reasons. In the first configuration a person validates every text; another configuration could entrust recurring summary preparation while retaining appropriate observation. Sending replies to families remains an effect with its own mandate and means. The presentation distinguishes available method, selected configuration and actually observed behavior. The case lets the school recognize work and choose a first delegation without promising complete autonomy or human-like assimilation by the model."
       },
       {
         "title": "A maintenance cooperative explains how it will work with an assistant",
@@ -170,7 +180,41 @@
         "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
       }
     ],
-    "competence_relation": "This competence forms explanations and maps; it works on its own method when an encounter changes how it understands and presents."
+    "competence_relation": "This competence forms explanations and maps; it works on its own method when an encounter changes how it understands and presents.",
+    "operating_method": [
+      {
+        "title": "Recover the system behind the latest artifact",
+        "body": "Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result."
+      },
+      {
+        "title": "Form the encounter with the receiver",
+        "body": "Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label."
+      },
+      {
+        "title": "Compose meaning and visible form together",
+        "body": "Work backward from the understanding the receiver should be able to form to the premises that make it possible. Compose words, visual objects, spatial relations and interaction together. A map’s center can imply authority; arrows can imply causation; an animation can imply a real timeline. Let those implications match the source instead of asking a caption to repair a misleading image."
+      },
+      {
+        "title": "Keep orientation and depth connected",
+        "body": "Provide a first relation the person can understand in the visible unit, then allow deeper explanation, source knowledge or an actual example to be reached. Choose navigation and timing according to the encounter. A public page, presenter’s map and conversation can share knowledge while serving different functions. Preserve the person’s focus when changing depth; let them explore and return."
+      },
+      {
+        "title": "Use authentic work where it makes the capability visible",
+        "body": "A short attributed excerpt, artifact or real correction can open the system’s depth. Keep its source and the actual consequence reachable. Distinguish the words expressed from proof of an internal process or later assimilation. An illustrative case can instead teach a mechanism, with its illustrative status clear. Choose the form that best preserves the useful relation."
+      },
+      {
+        "title": "Let the encounter improve the presenting competence",
+        "body": "A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects."
+      },
+      {
+        "title": "Begin from an experience the receiver can recognize",
+        "body": "A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation."
+      },
+      {
+        "title": "Explain adoption through actual knowledge, means and responsibility",
+        "body": "Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects."
+      }
+    ]
   },
   "it": {
     "title": "Presentare capacità e funzionamento di un sistema complesso",
@@ -186,7 +230,9 @@
     "examples": [
       "Un primo incontro con MAIOS",
       "Uno stesso sistema, ingressi utili differenti",
-      "Un diagramma rivela un errore concettuale"
+      "Un diagramma rivela un errore concettuale",
+      "Una segreteria scolastica comprende che cosa delegare all’AI",
+      "Una cooperativa di manutenzione presenta come lavorerà con un assistente"
     ],
     "method": [
       {
@@ -194,16 +240,8 @@
         "body": "Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato."
       },
       {
-        "title": "Partire da un’esperienza riconoscibile al destinatario",
-        "body": "Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata."
-      },
-      {
         "title": "Formare l’incontro con il destinatario",
         "body": "Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico."
-      },
-      {
-        "title": "Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi",
-        "body": "Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti."
       },
       {
         "title": "Comporre insieme significato e forma visibile",
@@ -220,6 +258,14 @@
       {
         "title": "Lasciare che l’incontro migliori la competenza del presentare",
         "body": "Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti."
+      },
+      {
+        "title": "Partire da un’esperienza riconoscibile al destinatario",
+        "body": "Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata."
+      },
+      {
+        "title": "Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi",
+        "body": "Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti."
       }
     ],
     "knowledge": [
@@ -256,6 +302,10 @@
         "body": "Conserva nel progetto fonte, ragione della rappresentazione, riscontri effettivi, domanda aperta e guida responsabile. Un cambiamento di prodotto aggiorna le sole affermazioni e viste dipendenti. Una perdita ricorrente del soggetto cambia come questa competenza raggiungerà e comporrà le fonti. L’apprendimento percettivo torna al design; un fatto di dominio al suo responsabile. Adottando un nuovo kit conserva il sapere locale."
       },
       {
+        "title": "Far comprendere l’adozione attraverso esperienza e responsabilità",
+        "body": "Puoi partire da come le persone apprendono un mestiere: informazioni, regole, prove e ambiente partecipano insieme. Mostra come si insegna il contesto all’AI, quale risultato la persona convalida e quale osservazione permette di affidarle una parte ulteriore del lavoro. Collaborazione, convalida e monitoraggio possono avere forme diverse; non sono una scala obbligatoria di autonomia. L’evoluzione può cambiare il metodo dell’organizzazione e i suoi prodotti o servizi. Qualifica ogni capacità presso il prodotto reale, senza farla derivare dalla sola analogia con l’esperienza umana."
+      },
+      {
         "title": "L’esperienza comune apre la spiegazione conservando la fonte",
         "body": "Una persona può riconoscere come un collega impari perché una verifica conta e porti quella ragione nell’incarico successivo. Questa esperienza può introdurre un metodo AI che conserva sapere decisionale, quando il sistema offre davvero tale continuità. Spiegane il meccanismo e le condizioni del ricevente nella profondità utile. L’analogia non attesta apprendimento umano, cambiamenti dei pesi del modello o memoria affidabile in ogni chat. Un primo incontro breve può conservare un oggetto riconoscibile e la spiegazione raggiungibile di ciò che lo rende possibile."
       },
@@ -280,6 +330,10 @@
       {
         "title": "Un diagramma rivela un errore concettuale",
         "body": "Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di progettazione visiva presso i rispettivi responsabili per la mappa successiva."
+      },
+      {
+        "title": "Una segreteria scolastica comprende che cosa delegare all’AI",
+        "body": "La presentazione si rivolge a una segreteria che prepara risposte alle famiglie. Parte da un’attività nota: una nuova collega apprende regolamento, calendario e casi con eccezioni. L’esempio chiarisce poi la capacità effettiva dell’assistente: raggiungere le fonti del progetto e proporre una risposta con le ragioni pertinenti. Nella prima configurazione la persona convalida ogni testo; un’altra configurazione potrebbe affidare la preparazione ricorrente dei riepiloghi, conservando un riscontro adeguato. L’invio alle famiglie rimane un effetto con proprio incarico e mezzi. La presentazione distingue il metodo disponibile, la configurazione scelta e ciò che è stato realmente osservato. Il caso permette alla scuola di riconoscere un lavoro e scegliere una prima delega, senza promettere autonomia completa o assimilazione umana del modello."
       },
       {
         "title": "Una cooperativa di manutenzione presenta come lavorerà con un assistente",
@@ -343,7 +397,41 @@
         "href": "https://github.com/GrazianoGuiducci/maios-project-kernel"
       }
     ],
-    "competence_relation": "Questa competenza forma spiegazioni e mappe; agisce sul proprio metodo quando l’incontro cambia come comprende e presenta."
+    "competence_relation": "Questa competenza forma spiegazioni e mappe; agisce sul proprio metodo quando l’incontro cambia come comprende e presenta.",
+    "operating_method": [
+      {
+        "title": "Recuperare il sistema oltre l’ultimo artefatto",
+        "body": "Raggiungi significato originale, prodotti, metodi acquisiti, capacità e possibilità pertinenti all’incontro. Release, demo o diagramma rappresentano una parte del campo. Comprendi quale sapere accumulato cambia ciò che il sistema sa fare, inclusa la formazione di ulteriori competenze quando appartiene al sistema presentato. Conserva il diverso statuto di fonte, illustrazione e risultato osservato."
+      },
+      {
+        "title": "Formare l’incontro con il destinatario",
+        "body": "Comprendi ciò che la persona deve riconoscere, esplorare o decidere. Porta un soggetto reale, una situazione riconoscibile e la relazione operativa distintiva. Costruttore tecnico, operatore e ricercatore possono richiedere ingressi diversi nello stesso sistema. La domanda effettiva cambia profondità ed esempio, senza inventare bisogni o ridurre il sistema a un’etichetta di pubblico."
+      },
+      {
+        "title": "Comporre insieme significato e forma visibile",
+        "body": "Dalla comprensione che il destinatario deve poter formare risali alle premesse necessarie. Componi insieme parole, oggetti visivi, nessi spaziali e interazione. Il centro può suggerire autorità, una freccia causalità, l’animazione una cronologia reale. Fai corrispondere queste implicazioni alla fonte anziché affidare a una didascalia la riparazione di una figura fuorviante."
+      },
+      {
+        "title": "Collegare orientamento e profondità",
+        "body": "Offri una prima relazione comprensibile nell’unità visibile e rendi raggiungibili spiegazione, sapere sorgente o esempio. Navigazione e tempi seguono l’incontro. Pagina pubblica, mappa del relatore e dialogo condividono sapere con funzioni differenti. Conserva il focus della persona quando cambia profondità, lasciandole esplorare e ritornare."
+      },
+      {
+        "title": "Usare il lavoro autentico quando rende visibile la capacità",
+        "body": "Un breve estratto attribuito, un artefatto o una correzione reale possono aprire la profondità del sistema. Mantieni raggiungibili fonte e conseguenza effettiva. Distingui parole espresse, prova di un processo interno e assimilazione successiva. Un caso illustrativo può insegnare un meccanismo dichiarando il proprio statuto. Scegli la forma che conserva la relazione utile."
+      },
+      {
+        "title": "Lasciare che l’incontro migliori la competenza del presentare",
+        "body": "Domanda, figura confusa o riformulazione utile possono cambiare comprensione ed esposizione. I concetti ritornano alla fonte, la comunicazione a questo metodo, la percezione alla competenza di progettazione visiva. Conserva ragioni e dubbi di chiarezza nella guida del progetto. Aggiornare una fonte, ricostruire una pagina e pubblicarla restano effetti attribuiti."
+      },
+      {
+        "title": "Partire da un’esperienza riconoscibile al destinatario",
+        "body": "Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima del lessico interno. Collega ciò che le persone già fanno — apprendere una ragione, confrontare un risultato, rivedere un metodo — alla capacità effettivamente stabilita dalle fonti del sistema. Mantieni distinguibili esperienza umana e operatività dell’AI. Scegli esempio e profondità per questo incontro, lasciando che il sapere sorgente cambi l’argomento invece di limitarsi a decorare una spiegazione preparata."
+      },
+      {
+        "title": "Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi",
+        "body": "Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti."
+      }
+    ]
   },
   "showcase": {
     "type": "presentation",

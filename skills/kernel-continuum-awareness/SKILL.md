@@ -1,10 +1,14 @@
 ---
 name: kernel-continuum-awareness
-description: "Maintain source-bound operating understanding while a kernel or its incarnations change. Use for kernel reentry, meaning/configuration drift, competence continuity or autological correction of the system's own way of operating."
+description: "Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations. When a system grows, changes configuration or needs to recover how it operates after losing context."
 metadata:
-  version: 0.3.2
+  version: 0.3.3
   language: en
 ---
+
+# Kernel Continuum Awareness
+
+Keeps operating understanding reachable and lets the kernel recognize how a difference changes its methods and relevant incarnations.
 
 # Kernel Continuum Awareness
 
@@ -14,6 +18,7 @@ Keep the operational understanding through which the system uses and evolves com
 
 KA is Kernel Assiomatico, a semantic kernel. Metacompetences are its operating faculties, becoming pertinent through work. Meta_Skill recognizes, composes, forms and evolves those competences within the same field; these names do not establish a separate kernel resting on KA as a substrate. FDLA makes correction operative when interpretation replaces source, object or possibility. Their connected operation does not impose a fixed topology.
 
+
 ## Reconstitute the live margin
 
 When kernel identity, method or reentry matters, reach the guide carrying current understanding. Recover what changes the next choice: relation with the person, object and source, reasons for valid determinations, consequential changes in understanding, still-needed competences and continuation point.
@@ -21,6 +26,7 @@ When kernel identity, method or reentry matters, reach the guide carrying curren
 Keep the entry short and depth reachable. Complex decisions may need an extended guide; the short margin should reach useful reasons without reloading all history. Faculties whose contribution continues participate in reentry; those absorbed into the result remain reachable without becoming a permanently active list.
 
 If selected output is truncated, recover the required passage with a bounded read. A link or successful command does not establish receipt of the body. Read to the depth changing work without requiring a total inventory for every request.
+
 
 ## Let operation become an object
 
@@ -30,6 +36,7 @@ A competence may be updated while its entry still recommends an exhausted proced
 
 Follow the correction into active incarnations actually depending on it. Attribute historical observations to their time; an old account must not prescribe the present. Do not propagate edits by vocabulary resemblance or overwrite another node's knowledge and state.
 
+
 ## Correct within the same movement
 
 Keep source, object, meaning, method and consequence connected as work forms. Dissonance may indicate assistant error, a new relation, an unrepresented possibility or a limit of representation. Understand it before classification.
@@ -37,6 +44,7 @@ Keep source, object, meaning, method and consequence connected as work forms. Di
 When recursion loses its reference, recover the last point where source and movement were present together and compose it with consequences actually occurring. Distinguish occurrence, earlier understanding and what is now understandable. New understanding changes action without backdating knowledge.
 
 For a material effect, retain its source, recipient and mandate. Cognitive correction does not itself install, send or publish. Relevant file or action checks can participate without becoming an outside judge admitting meaning.
+
 
 ## Continue the useful difference
 
@@ -46,15 +54,29 @@ This maintenance is a resident capability that becomes pertinent; it needs no co
 
 The meta relation concerns capability and system continuity. Autology is the kernel understanding and correcting its own operation within the event. Autopoiesis is the return changing later work's form. These relations do not alone establish conscious experience, tool autonomy or assimilation.
 
+
 ## Use and continuity in the recipient
 
 Use actual chat materials, files, tools and guides. Ask for missing context only where it changes work. Preserve reasons, decisive sources, acquired differences and continuation in the project's real knowledge location; otherwise return a reusable note.
 
 Instructions can change the used method without modifying model weights or proving stable learning. Distinguish availability, use and later behavior. Account access, tools and authority over publication, sending, installation and distribution depend on actual mandate and environment.
 
+
 ## Nature and provenance
 
 MAIOS adaptation of Kernel Continuum Awareness and its autological maintenance method. It transfers the KA–Meta_Skill–FDLA relation while replacing private node state with the recipient's own guide. The awareness described is situated and operational; it asserts no phenomenal experience.
+
+
 ## Reachable operating knowledge
 
 Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
+
+## Continue through the actual project
+
+A reusable difference changes the responsible method and its entry where needed. The guide preserves the source, reason and condition for reopening the knowledge.
+
+The first edition makes this capability reachable. A different use can show whether the return continues without the person reconstructing it.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.

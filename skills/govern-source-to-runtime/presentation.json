@@ -1,0 +1,384 @@
+{
+  "it": {
+    "title": "Portare una modifica dalla sorgente al servizio realmente usato",
+    "subtitle": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio.",
+    "kind": "Metacompetenza",
+    "domain": "Pubblicazione e operatività",
+    "does": "Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.",
+    "when": "Quando pubblichi un sito, rilasci software, aggiorni un servizio o devi capire perché ciò che è online differisce dalla sorgente.",
+    "intro": [
+      "Una modifica può essere corretta nella repository mentre il servizio continua a usare la versione precedente. Il metodo ricostruisce il collegamento reale e conduce il solo effetto affidato fino al riscontro.",
+      "Il sapere si usa anche senza amministrare un server: può distinguere un documento preparato, il file distribuito e la copia realmente incontrata dal destinatario. Gli strumenti inclusi valutano dati dichiarati e non eseguono pubblicazioni."
+    ],
+    "reader_context": {
+      "title": "Il calendario corretto non è ancora quello pubblico",
+      "situation": "Un’associazione pubblica un calendario dal proprio archivio Git. La correzione degli orari è condivisa, ma la pagina continua a mostrare quelli vecchi.",
+      "point": "Occorre sapere quale revisione alimenta la pagina, se il controller l’ha acquisita e quale risultato il visitatore riceve: un nuovo riavvio scelto alla cieca potrebbe non cambiare nulla."
+    },
+    "adaptation": {
+      "title": "Adattare il rilascio al tuo ambiente",
+      "paragraphs": [
+        "Si conserva il rapporto fra cambiamento selezionato, identità consegnata, mezzo che applica l’effetto e osservazione finale. Cambiano repository, persone, controller, destinazioni e modalità di recupero.",
+        "Porta l’incarico, la versione di partenza, quella proposta, le istruzioni del progetto e i riscontri disponibili. In chat il risultato può essere un piano verificabile; con accessi adeguati il metodo accompagna gli effetti già affidati."
+      ]
+    },
+    "method": [
+      {
+        "title": "Raggiungere la sorgente e chi possiede il rilascio",
+        "body": "Individua il lavoro da cambiare, la sorgente autorevole, chi seleziona il rilascio e chi possiede il servizio o il documento distribuito."
+      },
+      {
+        "title": "Condurre soltanto l’effetto realmente affidato",
+        "body": "La condivisione della sorgente, la promozione pubblica e l’attivazione hanno conseguenze diverse."
+      },
+      {
+        "title": "Continuare dal risultato effettivamente osservato",
+        "body": "Conserva versione precedente e attiva, controlli compiuti, eventuale recupero, ignoti e seguito utile presso il rilascio."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Raggiungere la sorgente e chi possiede il rilascio",
+        "body": "Individua il lavoro da cambiare, la sorgente autorevole, chi seleziona il rilascio e chi possiede il servizio o il documento distribuito. Un accesso tecnico permette di osservare o trasportare; non sostituisce queste responsabilità. Conserva le modifiche concorrenti e distingui il tuo delta da ciò che era già presente."
+      },
+      {
+        "title": "Ricostruire il percorso realmente consumato",
+        "body": "Collega revisione locale, riferimento remoto, eventuale artefatto, checkout o servizio attivo e destinazione pubblica. Raggiungi il controller effettivo: un ramo può attivare un webhook oppure essere soltanto una proposta. Un template vicino, un percorso dal nome plausibile e un servizio attivo non provano quale contenuto venga servito."
+      },
+      {
+        "title": "Preparare una modifica con identità e recupero propri",
+        "body": "Qualifica il delta, la versione immutabile e le dipendenze. Esegui il codice candidato in un ambiente che non possa controllare il servizio reale o leggere credenziali inutili. Individua una versione precedente e un percorso di recupero che non dipenda soltanto dalla componente da cambiare. Conserva anche migrazioni e dati quando il semplice ritorno ai file precedenti non basta."
+      },
+      {
+        "title": "Condurre soltanto l’effetto realmente affidato",
+        "body": "La condivisione della sorgente, la promozione pubblica e l’attivazione hanno conseguenze diverse. Usa il mandato e il contratto correnti per capire quali siano già compresi; chiedi una decisione soltanto quando resta una scelta sostanziale della persona. Non frammentare un rilascio già selezionato in conferme sulle sue meccaniche ordinarie. Una nuova destinazione o revisione può invece cambiare l’effetto."
+      },
+      {
+        "title": "Attivare attraverso mezzi proporzionati alla conseguenza",
+        "body": "Per un servizio, un attuatore ristretto e indipendente dal candidato può consumare dati validati e applicare le operazioni consentite. Non eseguire test, hook o moduli appena ricevuti con privilegi di amministrazione. Riavvia soltanto ciò che il contratto richiede. Un cambiamento statico può non richiedere alcun riavvio; la topologia corrente lo determina."
+      },
+      {
+        "title": "Verificare ciò che raggiunge davvero il destinatario",
+        "body": "Rileggi identità attiva, salute convergente e comportamento pertinente. Confronta hash esatti quando i byte sono serviti invariati; per HTML trasformato verifica il contenuto e i comportamenti prodotti dalla trasformazione. Se una prova dipendente fallisce dopo l’attivazione, segui lo stesso percorso di recupero e rileggine l’esito. La verifica tecnica non sostituisce il giudizio della persona sull’uso reale."
+      },
+      {
+        "title": "Continuare dal risultato effettivamente osservato",
+        "body": "Conserva versione precedente e attiva, controlli compiuti, eventuale recupero, ignoti e seguito utile presso il rilascio. Prima di riprendere un tentativo interrotto osserva che cosa è già accaduto. Una contraddizione riapre il passaggio da cui dipende, preservando prove e lavoro ancora validi. Restituisci al metodo la correzione riusabile senza creare registri duplicati."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Le credenziali restano presso il nodo che ne possiede la policy",
+        "body": "Usa l’adattatore autorizzato del tuo ambiente, con autenticazione non interattiva quando prevista. Non stampare, salvare nel codice o trasferire a un altro host il token locale, nemmeno codificato. Un bundle o un artefatto immutabile possono trasportare una revisione senza trasportarne la credenziale, quando quel trasferimento è compreso nell’incarico. Un errore di accesso non autorizza un altro account."
+      },
+      {
+        "title": "La configurazione effettiva può differire dal file vicino",
+        "body": "Un server può includere una copia indipendente anziché il template atteso. Leggi la configurazione realmente consumata, il tipo di file e i byte. Un percorso canonico, da solo, non prova un collegamento simbolico. Nelle prove isolate preserva la risoluzione corretta di moduli e dipendenze: un prefisso di test sbagliato può produrre un falso guasto del candidato."
+      },
+      {
+        "title": "La salute ha tempi e forme propri",
+        "body": "Dopo un riavvio attendi la convergenza entro un termine breve, conservando l’ultimo riscontro. Un rifiuto di connessione durante l’avvio non prova un guasto definitivo. Un servizio che esegue una singola operazione può tornare inattivo dopo un esito riuscito: conserva risultato, codice d’uscita e controllo terminale, anziché fingere attività continua. Una prova manuale conserva utente e gruppo effettivi."
+      },
+      {
+        "title": "Una nuova identità non cancella tutte le prove precedenti",
+        "body": "Riusa una prova soltanto per la relazione rimasta applicabile e con la sua identità originaria. Aggiorna revisioni, concorrenza, artefatto, controller e destinazione quando possono cambiare l’effetto. Un metodo o un controller cambiati riaprono le dipendenze pertinenti; non serve ricominciare tutto se la contraddizione è locale. Un’istruzione configurata non sostituisce l’ultima installazione realmente confermata."
+      },
+      {
+        "title": "Supporto dichiarato e prova eseguita sono informazioni diverse",
+        "body": "Minimo tecnico, piattaforme dichiarate e matrice effettivamente esercitata non coincidono. Verifica l’attribuzione di una dipendenza al suo tag e commit, compresi i tag annotati. Un archivio rigenerato cambia identità: rileggi il risultato corrente prima di un rilascio immutabile. La revisione dei file non decide da sola il significato di una modifica alla compatibilità."
+      },
+      {
+        "title": "Il recupero riguarda tutti gli effetti cambiati",
+        "body": "Tornare a un commit non ripristina necessariamente dati, notifiche o servizi esterni. Qualifica ripristino o compensazione presso i rispettivi responsabili. Mantieni indipendente la versione precedente e non usare riscritture forzate della storia condivisa come sostituto del recupero. La pulizia finale riguarda soltanto file del tentativo identificati e verificati."
+      },
+      {
+        "title": "Gli strumenti inclusi leggono dati, non certificano il mondo",
+        "body": "scripts/reduce_release_state.py riduce osservazioni a una prossima azione; scripts/validate_effect_request.py controlla coerenza, identità, servizi, recupero e selezione dell’effetto secondo gli schemi inclusi. Leggi TOOLS_IT.md per esempio e comandi. Un risultato ready è relativo alle evidenze fornite: nessuno dei due strumenti interroga account, pubblica, riavvia o concede permessi."
+      },
+      {
+        "title": "L’automazione appartiene a una transizione qualificata",
+        "body": "Una procedura riuscita non rende automaticamente governabili tutti i server. Per automatizzare servono contratto ristretto, idempotenza, separazione dei privilegi, osservazione terminale e recupero esercitati nel contesto pertinente. Anche rami, diff, log e artefatti di una pubblicazione possono esporre dati: trasferisci sapere riusabile, mantenendo privati dettagli e credenziali."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Il calendario corretto non è ancora quello pubblico",
+        "body": "L’associazione vede il commit con i nuovi orari e chiede di portarli online. L’AI legge il contratto e scopre che il webhook segue un altro ramo: il commit condiviso non è una pubblicazione. Confronta il delta, conserva i contributi altrui e identifica la revisione precedente recuperabile. Il mandato copre la pagina pubblica, quindi prepara e conduce la promozione prevista dal progetto. Il controller statico aggiorna i file senza riavviare il servizio degli iscritti. Il riscontro confronta gli orari nella pagina realmente servita e i byte dell’asset immutabile; conserva identità e risultato. Se il controller non acquisisce la nuova revisione, il metodo segue quel passaggio invece di avviare riavvii indiscriminati. Il caso è illustrativo e non dichiara una pubblicazione osservata per un cliente."
+      },
+      {
+        "title": "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
+        "body": "Un gruppo di ricerca pubblica il nuovo pacchetto del proprio modello. Il servizio mantiene una versione precedente perché il contratto separa distribuzione e attivazione. L’AI non chiama il nuovo pacchetto già attivo: prepara validazione isolata senza privilegi, dipendenze fissate, identità della versione precedente e riscontro di una richiesta sintetica pertinente. La decisione sull’esatta attivazione resta al responsabile previsto dal contratto. Dopo quella selezione, il rilascio può cambiare il solo servizio interessato e verificarne la salute entro il termine stabilito. Un errore della richiesta percorre il recupero e conserva ciò che è stato ripristinato. Il caso distingue identità del modello, effetto del servizio e qualità scientifica; non presume miglioramenti di accuratezza dalla sola riuscita tecnica."
+      },
+      {
+        "title": "La guida PDF cambia nell’esportazione",
+        "body": "Una cooperativa aggiorna una guida di manutenzione. Il file sorgente corretto viene esportato con un nuovo avviso di licenza: i byte del PDF cambiano anche se l’argomento tecnico è identico. L’AI confronta la revisione dei contenuti, osserva il documento renderizzato e acquisisce l’impronta del PDF effettivamente caricato. Dopo la pubblicazione scarica la copia accessibile senza login e ne confronta l’identità; verifica anche che il collegamento della pagina raggiunga quella copia. Un controllo del solo file locale o un identificatore riservato non avrebbero provato la distribuzione. Il metodo conserva le edizioni storiche e la scelta dei diritti per i file selezionati. La versione resa disponibile e l’avvenuta lettura da parte dei manutentori restano fatti diversi."
+      }
+    ],
+    "examples": [
+      "Il calendario corretto non è ancora quello pubblico",
+      "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
+      "La guida PDF cambia nell’esportazione"
+    ],
+    "learning": [
+      "Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile.",
+      "Restituisci la differenza al controller o al metodo che deve cambiare, lasciando stato del prodotto e dati presso i loro responsabili."
+    ],
+    "depth": {
+      "title": "La pubblicazione impara dal proprio percorso",
+      "paragraphs": [
+        "Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.",
+        "Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato."
+      ]
+    },
+    "use": [
+      {
+        "title": "In una chat",
+        "body": "Fornisci l’avvio completo, il lavoro, le fonti e i mezzi disponibili."
+      },
+      {
+        "title": "In un progetto",
+        "body": "Rendi raggiungibili metodo e guida dall’ingresso già usato dal progetto."
+      }
+    ],
+    "status": {
+      "label": "Metodo operativo; automazione in qualificazione",
+      "body": "Gli strumenti leggono evidenze fornite; ogni attivazione automatica richiede un proprio contratto e prove."
+    }
+  },
+  "en": {
+    "title": "Carry a change from its source to the service people actually use",
+    "subtitle": "Connect revision, publication, activation and observation while keeping the transition recoverable.",
+    "kind": "Metacompetence",
+    "domain": "Publication and operation",
+    "does": "Governs the path from a selected change through publication to the result actually reached by its recipients.",
+    "when": "When publishing a website, releasing software, updating a service or explaining why the live result differs from its source.",
+    "intro": [
+      "A change can be correct in a repository while a service still uses its previous version. This method reconstructs the actual connection and carries the entrusted effect through to observation.",
+      "You can also use it without administering a server: distinguish a prepared document, its distributed file and the copy a recipient actually encounters. Included tools evaluate supplied data without performing publication."
+    ],
+    "reader_context": {
+      "title": "The corrected calendar is not yet the public calendar",
+      "situation": "An association publishes a calendar from a Git archive. Corrected opening hours have been shared, but the page still shows the old ones.",
+      "point": "Find which revision feeds the page, whether its controller acquired it and what visitors receive. Restarting a guessed service might change nothing."
+    },
+    "adaptation": {
+      "title": "Adapt the release to your environment",
+      "paragraphs": [
+        "Preserve the relationship between the selected change, delivered identity, means applying the effect and final observation. Repositories, people, controllers, destinations and recovery mechanisms vary.",
+        "Bring the assignment, previous and proposed versions, project instructions and available observations. In chat you can form a verifiable plan; with suitable access, the method accompanies effects already entrusted to you."
+      ]
+    },
+    "method": [
+      {
+        "title": "Reach the source and those responsible for the release",
+        "body": "Identify the work being changed, authoritative source, release decision owner and owner of the service or distributed document."
+      },
+      {
+        "title": "Carry only the effect actually entrusted",
+        "body": "Source sharing, public promotion and activation have different consequences."
+      },
+      {
+        "title": "Continue from the result actually observed",
+        "body": "Retain previous and active versions, completed checks, any recovery, unknowns and useful continuation with the release owner."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Reach the source and those responsible for the release",
+        "body": "Identify the work being changed, authoritative source, release decision owner and owner of the service or distributed document. Technical access allows observation or transport; it does not replace those responsibilities. Preserve concurrent work and distinguish your delta from pre-existing changes."
+      },
+      {
+        "title": "Reconstruct the path actually consumed",
+        "body": "Connect local revision, remote reference, any artifact, active checkout or service and public destination. Reach the actual controller: one branch may trigger a webhook while another is only a proposal. A nearby template, plausible path or active service does not establish which content is served."
+      },
+      {
+        "title": "Prepare a change with its own identity and recovery",
+        "body": "Qualify the diff, immutable version and dependencies. Execute candidate code in an environment unable to control the live service or read unnecessary credentials. Identify a previous version and recovery path independent of the component being changed. Include migrations and data where returning to previous files is insufficient."
+      },
+      {
+        "title": "Carry only the effect actually entrusted",
+        "body": "Source sharing, public promotion and activation have different consequences. Use the current mandate and contract to identify effects already included; request a decision only when a material choice remains the person’s. Do not fragment an already selected release into confirmations of routine mechanics. A new target or revision can change the effect."
+      },
+      {
+        "title": "Activate through means proportionate to the consequence",
+        "body": "For a service, a narrow activator independent of candidate code can consume validated data and apply allowed operations. Do not run newly received tests, hooks or modules with administrative privileges. Restart only what the contract requires. A static change may require no restart; the current topology determines that."
+      },
+      {
+        "title": "Verify what actually reaches the recipient",
+        "body": "Read back active identity, converged health and pertinent behavior. Compare exact hashes where bytes are served unchanged; for transformed HTML check content and behavior produced by the transformation. A dependent check failing after activation must follow the same recovery path and verify its result. Technical verification does not replace the person’s judgment of actual use."
+      },
+      {
+        "title": "Continue from the result actually observed",
+        "body": "Retain previous and active versions, completed checks, any recovery, unknowns and useful continuation with the release owner. Before resuming an interrupted attempt, observe what already happened. A contradiction reopens its dependent passage while preserving still-valid evidence and work. Return reusable corrections to the method without duplicating registers."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Credentials remain with the node owning their policy",
+        "body": "Use your environment’s authorized adapter, with noninteractive authentication where required. Never print, embed in source or relay a local token to another host, including encoded forms. An immutable artifact or bundle can carry a revision without its credential when that transfer is entrusted. Access failure does not authorize another account."
+      },
+      {
+        "title": "Effective configuration can differ from the neighboring file",
+        "body": "A server may include an independent copy rather than the expected template. Read the configuration actually consumed, file type and bytes. A canonical path alone does not establish a symlink. Preserve module and dependency resolution in isolated checks: a wrong test prefix can falsely attribute a failure to the candidate."
+      },
+      {
+        "title": "Health has its own timing and forms",
+        "body": "After restart, await convergence within a short deadline and retain the last observation. Connection refusal during startup is not definitive failure. A successful oneshot may return to inactive: retain its result, exit code and terminal check rather than claiming continuous activity. A manual check preserves the actual user and group."
+      },
+      {
+        "title": "A new identity does not erase every earlier proof",
+        "body": "Reuse evidence only for an applicable relation with its original identity. Refresh revisions, concurrency, artifact, controller and destination where they could change the effect. A changed method or controller reopens pertinent dependencies; a local contradiction need not restart everything. Configured instructions do not replace the last installation actually confirmed."
+      },
+      {
+        "title": "Declared support and executed proof are different facts",
+        "body": "Technical minimum, declared platforms and exercised matrix are distinct. Check dependency attribution against its owner’s tag and commit, including annotated tags. A rebuilt archive changes identity: reread the current result before immutable release. A small file diff alone does not determine the compatibility meaning of a change."
+      },
+      {
+        "title": "Recovery follows all changed effects",
+        "body": "Returning to a commit need not restore data, notifications or external services. Qualify restoration or compensation with their owners. Keep the previous version independent; forced shared-history rewriting is no substitute for recovery. Final cleanup concerns only identified, verified files belonging to that attempt."
+      },
+      {
+        "title": "Included tools read data rather than certify the world",
+        "body": "scripts/reduce_release_state.py reduces supplied observations to a next action; scripts/validate_effect_request.py checks coherence, identities, services, recovery and effect selection against included schemas. Read TOOLS.md for examples and commands. A ready result is relative to supplied evidence: neither tool contacts accounts, publishes, restarts or grants permission."
+      },
+      {
+        "title": "Automation belongs to a qualified transition",
+        "body": "One successful procedure does not govern every server automatically. Automation needs a narrow contract, idempotency, privilege separation, terminal observation and recovery exercised in the relevant environment. Branches, diffs, logs and publication artifacts can expose information too: transfer reusable knowledge while retaining private topology and credentials."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "The corrected calendar is not yet the public calendar",
+        "body": "The association sees the commit containing new opening hours and asks to publish them. The AI reads the contract and discovers that the webhook follows another branch: the shared commit is not publication. It reviews the diff, preserves other contributions and identifies a recoverable previous revision. The mandate includes the public page, so it prepares and carries the promotion specified by the project. The static controller updates files without restarting the membership service. Readback compares opening hours on the actual served page and exact bytes of the immutable asset, retaining identity and result. If the controller fails to acquire the revision, the method follows that passage instead of restarting unrelated services. This is an illustrative case, not a claimed customer deployment."
+      },
+      {
+        "title": "A published analysis model is not yet the model used by the service",
+        "body": "A research group publishes its new model package. Its service retains the previous version because the contract separates distribution from activation. The AI does not call the package already active: it prepares isolated unprivileged validation, pinned dependencies, previous-version identity and a pertinent synthetic-request check. Selection of the exact activation remains with the contract’s responsible person. Once selected, the release can change only the affected service and verify convergence within its deadline. A failing request follows recovery and retains what was restored. The case separates model identity, service effect and scientific quality; technical success does not imply improved accuracy."
+      },
+      {
+        "title": "A maintenance PDF changes during export",
+        "body": "A cooperative updates a maintenance guide. The corrected source is exported with a new license notice: PDF bytes change even when the technical argument stays the same. The AI compares the content revision, observes the rendered document and records the exact uploaded PDF’s digest. After publication it anonymously downloads the accessible copy and compares identity, also checking that the page link reaches that file. A local-file check or reserved identifier would not establish distribution. The method preserves historical editions and the rights choice for selected files. Making a version available and maintenance staff actually reading it remain different facts."
+      }
+    ],
+    "examples": [
+      "The corrected calendar is not yet the public calendar",
+      "A published analysis model is not yet the model used by the service",
+      "A maintenance PDF changes during export"
+    ],
+    "learning": [
+      "Keep the relationship between selected effect, revision actually reached, recovery and the next useful observation.",
+      "Return the difference to the controller or method that must change, leaving product state and data with their owners."
+    ],
+    "depth": {
+      "title": "Publication learns from its actual path",
+      "paragraphs": [
+        "The method and deterministic validators are available; the kit does not provide universal automatic deployment. Each environment owns its executors, access and policy.",
+        "An observed result can teach a reusable relation. A later non-identical use shows where that learning continues and where the method needs refinement."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter, your work, sources and available means."
+      },
+      {
+        "title": "In a project",
+        "body": "Keep the complete method and guide reachable through the project’s own entry."
+      }
+    ],
+    "status": {
+      "label": "Operating method; automation under qualification",
+      "body": "Tools read supplied evidence; each automated activation requires its own contract and proof."
+    }
+  },
+  "related": [
+    "continuita-repository",
+    "coerenza-kernel-ai",
+    "collegare-competenze-al-lavoro"
+  ],
+  "showcase": {
+    "type": "govern-source-to-runtime",
+    "it": {
+      "title": "Il calendario corretto non è ancora quello pubblico",
+      "states": [
+        [
+          "Situazione",
+          "Il calendario corretto non è ancora quello pubblico",
+          "Un’associazione pubblica un calendario dal proprio archivio Git. La correzione degli orari è condivisa, ma la pagina continua a mostrare quelli vecchi."
+        ],
+        [
+          "Scelta",
+          "Condurre soltanto l’effetto realmente affidato",
+          "Occorre sapere quale revisione alimenta la pagina, se il controller l’ha acquisita e quale risultato il visitatore riceve: un nuovo riavvio scelto alla cieca potrebbe non cambiare nulla."
+        ],
+        [
+          "Seguito",
+          "Continuare dal risultato effettivamente osservato",
+          "Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile."
+        ]
+      ],
+      "caption": "Caso illustrativo: le scelte spiegano il metodo, senza operare su servizi reali.",
+      "diagram": {
+        "nodes": [
+          "Sorgente corretta",
+          "Revisione pubblicata",
+          "Pagina ricevuta",
+          "Riscontro conservato"
+        ],
+        "relations": [
+          "pubblica",
+          "alimenta",
+          "qualifica",
+          "corregge il rilascio"
+        ],
+        "description": "Il calendario passa dalla sorgente alla pagina osservata, con ritorno delle differenze al rilascio.",
+        "reading": [
+          "La revisione condivisa non prova che la pagina l’abbia ricevuta.",
+          "Il controller collega una versione alla destinazione effettiva.",
+          "Il riscontro conserva identità e conseguenza per il seguito."
+        ]
+      }
+    },
+    "en": {
+      "title": "The corrected calendar is not yet the public calendar",
+      "states": [
+        [
+          "Situation",
+          "The corrected calendar is not yet the public calendar",
+          "An association publishes a calendar from a Git archive. Corrected opening hours have been shared, but the page still shows the old ones."
+        ],
+        [
+          "Choice",
+          "Carry only the effect actually entrusted",
+          "Find which revision feeds the page, whether its controller acquired it and what visitors receive. Restarting a guessed service might change nothing."
+        ],
+        [
+          "Continuation",
+          "Continue from the result actually observed",
+          "Keep the relationship between selected effect, revision actually reached, recovery and the next useful observation."
+        ]
+      ],
+      "caption": "Illustrative case: the choices explain the method without operating on real services.",
+      "diagram": {
+        "nodes": [
+          "Corrected source",
+          "Published revision",
+          "Received page",
+          "Retained readback"
+        ],
+        "relations": [
+          "publishes",
+          "feeds",
+          "qualifies",
+          "refines the release"
+        ],
+        "description": "The calendar moves from source to observed page, returning differences to the release.",
+        "reading": [
+          "A shared revision does not prove the page received it.",
+          "The controller connects a version to the actual destination.",
+          "Readback preserves identity and consequence for continuation."
+        ]
+      }
+    }
+  }
+}

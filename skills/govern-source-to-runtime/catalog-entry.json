@@ -1,0 +1,86 @@
+{
+  "id": "dalla-sorgente-al-servizio",
+  "name": "Govern Source to Runtime",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "44",
+  "native_entry": "govern-source-to-runtime",
+  "skill_name": "govern-source-to-runtime",
+  "source_title": "Govern Source To Runtime",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "it": {
+      "skill": "skills/govern-source-to-runtime/SKILL_IT.md",
+      "guide": "skills/govern-source-to-runtime/README_IT.md",
+      "starter": "skills/govern-source-to-runtime/AVVIO_CHAT_IT.txt",
+      "examples": "skills/govern-source-to-runtime/ESEMPI_IT.md",
+      "operating_guide": "skills/govern-source-to-runtime/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/govern-source-to-runtime/INSTALL_IT.md",
+      "runtime_sources": [
+        "skills/govern-source-to-runtime/scripts/reduce_release_state.py",
+        "skills/govern-source-to-runtime/scripts/validate_effect_request.py",
+        "skills/govern-source-to-runtime/references/release-context.schema.json",
+        "skills/govern-source-to-runtime/references/effect-request.schema.json",
+        "skills/govern-source-to-runtime/examples/release-context.sample.json",
+        "skills/govern-source-to-runtime/examples/effect-request.sample.json"
+      ],
+      "tool_guide": "skills/govern-source-to-runtime/TOOLS_IT.md"
+    },
+    "en": {
+      "skill": "skills/govern-source-to-runtime/SKILL.md",
+      "guide": "skills/govern-source-to-runtime/README.md",
+      "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
+      "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
+      "operating_guide": "skills/govern-source-to-runtime/OPERATING_GUIDE.md",
+      "installation": "skills/govern-source-to-runtime/INSTALL.md",
+      "runtime_sources": [
+        "skills/govern-source-to-runtime/scripts/reduce_release_state.py",
+        "skills/govern-source-to-runtime/scripts/validate_effect_request.py",
+        "skills/govern-source-to-runtime/references/release-context.schema.json",
+        "skills/govern-source-to-runtime/references/effect-request.schema.json",
+        "skills/govern-source-to-runtime/examples/release-context.sample.json",
+        "skills/govern-source-to-runtime/examples/effect-request.sample.json"
+      ],
+      "tool_guide": "skills/govern-source-to-runtime/TOOLS.md"
+    }
+  },
+  "it": {
+    "title": "Portare una modifica dalla sorgente al servizio realmente usato",
+    "subtitle": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio.",
+    "kind": "Metacompetenza",
+    "domain": "Pubblicazione e operatività",
+    "does": "Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.",
+    "when": "Quando pubblichi un sito, rilasci software, aggiorni un servizio o devi capire perché ciò che è online differisce dalla sorgente.",
+    "examples": [
+      "Il calendario corretto non è ancora quello pubblico",
+      "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
+      "La guida PDF cambia nell’esportazione"
+    ],
+    "route": "/risorse/dalla-sorgente-al-servizio/",
+    "description": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio."
+  },
+  "en": {
+    "title": "Carry a change from its source to the service people actually use",
+    "subtitle": "Connect revision, publication, activation and observation while keeping the transition recoverable.",
+    "kind": "Metacompetence",
+    "domain": "Publication and operation",
+    "does": "Governs the path from a selected change through publication to the result actually reached by its recipients.",
+    "when": "When publishing a website, releasing software, updating a service or explaining why the live result differs from its source.",
+    "examples": [
+      "The corrected calendar is not yet the public calendar",
+      "A published analysis model is not yet the model used by the service",
+      "A maintenance PDF changes during export"
+    ],
+    "route": "/resources/dalla-sorgente-al-servizio/",
+    "description": "Connect revision, publication, activation and observation while keeping the transition recoverable."
+  },
+  "skill": "skills/govern-source-to-runtime/SKILL.md",
+  "guide": "skills/govern-source-to-runtime/README.md",
+  "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
+  "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
+  "presentation": "skills/govern-source-to-runtime/presentation.json",
+  "package": "dist/govern-source-to-runtime-0.1.0.zip",
+  "maturity": "method_available_automation_candidate"
+}

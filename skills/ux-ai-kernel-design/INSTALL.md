@@ -1,6 +1,6 @@
 # Install UX-AI Kernel Design in Codex
 
-This kit is version 0.3.3. Keep the whole `ux-ai-kernel-design` folder together.
+This kit is version 0.3.4. Keep the whole `ux-ai-kernel-design` folder together.
 
 1. Extract the downloaded ZIP.
 2. Copy `ux-ai-kernel-design` into your project's `.agents/skills/` directory. The entry is `.agents/skills/ux-ai-kernel-design/SKILL.md`. Preserve any existing folder rather than overwriting it.

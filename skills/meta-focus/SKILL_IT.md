@@ -2,7 +2,7 @@
 name: meta-focus
 description: "Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile. Quando inizi o riprendi un progetto con riferimenti sparsi, più specializzazioni o persone e AI che lavorano sullo stesso patrimonio."
 metadata:
-  version: 0.1.1
+  version: 0.1.2
   language: it
 ---
 
@@ -41,11 +41,6 @@ Raggiungi la guida, il presente e le fonti del responsabile dell’opera. Usa qu
 Leggi corpo e sapere pratico delle competenze pertinenti mentre formi domanda e azione. Descrivi il contributo effettivo quando serve alla continuazione; una capacità vicina o da acquisire conserva quello stato. Un elenco di nomi non prova consultazione, installazione o esercizio. Il metodo di un dominio resta presso chi lo conosce, anche quando più specializzazioni contribuiscono alla stessa opera.
 
 
-## Far partecipare il progetto al campo competente fin dal suo ingresso
-
-Parti da scopo, guida corrente e sapere di dominio del progetto, insieme alle competenze condivise che possono cambiare la prima domanda o azione. Il loro sapere sostiene il lavoro mentre si forma; una correzione successiva non è l’unica occasione di partecipazione. Usa direttamente un ingresso già competente. Ripristina il richiamo se il sapere è disponibile, oppure approfondisci la competenza responsabile se manca il saper fare. L’esperienza del progetto restituisce le differenze riusabili ai loro owner, e il sapere evoluto torna raggiungibile attraverso l’ingresso effettivo del ricevente.
-
-
 ## Collegare strumenti reali ed effetti affidati
 
 Comprendi quali fonti e strumenti il ricevente può raggiungere e quali azioni gli sono state affidate. Una guida leggibile non conferisce controllo sul servizio che descrive. Identifica la condizione mancante per un’azione concreta e continua il lavoro indipendente. Un file condiviso conserva informazioni ma non notifica o risveglia automaticamente un’altra persona o AI.
@@ -64,6 +59,11 @@ Prima di una scrittura rileggi l’oggetto esatto e la sua versione corrente. Mo
 ## Far continuare risultato e apprendimento nei rispettivi luoghi
 
 Quando una differenza materiale cambia il lavoro, conserva fonte, ciò che è stato compreso, risultato, stato effettivo e prossimo gesto o condizione di ripresa. La correzione di un metodo torna alla competenza che deve agire diversamente; il margine lascia il collegamento. Preparato, scritto, ricevuto, esercitato e assimilato sono fatti distinti. Se un altro passaggio non cambia una relazione utile, fermati senza produrre un aggiornamento per quota.
+
+
+## Far partecipare il progetto al campo competente fin dal suo ingresso
+
+Parti da scopo, guida corrente e sapere di dominio del progetto, insieme alle competenze condivise che possono cambiare la prima domanda o azione. Il loro sapere sostiene il lavoro mentre si forma; una correzione successiva non è l’unica occasione di partecipazione. Usa direttamente un ingresso già competente. Ripristina il richiamo se il sapere è disponibile, oppure approfondisci la competenza responsabile se manca il saper fare. L’esperienza del progetto restituisce le differenze riusabili ai loro owner, e il sapere evoluto torna raggiungibile attraverso l’ingresso effettivo del ricevente.
 
 ## Continuare attraverso il progetto reale
 

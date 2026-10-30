@@ -1,7 +1,7 @@
 {
   "id": "principi-che-diventano-capacita",
   "name": "Onto-Skill",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "34",
@@ -35,7 +35,7 @@
   "starter": "skills/onto-skill/START_CHAT_EN.txt",
   "examples": "skills/onto-skill/EXAMPLES.md",
   "presentation": "skills/onto-skill/presentation.json",
-  "package": "dist/onto-skill-0.1.3.zip",
+  "package": "dist/onto-skill-0.1.4.zip",
   "en": {
     "title": "From principles to abilities that evolve through work",
     "subtitle": "Intent, discoveries and corrections change the relevant competence’s method during work.",
@@ -46,7 +46,8 @@
     "examples": [
       "An educational principle forms a new way of helping",
       "A discovery changes how requests are handled",
-      "A correction that improves quotations"
+      "A correction that improves quotations",
+      "A library network changes how projects inherit a competence"
     ],
     "route": "/resources/principi-che-diventano-capacita/",
     "description": "Intent, discoveries and corrections change the relevant competence’s method during work."
@@ -61,7 +62,8 @@
     "examples": [
       "Un principio didattico forma un nuovo modo di aiutare",
       "Una scoperta cambia la gestione delle richieste",
-      "Una correzione che migliora i preventivi"
+      "Una correzione che migliora i preventivi",
+      "Una rete di biblioteche cambia come eredita una competenza"
     ],
     "route": "/risorse/principi-che-diventano-capacita/",
     "description": "Intenti, scoperte e correzioni cambiano il metodo della competenza pertinente mentre lavori."

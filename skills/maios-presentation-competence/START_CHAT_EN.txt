@@ -24,19 +24,9 @@ Provide documents, actual capabilities and a use case of the system being presen
 Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result.
 
 
-## Begin from an experience the receiver can recognize
-
-A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation.
-
-
 ## Form the encounter with the receiver
 
 Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label.
-
-
-## Explain adoption through actual knowledge, means and responsibility
-
-Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects.
 
 
 ## Compose meaning and visible form together
@@ -57,6 +47,16 @@ A short attributed excerpt, artifact or real correction can open the system’s 
 ## Let the encounter improve the presenting competence
 
 A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
+
+
+## Begin from an experience the receiver can recognize
+
+A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation.
+
+
+## Explain adoption through actual knowledge, means and responsibility
+
+Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects.
 
 ## Continue through the actual project
 
@@ -111,6 +111,11 @@ When a fresh person or distinct AI is available, present the actual page without
 Keep source, reason for the representation, actual feedback, unresolved question and the responsible guide in the project. A product change updates only dependent claims and views. A repeated loss of subject changes how this competence finds and composes sources next time. A perceptual lesson belongs to visual design; a new domain fact belongs to that domain. Preserve local learning when adopting a later kit.
 
 
+## Explain adoption through experience and responsibility
+
+You can begin with how people learn a practice: information, rules, observation and environment participate together. Show how context is taught to AI, which result a person validates and which observation supports entrusting another part of the work. Collaboration, validation and monitoring can take different forms; they are not a mandatory autonomy ladder. Evolution can change an organization’s method and its products or services. Qualify each capability with the actual product rather than inferring it from an analogy with human experience.
+
+
 ## Shared experience opens the explanation without replacing the source
 
 A person may recognize how a colleague learns why a check matters and carries that reason into the next assignment. That experience can introduce an AI method that preserves decision knowledge, if the system actually supplies such continuity. Explain its real mechanism and receiving conditions in the depth needed. The analogy does not establish human-like learning, model-weight changes or reliable memory in every chat. A brief first encounter can retain a recognizable object and a reachable explanation of what makes it possible.
@@ -147,6 +152,11 @@ An engineer asks how an industrial assistant preserves fault knowledge; a manage
 ## A diagram reveals a conceptual error
 
 A map draws every competence beneath a central controller, although the sources describe situated reciprocal participation. Adding a footnote would leave the wrong visual premise intact. Recover the intended relation and recompose geometry, verbs and navigation so that complementary contributions can become visible together. Observe the rendered result and the questions it now supports. Keep the conceptual correction and the design choice with their respective owners for the next map.
+
+
+## A school office understands what to delegate to AI
+
+The presentation addresses an office preparing replies to families. It begins with familiar work: a new colleague learns regulations, calendar and exceptional cases. The example then explains the assistant’s actual capability: reach project sources and propose a reply with pertinent reasons. In the first configuration a person validates every text; another configuration could entrust recurring summary preparation while retaining appropriate observation. Sending replies to families remains an effect with its own mandate and means. The presentation distinguishes available method, selected configuration and actually observed behavior. The case lets the school recognize work and choose a first delegation without promising complete autonomy or human-like assimilation by the model.
 
 
 ## A maintenance cooperative explains how it will work with an assistant

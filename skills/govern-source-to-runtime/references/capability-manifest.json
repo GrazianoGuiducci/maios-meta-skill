@@ -1,0 +1,55 @@
+{
+  "capability_id": "govern-source-to-runtime",
+  "version": "0.1.0",
+  "current_maturity": "candidate",
+  "invocation": "model-invoked for observable source/release/runtime work; exact material effects remain operator- or owner-gated",
+  "allowed_without_external_gate": [
+    "read_owner_sources",
+    "inspect_local_repository_state",
+    "inspect_authenticated_remote_refs_with_existing policy",
+    "observe_runtime_identity when authorized and secret-safe",
+    "build_causal_graph",
+    "prepare_local_patch_or_receipt",
+    "run_read_only_state_reducer"
+  ],
+  "exact_effect_gates": [
+    "git_commit",
+    "source_push",
+    "production_bound_push",
+    "pull_request_or_merge",
+    "runtime_activation",
+    "service_or_ingress_change",
+    "external_provider_effect",
+    "cleanup"
+  ],
+  "blocked_invariants": [
+    "execute candidate-controlled code as a privileged account",
+    "mutate runtime before source reconciliation",
+    "infer deploy topology from another project or host adapter",
+    "expose credentials or raw sensitive streams",
+    "treat push, deploy, health or acceptance as equivalent",
+    "enable background automation from skill installation alone",
+    "use force push or shared-history reset as rollback"
+  ],
+  "receipts": [
+    "SourceReceipt",
+    "ReleaseReceipt",
+    "ActivationReceipt",
+    "AcceptanceReceipt",
+    "LearningReceipt"
+  ],
+  "automation_admission": {
+    "scope": "one named transition and topology",
+    "requires": [
+      "unprivileged candidate validation",
+      "fixed activator outside candidate-controlled source",
+      "data-only activation contract",
+      "idempotency",
+      "terminal identity verification",
+      "independent rollback proof",
+      "failure injection",
+      "repeated receipts",
+      "explicit owner effect policy"
+    ]
+  }
+}

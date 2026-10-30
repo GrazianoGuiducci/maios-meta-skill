@@ -2,7 +2,7 @@
 name: maios-presentation-competence
 description: "Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work. When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve."
 metadata:
-  version: 0.1.4
+  version: 0.1.5
   language: en
 ---
 
@@ -31,19 +31,9 @@ Provide documents, actual capabilities and a use case of the system being presen
 Reach the original meaning, actual products, acquired methods, current capabilities and open possibilities that matter to this encounter. A release, demo or diagram represents part of that field. Understand which accumulated learning changes what the system can now do, including the formation of further competences where the system’s sources establish it. Preserve the distinct status of source, illustration and observed result.
 
 
-## Begin from an experience the receiver can recognize
-
-A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation.
-
-
 ## Form the encounter with the receiver
 
 Understand what this person needs to recognize, explore or decide. Bring forward a real subject, a recognizable situation and the distinctive operating relation. A technical builder, organisational operator and research peer may need different entries into the same system. Let their actual question change depth and example without inventing their needs or reducing the system to an audience label.
-
-
-## Explain adoption through actual knowledge, means and responsibility
-
-Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects.
 
 
 ## Compose meaning and visible form together
@@ -64,6 +54,16 @@ A short attributed excerpt, artifact or real correction can open the system’s 
 ## Let the encounter improve the presenting competence
 
 A question, confusing visual or useful reformulation can change understanding and the way it is presented. Return conceptual learning to the source owner, communicative learning to this method and perceptual learning to the project’s visual-design competence. Preserve reasons and unresolved clarity in the project guide. Updating a source, rebuilding a page and publishing it remain attributable effects.
+
+
+## Begin from an experience the receiver can recognize
+
+A familiar piece of work can make a changing system understandable before its internal vocabulary. Connect what people already do—learn a reason, compare a result, revise a method—to the capability the system’s sources actually establish. Keep human experience and AI operation distinguishable. Choose the example and depth for this encounter, allowing the source knowledge to change the argument rather than merely decorate a prepared explanation.
+
+
+## Explain adoption through actual knowledge, means and responsibility
+
+Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects.
 
 ## Continue through the actual project
 

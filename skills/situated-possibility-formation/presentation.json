@@ -11,9 +11,10 @@
       "The current context supplies a starting point. People, competences and newly reached sources can make other relations material while the work develops."
     ],
     "examples": [
-      "Discover a service from knowledge already held by a team.",
-      "Develop a product idea through sketches and progressive decisions.",
-      "Recognize a useful collaboration in an unexpected source."
+      "A team's knowledge suggests a service",
+      "A sketch becomes a design conversation",
+      "A paper changes the question without taking over the project",
+      "Two equal readings open a question about representation"
     ],
     "method": [
       {
@@ -62,7 +63,87 @@
       "Preserve what changed the question, which source made that relation intelligible and where the useful consequence should continue.",
       "The next different case can refine both possibility formation and the practical capability it helped form."
     ],
-    "operating_guide": "skills/situated-possibility-formation/OPERATING_GUIDE.md"
+    "operating_guide": "skills/situated-possibility-formation/OPERATING_GUIDE.md",
+    "knowledge": [
+      {
+        "title": "Emergence and determination",
+        "body": "Do not fill an unresolved relation merely to make the idea legible. Equally, retain a form genuinely produced by the person, sources or work; reopening it by habit introduces reconstruction. A sketch may develop into a specification through participation. Distinguish a new source determination from the assistant's proposed continuation and preserve the reasons for a deferred direction."
+      },
+      {
+        "title": "Support the field without replacing its form",
+        "body": "Useful assistance may add knowledge, access, means, feedback or a missing competence without prescribing the eventual answer. If a capability already exists, make it participate. Form a new one when a continuing function needs it, then return what the work teaches. A larger tool set or more participants does not by itself create a more capable field."
+      },
+      {
+        "title": "From a signal to a real continuation",
+        "body": "A source can simultaneously teach a method, reveal a domain need and suggest a relationship. Qualify the relevant original context. Prepare substantive work before asking the person to coordinate routine mechanics. When the human alone can perform an account or binding step, identify that concrete step from current qualified information. A saved link or handoff is distinct from actual receipt, action and consequence; an existing recurring activity may already own the continuation."
+      },
+      {
+        "title": "Distinguish a phenomenon from the resolution of its observation",
+        "body": "Apparently identical traces can arise from different states that a representation rounds, aggregates or cannot distinguish. Qualify which measurement and transformation produce the observation and whether missing detail could change the question. Reach data or domain knowledge where that difference matters rather than adding precision without reason. This can open another way of observing without extending a particular scientific result to every process or claiming an unobserved state known."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A team's knowledge suggests a service",
+        "body": "A team asks for a website but already holds a corpus, a support practice and recurring customer questions. The assistant understands those sources before deciding every page. A guided service becomes a possibility alongside the website. It forms the missing delivery questions and a small demonstrable case. The service remains a proposal until its operating and commercial relations are actually determined."
+      },
+      {
+        "title": "A sketch becomes a design conversation",
+        "body": "A person provides an incomplete sketch of a tool. The assistant distinguishes visible geometry from proposed behavior and asks about the interaction that changes use. Design knowledge and the person's correction develop a part specification; a new relation changes the whole. The assistant preserves this progress instead of repeatedly asking for a fully specified initial document."
+      },
+      {
+        "title": "A paper changes the question without taking over the project",
+        "body": "An unexpected paper suggests a method relevant to ongoing research. The assistant reads the actual contribution, distinguishes an analogous relation from independent evidence, and prepares a question or bounded exploration. The existing project direction remains present. Newness alone does not make this paper the next main project; its contribution is retained where it changes the work."
+      },
+      {
+        "title": "Two equal readings open a question about representation",
+        "body": "An educational lab compares two sensors: both displays show 23.4 and the group assumes their readings coincide. Available source values are instead 23.41 and 23.44, rounded to one decimal. The method neither assumes faulty sensors nor calls the display useless: it understands which difference the work must distinguish. For an approximate range, the representation may suffice; for smaller differences, reach qualified measurements and their conditions. The domain owner distinguishes recorded value, resolution, uncertainty and phenomenon. The guide preserves which question makes precision pertinent. This illustrative case does not establish metrological quality, identical physical states or the validity of every recorded digit."
+      }
+    ],
+    "operating_intro": [
+      "# Situated Possibility Formation",
+      "**Discover and develop possibilities for a project**",
+      "A possibility can be another question, relation, method, source, capability or form of organization. Understanding it can change the apparent task itself.",
+      "The current context supplies a starting point. People, competences and newly reached sources can make other relations material while the work develops."
+    ],
+    "operating_method": [
+      {
+        "title": "Enter through the living context",
+        "body": "Understand intent, current work, sources, established decisions and open relations together. A meaningful context can carry direction before a next task is precisely named. Preserve a clear entrusted task and proceed directly when the field is sufficient. For an idea or design, distinguish a property recovered about an existing object from a proposed specification for something being formed. Both can contribute, with their different states retained."
+      },
+      {
+        "title": "Let knowledge change what becomes pertinent",
+        "body": "Notice when the first question selects every source and judges its own completeness. Reach complementary owner-native knowledge that can change the field: purpose, domain, current capability, another person's actual work or a missed relation. Read the pertinent body, beyond its label. An unrepresented relation need not fit the first frame before it can matter. Reuse known competence and let what is learned revise the question and source selection."
+      },
+      {
+        "title": "Change the observation where it reveals a difference",
+        "body": "Keep the selected point and vary the relevant scale, time, source, role or representation when the current position hides a material relation. Preserve what each view actually establishes. A diagram can expose an interface that prose hid; a different role can reveal who needs to decide. A new view is a probe, not proof of its own interpretation. Another pass becomes useful through acquired understanding, without a fixed count of views or alternatives."
+      },
+      {
+        "title": "Develop a constructive bridge",
+        "body": "Form a useful question, exploration, proposal or small enabling action from the changed field. Let people, examples, domain competences and actual means progressively define what is needed. Two representations may carry equivalent, complementary or incompatible functions; understand their reasons before joining them. A potential collaboration can develop both participants' capabilities. Preserve each participant's actual situation instead of treating presumed interest, prestige or silence as consent or rejection."
+      },
+      {
+        "title": "Prepare the following field and act",
+        "body": "Consider what a present choice opens, preserves or removes for later work when that relation matters now. If the current result is sufficient, continue from it; apparent saturation of one frame does not establish the limit of future possibility. Prepare a concrete enabling relation within the selected mandate, or retain the unresolved relation and what could change it. A roadmap is revisable knowledge. A new repository, recurring task, handoff or external contact is formed only when the actual work and available controller make it useful and authorized."
+      },
+      {
+        "title": "Use in the receiving environment",
+        "body": "Use the files, observations and tools actually available for the entrusted work. A chat can reason from supplied material and return a complete note to save. A host with files can keep the competence and project guide reachable. Work through an existing kernel when present; the standalone starter also supplies the method. Ask for a missing relation when it changes a decision, while continuing useful independent work. Instructions do not create accounts, persistent execution, tools or authority over another person’s systems."
+      },
+      {
+        "title": "Learning and continuation",
+        "body": "Preserve the source, reason, relevant conditions, useful result and unresolved relation in the guide or competence that should act differently next time. An occurrence, the understanding available then and present understanding retain their attribution. When knowledge already existed but was not reached, repair its entry instead of duplicating the method. Change the method when a reusable consequence warrants it; otherwise continue without a maintenance ritual. A written correction makes knowledge available. Its participation in a later different case can show learning; the text does not change model weights."
+      },
+      {
+        "title": "Entrusted work and material effects",
+        "body": "Carry out actions already covered by the person’s mandate and the actual environment. A proposed message, preparation, dispatch, receipt, integrated change and observed use are distinct facts. Publication, spending, account changes, sensitive disclosure, installation and changes to another owner follow their specific authority. An unavailable or unselected effect leaves independent understanding and preparation possible."
+      },
+      {
+        "title": "Operating knowledge",
+        "body": "Read OPERATING_GUIDE.md and EXAMPLES.md as part of this method. They carry decision knowledge and worked cases. START_CHAT_EN.txt includes all three bodies for a chat without access to these files."
+      }
+    ]
   },
   "it": {
     "title": "Scoprire e sviluppare possibilità per un progetto",
@@ -76,9 +157,10 @@
       "Il contesto presente offre un punto di partenza. Persone, competenze e nuove fonti possono rendere materiali altre relazioni mentre il lavoro si sviluppa."
     ],
     "examples": [
-      "Riconosce un servizio dal sapere già presente in un gruppo.",
-      "Sviluppa un’idea di prodotto con schizzi e decisioni progressive.",
-      "Coglie una collaborazione utile in una fonte inattesa."
+      "Il sapere del gruppo suggerisce un servizio",
+      "Uno schizzo diventa una conversazione progettuale",
+      "Un paper cambia la domanda senza assorbire il progetto",
+      "Due letture uguali aprono una domanda sulla rappresentazione"
     ],
     "method": [
       {
@@ -127,6 +209,86 @@
       "Conserva ciò che ha cambiato la domanda, la fonte che ha reso comprensibile quella relazione e il luogo in cui la conseguenza utile deve continuare.",
       "Un caso successivo diverso può affinare sia la formazione delle possibilità sia la capacità pratica che ha contribuito a formare."
     ],
-    "operating_guide": "skills/situated-possibility-formation/GUIDA_OPERATIVA_IT.md"
+    "operating_guide": "skills/situated-possibility-formation/GUIDA_OPERATIVA_IT.md",
+    "knowledge": [
+      {
+        "title": "Emersione e determinazione",
+        "body": "Non riempire una relazione aperta soltanto per rendere leggibile l’idea. Conserva anche la forma prodotta realmente da persona, fonti o lavoro: riaprirla per abitudine crea ricostruzione. Uno schizzo può diventare una specifica attraverso la partecipazione. Distingui una determinazione della fonte dal seguito proposto dall’assistente e preserva le ragioni di una direzione differita."
+      },
+      {
+        "title": "Aiutare il campo senza sostituirne la forma",
+        "body": "Un contributo utile può aggiungere sapere, accesso, mezzi, riscontro o una competenza mancante senza prescrivere la risposta finale. Se la capacità esiste, falla partecipare. Formane una nuova quando una funzione continuativa lo richiede e restituisci ciò che il lavoro insegna. Più strumenti o partecipanti non rendono da soli più capace il campo."
+      },
+      {
+        "title": "Dal segnale alla continuazione effettiva",
+        "body": "Una fonte può insegnare un metodo, rivelare un bisogno di dominio e suggerire una relazione. Qualifica il contesto originale pertinente. Prepara lavoro sostanziale prima di chiedere alla persona di coordinare le meccaniche ordinarie. Quando soltanto l’umano può svolgere un passaggio su account o impegni, individua quel passo concreto da informazioni correnti qualificate. Un link o handoff salvato resta distinto da ricezione, azione e conseguenza; un’attività ricorrente esistente può già possedere il seguito."
+      },
+      {
+        "title": "Distinguere il fenomeno dalla risoluzione con cui lo osservi",
+        "body": "Due tracce visivamente uguali possono derivare da stati differenti che la rappresentazione arrotonda, aggrega o non distingue. Qualifica quale misura e trasformazione producono l’osservazione, e se il dettaglio mancante può cambiare la domanda. Raggiungi dati o sapere di dominio quando quella differenza è pertinente; non aggiungere precisione senza ragione. La distinzione può aprire un altro modo di osservare, senza estendere un risultato scientifico particolare a ogni processo o dichiarare noto lo stato non osservato."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Il sapere del gruppo suggerisce un servizio",
+        "body": "Un gruppo chiede un sito, ma possiede già un corpus, una pratica di assistenza e domande ricorrenti dei clienti. L’assistente comprende queste fonti prima di fissare tutte le pagine. Un servizio guidato diventa una possibilità accanto al sito. Forma le domande mancanti sulla consegna e un piccolo caso dimostrabile. Il servizio resta proposto finché non sono determinate le sue relazioni operative e commerciali."
+      },
+      {
+        "title": "Uno schizzo diventa una conversazione progettuale",
+        "body": "Una persona porta uno schizzo incompleto di uno strumento. L’assistente distingue geometria visibile e comportamento proposto e chiede l’interazione che cambia l’uso. Sapere di Design e correzione della persona formano una specifica di parte; una nuova relazione cambia l’insieme. L’assistente conserva il progresso, senza chiedere ripetutamente un documento iniziale già completo."
+      },
+      {
+        "title": "Un paper cambia la domanda senza assorbire il progetto",
+        "body": "Un paper inatteso suggerisce un metodo pertinente a una ricerca in corso. L’assistente legge il contributo effettivo, distingue analogia ed evidenza indipendente e prepara una domanda o esplorazione delimitata. La direzione del progetto rimane presente. La novità non rende da sola il paper il prossimo progetto principale: il contributo continua dove cambia il lavoro."
+      },
+      {
+        "title": "Due letture uguali aprono una domanda sulla rappresentazione",
+        "body": "Un laboratorio didattico confronta due sensori: il display mostra 23,4 per entrambi e il gruppo pensa che le letture coincidano. La fonte disponibile conserva invece 23,41 e 23,44, arrotondati a un decimale. Il metodo non assume un difetto dei sensori e non considera inutile il display: comprende quale differenza il lavoro deve distinguere. Se si vuole mostrare soltanto un intervallo approssimativo, la rappresentazione può bastare; se il confronto riguarda scarti più piccoli, occorre raggiungere la misura qualificata e le sue condizioni. Il responsabile del dominio distingue valore registrato, risoluzione, incertezza e fenomeno. La guida conserva quale domanda rende pertinente la precisione. Il caso è illustrativo e non prova qualità metrologica, stati fisici identici o la validità di ogni cifra registrata."
+      }
+    ],
+    "operating_intro": [
+      "# Situated Possibility Formation",
+      "**Scoprire e sviluppare possibilità per un progetto**",
+      "Una possibilità può essere un’altra domanda, relazione, metodo, fonte, capacità o forma di organizzazione. Comprenderla può cambiare il compito inizialmente rappresentato.",
+      "Il contesto presente offre un punto di partenza. Persone, competenze e nuove fonti possono rendere materiali altre relazioni mentre il lavoro si sviluppa."
+    ],
+    "operating_method": [
+      {
+        "title": "Entrare dal contesto vivo",
+        "body": "Comprendi insieme intento, lavoro corrente, fonti, decisioni acquisite e relazioni aperte. Un contesto significativo può portare direzione prima che il prossimo incarico sia nominato con precisione. Conserva il compito affidato e procedi direttamente quando il campo è sufficiente. Per un’idea o un progetto distingui una proprietà recuperata dell’oggetto esistente da una specifica proposta per ciò che si sta formando. Entrambe possono contribuire mantenendo il proprio statuto."
+      },
+      {
+        "title": "Lasciare che il sapere cambi ciò che diventa pertinente",
+        "body": "Riconosci quando la prima domanda seleziona tutte le fonti e giudica da sola la propria completezza. Raggiungi sapere complementare nei suoi owner: scopo, dominio, capacità corrente, lavoro reale di un’altra persona o relazione trascurata. Leggi il corpo pertinente oltre il nome. Una relazione non rappresentata non deve già rientrare nella prima cornice per poter contare. Riusa competenze presenti e lascia che il sapere cambi domanda e selezione delle fonti."
+      },
+      {
+        "title": "Muovere l’osservazione dove emerge una differenza",
+        "body": "Mantieni il punto selezionato e cambia scala, tempo, fonte, ruolo o rappresentazione quando la posizione corrente nasconde una relazione materiale. Conserva ciò che ciascuna vista stabilisce davvero. Un diagramma può rendere visibile un’interfaccia nascosta dalla prosa; un altro ruolo può mostrare chi deve decidere. La nuova vista è una sonda, non prova della sua stessa interpretazione. Un altro passaggio diventa utile attraverso la comprensione acquisita, senza un numero fisso di viste o alternative."
+      },
+      {
+        "title": "Sviluppare un ponte costruttivo",
+        "body": "Forma una domanda utile, un’esplorazione, una proposta o un piccolo atto abilitante dal campo cambiato. Persone, esempi, competenze di dominio e mezzi reali possono definire progressivamente ciò che serve. Due rappresentazioni possono avere funzioni equivalenti, complementari o incompatibili: comprendi le ragioni prima di unirle. Una collaborazione possibile può sviluppare le capacità di entrambi. Conserva la situazione effettiva di ciascuno, senza scambiare interesse presunto, prestigio o silenzio per consenso o rifiuto."
+      },
+      {
+        "title": "Preparare il campo successivo e agire",
+        "body": "Considera ciò che la scelta presente apre, conserva o elimina per il seguito quando questa relazione conta ora. Se il risultato corrente è sufficiente, prosegui; la saturazione apparente di una cornice non stabilisce il limite delle possibilità future. Prepara una relazione abilitante concreta nel mandato selezionato, oppure conserva ciò che resta aperto e la condizione che può cambiarlo. Una roadmap è sapere rivedibile. Nuova repository, attività ricorrente, handoff o contatto esterno prendono forma quando lavoro, controller effettivo e autorità li rendono utili e possibili."
+      },
+      {
+        "title": "Uso nell’ambiente ricevente",
+        "body": "Usa file, osservazioni e strumenti realmente disponibili per il lavoro affidato. In chat puoi ragionare sui materiali forniti e restituire una nota completa da salvare. Un ambiente con file può mantenere raggiungibili competenza e guida del progetto. Opera attraverso il kernel presente quando esiste; l’avvio autonomo porta comunque il metodo. Chiedi una relazione mancante quando cambia una decisione, continuando il lavoro indipendente utile. Le istruzioni non creano account, esecuzione persistente, strumenti o autorità sui sistemi altrui."
+      },
+      {
+        "title": "Apprendimento e continuazione",
+        "body": "Conserva fonte, ragione, condizioni pertinenti, risultato utile e relazione aperta nella guida o competenza che dovrà operare diversamente. L’accaduto, la comprensione di allora e quella presente mantengono la propria attribuzione. Quando il sapere esisteva ma non era raggiunto, correggi l’ingresso senza duplicare il metodo. Una conseguenza riusabile può cambiare il metodo; altrimenti prosegui senza un rito di manutenzione. La correzione scritta rende disponibile il sapere. La sua partecipazione in un caso successivo diverso può mostrare apprendimento; il testo non cambia i pesi del modello."
+      },
+      {
+        "title": "Lavoro affidato ed effetti materiali",
+        "body": "Svolgi le azioni già coperte dal mandato della persona e dall’ambiente effettivo. Proposta di messaggio, preparazione, invio, ricevuta, modifica integrata e uso osservato sono fatti distinti. Pubblicazione, spesa, modifiche agli account, divulgazione sensibile, installazione e interventi su altri owner seguono la propria autorità. Un effetto non disponibile o non selezionato lascia possibile la comprensione e la preparazione indipendenti."
+      },
+      {
+        "title": "Sapere operativo",
+        "body": "Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md come parte di questo metodo: conservano sapere decisionale e casi sviluppati. AVVIO_CHAT_IT.txt comprende tutti e tre i corpi per una chat senza accesso a questi file."
+      }
+    ]
   }
 }

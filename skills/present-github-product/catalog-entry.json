@@ -1,0 +1,69 @@
+{
+  "id": "presentare-prodotti-su-github",
+  "name": "Present GitHub Product",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "45",
+  "native_entry": "present-github-product",
+  "skill_name": "present-github-product",
+  "source_title": "Present GitHub Product",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "it": {
+      "skill": "skills/present-github-product/SKILL_IT.md",
+      "guide": "skills/present-github-product/README_IT.md",
+      "starter": "skills/present-github-product/AVVIO_CHAT_IT.txt",
+      "examples": "skills/present-github-product/ESEMPI_IT.md",
+      "operating_guide": "skills/present-github-product/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/present-github-product/INSTALL_IT.md",
+      "runtime_sources": []
+    },
+    "en": {
+      "skill": "skills/present-github-product/SKILL.md",
+      "guide": "skills/present-github-product/README.md",
+      "starter": "skills/present-github-product/START_CHAT_EN.txt",
+      "examples": "skills/present-github-product/EXAMPLES.md",
+      "operating_guide": "skills/present-github-product/OPERATING_GUIDE.md",
+      "installation": "skills/present-github-product/INSTALL.md",
+      "runtime_sources": []
+    }
+  },
+  "it": {
+    "title": "Presentare un prodotto GitHub dal lavoro che permette di fare",
+    "subtitle": "Collega README, metadati, prove e primo uso, così chi arriva può capire e iniziare.",
+    "kind": "Metacompetenza",
+    "domain": "Presentazione di prodotti e repository",
+    "does": "Trasforma una repository in una presentazione coerente del prodotto, con capacità reali, prove pertinenti e un primo passo utilizzabile.",
+    "when": "Quando un README è corretto ma chi arriva non capisce il prodotto, il valore nel proprio lavoro o come iniziare.",
+    "examples": [
+      "Uno strumento universitario diventa comprensibile al primo uso",
+      "Un’infrastruttura mostra che cosa sostiene il suo benchmark",
+      "Un metodo educativo si presenta attraverso una lezione"
+    ],
+    "route": "/risorse/presentare-prodotti-su-github/",
+    "description": "Collega README, metadati, prove e primo uso, così chi arriva può capire e iniziare."
+  },
+  "en": {
+    "title": "Present a GitHub product through the work it enables",
+    "subtitle": "Connect README, metadata, evidence and first use so newcomers can understand and begin.",
+    "kind": "Metacompetence",
+    "domain": "Product and repository presentation",
+    "does": "Turns a repository into a coherent product presentation with real capabilities, pertinent evidence and a usable first step.",
+    "when": "When a README is accurate but newcomers cannot understand the product, its relevance to their work or how to begin.",
+    "examples": [
+      "A university tool becomes understandable at first use",
+      "An infrastructure product explains what its benchmark supports",
+      "An educational method presents itself through a lesson"
+    ],
+    "route": "/resources/presentare-prodotti-su-github/",
+    "description": "Connect README, metadata, evidence and first use so newcomers can understand and begin."
+  },
+  "skill": "skills/present-github-product/SKILL.md",
+  "guide": "skills/present-github-product/README.md",
+  "starter": "skills/present-github-product/START_CHAT_EN.txt",
+  "examples": "skills/present-github-product/EXAMPLES.md",
+  "presentation": "skills/present-github-product/presentation.json",
+  "package": "dist/present-github-product-0.1.0.zip"
+}

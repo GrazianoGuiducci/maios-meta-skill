@@ -35,6 +35,11 @@ Una chat può conservare una nota; un progetto con file può usare il proprio CU
 Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto.
 
 
+## Collegare il progetto al sapere che può cambiarne il lavoro
+
+All’ingresso di un progetto raggiungi le competenze e le fonti già pertinenti mentre osservi e scegli il contributo. Il progetto usa il sapere comune e restituisce durante il lavoro la differenza riusabile alle competenze che dovranno agire diversamente. Una conoscenza può cambiare anche quale oggetto riconosci e quale domanda poni; portarla soltanto come informazione in una cornice già fissata può lasciarne intatto il limite. La relazione si esercita nella guida esistente, senza un secondo Boot di controllo o la lettura dell’intero sistema.
+
+
 ## Un ingresso competente collega dominio e sapere più ampio
 
 Un progetto può già avere un kernel, una guida o una nota di lavoro che conosce il proprio oggetto. Raggiungi quel sapere insieme alle competenze complementari prima che una prima risposta generica fissi il metodo. L’intero campo disponibile rimane raggiungibile in profondità, mentre la partecipazione segue ciò che può cambiare questa situazione. Il sapere già operante non richiede caricamenti ripetuti; una richiesta breve e chiara non richiede una seconda preparazione. Se l’ingresso scavalca una capacità conosciuta, correggi quel collegamento anziché formare un altro controller, un modello obbligatorio o una skill duplicata.

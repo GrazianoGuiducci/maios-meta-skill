@@ -1,0 +1,18 @@
+{
+  "source_owner_known": true,
+  "release_owner_known": true,
+  "production_consumer_known": true,
+  "remote_verified_authenticated": true,
+  "source_diff_reviewed": true,
+  "validation_passed": true,
+  "push_effect": "production_bound_push",
+  "source_publication_authorized": true,
+  "runtime_activation_authorized": false,
+  "validator_executes_candidate_code_as_privileged": false,
+  "runtime_drift": false,
+  "rollback_proved": true,
+  "live_identity_verified": false,
+  "human_acceptance_verified": false,
+  "production_source_matches_candidate": true,
+  "runtime_matches_production_source": false
+}

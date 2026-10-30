@@ -17,6 +17,11 @@ Un ingegnere chiede come un assistente conserva i guasti; un responsabile chi de
 Una mappa mette tutte le competenze sotto un controllore centrale, mentre le fonti descrivono partecipazione reciproca situata. Una nota lascerebbe intatta la premessa visiva sbagliata. Recupera il rapporto e ricomponi geometria, verbi e navigazione per mostrare contributi complementari insieme. Osserva la resa e le domande che ora permette. Conserva correzione concettuale e scelta di progettazione visiva presso i rispettivi responsabili per la mappa successiva.
 
 
+## Una segreteria scolastica comprende che cosa delegare all’AI
+
+La presentazione si rivolge a una segreteria che prepara risposte alle famiglie. Parte da un’attività nota: una nuova collega apprende regolamento, calendario e casi con eccezioni. L’esempio chiarisce poi la capacità effettiva dell’assistente: raggiungere le fonti del progetto e proporre una risposta con le ragioni pertinenti. Nella prima configurazione la persona convalida ogni testo; un’altra configurazione potrebbe affidare la preparazione ricorrente dei riepiloghi, conservando un riscontro adeguato. L’invio alle famiglie rimane un effetto con proprio incarico e mezzi. La presentazione distingue il metodo disponibile, la configurazione scelta e ciò che è stato realmente osservato. Il caso permette alla scuola di riconoscere un lavoro e scegliere una prima delega, senza promettere autonomia completa o assimilazione umana del modello.
+
+
 ## Una cooperativa di manutenzione presenta come lavorerà con un assistente
 
 Una cooperativa di manutenzione valuta un assistente per preparare i rapporti d’intervento. Il prototipo effettivo può leggere rapporti forniti, proporre una checklist e conservare nella cartella di progetto una guida di lavoro approvata. La prima spiegazione parte da un’attività familiare: i tecnici apprendono perché una verifica conta e ne portano la ragione nel lavoro successivo. Mostra poi le fonti reali del prototipo e i mezzi che conservano il metodo rivisto.

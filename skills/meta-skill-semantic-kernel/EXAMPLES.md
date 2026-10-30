@@ -20,3 +20,8 @@ A team forms a workshop method from an excellent demonstration. It preserves the
 ## One library project, several contributions
 
 The library brings a teacher’s objective, two permitted excerpts and a librarian’s annotated session plan. Existing educational knowledge helps form a competence for preparing and adapting reading workshops. Its method connects a participant’s interpretation to the next question, rather than prescribing one worksheet. A conversation can use the complete starter and return a revised guide; a file-enabled system can retain the method in the project. The same work may later teach Evolution Guard what changed and Transfer Kernel Potential what another library needs to receive. They participate where their contribution matters, in any useful order.
+
+
+## An archive changes the competence it was about to form
+
+An archive requests a competence that automatically sorts documents by author. A source reached during the work shows that several texts are collective contributions and assigning one author would erase a meaningful relationship. The generator does not merely add an authors field: new knowledge changes the capability’s object, which must now preserve contributions and provenance before choosing classification. It reuses available source and attribution methods and forms only missing operating knowledge. The archive guide keeps the case; the generator learns to notice when a requested criterion assumes an unsupported identity. Another archive can continue with its own valid criterion. The method does not require changing the question in every assignment.

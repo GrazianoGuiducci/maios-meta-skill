@@ -1,6 +1,14 @@
-# Meta-Focus and MPC — source candidates, 30 October 2026
+# Public competence resources — 48 transferable methods
 
-Meta-Focus 0.1.1 deepens reciprocal support between a project and its wider competence field at the actual entry. MPC 0.1.4 connects shared experience, information/method/environment and the human contributions involved in adoption and autonomy. Both languages retain all previous knowledge and three worked cases, with a fourth illustrative case and complete starters. Meta-Focus remains a method in formation. The earlier MKCV 0.1.4, cooperation 0.1.4 and resource formation 0.3.5 candidates are preserved; the other 39 published editions and archives keep their identities. These are source candidates for review, with no site publication or Chat activation selected.
+Four initial editions add source-to-runtime governance, GitHub product presentation, operational noise control and system topology. Each provides English and Italian operating knowledge, complete starters and three developed cases situated beyond MAIOS. Release governance also carries the two read-only validators and their schemas and fictional fixtures; it installs no privileged activator.
+
+Ten existing editions receive operating knowledge: recoverable MKCV video, cooperative reception and effect distinctions, public-method maturity, reciprocal project/system support, adoption, observation resolution and knowledge that can change the point of observation. The 34 other competence editions and package identities are preserved. MKCV remains beta and learning; Meta-Focus remains a method in formation. An edition number does not establish independent use or universal maturity.
+
+This is the source edition. Website publication, request-context consumption, runtime activation and recipient behavior retain their own identities and observations. Examples are illustrative. Use each method independently, compose it with existing project competences or integrate through the actual receiving kernel and tools.
+
+UX-AI Kernel Design 0.3.4 also reconciles older method/starter labels with the kit identity, preserving its operating knowledge.
+
+## Earlier source states
 
 # Public-resource candidates — 30 October 2026
 

@@ -1,0 +1,114 @@
+
+# Present GitHub Product
+
+Trasforma una repository in una presentazione coerente del prodotto, con capacità reali, prove pertinenti e un primo passo utilizzabile.
+
+Una biblioteca di codice può aprirsi con nomi di moduli e note di versione, lasciando invisibile il lavoro che permette di svolgere. Il metodo parte dal prodotto e costruisce il percorso di chi lo incontra.
+
+Identità, prove e azione iniziale rimangono collegate. Una presentazione può essere breve senza ridurre un sistema in evoluzione alla sua ultima demo.
+
+## Uno strumento universitario diventa comprensibile al primo uso
+
+Un gruppo universitario condivide un piccolo strumento per confrontare inventari. Il README descrive le cartelle; gli studenti continuano a chiedere quale comando usare e che cosa ottengono.
+
+La prima lettura deve rendere riconoscibili il confronto degli inventari, il risultato disponibile, le condizioni necessarie e un esempio che si possa davvero eseguire.
+
+## Adattare la presentazione al tuo prodotto
+
+Si conserva il rapporto fra identità del prodotto, lavoro del destinatario, capacità sostenuta dalle fonti e primo gesto disponibile. Cambiano settore, maturità, pubblico e forma della prova.
+
+Porta README e istruzioni del progetto, un caso d’uso reale, installazione, stato e prove. La repository può contenere software, un metodo didattico o una ricerca; la forma segue ciò che il lettore può fare adesso.
+
+## Ricostruire il prodotto prima di riscriverne il README
+
+Leggi istruzioni, stato corrente, licenza, installazione, esempi e fatti posseduti dal prodotto. Comprendi il soggetto intero e quale lavoro rende possibile. Una repository è il suo luogo di consegna, non necessariamente la definizione del prodotto. Conserva la distinzione fra parole dell’autore, interpretazione e risultati osservati.
+
+
+## Scegliere il primo incontro del destinatario
+
+Comprendi chi arriva, che cosa cerca e quale prima azione esiste. Un utilizzatore, chi valuta una dipendenza e una persona che studia il metodo richiedono accessi diversi. Scegli l’ingresso che conserva identità e capacità del prodotto, lasciando raggiungibili profondità e direzione futura. Il beneficio più facile da spiegare non diventa automaticamente l’intero soggetto.
+
+
+## Rendere comprensibile il primo schermo
+
+Nome riconoscibile, effetto concreto, prova o meccanismo pertinente e primo passo devono potersi recuperare prima di una lunga cronologia. Titolo, sottotitolo e attacco identificano lo stesso oggetto. Un’immagine o una demo aiutano quando chiariscono una relazione; badge e aggettivi non sostituiscono quella spiegazione.
+
+
+## Collegare istruzioni e prove al loro risultato
+
+Verifica comandi, percorsi e prerequisiti nella revisione corrente. Spiega input, azione e output atteso. Distingui configurazione locale da attivazione dipendente da account o host. Una demo prova il proprio caso; una matrice di compatibilità dichiarata richiede evidenze pertinenti. Un diagramma di funzionamento previsto non dimostra che quel comportamento sia stato osservato.
+
+
+## Allineare i luoghi che descrivono il prodotto
+
+Confronta README, descrizione About, argomenti, homepage, release, documentazione e primo uso quando fanno parte dell’incarico. Mantieni coerenti identità, versione e capacità. Se il README alimenta manifest o pacchetti, segui quel contratto e rigenera i soli derivati dipendenti. La modifica dei metadati o la pubblicazione conservano la propria autorità.
+
+
+## Osservare la presentazione come lettore e utilizzatore
+
+Leggi il README renderizzato alla larghezza reale, raggiungi prove e avvio e verifica che il primo gesto porti al risultato spiegato. Una persona o AI distinta può rivelare un nesso mancante: conserva ciò che ha visto senza suggerire la risposta. Rilettura dell’autore, verifica dei collegamenti e comprensione di un nuovo lettore hanno portate diverse. Usa il riscontro per correggere il punto in cui il percorso perdeva significato.
+
+## Continuare attraverso il progetto reale
+
+Conserva nel prodotto la ragione dell’ingresso scelto, il primo gesto verificato e il riscontro che può cambiarli.
+
+Restituisci al metodo di presentazione una differenza che aiuta anche un altro prodotto; lascia preferenze e stato temporale presso l’artefatto.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# Present GitHub Product — sapere operativo pratico
+
+## Una forma breve può conservare un prodotto ampio
+
+Distingui nucleo stabile, capacità attuale, primo valore riconoscibile e direzione selezionata. Il primo schermo può scegliere una relazione concreta e rendere raggiungibili le altre. Evita sia di ridurre il prodotto all’ultimo adattatore, sia di chiamare già realizzata una possibilità futura. Gli stati appartengono alle fonti del prodotto, non al tono scelto per il README.
+
+
+## Un avvio deve insegnare il cambiamento che produce
+
+Descrivi il materiale necessario, il comando o gesto, l’output e la condizione che lo rende interpretabile. Se occorre un account, separa quella dipendenza dal passaggio locale già possibile. Se non esiste ancora un percorso utilizzabile, presenta onestamente la ricerca o il candidato e il modo di studiarlo. Non inventare un’installazione per completare una struttura di pagina.
+
+
+## La forma della prova segue l’affermazione
+
+Per uno strumento può essere un input con output riproducibile; per un metodo, un caso sviluppato; per una ricerca, argomento, dati e limiti. Collega la prova accanto alla capacità che sostiene. Stelle, popolarità, screenshot e test verdi non stabiliscono adozione, sicurezza o qualità universale. Un confronto con altre repository insegna una relazione, non la loro sequenza di sezioni.
+
+
+## README e metadati hanno profondità diverse
+
+About permette di riconoscere il prodotto; il README orienta e avvia; documenti focalizzati approfondiscono architettura e sviluppo. I tag aiutano la ricerca senza far diventare una categoria esterna la definizione del progetto. Non serve modificare ogni campo quando il cambiamento riguarda soltanto un comando. Una guida interna può restare interna senza impoverire il sapere necessario al primo uso.
+
+
+## La presentazione impara da un incontro non identico
+
+Se chi legge confonde una demo con l’intero prodotto, correggi la premessa e il percorso, non soltanto un aggettivo. Una preferenza di impaginazione resta legata all’artefatto; una perdita causale che ricompare in un altro tipo di prodotto può affinare questa competenza. Conserva fonte, revisione e domanda realmente emersa nella sede del prodotto.
+
+## La repository diventa un incontro utilizzabile
+
+Il kit trasferisce il metodo di presentazione e casi illustrativi. Non modifica account, About o release per il solo fatto di essere letto o installato.
+
+La qualità cresce quando il prodotto e i suoi lettori rendono riconoscibile un nesso prima mancante. Una pagina valida e una persona che sa iniziare conservano prove proprie.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
+
+## Uno strumento universitario diventa comprensibile al primo uso
+
+Il gruppo riceve richieste ricorrenti su un programma che confronta due inventari. L’AI legge sorgenti e istruzioni e verifica un piccolo input d’esempio. Il README ora presenta il confronto e il file delle differenze prima della struttura delle cartelle. Un esempio mostra due CSV con una voce cambiata, il comando esistente e l’output atteso; la guida completa conserva opzioni e limiti. About descrive lo stesso prodotto e la homepage raggiunge la documentazione corretta. Il caso non promette compatibilità con tutti i formati di inventario. Un nuovo lettore può riconoscere l’azione e controllare il risultato; il gruppo conserva il suo riscontro per migliorare l’ingresso senza riscrivere il programma.
+
+
+## Un’infrastruttura mostra che cosa sostiene il suo benchmark
+
+Una squadra presenta una coda di lavori distribuiti. La demo è rapida, ma il README non spiega quale garanzia di consegna offre. Il metodo raggiunge il contratto del prodotto e apre con funzione, condizioni e comportamento degli errori, poi collega il benchmark alla configurazione effettivamente misurata. Il primo esempio resta locale e spiega ciò che accade dopo una richiesta. Installazione di produzione, account e servizi esterni hanno istruzioni proprie. Il lettore che valuta la dipendenza trova la prova senza scambiarla per una garanzia di ogni carico futuro. Le impostazioni del benchmark non diventano valori di produzione per imitazione.
+
+
+## Un metodo educativo si presenta attraverso una lezione
+
+Una fondazione condivide un metodo di lettura assistita. Il README elenca soltanto i nomi delle competenze. L’AI recupera il sapere disponibile e sviluppa un caso: l’insegnante porta un testo e il tentativo di uno studente; l’assistente sceglie una domanda che ne fa proseguire il ragionamento. Il primo uso richiede quei materiali e conduce al metodo completo, senza installare un servizio. Esempio, finalità educativa e tutela dei dati rimangono espliciti. La presentazione rende comprensibile un cambiamento nel lavoro della docente; non dichiara un miglioramento didattico misurato o un corso già erogato. Un riscontro successivo può modificare sia la spiegazione sia il metodo insegnato.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

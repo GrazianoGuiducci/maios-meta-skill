@@ -1,3 +1,4 @@
+
 # Onto-Skill
 
 Makes a principle operative in the relevant competence and situated ability, from intent, discovery, observation or correction.
@@ -24,23 +25,27 @@ Give your AI the original principle or contribution, a sample of the work and wh
 
 Recover the actual words, who contributed them, what was happening and why the difference mattered. Separate the original contribution from the assistant’s interpretation. A request to keep one report short may concern that encounter; a correction about missing decision reasons can teach a recurring capability. Preserve an unresolved meaning as an open question.
 
+
 ## Find the relation that changes another case
 
 Form the smallest general relation supported by the contribution. Keep the conditions that make it useful. Distinguish a principle from a standing prohibition, an invariant and a preference. Check whether the relevant competence already understands it: when the knowledge exists but did not participate, reconnect its entry instead of duplicating a rule.
+
 
 ## Change the competence’s method
 
 Identify the work that should become different: selecting a source, forming a question, comparing alternatives, constructing an artifact or continuing after an interruption. Let the responsible competence embody the principle in its own decisions and guide. Several owners may need different changes from the same event; preserve their distinct responsibilities.
 
+
 ## Make the ability situated
 
 Understand which actual receiver, knowledge, tools and responsibilities make the ability exercisable. A method may support a chat, a project assistant or a scheduled activity in different ways. Record only the distinction needed for continuation. Writing a skill makes knowledge available; the receiving environment determines whether it can persist changes or perform an external action.
+
 
 ## Let consequences refine the principle
 
 In later work observe what the principle preserved, changed or inadvertently constrained. Keep occurrence, earlier understanding and present understanding distinct. Refine or cool the principle when its relation changes; a different case may reveal better wording or a different consumer. Stop when further generalization adds only ceremony.
 
-## Continue in the project
+## Continue through the actual project
 
 Return source discrimination to this method; return domain decisions to the competence that owns them.
 
@@ -48,56 +53,77 @@ Keep a principle operative while it helps; allow a materially different case to 
 
 ## Operating knowledge
 
-Read OPERATING_GUIDE.md and EXAMPLES.md. Without file access use the complete START_CHAT_EN.txt. Compose pertinent local methods; tools, persistence and authority remain those actually available.
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
 
-# Onto-Skill — operating knowledge
+
+# Onto-Skill — practical operating knowledge
 
 ## Principle, competence and ability
 
 A principle is a transferable relation that changes a class of choices. A competence carries continuing knowledge and method. An ability is their situated exercise through a real receiver and means. Their connection can evolve during work; they are not mandatory serial stages. When the source includes foundational axioms, they retain the authority of their author. Onto-Skill deepens understanding and useful method without silently rewriting those sources.
 
+
 ## The useful continuation
 
 Keep enough to recover source, reason, scope, responsible competence and the choice that should differ. Use an existing guide or knowledge owner. A catalogue of every statement loses the causal relation. If the host cannot save a change, produce a small attributed proposal for the person or receiver that can; a proposed update and a saved update retain separate states.
+
 
 ## Let intent and discovery change work as it forms
 
 An educational intention, a successful example or an unexpected relationship can make a principle pertinent before any error. Understand the source while carrying out the actual assignment. The principle changes which sources, questions and competences participate; it does not suspend the task for a separate approval ritual. A useful outcome may deepen an existing capability, change the question or require no new skill.
 
+
 ## Find the decision that should differ in another case
 
 Name the condition that changes the choice, the competence responsible for it and the reason it matters. Compare a different case in which that condition is absent: preserve the appropriate different action. If existing knowledge already makes that distinction, restore its participation rather than creating another rule. A principle can have several consumers without imposing one identical change on them.
+
 
 ## Preserve the useful scope of a local preference
 
 A one-page board brief suited one encounter. Applying that page limit to a technical recovery guide loses the steps needed to continue. Preserve the original preference and its situation, then let communication and recovery methods carry their own useful forms. The transferable relation concerns what the recipient needs to decide or continue, not a universal page count.
 
+
 ## Connect method, means and durable continuation
 
 Change the responsible competence’s actual source-selection or decision method and preserve the reason in its existing guide. In a file-capable project, save only the authorized local delta; in a chat, return the precise change for the person to retain. Tools, access and authority determine which ability is exercisable. Neither writing an instruction nor drawing an evolving skill changes model weights or configures a persistent service.
+
 
 ## Let the result change how principles are formed
 
 If a principle suppresses a difference that matters in a later case, recover the source and understand why the generalization was too broad. Refine both the domain method and Onto-Skill’s way of recognizing transferable conditions when both need to act differently. Preserve what happened, what was understood then and the changed understanding. A later non-identical use can show how that learning continues.
 
+
+## A principle can make project and system support reciprocal
+
+When a project should operate through available competences, incarnate the principle in its actual entry and source-selection method. Domain differences remain project-owned; a reusable relation can refine the shared knowledge supporting it. If a capability exists but does not participate, repair the connection. If know-how is missing, deepen the competence; if the means cannot perform the action, qualify that condition with the receiver. A reminder or footer alone does not establish participation.
+
 ## The principle also changes how principles are formed
 
 When use reveals that a generalization was too broad or lost its source, Onto-Skill can refine its own recognition method. The correction changes the next act of formation.
 
+
 # Worked examples
 
-Illustrative cases: they teach conditions, choices and continuation; they are not observed customer results.
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## An educational principle forms a new way of helping
 
 A teacher wants AI to help students explain their reasoning. The principle guides the formation of the teaching competence: when facing a problem, the assistant understands the student’s attempt and chooses a question that helps them continue. A direct explanation remains pertinent when a concept needs clarification. The capability grows from educational intent and changes with age, subject and difficulty encountered; the principle retains its reason.
 
+
 ## A discovery changes how requests are handled
 
 A group handles support requests with AI. Two similar reports need different responses because one device is still covered by support and the other is not. The transferable distinction is to understand the condition that changes a decision before reusing an answer. The request-handling competence connects origin, conditions and choice. In a later case with different symptoms but the same condition, it recognizes the useful relationship; service authority stays with its responsible people. This learning can also refine how Onto-Skill looks for generalizable conditions.
+
 
 ## A correction that improves quotations
 
 A studio rejects an AI quotation because the assistant removed the reasons behind two unusual costs. “Keep the reasons for an exception” carries more than a request for a longer document. Recover the original correction and distinguish it from a rule to explain every line item. The quotation competence learns to recognize a departure that could change a client’s decision and keeps its cause beside the amount. In a later small quotation with ordinary costs, the method stays concise. The transferable result is a better discrimination of consequential exceptions.
 
-Assignment and context: add what you want to make possible, sources, previous work, real means and responsible people. Preserve continuation in the project or return it to the person when you cannot save it.
+
+## A library network changes how projects inherit a competence
+
+The network wants local libraries to learn from shared knowledge and return what can help elsewhere. An assistant proposes copying every instruction into each project. Onto-Skill recovers the principle and its reason: make knowledge pertinent while work forms, preserving the ability to improve it. A library’s entry reaches the shared method and its own sources without reading the whole archive. A local case shows that an edition reference omits a different lending condition; that rule remains domain-owned, while the shared method learns to preserve the condition making a reference valid. The network does not assume every library already received the update. This transfers a generative relationship rather than automatic synchronization.
+
+
+My assignment, sources, existing work, available means and requested result:

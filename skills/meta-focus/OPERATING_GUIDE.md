@@ -35,6 +35,11 @@ A chat may retain a note; a file-based project may use its CURRENT or guide; an 
 One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure.
 
 
+## Connect the project to knowledge that could change its work
+
+At project entry, reach pertinent competences and sources while observing and choosing the contribution. The project uses shared knowledge and returns reusable differences during the work to competences that must act differently. Knowledge can also change the object recognized and the question asked; placing it only as information inside a fixed frame can leave that frame’s limit intact. Exercise this relation through the existing guide without a second supervising boot or a reading of the whole system.
+
+
 ## A competent project entry connects domain and wider knowledge
 
 A project may already have a kernel, guide or working note that knows its own object. Reach that knowledge together with complementary competences before a generic first answer fixes the method. The whole available field remains reachable in depth, while participation follows what can change this situation. Familiar knowledge already operating needs no repeated loading; a brief clear task needs no second preparatory stage. If the entry bypasses a known capability, repair that connection instead of forming another controller, compulsory template or duplicate skill.

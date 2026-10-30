@@ -1,0 +1,114 @@
+
+# D-ND Topology Evolution Guard
+
+Ricostruisce le relazioni operative di un sistema e individua differenze di identità, capacità, stato o responsabilità che cambiano il lavoro.
+
+Un’interfaccia nuova può usare lo stesso servizio; un nome rimasto uguale può nascondere un diverso responsabile. Il metodo ricostruisce le relazioni prima di scegliere dove intervenire.
+
+Il risultato può essere una mappa breve, una spiegazione o una proposta mirata. Osservare una differenza non autorizza sincronizzazioni, installazioni o modifiche agli altri sistemi.
+
+## Il portale delle iscrizioni cambia ma le responsabilità restano separate
+
+Una rete di volontari cambia il portale delle iscrizioni. Il sito mostra ancora il vecchio indirizzo e due gruppi credono che l’altro gestisca le conferme.
+
+Occorre collegare il modulo visibile, il servizio che conserva le richieste e il gruppo che può correggere le conferme, senza attribuire poteri dal solo nome del portale.
+
+## Adattare la mappa al tuo sistema
+
+Si conserva la distinzione fra identità, nome, ruolo, interfaccia, fornitore, luogo di esecuzione, fonte dello stato e responsabilità della modifica. Cambiano organizzazioni, strumenti e forme di prova.
+
+Porta la scelta da fare, le descrizioni disponibili e gli accessi di osservazione autorizzati. Un progetto umano, una rete di servizi e un ambiente con assistenti possono richiedere mappe diverse. Non serve creare un registro generale per una relazione già chiara.
+
+## Partire dalla relazione che il lavoro deve comprendere
+
+Riconosci quale decisione o rischio la mappa deve rendere leggibile. Un compito chiaro può procedere direttamente; un’identità incerta richiede fonti ulteriori. Il nome di una cartella, un ramo o l’interfaccia aperta non selezionano da soli l’oggetto della modifica. Un artefatto aperto per osservare un risultato può restare soltanto una prova.
+
+
+## Distinguere entità e ruoli attraverso le fonti correnti
+
+Comprendi chi agisce, su quale superficie, con quale fornitore o host e quale fonte ne conserva lo stato. Una stessa entità può svolgere ruoli diversi; un ruolo può cambiare titolare. Qualifica gli alias e conserva la ragione di un’identità stabile. La vicinanza sul filesystem o una login disponibile non dimostrano un rapporto di proprietà.
+
+
+## Collegare le relazioni che producono l’effetto
+
+Usa verbi comprensibili: ospita, usa, distribuisce, legge lo stato, scrive, osserva o sostituisce. Dichiara chi possiede il significato, lo stato e l’effetto pertinente. Un dashboard può osservare un servizio senza poterlo modificare. La mappa raggiunge il responsabile competente, non ne assorbe tutte le decisioni.
+
+
+## Confrontare capacità dichiarata e possibilità effettiva
+
+Una skill presente, un pacchetto installato, un account accessibile, uno strumento raggiungibile e un’operazione esercitata descrivono situazioni diverse. Confronta soltanto le capacità che cambiano la scelta. Una differenza può essere un’evoluzione valida, una condizione ignota o un disallineamento; il solo scarto fra due ambienti non impone di renderli uguali.
+
+
+## Qualificare il disallineamento e il suo responsabile
+
+Distingui cambiamento d’interfaccia, capacità, stato, autorità, identità, versione attiva o ingresso della competenza. Conserva dichiarazione, osservazione, fonti, impatto e chi può correggere. Nella produzione separa sorgente, avvio del servizio, instradamento e recupero applicativo o infrastrutturale. Ripristinare una macchina non prova di aver recuperato l’applicazione.
+
+
+## Formare una proposta proporzionata e rileggere le conseguenze
+
+Aggiorna la sede topologica esistente quando il mandato comprende quella scrittura, oppure restituisci la proposta a chi la possiede. Qualifica ciò che resta ignoto e l’evento che richiede una nuova osservazione. Una sincronizzazione, un deploy o un cambio di provider hanno un proprio incarico. Se una differenza rivela un limite del metodo, migliora quel metodo; un nuovo alias locale resta nel progetto.
+
+## Continuare attraverso il progetto reale
+
+Conserva la relazione verificata, il responsabile pertinente e la condizione che può renderla superata nella sede già usata dal progetto.
+
+Restituisci una distinzione riusabile al metodo topologico; lascia alias, accessi e stato temporale presso i loro owner.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# D-ND Topology Evolution Guard — sapere operativo pratico
+
+## Un record utile insegna da dove arriva la relazione
+
+Conserva identità, nome comprensibile, ruolo nello scopo presente, superficie, responsabile, fonte e momento dell’osservazione nella misura utile. Una condizione di riesame può essere un cambio di contratto o di servizio, non necessariamente una scadenza fissa. La mappa non deve dichiarare completo ciò che non è stato raggiunto.
+
+
+## Osservare non trasferisce proprietà
+
+Una dashboard, un file esportato o una copia locale possono rendere visibile il risultato di un altro owner. Mantieni quel legame come osservazione. Per una correzione raggiungi la sorgente che produce il dato, salvo un incarico esplicito sulla proiezione. Modificare la copia più vicina può nascondere la causa e venire annullato al prossimo aggiornamento.
+
+
+## La salute della mappa segue una conseguenza concreta
+
+Comprendi se le relazioni decisive hanno una fonte corrente, se le responsabilità sono in conflitto, se una capacità è dichiarata senza riscontro e se il lavoro si può riprendere. Usa una misura soltanto quando orienta una scelta. Un’informazione non verificata può restare ignota senza rendere inutilizzabile tutto il sistema; un solo conflitto sul writer può invece essere decisivo.
+
+
+## Un cambio di interfaccia non è necessariamente un cambio di sistema
+
+Due applicazioni possono usare lo stesso backend o filesystem, con permessi e sessioni differenti. Due ambienti dal nome uguale possono usare release o credenziali diverse. Verifica il nesso pertinente senza ispezionare segreti o profili personali. Un trasferimento di capacità conserva separati package, installazione, discovery, esercizio e apprendimento.
+
+
+## L’evoluzione riguarda un passaggio e un ambiente qualificati
+
+Il metodo può osservare, visualizzare e preparare una proposta senza mutare gli altri sistemi. Una modifica locale selezionata richiede identità e riscontro propri; l’applicazione automatica richiede policy ristretta e recupero esercitati. Non promuovere tutta la mappa ad automazione dal successo di una migrazione. Conserva il sapere generale nella competenza e i nomi temporanei nell’adattatore del progetto.
+
+## La mappa rende possibili interventi mirati
+
+Il kit trasferisce osservazione, confronto e formazione di proposte. Non installa un sincronizzatore, non concede accessi e non controlla i servizi descritti.
+
+Un nuovo evento può cambiare identità, ruoli e fonti pertinenti. La mappa continua attraverso questi riscontri, senza diventare un modello chiuso del sistema.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
+
+## Il portale delle iscrizioni cambia ma le responsabilità restano separate
+
+La rete di volontari affida all’AI la comprensione del nuovo percorso. Le fonti mostrano che il sito pubblico ospita soltanto il collegamento; il nuovo modulo scrive nel servizio del gruppo organizzatore, mentre le email dipendono da un altro servizio. La mappa distingue interfaccia, archivio e invio. Identifica il responsabile del link vecchio e quello delle conferme, conservando la fonte di ciascun rapporto. L’AI prepara due correzioni mirate anziché un cambio generale di piattaforma. La persona può selezionarle presso i rispettivi gruppi; sapere chi gestisce il modulo non conferisce all’AI accesso agli iscritti o permesso di inviare email.
+
+
+## Due interfacce AI non hanno automaticamente le stesse capacità
+
+Un laboratorio apre lo stesso progetto in due applicazioni. Entrambe mostrano il nome della competenza, ma una può leggere i file locali e l’altra riceve soltanto un allegato. Il metodo confronta la capacità utile al compito, non il marchio delle applicazioni: versione del sapere, fonti raggiungibili, strumenti disponibili e autorità sulla scrittura. La prima può mantenere una guida; la seconda restituisce una nota completa che il responsabile conserverà. Nessuna viene dichiarata difettosa dalla sola asimmetria. Il progetto registra la condizione di uso e potrà integrare un adattatore quando esiste un bisogno reale e un incarico adeguato.
+
+
+## Una migrazione universitaria distingue hosting e recupero applicativo
+
+Un dipartimento sposta un servizio di consultazione su un nuovo host. La descrizione del fornitore include snapshot della macchina, ma il database applicativo è gestito altrove. La mappa collega repository, processo di avvio, proxy, database e responsabili del recupero. Prima di proporre l’attivazione, il gruppo qualifica quale versione verrà eseguita e come ripristinare i dati coerenti. La disponibilità dello snapshot infrastrutturale non viene chiamata backup completo dell’applicazione. Il risultato è una proposta di migrazione con una condizione ancora aperta sul database; l’AI non avvia il trasferimento né modifica il provider dal solo lavoro di ricostruzione.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

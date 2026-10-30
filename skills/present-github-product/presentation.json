@@ -1,0 +1,352 @@
+{
+  "it": {
+    "title": "Presentare un prodotto GitHub dal lavoro che permette di fare",
+    "subtitle": "Collega README, metadati, prove e primo uso, così chi arriva può capire e iniziare.",
+    "kind": "Metacompetenza",
+    "domain": "Presentazione di prodotti e repository",
+    "does": "Trasforma una repository in una presentazione coerente del prodotto, con capacità reali, prove pertinenti e un primo passo utilizzabile.",
+    "when": "Quando un README è corretto ma chi arriva non capisce il prodotto, il valore nel proprio lavoro o come iniziare.",
+    "intro": [
+      "Una biblioteca di codice può aprirsi con nomi di moduli e note di versione, lasciando invisibile il lavoro che permette di svolgere. Il metodo parte dal prodotto e costruisce il percorso di chi lo incontra.",
+      "Identità, prove e azione iniziale rimangono collegate. Una presentazione può essere breve senza ridurre un sistema in evoluzione alla sua ultima demo."
+    ],
+    "reader_context": {
+      "title": "Uno strumento universitario diventa comprensibile al primo uso",
+      "situation": "Un gruppo universitario condivide un piccolo strumento per confrontare inventari. Il README descrive le cartelle; gli studenti continuano a chiedere quale comando usare e che cosa ottengono.",
+      "point": "La prima lettura deve rendere riconoscibili il confronto degli inventari, il risultato disponibile, le condizioni necessarie e un esempio che si possa davvero eseguire."
+    },
+    "adaptation": {
+      "title": "Adattare la presentazione al tuo prodotto",
+      "paragraphs": [
+        "Si conserva il rapporto fra identità del prodotto, lavoro del destinatario, capacità sostenuta dalle fonti e primo gesto disponibile. Cambiano settore, maturità, pubblico e forma della prova.",
+        "Porta README e istruzioni del progetto, un caso d’uso reale, installazione, stato e prove. La repository può contenere software, un metodo didattico o una ricerca; la forma segue ciò che il lettore può fare adesso."
+      ]
+    },
+    "method": [
+      {
+        "title": "Ricostruire il prodotto prima di riscriverne il README",
+        "body": "Leggi istruzioni, stato corrente, licenza, installazione, esempi e fatti posseduti dal prodotto."
+      },
+      {
+        "title": "Collegare istruzioni e prove al loro risultato",
+        "body": "Verifica comandi, percorsi e prerequisiti nella revisione corrente."
+      },
+      {
+        "title": "Osservare la presentazione come lettore e utilizzatore",
+        "body": "Leggi il README renderizzato alla larghezza reale, raggiungi prove e avvio e verifica che il primo gesto porti al risultato spiegato."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Ricostruire il prodotto prima di riscriverne il README",
+        "body": "Leggi istruzioni, stato corrente, licenza, installazione, esempi e fatti posseduti dal prodotto. Comprendi il soggetto intero e quale lavoro rende possibile. Una repository è il suo luogo di consegna, non necessariamente la definizione del prodotto. Conserva la distinzione fra parole dell’autore, interpretazione e risultati osservati."
+      },
+      {
+        "title": "Scegliere il primo incontro del destinatario",
+        "body": "Comprendi chi arriva, che cosa cerca e quale prima azione esiste. Un utilizzatore, chi valuta una dipendenza e una persona che studia il metodo richiedono accessi diversi. Scegli l’ingresso che conserva identità e capacità del prodotto, lasciando raggiungibili profondità e direzione futura. Il beneficio più facile da spiegare non diventa automaticamente l’intero soggetto."
+      },
+      {
+        "title": "Rendere comprensibile il primo schermo",
+        "body": "Nome riconoscibile, effetto concreto, prova o meccanismo pertinente e primo passo devono potersi recuperare prima di una lunga cronologia. Titolo, sottotitolo e attacco identificano lo stesso oggetto. Un’immagine o una demo aiutano quando chiariscono una relazione; badge e aggettivi non sostituiscono quella spiegazione."
+      },
+      {
+        "title": "Collegare istruzioni e prove al loro risultato",
+        "body": "Verifica comandi, percorsi e prerequisiti nella revisione corrente. Spiega input, azione e output atteso. Distingui configurazione locale da attivazione dipendente da account o host. Una demo prova il proprio caso; una matrice di compatibilità dichiarata richiede evidenze pertinenti. Un diagramma di funzionamento previsto non dimostra che quel comportamento sia stato osservato."
+      },
+      {
+        "title": "Allineare i luoghi che descrivono il prodotto",
+        "body": "Confronta README, descrizione About, argomenti, homepage, release, documentazione e primo uso quando fanno parte dell’incarico. Mantieni coerenti identità, versione e capacità. Se il README alimenta manifest o pacchetti, segui quel contratto e rigenera i soli derivati dipendenti. La modifica dei metadati o la pubblicazione conservano la propria autorità."
+      },
+      {
+        "title": "Osservare la presentazione come lettore e utilizzatore",
+        "body": "Leggi il README renderizzato alla larghezza reale, raggiungi prove e avvio e verifica che il primo gesto porti al risultato spiegato. Una persona o AI distinta può rivelare un nesso mancante: conserva ciò che ha visto senza suggerire la risposta. Rilettura dell’autore, verifica dei collegamenti e comprensione di un nuovo lettore hanno portate diverse. Usa il riscontro per correggere il punto in cui il percorso perdeva significato."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Una forma breve può conservare un prodotto ampio",
+        "body": "Distingui nucleo stabile, capacità attuale, primo valore riconoscibile e direzione selezionata. Il primo schermo può scegliere una relazione concreta e rendere raggiungibili le altre. Evita sia di ridurre il prodotto all’ultimo adattatore, sia di chiamare già realizzata una possibilità futura. Gli stati appartengono alle fonti del prodotto, non al tono scelto per il README."
+      },
+      {
+        "title": "Un avvio deve insegnare il cambiamento che produce",
+        "body": "Descrivi il materiale necessario, il comando o gesto, l’output e la condizione che lo rende interpretabile. Se occorre un account, separa quella dipendenza dal passaggio locale già possibile. Se non esiste ancora un percorso utilizzabile, presenta onestamente la ricerca o il candidato e il modo di studiarlo. Non inventare un’installazione per completare una struttura di pagina."
+      },
+      {
+        "title": "La forma della prova segue l’affermazione",
+        "body": "Per uno strumento può essere un input con output riproducibile; per un metodo, un caso sviluppato; per una ricerca, argomento, dati e limiti. Collega la prova accanto alla capacità che sostiene. Stelle, popolarità, screenshot e test verdi non stabiliscono adozione, sicurezza o qualità universale. Un confronto con altre repository insegna una relazione, non la loro sequenza di sezioni."
+      },
+      {
+        "title": "README e metadati hanno profondità diverse",
+        "body": "About permette di riconoscere il prodotto; il README orienta e avvia; documenti focalizzati approfondiscono architettura e sviluppo. I tag aiutano la ricerca senza far diventare una categoria esterna la definizione del progetto. Non serve modificare ogni campo quando il cambiamento riguarda soltanto un comando. Una guida interna può restare interna senza impoverire il sapere necessario al primo uso."
+      },
+      {
+        "title": "La presentazione impara da un incontro non identico",
+        "body": "Se chi legge confonde una demo con l’intero prodotto, correggi la premessa e il percorso, non soltanto un aggettivo. Una preferenza di impaginazione resta legata all’artefatto; una perdita causale che ricompare in un altro tipo di prodotto può affinare questa competenza. Conserva fonte, revisione e domanda realmente emersa nella sede del prodotto."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "Uno strumento universitario diventa comprensibile al primo uso",
+        "body": "Il gruppo riceve richieste ricorrenti su un programma che confronta due inventari. L’AI legge sorgenti e istruzioni e verifica un piccolo input d’esempio. Il README ora presenta il confronto e il file delle differenze prima della struttura delle cartelle. Un esempio mostra due CSV con una voce cambiata, il comando esistente e l’output atteso; la guida completa conserva opzioni e limiti. About descrive lo stesso prodotto e la homepage raggiunge la documentazione corretta. Il caso non promette compatibilità con tutti i formati di inventario. Un nuovo lettore può riconoscere l’azione e controllare il risultato; il gruppo conserva il suo riscontro per migliorare l’ingresso senza riscrivere il programma."
+      },
+      {
+        "title": "Un’infrastruttura mostra che cosa sostiene il suo benchmark",
+        "body": "Una squadra presenta una coda di lavori distribuiti. La demo è rapida, ma il README non spiega quale garanzia di consegna offre. Il metodo raggiunge il contratto del prodotto e apre con funzione, condizioni e comportamento degli errori, poi collega il benchmark alla configurazione effettivamente misurata. Il primo esempio resta locale e spiega ciò che accade dopo una richiesta. Installazione di produzione, account e servizi esterni hanno istruzioni proprie. Il lettore che valuta la dipendenza trova la prova senza scambiarla per una garanzia di ogni carico futuro. Le impostazioni del benchmark non diventano valori di produzione per imitazione."
+      },
+      {
+        "title": "Un metodo educativo si presenta attraverso una lezione",
+        "body": "Una fondazione condivide un metodo di lettura assistita. Il README elenca soltanto i nomi delle competenze. L’AI recupera il sapere disponibile e sviluppa un caso: l’insegnante porta un testo e il tentativo di uno studente; l’assistente sceglie una domanda che ne fa proseguire il ragionamento. Il primo uso richiede quei materiali e conduce al metodo completo, senza installare un servizio. Esempio, finalità educativa e tutela dei dati rimangono espliciti. La presentazione rende comprensibile un cambiamento nel lavoro della docente; non dichiara un miglioramento didattico misurato o un corso già erogato. Un riscontro successivo può modificare sia la spiegazione sia il metodo insegnato."
+      }
+    ],
+    "examples": [
+      "Uno strumento universitario diventa comprensibile al primo uso",
+      "Un’infrastruttura mostra che cosa sostiene il suo benchmark",
+      "Un metodo educativo si presenta attraverso una lezione"
+    ],
+    "learning": [
+      "Conserva nel prodotto la ragione dell’ingresso scelto, il primo gesto verificato e il riscontro che può cambiarli.",
+      "Restituisci al metodo di presentazione una differenza che aiuta anche un altro prodotto; lascia preferenze e stato temporale presso l’artefatto."
+    ],
+    "depth": {
+      "title": "La repository diventa un incontro utilizzabile",
+      "paragraphs": [
+        "Il kit trasferisce il metodo di presentazione e casi illustrativi. Non modifica account, About o release per il solo fatto di essere letto o installato.",
+        "La qualità cresce quando il prodotto e i suoi lettori rendono riconoscibile un nesso prima mancante. Una pagina valida e una persona che sa iniziare conservano prove proprie."
+      ]
+    },
+    "use": [
+      {
+        "title": "In una chat",
+        "body": "Fornisci l’avvio completo, il lavoro, le fonti e i mezzi disponibili."
+      },
+      {
+        "title": "In un progetto",
+        "body": "Rendi raggiungibili metodo e guida dall’ingresso già usato dal progetto."
+      }
+    ],
+    "status": {
+      "label": "Metodo operativo",
+      "body": "Edizione iniziale. Casi illustrativi; mezzi ed effetti appartengono al tuo ambiente."
+    }
+  },
+  "en": {
+    "title": "Present a GitHub product through the work it enables",
+    "subtitle": "Connect README, metadata, evidence and first use so newcomers can understand and begin.",
+    "kind": "Metacompetence",
+    "domain": "Product and repository presentation",
+    "does": "Turns a repository into a coherent product presentation with real capabilities, pertinent evidence and a usable first step.",
+    "when": "When a README is accurate but newcomers cannot understand the product, its relevance to their work or how to begin.",
+    "intro": [
+      "A code library can open with module names and release notes while hiding the work it enables. This method begins with the product and forms the newcomer’s path.",
+      "Identity, evidence and first action stay connected. A presentation can be concise without reducing an evolving system to its latest demo."
+    ],
+    "reader_context": {
+      "title": "A university tool becomes understandable at first use",
+      "situation": "A university group shares a small tool for comparing inventories. Its README describes directories; students keep asking which command to run and what they will obtain.",
+      "point": "The first reading should make inventory comparison, available result, required conditions and an executable example recognizable."
+    },
+    "adaptation": {
+      "title": "Adapt the presentation to your product",
+      "paragraphs": [
+        "Preserve the relationship between product identity, the recipient’s work, capability supported by sources and the first available action. Sector, maturity, audience and evidence form vary.",
+        "Bring README, project instructions, an actual use case, installation, state and proof. A repository can carry software, an educational method or research; the form follows what the reader can do now."
+      ]
+    },
+    "method": [
+      {
+        "title": "Recover the product before rewriting its README",
+        "body": "Read instructions, current state, license, installation, examples and product-owned facts."
+      },
+      {
+        "title": "Connect instructions and evidence to their actual result",
+        "body": "Check commands, paths and prerequisites against the current revision."
+      },
+      {
+        "title": "Observe the presentation as reader and user",
+        "body": "Read the rendered README at its actual width, reach evidence and first use and check that the first action produces the explained result."
+      }
+    ],
+    "operating_method": [
+      {
+        "title": "Recover the product before rewriting its README",
+        "body": "Read instructions, current state, license, installation, examples and product-owned facts. Understand the whole subject and the work it enables. A repository is its delivery location, not necessarily the product definition. Keep authorial words, interpretation and observed results distinct."
+      },
+      {
+        "title": "Choose the recipient’s first encounter",
+        "body": "Understand who arrives, what they seek and which first action exists. A user, dependency evaluator and method learner need different entries. Select an encounter preserving product identity and capability while keeping depth and selected direction reachable. The easiest benefit to explain does not automatically become the whole subject."
+      },
+      {
+        "title": "Make the first screen understandable",
+        "body": "A recognizable name, concrete effect, pertinent evidence or mechanism and first step should be recoverable before a long chronology. Title, subtitle and opening identify the same object. An image or demo helps when it explains a relation; badges and adjectives do not replace that explanation."
+      },
+      {
+        "title": "Connect instructions and evidence to their actual result",
+        "body": "Check commands, paths and prerequisites against the current revision. Explain input, action and expected output. Separate local configuration from host- or account-dependent activation. A demo proves its own case; declared compatibility needs pertinent evidence. A diagram of intended operation does not establish observed behavior."
+      },
+      {
+        "title": "Align the places describing the product",
+        "body": "Compare README, About description, topics, homepage, release, documentation and first use where entrusted. Keep identity, version and capability coherent. If the README feeds manifests or packages, follow that contract and regenerate affected derivatives. Metadata mutation and publication retain their own authority."
+      },
+      {
+        "title": "Observe the presentation as reader and user",
+        "body": "Read the rendered README at its actual width, reach evidence and first use and check that the first action produces the explained result. A different person or AI can reveal a missing relationship: retain what they actually saw without suggesting the expected answer. Author rereading, link checking and newcomer understanding have different scopes. Correct the point where the path lost meaning."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "A concise form can preserve a broad product",
+        "body": "Distinguish stable nucleus, present capability, first recognizable value and selected direction. The first screen can choose one concrete relation while keeping others reachable. Avoid reducing a product to its latest adapter or claiming a future possibility already realized. States belong to product sources, not the README’s tone."
+      },
+      {
+        "title": "First use should teach the change it produces",
+        "body": "Explain required material, command or gesture, output and the condition making it interpretable. Separate account-dependent activation from locally available work. If no usable path exists yet, honestly present research or a candidate and how to study it. Do not invent installation to complete a page structure."
+      },
+      {
+        "title": "The form of proof follows the claim",
+        "body": "A tool may use reproducible input/output; a method, a worked case; research, its argument, data and limits. Place evidence beside the capability it supports. Stars, popularity, screenshots and green tests do not establish adoption, security or universal quality. Another repository can teach a relation without donating its section sequence."
+      },
+      {
+        "title": "README and metadata provide different depths",
+        "body": "About helps identify the product; README orients and starts; focused documents deepen architecture and development. Topics aid search without letting an external category define the project. A changed command need not change every field. Internal guidance can remain private while delivering all knowledge needed for first use."
+      },
+      {
+        "title": "Presentation learns through a different encounter",
+        "body": "If a reader mistakes a demo for the entire product, correct the premise and path rather than only an adjective. A layout preference stays artifact-local; a recurring causal loss in another product class may refine this competence. Preserve source, revision and the question actually raised with the product."
+      }
+    ],
+    "worked_examples": [
+      {
+        "title": "A university tool becomes understandable at first use",
+        "body": "The group repeatedly receives questions about a program comparing two inventories. The AI reads source and instructions and checks a small example input. The README now explains comparison and its differences file before directory structure. An example shows two CSV files with a changed item, the existing command and expected output; full guidance retains options and limits. About describes the same product and the homepage reaches the right documentation. The case does not promise support for every inventory format. A newcomer can recognize the action and check its result; the group retains feedback to refine the entry without rewriting the program."
+      },
+      {
+        "title": "An infrastructure product explains what its benchmark supports",
+        "body": "A team presents a distributed job queue. Its demo is fast, but the README does not explain its delivery guarantee. The method reaches the product contract and opens with function, conditions and failure behavior, then ties the benchmark to the configuration actually measured. First use remains local and explains what follows a request. Production installation, accounts and external services have their own guidance. A dependency evaluator finds evidence without treating it as a guarantee for every future workload. Benchmark settings do not become production defaults by imitation."
+      },
+      {
+        "title": "An educational method presents itself through a lesson",
+        "body": "A foundation shares an assisted-reading method. Its README only lists competence names. The AI reaches available knowledge and develops a case: the teacher supplies a text and a student’s attempt; the assistant chooses a question that helps the student continue reasoning. First use requests those materials and reaches the complete method without installing a service. Example status, educational purpose and data protection stay explicit. Presentation makes a change in the teacher’s work recognizable; it claims neither measured educational improvement nor an already delivered course. A later observation can change both explanation and the taught method."
+      }
+    ],
+    "examples": [
+      "A university tool becomes understandable at first use",
+      "An infrastructure product explains what its benchmark supports",
+      "An educational method presents itself through a lesson"
+    ],
+    "learning": [
+      "Keep the reason for the selected entry, verified first action and feedback that could change them with the product.",
+      "Return a difference useful to another product to the presentation method; keep preferences and temporal state with the artifact."
+    ],
+    "depth": {
+      "title": "The repository becomes a usable encounter",
+      "paragraphs": [
+        "The kit transfers a presentation method and illustrative cases. Reading or installing it does not mutate accounts, About fields or releases.",
+        "Quality grows when the product and its readers reveal a previously missing relationship. A valid page and a person able to begin have their own evidence."
+      ]
+    },
+    "use": [
+      {
+        "title": "In a chat",
+        "body": "Supply the complete starter, your work, sources and available means."
+      },
+      {
+        "title": "In a project",
+        "body": "Keep the complete method and guide reachable through the project’s own entry."
+      }
+    ],
+    "status": {
+      "label": "Operating method",
+      "body": "Initial edition. Cases are illustrative; tools and effects belong to your environment."
+    }
+  },
+  "related": [
+    "formare-risorse-pubbliche",
+    "titoli-e-sottotitoli",
+    "presentare-sistemi-in-evoluzione"
+  ],
+  "showcase": {
+    "type": "present-github-product",
+    "it": {
+      "title": "Uno strumento universitario diventa comprensibile al primo uso",
+      "states": [
+        [
+          "Situazione",
+          "Uno strumento universitario diventa comprensibile al primo uso",
+          "Un gruppo universitario condivide un piccolo strumento per confrontare inventari. Il README descrive le cartelle; gli studenti continuano a chiedere quale comando usare e che cosa ottengono."
+        ],
+        [
+          "Scelta",
+          "Collegare istruzioni e prove al loro risultato",
+          "La prima lettura deve rendere riconoscibili il confronto degli inventari, il risultato disponibile, le condizioni necessarie e un esempio che si possa davvero eseguire."
+        ],
+        [
+          "Seguito",
+          "Osservare la presentazione come lettore e utilizzatore",
+          "Conserva nel prodotto la ragione dell’ingresso scelto, il primo gesto verificato e il riscontro che può cambiarli."
+        ]
+      ],
+      "caption": "Caso illustrativo: le scelte spiegano il metodo, senza operare su servizi reali.",
+      "diagram": {
+        "nodes": [
+          "Lavoro del lettore",
+          "README e About",
+          "Primo risultato",
+          "Riscontro del lettore"
+        ],
+        "relations": [
+          "orienta",
+          "rende avviabile",
+          "rende osservabile",
+          "affina la spiegazione"
+        ],
+        "description": "La presentazione collega il lavoro del lettore al primo risultato e apprende dal riscontro.",
+        "reading": [
+          "README e About rendono riconoscibile lo stesso prodotto.",
+          "Il primo gesto produce un risultato spiegato e qualificato.",
+          "Le domande del lettore affinano l’ingresso e i rinvii."
+        ]
+      }
+    },
+    "en": {
+      "title": "A university tool becomes understandable at first use",
+      "states": [
+        [
+          "Situation",
+          "A university tool becomes understandable at first use",
+          "A university group shares a small tool for comparing inventories. Its README describes directories; students keep asking which command to run and what they will obtain."
+        ],
+        [
+          "Choice",
+          "Connect instructions and evidence to their actual result",
+          "The first reading should make inventory comparison, available result, required conditions and an executable example recognizable."
+        ],
+        [
+          "Continuation",
+          "Observe the presentation as reader and user",
+          "Keep the reason for the selected entry, verified first action and feedback that could change them with the product."
+        ]
+      ],
+      "caption": "Illustrative case: the choices explain the method without operating on real services.",
+      "diagram": {
+        "nodes": [
+          "Reader’s work",
+          "README and About",
+          "First result",
+          "Reader’s feedback"
+        ],
+        "relations": [
+          "orients",
+          "makes usable",
+          "makes observable",
+          "refines explanation"
+        ],
+        "description": "Presentation connects the reader’s work to a first result and learns from feedback.",
+        "reading": [
+          "README and About identify the same product.",
+          "The first action produces an explained, qualified result.",
+          "Reader questions refine the entry and deeper routes."
+        ]
+      }
+    }
+  }
+}

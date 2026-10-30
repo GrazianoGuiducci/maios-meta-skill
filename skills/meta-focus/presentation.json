@@ -54,10 +54,6 @@
         "body": "Read the operating body and practical knowledge of pertinent competences while forming the question and action. Describe an actual contribution when continuation needs it; a nearby or still-to-be-acquired capability retains that state. A list of names does not prove consultation, installation or exercise. Domain method stays with its competent owner even when several specialisms contribute to one work."
       },
       {
-        "title": "Let the project participate in the wider competence field from its entry",
-        "body": "Begin from the project’s own purpose, current guide and domain knowledge, with the shared competences that can change its first question or action. Their knowledge supports the work as it forms; a later correction is not their only occasion to participate. Use an existing competent entry directly. Restore a missing route when knowledge is already available, or deepen the responsible competence when know-how is missing. Let project experience return reusable differences to their actual owners, and make the evolved knowledge reachable to the project through its real receiving entry."
-      },
-      {
         "title": "Connect actual tools and entrusted effects",
         "body": "Understand which sources and tools the receiver can reach and which actions it has been entrusted to perform. A readable guide does not grant control of the service it describes. Identify the missing condition for a concrete action and continue independent work. A shared file preserves information but does not automatically notify or wake another person or AI."
       },
@@ -72,6 +68,10 @@
       {
         "title": "Continue results and learning in their respective homes",
         "body": "When a material difference changes the work, retain its source, acquired understanding, result, actual state and next movement or resumption condition. A method correction returns to the competence that must act differently; the margin keeps the connection. Prepared, written, received, exercised and assimilated are different facts. Stop when another passage changes no useful relationship, without producing updates to fill a quota."
+      },
+      {
+        "title": "Let the project participate in the wider competence field from its entry",
+        "body": "Begin from the project’s own purpose, current guide and domain knowledge, with the shared competences that can change its first question or action. Their knowledge supports the work as it forms; a later correction is not their only occasion to participate. Use an existing competent entry directly. Restore a missing route when knowledge is already available, or deepen the responsible competence when know-how is missing. Let project experience return reusable differences to their actual owners, and make the evolved knowledge reachable to the project through its real receiving entry."
       }
     ],
     "knowledge": [
@@ -104,6 +104,10 @@
         "body": "One event may change domain knowledge, how a method is formed and the connection that previously left a competence unreachable. Keep the event at its source and return only the difference that changes each responsible owner’s work. If the knowledge already existed but did not participate, correct its entry; repeating the same note across every competence does not repair that failure."
       },
       {
+        "title": "Connect the project to knowledge that could change its work",
+        "body": "At project entry, reach pertinent competences and sources while observing and choosing the contribution. The project uses shared knowledge and returns reusable differences during the work to competences that must act differently. Knowledge can also change the object recognized and the question asked; placing it only as information inside a fixed frame can leave that frame’s limit intact. Exercise this relation through the existing guide without a second supervising boot or a reading of the whole system."
+      },
+      {
         "title": "A competent project entry connects domain and wider knowledge",
         "body": "A project may already have a kernel, guide or working note that knows its own object. Reach that knowledge together with complementary competences before a generic first answer fixes the method. The whole available field remains reachable in depth, while participation follows what can change this situation. Familiar knowledge already operating needs no repeated loading; a brief clear task needs no second preparatory stage. If the entry bypasses a known capability, repair that connection instead of forming another controller, compulsory template or duplicate skill."
       },
@@ -124,6 +128,10 @@
       {
         "title": "Resume an experiment when the available instrument changes",
         "body": "A research group retains a question and an experiment paused because of a measurement limit. After an interruption, a collaboration makes a different instrument available. The AI reads the working guide, the reason for pausing and actual access conditions. The researcher understands that a different question is now useful instead of merely repeating the old plan. Focus connects the new object to pertinent scientific knowledge, the instrument’s owner and necessary analysis. The guide retains the proposed experiment and what remains to be agreed. The continuity method learns which reason the former summary omitted; scientific knowledge stays in its domain. Announced access, a planned experiment and an observed measurement retain distinct states. Reentry uses acquired understanding in the present instead of turning a deduction from the old plan into an obligation."
+      },
+      {
+        "title": "Shared knowledge changes both the project and its common method",
+        "body": "A cooperative maintains equipment at several sites. A new assignment appears to ask for guide reorganization, but its entry reaches shared knowledge about responsibility and maintenance. Sources show that the same spare-part label refers to two different components: the useful question becomes which identification technicians need before intervention. The project keeps that technical distinction and involves its competent owner. The shared continuity method receives a smaller lesson: retain component identity with the reason for a reference where that difference changes the next action. The project guide reaches both contributions without copying them into every file. System and project support each other; writing the guide does not install its method at every site or in future assistants."
       },
       {
         "title": "A research archive teaches the methods that support it",
@@ -159,11 +167,13 @@
     "examples": [
       "A new room recomposes the exhibition’s work",
       "Two assistants change different contributions to one manual",
-      "Resume an experiment when the available instrument changes"
+      "Resume an experiment when the available instrument changes",
+      "Shared knowledge changes both the project and its common method",
+      "A research archive teaches the methods that support it"
     ],
     "status": {
       "label": "Method in formation",
-      "body": "The method is still forming. Cases are illustrative; use across receiving environments requires its own observations."
+      "body": "Updated edition. The method remains in formation; cases are illustrative."
     }
   },
   "it": {
@@ -221,10 +231,6 @@
         "body": "Leggi corpo e sapere pratico delle competenze pertinenti mentre formi domanda e azione. Descrivi il contributo effettivo quando serve alla continuazione; una capacità vicina o da acquisire conserva quello stato. Un elenco di nomi non prova consultazione, installazione o esercizio. Il metodo di un dominio resta presso chi lo conosce, anche quando più specializzazioni contribuiscono alla stessa opera."
       },
       {
-        "title": "Far partecipare il progetto al campo competente fin dal suo ingresso",
-        "body": "Parti da scopo, guida corrente e sapere di dominio del progetto, insieme alle competenze condivise che possono cambiare la prima domanda o azione. Il loro sapere sostiene il lavoro mentre si forma; una correzione successiva non è l’unica occasione di partecipazione. Usa direttamente un ingresso già competente. Ripristina il richiamo se il sapere è disponibile, oppure approfondisci la competenza responsabile se manca il saper fare. L’esperienza del progetto restituisce le differenze riusabili ai loro owner, e il sapere evoluto torna raggiungibile attraverso l’ingresso effettivo del ricevente."
-      },
-      {
         "title": "Collegare strumenti reali ed effetti affidati",
         "body": "Comprendi quali fonti e strumenti il ricevente può raggiungere e quali azioni gli sono state affidate. Una guida leggibile non conferisce controllo sul servizio che descrive. Identifica la condizione mancante per un’azione concreta e continua il lavoro indipendente. Un file condiviso conserva informazioni ma non notifica o risveglia automaticamente un’altra persona o AI."
       },
@@ -239,6 +245,10 @@
       {
         "title": "Far continuare risultato e apprendimento nei rispettivi luoghi",
         "body": "Quando una differenza materiale cambia il lavoro, conserva fonte, ciò che è stato compreso, risultato, stato effettivo e prossimo gesto o condizione di ripresa. La correzione di un metodo torna alla competenza che deve agire diversamente; il margine lascia il collegamento. Preparato, scritto, ricevuto, esercitato e assimilato sono fatti distinti. Se un altro passaggio non cambia una relazione utile, fermati senza produrre un aggiornamento per quota."
+      },
+      {
+        "title": "Far partecipare il progetto al campo competente fin dal suo ingresso",
+        "body": "Parti da scopo, guida corrente e sapere di dominio del progetto, insieme alle competenze condivise che possono cambiare la prima domanda o azione. Il loro sapere sostiene il lavoro mentre si forma; una correzione successiva non è l’unica occasione di partecipazione. Usa direttamente un ingresso già competente. Ripristina il richiamo se il sapere è disponibile, oppure approfondisci la competenza responsabile se manca il saper fare. L’esperienza del progetto restituisce le differenze riusabili ai loro owner, e il sapere evoluto torna raggiungibile attraverso l’ingresso effettivo del ricevente."
       }
     ],
     "knowledge": [
@@ -271,6 +281,10 @@
         "body": "Lo stesso evento può cambiare la conoscenza del dominio, il modo di formare il metodo e il collegamento che rendeva irraggiungibile una competenza. Conserva l’evento presso la fonte e restituisci a ciascun responsabile solo la differenza che cambia il suo lavoro. Se il sapere esisteva già ma non partecipava, correggi l’ingresso; ripetere la stessa nota in tutte le competenze non risolve quel difetto."
       },
       {
+        "title": "Collegare il progetto al sapere che può cambiarne il lavoro",
+        "body": "All’ingresso di un progetto raggiungi le competenze e le fonti già pertinenti mentre osservi e scegli il contributo. Il progetto usa il sapere comune e restituisce durante il lavoro la differenza riusabile alle competenze che dovranno agire diversamente. Una conoscenza può cambiare anche quale oggetto riconosci e quale domanda poni; portarla soltanto come informazione in una cornice già fissata può lasciarne intatto il limite. La relazione si esercita nella guida esistente, senza un secondo Boot di controllo o la lettura dell’intero sistema."
+      },
+      {
         "title": "Un ingresso competente collega dominio e sapere più ampio",
         "body": "Un progetto può già avere un kernel, una guida o una nota di lavoro che conosce il proprio oggetto. Raggiungi quel sapere insieme alle competenze complementari prima che una prima risposta generica fissi il metodo. L’intero campo disponibile rimane raggiungibile in profondità, mentre la partecipazione segue ciò che può cambiare questa situazione. Il sapere già operante non richiede caricamenti ripetuti; una richiesta breve e chiara non richiede una seconda preparazione. Se l’ingresso scavalca una capacità conosciuta, correggi quel collegamento anziché formare un altro controller, un modello obbligatorio o una skill duplicata."
       },
@@ -291,6 +305,10 @@
       {
         "title": "Riprendere un esperimento quando cambia lo strumento disponibile",
         "body": "Un gruppo di ricerca conserva una domanda e una prova sospesa per un limite di misura. Dopo un’interruzione, una collaborazione mette a disposizione un altro strumento. L’AI legge la guida del lavoro, il motivo della sospensione e le condizioni reali di accesso. Il ricercatore comprende che ora conviene porre una domanda diversa, invece di ripetere il vecchio piano. Il focus collega il nuovo oggetto al sapere scientifico pertinente, al responsabile dello strumento e all’analisi necessaria. La guida conserva la proposta di esperimento e ciò che resta da concordare. Il metodo di continuità impara quale ragione mancava nel precedente riassunto; il sapere scientifico rimane nel suo dominio. Accesso annunciato, esperimento pianificato e misura osservata mantengono stati distinti. La ripresa usa il compreso nel presente e non trasforma una deduzione dal vecchio piano in un obbligo."
+      },
+      {
+        "title": "Un principio condiviso cambia il progetto e il metodo comune",
+        "body": "Una cooperativa mantiene attrezzature in sedi diverse. Il nuovo incarico sembra richiedere di riordinare una guida, ma l’ingresso raggiunge il sapere comune su responsabilità e manutenzione. Le fonti mostrano che la stessa parola ricambio indica due componenti differenti: la domanda utile diventa quale identificazione serva ai tecnici prima dell’intervento. Il progetto conserva la distinzione tecnica e coinvolge chi possiede quel sapere. Il metodo comune di continuità riceve invece una lezione più piccola: conservare l’identità del componente insieme alla ragione del rinvio, quando quella differenza cambia il prossimo gesto. La guida del progetto raggiunge entrambi i contributi senza copiarli in ogni file. Sistema e progetto si sostengono reciprocamente; una scrittura nella guida non installa il metodo in tutte le sedi o negli assistenti futuri."
       },
       {
         "title": "Un archivio di ricerca fa evolvere i metodi che lo sostengono",
@@ -326,11 +344,13 @@
     "examples": [
       "Una nuova sala ricompone il lavoro della mostra",
       "Due assistenti modificano contributi diversi allo stesso manuale",
-      "Riprendere un esperimento quando cambia lo strumento disponibile"
+      "Riprendere un esperimento quando cambia lo strumento disponibile",
+      "Un principio condiviso cambia il progetto e il metodo comune",
+      "Un archivio di ricerca fa evolvere i metodi che lo sostengono"
     ],
     "status": {
       "label": "Metodo in formazione",
-      "body": "Il metodo resta in formazione. I casi sono illustrativi; l’uso nei diversi ambienti richiede osservazioni proprie."
+      "body": "Edizione aggiornata. Il metodo resta in formazione; i casi sono illustrativi."
     }
   },
   "showcase": {

@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**44 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**48 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -16,7 +16,7 @@ Scegli una risorsa e copia o allega tutto AVVIO_CHAT_IT.txt alla tua AI. Aggiung
 
 Scarica il kit e copia l'intera cartella canonica in `.agents/skills/` del progetto, oppure seleziona i kit con `python tools/install_skills.py`. La [guida d'installazione](docs/INSTALL_IT.md) spiega percorsi, cartelle esistenti, discovery, primo uso e aggiornamenti. L'installer richiede una destinazione esplicita e non sovrascrive skill esistenti.
 
-La directory `skills/` contiene i 44 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
+La directory `skills/` contiene i 48 ingressi operativi. Gli [ID precedenti](docs/LEGACY_PATHS.md) restano utilizzabili nell'installer e nelle rotte del sito.
 
 Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).
 
@@ -72,12 +72,16 @@ La raccolta comprende competenze, metacompetenze, funzioni e fondamenti, senza u
 | [Film Montage](skills/film-montage/README_IT.md) | Forma significato cinematografico attraverso relazioni fra inquadrature, durate, suono e transizioni, conservando fonte e conseguenze della scena. | Competenza di composizione temporale |
 | [System Fundable Project Extraction](skills/system-fundable-project-extraction/README_IT.md) | Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore. | Metacompetenza generativa |
 | [Meta-Focus](skills/meta-focus/README_IT.md) | Forma un orientamento condiviso per un lavoro complesso, collegando scopo, responsabili, conoscenze, mezzi e prossimo contributo utile. | Metacompetenza |
+| [Govern Source to Runtime](skills/govern-source-to-runtime/README_IT.md) | Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone. | Metacompetenza |
+| [Present GitHub Product](skills/present-github-product/README_IT.md) | Trasforma una repository in una presentazione coerente del prodotto, con capacità reali, prove pertinenti e un primo passo utilizzabile. | Metacompetenza |
+| [D-ND Operational Noise Controller](skills/dnd-operational-noise-controller/README_IT.md) | Riduce il costo ripetuto di ritrovare decisioni, fonti e seguito, conservando prove, incertezze e possibilità utili. | Metacompetenza |
+| [D-ND Topology Evolution Guard](skills/dnd-topology-evolution-guard/README_IT.md) | Ricostruisce le relazioni operative di un sistema e individua differenze di identità, capacità, stato o responsabilità che cambiano il lavoro. | Metacompetenza |
 
 ## Comporre le capacità
 
 Puoi insegnare un lavoro collegando formazione delle competenze, esempi e conservazione del sapere; sviluppare possibilità collegando metodo, ricerca e attività; continuare un progetto conservando ragioni ed eventi; coordinare contributi fra assistenti attraverso fonti e continuità. Sono possibilità da comporre nel contesto, non pipeline obbligatorie.
 
-Con un kernel esistente integra il contributo nelle competenze e guide già utili. Senza kernel applica direttamente il metodo. Non occorre caricare tutte le 44 risorse per ogni incarico. Strumenti, persistenza, account e risvegli dipendono dall’ambiente reale; il testo non li configura.
+Con un kernel esistente integra il contributo nelle competenze e guide già utili. Senza kernel applica direttamente il metodo. Non occorre caricare tutte le 48 risorse per ogni incarico. Strumenti, persistenza, account e risvegli dipendono dall’ambiente reale; il testo non li configura.
 
 ## Edizioni e apprendimento
 

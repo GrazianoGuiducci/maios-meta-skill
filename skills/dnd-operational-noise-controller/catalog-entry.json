@@ -1,0 +1,69 @@
+{
+  "id": "ridurre-rumore-operativo",
+  "name": "D-ND Operational Noise Controller",
+  "version": "0.1.0",
+  "state": "public_edition",
+  "instruction_language": "en",
+  "review_id": "46",
+  "native_entry": "dnd-operational-noise-controller",
+  "skill_name": "dnd-operational-noise-controller",
+  "source_title": "D-ND Operational Noise Controller",
+  "default_language": "en",
+  "license": "Apache-2.0",
+  "languages": {
+    "it": {
+      "skill": "skills/dnd-operational-noise-controller/SKILL_IT.md",
+      "guide": "skills/dnd-operational-noise-controller/README_IT.md",
+      "starter": "skills/dnd-operational-noise-controller/AVVIO_CHAT_IT.txt",
+      "examples": "skills/dnd-operational-noise-controller/ESEMPI_IT.md",
+      "operating_guide": "skills/dnd-operational-noise-controller/GUIDA_OPERATIVA_IT.md",
+      "installation": "skills/dnd-operational-noise-controller/INSTALL_IT.md",
+      "runtime_sources": []
+    },
+    "en": {
+      "skill": "skills/dnd-operational-noise-controller/SKILL.md",
+      "guide": "skills/dnd-operational-noise-controller/README.md",
+      "starter": "skills/dnd-operational-noise-controller/START_CHAT_EN.txt",
+      "examples": "skills/dnd-operational-noise-controller/EXAMPLES.md",
+      "operating_guide": "skills/dnd-operational-noise-controller/OPERATING_GUIDE.md",
+      "installation": "skills/dnd-operational-noise-controller/INSTALL.md",
+      "runtime_sources": []
+    }
+  },
+  "it": {
+    "title": "Ridurre il rumore informativo senza perdere le ragioni del lavoro",
+    "subtitle": "Seleziona le fonti che cambiano una scelta e conserva il resto raggiungibile, senza ripetere ogni volta la ricostruzione.",
+    "kind": "Metacompetenza",
+    "domain": "Attenzione, conoscenza e continuità",
+    "does": "Riduce il costo ripetuto di ritrovare decisioni, fonti e seguito, conservando prove, incertezze e possibilità utili.",
+    "when": "Quando guide, file, messaggi o risultati generati rendono lenta la ripresa e non è più chiaro quale fonte governi la scelta attuale.",
+    "examples": [
+      "Riprendere un laboratorio senza rileggere tutti i verbali",
+      "Una ricerca mantiene i dati profondi fuori dal primo ingresso",
+      "Una squadra distingue il rilascio dai residui del prototipo"
+    ],
+    "route": "/risorse/ridurre-rumore-operativo/",
+    "description": "Seleziona le fonti che cambiano una scelta e conserva il resto raggiungibile, senza ripetere ogni volta la ricostruzione."
+  },
+  "en": {
+    "title": "Reduce information noise without losing the reasons for the work",
+    "subtitle": "Select sources that can change a choice and keep the rest reachable, avoiding repeated reconstruction.",
+    "kind": "Metacompetence",
+    "domain": "Attention, knowledge and continuity",
+    "does": "Reduces the repeated cost of recovering decisions, sources and continuation while preserving evidence, uncertainty and useful possibilities.",
+    "when": "When guides, files, messages or generated results make resumption slow and it is unclear which source governs the current choice.",
+    "examples": [
+      "Resume a workshop without rereading every minute",
+      "Research keeps deep data outside the first entry",
+      "A team separates its release from prototype residue"
+    ],
+    "route": "/resources/ridurre-rumore-operativo/",
+    "description": "Select sources that can change a choice and keep the rest reachable, avoiding repeated reconstruction."
+  },
+  "skill": "skills/dnd-operational-noise-controller/SKILL.md",
+  "guide": "skills/dnd-operational-noise-controller/README.md",
+  "starter": "skills/dnd-operational-noise-controller/START_CHAT_EN.txt",
+  "examples": "skills/dnd-operational-noise-controller/EXAMPLES.md",
+  "presentation": "skills/dnd-operational-noise-controller/presentation.json",
+  "package": "dist/dnd-operational-noise-controller-0.1.0.zip"
+}

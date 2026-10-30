@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://d-nd.com/schemas/govern-source-to-runtime/release-context.v0.json",
+  "title": "Source-to-runtime release context",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_owner_known",
+    "release_owner_known",
+    "production_consumer_known",
+    "remote_verified_authenticated",
+    "source_diff_reviewed",
+    "validation_passed",
+    "push_effect",
+    "source_publication_authorized",
+    "runtime_activation_authorized",
+    "validator_executes_candidate_code_as_privileged",
+    "runtime_drift",
+    "rollback_proved",
+    "live_identity_verified",
+    "human_acceptance_verified"
+  ],
+  "properties": {
+    "source_owner_known": {"type": "boolean"},
+    "release_owner_known": {"type": "boolean"},
+    "production_consumer_known": {"type": "boolean"},
+    "remote_verified_authenticated": {"type": "boolean"},
+    "source_diff_reviewed": {"type": "boolean"},
+    "validation_passed": {"type": "boolean"},
+    "push_effect": {
+      "enum": ["local_source", "source_remote_only", "production_bound_push"]
+    },
+    "source_publication_authorized": {"type": "boolean"},
+    "runtime_activation_authorized": {"type": "boolean"},
+    "validator_executes_candidate_code_as_privileged": {"type": "boolean"},
+    "runtime_drift": {"type": "boolean"},
+    "rollback_proved": {"type": "boolean"},
+    "production_source_matches_candidate": {"type": ["boolean", "null"]},
+    "runtime_matches_production_source": {"type": ["boolean", "null"]},
+    "live_identity_verified": {"type": "boolean"},
+    "human_acceptance_verified": {"type": "boolean"}
+  }
+}

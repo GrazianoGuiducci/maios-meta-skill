@@ -1,7 +1,7 @@
 {
   "id": "presentare-sistemi-in-evoluzione",
   "name": "MAIOS Presentation Competence",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "37",
@@ -35,7 +35,7 @@
   "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
   "examples": "skills/maios-presentation-competence/EXAMPLES.md",
   "presentation": "skills/maios-presentation-competence/presentation.json",
-  "package": "dist/maios-presentation-competence-0.1.4.zip",
+  "package": "dist/maios-presentation-competence-0.1.5.zip",
   "en": {
     "title": "Present a complex system’s capabilities and operation",
     "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -46,7 +46,8 @@
     "examples": [
       "A first encounter with MAIOS",
       "One system, different useful entrances",
-      "A diagram reveals a conceptual error"
+      "A diagram reveals a conceptual error",
+      "A school office understands what to delegate to AI"
     ],
     "route": "/resources/presentare-sistemi-in-evoluzione/",
     "description": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -62,7 +63,8 @@
     "examples": [
       "Un primo incontro con MAIOS",
       "Uno stesso sistema, ingressi utili differenti",
-      "Un diagramma rivela un errore concettuale"
+      "Un diagramma rivela un errore concettuale",
+      "Una segreteria scolastica comprende che cosa delegare all’AI"
     ],
     "route": "/risorse/presentare-sistemi-in-evoluzione/",
     "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
