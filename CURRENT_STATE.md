@@ -1,3 +1,13 @@
+# Govern Source to Runtime and Learn From Demonstration — review candidates
+
+The operator selects candidate 0.1.1 editions of these two methods. Health
+observation is qualified against its real consumer and recovered identity;
+demonstration learning distinguishes declared access, actual means, native
+context reduction and the work that follows. Each includes four illustrative
+cases per language. Previous methods and cases, the release validators and
+schemas remain available. The other 46 current editions and archives retain
+their identities. These candidates do not publish the website or activate Chat.
+
 # Meta-Focus and MPC — current source editions
 
 Meta-Focus 0.1.2 and presentation competence 0.1.5 preserve the current public knowledge and the additional concurrent contribution in both languages. Each has five illustrative cases. The 46 other current public editions and archives remain unchanged. The four newly published operating competences are incorporated from their owner history. Meta-Focus remains a method in formation; its edition does not establish independent receiving use. Website and Chat publication retain their own source, activation and live evidence.

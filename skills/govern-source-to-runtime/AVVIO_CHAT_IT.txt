@@ -34,6 +34,11 @@ Collega revisione locale, riferimento remoto, eventuale artefatto, checkout o se
 Qualifica il delta, la versione immutabile e le dipendenze. Esegui il codice candidato in un ambiente che non possa controllare il servizio reale o leggere credenziali inutili. Individua una versione precedente e un percorso di recupero che non dipenda soltanto dalla componente da cambiare. Conserva anche migrazioni e dati quando il semplice ritorno ai file precedenti non basta.
 
 
+## Collegare il controllo di salute al consumer reale
+
+Quando l’attivazione selezionata usa un controllo di salute, ricava percorso e risposta attesa dall’handler o dal routing effettivo, anziché presumere una route. Osserva una risposta positiva sullo stesso percorso prima di cambiare il checkout; riusa una baseline già qualificata finché ne valgono le condizioni. Una sonda locale riuscita non attesta l’ingress pubblico o il comportamento richiesto dalla persona. Mantieni quei riscontri legati ai consumer effettivi. Se un controllo fallisce sul target e sul rollback, leggi indipendentemente revisione o artefatto ripristinato e un riscontro di salute qualificato dalla sorgente prima di dichiarare fallito il prodotto o il recupero.
+
+
 ## Condurre soltanto l’effetto realmente affidato
 
 La condivisione della sorgente, la promozione pubblica e l’attivazione hanno conseguenze diverse. Usa il mandato e il contratto correnti per capire quali siano già compresi; chiedi una decisione soltanto quando resta una scelta sostanziale della persona. Non frammentare un rilascio già selezionato in conferme sulle sue meccaniche ordinarie. Una nuova destinazione o revisione può invece cambiare l’effetto.
@@ -105,6 +110,16 @@ scripts/reduce_release_state.py riduce osservazioni a una prossima azione; scrip
 
 Una procedura riuscita non rende automaticamente governabili tutti i server. Per automatizzare servono contratto ristretto, idempotenza, separazione dei privilegi, osservazione terminale e recupero esercitati nel contesto pertinente. Anche rami, diff, log e artefatti di una pubblicazione possono esporre dati: trasferisci sapere riusabile, mantenendo privati dettagli e credenziali.
 
+
+## Il percorso di salute è un contratto osservato, non un nome familiare
+
+Un servizio può esporre la propria disponibilità su una route diversa da quella suggerita dal nome. Una risposta sana da un endpoint vicino non qualifica un percorso presunto. Raggiungi l’handler selezionato e l’ingress che inoltra davvero la richiesta, quindi conserva una baseline positiva su quella route quando servirà a giudicare il cambiamento. Mantieni ciò che la risposta attesta: disponibilità del processo, una specifica dipendenza o una richiesta d’uso delimitata. Nessuna di queste prove trasferisce silenziosamente le altre. Questa profondità appartiene a un’attivazione che usa quel riscontro; una modifica della sola sorgente non richiede di inventare un controllo del servizio.
+
+
+## Un sensore errato può descrivere male anche un rollback riuscito
+
+Ritornare alla versione precedente e verificare quel ritorno sono osservazioni distinte. Una route errata può produrre lo stesso 404 prima dell’attivazione, sul target e dopo il recupero. Conserva il riscontro fallito originale, osserva revisione o artefatto effettivi e usa il percorso qualificato per comprendere che cosa è stato ripristinato. Non riscrivere il tentativo fallito come successo o attribuire al prodotto un errore del sensore. Corretto l’osservatore, riconvalida un tentativo delimitato sullo stato corrente e nel mandato esistente; la correzione non autorizza un altro servizio o una modifica più ampia.
+
 ## La pubblicazione impara dal proprio percorso
 
 Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
@@ -129,6 +144,15 @@ Un gruppo di ricerca pubblica il nuovo pacchetto del proprio modello. Il servizi
 ## La guida PDF cambia nell’esportazione
 
 Una cooperativa aggiorna una guida di manutenzione. Il file sorgente corretto viene esportato con un nuovo avviso di licenza: i byte del PDF cambiano anche se l’argomento tecnico è identico. L’AI confronta la revisione dei contenuti, osserva il documento renderizzato e acquisisce l’impronta del PDF effettivamente caricato. Dopo la pubblicazione scarica la copia accessibile senza login e ne confronta l’identità; verifica anche che il collegamento della pagina raggiunga quella copia. Un controllo del solo file locale o un identificatore riservato non avrebbero provato la distribuzione. Il metodo conserva le edizioni storiche e la scelta dei diritti per i file selezionati. La versione resa disponibile e l’avvenuta lettura da parte dei manutentori restano fatti diversi.
+
+
+## Un servizio bibliotecario e il controllo di salute che descriveva il guasto sbagliato
+
+Una rete di biblioteche aggiorna il servizio di ricerca dei documenti. Il contratto del servizio espone la disponibilità su /ready; un vecchio appunto di rilascio dice invece di interrogare /health. In una prova, il controller passa alla nuova revisione e riceve 404 dal percorso presunto. Ritorna alla revisione precedente, poi riceve lo stesso 404 e dichiara fallito il recupero. La ricevuta conserva entrambi i riscontri, senza trasformare il nome familiare della route in una prova sulle due versioni.
+
+Un’osservazione indipendente trova installata la revisione precedente, con file puliti e una ricerca delimitata riuscita. L’handler mostra il percorso di disponibilità, che risponde positivamente. I riscontri sostengono un sensore errato e una versione effettivamente ripristinata; non attestano la correttezza di ogni funzione delle due revisioni. Il metodo conserva la prova fallita e la sua causa, anziché chiamarla guasto del prodotto o attivazione riuscita del target.
+
+Prima del successivo tentativo affidato, l’AI qualifica la stessa route sulla versione corrente, conserva l’artefatto precedente e verifica il payload selezionato. Conduce poi soltanto l’attivazione affidata e verifica disponibilità, revisione esatta e una ricerca pertinente attraverso i loro consumer reali. Un servizio estraneo invariato resta fuori dal riavvio. Il caso è illustrativo: i nomi delle route appartengono a questo servizio fittizio, non sono percorsi da riusare su un altro host. La lezione generale riguarda osservazione e recupero; la biblioteca conserva regole di ricerca e catalogo propri.
 
 
 # Strumenti di lettura per il rilascio

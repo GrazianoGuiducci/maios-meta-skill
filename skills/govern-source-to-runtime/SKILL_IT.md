@@ -2,7 +2,7 @@
 name: govern-source-to-runtime
 description: "Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone. Quando pubblichi un sito, rilasci software, aggiorni un servizio o devi capire perché ciò che è online differisce dalla sorgente."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: it
 ---
 
@@ -39,6 +39,11 @@ Collega revisione locale, riferimento remoto, eventuale artefatto, checkout o se
 ## Preparare una modifica con identità e recupero propri
 
 Qualifica il delta, la versione immutabile e le dipendenze. Esegui il codice candidato in un ambiente che non possa controllare il servizio reale o leggere credenziali inutili. Individua una versione precedente e un percorso di recupero che non dipenda soltanto dalla componente da cambiare. Conserva anche migrazioni e dati quando il semplice ritorno ai file precedenti non basta.
+
+
+## Collegare il controllo di salute al consumer reale
+
+Quando l’attivazione selezionata usa un controllo di salute, ricava percorso e risposta attesa dall’handler o dal routing effettivo, anziché presumere una route. Osserva una risposta positiva sullo stesso percorso prima di cambiare il checkout; riusa una baseline già qualificata finché ne valgono le condizioni. Una sonda locale riuscita non attesta l’ingress pubblico o il comportamento richiesto dalla persona. Mantieni quei riscontri legati ai consumer effettivi. Se un controllo fallisce sul target e sul rollback, leggi indipendentemente revisione o artefatto ripristinato e un riscontro di salute qualificato dalla sorgente prima di dichiarare fallito il prodotto o il recupero.
 
 
 ## Condurre soltanto l’effetto realmente affidato

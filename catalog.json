@@ -1701,7 +1701,7 @@
     {
       "id": "apprendere-da-dimostrazioni",
       "name": "D-ND Learn From Demonstration",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "25",
@@ -1735,7 +1735,7 @@
       "starter": "skills/dnd-learn-from-demonstration/START_CHAT_EN.txt",
       "examples": "skills/dnd-learn-from-demonstration/EXAMPLES.md",
       "presentation": "skills/dnd-learn-from-demonstration/presentation.json",
-      "package": "dist/dnd-learn-from-demonstration-0.1.0.zip",
+      "package": "dist/dnd-learn-from-demonstration-0.1.1.zip",
       "en": {
         "title": "Teach your AI a way of working through examples",
         "kind": "Learning competence",
@@ -3033,7 +3033,7 @@
     {
       "id": "dalla-sorgente-al-servizio",
       "name": "Govern Source to Runtime",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "44",
@@ -3113,7 +3113,7 @@
       "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
       "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
       "presentation": "skills/govern-source-to-runtime/presentation.json",
-      "package": "dist/govern-source-to-runtime-0.1.0.zip",
+      "package": "dist/govern-source-to-runtime-0.1.1.zip",
       "maturity": "method_available_automation_candidate"
     },
     {

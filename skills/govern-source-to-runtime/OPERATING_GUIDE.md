@@ -39,6 +39,16 @@ scripts/reduce_release_state.py reduces supplied observations to a next action; 
 
 One successful procedure does not govern every server automatically. Automation needs a narrow contract, idempotency, privilege separation, terminal observation and recovery exercised in the relevant environment. Branches, diffs, logs and publication artifacts can expose information too: transfer reusable knowledge while retaining private topology and credentials.
 
+
+## A health path is an observed contract, not a familiar name
+
+A service may expose readiness through a route different from the one its name suggests. A healthy answer from a neighboring endpoint does not qualify an assumed path. Reach the selected handler and the ingress that actually forwards the request, then keep a successful baseline on that path when it will judge the change. Preserve what the response establishes: process readiness, a particular dependency or a bounded user request. None of these silently proves the others. This depth belongs to an activation that uses that observation; a source-only edit need not invent a service check.
+
+
+## A failed sensor can also misdescribe a successful rollback
+
+Returning to the previous version and verifying that return are separate observations. An incorrect route can produce the same 404 before activation, on the target and after recovery. Keep the original failed observation, inspect the actual revision or artifact and use the qualified route to understand what was restored. Do not rewrite the failed attempt as a success or attribute a sensor error to the product. Once the observer is corrected, revalidate a bounded retry against the current state and existing mandate; the correction does not authorize another service or a wider change.
+
 ## Publication learns from its actual path
 
 The method and deterministic validators are available; the kit does not provide universal automatic deployment. Each environment owns its executors, access and policy.

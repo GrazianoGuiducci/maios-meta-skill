@@ -1,3 +1,13 @@
+# Govern Source to Runtime e Learn From Demonstration — candidati al riesame
+
+L'operatore seleziona le edizioni candidate 0.1.1 dei due metodi. Il controllo
+di salute è qualificato sul consumer reale e sull'identità recuperata;
+l'apprendimento da dimostrazioni distingue accesso dichiarato, mezzi effettivi,
+riduzione nativa del contesto e lavoro successivo. Ciascuna porta quattro casi
+illustrativi per lingua. Metodo e casi precedenti, validatori e schemi di
+rilascio restano disponibili. Le altre 46 edizioni correnti e i loro archivi
+conservano l'identità. Questi candidati non pubblicano sito o attivano la Chat.
+
 # Meta-Focus e MPC — edizioni sorgente correnti
 
 Meta-Focus 0.1.2 e competenza di presentazione 0.1.5 conservano il sapere pubblico corrente e il contributo concorrente aggiuntivo in entrambe le lingue. Ciascuna ha cinque casi illustrativi. Le altre 46 edizioni pubbliche e i loro archivi restano invariati. Le quattro nuove competenze operative pubblicate entrano con la storia del loro owner. Meta-Focus resta un metodo in formazione; l'edizione non attesta l'uso indipendente del ricevente. Sito e Chat conservano le proprie sorgenti, attivazioni e prove live.

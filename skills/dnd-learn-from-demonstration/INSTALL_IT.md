@@ -1,7 +1,7 @@
-# Installare D-ND Learn From Demonstration
+# Adottare D-ND Learn From Demonstration
 
-Conserva insieme l’intera cartella `dnd-learn-from-demonstration`. Estrai lo ZIP e copia la cartella in `.agents/skills/` del progetto. Preserva una copia esistente e il sapere che ha acquisito, senza sovrascriverla. Apri Codex nel progetto e richiama `$dnd-learn-from-demonstration` con un incarico concreto. Riavvia la sessione se la skill non compare. Puoi chiedere risposte italiane; l’entry canonica resta inglese.
+In una conversazione, allega l’intero AVVIO_CHAT_IT.txt e porta lavoro, fonti e mezzi disponibili. Con accesso ai file, conserva la cartella completa in una sede del progetto e rendi SKILL_IT.md raggiungibile dall’ingresso nativo dell’ambiente. Preserva il metodo esistente, l’apprendimento locale e il lavoro in corso; confronta funzione, responsabile e metodo prima di integrare una revisione. Leggi guida pratica ed esempi. Le istruzioni non creano strumenti o persistenza mancanti.
 
-Leggi GUIDA_OPERATIVA_IT.md e osserva il primo uso nel progetto reale. Discovery, lavoro utile e apprendimento successivo restano distinti. In un altro ambiente usa il suo meccanismo nativo o allega AVVIO_CHAT_IT.txt a una chat.
+## Esempio: un progetto Codex
 
-[Guida di installazione](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/INSTALL_IT.md)
+Estrai il pacchetto ZIP completo e copia la cartella dnd-learn-from-demonstration in `.agents/skills/` del progetto. Conserva una copia esistente anziché sovrascriverla. Apri Codex nel progetto e richiama `$dnd-learn-from-demonstration` con un incarico reale. Se la discovery non è aggiornata, avvia una nuova sessione. Gli altri ambienti usano la propria discovery e le proprie convenzioni di progetto.

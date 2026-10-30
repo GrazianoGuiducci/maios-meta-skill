@@ -28,6 +28,10 @@
         "body": "Individua il lavoro da cambiare, la sorgente autorevole, chi seleziona il rilascio e chi possiede il servizio o il documento distribuito."
       },
       {
+        "title": "Qualificare il riscontro che giudicherà l’attivazione",
+        "body": "Quando la salute fa parte della prova, raggiungi il vero handler o la route effettiva e una baseline positiva sullo stesso percorso. Un osservatore errato e un servizio guasto richiedono correzioni diverse."
+      },
+      {
         "title": "Condurre soltanto l’effetto realmente affidato",
         "body": "La condivisione della sorgente, la promozione pubblica e l’attivazione hanno conseguenze diverse."
       },
@@ -48,6 +52,10 @@
       {
         "title": "Preparare una modifica con identità e recupero propri",
         "body": "Qualifica il delta, la versione immutabile e le dipendenze. Esegui il codice candidato in un ambiente che non possa controllare il servizio reale o leggere credenziali inutili. Individua una versione precedente e un percorso di recupero che non dipenda soltanto dalla componente da cambiare. Conserva anche migrazioni e dati quando il semplice ritorno ai file precedenti non basta."
+      },
+      {
+        "title": "Collegare il controllo di salute al consumer reale",
+        "body": "Quando l’attivazione selezionata usa un controllo di salute, ricava percorso e risposta attesa dall’handler o dal routing effettivo, anziché presumere una route. Osserva una risposta positiva sullo stesso percorso prima di cambiare il checkout; riusa una baseline già qualificata finché ne valgono le condizioni. Una sonda locale riuscita non attesta l’ingress pubblico o il comportamento richiesto dalla persona. Mantieni quei riscontri legati ai consumer effettivi. Se un controllo fallisce sul target e sul rollback, leggi indipendentemente revisione o artefatto ripristinato e un riscontro di salute qualificato dalla sorgente prima di dichiarare fallito il prodotto o il recupero."
       },
       {
         "title": "Condurre soltanto l’effetto realmente affidato",
@@ -98,6 +106,14 @@
       {
         "title": "L’automazione appartiene a una transizione qualificata",
         "body": "Una procedura riuscita non rende automaticamente governabili tutti i server. Per automatizzare servono contratto ristretto, idempotenza, separazione dei privilegi, osservazione terminale e recupero esercitati nel contesto pertinente. Anche rami, diff, log e artefatti di una pubblicazione possono esporre dati: trasferisci sapere riusabile, mantenendo privati dettagli e credenziali."
+      },
+      {
+        "title": "Il percorso di salute è un contratto osservato, non un nome familiare",
+        "body": "Un servizio può esporre la propria disponibilità su una route diversa da quella suggerita dal nome. Una risposta sana da un endpoint vicino non qualifica un percorso presunto. Raggiungi l’handler selezionato e l’ingress che inoltra davvero la richiesta, quindi conserva una baseline positiva su quella route quando servirà a giudicare il cambiamento. Mantieni ciò che la risposta attesta: disponibilità del processo, una specifica dipendenza o una richiesta d’uso delimitata. Nessuna di queste prove trasferisce silenziosamente le altre. Questa profondità appartiene a un’attivazione che usa quel riscontro; una modifica della sola sorgente non richiede di inventare un controllo del servizio."
+      },
+      {
+        "title": "Un sensore errato può descrivere male anche un rollback riuscito",
+        "body": "Ritornare alla versione precedente e verificare quel ritorno sono osservazioni distinte. Una route errata può produrre lo stesso 404 prima dell’attivazione, sul target e dopo il recupero. Conserva il riscontro fallito originale, osserva revisione o artefatto effettivi e usa il percorso qualificato per comprendere che cosa è stato ripristinato. Non riscrivere il tentativo fallito come successo o attribuire al prodotto un errore del sensore. Corretto l’osservatore, riconvalida un tentativo delimitato sullo stato corrente e nel mandato esistente; la correzione non autorizza un altro servizio o una modifica più ampia."
       }
     ],
     "worked_examples": [
@@ -112,12 +128,17 @@
       {
         "title": "La guida PDF cambia nell’esportazione",
         "body": "Una cooperativa aggiorna una guida di manutenzione. Il file sorgente corretto viene esportato con un nuovo avviso di licenza: i byte del PDF cambiano anche se l’argomento tecnico è identico. L’AI confronta la revisione dei contenuti, osserva il documento renderizzato e acquisisce l’impronta del PDF effettivamente caricato. Dopo la pubblicazione scarica la copia accessibile senza login e ne confronta l’identità; verifica anche che il collegamento della pagina raggiunga quella copia. Un controllo del solo file locale o un identificatore riservato non avrebbero provato la distribuzione. Il metodo conserva le edizioni storiche e la scelta dei diritti per i file selezionati. La versione resa disponibile e l’avvenuta lettura da parte dei manutentori restano fatti diversi."
+      },
+      {
+        "title": "Un servizio bibliotecario e il controllo di salute che descriveva il guasto sbagliato",
+        "body": "Una rete di biblioteche aggiorna il servizio di ricerca dei documenti. Il contratto del servizio espone la disponibilità su /ready; un vecchio appunto di rilascio dice invece di interrogare /health. In una prova, il controller passa alla nuova revisione e riceve 404 dal percorso presunto. Ritorna alla revisione precedente, poi riceve lo stesso 404 e dichiara fallito il recupero. La ricevuta conserva entrambi i riscontri, senza trasformare il nome familiare della route in una prova sulle due versioni.\n\nUn’osservazione indipendente trova installata la revisione precedente, con file puliti e una ricerca delimitata riuscita. L’handler mostra il percorso di disponibilità, che risponde positivamente. I riscontri sostengono un sensore errato e una versione effettivamente ripristinata; non attestano la correttezza di ogni funzione delle due revisioni. Il metodo conserva la prova fallita e la sua causa, anziché chiamarla guasto del prodotto o attivazione riuscita del target.\n\nPrima del successivo tentativo affidato, l’AI qualifica la stessa route sulla versione corrente, conserva l’artefatto precedente e verifica il payload selezionato. Conduce poi soltanto l’attivazione affidata e verifica disponibilità, revisione esatta e una ricerca pertinente attraverso i loro consumer reali. Un servizio estraneo invariato resta fuori dal riavvio. Il caso è illustrativo: i nomi delle route appartengono a questo servizio fittizio, non sono percorsi da riusare su un altro host. La lezione generale riguarda osservazione e recupero; la biblioteca conserva regole di ricerca e catalogo propri."
       }
     ],
     "examples": [
       "Il calendario corretto non è ancora quello pubblico",
       "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
-      "La guida PDF cambia nell’esportazione"
+      "La guida PDF cambia nell’esportazione",
+      "Un servizio bibliotecario e il controllo di salute che descriveva il guasto sbagliato"
     ],
     "learning": [
       "Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile.",
@@ -174,6 +195,10 @@
         "body": "Identify the work being changed, authoritative source, release decision owner and owner of the service or distributed document."
       },
       {
+        "title": "Qualify the observation that will judge activation",
+        "body": "When health is part of the proof, reach the actual handler or effective route and a positive baseline on the same path. A failed observer and a failed service need different corrections."
+      },
+      {
         "title": "Carry only the effect actually entrusted",
         "body": "Source sharing, public promotion and activation have different consequences."
       },
@@ -194,6 +219,10 @@
       {
         "title": "Prepare a change with its own identity and recovery",
         "body": "Qualify the diff, immutable version and dependencies. Execute candidate code in an environment unable to control the live service or read unnecessary credentials. Identify a previous version and recovery path independent of the component being changed. Include migrations and data where returning to previous files is insufficient."
+      },
+      {
+        "title": "Bind the health observation to the actual consumer",
+        "body": "When the selected activation uses a health check, derive its route and expected response from the handler or effective routing rather than an assumed path. Observe a positive response through the same route before changing the checkout; reuse an already qualified baseline while its conditions still hold. A successful local probe does not establish public ingress or the requested user behavior. Keep those observations tied to their actual consumer. If a control fails on both target and rollback, independently read the restored revision or artifact and a source-qualified health observation before classifying the product or recovery as failed."
       },
       {
         "title": "Carry only the effect actually entrusted",
@@ -244,6 +273,14 @@
       {
         "title": "Automation belongs to a qualified transition",
         "body": "One successful procedure does not govern every server automatically. Automation needs a narrow contract, idempotency, privilege separation, terminal observation and recovery exercised in the relevant environment. Branches, diffs, logs and publication artifacts can expose information too: transfer reusable knowledge while retaining private topology and credentials."
+      },
+      {
+        "title": "A health path is an observed contract, not a familiar name",
+        "body": "A service may expose readiness through a route different from the one its name suggests. A healthy answer from a neighboring endpoint does not qualify an assumed path. Reach the selected handler and the ingress that actually forwards the request, then keep a successful baseline on that path when it will judge the change. Preserve what the response establishes: process readiness, a particular dependency or a bounded user request. None of these silently proves the others. This depth belongs to an activation that uses that observation; a source-only edit need not invent a service check."
+      },
+      {
+        "title": "A failed sensor can also misdescribe a successful rollback",
+        "body": "Returning to the previous version and verifying that return are separate observations. An incorrect route can produce the same 404 before activation, on the target and after recovery. Keep the original failed observation, inspect the actual revision or artifact and use the qualified route to understand what was restored. Do not rewrite the failed attempt as a success or attribute a sensor error to the product. Once the observer is corrected, revalidate a bounded retry against the current state and existing mandate; the correction does not authorize another service or a wider change."
       }
     ],
     "worked_examples": [
@@ -258,12 +295,17 @@
       {
         "title": "A maintenance PDF changes during export",
         "body": "A cooperative updates a maintenance guide. The corrected source is exported with a new license notice: PDF bytes change even when the technical argument stays the same. The AI compares the content revision, observes the rendered document and records the exact uploaded PDF’s digest. After publication it anonymously downloads the accessible copy and compares identity, also checking that the page link reaches that file. A local-file check or reserved identifier would not establish distribution. The method preserves historical editions and the rights choice for selected files. Making a version available and maintenance staff actually reading it remain different facts."
+      },
+      {
+        "title": "A library service and a health check that described the wrong failure",
+        "body": "A network of libraries is updating its document-search service. The service contract exposes readiness at /ready; an older release note instead tells the operator to request /health. In a rehearsal, the controller changes to the new revision and receives 404 from the presumed route. It returns to the previous revision, then receives the same 404 and reports that recovery failed. The receipt preserves both observations rather than treating the familiar path as evidence about either version.\n\nAn independent inspection finds the previous revision installed, its files clean and a successful bounded search. The handler shows the readiness route, which also answers successfully. The observations support a wrong sensor and an actual restored version; they do not show that every feature of either revision is correct. The release method keeps the failed rehearsal and its cause instead of calling it a product failure or a successful target activation.\n\nBefore the next entrusted attempt, the AI qualifies the same readiness route on the current version, retains the previous artifact and checks the selected payload. It then carries only the entrusted activation and verifies readiness, exact revision and a pertinent search through their actual consumers. An unchanged unrelated service stays outside the restart scope. The example is illustrative: route names describe this fictional service, not paths to reuse on another host. The reusable lesson belongs to release observation and recovery; the library keeps its own search rules and catalogue."
       }
     ],
     "examples": [
       "The corrected calendar is not yet the public calendar",
       "A published analysis model is not yet the model used by the service",
-      "A maintenance PDF changes during export"
+      "A maintenance PDF changes during export",
+      "A library service and a health check that described the wrong failure"
     ],
     "learning": [
       "Keep the relationship between selected effect, revision actually reached, recovery and the next useful observation.",

@@ -2,7 +2,7 @@
 name: govern-source-to-runtime
 description: "Governs the path from a selected change through publication to the result actually reached by its recipients. When publishing a website, releasing software, updating a service or explaining why the live result differs from its source."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: en
 ---
 
@@ -39,6 +39,11 @@ Connect local revision, remote reference, any artifact, active checkout or servi
 ## Prepare a change with its own identity and recovery
 
 Qualify the diff, immutable version and dependencies. Execute candidate code in an environment unable to control the live service or read unnecessary credentials. Identify a previous version and recovery path independent of the component being changed. Include migrations and data where returning to previous files is insufficient.
+
+
+## Bind the health observation to the actual consumer
+
+When the selected activation uses a health check, derive its route and expected response from the handler or effective routing rather than an assumed path. Observe a positive response through the same route before changing the checkout; reuse an already qualified baseline while its conditions still hold. A successful local probe does not establish public ingress or the requested user behavior. Keep those observations tied to their actual consumer. If a control fails on both target and rollback, independently read the restored revision or artifact and a source-qualified health observation before classifying the product or recovery as failed.
 
 
 ## Carry only the effect actually entrusted

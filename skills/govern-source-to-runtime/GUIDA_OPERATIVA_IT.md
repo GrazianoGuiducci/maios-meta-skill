@@ -39,6 +39,16 @@ scripts/reduce_release_state.py riduce osservazioni a una prossima azione; scrip
 
 Una procedura riuscita non rende automaticamente governabili tutti i server. Per automatizzare servono contratto ristretto, idempotenza, separazione dei privilegi, osservazione terminale e recupero esercitati nel contesto pertinente. Anche rami, diff, log e artefatti di una pubblicazione possono esporre dati: trasferisci sapere riusabile, mantenendo privati dettagli e credenziali.
 
+
+## Il percorso di salute è un contratto osservato, non un nome familiare
+
+Un servizio può esporre la propria disponibilità su una route diversa da quella suggerita dal nome. Una risposta sana da un endpoint vicino non qualifica un percorso presunto. Raggiungi l’handler selezionato e l’ingress che inoltra davvero la richiesta, quindi conserva una baseline positiva su quella route quando servirà a giudicare il cambiamento. Mantieni ciò che la risposta attesta: disponibilità del processo, una specifica dipendenza o una richiesta d’uso delimitata. Nessuna di queste prove trasferisce silenziosamente le altre. Questa profondità appartiene a un’attivazione che usa quel riscontro; una modifica della sola sorgente non richiede di inventare un controllo del servizio.
+
+
+## Un sensore errato può descrivere male anche un rollback riuscito
+
+Ritornare alla versione precedente e verificare quel ritorno sono osservazioni distinte. Una route errata può produrre lo stesso 404 prima dell’attivazione, sul target e dopo il recupero. Conserva il riscontro fallito originale, osserva revisione o artefatto effettivi e usa il percorso qualificato per comprendere che cosa è stato ripristinato. Non riscrivere il tentativo fallito come successo o attribuire al prodotto un errore del sensore. Corretto l’osservatore, riconvalida un tentativo delimitato sullo stato corrente e nel mandato esistente; la correzione non autorizza un altro servizio o una modifica più ampia.
+
 ## La pubblicazione impara dal proprio percorso
 
 Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
