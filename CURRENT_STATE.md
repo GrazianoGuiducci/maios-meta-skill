@@ -1,6 +1,6 @@
-# Meta-Focus and MPC — review continuation
+# Meta-Focus and MPC — current source editions
 
-Meta-Focus 0.1.2 and presentation competence 0.1.5 preserve the current public knowledge and the additional concurrent contribution in both languages. Each has five illustrative cases. The 46 other current public editions and archives remain unchanged. The four newly published operating competences are incorporated from their owner history. These two new editions remain candidates for review; no website or Chat runtime publication is selected.
+Meta-Focus 0.1.2 and presentation competence 0.1.5 preserve the current public knowledge and the additional concurrent contribution in both languages. Each has five illustrative cases. The 46 other current public editions and archives remain unchanged. The four newly published operating competences are incorporated from their owner history. Meta-Focus remains a method in formation; its edition does not establish independent receiving use. Website and Chat publication retain their own source, activation and live evidence.
 
 # Public competence resources — 48 transferable methods
 

@@ -1,6 +1,6 @@
-# Meta-Focus e MPC — seguito da riesaminare
+# Meta-Focus e MPC — edizioni sorgente correnti
 
-Meta-Focus 0.1.2 e competenza di presentazione 0.1.5 conservano il sapere pubblico corrente e il contributo concorrente aggiuntivo in entrambe le lingue. Ciascuna ha cinque casi illustrativi. Le altre 46 edizioni pubbliche e i loro archivi restano invariati. Le quattro nuove competenze operative pubblicate entrano con la storia del loro owner. Queste due nuove edizioni restano candidate al riesame; sito e runtime Chat non sono pubblicati da questa preparazione.
+Meta-Focus 0.1.2 e competenza di presentazione 0.1.5 conservano il sapere pubblico corrente e il contributo concorrente aggiuntivo in entrambe le lingue. Ciascuna ha cinque casi illustrativi. Le altre 46 edizioni pubbliche e i loro archivi restano invariati. Le quattro nuove competenze operative pubblicate entrano con la storia del loro owner. Meta-Focus resta un metodo in formazione; l'edizione non attesta l'uso indipendente del ricevente. Sito e Chat conservano le proprie sorgenti, attivazioni e prove live.
 
 # Risorse competenziali pubbliche — 48 metodi trasferibili
 
