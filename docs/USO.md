@@ -94,7 +94,7 @@ Hai reso disponibile al tuo progetto una o più **competenze pubbliche MAIOS**. 
 
 **Raccolta completa:** [maios-meta-skill](https://github.com/GrazianoGuiducci/maios-meta-skill) · **Uso generale:** [guida pubblica](https://github.com/GrazianoGuiducci/maios-meta-skill/blob/main/docs/USO.md).
 
-## Con MAIOS Project Kernel 5.1.0, facoltativamente
+## Con MAIOS Project Kernel, facoltativamente
 
 [MPK](https://github.com/GrazianoGuiducci/maios-project-kernel) è un prodotto distinto: porta già sistema semantico, formazione delle competenze, adattamento host e continuità. Il suo package usa il proprio installer, con Python >=3.11 e comandi preview/apply; segui [INSTALL](https://github.com/GrazianoGuiducci/maios-project-kernel/blob/main/package/INSTALL.md). L’installer di questa raccolta copia kit; non esegue l’installazione o le migrazioni MPK.
 
