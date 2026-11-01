@@ -1,9 +1,14 @@
 ---
 name: concept-to-media-formation
-description: "Form a coherent editorial media field from a source-bound concept, including a new concept. Use when meaning, domain, use case, practical consequence and representation must develop together across images, infographics, presentations, video, participatory explanation or other media."
+description: "Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning. When an idea is understood but has not yet become a clear image, explanation, presentation or participatory artifact."
+metadata:
+  version: 0.1.1
+  language: en
 ---
 
 # Concept-to-Media Formation
+
+Forms the shared concept and editorial relation from which different media can be produced without changing the source meaning.
 
 **Turn a concept into a coherent family of media**
 
@@ -15,38 +20,67 @@ The editorial work forms concept, argument and shared meaning. Design contribute
 
 Understand the actual concept, its source and state: current capability, observed event, selected direction or open possibility. Find the recognizable domain and work where it becomes observable, the dynamic that changes that work and its practical consequence. These relations can emerge together; they are not a mandatory matrix. A new concept can reveal a new domain or medium. Let the person recognize the situation before requiring internal vocabulary.
 
+
 ## Choose a representation that makes the relation perceptible
 
 Choose a visual or temporal question before a familiar medium or campaign slot. Several simultaneous relations may need a field; a change may need a sequence; an outcome changing later work may need a returning path with transformation. Geometry carries meaning: a central node can imply authority, a timeline sequence, a closed loop mere repetition. Compare what the form actually shows with the source. Change representation when it exposes a missing relation, without treating the new form as proof by itself.
+
 
 ## Develop the family through its actual functions
 
 When several surfaces serve the concept, form a shared media nucleus with recognizable subject, dominant relation and consequence or open question. A poster can make the whole relation visible, a short item one distinction, a presentation progressive disclosure and a video one change in time. The derivatives preserve the thesis rather than one crop or layout. Form only the family useful to the selected encounter. Expectation can invite richer use when it remains grounded in actual capability and reachable possibility.
 
+
 ## Form participation before selecting a control
 
 If a person will explore or respond, understand the meaningful question, available choice, feedback, use of the response and permitted consequence. A platform poll, comments on a picture, a linked interactive guide and a presentation pager support different interactions. A static export does not collect answers. Personalization, inference or cross-account transport require real means. Preserve data and publication ownership where they become material; do not turn an attractive interface into an unverified capability claim.
+
 
 ## Compose production and inspect the artifact
 
 Give the design or production contribution source truth, concept, recognizable case, dynamic, consequence, receiving situation, exact wording and meaningful present/horizon distinction. Let design choose perceptual form and implementation choose actual mechanisms. Use the available image, slide, code or other tool when the artifact is entrusted. Inspect the rendered or functioning result. Text and image can expose missing premises and change each other; return to the common source before fixing only a caption. Companion text adds meaning rather than repairing a false visual.
 
+
 ## Return learning to the owners that must change
 
 Observe the artifact and real receiver consequences where available. Return concept or argument learning to the editorial method; hierarchy and medium to perceptual design; spatial relations to infographic design; timing to storyboard; behavior to interaction; product facts to the product owner. Several returns can arise from one event without merging owners. Preserve editable source, meaningful variants and reasons. When a new representation grammar carries a reusable function, evolve the appropriate competence rather than making one visual trick a universal template.
+
 
 ## Use in the receiving environment
 
 Use the files, observations and tools actually available for the entrusted work. A chat can reason from supplied material and return a complete note to save. A host with files can keep the competence and project guide reachable. Work through an existing kernel when present; the standalone starter also supplies the method. Ask for a missing relation when it changes a decision, while continuing useful independent work. Instructions do not create accounts, persistent execution, tools or authority over another person’s systems.
 
+
 ## Learning and continuation
 
 Preserve the source, reason, relevant conditions, useful result and unresolved relation in the guide or competence that should act differently next time. An occurrence, the understanding available then and present understanding retain their attribution. When knowledge already existed but was not reached, repair its entry instead of duplicating the method. Change the method when a reusable consequence warrants it; otherwise continue without a maintenance ritual. A written correction makes knowledge available. Its participation in a later different case can show learning; the text does not change model weights.
+
 
 ## Entrusted work and material effects
 
 Carry out actions already covered by the person’s mandate and the actual environment. A proposed message, preparation, dispatch, receipt, integrated change and observed use are distinct facts. Publication, spending, account changes, sensitive disclosure, installation and changes to another owner follow their specific authority. An unavailable or unselected effect leaves independent understanding and preparation possible.
 
+
 ## Operating knowledge
 
 Read OPERATING_GUIDE.md and EXAMPLES.md as part of this method. They carry decision knowledge and worked cases. START_CHAT_EN.txt includes all three bodies for a chat without access to these files.
+
+
+## A cover is a threshold into the work
+
+A cover helps a person recognize why to open this particular document. Recover the document’s central relation and form a short, truthful promise; the internal pages carry explanation and evidence. Several meaningful diagrams can obscure that first relation when compressed onto the front. For a method usable in many contexts, make its shared way of working perceptible. A particular setting illustrates an application; it does not define the product’s whole domain. A beginner audience does not turn the product into a study tool.
+
+
+## Source knowledge must reach the effective production brief
+
+A design guide being available does not show that its knowledge shaped the selected brief. Carry the pertinent source relation, audience, actual identity or reference assets, and controlled wording into the handoff that the renderer receives. Let design choose hierarchy and scene. Preserve what the receiver appreciated when correcting a confusing subject; aesthetic exclusions must leave recognizable participants, work or an equally intelligible carrier. Inspect the actual artifact and, where available, an unprompted recipient reading. A successful render, coherent palette and the author’s caption do not establish comprehension. Generate only when that artifact has been entrusted.
+
+## Continue through the actual project
+
+Keep the difference between source meaning and what the actual artifact made perceptible, with its reason.
+
+A new concept can refine medium choice, teaching order or production. Later artifacts and receiver consequences have their own observed scope.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.

@@ -1,3 +1,7 @@
+# Concept-to-Media Formation 0.1.1 — 1 November 2026
+
+Concept-to-Media Formation 0.1.1 retains the developed method and three earlier cases, and adds cover-as-threshold, recognizable subject, actual brief participation and a fourth illustrative case. Available guidance and an executed render do not establish recipient comprehension. Website and Chat have separate publication and runtime identities.
+
 # Govern Source to Runtime and Learn From Demonstration — review candidates
 
 The operator selects candidate 0.1.1 editions of these two methods. Health

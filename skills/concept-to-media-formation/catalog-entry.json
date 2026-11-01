@@ -1,7 +1,7 @@
 {
   "id": "dal-concetto-ai-media",
   "name": "Concept-to-Media Formation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "32",
@@ -35,7 +35,7 @@
   "starter": "skills/concept-to-media-formation/START_CHAT_EN.txt",
   "examples": "skills/concept-to-media-formation/EXAMPLES.md",
   "presentation": "skills/concept-to-media-formation/presentation.json",
-  "package": "dist/concept-to-media-formation-0.1.0.zip",
+  "package": "dist/concept-to-media-formation-0.1.1.zip",
   "en": {
     "title": "Turn a concept into a coherent family of media",
     "kind": "Editorial metacompetence",
