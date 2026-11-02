@@ -1,3 +1,7 @@
+# AI work coherence — first public activity edition, 2 November 2026
+
+The collection now contains 48 competences and three scheduled activities. AI Work Coherence 0.1.0 reviews the relation between intent, sources and AI work. It starts with concrete proposals for human review; changes to observed objects and stable instructions require a further entrusted intervention. Its complete bilingual starters carry the method, adaptation guide and four illustrative cases. Six existing public competences are included in the package. Publication does not establish a complete recurring cycle or independent receiving use. The first two activities, 48 competence records and existing archives retain their identities.
+
 # Secondary System Updates 0.2.2 - 2 November 2026
 
 The complete bilingual AP now resumes relevant comparisons with their coverage

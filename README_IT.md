@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competenze e 2 attività programmate (AP) per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**48 competenze e 3 attività programmate (AP) per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -28,6 +28,7 @@ Metodi e istruzioni completi per programmare attività in un sistema autonomo. O
 
 - [AP per Aggiornamenti secondari di sistema](activities/public-representation/GUIDA_IT.md) · 0.2.2
 - [AP per nuove possibilità e opportunità di un progetto](activities/project-radar/GUIDA_IT.md) · 0.1.0 — collega sviluppi pertinenti, capacità del progetto e possibili contributi, con fonti, condizioni e seguito.
+- [AP per la coerenza tra intenzioni, fonti e lavoro dell’AI](activities/ai-work-coherence/GUIDA_IT.md) · 0.1.0 — riesamina presupposti dell’assistente e prepara correzioni collegate alle fonti, da valutare con la persona.
 
 ## Scegliere una risorsa
 

@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competences and 2 scheduled activities (AP) for working with AI, forming competences and evolving their methods.**
+**48 competences and 3 scheduled activities (AP) for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -30,6 +30,7 @@ Complete methods and instructions for scheduling activities in an autonomous sys
 
 - [AP for secondary system updates](activities/public-representation/README.md) · 0.2.2
 - [AP for project possibilities and opportunities](activities/project-radar/README.md) · 0.1.0 — connects relevant developments, project capabilities and possible contributions, with sources, conditions and follow-up.
+- [AP for coherence between intent, sources and AI work](activities/ai-work-coherence/README.md) · 0.1.0 — examines assistant assumptions and prepares source-linked corrections for human review.
 
 ## Choose a resource
 
