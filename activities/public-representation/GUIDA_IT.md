@@ -10,7 +10,7 @@ Apri AVVIO_CHAT_IT.txt e copia o allega il file intero alla tua AI. Aggiungi CON
 
 ## Usarla con file o con un kernel esistente
 
-Conserva l’intera cartella dell’attività nel sapere di lavoro del progetto e rendi ATTIVITA.md il suo ingresso. Il pacchetto include sotto skills/ le cartelle pubbliche complete di tre competenze: Form Public Meta-Skill Resources forma la risorsa trasferibile; Meta-Activity collega mandato e controller; Situated Activity Evolution migliora il lavoro ricorrente attraverso le conseguenze. Se il tuo ambiente usa skill discoverable, applica le sue regole native d’installazione a quelle cartelle, preservando le versioni già presenti. L’attività è un incarico affidato che compone queste capacità; la sua cartella non è uno scheduler.
+Conserva l’intera cartella dell’attività nel sapere di lavoro del progetto e rendi ATTIVITA.md il suo ingresso. Il pacchetto include sotto skills/ le cartelle pubbliche complete di tre competenze: Form Public Meta-Skill Resources forma la risorsa trasferibile; Meta-Activity collega mandato e controller; Situated Activity Evolution migliora il lavoro ricorrente attraverso le conseguenze. Se il tuo ambiente riconosce automaticamente le skill, applica le sue regole native d’installazione a quelle cartelle, preservando le versioni già presenti. L’attività è un incarico affidato che compone queste capacità; la sua cartella non è uno scheduler.
 
 ## Avviarla su richiesta o programmare una ricorrenza
 
