@@ -62,3 +62,14 @@ People can transmit knowledge and reasons, validate choices for which they are r
 ## A presentation can improve the method that presents
 
 When an encounter reveals that the presenting method reduced the system to one artifact, the correction can change the source understanding and the competence’s next way of explaining.
+
+
+
+
+## Prepare what the speaker can say and do, with depth reachable
+
+Begin from the speaker’s actual understanding and the encounter’s purpose. Help them choose one relation worth making understandable now, express it in their own sentence, show a pertinent example and recognize a useful next bridge. The assistant can carry documentary detail and reopen sources when actual means allow it. A listener’s question can change the focus, depth or subject; do not treat the listener as inexperienced by default. Teaching preserves the system’s capabilities and the audience’s possible contributions. Rehearsal can show the speaker’s expression; understanding or changed work requires its own recipient observations.
+
+## A presentation can improve the method that presents
+
+When an encounter reveals that the presenting method reduced the system to one artifact, the correction can change the source understanding and the competence’s next way of explaining.

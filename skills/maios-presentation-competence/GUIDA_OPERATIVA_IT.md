@@ -62,3 +62,14 @@ Le persone possono trasmettere conoscenze e ragioni, convalidare le scelte di pr
 ## Una presentazione può migliorare il metodo che presenta
 
 Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare.
+
+
+
+
+## Preparare ciò che il relatore può dire e fare, con profondità raggiungibile
+
+Parti dalla comprensione effettiva del relatore e dallo scopo dell’incontro. Aiutalo a scegliere una relazione che vale la pena rendere comprensibile adesso, esprimerla in una frase propria, mostrare un esempio pertinente e riconoscere un ponte utile. L’assistente può sostenere i dettagli documentali e riaprire le fonti quando i mezzi lo permettono. Una domanda del destinatario può cambiare focus, profondità o soggetto; non presumere che sia inesperto. La didattica conserva le capacità del sistema e i possibili contributi del pubblico. L’esercitazione può mostrare l’espressione del relatore; comprensione e cambiamento del lavoro richiedono i propri riscontri nel destinatario.
+
+## Una presentazione può migliorare il metodo che presenta
+
+Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare.

@@ -3,9 +3,23 @@
 
 Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.
 
+Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.
+
 Una modifica può essere corretta nella repository mentre il servizio continua a usare la versione precedente. Il metodo ricostruisce il collegamento reale e conduce il solo effetto affidato fino al riscontro.
 
 Il sapere si usa anche senza amministrare un server: può distinguere un documento preparato, il file distribuito e la copia realmente incontrata dal destinatario. Gli strumenti inclusi valutano dati dichiarati e non eseguono pubblicazioni.
+
+## Il calendario corretto non è ancora quello pubblico
+
+Un’associazione pubblica un calendario dal proprio archivio Git. La correzione degli orari è condivisa, ma la pagina continua a mostrare quelli vecchi.
+
+Occorre sapere quale revisione alimenta la pagina, se il controller l’ha acquisita e quale risultato il visitatore riceve: un nuovo riavvio scelto alla cieca potrebbe non cambiare nulla.
+
+## Adattare il rilascio al tuo ambiente
+
+Si conserva il rapporto fra cambiamento selezionato, identità consegnata, mezzo che applica l’effetto e osservazione finale. Cambiano repository, persone, controller, destinazioni e modalità di recupero.
+
+Porta l’incarico, la versione di partenza, quella proposta, le istruzioni del progetto e i riscontri disponibili. In chat il risultato può essere un piano verificabile; con accessi adeguati il metodo accompagna gli effetti già affidati.
 
 ## Il calendario corretto non è ancora quello pubblico
 
@@ -57,6 +71,28 @@ Rileggi identità attiva, salute convergente e comportamento pertinente. Confron
 ## Continuare dal risultato effettivamente osservato
 
 Conserva versione precedente e attiva, controlli compiuti, eventuale recupero, ignoti e seguito utile presso il rilascio. Prima di riprendere un tentativo interrotto osserva che cosa è già accaduto. Una contraddizione riapre il passaggio da cui dipende, preservando prove e lavoro ancora validi. Restituisci al metodo la correzione riusabile senza creare registri duplicati.
+
+## Continuare attraverso il progetto reale
+
+Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile.
+
+Restituisci la differenza al controller o al metodo che deve cambiare, lasciando stato del prodotto e dati presso i loro responsabili.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## Confrontare la topologia con record completi e il vero contratto d’ordine
+
+Comprendi prima se l’ordine della collezione abbia significato nel contratto selezionato. Se non lo ha, confronta record canonici completi conservando le molteplicità: sorgente, destinazione, tipo, modalità di accesso, propagazione e ogni altra proprietà materiale. Un’enumerazione diversa può descrivere la stessa topologia; ordinare soltanto i nomi può nascondere una differenza reale. Se l’ordine esprime dipendenze o esecuzione, mantienilo. Un rollback dovuto a un osservatore inadeguato resta un rollback effettivo; correggi l’osservatore e qualifica il nuovo tentativo senza dichiarare riuscito il primo.
+
+
+## Verificare l’artefatto esportato contro l’identità sorgente dichiarata
+
+Un’etichetta di commit corretta non garantisce che l’export abbia conservato byte e modi dei file. Riapri l’archivio prodotto e confronta ogni elemento selezionato con blob e albero Git dichiarati, secondo il contratto esatto del prodotto per byte e modi. Conversione dei fine riga o perdita dei bit di esecuzione possono cambiare l’artefatto. Correggi l’export quando la sorgente è già giusta; non compensare modificando sorgenti valide o normalizzando silenziosamente una prova byte per byte. Comprendi il ruolo di una fixture storica di test prima di escluderla come stato privato corrente. Una trasformazione dichiarata conserva un contratto d’identità distinto.
 
 ## Continuare attraverso il progetto reale
 
@@ -127,6 +163,24 @@ Il metodo e i validatori deterministici sono disponibili; una distribuzione auto
 Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato.
 
 
+
+
+## Confrontare la topologia con record completi e il vero contratto d’ordine
+
+Comprendi prima se l’ordine della collezione abbia significato nel contratto selezionato. Se non lo ha, confronta record canonici completi conservando le molteplicità: sorgente, destinazione, tipo, modalità di accesso, propagazione e ogni altra proprietà materiale. Un’enumerazione diversa può descrivere la stessa topologia; ordinare soltanto i nomi può nascondere una differenza reale. Se l’ordine esprime dipendenze o esecuzione, mantienilo. Un rollback dovuto a un osservatore inadeguato resta un rollback effettivo; correggi l’osservatore e qualifica il nuovo tentativo senza dichiarare riuscito il primo.
+
+
+## Verificare l’artefatto esportato contro l’identità sorgente dichiarata
+
+Un’etichetta di commit corretta non garantisce che l’export abbia conservato byte e modi dei file. Riapri l’archivio prodotto e confronta ogni elemento selezionato con blob e albero Git dichiarati, secondo il contratto esatto del prodotto per byte e modi. Conversione dei fine riga o perdita dei bit di esecuzione possono cambiare l’artefatto. Correggi l’export quando la sorgente è già giusta; non compensare modificando sorgenti valide o normalizzando silenziosamente una prova byte per byte. Comprendi il ruolo di una fixture storica di test prima di escluderla come stato privato corrente. Una trasformazione dichiarata conserva un contratto d’identità distinto.
+
+## La pubblicazione impara dal proprio percorso
+
+Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
+
+Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato.
+
+
 # Esempi sviluppati
 
 Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
@@ -153,6 +207,22 @@ Una rete di biblioteche aggiorna il servizio di ricerca dei documenti. Il contra
 Un’osservazione indipendente trova installata la revisione precedente, con file puliti e una ricerca delimitata riuscita. L’handler mostra il percorso di disponibilità, che risponde positivamente. I riscontri sostengono un sensore errato e una versione effettivamente ripristinata; non attestano la correttezza di ogni funzione delle due revisioni. Il metodo conserva la prova fallita e la sua causa, anziché chiamarla guasto del prodotto o attivazione riuscita del target.
 
 Prima del successivo tentativo affidato, l’AI qualifica la stessa route sulla versione corrente, conserva l’artefatto precedente e verifica il payload selezionato. Conduce poi soltanto l’attivazione affidata e verifica disponibilità, revisione esatta e una ricerca pertinente attraverso i loro consumer reali. Un servizio estraneo invariato resta fuori dal riavvio. Il caso è illustrativo: i nomi delle route appartengono a questo servizio fittizio, non sono percorsi da riusare su un altro host. La lezione generale riguarda osservazione e recupero; la biblioteca conserva regole di ricerca e catalogo propri.
+
+
+
+
+## Una lista di mount riordinata causa un rollback prima della correzione dell’osservatore
+
+Il rilascio di un servizio d’archivio prevede più mount. L’host restituisce gli stessi record completi in un altro ordine e l’osservatore segnala deriva della topologia. Il rilascio circoscritto ripristina il servizio precedente. Quel ripristino è realmente avvenuto.
+
+Chi possiede il lavoro verifica se l’ordine faccia parte del contratto, poi confronta record completi in forma canonica, con duplicati e modalità conservati. Una proprietà di sola lettura o una destinazione diversa continuerebbero a fermare il rilascio. L’osservazione corretta sostiene un nuovo tentativo qualificato dello stesso artefatto. Il primo errore resta attribuito all’osservatore, senza diventare un deploy riuscito. Lo scenario è illustrativo e non prescrive questa topologia altrove.
+
+
+## L’export nomina la sorgente corretta ma cambia ciò che viene consegnato
+
+Un gruppo prepara un’utilità da riga di comando da una revisione riesaminata. Sull’host di pubblicazione, l’export converte i fine riga e omette informazioni sul modo eseguibile. L’archivio porta versione e commit attesi, ma riaprirlo rivela byte e modi diversi.
+
+Il gruppo confronta gli elementi selezionati con blob canonici e modi dell’albero, corregge l’export e verifica di nuovo l’artefatto prodotto. Un esempio configurato storico nelle fixture di test viene compreso per il suo ruolo; non è rimosso soltanto perché il percorso somiglia allo stato di un’istanza corrente. La sorgente non richiede correzioni compensative. Questo caso illustrativo distingue correttezza della sorgente, costruzione del pacchetto e installazione successiva; non attribuisce un deploy né impone uno strumento d’archivio.
 
 
 # Strumenti di lettura per il rilascio

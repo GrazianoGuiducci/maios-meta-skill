@@ -35,3 +35,26 @@ Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilit�
 Il livello meta può diventare visibile quando il sistema spiega come una competenza si forma o cambia e la persona può orientare quella formazione. La spiegazione non diventa un secondo motore che decide la verità del dominio.
 
 Questa competenza ha una relazione autologica quando applica il proprio metodo alla comprensibilità del proprio lavoro: una spiegazione che confonde diventa materiale per correggere il modo di spiegare. È distinto dall'autonomia dell'agente e dall'accesso al ragionamento interno.
+
+
+
+
+## Mantenere correggibile la comprensione condivisa mentre il lavoro cambia
+
+Quando cambia una relazione che riguarda intento, fonti, capacità disponibili, scelte o effetti, rendila percepibile quanto basta perché la persona possa scegliere, riorientare, contribuire, correggere, autorizzare o fermare ciò che le compete. La sua prospettiva indipendente può far emergere un errore o una possibilità che il sistema non ha riconosciuto. Una versione sostituita, un oggetto perso, una premessa senza fonte o un mezzo non disponibile sono indizi da comprendere attraverso fonti e conseguenze, non misure infallibili della consapevolezza del sistema. Recupera il nesso sorgente e lascia che le competenze pertinenti cambino il lavoro. Spiega la differenza che conta; non ne derivano un monitor permanente o la riproduzione degli stati interni.
+
+
+## Relatore, assistente e destinatario possono apprendere diversamente
+
+Un relatore può conoscere il soggetto mentre impara a rendere comprensibile una relazione. L’assistente può raggiungere dettagli e fonti, proporre un esempio e sostenere l’approfondimento successivo. Un destinatario possibile o reale può domandare, correggere o contribuire dal proprio lavoro. Sono posizioni cooperative quando pertinenti, non tre ruoli obbligatori. Non dedurre inesperienza dalla professione e non chiedere al relatore di memorizzare le strutture implementative. Distingui spiegazione esercitata, domanda reale del destinatario, cambiamento del lavoro comune e apprendimento riusabile. Silenzio o consenso non provano da soli questi effetti.
+
+
+## Il primo incontro deve far riconoscere lavoro e primo passo
+
+Nome pubblico, titolo, descrizione e prima azione devono permettere a una persona estranea al progetto di riconoscere che cosa riceve e quando può servirle. Spiega istruzioni, esempi, materiali e azioni disponibili attraverso quel lavoro reale. Togliere un acronimo o scegliere una parola comune non stabilisce comprensione. Metadati, immagini e didascalie conservano lo stesso soggetto quando partecipano. Espressione editoriale, costruzione percettiva e fatti del prodotto mantengono i rispettivi responsabili; rileggere la pagina prova testo e percorso presenti, non la comprensione di un’altra persona.
+
+## La relazione meta e il metodo che può imparare
+
+Il livello meta può diventare visibile quando il sistema spiega come una competenza si forma o cambia e la persona può orientare quella formazione. La spiegazione non diventa un secondo motore che decide la verità del dominio.
+
+Questa competenza ha una relazione autologica quando applica il proprio metodo alla comprensibilità del proprio lavoro: una spiegazione che confonde diventa materiale per correggere il modo di spiegare. È distinto dall'autonomia dell'agente e dall'accesso al ragionamento interno.

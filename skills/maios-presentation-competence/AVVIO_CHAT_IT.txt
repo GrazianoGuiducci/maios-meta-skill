@@ -3,9 +3,23 @@
 
 Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.
 
+Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.
+
 Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega cosa è il sistema, come opera, perché conta e come incontrarne le capacità. Per un altro sistema fornisci le sue fonti effettive e le competenze responsabili.
 
 Una presentazione è un’espressione situata del sapere del sistema. La prima spiegazione può essere breve mentre le relazioni più profonde restano raggiungibili.
+
+## Un archivio, domande diverse
+
+Un museo presenta un archivio digitale. Una visitatrice vuole trovare una fotografia; un curatore vuole risalire alla sua provenienza. Entrambi consultano lo stesso archivio.
+
+La spiegazione parte dalla domanda effettiva e mantiene collegati ricerca, scheda e documento di provenienza. Cambia la profondità, mentre soggetto e fonti restano riconoscibili.
+
+## Adattare il metodo al tuo contesto
+
+Un museo presenta un archivio digitale, un’impresa introduce un nuovo servizio, un gruppo di ricerca spiega un sistema sperimentale. Si conserva la relazione fra ciò che il sistema è, ciò che sa fare e la domanda di chi lo incontra. Cambiano il sistema sorgente, il pubblico, le parole e la profondità necessaria.
+
+Porta documenti, capacità effettive e un caso d’uso del sistema da presentare. Parti da una domanda riconoscibile per quel pubblico e collegala al meccanismo che la rende possibile. I riferimenti a MAIOS negli esempi ne indicano l’origine; il tuo sistema fornisce identità, fonti e possibilità della nuova presentazione.
 
 ## Un archivio, domande diverse
 
@@ -57,6 +71,23 @@ Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima de
 ## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
 
 Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
+
+## Continuare attraverso il progetto reale
+
+Conserva il rapporto fra primo incontro e fonti profonde: una pagina breve può portarne l’accesso.
+
+Una nuova domanda può cambiare concetto, forma visiva o mezzo: aggiorna le rappresentazioni dipendenti.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## Preparare ciò che il relatore può dire e fare, con profondità raggiungibile
+
+Parti dalla comprensione effettiva del relatore e dallo scopo dell’incontro. Aiutalo a scegliere una relazione che vale la pena rendere comprensibile adesso, esprimerla in una frase propria, mostrare un esempio pertinente e riconoscere un ponte utile. L’assistente può sostenere i dettagli documentali e riaprire le fonti quando i mezzi lo permettono. Una domanda del destinatario può cambiare focus, profondità o soggetto; non presumere che sia inesperto. La didattica conserva le capacità del sistema e i possibili contributi del pubblico. L’esercitazione può mostrare l’espressione del relatore; comprensione e cambiamento del lavoro richiedono i propri riscontri nel destinatario.
 
 ## Continuare attraverso il progetto reale
 
@@ -135,6 +166,17 @@ Le persone possono trasmettere conoscenze e ragioni, convalidare le scelte di pr
 Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare.
 
 
+
+
+## Preparare ciò che il relatore può dire e fare, con profondità raggiungibile
+
+Parti dalla comprensione effettiva del relatore e dallo scopo dell’incontro. Aiutalo a scegliere una relazione che vale la pena rendere comprensibile adesso, esprimerla in una frase propria, mostrare un esempio pertinente e riconoscere un ponte utile. L’assistente può sostenere i dettagli documentali e riaprire le fonti quando i mezzi lo permettono. Una domanda del destinatario può cambiare focus, profondità o soggetto; non presumere che sia inesperto. La didattica conserva le capacità del sistema e i possibili contributi del pubblico. L’esercitazione può mostrare l’espressione del relatore; comprensione e cambiamento del lavoro richiedono i propri riscontri nel destinatario.
+
+## Una presentazione può migliorare il metodo che presenta
+
+Quando l’incontro mostra che il metodo ha ridotto il sistema a un solo artefatto, la correzione cambia comprensione sorgente e prossimo modo di spiegare.
+
+
 # Esempi sviluppati
 
 Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
@@ -166,6 +208,15 @@ Una cooperativa di manutenzione valuta un assistente per preparare i rapporti d�
 La presentazione distingue i rapporti leggibili, le regole e le ragioni che formano una proposta e l’ambiente che può salvare il sapere approvato. Un tecnico può insegnare il significato di un’osservazione; il responsabile può confrontare una proposta con il record; un gruppo può monitorare le conseguenze dove servizio e mandato rendono possibile un’azione. Le relazioni possono coesistere. La spiegazione non promette che un prompt trasformi una chat in un servizio autonomo di manutenzione o che ogni compito segua un’unica sequenza di adozione.
 
 Se una checklist migliora, cambia il metodo con cui la cooperativa lavora con l’AI. Può svilupparsi anche un successivo servizio per i clienti, con costruzione e prove proprie. La presentazione collega i due oggetti senza dichiarare consegnato il servizio futuro. Una domanda del pubblico può cambiare esempio, profondità o prossimo gesto proposto. L’incarico è illustrativo: non è il resoconto di un sistema installato presso un cliente.
+
+
+
+
+## Una cooperativa presenta il servizio di catalogazione senza memorizzarne l’implementazione
+
+Una cooperativa presenta un servizio che confronta schede d’archivio. Chi la rappresenta conosce il valore della provenienza ma non deve memorizzare la struttura delle cartelle dell’assistente. Nell’esercitazione, l’AI aiuta a dire una relazione completa: confrontare le due schede con le loro fonti e conservare perché una correzione cambi il confronto successivo. Visual ed esempio scelti sostengono quel nesso; le fonti tecniche restano raggiungibili. Il caso è illustrativo.
+
+Un partecipante chiede come il servizio distingua una correzione approvata da una proposta. Il relatore mantiene la direzione mentre l’assistente raggiunge fonte e riscontro pertinenti, se i mezzi sono disponibili. La domanda può rivelare una capacità mancante, invece di richiedere una risposta inventata. Chi possiede il progetto comprende allora l’oggetto cambiato; la competenza di presentazione conserva un ponte utile. Spiegazione pronunciata, comprensione del destinatario e servizio installato mantengono stati distinti. Non viene attribuito un risultato a una presentazione pubblica o a un cliente.
 
 
 Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

@@ -29,3 +29,12 @@ Una cooperativa di manutenzione valuta un assistente per preparare i rapporti d�
 La presentazione distingue i rapporti leggibili, le regole e le ragioni che formano una proposta e l’ambiente che può salvare il sapere approvato. Un tecnico può insegnare il significato di un’osservazione; il responsabile può confrontare una proposta con il record; un gruppo può monitorare le conseguenze dove servizio e mandato rendono possibile un’azione. Le relazioni possono coesistere. La spiegazione non promette che un prompt trasformi una chat in un servizio autonomo di manutenzione o che ogni compito segua un’unica sequenza di adozione.
 
 Se una checklist migliora, cambia il metodo con cui la cooperativa lavora con l’AI. Può svilupparsi anche un successivo servizio per i clienti, con costruzione e prove proprie. La presentazione collega i due oggetti senza dichiarare consegnato il servizio futuro. Una domanda del pubblico può cambiare esempio, profondità o prossimo gesto proposto. L’incarico è illustrativo: non è il resoconto di un sistema installato presso un cliente.
+
+
+
+
+## Una cooperativa presenta il servizio di catalogazione senza memorizzarne l’implementazione
+
+Una cooperativa presenta un servizio che confronta schede d’archivio. Chi la rappresenta conosce il valore della provenienza ma non deve memorizzare la struttura delle cartelle dell’assistente. Nell’esercitazione, l’AI aiuta a dire una relazione completa: confrontare le due schede con le loro fonti e conservare perché una correzione cambi il confronto successivo. Visual ed esempio scelti sostengono quel nesso; le fonti tecniche restano raggiungibili. Il caso è illustrativo.
+
+Un partecipante chiede come il servizio distingua una correzione approvata da una proposta. Il relatore mantiene la direzione mentre l’assistente raggiunge fonte e riscontro pertinenti, se i mezzi sono disponibili. La domanda può rivelare una capacità mancante, invece di richiedere una risposta inventata. Chi possiede il progetto comprende allora l’oggetto cambiato; la competenza di presentazione conserva un ponte utile. Spiegazione pronunciata, comprensione del destinatario e servizio installato mantengono stati distinti. Non viene attribuito un risultato a una presentazione pubblica o a un cliente.

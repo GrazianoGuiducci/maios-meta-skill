@@ -2,7 +2,7 @@
 name: maios-presentation-competence
 description: "Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro. Quando un sistema complesso deve diventare comprensibile in un dialogo, una pagina, una presentazione o una mappa mentre sapere e capacità evolvono."
 metadata:
-  version: 0.1.5
+  version: 0.1.6
   language: it
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.
 
+Forma spiegazioni e mappe che collegano identità, capacità documentate e domanda reale del destinatario, migliorando il metodo attraverso il lavoro.
+
 Il metodo è nato nelle presentazioni MAIOS e nella Mappa del Sistema. Collega cosa è il sistema, come opera, perché conta e come incontrarne le capacità. Per un altro sistema fornisci le sue fonti effettive e le competenze responsabili.
 
 Una presentazione è un’espressione situata del sapere del sistema. La prima spiegazione può essere breve mentre le relazioni più profonde restano raggiungibili.
+
+## Un archivio, domande diverse
+
+Un museo presenta un archivio digitale. Una visitatrice vuole trovare una fotografia; un curatore vuole risalire alla sua provenienza. Entrambi consultano lo stesso archivio.
+
+La spiegazione parte dalla domanda effettiva e mantiene collegati ricerca, scheda e documento di provenienza. Cambia la profondità, mentre soggetto e fonti restano riconoscibili.
+
+## Adattare il metodo al tuo contesto
+
+Un museo presenta un archivio digitale, un’impresa introduce un nuovo servizio, un gruppo di ricerca spiega un sistema sperimentale. Si conserva la relazione fra ciò che il sistema è, ciò che sa fare e la domanda di chi lo incontra. Cambiano il sistema sorgente, il pubblico, le parole e la profondità necessaria.
+
+Porta documenti, capacità effettive e un caso d’uso del sistema da presentare. Parti da una domanda riconoscibile per quel pubblico e collegala al meccanismo che la rende possibile. I riferimenti a MAIOS negli esempi ne indicano l’origine; il tuo sistema fornisce identità, fonti e possibilità della nuova presentazione.
 
 ## Un archivio, domande diverse
 
@@ -64,6 +78,23 @@ Un lavoro familiare può rendere comprensibile un sistema in evoluzione prima de
 ## Spiegare l’adozione attraverso sapere, mezzi e responsabilità effettivi
 
 Collega le informazioni usate dal sistema, i metodi e le regole che orientano le scelte e l’ambiente che rende possibili continuità o azioni. Collaborazione e insegnamento, convalida e monitoraggio descrivono relazioni utili fra persone e sistema; si compongono secondo il lavoro e il grado di autonomia affidato. Mostra capacità disponibili, condizioni per il prossimo gesto e titolari delle decisioni. Il modo di lavorare dell’organizzazione e i suoi prodotti possono evolvere insieme, conservando oggetti distinti.
+
+## Continuare attraverso il progetto reale
+
+Conserva il rapporto fra primo incontro e fonti profonde: una pagina breve può portarne l’accesso.
+
+Una nuova domanda può cambiare concetto, forma visiva o mezzo: aggiorna le rappresentazioni dipendenti.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## Preparare ciò che il relatore può dire e fare, con profondità raggiungibile
+
+Parti dalla comprensione effettiva del relatore e dallo scopo dell’incontro. Aiutalo a scegliere una relazione che vale la pena rendere comprensibile adesso, esprimerla in una frase propria, mostrare un esempio pertinente e riconoscere un ponte utile. L’assistente può sostenere i dettagli documentali e riaprire le fonti quando i mezzi lo permettono. Una domanda del destinatario può cambiare focus, profondità o soggetto; non presumere che sia inesperto. La didattica conserva le capacità del sistema e i possibili contributi del pubblico. L’esercitazione può mostrare l’espressione del relatore; comprensione e cambiamento del lavoro richiedono i propri riscontri nel destinatario.
 
 ## Continuare attraverso il progetto reale
 

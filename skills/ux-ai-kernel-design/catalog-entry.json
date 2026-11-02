@@ -1,7 +1,7 @@
 {
   "id": "comprendere-lavoro-agente",
   "name": "UX-AI Kernel Design",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "13",
@@ -10,7 +10,7 @@
   "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
   "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
   "presentation": "skills/ux-ai-kernel-design/presentation.json",
-  "package": "dist/ux-ai-kernel-design-0.3.5.zip",
+  "package": "dist/ux-ai-kernel-design-0.3.6.zip",
   "it": {
     "route": "/risorse/comprendere-lavoro-agente/",
     "title": "Comprendere e sviluppare il lavoro tra persone e AI",
@@ -24,7 +24,9 @@
       "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
       "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema.",
       "Un risultato sui materiali apre una domanda sul modo d’indagarlo",
-      "Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede"
+      "Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede",
+      "Chi guida il progetto riconosce una versione attribuita alla fonte sbagliata",
+      "Una domanda del pubblico cambia la spiegazione e l’indagine successiva"
     ]
   },
   "en": {
@@ -40,7 +42,9 @@
       "Show which sources support the state of an activity.",
       "Let everyday work progressively teach how to use the system's capabilities.",
       "A materials result opens a question about how to investigate it",
-      "A museum team needs a different way to compare archive records"
+      "A museum team needs a different way to compare archive records",
+      "A project owner notices a version attributed to the wrong source",
+      "A public question changes both the explanation and the next inquiry"
     ]
   },
   "native_entry": "ux-ai-kernel-design",

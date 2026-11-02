@@ -24,3 +24,19 @@ A network of libraries is updating its document-search service. The service cont
 An independent inspection finds the previous revision installed, its files clean and a successful bounded search. The handler shows the readiness route, which also answers successfully. The observations support a wrong sensor and an actual restored version; they do not show that every feature of either revision is correct. The release method keeps the failed rehearsal and its cause instead of calling it a product failure or a successful target activation.
 
 Before the next entrusted attempt, the AI qualifies the same readiness route on the current version, retains the previous artifact and checks the selected payload. It then carries only the entrusted activation and verifies readiness, exact revision and a pertinent search through their actual consumers. An unchanged unrelated service stays outside the restart scope. The example is illustrative: route names describe this fictional service, not paths to reuse on another host. The reusable lesson belongs to release observation and recovery; the library keeps its own search rules and catalogue.
+
+
+
+
+## A reordered mount list triggers a rollback before the observer is corrected
+
+An archive service release expects several mounts. The host returns the same complete mount records in another order, and the observer reports topology drift. The bounded release restores the previous service. That restoration really happened.
+
+The owner examines whether order is part of this contract, then compares complete records canonically with duplicates and modes preserved. A read-only flag or changed destination would still stop the release. The corrected observation supports a new qualified attempt of the same artifact. The first failure is retained as an observer failure, not rewritten as a successful deployment. The scenario is illustrative and does not require this mount layout elsewhere.
+
+
+## An export names the right source but changes the deliverable
+
+A team packages a command-line utility from a reviewed revision. On the publishing host, export converts line endings and omits executable mode information. The archive bears the expected version and commit, yet reopening it reveals different bytes and modes.
+
+The team compares selected archive members with canonical blobs and tree modes, corrects the export and checks the produced artifact again. A historical configured example in test fixtures is understood by its role; it is not removed merely because its path resembles current-instance state. The source needs no compensating edit. This illustrative case distinguishes source correctness, package construction and later installation; it does not claim a deployment or impose one archive tool.

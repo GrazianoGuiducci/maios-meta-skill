@@ -1,3 +1,7 @@
+# Resource evolution — 2 November 2026, evening
+
+UX-AI 0.3.6 develops shared correctable understanding, recipient participation and first encounter. Presentation 0.1.6 prepares the speaker with reachable depth. Source-to-runtime 0.1.2 develops complete topology comparison and source/archive byte and mode identity. Five new illustrative cases; prior knowledge and 45 other metaskill editions, existing activity and independent kernels preserved.
+
 # Adaptable AI activities — 2 November 2026
 
 The first complete activity, **Public Representation Activity 0.1.0**, is

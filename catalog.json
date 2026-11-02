@@ -887,7 +887,7 @@
     {
       "id": "comprendere-lavoro-agente",
       "name": "UX-AI Kernel Design",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "13",
@@ -896,7 +896,7 @@
       "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
       "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
       "presentation": "skills/ux-ai-kernel-design/presentation.json",
-      "package": "dist/ux-ai-kernel-design-0.3.5.zip",
+      "package": "dist/ux-ai-kernel-design-0.3.6.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
         "title": "Comprendere e sviluppare il lavoro tra persone e AI",
@@ -910,7 +910,9 @@
           "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
           "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema.",
           "Un risultato sui materiali apre una domanda sul modo d’indagarlo",
-          "Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede"
+          "Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede",
+          "Chi guida il progetto riconosce una versione attribuita alla fonte sbagliata",
+          "Una domanda del pubblico cambia la spiegazione e l’indagine successiva"
         ]
       },
       "en": {
@@ -926,7 +928,9 @@
           "Show which sources support the state of an activity.",
           "Let everyday work progressively teach how to use the system's capabilities.",
           "A materials result opens a question about how to investigate it",
-          "A museum team needs a different way to compare archive records"
+          "A museum team needs a different way to compare archive records",
+          "A project owner notices a version attributed to the wrong source",
+          "A public question changes both the explanation and the next inquiry"
         ]
       },
       "native_entry": "ux-ai-kernel-design",
@@ -2545,7 +2549,7 @@
     {
       "id": "presentare-sistemi-in-evoluzione",
       "name": "MAIOS Presentation Competence",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "37",
@@ -2579,7 +2583,7 @@
       "starter": "skills/maios-presentation-competence/START_CHAT_EN.txt",
       "examples": "skills/maios-presentation-competence/EXAMPLES.md",
       "presentation": "skills/maios-presentation-competence/presentation.json",
-      "package": "dist/maios-presentation-competence-0.1.5.zip",
+      "package": "dist/maios-presentation-competence-0.1.6.zip",
       "en": {
         "title": "Present a complex system’s capabilities and operation",
         "subtitle": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -2591,7 +2595,9 @@
           "A first encounter with MAIOS",
           "One system, different useful entrances",
           "A diagram reveals a conceptual error",
-          "A school office understands what to delegate to AI"
+          "A school office understands what to delegate to AI",
+          "A maintenance cooperative explains how it will work with an assistant",
+          "A cooperative presents its catalogue service without memorizing the implementation"
         ],
         "route": "/resources/presentare-sistemi-in-evoluzione/",
         "description": "Connect identity, examples and sources in an explanation readers can navigate and explore.",
@@ -2608,7 +2614,9 @@
           "Un primo incontro con MAIOS",
           "Uno stesso sistema, ingressi utili differenti",
           "Un diagramma rivela un errore concettuale",
-          "Una segreteria scolastica comprende che cosa delegare all’AI"
+          "Una segreteria scolastica comprende che cosa delegare all’AI",
+          "Una cooperativa di manutenzione presenta come lavorerà con un assistente",
+          "Una cooperativa presenta il servizio di catalogazione senza memorizzarne l’implementazione"
         ],
         "route": "/risorse/presentare-sistemi-in-evoluzione/",
         "description": "Collega identità, esempi e fonti in una spiegazione che permette al lettore di orientarsi e approfondire.",
@@ -3037,7 +3045,7 @@
     {
       "id": "dalla-sorgente-al-servizio",
       "name": "Govern Source to Runtime",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "44",
@@ -3092,7 +3100,10 @@
         "examples": [
           "Il calendario corretto non è ancora quello pubblico",
           "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
-          "La guida PDF cambia nell’esportazione"
+          "La guida PDF cambia nell’esportazione",
+          "Un servizio bibliotecario e il controllo di salute che descriveva il guasto sbagliato",
+          "Una lista di mount riordinata causa un rollback prima della correzione dell’osservatore",
+          "L’export nomina la sorgente corretta ma cambia ciò che viene consegnato"
         ],
         "route": "/risorse/dalla-sorgente-al-servizio/",
         "description": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio."
@@ -3107,7 +3118,10 @@
         "examples": [
           "The corrected calendar is not yet the public calendar",
           "A published analysis model is not yet the model used by the service",
-          "A maintenance PDF changes during export"
+          "A maintenance PDF changes during export",
+          "A library service and a health check that described the wrong failure",
+          "A reordered mount list triggers a rollback before the observer is corrected",
+          "An export names the right source but changes the deliverable"
         ],
         "route": "/resources/dalla-sorgente-al-servizio/",
         "description": "Connect revision, publication, activation and observation while keeping the transition recoverable."
@@ -3117,7 +3131,7 @@
       "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
       "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
       "presentation": "skills/govern-source-to-runtime/presentation.json",
-      "package": "dist/govern-source-to-runtime-0.1.1.zip",
+      "package": "dist/govern-source-to-runtime-0.1.2.zip",
       "maturity": "method_available_automation_candidate"
     },
     {

@@ -3,6 +3,8 @@
 
 Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
 
+Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
+
 **Rendere comprensibile il lavoro di un agente AI**
 
 Fa vedere alla persona il significato del movimento corrente e i punti in cui può intervenire.
@@ -77,6 +79,31 @@ Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La
 Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
 
 
+
+
+## Mantenere correggibile la comprensione condivisa mentre il lavoro cambia
+
+Quando cambia una relazione che riguarda intento, fonti, capacità disponibili, scelte o effetti, rendila percepibile quanto basta perché la persona possa scegliere, riorientare, contribuire, correggere, autorizzare o fermare ciò che le compete. La sua prospettiva indipendente può far emergere un errore o una possibilità che il sistema non ha riconosciuto. Una versione sostituita, un oggetto perso, una premessa senza fonte o un mezzo non disponibile sono indizi da comprendere attraverso fonti e conseguenze, non misure infallibili della consapevolezza del sistema. Recupera il nesso sorgente e lascia che le competenze pertinenti cambino il lavoro. Spiega la differenza che conta; non ne derivano un monitor permanente o la riproduzione degli stati interni.
+
+
+## Relatore, assistente e destinatario possono apprendere diversamente
+
+Un relatore può conoscere il soggetto mentre impara a rendere comprensibile una relazione. L’assistente può raggiungere dettagli e fonti, proporre un esempio e sostenere l’approfondimento successivo. Un destinatario possibile o reale può domandare, correggere o contribuire dal proprio lavoro. Sono posizioni cooperative quando pertinenti, non tre ruoli obbligatori. Non dedurre inesperienza dalla professione e non chiedere al relatore di memorizzare le strutture implementative. Distingui spiegazione esercitata, domanda reale del destinatario, cambiamento del lavoro comune e apprendimento riusabile. Silenzio o consenso non provano da soli questi effetti.
+
+
+## Il primo incontro deve far riconoscere lavoro e primo passo
+
+Nome pubblico, titolo, descrizione e prima azione devono permettere a una persona estranea al progetto di riconoscere che cosa riceve e quando può servirle. Spiega istruzioni, esempi, materiali e azioni disponibili attraverso quel lavoro reale. Togliere un acronimo o scegliere una parola comune non stabilisce comprensione. Metadati, immagini e didascalie conservano lo stesso soggetto quando partecipano. Espressione editoriale, costruzione percettiva e fatti del prodotto mantengono i rispettivi responsabili; rileggere la pagina prova testo e percorso presenti, non la comprensione di un’altra persona.
+
+## Continuare attraverso il progetto reale
+
+Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La prova utile è nel modo in cui una persona comprende e interviene in situazioni successive, non nella presenza di un pannello o di una descrizione.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
 # UX-AI Kernel Design — sapere operativo pratico
 
 ## Formare una superficie di lavoro reciproca e simultanea
@@ -108,6 +135,29 @@ Un risultato può restare difficile da comprendere anche quando la spiegazione �
 ## Adattare la collaborazione alle capacità umane effettive
 
 Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## La relazione meta e il metodo che può imparare
+
+Il livello meta può diventare visibile quando il sistema spiega come una competenza si forma o cambia e la persona può orientare quella formazione. La spiegazione non diventa un secondo motore che decide la verità del dominio.
+
+Questa competenza ha una relazione autologica quando applica il proprio metodo alla comprensibilità del proprio lavoro: una spiegazione che confonde diventa materiale per correggere il modo di spiegare. È distinto dall'autonomia dell'agente e dall'accesso al ragionamento interno.
+
+
+
+
+## Mantenere correggibile la comprensione condivisa mentre il lavoro cambia
+
+Quando cambia una relazione che riguarda intento, fonti, capacità disponibili, scelte o effetti, rendila percepibile quanto basta perché la persona possa scegliere, riorientare, contribuire, correggere, autorizzare o fermare ciò che le compete. La sua prospettiva indipendente può far emergere un errore o una possibilità che il sistema non ha riconosciuto. Una versione sostituita, un oggetto perso, una premessa senza fonte o un mezzo non disponibile sono indizi da comprendere attraverso fonti e conseguenze, non misure infallibili della consapevolezza del sistema. Recupera il nesso sorgente e lascia che le competenze pertinenti cambino il lavoro. Spiega la differenza che conta; non ne derivano un monitor permanente o la riproduzione degli stati interni.
+
+
+## Relatore, assistente e destinatario possono apprendere diversamente
+
+Un relatore può conoscere il soggetto mentre impara a rendere comprensibile una relazione. L’assistente può raggiungere dettagli e fonti, proporre un esempio e sostenere l’approfondimento successivo. Un destinatario possibile o reale può domandare, correggere o contribuire dal proprio lavoro. Sono posizioni cooperative quando pertinenti, non tre ruoli obbligatori. Non dedurre inesperienza dalla professione e non chiedere al relatore di memorizzare le strutture implementative. Distingui spiegazione esercitata, domanda reale del destinatario, cambiamento del lavoro comune e apprendimento riusabile. Silenzio o consenso non provano da soli questi effetti.
+
+
+## Il primo incontro deve far riconoscere lavoro e primo passo
+
+Nome pubblico, titolo, descrizione e prima azione devono permettere a una persona estranea al progetto di riconoscere che cosa riceve e quando può servirle. Spiega istruzioni, esempi, materiali e azioni disponibili attraverso quel lavoro reale. Togliere un acronimo o scegliere una parola comune non stabilisce comprensione. Metadati, immagini e didascalie conservano lo stesso soggetto quando partecipano. Espressione editoriale, costruzione percettiva e fatti del prodotto mantengono i rispettivi responsabili; rileggere la pagina prova testo e percorso presenti, non la comprensione di un’altra persona.
 
 ## La relazione meta e il metodo che può imparare
 
@@ -161,6 +211,22 @@ La guida conserva risultato provvisorio, nuova domanda e ragione per cui un mezz
 Un volontario di un museo confronta due schede del catalogo mentre l’assistente presenta una lunga risposta unificata. Chiede di conservare visibili ciascuna scheda e la sua fonte, esaminando una differenza alla volta. Il sistema adatta la relazione di lavoro: identificatori conservati, passaggi sorgente raggiungibili e un punto esplicito in cui il volontario può correggere il confronto. Una tabella breve o una conversazione possono servire questo bisogno; una fusione automatica richiederebbe mezzi e mandato propri.
 
 Una differenza successiva può mostrare se il volontario riconosca il problema di provenienza e riesca a intervenire senza ricostruire l’intero scambio. Una confusione può cambiare interfaccia, metodo di confronto dell’assistente o spiegazione. Il gruppo conserva schede originali e ragioni utili. È un adattamento illustrativo, non la prova di un sistema museale installato o di un apprendimento misurato.
+
+
+
+
+## Chi guida il progetto riconosce una versione attribuita alla fonte sbagliata
+
+Un gruppo valuta un servizio documentale. L’assistente descrive una capacità come disponibile nella versione installata, ma il responsabile ricorda che la nota citata riguarda un altro prodotto. Chiede di riaprire la fonte del rilascio. Questo indizio illustrativo richiede comprensione; non è una misura del cedimento di consapevolezza né la prova che ogni risposta sia sbagliata.
+
+L’assistente collega capacità, prodotto effettivo e revisione installata alle rispettive fonti. Corregge l’attribuzione e rende comprensibile la scelta cambiata: continuare con la funzione disponibile, indagare un aggiornamento o riformare il lavoro previsto. L’aggiornamento resta un’azione distinta con mezzi e autorità reali. La correzione del gruppo cambia il criterio usato nel confronto successivo; un altro caso avrà prove proprie dell’uso di quel criterio.
+
+
+## Una domanda del pubblico cambia la spiegazione e l’indagine successiva
+
+Una ricercatrice prepara una spiegazione breve con un assistente. Conosce la ricerca ma vuole essere aiutata a scegliere una relazione da esprimere con parole proprie. L’assistente sostiene un esempio e conserva le fonti approfondibili, invece di richiedere un catalogo di metodi interni.
+
+Nell’incontro illustrativo un partecipante chiede quale osservazione distinguerebbe due interpretazioni. La domanda cambia ciò che ora serve spiegare e può aprire un’indagine con chi possiede il sapere scientifico. La relatrice può imparare un ponte migliore; il partecipante può apportare una distinzione; il metodo di presentazione dell’assistente può conservare perché quella domanda conta. Un’esercitazione riuscita, la comprensione effettiva del partecipante e un nuovo esperimento compiuto restano osservazioni distinte. Non viene attribuito un risultato a un incontro reale.
 
 
 Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

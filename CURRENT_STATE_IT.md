@@ -1,3 +1,7 @@
+# Resource evolution — 2 November 2026, evening
+
+UX-AI 0.3.6 sviluppa comprensione condivisa correggibile, partecipazione del destinatario e primo incontro. Presentazione 0.1.6 prepara il relatore con profondità raggiungibile. Sorgente/runtime 0.1.2 approfondisce confronto della topologia e identità di byte e modi sorgente/archivio. Cinque casi illustrativi nuovi; sapere precedente e altre 45 edizioni, attività esistente e kernel indipendenti preservati.
+
 # Human–AI understanding — 2 November 2026
 
 UX-AI 0.3.5 e System Fundable Project Extraction 0.1.1 sviluppano comprensione umana come oggetto di ricerca/progetto, adattamento quotidiano e tre nuovi casi illustrativi tra ricerca sui materiali, museo e cooperativa energetica. Metodi, casi e archivi precedenti sono conservati. Pubblicazione, runtime e comprensione umana osservata restano distinti.

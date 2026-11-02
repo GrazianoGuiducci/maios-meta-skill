@@ -14,4 +14,4 @@ Leggi SKILL_IT.md e GUIDA_OPERATIVA_IT.md. Allega in chat l’intero AVVIO_CHAT_
 
 ## File ed edizione
 
-Edizione pubblica 0.3.5. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.
+Edizione pubblica 0.3.6. Inglese principale, con corrispondenti file italiani. Leggi INSTALL_IT.md per l’installazione nel progetto. Il metodo si usa autonomamente o con un kernel. Esempi ed esplorazione sul sito sono illustrativi.

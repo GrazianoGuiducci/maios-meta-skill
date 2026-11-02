@@ -2,11 +2,13 @@
 name: ux-ai-kernel-design
 description: "Makes the relation between human understanding and AI operation usable, and lets difficulties in that relation change the work, its methods and research questions. When a person needs to understand or guide AI work, or a discovery raises new questions about how it can become usable understanding."
 metadata:
-  version: 0.3.5
+  version: 0.3.6
   language: en
 ---
 
 # UX-AI Kernel Design
+
+Makes the relation between human understanding and AI operation usable, and lets difficulties in that relation change the work, its methods and research questions.
 
 Makes the relation between human understanding and AI operation usable, and lets difficulties in that relation change the work, its methods and research questions.
 
@@ -64,6 +66,31 @@ A result may remain hard to understand even when the explanation is fluent. Reco
 ## Adapt the collaboration to actual human capabilities
 
 Reach the person’s present knowledge, attention, pace, perceptual means and opportunities to intervene through the work and their expressed needs. Do not infer them from a role, age or silence. The useful change may concern the AI’s behaviour, the available means or a new way of understanding, rather than only the length of an answer. Preserve essential meaning, authorship and decision-changing conditions. New capabilities can form on either side of the collaboration. Distinguish information seen, comprehension, later use and measured improvement; no universal interface or mandatory study follows.
+
+## Continue through the actual project
+
+Everyday work can gradually teach participation in the system. Useful evidence lies in how a person understands and intervenes in later situations, not in the presence of a panel or description.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+
+
+## Keep shared understanding correctable as work changes
+
+When a change affects intent, sources, available capabilities, choices or effects, make enough of that relation perceptible for the person to choose, redirect, contribute, correct, authorize or stop what belongs to them. Their independent perspective may expose a mistake or possibility the system has missed. A substituted version, lost object, unsupported premise or unavailable means is a clue to investigate through sources and consequences, not an infallible measure of the system’s awareness. Recover the source relation and let the appropriate competences change the work. Explain only the difference that matters; a permanent monitor or a dump of internal states does not follow.
+
+
+## A speaker, an assistant and a listener can learn differently
+
+A speaker may know the subject while learning how to make one relation intelligible. The assistant can reach details and sources, offer an example and support the next depth. A possible or actual listener can question, correct or contribute from their own work. These are cooperative positions when pertinent, not three compulsory roles. Do not infer inexperience from a job title or make the speaker memorize implementation structures. Distinguish a rehearsed explanation, a listener’s actual question, a change to the shared work and reusable learning. Silence or agreement proves none of these by itself.
+
+
+## Make the first encounter identify the work and the first step
+
+A public name, heading, description and first action should let an unfamiliar person recognize what they receive and when it can help. Explain instructions, examples, materials and available actions through that actual work. Removing an acronym or using an ordinary word does not establish understanding. Keep metadata, images and captions attached to the same subject where they participate. Editorial expression, perceptual construction and product facts retain their respective owners; a rereading of the page proves its present wording and path, not another person’s comprehension.
 
 ## Continue through the actual project
 

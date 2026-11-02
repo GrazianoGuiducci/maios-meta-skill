@@ -2,11 +2,13 @@
 name: ux-ai-kernel-design
 description: "Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca. Quando una persona deve comprendere o guidare il lavoro dell’AI, oppure una scoperta apre domande su come diventare comprensione utilizzabile."
 metadata:
-  version: 0.3.5
+  version: 0.3.6
   language: it
 ---
 
 # UX-AI Kernel Design
+
+Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
 
 Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
 
@@ -74,6 +76,31 @@ Un risultato può restare difficile da comprendere anche quando la spiegazione �
 ## Adattare la collaborazione alle capacità umane effettive
 
 Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## Continuare attraverso il progetto reale
+
+Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La prova utile è nel modo in cui una persona comprende e interviene in situazioni successive, non nella presenza di un pannello o di una descrizione.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## Mantenere correggibile la comprensione condivisa mentre il lavoro cambia
+
+Quando cambia una relazione che riguarda intento, fonti, capacità disponibili, scelte o effetti, rendila percepibile quanto basta perché la persona possa scegliere, riorientare, contribuire, correggere, autorizzare o fermare ciò che le compete. La sua prospettiva indipendente può far emergere un errore o una possibilità che il sistema non ha riconosciuto. Una versione sostituita, un oggetto perso, una premessa senza fonte o un mezzo non disponibile sono indizi da comprendere attraverso fonti e conseguenze, non misure infallibili della consapevolezza del sistema. Recupera il nesso sorgente e lascia che le competenze pertinenti cambino il lavoro. Spiega la differenza che conta; non ne derivano un monitor permanente o la riproduzione degli stati interni.
+
+
+## Relatore, assistente e destinatario possono apprendere diversamente
+
+Un relatore può conoscere il soggetto mentre impara a rendere comprensibile una relazione. L’assistente può raggiungere dettagli e fonti, proporre un esempio e sostenere l’approfondimento successivo. Un destinatario possibile o reale può domandare, correggere o contribuire dal proprio lavoro. Sono posizioni cooperative quando pertinenti, non tre ruoli obbligatori. Non dedurre inesperienza dalla professione e non chiedere al relatore di memorizzare le strutture implementative. Distingui spiegazione esercitata, domanda reale del destinatario, cambiamento del lavoro comune e apprendimento riusabile. Silenzio o consenso non provano da soli questi effetti.
+
+
+## Il primo incontro deve far riconoscere lavoro e primo passo
+
+Nome pubblico, titolo, descrizione e prima azione devono permettere a una persona estranea al progetto di riconoscere che cosa riceve e quando può servirle. Spiega istruzioni, esempi, materiali e azioni disponibili attraverso quel lavoro reale. Togliere un acronimo o scegliere una parola comune non stabilisce comprensione. Metadati, immagini e didascalie conservano lo stesso soggetto quando partecipano. Espressione editoriale, costruzione percettiva e fatti del prodotto mantengono i rispettivi responsabili; rileggere la pagina prova testo e percorso presenti, non la comprensione di un’altra persona.
 
 ## Continuare attraverso il progetto reale
 
