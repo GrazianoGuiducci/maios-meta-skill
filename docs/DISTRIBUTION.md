@@ -35,3 +35,21 @@ Articles and social adaptations derive from the selected resource. Shortening pr
 Comprehension difficulty changes a card or explanation; missing operating knowledge changes method or guide; delivery divergence changes the build mechanism. Correct dependent projections while preserving unrelated work.
 
 Feedback may change the product, explanation, distribution or formation method. Return reusable learning to the responsible competence. One completed case makes a method available; later non-identical use can reveal its assimilation and limits.
+# Adaptable activities
+
+The `activities` array in the catalogue identifies complete assignments that
+compose existing competences. It is separate from the operating entries in
+`resources` and from the skill installer. Each activity has its own edition,
+localized method, guide, examples, context template and autonomous starter.
+
+Run `python tools/build_activities.py` to render the activity documents from
+their authored `activity.json` sources. Commit those sources, then run
+`python tools/build_activities.py --source-ref COMMIT` to produce the kit from
+that exact revision. `dist/activities-manifest.json` records the resulting
+archive, source revision, supporting competence editions and file hashes.
+Existing competence packages and their manifest are preserved.
+
+The kit includes complete public supporting competences under `skills/`.
+The activity guide explains adoption through the receiving environment; copying
+the assignment does not create a recurring job or confer publication authority.
+

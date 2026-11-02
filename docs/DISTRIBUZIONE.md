@@ -37,3 +37,21 @@ Un riscontro può riguardare comprensione, metodo, strumenti disponibili o aspet
 Meta-Activity è il primo caso. I file e le sezioni utili qui non costituiscono un template obbligatorio per tutte le prossime competenze. Il metodo si affina attraverso la loro formazione e l'uso.
 
 Una traduzione conserva anche le relazioni operative: cosa osservare, quale differenza cambia la scelta, come agire e che cosa portare nel seguito. Titoli, conteggio delle sezioni e promessa di valore non sostituiscono questa corrispondenza.
+# Attività da adattare
+
+La sezione `activities` del catalogo identifica incarichi completi che
+compongono competenze esistenti. È distinta dagli ingressi operativi in
+`resources` e dall’installer delle skill. Ogni attività ha una propria edizione,
+metodo localizzato, guida, esempi, modello di contesto e avvio autonomo.
+
+`python tools/build_activities.py` genera i documenti dalle sorgenti autoriali
+`activity.json`. Dopo il commit delle sorgenti,
+`python tools/build_activities.py --source-ref COMMIT` produce il kit da quella
+revisione esatta. `dist/activities-manifest.json` conserva archivio, revisione,
+edizioni delle competenze di supporto e impronte dei file. Pacchetti e manifest
+delle competenze già distribuite restano preservati.
+
+Il kit include le competenze pubbliche complete sotto `skills/`. La guida
+spiega l’adozione attraverso il proprio ambiente: copiare l’incarico non crea
+un job ricorrente e non attribuisce autorità di pubblicazione.
+
