@@ -1,4 +1,5 @@
 """An activity kit must work offline and retain its committed dependency identity."""
+import copy
 import json
 from pathlib import Path
 import subprocess
@@ -13,6 +14,58 @@ from build_activities import render, package
 
 
 class ActivityDeliveryTests(unittest.TestCase):
+    def test_second_activity_preserves_the_first_archive_receipt_and_catalogue_order(self):
+        first = json.loads((ROOT / 'activities/public-representation/activity.json').read_text(encoding='utf-8'))
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            folder = root / first['folder']
+            folder.mkdir(parents=True)
+            (folder / 'activity.json').write_text(json.dumps(first), encoding='utf-8')
+            resources = []
+            for name in first['competences']:
+                support = root / 'skills' / name
+                support.mkdir(parents=True)
+                (support / 'SKILL.md').write_text('Synthetic complete method.', encoding='utf-8')
+                resources.append({'native_entry': name, 'version': '1.0.0', 'skill': 'skills/' + name + '/SKILL.md'})
+            (root / 'catalog.json').write_text(json.dumps({'resources': resources}), encoding='utf-8')
+            for name in ('LICENSE', 'NOTICE'):
+                (root / name).write_text('Synthetic fixture.', encoding='utf-8')
+            def git(*args):
+                return subprocess.check_output(['git', '-C', str(root), *args], stderr=subprocess.DEVNULL, text=True).strip()
+            git('init')
+            git('config', 'user.name', 'Activity delivery test')
+            git('config', 'user.email', 'test@example.invalid')
+            git('config', 'core.hooksPath', str(root / 'no-hooks'))
+            render(root)
+            git('add', '.')
+            git('commit', '-m', 'first source')
+            receipt = package('HEAD', root)[0]
+            original = (root / receipt['package']).read_bytes()
+            git('add', '.')
+            git('commit', '-m', 'first distribution')
+            second = copy.deepcopy(first)
+            second.update(id='another-activity', folder='activities/another-activity',
+                          package='dist/another-activity.zip')
+            for lang, route in [('en', '/resources/ai-activities/another/'), ('it', '/risorse/attivita-ai/altra/')]:
+                second[lang]['route'] = route
+            folder = root / second['folder']
+            folder.mkdir(parents=True)
+            (folder / 'activity.json').write_text(json.dumps(second), encoding='utf-8')
+            rendered = render(root)
+            self.assertEqual([row['id'] for row in rendered], [first['id'], second['id']])
+            git('add', '.')
+            git('commit', '-m', 'second source')
+            revision = git('rev-parse', 'HEAD')
+            records = package('HEAD', root, activity_id=second['id'])
+            self.assertEqual(records[0], receipt)
+            self.assertEqual(records[1]['source_revision'], revision)
+            self.assertEqual(original, (root / receipt['package']).read_bytes())
+            manifest = (root / 'dist/activities-manifest.json').read_bytes()
+            self.assertEqual(records, package(revision, root, activity_id=second['id']))
+            with self.assertRaises(ValueError):
+                package(revision, root, activity_id='missing')
+            self.assertEqual(manifest, (root / 'dist/activities-manifest.json').read_bytes())
+
     def test_complete_bilingual_kit_is_reproducible_and_ignores_uncommitted_work(self):
         definition = json.loads((ROOT / 'activities/public-representation/activity.json').read_text(encoding='utf-8'))
         with tempfile.TemporaryDirectory() as temporary:

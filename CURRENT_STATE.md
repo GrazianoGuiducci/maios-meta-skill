@@ -1,3 +1,18 @@
+# Project possibilities Radar — 2 November 2026
+
+The collection has 48 competence entries and two scheduled activities (AP).
+The new Project Radar 0.1.0 connects external developments, project capabilities
+and possible contributions. Its human guide, complete AI starter, four
+illustrative cases and context template are available in English and Italian.
+The kit includes four complete existing public competences. Configuration,
+execution and results in another receiving system retain their own evidence.
+
+Secondary System Updates remains edition 0.2.1 with its existing package and
+source receipt. Earlier dated entries below preserve their historical scope.
+The second activity is packaged selectively from committed source, preserving
+other archives and their declared identities. Website and assistant knowledge
+retain separate publication and activation effects.
+
 # Adaptable AI activities — 2 November 2026
 
 The first complete activity, **Public Representation Activity 0.1.0**, is

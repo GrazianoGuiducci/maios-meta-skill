@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competences and 1 scheduled activity (AP) for working with AI, forming competences and evolving their methods.**
+**48 competences and 2 scheduled activities (AP) for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -29,6 +29,7 @@ The `skills/` directory contains the 48 operating entries. [Previous resource ID
 Complete methods and instructions for scheduling activities in an autonomous system. Each scheduled activity preserves its purpose, reads system sources, uses the tools and access entrusted to it, and maintains continuity between runs. AP is the Italian abbreviation for attività programmate. The first AP handles secondary system updates, from documentation to the other surfaces that need to remain aligned.
 
 - [AP for secondary system updates](activities/public-representation/README.md) · 0.2.1
+- [AP for project possibilities and opportunities](activities/project-radar/README.md) · 0.1.0 — connects relevant developments, project capabilities and possible contributions, with sources, conditions and follow-up.
 
 ## Choose a resource
 

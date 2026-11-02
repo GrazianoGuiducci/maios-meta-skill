@@ -99,6 +99,8 @@ def render(root=ROOT):
     activities = []
     entries = [(path, json.loads(path.read_text(encoding='utf-8'))) for path in sorted((root / 'activities').glob('*/activity.json'))]
     validate_set([value for path, value in entries], root)
+    order = {row['id']: index for index, row in enumerate(catalog.get('activities', []))}
+    entries.sort(key=lambda entry: (order.get(entry[1]['id'], len(order)), entry[0].as_posix()))
     for path, value in entries:
         if path.parent.resolve() != target(root, value['folder']):
             raise ValueError('Activity definition and declared folder differ')
@@ -140,7 +142,7 @@ def render(root=ROOT):
     return activities
 
 
-def package(source_ref, root=ROOT):
+def package(source_ref, root=ROOT, activity_id=None):
     source_ref = subprocess.check_output(
         ['git', '-C', str(root), 'rev-parse', '--verify', '--end-of-options', source_ref + '^{commit}'],
         text=True).strip()
@@ -153,7 +155,25 @@ def package(source_ref, root=ROOT):
     target(root, 'dist/activities-manifest.json')
     skills = {row['native_entry']: row for row in catalog['resources']}
     packages, prepared = [], []
+    activities = catalog.get('activities', [])
+    if activity_id is not None:
+        if not any(row['id'] == activity_id for row in activities):
+            raise ValueError('Selected activity is absent from the committed catalogue')
+        if tracked('dist/activities-manifest.json'):
+            current = {row['id']: row for row in activities}
+            for row in json.loads(read('dist/activities-manifest.json'))['packages']:
+                if row['id'] == activity_id:
+                    continue
+                previous = current.get(row['id'])
+                if previous is None or any(row[key] != previous[key] for key in ('version', 'package')):
+                    raise ValueError('Preserved activity does not match the committed catalogue')
+                relative_path(row['package'])
+                if hashlib.sha256(read(row['package'])).hexdigest() != row['sha256']:
+                    raise ValueError('Preserved activity archive does not match its receipt')
+                packages.append(row)
     for activity in catalog.get('activities', []):
+        if activity_id is not None and activity['id'] != activity_id:
+            continue
         prefix = activity['id'] + '-activity/'
         members, folded = {}, set()
         def member(name, path):
@@ -203,6 +223,8 @@ def package(source_ref, root=ROOT):
         packages.append({'id': activity['id'], 'version': activity['version'], 'source_revision': source_ref,
                          'package': activity['package'], 'sha256': hashlib.sha256(destination.read_bytes()).hexdigest(),
                          'competences': dependencies, 'files': {name: hashlib.sha256(content).hexdigest() for name, content in payloads.items()}})
+    order = {row['id']: index for index, row in enumerate(activities)}
+    packages.sort(key=lambda row: order[row['id']])
     target(root, 'dist/activities-manifest.json').write_bytes(encoded({'schema_version': 1, 'packages': packages}))
     return packages
 
@@ -210,6 +232,9 @@ def package(source_ref, root=ROOT):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-ref', help='Package this committed source; otherwise render editable activity sources')
+    parser.add_argument('--activity', help='Package only this activity, preserving other committed archives and receipts')
     args = parser.parse_args()
-    result = package(args.source_ref) if args.source_ref else render()
+    if args.activity and not args.source_ref:
+        parser.error('--activity requires --source-ref')
+    result = package(args.source_ref, activity_id=args.activity) if args.source_ref else render()
     print(json.dumps([{'id': row['id'], 'version': row['version']} for row in result]))
