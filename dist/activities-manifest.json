@@ -3,10 +3,10 @@
   "packages": [
     {
       "id": "public-representation",
-      "version": "0.1.1",
-      "source_revision": "5c0360e6330c336dd25a3bb2163d327b9e73cb58",
-      "package": "dist/public-representation-activity-0.1.1.zip",
-      "sha256": "e9f7efc2f5329547bbe2100f79dac7c3e8823e3e61c770928367877a42976135",
+      "version": "0.2.0",
+      "source_revision": "02db6fe3f425ba49f9d59e49e3bc4bbcfcfa350e",
+      "package": "dist/secondary-system-updates-activity-0.2.0.zip",
+      "sha256": "d71c10a2e388fb8271df05eb23730208e69511085beab9fadda7a8a865cf5778",
       "competences": [
         {
           "native_entry": "form-public-metaskill-resources",
@@ -82,19 +82,19 @@
         }
       ],
       "files": {
-        "public-representation-activity/ACTIVITY.md": "5eaa71bc7763d454510d8b43f700349511f4e4729dd45374e24db4825450fe5d",
-        "public-representation-activity/ATTIVITA.md": "69b6093a5082839494c4f5670e7898eee143476a3683a92b9ad5e782b434b4d1",
-        "public-representation-activity/AVVIO_CHAT_IT.txt": "bd8144d68dd314a729b455a0be1415bc036952ecc6b79f329ce61c6eecb8ec14",
-        "public-representation-activity/CONTESTO_IT.md": "62629ee44afda953f22dd2a643eceb7fb6540e646850206129f821903fb8b3b8",
-        "public-representation-activity/CONTEXT_EN.md": "772abc2ccb773b0f8067e91e6e795a68867ce4344ef460b0a265d342dadf1fcb",
-        "public-representation-activity/ESEMPI_IT.md": "dfb6368645ac35afde62d296173402a4fc32cbb5aca90b9d114625e2b8e33bab",
-        "public-representation-activity/EXAMPLES.md": "f2aadae1aa11dbad45a2d66351b9ca3ff2a92ec63f36a63fbca69950a978e584",
-        "public-representation-activity/GUIDA_IT.md": "012a4569df8fb4b80e1103f237954e19463566f391a266939e08afa3067e3d6d",
+        "public-representation-activity/ACTIVITY.md": "70e5e8f1fc4ddc90766a5cf76d0c3172d7e209938c18e2c62dc18c6d9d49d134",
+        "public-representation-activity/ATTIVITA.md": "c50d5791e21f372b1407dae28daa3144a3a7ebcc102480b1195bc4c2f8ac2091",
+        "public-representation-activity/AVVIO_CHAT_IT.txt": "8fec78f34d793917f3372a9151045b17e1e680e91a913b056c8354ba64881288",
+        "public-representation-activity/CONTESTO_IT.md": "636a39f7d2ca0b5c6e5656ca555b0d2a3c44747a2bac86c95c2eddc0509f4ac5",
+        "public-representation-activity/CONTEXT_EN.md": "b18d04f94bcbadb460ab0e9a5552216dfb7e6c0c2086871761cdbc7443476ba3",
+        "public-representation-activity/ESEMPI_IT.md": "dc95a65ec40c1374beeee62f906cf7ca8d0b5444aafad4d2edb58c4108d662d4",
+        "public-representation-activity/EXAMPLES.md": "900b30d4ce474c49abb1e1661d3f3955c3e95d749baebfbc49134da57332a10d",
+        "public-representation-activity/GUIDA_IT.md": "ed0714beb22789dff0a3648eaac3624d1ac818f92db28d11cbea2687ddf05ba5",
         "public-representation-activity/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "public-representation-activity/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae",
-        "public-representation-activity/README.md": "86f5d8c0b369cdf7fa1a52401daa958c11819ee8fe77f9090f75327d24f62a27",
-        "public-representation-activity/START_CHAT_EN.txt": "37ca5ba94b52abe6ceb5655ace238ee8e20b735f0981bf26d301c9867a95dccb",
-        "public-representation-activity/activity.json": "33cbe642784f8e44e1cdbeb39488a6dec2d77a314f470c00899a9d5543b09b93",
+        "public-representation-activity/README.md": "6e41b6336ce35a6d8392f805e0d737685e37891094438fe4a10ac2d07bb9e482",
+        "public-representation-activity/START_CHAT_EN.txt": "3491eb8f0134c6e2782494318e019028a009a025873feec4b8c0c17499d6cc3c",
+        "public-representation-activity/activity.json": "22dd20d247b07bee5b1d630911cbbe60d8e4e8785bdc0afb37ee3c914c1d1329",
         "public-representation-activity/skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt": "a20b18e957f88556a10477919ea4d48681fc8b5d1f2e8697afc0b6b58ccda820",
         "public-representation-activity/skills/form-public-metaskill-resources/EDITION.json": "af2310fe3c0fcc2e8c5a5a851cc30388c6bd0abd6d9b170df4d8860796915451",
         "public-representation-activity/skills/form-public-metaskill-resources/ESEMPI_IT.md": "34eaac46bfac72817893d38880c6a5b63ce7da18769218f78b952078294ce6b8",
@@ -146,7 +146,7 @@
         "public-representation-activity/skills/situated-activity-evolution/START_CHAT_EN.txt": "cd869f5a5fbb427d7cba0e9a8740f16ade1f2207d9a0a8d9c466e71eb85adec3",
         "public-representation-activity/skills/situated-activity-evolution/catalog-entry.json": "8728a2b68bdf8dc5703b961f782a3998f47451c848b73d05e959280e8f7cc01f",
         "public-representation-activity/skills/situated-activity-evolution/presentation.json": "e2b6ce7685e17fe26dd4f9a3455d24988e765a3e3fab57230a83c7c11a066632",
-        "public-representation-activity/DEPENDENCIES.json": "6aee61fe36dbe6401107af9f97a58369331d2d0a48721d485843dfee5a26bd2a"
+        "public-representation-activity/DEPENDENCIES.json": "f4863d2be2ea7d5a6ad556c82f8846579c803ee988fb391e08439476e034e037"
       }
     }
   ]
