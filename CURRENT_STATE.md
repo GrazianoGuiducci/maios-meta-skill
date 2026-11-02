@@ -1,3 +1,15 @@
+# Adaptable AI activities — 2 November 2026
+
+The first complete activity, **Public Representation Activity 0.1.0**, is
+available in [AI activities to adapt](https://maios.it/resources/ai-activities/).
+Its English and Italian methods, guides, illustrative cases, context templates
+and autonomous starters are in `activities/public-representation/`. The kit
+includes complete public editions of Form Public Meta-Skill Resources,
+Meta-Activity and Situated Activity Evolution. The 48 existing competence
+entries and their downloadable packages are preserved. Activities have a
+separate catalogue field and release manifest; the guide explains use on
+request and native recurring activation in the receiving environment.
+
 # Human–AI understanding — 2 November 2026
 
 UX-AI 0.3.5 and System Fundable Project Extraction 0.1.1 develop human understanding as a research/project object, daily adaptation and three new illustrative cases across materials research, a museum and an energy cooperative. Prior methods, cases and archives are preserved. Publication, runtime and observed human understanding remain distinct.
