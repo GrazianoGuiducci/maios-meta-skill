@@ -4,7 +4,7 @@
     {
       "id": "public-representation",
       "version": "0.1.0",
-      "source_revision": "HEAD",
+      "source_revision": "46002f7c2ef809ec7f167036854d3037494c3d01",
       "package": "dist/public-representation-activity-0.1.0.zip",
       "sha256": "9f38c0c357c3c2f8d7fd297b618c18c9fafcff47d1aeccaca16f10a34364239e",
       "competences": [
@@ -147,7 +147,8 @@
         "public-representation-activity/skills/situated-activity-evolution/catalog-entry.json": "8728a2b68bdf8dc5703b961f782a3998f47451c848b73d05e959280e8f7cc01f",
         "public-representation-activity/skills/situated-activity-evolution/presentation.json": "e2b6ce7685e17fe26dd4f9a3455d24988e765a3e3fab57230a83c7c11a066632",
         "public-representation-activity/DEPENDENCIES.json": "796965008378736caf05aadceb3b87960bdb49893a0570036b5fbbb50691f13c"
-      }
+      },
+      "embedded_source_reference": "HEAD"
     }
   ]
 }

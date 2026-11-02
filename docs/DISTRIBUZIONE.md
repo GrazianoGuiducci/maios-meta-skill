@@ -51,6 +51,18 @@ revisione esatta. `dist/activities-manifest.json` conserva archivio, revisione,
 edizioni delle competenze di supporto e impronte dei file. Pacchetti e manifest
 delle competenze già distribuite restano preservati.
 
+Il generatore risolve ramo o tag in un commit completo prima di leggere le
+sorgenti. Respinge un pacchetto esistente con byte diversi: occorrono una
+nuova edizione e un nuovo nome, senza sostituire l’archivio distribuito.
+
+Il primo kit `public-representation` 0.1.0 incorporava il riferimento letterale
+`HEAD`. Il manifest esterno qualifica ora l’archivio invariato con il commit
+`46002f7c2ef809ec7f167036854d3037494c3d01` e
+`embedded_source_reference: HEAD`. Tutti i 64 membri sorgente sono stati
+confrontati con quel commit; il 65° è il record di dipendenze generato.
+La correzione riguarda la provenienza esterna: non attribuisce al vecchio
+archivio un commit completo incorporato e non ne cambia l’impronta.
+
 Il kit include le competenze pubbliche complete sotto `skills/`. La guida
 spiega l’adozione attraverso il proprio ambiente: copiare l’incarico non crea
 un job ricorrente e non attribuisce autorità di pubblicazione.

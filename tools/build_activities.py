@@ -1,6 +1,7 @@
 """Render autonomous activity entries and reproducible kits with public competences."""
 import argparse
 import hashlib
+from io import BytesIO
 import json
 import re
 import subprocess
@@ -126,6 +127,9 @@ def render(root=ROOT):
 
 
 def package(source_ref, root=ROOT):
+    source_ref = subprocess.check_output(
+        ['git', '-C', str(root), 'rev-parse', '--verify', '--end-of-options', source_ref + '^{commit}'],
+        text=True).strip()
     def read(path):
         return subprocess.check_output(['git', '-C', str(root), 'show', source_ref + ':' + path])
     def tracked(folder):
@@ -166,16 +170,22 @@ def package(source_ref, root=ROOT):
         payloads[prefix + 'DEPENDENCIES.json'] = encoded({'source_revision': source_ref, 'competences': dependencies})
         if (prefix + 'DEPENDENCIES.json').casefold() in folded:
             raise ValueError('Activity dependency record collision')
-        prepared.append((activity, payloads, dependencies))
-    for activity, payloads, dependencies in prepared:
-        destination = target(root, activity['package'])
-        destination.parent.mkdir(parents=True, exist_ok=True)
-        with ZipFile(destination, 'w', compression=ZIP_DEFLATED) as archive:
+        buffer = BytesIO()
+        with ZipFile(buffer, 'w', compression=ZIP_DEFLATED) as archive:
             for name, content in sorted(payloads.items()):
                 entry = ZipInfo(name, date_time=(2026, 11, 2, 0, 0, 0))
                 entry.compress_type = ZIP_DEFLATED
                 entry.external_attr = 0o644 << 16
                 archive.writestr(entry, content)
+        content = buffer.getvalue()
+        destination = target(root, activity['package'])
+        if destination.exists() and destination.read_bytes() != content:
+            raise ValueError('Activity package already exists with different bytes; select a new edition and package')
+        prepared.append((activity, payloads, dependencies, content))
+    for activity, payloads, dependencies, content in prepared:
+        destination = target(root, activity['package'])
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_bytes(content)
         packages.append({'id': activity['id'], 'version': activity['version'], 'source_revision': source_ref,
                          'package': activity['package'], 'sha256': hashlib.sha256(destination.read_bytes()).hexdigest(),
                          'competences': dependencies, 'files': {name: hashlib.sha256(content).hexdigest() for name, content in payloads.items()}})

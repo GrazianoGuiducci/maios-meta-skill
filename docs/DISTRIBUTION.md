@@ -49,6 +49,18 @@ that exact revision. `dist/activities-manifest.json` records the resulting
 archive, source revision, supporting competence editions and file hashes.
 Existing competence packages and their manifest are preserved.
 
+The builder resolves a branch or tag to a full commit before reading source
+files. An existing package with different bytes is rejected: select a new
+edition and filename rather than replace a distributed archive.
+
+The first `public-representation` 0.1.0 kit embedded the literal reference
+`HEAD`. Its unchanged archive is now qualified by the external manifest with
+source commit `46002f7c2ef809ec7f167036854d3037494c3d01` and
+`embedded_source_reference: HEAD`. All 64 source members were compared with
+that commit; the 65th member is the generated dependency record. This corrects
+the external provenance record without claiming the old archive embedded a
+full commit or changing its checksum.
+
 The kit includes complete public supporting competences under `skills/`.
 The activity guide explains adoption through the receiving environment; copying
 the assignment does not create a recurring job or confer publication authority.
