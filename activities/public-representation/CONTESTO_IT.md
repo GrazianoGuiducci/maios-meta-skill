@@ -1,4 +1,4 @@
-# Il contesto del tuo progetto
+# Progetto, fonti e modifiche pubbliche da affidare all’assistente
 
 ## Progetto e scopo
 

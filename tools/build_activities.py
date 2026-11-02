@@ -47,6 +47,9 @@ def validate_activity(value, root):
     target(root, value['package'])
     for locale in ('en', 'it'):
         text = value[locale]
+        headings = text.get('headings', {})
+        if not isinstance(headings, dict) or any(not isinstance(item, str) or not item.strip() for item in headings.values()):
+            raise ValueError('Unsupported activity headings')
         for key in ('route', 'category', 'title', 'description', 'intro', 'status', 'origin'):
             if not isinstance(text.get(key), str):
                 raise ValueError('Missing activity text: ' + key)
@@ -102,15 +105,16 @@ def render(root=ROOT):
         for locale in ('en', 'it'):
             it = locale == 'it'
             text = value[locale]
+            headings = text.get('headings', {})
             names = {'method': 'ATTIVITA.md' if it else 'ACTIVITY.md',
                      'guide': 'GUIDA_IT.md' if it else 'README.md',
                      'examples': 'ESEMPI_IT.md' if it else 'EXAMPLES.md',
                      'context': 'CONTESTO_IT.md' if it else 'CONTEXT_EN.md',
                      'starter': 'AVVIO_CHAT_IT.txt' if it else 'START_CHAT_EN.txt'}
             method = '# ' + text['title'] + '\n\n' + text['intro'] + '\n\n' + sections(text['method'])
-            guide = '# ' + ('Usare e adattare l’attività' if it else 'Use and adapt the activity') + '\n\n' + sections(text['guide'])
-            examples = '# ' + ('Esempi da adattare' if it else 'Examples to adapt') + '\n\n' + sections(text['examples'])
-            context = '# ' + ('Il contesto del tuo progetto' if it else 'Your project context') + '\n\n' + '\n\n'.join(
+            guide = '# ' + headings.get('guide', 'Usare e adattare l’attività' if it else 'Use and adapt the activity') + '\n\n' + sections(text['guide'])
+            examples = '# ' + headings.get('examples', 'Esempi da adattare' if it else 'Examples to adapt') + '\n\n' + sections(text['examples'])
+            context = '# ' + headings.get('context', 'Il contesto del tuo progetto' if it else 'Your project context') + '\n\n' + '\n\n'.join(
                 '## ' + row['label'] + '\n\n' + row['hint'] + '\n\n' + ('[Da completare]' if it else '[To complete]') for row in text['context'])
             prompt_intro = ('Usa il metodo seguente per il progetto che ti affido. Comprendi il contesto e le fonti correnti, poi svolgi il lavoro utile attraverso i mezzi e gli effetti affidati. Le sezioni qui incluse contengono il metodo completo: non presumere accessi o conoscenze private MAIOS. Se una relazione indispensabile manca, chiedi soltanto ciò che cambia il lavoro e prosegui con la parte indipendente. Se non ho selezionato una ricorrenza, inizia su richiesta.\n\n'
                             if it else 'Use the following method for the project I entrust to you. Understand the context and current sources, then perform useful work through the means and effects entrusted. The included sections contain the complete method: presume no access to private MAIOS knowledge. If an indispensable relation is missing, ask only for what changes the work and continue independent work. If I have not selected a recurrence, begin on request.\n\n')

@@ -1,4 +1,4 @@
-# Your project context
+# The project, sources and public changes entrusted to the assistant
 
 ## Project and purpose
 
