@@ -109,6 +109,18 @@
       {
         "title": "Rendere percepibile la maturità del metodo nel primo incontro reale",
         "body": "L’edizione dei file identifica una distribuzione; la fonte stabilisce la maturità del metodo e la portata delle prove. Conserva questa distinzione dove cambia l’adozione. Segui l’informazione fino al campo realmente consumato dalla pagina o dall’interfaccia del ricevente, oltre che nel metodo, nella guida e nell’avvio. Uno stato nel catalogo può non alimentare l’introduzione visibile. Osserva il primo incontro generato e correggi la proiezione responsabile, conservando la capacità disponibile e la sua profondità utile."
+      },
+      {
+        "title": "La pagina spiega la risorsa; il testo copiabile consegna il metodo",
+        "body": "Distingui la spiegazione per la persona dalle istruzioni per l’AI. Raggiungi lo standard espressivo del progetto e il sapere dell’owner prima di scrivere. Rendi riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Queste relazioni possono guidare una pagina breve; il formato concreto segue il destinatario. Il «noi» ha un referente esplicito e non attribuisce pensieri al lettore. Ulteriore materiale serve quando migliora la comprensione. Mantieni una sezione identificabile «Testo da copiare nel proprio LLM»: un avvio completo contiene metodo e sapere necessario; una richiesta breve dichiara file e accessi richiesti; un percorso di configurazione spiega quali istruzioni produce. La sintesi della pagina non sostituisce il metodo."
+      },
+      {
+        "title": "Metadati, percorsi e archivi nella distribuzione reale",
+        "body": "Quando un generatore trasforma metadati in file, archivi o HTML, usa la competenza di sicurezza pertinente a quel confine. Verifica destinazioni risolte entro la radice affidata, collegamenti del filesystem, identificatori, membri e collisioni degli archivi prima delle scritture; codifica ogni valore nel contesto in cui il browser lo interpreta. L’uguaglianza con Git non prova queste proprietà. Risolvi un riferimento mobile nell’identità sorgente effettivamente letta. Conserva i byte di un archivio già distribuito; una correzione della sua provenienza esterna non riscrive il contenuto storico. Un difetto nel generatore richiede una correzione del meccanismo nel suo owner, entro il mandato; la sola istruzione testuale non lo rende sicuro."
+      },
+      {
+        "title": "Un’attività completa conserva incarico e fase propri",
+        "body": "Una competenza insegna un saper fare; un’attività completa gli affida un oggetto, uno scopo e un seguito. Riusa le competenze pertinenti senza creare duplicati. Conserva nel trasferimento fase, autorità e condizioni dell’attività sorgente: una proposta da valutare non diventa una correzione già applicata o un’autorizzazione stabile. I raccordi privati ai veri owner restano nelle guide interne; il destinatario riceve contesto e mezzi accessibili. Un nuovo segnale raccolto, una ricevuta o una variazione del calendario non richiedono da soli un’edizione del metodo."
       }
     ],
     "knowledge": [
@@ -139,6 +151,18 @@
       {
         "title": "Seguire la maturità fino al dato consumato dal destinatario",
         "body": "Il catalogo può fornire identità e scoperta mentre una presentazione distinta alimenta lo stato introduttivo. Individua quale sorgente produce la prima spiegazione visibile. Un campo di maturità presente in un oggetto non letto non informa il destinatario. Porta la stessa relazione qualificata nella presentazione consumata, nella guida operativa e nell’avvio completo, poi osserva il risultato generato nella sua lingua. Il primo incontro rimane breve e utile, con le prove più profonde raggiungibili. La relazione sorgente-consumer vale anche per uno snapshot separato dell’assistente: correggere la pagina non aggiorna automaticamente quel consumer."
+      },
+      {
+        "title": "La pagina spiega la risorsa; il testo copiabile consegna il metodo",
+        "body": "Distingui la spiegazione per la persona dalle istruzioni per l’AI. Raggiungi lo standard espressivo del progetto e il sapere dell’owner prima di scrivere. Rendi riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Queste relazioni possono guidare una pagina breve; il formato concreto segue il destinatario. Il «noi» ha un referente esplicito e non attribuisce pensieri al lettore. Ulteriore materiale serve quando migliora la comprensione. Mantieni una sezione identificabile «Testo da copiare nel proprio LLM»: un avvio completo contiene metodo e sapere necessario; una richiesta breve dichiara file e accessi richiesti; un percorso di configurazione spiega quali istruzioni produce. La sintesi della pagina non sostituisce il metodo."
+      },
+      {
+        "title": "Metadati, percorsi e archivi nella distribuzione reale",
+        "body": "Quando un generatore trasforma metadati in file, archivi o HTML, usa la competenza di sicurezza pertinente a quel confine. Verifica destinazioni risolte entro la radice affidata, collegamenti del filesystem, identificatori, membri e collisioni degli archivi prima delle scritture; codifica ogni valore nel contesto in cui il browser lo interpreta. L’uguaglianza con Git non prova queste proprietà. Risolvi un riferimento mobile nell’identità sorgente effettivamente letta. Conserva i byte di un archivio già distribuito; una correzione della sua provenienza esterna non riscrive il contenuto storico. Un difetto nel generatore richiede una correzione del meccanismo nel suo owner, entro il mandato; la sola istruzione testuale non lo rende sicuro."
+      },
+      {
+        "title": "Un’attività completa conserva incarico e fase propri",
+        "body": "Una competenza insegna un saper fare; un’attività completa gli affida un oggetto, uno scopo e un seguito. Riusa le competenze pertinenti senza creare duplicati. Conserva nel trasferimento fase, autorità e condizioni dell’attività sorgente: una proposta da valutare non diventa una correzione già applicata o un’autorizzazione stabile. I raccordi privati ai veri owner restano nelle guide interne; il destinatario riceve contesto e mezzi accessibili. Un nuovo segnale raccolto, una ricevuta o una variazione del calendario non richiedono da soli un’edizione del metodo."
       }
     ],
     "worked_examples": [
@@ -161,6 +185,14 @@
       {
         "title": "Un’associazione condivide un metodo utilizzabile ancora in formazione",
         "body": "Un’associazione culturale sviluppa un metodo per progettare passeggiate accessibili da osservazioni locali. Prepara l’edizione 0.1.0 con corpo operativo utilizzabile, guida e casi illustrativi; la fonte qualifica ancora il metodo come in formazione. Il catalogo contiene quello stato, ma il riquadro introduttivo della pagina generata mostra soltanto l’edizione. Chi cura la risorsa presume inizialmente che il campo aggiunto al catalogo raggiunga il visitatore.\n\nLa lettura della pagina generata espone il rapporto mancante. Si risale al distinto ingresso di presentazione che alimenta il riquadro, si conserva l’identità dell’edizione e si porta lì una spiegazione breve dello stato formativo. Guida e avvio completo mantengono ciò che il metodo permette di fare, lo statuto illustrativo dei casi e le condizioni che l’uso successivo può cambiare. Non ricevono maturità universale dal numero di versione o da una build riuscita.\n\nIl primo incontro risultante permette a un’altra associazione di comprendere sia il metodo disponibile sia come adottarlo con il proprio sapere. Chi cura la risorsa osserva le viste linguistiche generate e il kit consegnato, mantenendo l’eventuale snapshot dell’assistente come consumer distinto. La competenza che forma risorse impara dove quello stato dovrà partecipare la prossima volta, senza aggiungere una revisione rituale a ogni pubblicazione. L’associazione e l’esito sono illustrativi."
+      },
+      {
+        "title": "Museo civico: spiegazione per il visitatore e metodo per il suo LLM",
+        "body": "Caso illustrativo. Un museo condivide il metodo con cui prepara descrizioni accessibili delle opere. La prima pagina mostra direttamente «Leggi le schede e confronta le fonti»: sono istruzioni per l’assistente, mentre il visitatore deve capire di quale risorsa si tratta. La spiegazione viene formata dal metodo e dalle fonti del museo: oggetto, azione, utilità, ragione e contributo al lavoro del museo. Una sezione distinta consegna il metodo completo da copiare. Una seconda richiesta breve richiede invece le schede del progetto e lo dichiara. La verifica legge entrambi i percorsi nella loro lingua e controlla il testo realmente preparato e copiato dopo l’eventuale aggiunta di contesto. Non attribuisce al clic un’installazione o l’esecuzione del metodo."
+      },
+      {
+        "title": "Archivio di quartiere: il kit conserva identità e destinazioni sicure",
+        "body": "Caso illustrativo. Un archivio pubblica un kit da un generatore. Un identificatore di prova contiene un percorso che risalirebbe fuori dalla cartella scelta; un titolo di prova contiene markup eseguibile. Le prove isolate raggiungono le trasformazioni responsabili: il generatore rifiuta la destinazione prima di scrivere e il renderer mostra il titolo come testo. Il maintainer pubblica la correzione affidata e rilegge gli output. Un vecchio ZIP dichiarava soltanto HEAD: i membri vengono confrontati con il commit originario e la provenienza esterna viene precisata conservando l’archivio. Questi controlli riguardano file e markup esercitati; non provano resistenza generale alle istruzioni ostili di un LLM o uso indipendente del metodo."
       }
     ],
     "reader_context": {
@@ -306,6 +338,18 @@
       {
         "title": "Make the method’s maturity perceivable in the actual first encounter",
         "body": "A file edition identifies a distribution; the source establishes the method’s maturity and the scope of its evidence. Preserve that distinction where it changes adoption. Follow the information into the field the page or receiving interface actually consumes, as well as the method, guide and starter. A status stored in a catalogue may not feed the visible introduction. Observe the generated first encounter and correct the responsible projection while preserving the available capability and its useful depth."
+      },
+      {
+        "title": "The page explains the resource; the copyable text delivers its method",
+        "body": "Distinguish the explanation for a person from instructions for AI. Reach the project’s expression standard and the owner’s knowledge before writing. Make title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. These relationships can guide a concise page; its actual form follows the recipient. Give “we” an explicit referent without attributing thoughts to the reader. Additional material serves understanding when useful. Keep an identifiable “Text to copy into your own LLM” section: a complete starter contains the method and necessary knowledge; a short request declares required files and access; a configuration path explains which instructions it produces. The page summary does not replace the method."
+      },
+      {
+        "title": "Metadata, paths and archives in actual distribution",
+        "body": "When a generator transforms metadata into files, archives or HTML, use the security competence pertinent to that boundary. Qualify resolved destinations within the entrusted root, filesystem links, identifiers, archive members and collisions before writing; encode each value for the context in which the browser interprets it. Equality with Git does not establish these properties. Resolve a moving reference to the source identity actually read. Preserve the bytes of an already distributed archive; correcting its external provenance does not rewrite its historical contents. A generator defect needs a correction of the mechanism at its owner, within the mandate; a textual instruction alone does not make it safe."
+      },
+      {
+        "title": "A complete activity preserves its own assignment and phase",
+        "body": "A competence teaches know-how; a complete activity entrusts it with an object, purpose and continuation. Reuse pertinent competences without creating duplicates. Preserve the source activity’s phase, authority and conditions in transfer: a proposal for review does not become an applied correction or standing authorization. Private connections to actual owners stay in internal guides; the recipient receives accessible context and means. A new signal, receipt or schedule change does not by itself call for a method edition."
       }
     ],
     "knowledge": [
@@ -336,6 +380,18 @@
       {
         "title": "Follow maturity into the field that the recipient actually consumes",
         "body": "The catalogue may supply identity and discovery while a separate presentation supplies the introductory status. Determine which authored input produces the first visible explanation. A maturity field present in an unused object cannot inform the recipient. Bring the same qualified relationship into the consumed presentation, operating guide and complete starter, then inspect the generated result in its language. Keep the first encounter concise and useful, with deeper evidence reachable. This source-to-consumer relation also applies to a separate assistant snapshot; a page correction does not silently update that consumer."
+      },
+      {
+        "title": "The page explains the resource; the copyable text delivers its method",
+        "body": "Distinguish the explanation for a person from instructions for AI. Reach the project’s expression standard and the owner’s knowledge before writing. Make title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. These relationships can guide a concise page; its actual form follows the recipient. Give “we” an explicit referent without attributing thoughts to the reader. Additional material serves understanding when useful. Keep an identifiable “Text to copy into your own LLM” section: a complete starter contains the method and necessary knowledge; a short request declares required files and access; a configuration path explains which instructions it produces. The page summary does not replace the method."
+      },
+      {
+        "title": "Metadata, paths and archives in actual distribution",
+        "body": "When a generator transforms metadata into files, archives or HTML, use the security competence pertinent to that boundary. Qualify resolved destinations within the entrusted root, filesystem links, identifiers, archive members and collisions before writing; encode each value for the context in which the browser interprets it. Equality with Git does not establish these properties. Resolve a moving reference to the source identity actually read. Preserve the bytes of an already distributed archive; correcting its external provenance does not rewrite its historical contents. A generator defect needs a correction of the mechanism at its owner, within the mandate; a textual instruction alone does not make it safe."
+      },
+      {
+        "title": "A complete activity preserves its own assignment and phase",
+        "body": "A competence teaches know-how; a complete activity entrusts it with an object, purpose and continuation. Reuse pertinent competences without creating duplicates. Preserve the source activity’s phase, authority and conditions in transfer: a proposal for review does not become an applied correction or standing authorization. Private connections to actual owners stay in internal guides; the recipient receives accessible context and means. A new signal, receipt or schedule change does not by itself call for a method edition."
       }
     ],
     "worked_examples": [
@@ -358,6 +414,14 @@
       {
         "title": "An association shares a usable method that is still forming",
         "body": "A cultural association develops a method for planning accessible walks from local observations. It prepares edition 0.1.0 with a usable operating body, guide and illustrative cases; the source still qualifies the method as forming. The catalogue contains that state, but the generated page’s introductory box shows only the edition. The maintainer initially assumes that the added catalogue field reaches the visitor.\n\nReading the generated page exposes the missing relationship. The maintainer traces the introductory box to its separate presentation input, preserves the edition identity and gives that input a short explanation of the method’s formative state. The guide and complete starter retain what the method can do, the illustrative status of the cases and the conditions that later use may change. They do not acquire universal maturity from a version number or a successful build.\n\nThe resulting first encounter lets another association understand both the available method and how to adopt it with its own knowledge. The maintainer verifies the generated language views and the delivered kit, preserving any separate assistant snapshot as its own consumer. The resource-formation competence learns where that status must participate next time, rather than adding a routine review stage to every publication. The association and its outcome are illustrative."
+      },
+      {
+        "title": "City museum: an explanation for visitors and a method for their LLM",
+        "body": "Illustrative case. A museum shares its method for preparing accessible exhibit descriptions. The first page directly says “Read the records and compare sources”: these are assistant instructions, while a visitor needs to understand the resource. The explanation is formed from the museum’s method and sources: object, action, use, reason and contribution to the museum’s work. A separate section delivers the complete method to copy. A second, short request instead requires the project’s records and says so. Verification reads both paths in their language and checks the text actually prepared and copied after any context addition. It does not attribute installation or method execution to a click."
+      },
+      {
+        "title": "Neighbourhood archive: the kit preserves identity and safe destinations",
+        "body": "Illustrative case. An archive distributes a generated kit. A test identifier contains a path that would escape the selected folder; a test title contains executable markup. Isolated checks reach the responsible transformations: the generator rejects the destination before writing and the renderer displays the title as text. The maintainer publishes the entrusted correction and reads back the outputs. An older ZIP declared only HEAD: its members are compared with the original commit and external provenance is clarified while preserving the archive. These checks concern the exercised files and markup; they do not establish general LLM resistance to hostile instructions or independent use of the method."
       }
     ],
     "reader_context": {

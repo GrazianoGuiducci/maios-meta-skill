@@ -1,3 +1,7 @@
+# Formazione risorse 0.3.6 e Aggiornamenti secondari 0.2.3 — 3 novembre 2026
+
+La competenza selezionata distingue spiegazione umana e avvio completo per il LLM, porta la sicurezza nelle trasformazioni di metadati, file e markup e conserva incarico e fase delle attività. L’AP conserva lo standard espressivo del progetto e le esclusioni esplicite durante gli aggiornamenti indipendenti. Tre nuovi casi illustrativi sono adattabili oltre il progetto sorgente. Metodi, esempi e archivi precedenti restano disponibili; le altre due AP e i kernel primari sono conservati. L’edizione sorgente non prova esercizio ricorrente o uso indipendente del ricevente.
+
 # Coerenza del lavoro dell’AI — prima edizione pubblica dell’attività, 2 novembre 2026
 
 La raccolta comprende 48 competenze e tre attività programmate. Coerenza del lavoro dell’AI 0.1.0 riesamina la relazione tra intenzioni, fonti e lavoro dell’AI. Parte con proposte concrete da valutare con la persona; gli interventi sugli oggetti osservati e sulle istruzioni stabili richiedono un ulteriore incarico. Gli avvii completi bilingui includono metodo, guida di adattamento e quattro casi illustrativi. Il pacchetto comprende sei competenze pubbliche esistenti. La pubblicazione non attesta un ciclo ricorrente completo o uso indipendente in altri contesti. Le prime due attività, i record delle 48 competenze e gli archivi esistenti conservano la propria identità.

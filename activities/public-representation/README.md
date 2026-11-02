@@ -44,9 +44,15 @@ Select the actual controller, an event or schedule, time zone, recipient and not
 
 Specify which repositories, documentation, websites, knowledge data and other receivers the AP may update and which publications or activations are included. Make tools and access usable under your environment’s policy without placing credentials in public context. Owners determine facts, means and authority over the exact effect. Complete effects already entrusted without requesting every reversible step again; prepare concrete continuation when a distinct decision is needed.
 
+Reach the objects excluded by the mandate too and preserve their interventions for their responsible owners. This limit also applies to indirect effects through shared generators or materials. Complete independent updates on entrusted surfaces; when a dependency requires an intervention on an excluded object, preserve the exact follow-up and its reason. Do not turn that object’s limit into a stop for the entire work or a universal rule for other projects.
+
 ## The delivered result and continuity of monitoring
 
 Read back a representative path used by someone encountering the updated surface and the materials received by dependent components. For a changed package, compare distributed files with the declared source; for an operating instruction, check that the receiver reaches current knowledge. Keep a saved configuration distinct from an execution that happened. Preserve what the observation establishes, its limits and open steps; an accurate page or successful test does not prove general assimilation. The next cycle begins from the present and consequences without repeating unchanged checks.
+
+## Human explanation and instructions to copy
+
+Make your project’s explanation standard and sources supporting each relationship available. The page helps a person understand; the copyable section delivers the method to their LLM. State whether the starter is complete, requires accessible files or configures instructions for the environment. A clear title or summary does not replace that knowledge. Text preparation remains distinct from job installation and its exercise.
 
 ## Origin and status of the secondary-updates AP
 

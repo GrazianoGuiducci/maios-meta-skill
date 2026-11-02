@@ -44,9 +44,15 @@ Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinat
 
 Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceventi l’AP può aggiornare e quali pubblicazioni o attivazioni sono comprese. Rendi utilizzabili strumenti e accessi attraverso la policy del tuo ambiente, senza inserire credenziali nel contesto pubblico. I responsabili determinano fatti, mezzi e autorità sull’effetto esatto. Completa gli effetti già affidati senza richiedere di nuovo ogni passaggio reversibile; prepara un seguito concreto quando serve una decisione distinta.
 
+Raggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti.
+
 ## Il risultato consegnato e la continuità del monitoraggio
 
 Rileggi un percorso rappresentativo di chi usa la superficie aggiornata e il materiale ricevuto dai componenti dipendenti. Per un pacchetto cambiato confronta file distribuiti e sorgente dichiarata; per un’istruzione operativa verifica che il ricevente raggiunga il sapere attuale. Mantieni distinta una configurazione salvata da un’esecuzione avvenuta. Conserva ciò che la prova dimostra, i limiti e i passaggi aperti; una pagina corretta o un test riuscito non attestano assimilazione generale. Il ciclo successivo riparte dal presente e dalle conseguenze, senza ripetere verifiche immutate.
+
+## Spiegazione umana e istruzioni da copiare
+
+Rendi disponibile lo standard di spiegazione del tuo progetto e le sorgenti che sostengono ogni relazione. La pagina aiuta la persona a capire; la sezione copiabile consegna il metodo al suo LLM. Indica se l’avvio è completo, se richiede file accessibili o se configura istruzioni per l’ambiente. Un titolo chiaro o una sintesi non sostituiscono quel sapere. La preparazione del testo resta distinta dall’installazione del job e dal suo esercizio.
 
 ## Origine e stato dell’AP per aggiornamenti secondari
 

@@ -1,3 +1,7 @@
+# Resource formation 0.3.6 and Secondary System Updates 0.2.3 — 3 November 2026
+
+The selected competence now carries human explanation and the complete LLM starter as distinct entries, security at metadata/file/markup transformations and preservation of an activity’s assignment and phase. The AP carries the project’s explanation standard and explicit exclusions through independent updates. Three new illustrative cases are portable beyond their source project. Earlier methods, examples and immutable archives are retained; the other two AP methods and primary kernels are preserved. This source edition does not establish recurring execution or independent receiving use.
+
 # AI work coherence — first public activity edition, 2 November 2026
 
 The collection now contains 48 competences and three scheduled activities. AI Work Coherence 0.1.0 reviews the relation between intent, sources and AI work. It starts with concrete proposals for human review; changes to observed objects and stable instructions require a further entrusted intervention. Its complete bilingual starters carry the method, adaptation guide and four illustrative cases. Six existing public competences are included in the package. Publication does not establish a complete recurring cycle or independent receiving use. The first two activities, 48 competence records and existing archives retain their identities.

@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.5
+  version: 0.3.6
   language: en
 ---
 
@@ -68,6 +68,21 @@ Follow each material function from its source knowledge to the operating entry t
 ## Make the method’s maturity perceivable in the actual first encounter
 
 A file edition identifies a distribution; the source establishes the method’s maturity and the scope of its evidence. Preserve that distinction where it changes adoption. Follow the information into the field the page or receiving interface actually consumes, as well as the method, guide and starter. A status stored in a catalogue may not feed the visible introduction. Observe the generated first encounter and correct the responsible projection while preserving the available capability and its useful depth.
+
+
+## The page explains the resource; the copyable text delivers its method
+
+Distinguish the explanation for a person from instructions for AI. Reach the project’s expression standard and the owner’s knowledge before writing. Make title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. These relationships can guide a concise page; its actual form follows the recipient. Give “we” an explicit referent without attributing thoughts to the reader. Additional material serves understanding when useful. Keep an identifiable “Text to copy into your own LLM” section: a complete starter contains the method and necessary knowledge; a short request declares required files and access; a configuration path explains which instructions it produces. The page summary does not replace the method.
+
+
+## Metadata, paths and archives in actual distribution
+
+When a generator transforms metadata into files, archives or HTML, use the security competence pertinent to that boundary. Qualify resolved destinations within the entrusted root, filesystem links, identifiers, archive members and collisions before writing; encode each value for the context in which the browser interprets it. Equality with Git does not establish these properties. Resolve a moving reference to the source identity actually read. Preserve the bytes of an already distributed archive; correcting its external provenance does not rewrite its historical contents. A generator defect needs a correction of the mechanism at its owner, within the mandate; a textual instruction alone does not make it safe.
+
+
+## A complete activity preserves its own assignment and phase
+
+A competence teaches know-how; a complete activity entrusts it with an object, purpose and continuation. Reuse pertinent competences without creating duplicates. Preserve the source activity’s phase, authority and conditions in transfer: a proposal for review does not become an applied correction or standing authorization. Private connections to actual owners stay in internal guides; the recipient receives accessible context and means. A new signal, receipt or schedule change does not by itself call for a method edition.
 
 ## Continue through the actual project
 

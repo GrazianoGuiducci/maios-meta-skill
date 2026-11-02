@@ -40,6 +40,21 @@ A new version can identify a complete, usable kit whose method is still forming.
 
 The catalogue may supply identity and discovery while a separate presentation supplies the introductory status. Determine which authored input produces the first visible explanation. A maturity field present in an unused object cannot inform the recipient. Bring the same qualified relationship into the consumed presentation, operating guide and complete starter, then inspect the generated result in its language. Keep the first encounter concise and useful, with deeper evidence reachable. This source-to-consumer relation also applies to a separate assistant snapshot; a page correction does not silently update that consumer.
 
+
+## The page explains the resource; the copyable text delivers its method
+
+Distinguish the explanation for a person from instructions for AI. Reach the project’s expression standard and the owner’s knowledge before writing. Make title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. These relationships can guide a concise page; its actual form follows the recipient. Give “we” an explicit referent without attributing thoughts to the reader. Additional material serves understanding when useful. Keep an identifiable “Text to copy into your own LLM” section: a complete starter contains the method and necessary knowledge; a short request declares required files and access; a configuration path explains which instructions it produces. The page summary does not replace the method.
+
+
+## Metadata, paths and archives in actual distribution
+
+When a generator transforms metadata into files, archives or HTML, use the security competence pertinent to that boundary. Qualify resolved destinations within the entrusted root, filesystem links, identifiers, archive members and collisions before writing; encode each value for the context in which the browser interprets it. Equality with Git does not establish these properties. Resolve a moving reference to the source identity actually read. Preserve the bytes of an already distributed archive; correcting its external provenance does not rewrite its historical contents. A generator defect needs a correction of the mechanism at its owner, within the mandate; a textual instruction alone does not make it safe.
+
+
+## A complete activity preserves its own assignment and phase
+
+A competence teaches know-how; a complete activity entrusts it with an object, purpose and continuation. Reuse pertinent competences without creating duplicates. Preserve the source activity’s phase, authority and conditions in transfer: a proposal for review does not become an applied correction or standing authorization. Private connections to actual owners stay in internal guides; the recipient receives accessible context and means. A new signal, receipt or schedule change does not by itself call for a method edition.
+
 ## A resource that also teaches how to form resources
 
 The meta relation is its object: it forms a usable capability from internal know-how and connects its entry points. The same method can be applied to its own transformation into a public resource.

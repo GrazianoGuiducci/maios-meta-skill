@@ -26,6 +26,8 @@ Preserve surfaces that remain accurate and carry out the updates required by mat
 
 The title, description and first step preserve the system’s object, case and operating form. Explain what changes for the person reading or using that surface and how to continue. Make the resource adaptable to other contexts with the knowledge needed to use it. Invented cases remain illustrative; attribution, secrets and private details retain their treatment. Distinguish an available method, implemented capability, observed execution and possible results; a file edition does not prove general reliability.
 
+Reach the project’s entrusted expression standard and involve its editorial competence before writing. A useful explanation makes title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. Give “we” a clear referent and add material when it helps understanding. Distinguish this explanation for a person from instructions for AI. In the “Text to copy into your own LLM” section, a complete starter preserves the method and necessary knowledge; a short entry declares required files, access or configuration. Follow the responsible authored input and renderer so the next build preserves the correction. Check reading, preparation and copying on the affected path; changed context makes an earlier preparation stale.
+
 ## The same update across documents and dependent receivers
 
 Carry the correction into the languages, operating content and consumers that actually depend on it, using their owners’ means. Product and capability owners determine facts; website, distribution and runtime owners hold their tools and contracts. A copy of an assistant’s knowledge, a configuration or an installation follows its actual controller and authority over the exact effect. Complete effects already entrusted and preserve concrete continuation for the others.
@@ -37,6 +39,8 @@ Reuse knowledge and evidence while the identity, scope and conditions supporting
 ## Revisions, concurrent contributions and actual delivery
 
 Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues.
+
+Reach the objects excluded by the mandate too and preserve their interventions for their responsible owners. This limit also applies to indirect effects through shared generators or materials. Complete independent updates on entrusted surfaces; when a dependency requires an intervention on an excluded object, preserve the exact follow-up and its reason. Do not turn that object’s limit into a stop for the entire work or a universal rule for other projects.
 
 ## The AP’s method and instructions improve through its work
 

@@ -26,6 +26,8 @@ Conserva le superfici ancora corrette e realizza gli aggiornamenti richiesti dal
 
 Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del sistema. Spiega che cosa cambia per chi legge o usa quella superficie e come proseguire. Rendi la risorsa adattabile ad altri contesti con il sapere necessario a usarla. I casi inventati restano illustrativi; attribuzioni, segreti e dettagli privati mantengono il proprio trattamento. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultati ancora possibili; l’edizione dei file non dimostra affidabilità generale.
 
+Raggiungi lo standard espressivo affidato al progetto e fai partecipare la competenza editoriale prima di scrivere. Una spiegazione utile rende riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Conserva un referente chiaro del «noi» e aggiungi altro materiale quando aiuta a capire. Distingui questa spiegazione per la persona dalle istruzioni per l’AI. Nella sezione «Testo da copiare nel proprio LLM», un avvio completo conserva il metodo e il sapere necessario; un ingresso breve dichiara file, accessi o configurazione richiesti. Segui il dato autoriale e il renderer responsabili, così la prossima build conserva la correzione. Verifica lettura, preparazione e copia sul percorso interessato; una modifica del contesto rende superata una preparazione precedente.
+
 ## Lo stesso aggiornamento nei documenti e nei riceventi dipendenti
 
 Porta la correzione nelle lingue, nei contenuti operativi e nei consumer realmente dipendenti, usando i mezzi dei rispettivi responsabili. Gli owner di prodotto e capacità determinano i fatti; quelli di sito, distribuzione e runtime possiedono i loro strumenti e contratti. Una copia della conoscenza di un assistente, una configurazione o un’installazione seguono il proprio controller e l’autorità sull’effetto esatto. Completa gli effetti già affidati e conserva il seguito concreto degli altri.
@@ -37,6 +39,8 @@ Riusa sapere e prove finché identità, ambito e condizioni che li sostengono ri
 ## Revisioni, contributi concorrenti e consegna effettiva
 
 Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente.
+
+Raggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti.
 
 ## Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro
 

@@ -35,3 +35,13 @@ Un’associazione culturale sviluppa un metodo per progettare passeggiate access
 La lettura della pagina generata espone il rapporto mancante. Si risale al distinto ingresso di presentazione che alimenta il riquadro, si conserva l’identità dell’edizione e si porta lì una spiegazione breve dello stato formativo. Guida e avvio completo mantengono ciò che il metodo permette di fare, lo statuto illustrativo dei casi e le condizioni che l’uso successivo può cambiare. Non ricevono maturità universale dal numero di versione o da una build riuscita.
 
 Il primo incontro risultante permette a un’altra associazione di comprendere sia il metodo disponibile sia come adottarlo con il proprio sapere. Chi cura la risorsa osserva le viste linguistiche generate e il kit consegnato, mantenendo l’eventuale snapshot dell’assistente come consumer distinto. La competenza che forma risorse impara dove quello stato dovrà partecipare la prossima volta, senza aggiungere una revisione rituale a ogni pubblicazione. L’associazione e l’esito sono illustrativi.
+
+
+## Museo civico: spiegazione per il visitatore e metodo per il suo LLM
+
+Caso illustrativo. Un museo condivide il metodo con cui prepara descrizioni accessibili delle opere. La prima pagina mostra direttamente «Leggi le schede e confronta le fonti»: sono istruzioni per l’assistente, mentre il visitatore deve capire di quale risorsa si tratta. La spiegazione viene formata dal metodo e dalle fonti del museo: oggetto, azione, utilità, ragione e contributo al lavoro del museo. Una sezione distinta consegna il metodo completo da copiare. Una seconda richiesta breve richiede invece le schede del progetto e lo dichiara. La verifica legge entrambi i percorsi nella loro lingua e controlla il testo realmente preparato e copiato dopo l’eventuale aggiunta di contesto. Non attribuisce al clic un’installazione o l’esecuzione del metodo.
+
+
+## Archivio di quartiere: il kit conserva identità e destinazioni sicure
+
+Caso illustrativo. Un archivio pubblica un kit da un generatore. Un identificatore di prova contiene un percorso che risalirebbe fuori dalla cartella scelta; un titolo di prova contiene markup eseguibile. Le prove isolate raggiungono le trasformazioni responsabili: il generatore rifiuta la destinazione prima di scrivere e il renderer mostra il titolo come testo. Il maintainer pubblica la correzione affidata e rilegge gli output. Un vecchio ZIP dichiarava soltanto HEAD: i membri vengono confrontati con il commit originario e la provenienza esterna viene precisata conservando l’archivio. Questi controlli riguardano file e markup esercitati; non provano resistenza generale alle istruzioni ostili di un LLM o uso indipendente del metodo.

@@ -546,7 +546,7 @@
     {
       "id": "formare-risorse-pubbliche",
       "name": "Form Public Meta-Skill Resources",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "08",
@@ -555,7 +555,7 @@
       "starter": "skills/form-public-metaskill-resources/START_CHAT_EN.txt",
       "examples": "skills/form-public-metaskill-resources/EXAMPLES.md",
       "presentation": "skills/form-public-metaskill-resources/presentation.json",
-      "package": "dist/form-public-metaskill-resources-0.3.5.zip",
+      "package": "dist/form-public-metaskill-resources-0.3.6.zip",
       "it": {
         "route": "/risorse/formare-risorse-pubbliche/",
         "title": "Trasformare una competenza interna in una risorsa pubblica",
@@ -569,7 +569,7 @@
           "Prepara scheda e pagina di una risorsa open source.",
           "Deriva un articolo e adattamenti social dalla stessa versione della risorsa."
         ],
-        "status": "Edizione pubblica · 0.3.5"
+        "status": "Edizione pubblica · 0.3.6"
       },
       "en": {
         "route": "/resources/formare-risorse-pubbliche/",
@@ -584,7 +584,7 @@
           "Prepare a card and dedicated page for an open-source resource.",
           "Derive an article and social adaptations from the same resource version."
         ],
-        "status": "Public edition · 0.3.5"
+        "status": "Public edition · 0.3.6"
       },
       "native_entry": "form-public-metaskill-resources",
       "default_language": "en",
@@ -3352,10 +3352,10 @@
     {
       "id": "public-representation",
       "name": "AP per Aggiornamenti secondari di sistema",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "kind": "activity",
       "folder": "activities/public-representation",
-      "package": "dist/secondary-system-updates-activity-0.2.2.zip",
+      "package": "dist/public-representation-activity-0.2.3.zip",
       "competences": [
         "form-public-metaskill-resources",
         "meta-activity",
@@ -3368,7 +3368,7 @@
         "title": "AP for secondary system updates",
         "description": "A scheduled activity that monitors the system and updates documentation and whatever is needed to keep the system coherent across its different surfaces.",
         "intro": "This AP follows the evolution of an autonomous system and carries out the secondary updates that follow from it. It reads current sources and work, identifies which documentation, guides, instructions, resources and other materials need to change, and carries the updates into the entrusted surfaces. It adapts to the receiving system and improves its method through the consequences of its work.",
-        "status": "Edition 0.2.2 · Available method with illustrative cases",
+        "status": "Edition 0.2.3 · Available method with illustrative cases",
         "origin": "The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed. Edition 0.2.2 adds resumption from relevant comparisons, verification of received knowledge and evidence reuse by identity and scope, with adaptable illustrative cases.",
         "method": [
           {
@@ -3393,7 +3393,7 @@
           },
           {
             "title": "Documentation and explanations that make sense in context",
-            "body": "The title, description and first step preserve the system’s object, case and operating form. Explain what changes for the person reading or using that surface and how to continue. Make the resource adaptable to other contexts with the knowledge needed to use it. Invented cases remain illustrative; attribution, secrets and private details retain their treatment. Distinguish an available method, implemented capability, observed execution and possible results; a file edition does not prove general reliability."
+            "body": "The title, description and first step preserve the system’s object, case and operating form. Explain what changes for the person reading or using that surface and how to continue. Make the resource adaptable to other contexts with the knowledge needed to use it. Invented cases remain illustrative; attribution, secrets and private details retain their treatment. Distinguish an available method, implemented capability, observed execution and possible results; a file edition does not prove general reliability.\n\nReach the project’s entrusted expression standard and involve its editorial competence before writing. A useful explanation makes title and context, what the resource is, what it does, what it is for, why it exists and what it means for the named project recognisable. Give “we” a clear referent and add material when it helps understanding. Distinguish this explanation for a person from instructions for AI. In the “Text to copy into your own LLM” section, a complete starter preserves the method and necessary knowledge; a short entry declares required files, access or configuration. Follow the responsible authored input and renderer so the next build preserves the correction. Check reading, preparation and copying on the affected path; changed context makes an earlier preparation stale."
           },
           {
             "title": "The same update across documents and dependent receivers",
@@ -3405,7 +3405,7 @@
           },
           {
             "title": "Revisions, concurrent contributions and actual delivery",
-            "body": "Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues."
+            "body": "Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues.\n\nReach the objects excluded by the mandate too and preserve their interventions for their responsible owners. This limit also applies to indirect effects through shared generators or materials. Complete independent updates on entrusted surfaces; when a dependency requires an intervention on an excluded object, preserve the exact follow-up and its reason. Do not turn that object’s limit into a stop for the entire work or a universal rule for other projects."
           },
           {
             "title": "The AP’s method and instructions improve through its work",
@@ -3439,11 +3439,15 @@
           },
           {
             "title": "Updates and effects entrusted to the AP",
-            "body": "Specify which repositories, documentation, websites, knowledge data and other receivers the AP may update and which publications or activations are included. Make tools and access usable under your environment’s policy without placing credentials in public context. Owners determine facts, means and authority over the exact effect. Complete effects already entrusted without requesting every reversible step again; prepare concrete continuation when a distinct decision is needed."
+            "body": "Specify which repositories, documentation, websites, knowledge data and other receivers the AP may update and which publications or activations are included. Make tools and access usable under your environment’s policy without placing credentials in public context. Owners determine facts, means and authority over the exact effect. Complete effects already entrusted without requesting every reversible step again; prepare concrete continuation when a distinct decision is needed.\n\nReach the objects excluded by the mandate too and preserve their interventions for their responsible owners. This limit also applies to indirect effects through shared generators or materials. Complete independent updates on entrusted surfaces; when a dependency requires an intervention on an excluded object, preserve the exact follow-up and its reason. Do not turn that object’s limit into a stop for the entire work or a universal rule for other projects."
           },
           {
             "title": "The delivered result and continuity of monitoring",
             "body": "Read back a representative path used by someone encountering the updated surface and the materials received by dependent components. For a changed package, compare distributed files with the declared source; for an operating instruction, check that the receiver reaches current knowledge. Keep a saved configuration distinct from an execution that happened. Preserve what the observation establishes, its limits and open steps; an accurate page or successful test does not prove general assimilation. The next cycle begins from the present and consequences without repeating unchanged checks."
+          },
+          {
+            "title": "Human explanation and instructions to copy",
+            "body": "Make your project’s explanation standard and sources supporting each relationship available. The page helps a person understand; the copyable section delivers the method to their LLM. State whether the starter is complete, requires accessible files or configures instructions for the environment. A clear title or summary does not replace that knowledge. Text preparation remains distinct from job installation and its exercise."
           }
         ],
         "context": [
@@ -3504,6 +3508,10 @@
           {
             "title": "Environmental research: reuse evidence without freezing the question",
             "body": "Illustrative case. A group has already checked an analysis package and published a bilingual explanation. The field guide develops a different interpretation of the data without changing the method’s name. The AP reaches that source, updates the affected explanation and examples and preserves still-valid evidence for unchanged files. The changed text and its translation receive a new check. The work does not automatically require new paid inference calls. The job’s entry continues to reach the current guide and reasons for the change, with recoverable history. Learning: reusing evidence reduces repetition while sources and the question remain open to real differences."
+          },
+          {
+            "title": "Cultural cooperative: updated guides and an application kept with its owner",
+            "body": "Illustrative case. A cooperative entrusts volunteer guides and materials to its AP, keeping its booking application with its maintainer. A new access mode needs clearer explanations. The AP uses the cooperative’s standard to explain object, action, use, reason and contribution to the project; it separates volunteer-facing text from complete instructions for their LLM. It updates the input generating the guides, prepares and copies text in both languages and rechecks preparation after a context change. It does not change the application through the shared generator. It preserves the code dependency for its maintainer while completing independent guides. The case teaches a boundary chosen by the cooperative without imposing it on every project."
           }
         ],
         "headings": {
@@ -3561,7 +3569,7 @@
         "title": "AP per Aggiornamenti secondari di sistema",
         "description": "Attività programmata che monitora il sistema, aggiorna documentazioni e ciò che serve per mantenere coerente il sistema nelle diverse superfici.",
         "intro": "Questa AP segue l’evoluzione di un sistema autonomo e realizza gli aggiornamenti secondari che ne derivano. Legge le fonti e il lavoro attuale, riconosce quali documentazioni, guide, istruzioni, risorse e altri materiali devono cambiare e porta gli aggiornamenti nelle superfici affidate. Si adatta al sistema che la riceve e migliora il proprio metodo attraverso le conseguenze del lavoro.",
-        "status": "Edizione 0.2.2 · Metodo disponibile, casi illustrativi",
+        "status": "Edizione 0.2.3 · Metodo disponibile, casi illustrativi",
         "origin": "La prima sorgente è l’attività programmata che mantiene le risorse pubbliche MAIOS. La formulazione dell’operatore del 2 novembre 2026 seleziona il nome AP per Aggiornamenti secondari di sistema e rende esplicito il monitoraggio del sistema e l’allineamento delle diverse superfici. Questa edizione trasferisce il metodo; configurazione, esecuzione e risultati nel sistema ricevente restano da osservare. L’edizione 0.2.2 aggiunge ripresa dai confronti pertinenti, verifica del sapere ricevuto e riuso delle prove secondo identità e ambito, con casi illustrativi adattabili.",
         "method": [
           {
@@ -3586,7 +3594,7 @@
           },
           {
             "title": "Documentazioni e spiegazioni comprensibili nel loro contesto",
-            "body": "Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del sistema. Spiega che cosa cambia per chi legge o usa quella superficie e come proseguire. Rendi la risorsa adattabile ad altri contesti con il sapere necessario a usarla. I casi inventati restano illustrativi; attribuzioni, segreti e dettagli privati mantengono il proprio trattamento. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultati ancora possibili; l’edizione dei file non dimostra affidabilità generale."
+            "body": "Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del sistema. Spiega che cosa cambia per chi legge o usa quella superficie e come proseguire. Rendi la risorsa adattabile ad altri contesti con il sapere necessario a usarla. I casi inventati restano illustrativi; attribuzioni, segreti e dettagli privati mantengono il proprio trattamento. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultati ancora possibili; l’edizione dei file non dimostra affidabilità generale.\n\nRaggiungi lo standard espressivo affidato al progetto e fai partecipare la competenza editoriale prima di scrivere. Una spiegazione utile rende riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Conserva un referente chiaro del «noi» e aggiungi altro materiale quando aiuta a capire. Distingui questa spiegazione per la persona dalle istruzioni per l’AI. Nella sezione «Testo da copiare nel proprio LLM», un avvio completo conserva il metodo e il sapere necessario; un ingresso breve dichiara file, accessi o configurazione richiesti. Segui il dato autoriale e il renderer responsabili, così la prossima build conserva la correzione. Verifica lettura, preparazione e copia sul percorso interessato; una modifica del contesto rende superata una preparazione precedente."
           },
           {
             "title": "Lo stesso aggiornamento nei documenti e nei riceventi dipendenti",
@@ -3598,7 +3606,7 @@
           },
           {
             "title": "Revisioni, contributi concorrenti e consegna effettiva",
-            "body": "Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente."
+            "body": "Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente.\n\nRaggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti."
           },
           {
             "title": "Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro",
@@ -3632,11 +3640,15 @@
           },
           {
             "title": "Gli aggiornamenti e gli effetti affidati all’AP",
-            "body": "Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceventi l’AP può aggiornare e quali pubblicazioni o attivazioni sono comprese. Rendi utilizzabili strumenti e accessi attraverso la policy del tuo ambiente, senza inserire credenziali nel contesto pubblico. I responsabili determinano fatti, mezzi e autorità sull’effetto esatto. Completa gli effetti già affidati senza richiedere di nuovo ogni passaggio reversibile; prepara un seguito concreto quando serve una decisione distinta."
+            "body": "Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceventi l’AP può aggiornare e quali pubblicazioni o attivazioni sono comprese. Rendi utilizzabili strumenti e accessi attraverso la policy del tuo ambiente, senza inserire credenziali nel contesto pubblico. I responsabili determinano fatti, mezzi e autorità sull’effetto esatto. Completa gli effetti già affidati senza richiedere di nuovo ogni passaggio reversibile; prepara un seguito concreto quando serve una decisione distinta.\n\nRaggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti."
           },
           {
             "title": "Il risultato consegnato e la continuità del monitoraggio",
             "body": "Rileggi un percorso rappresentativo di chi usa la superficie aggiornata e il materiale ricevuto dai componenti dipendenti. Per un pacchetto cambiato confronta file distribuiti e sorgente dichiarata; per un’istruzione operativa verifica che il ricevente raggiunga il sapere attuale. Mantieni distinta una configurazione salvata da un’esecuzione avvenuta. Conserva ciò che la prova dimostra, i limiti e i passaggi aperti; una pagina corretta o un test riuscito non attestano assimilazione generale. Il ciclo successivo riparte dal presente e dalle conseguenze, senza ripetere verifiche immutate."
+          },
+          {
+            "title": "Spiegazione umana e istruzioni da copiare",
+            "body": "Rendi disponibile lo standard di spiegazione del tuo progetto e le sorgenti che sostengono ogni relazione. La pagina aiuta la persona a capire; la sezione copiabile consegna il metodo al suo LLM. Indica se l’avvio è completo, se richiede file accessibili o se configura istruzioni per l’ambiente. Un titolo chiaro o una sintesi non sostituiscono quel sapere. La preparazione del testo resta distinta dall’installazione del job e dal suo esercizio."
           }
         ],
         "context": [
@@ -3697,6 +3709,10 @@
           {
             "title": "Ricerca ambientale: riprendere le prove senza congelare la domanda",
             "body": "Caso illustrativo. Un gruppo ha già verificato un pacchetto di analisi e pubblicato una spiegazione bilingue. La guida di campo sviluppa una diversa interpretazione dei dati senza cambiare il nome del metodo. L’AP raggiunge quella fonte, aggiorna spiegazione ed esempi interessati e conserva le prove ancora valide sui file rimasti identici. Il testo cambiato e la sua traduzione ricevono una nuova verifica. Il lavoro non richiede automaticamente nuove inferenze a pagamento. L’ingresso del job continua a raggiungere la guida corrente e le ragioni del cambiamento, con storia recuperabile. Apprendimento: riusare le prove riduce ripetizioni, mentre fonti e domanda restano aperte alle differenze reali."
+          },
+          {
+            "title": "Cooperativa culturale: guide aggiornate e applicazione riservata al suo owner",
+            "body": "Caso illustrativo. Una cooperativa affida all’AP guide e materiali per i volontari, conservando l’applicazione di prenotazione al suo manutentore. Una nuova modalità di accesso richiede spiegazioni più chiare. L’AP usa lo standard della cooperativa per spiegare oggetto, azione, utilità, ragione e contributo al progetto; separa il testo per i volontari dalle istruzioni complete per il loro LLM. Aggiorna il dato che genera le guide, prepara e copia il testo nelle due lingue e ricontrolla la preparazione dopo una modifica del contesto. Non cambia l’applicazione attraverso il generatore condiviso. Conserva al suo manutentore la dipendenza che richiede codice, mentre completa le guide indipendenti. Il caso insegna un confine scelto dalla cooperativa, senza imporlo a ogni progetto."
           }
         ],
         "headings": {

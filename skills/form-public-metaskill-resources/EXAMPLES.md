@@ -35,3 +35,13 @@ A cultural association develops a method for planning accessible walks from loca
 Reading the generated page exposes the missing relationship. The maintainer traces the introductory box to its separate presentation input, preserves the edition identity and gives that input a short explanation of the method’s formative state. The guide and complete starter retain what the method can do, the illustrative status of the cases and the conditions that later use may change. They do not acquire universal maturity from a version number or a successful build.
 
 The resulting first encounter lets another association understand both the available method and how to adopt it with its own knowledge. The maintainer verifies the generated language views and the delivered kit, preserving any separate assistant snapshot as its own consumer. The resource-formation competence learns where that status must participate next time, rather than adding a routine review stage to every publication. The association and its outcome are illustrative.
+
+
+## City museum: an explanation for visitors and a method for their LLM
+
+Illustrative case. A museum shares its method for preparing accessible exhibit descriptions. The first page directly says “Read the records and compare sources”: these are assistant instructions, while a visitor needs to understand the resource. The explanation is formed from the museum’s method and sources: object, action, use, reason and contribution to the museum’s work. A separate section delivers the complete method to copy. A second, short request instead requires the project’s records and says so. Verification reads both paths in their language and checks the text actually prepared and copied after any context addition. It does not attribute installation or method execution to a click.
+
+
+## Neighbourhood archive: the kit preserves identity and safe destinations
+
+Illustrative case. An archive distributes a generated kit. A test identifier contains a path that would escape the selected folder; a test title contains executable markup. Isolated checks reach the responsible transformations: the generator rejects the destination before writing and the renderer displays the title as text. The maintainer publishes the entrusted correction and reads back the outputs. An older ZIP declared only HEAD: its members are compared with the original commit and external provenance is clarified while preserving the archive. These checks concern the exercised files and markup; they do not establish general LLM resistance to hostile instructions or independent use of the method.

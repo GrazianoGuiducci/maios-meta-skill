@@ -40,6 +40,21 @@ Una nuova versione può identificare un kit completo e utilizzabile il cui metod
 
 Il catalogo può fornire identità e scoperta mentre una presentazione distinta alimenta lo stato introduttivo. Individua quale sorgente produce la prima spiegazione visibile. Un campo di maturità presente in un oggetto non letto non informa il destinatario. Porta la stessa relazione qualificata nella presentazione consumata, nella guida operativa e nell’avvio completo, poi osserva il risultato generato nella sua lingua. Il primo incontro rimane breve e utile, con le prove più profonde raggiungibili. La relazione sorgente-consumer vale anche per uno snapshot separato dell’assistente: correggere la pagina non aggiorna automaticamente quel consumer.
 
+
+## La pagina spiega la risorsa; il testo copiabile consegna il metodo
+
+Distingui la spiegazione per la persona dalle istruzioni per l’AI. Raggiungi lo standard espressivo del progetto e il sapere dell’owner prima di scrivere. Rendi riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Queste relazioni possono guidare una pagina breve; il formato concreto segue il destinatario. Il «noi» ha un referente esplicito e non attribuisce pensieri al lettore. Ulteriore materiale serve quando migliora la comprensione. Mantieni una sezione identificabile «Testo da copiare nel proprio LLM»: un avvio completo contiene metodo e sapere necessario; una richiesta breve dichiara file e accessi richiesti; un percorso di configurazione spiega quali istruzioni produce. La sintesi della pagina non sostituisce il metodo.
+
+
+## Metadati, percorsi e archivi nella distribuzione reale
+
+Quando un generatore trasforma metadati in file, archivi o HTML, usa la competenza di sicurezza pertinente a quel confine. Verifica destinazioni risolte entro la radice affidata, collegamenti del filesystem, identificatori, membri e collisioni degli archivi prima delle scritture; codifica ogni valore nel contesto in cui il browser lo interpreta. L’uguaglianza con Git non prova queste proprietà. Risolvi un riferimento mobile nell’identità sorgente effettivamente letta. Conserva i byte di un archivio già distribuito; una correzione della sua provenienza esterna non riscrive il contenuto storico. Un difetto nel generatore richiede una correzione del meccanismo nel suo owner, entro il mandato; la sola istruzione testuale non lo rende sicuro.
+
+
+## Un’attività completa conserva incarico e fase propri
+
+Una competenza insegna un saper fare; un’attività completa gli affida un oggetto, uno scopo e un seguito. Riusa le competenze pertinenti senza creare duplicati. Conserva nel trasferimento fase, autorità e condizioni dell’attività sorgente: una proposta da valutare non diventa una correzione già applicata o un’autorizzazione stabile. I raccordi privati ai veri owner restano nelle guide interne; il destinatario riceve contesto e mezzi accessibili. Un nuovo segnale raccolto, una ricevuta o una variazione del calendario non richiedono da soli un’edizione del metodo.
+
 ## Una risorsa che insegna anche a formare risorse
 
 La relazione meta è il suo oggetto: forma una capacità utilizzabile a partire da un sapere interno e ne collega gli ingressi. Lo stesso metodo può essere applicato alla propria trasformazione in risorsa pubblica.

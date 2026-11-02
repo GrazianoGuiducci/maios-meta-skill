@@ -28,6 +28,8 @@ Conserva le superfici ancora corrette e realizza gli aggiornamenti richiesti dal
 
 Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del sistema. Spiega che cosa cambia per chi legge o usa quella superficie e come proseguire. Rendi la risorsa adattabile ad altri contesti con il sapere necessario a usarla. I casi inventati restano illustrativi; attribuzioni, segreti e dettagli privati mantengono il proprio trattamento. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultati ancora possibili; l’edizione dei file non dimostra affidabilità generale.
 
+Raggiungi lo standard espressivo affidato al progetto e fai partecipare la competenza editoriale prima di scrivere. Una spiegazione utile rende riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Conserva un referente chiaro del «noi» e aggiungi altro materiale quando aiuta a capire. Distingui questa spiegazione per la persona dalle istruzioni per l’AI. Nella sezione «Testo da copiare nel proprio LLM», un avvio completo conserva il metodo e il sapere necessario; un ingresso breve dichiara file, accessi o configurazione richiesti. Segui il dato autoriale e il renderer responsabili, così la prossima build conserva la correzione. Verifica lettura, preparazione e copia sul percorso interessato; una modifica del contesto rende superata una preparazione precedente.
+
 ## Lo stesso aggiornamento nei documenti e nei riceventi dipendenti
 
 Porta la correzione nelle lingue, nei contenuti operativi e nei consumer realmente dipendenti, usando i mezzi dei rispettivi responsabili. Gli owner di prodotto e capacità determinano i fatti; quelli di sito, distribuzione e runtime possiedono i loro strumenti e contratti. Una copia della conoscenza di un assistente, una configurazione o un’installazione seguono il proprio controller e l’autorità sull’effetto esatto. Completa gli effetti già affidati e conserva il seguito concreto degli altri.
@@ -39,6 +41,8 @@ Riusa sapere e prove finché identità, ambito e condizioni che li sostengono ri
 ## Revisioni, contributi concorrenti e consegna effettiva
 
 Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente.
+
+Raggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti.
 
 ## Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro
 
@@ -76,9 +80,15 @@ Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinat
 
 Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceventi l’AP può aggiornare e quali pubblicazioni o attivazioni sono comprese. Rendi utilizzabili strumenti e accessi attraverso la policy del tuo ambiente, senza inserire credenziali nel contesto pubblico. I responsabili determinano fatti, mezzi e autorità sull’effetto esatto. Completa gli effetti già affidati senza richiedere di nuovo ogni passaggio reversibile; prepara un seguito concreto quando serve una decisione distinta.
 
+Raggiungi anche gli oggetti che il mandato esclude e conserva i loro interventi ai rispettivi responsabili. Questo limite vale anche per gli effetti indiretti di generatori o materiali condivisi. Completa gli aggiornamenti indipendenti nelle superfici affidate; quando una dipendenza richiede un intervento su un oggetto escluso, conserva il seguito esatto e la sua ragione. Non trasformare il limite di quell’oggetto in un blocco dell’intero lavoro o in una regola universale per altri progetti.
+
 ## Il risultato consegnato e la continuità del monitoraggio
 
 Rileggi un percorso rappresentativo di chi usa la superficie aggiornata e il materiale ricevuto dai componenti dipendenti. Per un pacchetto cambiato confronta file distribuiti e sorgente dichiarata; per un’istruzione operativa verifica che il ricevente raggiunga il sapere attuale. Mantieni distinta una configurazione salvata da un’esecuzione avvenuta. Conserva ciò che la prova dimostra, i limiti e i passaggi aperti; una pagina corretta o un test riuscito non attestano assimilazione generale. Il ciclo successivo riparte dal presente e dalle conseguenze, senza ripetere verifiche immutate.
+
+## Spiegazione umana e istruzioni da copiare
+
+Rendi disponibile lo standard di spiegazione del tuo progetto e le sorgenti che sostengono ogni relazione. La pagina aiuta la persona a capire; la sezione copiabile consegna il metodo al suo LLM. Indica se l’avvio è completo, se richiede file accessibili o se configura istruzioni per l’ambiente. Un titolo chiaro o una sintesi non sostituiscono quel sapere. La preparazione del testo resta distinta dall’installazione del job e dal suo esercizio.
 
 # Casi di aggiornamento del sistema: software, musei, ricerca, comunità e biblioteche
 
@@ -105,6 +115,10 @@ Caso illustrativo. Una rete di biblioteche ha già aggiornato la guida dei labor
 ## Ricerca ambientale: riprendere le prove senza congelare la domanda
 
 Caso illustrativo. Un gruppo ha già verificato un pacchetto di analisi e pubblicato una spiegazione bilingue. La guida di campo sviluppa una diversa interpretazione dei dati senza cambiare il nome del metodo. L’AP raggiunge quella fonte, aggiorna spiegazione ed esempi interessati e conserva le prove ancora valide sui file rimasti identici. Il testo cambiato e la sua traduzione ricevono una nuova verifica. Il lavoro non richiede automaticamente nuove inferenze a pagamento. L’ingresso del job continua a raggiungere la guida corrente e le ragioni del cambiamento, con storia recuperabile. Apprendimento: riusare le prove riduce ripetizioni, mentre fonti e domanda restano aperte alle differenze reali.
+
+## Cooperativa culturale: guide aggiornate e applicazione riservata al suo owner
+
+Caso illustrativo. Una cooperativa affida all’AP guide e materiali per i volontari, conservando l’applicazione di prenotazione al suo manutentore. Una nuova modalità di accesso richiede spiegazioni più chiare. L’AP usa lo standard della cooperativa per spiegare oggetto, azione, utilità, ragione e contributo al progetto; separa il testo per i volontari dalle istruzioni complete per il loro LLM. Aggiorna il dato che genera le guide, prepara e copia il testo nelle due lingue e ricontrolla la preparazione dopo una modifica del contesto. Non cambia l’applicazione attraverso il generatore condiviso. Conserva al suo manutentore la dipendenza che richiede codice, mentre completa le guide indipendenti. Il caso insegna un confine scelto dalla cooperativa, senza imporlo a ogni progetto.
 
 # Sistema, superfici e mandato dell’AP da compilare
 

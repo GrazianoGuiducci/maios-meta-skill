@@ -2,7 +2,7 @@
 name: form-public-metaskill-resources
 description: "Turn an internal competence into a usable public resource. Use when preserving portable functions, removing private dependencies, preparing an installable kit, explaining first use or connecting repository, resource pages and editorial adaptations."
 metadata:
-  version: 0.3.5
+  version: 0.3.6
   language: it
 ---
 
@@ -70,6 +70,21 @@ Segui ogni funzione materiale dal sapere sorgente all’ingresso operativo consu
 ## Rendere percepibile la maturità del metodo nel primo incontro reale
 
 L’edizione dei file identifica una distribuzione; la fonte stabilisce la maturità del metodo e la portata delle prove. Conserva questa distinzione dove cambia l’adozione. Segui l’informazione fino al campo realmente consumato dalla pagina o dall’interfaccia del ricevente, oltre che nel metodo, nella guida e nell’avvio. Uno stato nel catalogo può non alimentare l’introduzione visibile. Osserva il primo incontro generato e correggi la proiezione responsabile, conservando la capacità disponibile e la sua profondità utile.
+
+
+## La pagina spiega la risorsa; il testo copiabile consegna il metodo
+
+Distingui la spiegazione per la persona dalle istruzioni per l’AI. Raggiungi lo standard espressivo del progetto e il sapere dell’owner prima di scrivere. Rendi riconoscibili titolo e contesto, che cosa è la risorsa, che cosa fa, a cosa serve, perché esiste e che cosa significa per il progetto nominato. Queste relazioni possono guidare una pagina breve; il formato concreto segue il destinatario. Il «noi» ha un referente esplicito e non attribuisce pensieri al lettore. Ulteriore materiale serve quando migliora la comprensione. Mantieni una sezione identificabile «Testo da copiare nel proprio LLM»: un avvio completo contiene metodo e sapere necessario; una richiesta breve dichiara file e accessi richiesti; un percorso di configurazione spiega quali istruzioni produce. La sintesi della pagina non sostituisce il metodo.
+
+
+## Metadati, percorsi e archivi nella distribuzione reale
+
+Quando un generatore trasforma metadati in file, archivi o HTML, usa la competenza di sicurezza pertinente a quel confine. Verifica destinazioni risolte entro la radice affidata, collegamenti del filesystem, identificatori, membri e collisioni degli archivi prima delle scritture; codifica ogni valore nel contesto in cui il browser lo interpreta. L’uguaglianza con Git non prova queste proprietà. Risolvi un riferimento mobile nell’identità sorgente effettivamente letta. Conserva i byte di un archivio già distribuito; una correzione della sua provenienza esterna non riscrive il contenuto storico. Un difetto nel generatore richiede una correzione del meccanismo nel suo owner, entro il mandato; la sola istruzione testuale non lo rende sicuro.
+
+
+## Un’attività completa conserva incarico e fase propri
+
+Una competenza insegna un saper fare; un’attività completa gli affida un oggetto, uno scopo e un seguito. Riusa le competenze pertinenti senza creare duplicati. Conserva nel trasferimento fase, autorità e condizioni dell’attività sorgente: una proposta da valutare non diventa una correzione già applicata o un’autorizzazione stabile. I raccordi privati ai veri owner restano nelle guide interne; il destinatario riceve contesto e mezzi accessibili. Un nuovo segnale raccolto, una ricevuta o una variazione del calendario non richiedono da soli un’edizione del metodo.
 
 ## Continuare attraverso il progetto reale
 
