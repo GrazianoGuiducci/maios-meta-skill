@@ -1,31 +1,31 @@
-# Assignment guide for project websites, documentation and public resources
+# Guide to the AP for secondary system updates
 
-## The first assignment: project, readers and materials to update
+## The system and the first update cycle
 
-Select an actual website or public resource and the project it represents. Supply the current sources and name the intended reader. You can begin with one product guide, a collection of educational materials, a service website or a research programme. The activity can work across several surfaces when the same entrusted purpose makes that useful.
+Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component.
 
-## Starting the assignment in a conversation with AI
+## Complete AP instructions in the receiving system
 
-Open START_CHAT_EN.txt and copy or attach the whole file to your AI. Add CONTEXT_EN.md or describe the same information in your own words. The starter contains this activity's complete method, practical guidance and examples. If the AI cannot read a source, supply an accessible copy or keep the missing relation explicit. Save the working guide returned by the conversation so a later session can continue from it.
+Read ACTIVITY.md and use START_CHAT_EN.txt as the complete instructions, adding your system’s context. The starter includes the method, guide and cases: it can be used in a conversation or as the entry for the receiver that will do the work. Make actual sources accessible and preserve the result and what the next cycle needs in the system’s guide.
 
-## Persistent sources: project files and existing kernels
+## Persistent files and competences that conduct the work
 
-Keep the complete activity folder in your project's working knowledge and make ACTIVITY.md the entry. The package includes the full public folders of three supporting competences under skills/: Form Public Meta-Skill Resources forms the transferable resource; Meta-Activity connects mandate and controller; Situated Activity Evolution improves the recurring work through consequences. If your environment uses discoverable skills, follow its native installation rules for those folders, preserving existing versions. An activity is an entrusted assignment that composes these capacities; its folder is not itself a scheduler.
+Keep the complete AP folder in working knowledge and make ACTIVITY.md its entry. The package includes three complete public competences: Meta-Activity connects the mandate and controller; Situated Activity Evolution improves the activity’s usefulness and method; Form Public Meta-Skill Resources leads transfer when an update should become a public resource. Your system’s competences own the facts and means of maintained surfaces. If the receiver installs skills, apply its native rules to the included folders while preserving existing ones.
 
-## The activity on request or on a recurring schedule
+## The controller, schedule and verification of the programmed AP
 
-For a first run, ask the AI to use the activity on the selected project now. To make it recur, select a suitable event or cadence, timezone, recipient and notification preference. Give the actual controller an entry that can reach the method, project context and current working guide. Use the controller's native creation and readback tools. Record the identity and full configuration privately. If the environment has no scheduler, the same method remains usable on request; a saved prompt does not configure a recurring job.
+Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration.
 
-## Access and decisions needed for publication
+## Updates and effects entrusted to the AP
 
-State which repositories and public surfaces the AI may change and whether it may publish directly. For example, you can entrust routine documentation corrections and resource updates while keeping pricing or scientific claims for a separate decision. Scope this to the actual project rather than inheriting the MAIOS activity's permissions. Provide tools and access through the receiving environment; put no credentials in a public context template. Once an effect has been entrusted, carry it through without asking again for each reversible mechanic.
+Specify which repositories, documentation, websites, knowledge data and other receivers the AP may update and which publications or activations are included. Make tools and access usable under your environment’s policy without placing credentials in public context. Owners determine facts, means and authority over the exact effect. Complete effects already entrusted without requesting every reversible step again; prepare concrete continuation when a distinct decision is needed.
 
-## The online result and continuation of the update work
+## The delivered result and continuity of monitoring
 
-Inspect a representative reader path and the material it delivers. For a changed package, compare the released bytes and its stated source; for a new explanation, check the generated language and first-use path. Appropriate checks follow the property at stake. Preserve what the observation actually establishes. A correct page or passing test does not establish another person's understanding, adoption or a model's assimilation. Continue from new consequences rather than repeating an unchanged verification.
+Read back a representative path used by someone encountering the updated surface and the materials received by dependent components. For a changed package, compare distributed files with the declared source; for an operating instruction, check that the receiver reaches current knowledge. Keep a saved configuration distinct from an execution that happened. Preserve what the observation establishes, its limits and open steps; an accurate page or successful test does not prove general assimilation. The next cycle begins from the present and consequences without repeating unchanged checks.
 
-## MAIOS origin and the status of this transferable guide
+## Origin and status of the secondary-updates AP
 
-Adapted from the recurring activity used to maintain MAIOS public resources. The original activity has produced resource and website updates. This portable edition supplies its operating method and illustrative adaptations; use in another project has its own results to observe.
+The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed.
 
 [Method](ACTIVITY.md) · [Complete starter](START_CHAT_EN.txt) · [Examples](EXAMPLES.md) · [Context](CONTEXT_EN.md) · [Italiano](GUIDA_IT.md)

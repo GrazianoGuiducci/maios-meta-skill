@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competences and 1 guided assignment for working with AI, forming competences and evolving their methods.**
+**48 competences and 1 scheduled activity (AP) for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -24,11 +24,11 @@ Download a kit and copy its complete canonical folder into your project's `.agen
 
 The `skills/` directory contains the 48 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
-## Assignments for artificial intelligence assistants
+## Scheduled activities (AP) for autonomous systems
 
-Complete instructions for giving an artificial intelligence assistant a job in your project, with a guide, practical examples and the source materials it needs. The first assignment concerns a project’s public website and documentation. Start in a conversation; recurring work uses the scheduler available in your own environment.
+Complete methods and instructions for scheduling activities in an autonomous system. Each scheduled activity preserves its purpose, reads system sources, uses the tools and access entrusted to it, and maintains continuity between runs. AP is the Italian abbreviation for attività programmate. The first AP handles secondary system updates, from documentation to the other surfaces that need to remain aligned.
 
-- [Website and documentation updates for an evolving project](activities/public-representation/README.md) · 0.1.1
+- [AP for secondary system updates](activities/public-representation/README.md) · 0.2.0
 
 ## Choose a resource
 

@@ -1,129 +1,129 @@
-Use the following method for the project I entrust to you. Understand the context and current sources, then perform useful work through the means and effects entrusted. The included sections contain the complete method: presume no access to private MAIOS knowledge. If an indispensable relation is missing, ask only for what changes the work and continue independent work. If I have not selected a recurrence, begin on request.
+Apply the AP for secondary system updates to the system I entrust to you. Reach its mandate, current sources and guides and the pertinent competences; monitor the system and carry out useful secondary updates across the entrusted surfaces. The following sections contain the complete method. Use tools, access, controllers and authority actually available in the receiving system; ask only for missing information that changes the work and continue independent work. For a first trial you can run one cycle now; recurrence follows the selected controller’s configuration.
 
-# Website and documentation updates for an evolving project
+# AP for secondary system updates
 
-This guide provides a complete assignment for an artificial intelligence assistant: examine developments in a project and update its public explanations and materials. To begin, provide the project’s sources, the pages to compare and the changes the assistant may prepare or publish. The work may produce a correction, a new guide or a reusable resource; it may also confirm that an existing presentation remains accurate.
+This AP follows the evolution of an autonomous system and carries out the secondary updates that follow from it. It reads current sources and work, identifies which documentation, guides, instructions, resources and other materials need to change, and carries the updates into the entrusted surfaces. It adapts to the receiving system and improves its method through the consequences of its work.
 
-## The project, its readers and the purpose of public communication
+## The current system and the AP’s mandate
 
-Begin with the project's purpose, current work and intended readers. Understand what those readers need to recognise, decide or do. A new name or release is one possible signal; a change in meaning, capability, ownership, maturity or practical use can matter without a new folder or version. Let the sources and the work change your question when they expose a relation the first description missed.
+Understand the system’s purpose and operating form, its current work, the people who use it and the updates entrusted to the AP. Reach the guide that preserves its present and the competences that conduct that work. A new name or release can signal change; facts, meaning, responsibilities, capabilities and conditions of use can change without a new folder or version. Let a material difference change the question and method during monitoring while preserving the entrusted purpose.
 
-## The sources that document developments in the project
+## Sources and competences that document the system’s evolution
 
-Read the relevant product or domain sources, their operating guides and the public surfaces that depend on them. Include contributions already published by other people and work that remains proposed or under review. Preserve the author of a statement, when it was supported and the scope of any observed result. A previous activity report locates knowledge; it does not replace the current owning source. If useful knowledge already exists but the activity cannot reach it, repair that connection rather than inventing a second method.
+Read the system’s living sources, operating guides, composed capabilities and contributions from other owners. Include pertinent results, proposals and publications without merging their states. Preserve who supports a statement, when it was supported and what observed effects make understandable now. An earlier report helps reach knowledge; it does not replace the current source. If useful knowledge already exists but the AP does not reach it, improve the connection that should let it participate.
 
-## The pages, guides and materials that readers receive
+## Surfaces that need to follow the same change
 
-Follow the reader from a resource card or search result to the explanation, first-use instructions and material delivered. Ask whether that path makes the object, context, capabilities and conditions of use understandable. Compare the operating knowledge as well as the visible page: a correct title can accompany an incomplete method, and an updated page can still deliver an earlier archive. A linked assistant or another knowledge consumer may receive its own copy, index or source access; inspect its actual contract before deciding that it has changed.
+Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself.
 
-## Useful corrections and new resources to share
+## Secondary updates that are useful to the system
 
-Keep presentations that remain faithful and useful. When a difference matters, correct the responsible explanation, method, example, entry point or delivery mechanism. A reusable capability may merit a complete new resource; it may also be better served by an existing resource. Explain what another project must supply and what can be adapted. Preserve the reasons and practical knowledge that make the capability work, including relevant tools and recovery behaviour. A list of competence names or the removal of private paths does not convey that knowledge.
+Preserve surfaces that remain accurate and carry out the updates required by material differences. Work may correct documentation, complete an instruction, update a resource or its connection, align a projection or form a new reusable resource when a distinct use emerges. Preserve reasons, practical knowledge, pertinent tools and recovery after a problem. Do not reduce transfer to a list of names or the removal of private references.
 
-## A project explanation for people encountering it for the first time
+## Documentation and explanations that make sense in context
 
-Give the title a recognisable object and context. Explain a concrete task, why the method helps and how to begin. Use examples from appropriate domains and mark invented cases as illustrative. Distinguish an available method, an implemented capability, an observed execution and a result that remains possible. Preserve maturity supplied by the source; a file edition does not establish general reliability. Structure the reading so that explanation, sources, examples and action can be found without reconstructing the project's private history.
+The title, description and first step preserve the system’s object, case and operating form. Explain what changes for the person reading or using that surface and how to continue. Make the resource adaptable to other contexts with the knowledge needed to use it. Invented cases remain illustrative; attribution, secrets and private details retain their treatment. Distinguish an available method, implemented capability, observed execution and possible results; a file edition does not prove general reliability.
 
-## The same change across the website, packages and entrusted channels
+## The same update across documents and dependent receivers
 
-Use the current contracts and tools of the website, repository and other owners involved. Follow the dependencies changed by this work: language counterparts, guides, starters, packages, catalogue entries, inbound links and discovery data. Update a separate assistant snapshot or runtime only through its own available means and the authority entrusted for that exact effect. A website publication can be complete while a separately owned runtime has a precise pending continuation. Keep that distinction visible where it changes use.
+Carry the correction into the languages, operating content and consumers that actually depend on it, using their owners’ means. Product and capability owners determine facts; website, distribution and runtime owners hold their tools and contracts. A copy of an assistant’s knowledge, a configuration or an installation follows its actual controller and authority over the exact effect. Complete effects already entrusted and preserve concrete continuation for the others.
 
-## Concurrent contributions and permission to publish
+## Revisions, concurrent contributions and actual delivery
 
-Before writing, identify the actual working revision, target and contributions already present. Use an isolated branch or another owner-supported method when needed. Refresh shared state before commit, push or publication and reconcile relevant changes without absorbing unrelated work. Perform the effects the person has entrusted, such as preparing changes, publishing selected pages or releasing a resource. If one action needs a decision or unavailable access, prepare its concrete continuation and keep independent work moving. Verify the exact delivered result: the committed files, downloadable package and live route have distinct identities.
+Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues.
 
-## What the activity learns while updating public resources
+## The AP’s method and instructions improve through its work
 
-A missing source, repeated finding, misunderstood explanation or successful new approach can change how the next movement should work. Return the reusable difference to the competence, guide or entry point responsible. Improve your own instructions within the delegated range. Before changing a native scheduled job, read its current identity and configuration, preserve a complete private before-state, apply the authorised change, read back the saved result and preserve the complete after-state. Keep secrets out of exported backups. Purpose, cadence, recipient, spending and authority over publication remain the person's determinations unless their change has also been entrusted.
+A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted.
 
-## Work continuity and notifications about meaningful changes
+## The system’s present and useful notifications
 
-Maintain a short current note that reaches the reasons, sources, changes, effects and genuine pending actions in the project's working guide. Preserve a deferred possibility with the condition that would reopen it. A quiet run can be useful; do not manufacture edits, alerts or new resources. When nothing actionable has changed, follow the recipient's notification preference. Report meaningful consequences, a new impediment or a concrete decision needed, distinguishing preparation, publication, observed use and later learning.
+Keep a short present that reaches reasons, sources, updates, effects and open steps in the system’s guide. Preserve deferred possibilities and the conditions that would make them pertinent. There is no quota of changes: no_change is legitimate when surfaces remain accurate. Follow the entrusted notification preference; communicate meaningful consequences, a new impediment or a necessary decision. Keep preparation, source sharing, publication, configuration and real exercise distinct.
 
-# Assignment guide for project websites, documentation and public resources
+# Guide to the AP for secondary system updates
 
-## The first assignment: project, readers and materials to update
+## The system and the first update cycle
 
-Select an actual website or public resource and the project it represents. Supply the current sources and name the intended reader. You can begin with one product guide, a collection of educational materials, a service website or a research programme. The activity can work across several surfaces when the same entrusted purpose makes that useful.
+Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component.
 
-## Starting the assignment in a conversation with AI
+## Complete AP instructions in the receiving system
 
-Open START_CHAT_EN.txt and copy or attach the whole file to your AI. Add CONTEXT_EN.md or describe the same information in your own words. The starter contains this activity's complete method, practical guidance and examples. If the AI cannot read a source, supply an accessible copy or keep the missing relation explicit. Save the working guide returned by the conversation so a later session can continue from it.
+Read ACTIVITY.md and use START_CHAT_EN.txt as the complete instructions, adding your system’s context. The starter includes the method, guide and cases: it can be used in a conversation or as the entry for the receiver that will do the work. Make actual sources accessible and preserve the result and what the next cycle needs in the system’s guide.
 
-## Persistent sources: project files and existing kernels
+## Persistent files and competences that conduct the work
 
-Keep the complete activity folder in your project's working knowledge and make ACTIVITY.md the entry. The package includes the full public folders of three supporting competences under skills/: Form Public Meta-Skill Resources forms the transferable resource; Meta-Activity connects mandate and controller; Situated Activity Evolution improves the recurring work through consequences. If your environment uses discoverable skills, follow its native installation rules for those folders, preserving existing versions. An activity is an entrusted assignment that composes these capacities; its folder is not itself a scheduler.
+Keep the complete AP folder in working knowledge and make ACTIVITY.md its entry. The package includes three complete public competences: Meta-Activity connects the mandate and controller; Situated Activity Evolution improves the activity’s usefulness and method; Form Public Meta-Skill Resources leads transfer when an update should become a public resource. Your system’s competences own the facts and means of maintained surfaces. If the receiver installs skills, apply its native rules to the included folders while preserving existing ones.
 
-## The activity on request or on a recurring schedule
+## The controller, schedule and verification of the programmed AP
 
-For a first run, ask the AI to use the activity on the selected project now. To make it recur, select a suitable event or cadence, timezone, recipient and notification preference. Give the actual controller an entry that can reach the method, project context and current working guide. Use the controller's native creation and readback tools. Record the identity and full configuration privately. If the environment has no scheduler, the same method remains usable on request; a saved prompt does not configure a recurring job.
+Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration.
 
-## Access and decisions needed for publication
+## Updates and effects entrusted to the AP
 
-State which repositories and public surfaces the AI may change and whether it may publish directly. For example, you can entrust routine documentation corrections and resource updates while keeping pricing or scientific claims for a separate decision. Scope this to the actual project rather than inheriting the MAIOS activity's permissions. Provide tools and access through the receiving environment; put no credentials in a public context template. Once an effect has been entrusted, carry it through without asking again for each reversible mechanic.
+Specify which repositories, documentation, websites, knowledge data and other receivers the AP may update and which publications or activations are included. Make tools and access usable under your environment’s policy without placing credentials in public context. Owners determine facts, means and authority over the exact effect. Complete effects already entrusted without requesting every reversible step again; prepare concrete continuation when a distinct decision is needed.
 
-## The online result and continuation of the update work
+## The delivered result and continuity of monitoring
 
-Inspect a representative reader path and the material it delivers. For a changed package, compare the released bytes and its stated source; for a new explanation, check the generated language and first-use path. Appropriate checks follow the property at stake. Preserve what the observation actually establishes. A correct page or passing test does not establish another person's understanding, adoption or a model's assimilation. Continue from new consequences rather than repeating an unchanged verification.
+Read back a representative path used by someone encountering the updated surface and the materials received by dependent components. For a changed package, compare distributed files with the declared source; for an operating instruction, check that the receiver reaches current knowledge. Keep a saved configuration distinct from an execution that happened. Preserve what the observation establishes, its limits and open steps; an accurate page or successful test does not prove general assimilation. The next cycle begins from the present and consequences without repeating unchanged checks.
 
-# Examples: software documentation, a museum, research and a community project
+# Secondary update cases: software, a museum, research and a community
 
-## Planning software: documentation for the new offline workflow
+## Software system: the new offline workflow reaches guides and packages
 
-Illustrative case. A planning tool gains an offline workflow, but its public guide still assumes a permanent connection. The activity reads the owning implementation and release notes, distinguishes the released workflow from an unfinished synchronisation proposal, and follows the user path through the feature page, guide and example file. It updates the entrusted documentation in both languages and checks that the example delivered is the current one. Learning: later comparisons must follow the workflow's conditions of use, even when the feature name stays unchanged.
+Illustrative case. A planning system gains an offline workflow while its operating guide, website and example files still assume a permanent connection. The AP reads implementation and release notes, distinguishes the delivered workflow from synchronization that remains proposed and follows dependencies across the different surfaces. It updates entrusted guides and examples in both languages, retains current files in the package and reads back what is delivered. Learning: monitoring follows conditions of use and operating knowledge even when the feature name stays the same.
 
-## Museum: a workshop guide for different sensory needs
+## Museum system: an accessible method reaches facilitators and the public
 
-Illustrative case. A museum has improved how facilitators adapt a workshop to different sensory needs. A celebratory page alone would not transfer that ability. The activity forms a usable guide with the decisions facilitators make, accessible materials, three situations and a first assignment. Participant records stay private. The owner still describes the method as developing; the public introduction preserves that state. Learning: future resources must carry the practical choice-making knowledge as well as an attractive description.
+Illustrative case. A museum uses a system with an assistant and documentation for facilitators. A workshop method evolves for different sensory needs while internal sheets and the public guide still describe an earlier form. The AP reaches the owners’ knowledge, updates entrusted documentation and connects the assistant’s copy of sources to its owner. The method remains qualified as in formation and participant data stays private. Learning: updating a page does not update the knowledge received by another component by itself.
 
-## Research: a public explanation after a model is revised
+## Research system: a revised model changes documentation and teaching sources
 
-Illustrative case. A group publishes a revised model while a public explainer still presents an earlier hypothesis as settled. The activity reads the paper and the group's qualified account, then revises the affected explanation and teaching example. It preserves what remains unresolved and routes a separately owned teaching assistant's source update through its actual owner. Learning: updating the visible page alone does not change the material that another consumer receives. A quiet later run keeps the still-correct explanation.
+Illustrative case. A group publishes a revised model while a research-support system retains an earlier hypothesis in a guide, a public explanation and the sources of a teaching assistant. The AP reads the paper and the group’s qualified account, updates entrusted explanations and follows the contract of the assistant-source owner. It preserves what remains open and distinguishes published documentation from activation of the receiving copy. A later quiet cycle preserves what remains accurate.
 
-## Community project: a new guide changes the AI activity’s instructions
+## Community system: a source guide improves the AP’s monitoring
 
-Illustrative case. A community project repeatedly receives reports that its website is unchanged, although a source guide has acquired a better operating method. The activity recognises that it was comparing versions and page text while missing the practical knowledge in the guide. It changes its source entry and continuation instructions within the entrusted range. If this changes the scheduler's prompt, it preserves the complete private configuration before and after and reads back the real job. Learning: improve the point where knowledge failed to participate, rather than creating a second recurring audit.
+Illustrative case. A community project’s AP repeatedly reports that the website is unchanged while a system guide has developed a better operating method. The AP recognizes that it compared versions and pages without reaching that knowledge. It improves source entry, dependent documentation and its own continuity instructions within the entrusted scope. If it changes the job’s prompt, it preserves complete private configuration before and after and reads back the actual controller. Learning: correcting where knowledge failed to participate makes the following cycle useful.
 
-# The project, sources and public changes entrusted to the assistant
+# System, surfaces and AP mandate to complete
 
-## Project and purpose
+## System and purpose
 
-What is developing, why it matters and the work this activity should serve.
-
-[To complete]
-
-## Readers and public surfaces
-
-Who should understand or use it; website, guides, catalogue, packages and languages concerned.
+Which autonomous system should the AP monitor? What work does it perform and why are secondary updates useful?
 
 [To complete]
 
-## Current sources and working guide
+## Sources and current guide
 
-Accessible repository paths, documents or links, their owners and where useful continuity already lives.
-
-[To complete]
-
-## Available means
-
-What the AI can actually read, edit, test, publish and preserve in this environment.
+Where are the living sources, owners and guide for continuation? Specify the materials that are actually accessible.
 
 [To complete]
 
-## Entrusted actions and decisions
+## Surfaces to keep aligned
 
-Which changes and publications are entrusted; which particular effects need a further decision.
-
-[To complete]
-
-## Activation and notification
-
-Run now, or the selected event/cadence and timezone; recipient and meaningful notification conditions.
+Which documentation, instructions, packages, website, catalogues and receiver knowledge depend on the system?
 
 [To complete]
 
-## Learning and recovery
+## Controller, schedule and notifications
 
-Where method improvements belong; the delegated range for instruction changes and a private controller-backup location when relevant.
+Which controller receives the AP? Specify an event or schedule, time zone, recipient and notification conditions; for a first trial you can select a single cycle.
+
+[To complete]
+
+## Available tools and access
+
+Which means can the receiver use and under which policy does it obtain access? Do not place secrets in this template.
+
+[To complete]
+
+## Entrusted updates and effects
+
+What may the AP update, share, publish or activate? Which decisions need your intervention and which spending is entrusted?
+
+[To complete]
+
+## Continuity and learning
+
+Where does it keep its present, reasons, results and continuation? Which instructions may it improve and how does it return reusable knowledge to the system’s competences?
 
 [To complete]

@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competenze e 1 incarico con istruzioni per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**48 competenze e 1 attività programmata (AP) per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -22,11 +22,11 @@ Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS]
 
 Scopri [come adattare i metodi a formazione, cultura, servizi e ricerca](docs/ADATTARE.md). MKCV, il metodo di produzione video, è **beta e in apprendimento**.
 
-## Incarichi per assistenti di intelligenza artificiale
+## Attività programmate (AP) per sistemi autonomi
 
-Istruzioni complete per affidare un lavoro a un assistente di intelligenza artificiale, con guida, esempi pratici e materiali da fornire. Il primo incarico riguarda il sito e la documentazione pubblica di un progetto. Si può iniziare in una conversazione; un lavoro ricorrente usa il sistema di programmazione disponibile nel proprio ambiente.
+Metodi e istruzioni completi per programmare attività in un sistema autonomo. Ogni attività programmata (AP) conserva uno scopo, legge le fonti del sistema, usa gli strumenti e gli accessi che le vengono affidati e mantiene la continuità tra le esecuzioni. La prima AP segue gli aggiornamenti secondari di sistema, dalla documentazione alle altre superfici che devono restare allineate.
 
-- [Aggiornamento del sito e della documentazione di un progetto](activities/public-representation/GUIDA_IT.md) · 0.1.1
+- [AP per Aggiornamenti secondari di sistema](activities/public-representation/GUIDA_IT.md) · 0.2.0
 
 ## Scegliere una risorsa
 

@@ -1,17 +1,17 @@
-# Esempi: documentazione software, museo, ricerca e progetto di comunità
+# Casi di aggiornamento secondario: software, museo, ricerca e comunità
 
-## Software di pianificazione: guida al nuovo uso offline
+## Sistema software: il nuovo uso offline attraversa guide e pacchetti
 
-Caso illustrativo. Uno strumento di pianificazione acquisisce un flusso offline, mentre la guida pubblica presume ancora una connessione permanente. L’attività legge implementazione e note di rilascio, distingue il flusso distribuito dalla sincronizzazione ancora proposta e segue il percorso fra pagina funzionale, guida e file d’esempio. Aggiorna la documentazione affidata nelle due lingue e verifica che l’esempio consegnato sia quello corrente. Apprendimento: il confronto successivo deve seguire le condizioni d’uso anche quando il nome della funzione rimane uguale.
+Caso illustrativo. Un sistema di pianificazione acquisisce un flusso offline, mentre guida operativa, sito e file d’esempio presumono ancora una connessione permanente. L’AP legge implementazione e note di rilascio, distingue il flusso distribuito dalla sincronizzazione ancora proposta e segue le dipendenze nelle diverse superfici. Aggiorna le guide e gli esempi affidati nelle due lingue, conserva nel pacchetto i file correnti e rilegge ciò che viene consegnato. Apprendimento: il monitoraggio segue anche condizioni d’uso e sapere operativo quando il nome della funzione rimane uguale.
 
-## Museo: guida a un laboratorio accessibile a esigenze sensoriali diverse
+## Sistema museale: il metodo accessibile raggiunge facilitatori e pubblico
 
-Caso illustrativo. Un museo migliora il modo in cui i facilitatori adattano un laboratorio a esigenze sensoriali diverse. Una pagina celebrativa da sola non trasferirebbe la capacità. L’attività forma una guida utilizzabile con decisioni dei facilitatori, materiali accessibili, tre situazioni e primo incarico. I dati dei partecipanti restano privati. La fonte qualifica il metodo come in formazione e l’introduzione pubblica conserva quello stato. Apprendimento: le prossime risorse devono trasferire il sapere delle scelte pratiche insieme alla descrizione.
+Caso illustrativo. Un museo usa un sistema con un assistente e documentazioni per i facilitatori. Il metodo di un laboratorio evolve per esigenze sensoriali diverse, ma alcune schede interne e la guida pubblica descrivono ancora la forma precedente. L’AP raggiunge il sapere dei responsabili, aggiorna le documentazioni affidate e collega al responsabile dell’assistente la sua copia delle fonti. Il metodo rimane qualificato come in formazione e i dati dei partecipanti restano privati. Apprendimento: aggiornare una pagina non aggiorna da solo il sapere ricevuto da un altro componente.
 
-## Ricerca: pagina divulgativa dopo la revisione di un modello
+## Sistema di ricerca: un modello rivisto cambia documentazioni e fonti didattiche
 
-Caso illustrativo. Un gruppo pubblica un modello rivisto mentre una pagina divulgativa presenta ancora come consolidata un’ipotesi precedente. L’attività legge il paper e il resoconto qualificato del gruppo, poi rivede spiegazione ed esempio didattico coinvolti. Mantiene ciò che resta aperto e collega l’aggiornamento delle fonti di un assistente didattico distinto al suo responsabile effettivo. Apprendimento: la pagina visibile non aggiorna da sola il materiale ricevuto da un altro sistema. Un ciclo successivo silenzioso conserva la spiegazione ancora corretta.
+Caso illustrativo. Un gruppo pubblica un modello rivisto mentre un sistema di supporto alla ricerca conserva un’ipotesi precedente in una guida, in una pagina divulgativa e nelle fonti di un assistente didattico. L’AP legge paper e resoconto qualificato del gruppo, aggiorna le spiegazioni affidate e segue il contratto del responsabile delle fonti dell’assistente. Mantiene ciò che resta aperto e distingue la documentazione pubblicata dall’attivazione della copia nel ricevente. Un ciclo successivo silenzioso conserva ciò che è ancora corretto.
 
-## Progetto di comunità: una nuova guida cambia le istruzioni dell’attività AI
+## Sistema di comunità: una guida sorgente migliora il monitoraggio dell’AP
 
-Caso illustrativo. Un progetto di comunità riceve ripetutamente rapporti sul sito invariato, mentre una guida sorgente ha sviluppato un metodo operativo migliore. L’attività riconosce che confrontava versioni e pagine ma perdeva il sapere pratico della guida. Cambia l’ingresso alle fonti e le istruzioni di continuità nel perimetro affidato. Se varia il prompt dello scheduler, conserva privatamente la configurazione completa prima e dopo e rilegge il job reale. Apprendimento: migliorare il punto in cui il sapere non partecipava, invece di creare un secondo audit ricorrente.
+Caso illustrativo. L’AP di un progetto di comunità produce ripetutamente rapporti sul sito invariato, mentre una guida del sistema ha sviluppato un metodo operativo migliore. L’AP riconosce che confrontava versioni e pagine ma non raggiungeva quel sapere. Migliora l’ingresso alle fonti, le documentazioni dipendenti e le proprie istruzioni di continuità nel perimetro affidato. Se cambia il prompt del job, conserva privatamente la configurazione completa prima e dopo e rilegge il controller reale. Apprendimento: correggere il punto in cui il sapere non partecipava rende utile il ciclo seguente.

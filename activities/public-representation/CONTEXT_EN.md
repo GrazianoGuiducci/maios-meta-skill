@@ -1,43 +1,43 @@
-# The project, sources and public changes entrusted to the assistant
+# System, surfaces and AP mandate to complete
 
-## Project and purpose
+## System and purpose
 
-What is developing, why it matters and the work this activity should serve.
-
-[To complete]
-
-## Readers and public surfaces
-
-Who should understand or use it; website, guides, catalogue, packages and languages concerned.
+Which autonomous system should the AP monitor? What work does it perform and why are secondary updates useful?
 
 [To complete]
 
-## Current sources and working guide
+## Sources and current guide
 
-Accessible repository paths, documents or links, their owners and where useful continuity already lives.
-
-[To complete]
-
-## Available means
-
-What the AI can actually read, edit, test, publish and preserve in this environment.
+Where are the living sources, owners and guide for continuation? Specify the materials that are actually accessible.
 
 [To complete]
 
-## Entrusted actions and decisions
+## Surfaces to keep aligned
 
-Which changes and publications are entrusted; which particular effects need a further decision.
-
-[To complete]
-
-## Activation and notification
-
-Run now, or the selected event/cadence and timezone; recipient and meaningful notification conditions.
+Which documentation, instructions, packages, website, catalogues and receiver knowledge depend on the system?
 
 [To complete]
 
-## Learning and recovery
+## Controller, schedule and notifications
 
-Where method improvements belong; the delegated range for instruction changes and a private controller-backup location when relevant.
+Which controller receives the AP? Specify an event or schedule, time zone, recipient and notification conditions; for a first trial you can select a single cycle.
+
+[To complete]
+
+## Available tools and access
+
+Which means can the receiver use and under which policy does it obtain access? Do not place secrets in this template.
+
+[To complete]
+
+## Entrusted updates and effects
+
+What may the AP update, share, publish or activate? Which decisions need your intervention and which spending is entrusted?
+
+[To complete]
+
+## Continuity and learning
+
+Where does it keep its present, reasons, results and continuation? Which instructions may it improve and how does it return reusable knowledge to the system’s competences?
 
 [To complete]

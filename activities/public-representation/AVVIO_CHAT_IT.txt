@@ -1,129 +1,129 @@
-Usa il metodo seguente per il progetto che ti affido. Comprendi il contesto e le fonti correnti, poi svolgi il lavoro utile attraverso i mezzi e gli effetti affidati. Le sezioni qui incluse contengono il metodo completo: non presumere accessi o conoscenze private MAIOS. Se una relazione indispensabile manca, chiedi soltanto ciò che cambia il lavoro e prosegui con la parte indipendente. Se non ho selezionato una ricorrenza, inizia su richiesta.
+Applica l’AP per Aggiornamenti secondari di sistema al sistema che ti affido. Raggiungi il suo mandato, le fonti e le guide attuali e le competenze pertinenti; monitora il sistema e realizza gli aggiornamenti secondari utili nelle superfici affidate. Le sezioni seguenti contengono il metodo completo. Usa strumenti, accessi, controller e autorità realmente disponibili nel sistema ricevente; chiedi soltanto le informazioni mancanti che cambiano il lavoro e prosegui con la parte indipendente. Per una prima prova puoi eseguire ora un ciclo; una ricorrenza segue la configurazione del controller selezionato.
 
-# Aggiornamento del sito e della documentazione di un progetto
+# AP per Aggiornamenti secondari di sistema
 
-Questa guida contiene un incarico completo da usare con un assistente di intelligenza artificiale: esaminare le novità di un progetto e aggiornare le spiegazioni e i materiali destinati al pubblico. Per iniziare occorrono le fonti del progetto, le pagine da confrontare e l’indicazione delle modifiche che l’assistente può preparare o pubblicare. Il lavoro può produrre una correzione, una nuova guida o una risorsa riusabile; può anche confermare che una presentazione è ancora corretta.
+Questa AP segue l’evoluzione di un sistema autonomo e realizza gli aggiornamenti secondari che ne derivano. Legge le fonti e il lavoro attuale, riconosce quali documentazioni, guide, istruzioni, risorse e altri materiali devono cambiare e porta gli aggiornamenti nelle superfici affidate. Si adatta al sistema che la riceve e migliora il proprio metodo attraverso le conseguenze del lavoro.
 
-## Il progetto, i destinatari e lo scopo della comunicazione
+## Il sistema attuale e il mandato dell’AP
 
-Parti dallo scopo del progetto, dal lavoro attuale e dai lettori a cui si rivolge. Comprendi che cosa devono poter riconoscere, decidere o fare. Un nome o un rilascio nuovo sono possibili segnali; significato, capacità, responsabilità, maturità o condizioni d’uso possono cambiare anche senza una nuova cartella o versione. Lascia che fonti e lavoro riformino la domanda quando rendono visibile una relazione sfuggita alla prima descrizione.
+Comprendi lo scopo e la forma operativa del sistema, il suo lavoro attuale, le persone che lo usano e gli aggiornamenti affidati all’AP. Raggiungi la guida che conserva il presente e le competenze che conducono quel lavoro. Un nuovo nome o rilascio può segnalare un cambiamento; fatti, significato, responsabilità, capacità e condizioni d’uso possono cambiare anche senza una nuova cartella o versione. Lascia che una differenza materiale cambi domanda e metodo durante il monitoraggio, mantenendo lo scopo affidato.
 
-## Le fonti che documentano gli sviluppi del progetto
+## Le fonti e le competenze che documentano l’evoluzione
 
-Leggi le sorgenti pertinenti del prodotto o del dominio, le loro guide operative e le superfici pubbliche che ne dipendono. Includi i contributi già pubblicati da altre persone e il lavoro ancora proposto o in revisione. Conserva chi sostiene un’affermazione, quando era supportata e la portata dei risultati osservati. Un rapporto precedente dell’attività permette di ritrovare il sapere; non sostituisce la fonte proprietaria corrente. Se il sapere utile esiste già ma l’attività non lo raggiunge, migliora quel collegamento invece di inventare un secondo metodo.
+Leggi le sorgenti vive del sistema, le guide operative, le capacità composte e i contributi degli altri responsabili. Includi risultati, proposte e pubblicazioni pertinenti senza confonderne lo stato. Conserva chi sostiene un’affermazione, quando era supportata e che cosa gli effetti osservati permettono di comprendere ora. Un rapporto precedente serve a raggiungere il sapere, non sostituisce la fonte corrente. Se un sapere utile esiste già ma l’AP non lo raggiunge, migliora il collegamento che deve farlo partecipare.
 
-## Le pagine, le guide e i materiali ricevuti dal pubblico
+## Le superfici che devono seguire lo stesso cambiamento
 
-Segui il lettore dalla scheda o dal risultato di ricerca alla spiegazione, al primo uso e ai materiali consegnati. Comprendi se il percorso rende riconoscibili oggetto, contesto, capacità e condizioni d’uso. Confronta anche il sapere operativo: un titolo corretto può accompagnare un metodo incompleto e una pagina aggiornata può ancora consegnare un archivio precedente. Un assistente collegato o un altro sistema può ricevere una propria copia, un indice o un accesso alle fonti: raggiungi il suo contratto reale prima di concludere che sia cambiato.
+Confronta il sapere attuale con ciò che i diversi destinatari e componenti ricevono davvero: documentazione interna e pubblica, guide, istruzioni, cataloghi, pacchetti, sito e conoscenze di assistenti o altri riceventi. Segui le dipendenze reali e i rispettivi contratti. Una pagina aggiornata può ancora consegnare un archivio precedente; una guida corretta può restare fuori dalle fonti lette da un componente. Un cambiamento a una sorgente non aggiorna da solo tutte le sue copie o installazioni.
 
-## Le correzioni utili e le nuove risorse da condividere
+## Gli aggiornamenti secondari utili al sistema
 
-Conserva le presentazioni ancora fedeli e utili. Quando una differenza conta, correggi spiegazione, metodo, esempio, ingresso o meccanismo di consegna responsabile. Una capacità riusabile può meritare una nuova risorsa completa oppure trovare una forma migliore in una risorsa esistente. Spiega che cosa deve fornire un altro progetto e che cosa può adattare. Trasferisci ragioni e sapere pratico che fanno funzionare la capacità, inclusi strumenti pertinenti e ripresa dopo un problema. Un elenco di competenze o la rimozione di percorsi privati non consegnano quel sapere.
+Conserva le superfici ancora corrette e realizza gli aggiornamenti richiesti dalle differenze materiali. Il lavoro può correggere una documentazione, completare un’istruzione, aggiornare una risorsa o il suo collegamento, allineare una proiezione oppure formare una nuova risorsa riusabile quando emerge un’utilità distinta. Conserva ragioni, sapere pratico, strumenti pertinenti e possibilità di ripresa dopo un problema. Non ridurre il trasferimento a un elenco di nomi o alla rimozione di riferimenti privati.
 
-## La spiegazione del progetto per chi lo incontra per la prima volta
+## Documentazioni e spiegazioni comprensibili nel loro contesto
 
-Dai al titolo un oggetto e un contesto riconoscibili. Spiega un incarico concreto, perché il metodo aiuta e come iniziare. Usa esempi in domini pertinenti e dichiara illustrativi i casi inventati. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultato ancora possibile. Conserva la maturità qualificata dalla fonte: l’edizione dei file non dimostra affidabilità generale. Organizza la lettura affinché spiegazione, fonti, esempi e azione siano raggiungibili senza ricostruire la storia privata del progetto.
+Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del sistema. Spiega che cosa cambia per chi legge o usa quella superficie e come proseguire. Rendi la risorsa adattabile ad altri contesti con il sapere necessario a usarla. I casi inventati restano illustrativi; attribuzioni, segreti e dettagli privati mantengono il proprio trattamento. Distingui metodo disponibile, capacità implementata, esecuzione osservata e risultati ancora possibili; l’edizione dei file non dimostra affidabilità generale.
 
-## La stessa modifica nel sito, nei pacchetti e negli altri canali affidati
+## Lo stesso aggiornamento nei documenti e nei riceventi dipendenti
 
-Usa contratti e strumenti correnti del sito, della repository e degli altri responsabili coinvolti. Segui le dipendenze cambiate dal lavoro: lingue, guide, avvii, pacchetti, catalogo, collegamenti in ingresso e dati di reperibilità. Aggiorna una conoscenza separata di un assistente o un runtime attraverso i suoi mezzi reali e l’autorità affidata su quell’effetto esatto. La pubblicazione del sito può essere conclusa mentre un runtime di un altro responsabile conserva un seguito preciso. Rendi percepibile questa distinzione dove cambia l’uso.
+Porta la correzione nelle lingue, nei contenuti operativi e nei consumer realmente dipendenti, usando i mezzi dei rispettivi responsabili. Gli owner di prodotto e capacità determinano i fatti; quelli di sito, distribuzione e runtime possiedono i loro strumenti e contratti. Una copia della conoscenza di un assistente, una configurazione o un’installazione seguono il proprio controller e l’autorità sull’effetto esatto. Completa gli effetti già affidati e conserva il seguito concreto degli altri.
 
-## I contributi concorrenti e l’autorizzazione a pubblicare
+## Revisioni, contributi concorrenti e consegna effettiva
 
-Prima di scrivere, identifica revisione effettiva, destinazione e contributi già presenti. Usa un ramo isolato o un altro mezzo previsto dal progetto quando serve. Rileggi lo stato condiviso prima di commit, push o pubblicazione e riconcilia gli aggiornamenti pertinenti senza assorbire lavori estranei. Completa gli effetti affidati dalla persona, come preparare modifiche, pubblicare pagine selezionate o distribuire una risorsa. Se un’azione richiede una decisione o un accesso mancante, preparane il seguito concreto e lascia proseguire il lavoro indipendente. Verifica ciò che è stato consegnato: file nel commit, pacchetto scaricabile e percorso online hanno identità distinte.
+Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente.
 
-## L’apprendimento dell’attività durante l’aggiornamento delle risorse
+## Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro
 
-Una fonte mancata, un risultato ripetuto, una spiegazione fraintesa o un nuovo metodo riuscito possono cambiare il seguito. Restituisci la differenza riusabile alla competenza, alla guida o all’ingresso responsabile. Migliora le tue istruzioni entro il perimetro affidato. Prima di cambiare un job programmato, leggine identità e configurazione attuali, conserva privatamente il prima completo, applica la variazione autorizzata, rileggi il risultato salvato e conserva il dopo completo. Escludi i segreti dai backup esportati. Scopo, cadenza, destinatario, spese e autorità di pubblicazione rimangono determinazioni della persona finché non ne è affidato anche il cambiamento.
+Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una possibilità concreta possono cambiare il prossimo ciclo. Restituisci subito l’apprendimento riusabile alla competenza e alla guida pertinenti. Migliora le istruzioni dell’AP nel perimetro affidato. Per cambiare un job reale, leggine identità e configurazione correnti, conserva privatamente il prima completo, usa il controller effettivo, rileggi il risultato salvato e conserva il dopo completo. Scopo, cadenza, destinatario, spese e autorità mantengono la determinazione della persona finché non ne viene affidato anche il cambiamento.
 
-## La continuità del lavoro e le notifiche sui cambiamenti significativi
+## Il presente del sistema e le notifiche utili
 
-Mantieni un presente breve che raggiunga ragioni, fonti, modifiche, effetti e passaggi realmente aperti nella guida del progetto. Conserva una possibilità differita insieme alla condizione che la riaprirebbe. Un ciclo silenzioso può essere utile: non produrre modifiche, avvisi o risorse per quota. Quando nulla di azionabile è cambiato, segui la preferenza di notifica del destinatario. Comunica conseguenze significative, un nuovo impedimento o una decisione concreta necessaria, distinguendo preparazione, pubblicazione, uso osservato e apprendimento successivo.
+Mantieni un presente breve che raggiunga ragioni, fonti, aggiornamenti, effetti e passaggi aperti nella guida del sistema. Conserva possibilità differite e condizioni che le renderebbero pertinenti. Nessuna quota di cambiamenti: no_change è legittimo quando le superfici restano corrette. Segui la preferenza di notifica affidata; comunica conseguenze significative, un nuovo impedimento o una decisione necessaria. Mantieni distinguibili preparazione, condivisione sorgente, pubblicazione, configurazione ed esercizio reale.
 
-# Guida all’incarico AI per sito, documentazione e risorse pubbliche
+# Guida all’AP per Aggiornamenti secondari di sistema
 
-## Il primo incarico: progetto, destinatari e materiali da aggiornare
+## Il sistema e il primo ciclo di aggiornamento
 
-Seleziona un sito o una risorsa pubblica reali e il progetto che rappresentano. Fornisci le sorgenti attuali e indica il lettore. Puoi partire da una guida di prodotto, una raccolta didattica, il sito di un servizio o un programma di ricerca. L’attività può seguire più superfici quando lo stesso scopo affidato rende utile farlo.
+Indica scopo, stato attuale, fonti, guida di lavoro e superfici del sistema da mantenere. Descrivi gli aggiornamenti affidati all’AP e i loro responsabili. Per iniziare puoi selezionare un primo ciclo su una differenza concreta, per esempio una capacità cambiata che richiede di aggiornare documentazione, istruzioni e materiali ricevuti da un componente.
 
-## L’avvio dell’incarico in una conversazione con l’AI
+## Le istruzioni complete dell’AP nel sistema ricevente
 
-Apri AVVIO_CHAT_IT.txt e copia o allega il file intero alla tua AI. Aggiungi CONTESTO_IT.md oppure descrivi le stesse informazioni con parole tue. L’avvio contiene metodo completo, sapere pratico ed esempi di questa attività. Se l’AI non può leggere una fonte, fornisci una copia accessibile o conserva esplicita la relazione mancante. Salva la guida di lavoro restituita dalla conversazione affinché una sessione successiva possa continuare da lì.
+Leggi ATTIVITA.md e usa AVVIO_CHAT_IT.txt come istruzioni complete, aggiungendo il contesto del tuo sistema. L’avvio include metodo, guida e casi: può essere usato in una conversazione o come ingresso del ricevente che svolgerà il lavoro. Rendi accessibili le fonti effettive e conserva nella guida del sistema il risultato e ciò che serve al prossimo ciclo.
 
-## Le fonti persistenti: file di progetto e kernel già presenti
+## File persistenti e competenze che conducono il lavoro
 
-Conserva l’intera cartella dell’attività nel sapere di lavoro del progetto e rendi ATTIVITA.md il suo ingresso. Il pacchetto include sotto skills/ le cartelle pubbliche complete di tre competenze: Form Public Meta-Skill Resources forma la risorsa trasferibile; Meta-Activity collega mandato e controller; Situated Activity Evolution migliora il lavoro ricorrente attraverso le conseguenze. Se il tuo ambiente riconosce automaticamente le skill, applica le sue regole native d’installazione a quelle cartelle, preservando le versioni già presenti. L’attività è un incarico affidato che compone queste capacità; la sua cartella non è uno scheduler.
+Conserva l’intera cartella dell’AP nel sapere di lavoro e rendi ATTIVITA.md il suo ingresso. Il pacchetto include tre competenze pubbliche complete: Meta-Activity collega mandato e controller; Situated Activity Evolution migliora utilità e metodo dell’attività; Form Public Meta-Skill Resources conduce il trasferimento quando un aggiornamento deve diventare una risorsa pubblica. Le competenze del tuo sistema possiedono i fatti e i mezzi delle superfici mantenute. Se il ricevente installa skill, applicane le regole native alle cartelle incluse, preservando quelle già presenti.
 
-## L’attività su richiesta o con una ricorrenza
+## Il controller, la cadenza e la verifica dell’AP programmata
 
-Per il primo uso chiedi all’AI di applicare ora l’attività al progetto selezionato. Per renderla ricorrente, scegli evento o cadenza, fuso, destinatario e preferenza di notifica adatti. Dai al controller effettivo un ingresso che raggiunga metodo, contesto del progetto e guida corrente. Usa i suoi strumenti nativi di creazione e rilettura. Conserva privatamente identità e configurazione integrali. Se l’ambiente non ha uno scheduler, lo stesso metodo resta utilizzabile su richiesta; un prompt salvato non configura un job ricorrente.
+Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinatario e le condizioni di notifica. Consegna al job un ingresso che raggiunga mandato, metodo, fonti correnti e guida del sistema. Usa gli strumenti nativi per creare o aggiornare la configurazione affidata e rileggi identità, istruzioni, stato e calendario salvati. Conserva privatamente prima e dopo quando cambi un job esistente. Un prompt salvato trasferisce istruzioni; il risveglio reale dipende dalla configurazione verificata del ricevente.
 
-## Gli accessi e le decisioni necessarie alla pubblicazione
+## Gli aggiornamenti e gli effetti affidati all’AP
 
-Indica quali repository e superfici pubbliche l’AI può modificare e se può pubblicare direttamente. Puoi affidarle, per esempio, correzioni ordinarie di documentazione e aggiornamenti di risorse, mantenendo prezzi o affermazioni scientifiche per una decisione distinta. Riferisci il perimetro al tuo progetto invece di ereditare i permessi dell’attività MAIOS. Fornisci strumenti e accessi attraverso l’ambiente ricevente; non inserire credenziali nel modello di contesto pubblico. Quando un effetto è già affidato, completalo senza chiedere di nuovo ogni passaggio reversibile.
+Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceventi l’AP può aggiornare e quali pubblicazioni o attivazioni sono comprese. Rendi utilizzabili strumenti e accessi attraverso la policy del tuo ambiente, senza inserire credenziali nel contesto pubblico. I responsabili determinano fatti, mezzi e autorità sull’effetto esatto. Completa gli effetti già affidati senza richiedere di nuovo ogni passaggio reversibile; prepara un seguito concreto quando serve una decisione distinta.
 
-## Il risultato online e il seguito dell’aggiornamento
+## Il risultato consegnato e la continuità del monitoraggio
 
-Osserva un percorso rappresentativo del lettore e il materiale che consegna. Per un pacchetto cambiato, confronta byte distribuiti e sorgente dichiarata; per una nuova spiegazione, leggi la lingua generata e il percorso di primo uso. I controlli pertinenti seguono la proprietà in gioco. Conserva ciò che l’osservazione dimostra davvero. Una pagina corretta o un test passato non attestano comprensione, adozione umana o assimilazione di un modello. Prosegui dalle conseguenze nuove senza ripetere verifiche immutate.
+Rileggi un percorso rappresentativo di chi usa la superficie aggiornata e il materiale ricevuto dai componenti dipendenti. Per un pacchetto cambiato confronta file distribuiti e sorgente dichiarata; per un’istruzione operativa verifica che il ricevente raggiunga il sapere attuale. Mantieni distinta una configurazione salvata da un’esecuzione avvenuta. Conserva ciò che la prova dimostra, i limiti e i passaggi aperti; una pagina corretta o un test riuscito non attestano assimilazione generale. Il ciclo successivo riparte dal presente e dalle conseguenze, senza ripetere verifiche immutate.
 
-# Esempi: documentazione software, museo, ricerca e progetto di comunità
+# Casi di aggiornamento secondario: software, museo, ricerca e comunità
 
-## Software di pianificazione: guida al nuovo uso offline
+## Sistema software: il nuovo uso offline attraversa guide e pacchetti
 
-Caso illustrativo. Uno strumento di pianificazione acquisisce un flusso offline, mentre la guida pubblica presume ancora una connessione permanente. L’attività legge implementazione e note di rilascio, distingue il flusso distribuito dalla sincronizzazione ancora proposta e segue il percorso fra pagina funzionale, guida e file d’esempio. Aggiorna la documentazione affidata nelle due lingue e verifica che l’esempio consegnato sia quello corrente. Apprendimento: il confronto successivo deve seguire le condizioni d’uso anche quando il nome della funzione rimane uguale.
+Caso illustrativo. Un sistema di pianificazione acquisisce un flusso offline, mentre guida operativa, sito e file d’esempio presumono ancora una connessione permanente. L’AP legge implementazione e note di rilascio, distingue il flusso distribuito dalla sincronizzazione ancora proposta e segue le dipendenze nelle diverse superfici. Aggiorna le guide e gli esempi affidati nelle due lingue, conserva nel pacchetto i file correnti e rilegge ciò che viene consegnato. Apprendimento: il monitoraggio segue anche condizioni d’uso e sapere operativo quando il nome della funzione rimane uguale.
 
-## Museo: guida a un laboratorio accessibile a esigenze sensoriali diverse
+## Sistema museale: il metodo accessibile raggiunge facilitatori e pubblico
 
-Caso illustrativo. Un museo migliora il modo in cui i facilitatori adattano un laboratorio a esigenze sensoriali diverse. Una pagina celebrativa da sola non trasferirebbe la capacità. L’attività forma una guida utilizzabile con decisioni dei facilitatori, materiali accessibili, tre situazioni e primo incarico. I dati dei partecipanti restano privati. La fonte qualifica il metodo come in formazione e l’introduzione pubblica conserva quello stato. Apprendimento: le prossime risorse devono trasferire il sapere delle scelte pratiche insieme alla descrizione.
+Caso illustrativo. Un museo usa un sistema con un assistente e documentazioni per i facilitatori. Il metodo di un laboratorio evolve per esigenze sensoriali diverse, ma alcune schede interne e la guida pubblica descrivono ancora la forma precedente. L’AP raggiunge il sapere dei responsabili, aggiorna le documentazioni affidate e collega al responsabile dell’assistente la sua copia delle fonti. Il metodo rimane qualificato come in formazione e i dati dei partecipanti restano privati. Apprendimento: aggiornare una pagina non aggiorna da solo il sapere ricevuto da un altro componente.
 
-## Ricerca: pagina divulgativa dopo la revisione di un modello
+## Sistema di ricerca: un modello rivisto cambia documentazioni e fonti didattiche
 
-Caso illustrativo. Un gruppo pubblica un modello rivisto mentre una pagina divulgativa presenta ancora come consolidata un’ipotesi precedente. L’attività legge il paper e il resoconto qualificato del gruppo, poi rivede spiegazione ed esempio didattico coinvolti. Mantiene ciò che resta aperto e collega l’aggiornamento delle fonti di un assistente didattico distinto al suo responsabile effettivo. Apprendimento: la pagina visibile non aggiorna da sola il materiale ricevuto da un altro sistema. Un ciclo successivo silenzioso conserva la spiegazione ancora corretta.
+Caso illustrativo. Un gruppo pubblica un modello rivisto mentre un sistema di supporto alla ricerca conserva un’ipotesi precedente in una guida, in una pagina divulgativa e nelle fonti di un assistente didattico. L’AP legge paper e resoconto qualificato del gruppo, aggiorna le spiegazioni affidate e segue il contratto del responsabile delle fonti dell’assistente. Mantiene ciò che resta aperto e distingue la documentazione pubblicata dall’attivazione della copia nel ricevente. Un ciclo successivo silenzioso conserva ciò che è ancora corretto.
 
-## Progetto di comunità: una nuova guida cambia le istruzioni dell’attività AI
+## Sistema di comunità: una guida sorgente migliora il monitoraggio dell’AP
 
-Caso illustrativo. Un progetto di comunità riceve ripetutamente rapporti sul sito invariato, mentre una guida sorgente ha sviluppato un metodo operativo migliore. L’attività riconosce che confrontava versioni e pagine ma perdeva il sapere pratico della guida. Cambia l’ingresso alle fonti e le istruzioni di continuità nel perimetro affidato. Se varia il prompt dello scheduler, conserva privatamente la configurazione completa prima e dopo e rilegge il job reale. Apprendimento: migliorare il punto in cui il sapere non partecipava, invece di creare un secondo audit ricorrente.
+Caso illustrativo. L’AP di un progetto di comunità produce ripetutamente rapporti sul sito invariato, mentre una guida del sistema ha sviluppato un metodo operativo migliore. L’AP riconosce che confrontava versioni e pagine ma non raggiungeva quel sapere. Migliora l’ingresso alle fonti, le documentazioni dipendenti e le proprie istruzioni di continuità nel perimetro affidato. Se cambia il prompt del job, conserva privatamente la configurazione completa prima e dopo e rilegge il controller reale. Apprendimento: correggere il punto in cui il sapere non partecipava rende utile il ciclo seguente.
 
-# Progetto, fonti e modifiche pubbliche da affidare all’assistente
+# Sistema, superfici e mandato dell’AP da compilare
 
-## Progetto e scopo
+## Sistema e scopo
 
-Che cosa sta evolvendo, perché conta e quale lavoro deve servire questa attività.
-
-[Da completare]
-
-## Lettori e superfici pubbliche
-
-Chi deve comprendere o usare il progetto; sito, guide, catalogo, pacchetti e lingue pertinenti.
+Quale sistema autonomo deve monitorare l’AP? Quale lavoro svolge e perché gli aggiornamenti secondari sono utili?
 
 [Da completare]
 
-## Fonti attuali e guida di lavoro
+## Fonti e guida corrente
 
-Percorsi, documenti o collegamenti accessibili, responsabili e sede della continuità già utile.
-
-[Da completare]
-
-## Mezzi disponibili
-
-Che cosa l’AI può realmente leggere, modificare, provare, pubblicare e conservare nel tuo ambiente.
+Dove sono le sorgenti vive, i responsabili e la guida da cui riprendere? Indica i materiali effettivamente accessibili.
 
 [Da completare]
 
-## Azioni e decisioni affidate
+## Superfici da mantenere allineate
 
-Quali modifiche e pubblicazioni sono affidate; quali effetti specifici richiedono una decisione ulteriore.
-
-[Da completare]
-
-## Avvio e notifiche
-
-Esecuzione ora oppure evento/cadenza e fuso scelti; destinatario e condizioni di notifica significative.
+Quali documentazioni, istruzioni, pacchetti, sito, cataloghi e conoscenze dei riceventi dipendono dal sistema?
 
 [Da completare]
 
-## Apprendimento e recupero
+## Controller, cadenza e notifiche
 
-Dove integrare il sapere riusabile; variazioni di istruzioni affidate e sede privata dei backup del controller quando pertinente.
+Quale controller riceve l’AP? Indica evento o cadenza, fuso, destinatario e quando notificare; per una prima prova puoi selezionare un singolo ciclo.
+
+[Da completare]
+
+## Strumenti e accessi disponibili
+
+Quali mezzi può usare il ricevente e attraverso quale policy ottiene gli accessi? Non inserire segreti in questo modello.
+
+[Da completare]
+
+## Aggiornamenti ed effetti affidati
+
+Che cosa può aggiornare, condividere, pubblicare o attivare l’AP? Quali decisioni richiedono il tuo intervento e quali spese sono affidate?
+
+[Da completare]
+
+## Continuità e apprendimento
+
+Dove conserva presente, ragioni, risultati e seguito? Quali istruzioni può migliorare e come restituisce sapere riusabile alle competenze del sistema?
 
 [Da completare]

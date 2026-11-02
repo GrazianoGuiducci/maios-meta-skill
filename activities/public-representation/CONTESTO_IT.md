@@ -1,43 +1,43 @@
-# Progetto, fonti e modifiche pubbliche da affidare all’assistente
+# Sistema, superfici e mandato dell’AP da compilare
 
-## Progetto e scopo
+## Sistema e scopo
 
-Che cosa sta evolvendo, perché conta e quale lavoro deve servire questa attività.
-
-[Da completare]
-
-## Lettori e superfici pubbliche
-
-Chi deve comprendere o usare il progetto; sito, guide, catalogo, pacchetti e lingue pertinenti.
+Quale sistema autonomo deve monitorare l’AP? Quale lavoro svolge e perché gli aggiornamenti secondari sono utili?
 
 [Da completare]
 
-## Fonti attuali e guida di lavoro
+## Fonti e guida corrente
 
-Percorsi, documenti o collegamenti accessibili, responsabili e sede della continuità già utile.
-
-[Da completare]
-
-## Mezzi disponibili
-
-Che cosa l’AI può realmente leggere, modificare, provare, pubblicare e conservare nel tuo ambiente.
+Dove sono le sorgenti vive, i responsabili e la guida da cui riprendere? Indica i materiali effettivamente accessibili.
 
 [Da completare]
 
-## Azioni e decisioni affidate
+## Superfici da mantenere allineate
 
-Quali modifiche e pubblicazioni sono affidate; quali effetti specifici richiedono una decisione ulteriore.
-
-[Da completare]
-
-## Avvio e notifiche
-
-Esecuzione ora oppure evento/cadenza e fuso scelti; destinatario e condizioni di notifica significative.
+Quali documentazioni, istruzioni, pacchetti, sito, cataloghi e conoscenze dei riceventi dipendono dal sistema?
 
 [Da completare]
 
-## Apprendimento e recupero
+## Controller, cadenza e notifiche
 
-Dove integrare il sapere riusabile; variazioni di istruzioni affidate e sede privata dei backup del controller quando pertinente.
+Quale controller riceve l’AP? Indica evento o cadenza, fuso, destinatario e quando notificare; per una prima prova puoi selezionare un singolo ciclo.
+
+[Da completare]
+
+## Strumenti e accessi disponibili
+
+Quali mezzi può usare il ricevente e attraverso quale policy ottiene gli accessi? Non inserire segreti in questo modello.
+
+[Da completare]
+
+## Aggiornamenti ed effetti affidati
+
+Che cosa può aggiornare, condividere, pubblicare o attivare l’AP? Quali decisioni richiedono il tuo intervento e quali spese sono affidate?
+
+[Da completare]
+
+## Continuità e apprendimento
+
+Dove conserva presente, ragioni, risultati e seguito? Quali istruzioni può migliorare e come restituisce sapere riusabile alle competenze del sistema?
 
 [Da completare]

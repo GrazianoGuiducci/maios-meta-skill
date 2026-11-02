@@ -50,6 +50,12 @@ def validate_activity(value, root):
         headings = text.get('headings', {})
         if not isinstance(headings, dict) or any(not isinstance(item, str) or not item.strip() for item in headings.values()):
             raise ValueError('Unsupported activity headings')
+        for key in ('category_intro', 'starter_intro', 'when_to_use'):
+            if key in text and not isinstance(text[key], str):
+                raise ValueError('Unsupported activity text: ' + key)
+        if 'category_guide' in text and (not isinstance(text['category_guide'], list) or any(
+                not isinstance(item, dict) or any(not isinstance(item.get(field), str) for field in ('title', 'body')) for item in text['category_guide'])):
+            raise ValueError('Unsupported category guide')
         for key in ('route', 'category', 'title', 'description', 'intro', 'status', 'origin'):
             if not isinstance(text.get(key), str):
                 raise ValueError('Missing activity text: ' + key)
@@ -118,7 +124,7 @@ def render(root=ROOT):
                 '## ' + row['label'] + '\n\n' + row['hint'] + '\n\n' + ('[Da completare]' if it else '[To complete]') for row in text['context'])
             prompt_intro = ('Usa il metodo seguente per il progetto che ti affido. Comprendi il contesto e le fonti correnti, poi svolgi il lavoro utile attraverso i mezzi e gli effetti affidati. Le sezioni qui incluse contengono il metodo completo: non presumere accessi o conoscenze private MAIOS. Se una relazione indispensabile manca, chiedi soltanto ciò che cambia il lavoro e prosegui con la parte indipendente. Se non ho selezionato una ricorrenza, inizia su richiesta.\n\n'
                             if it else 'Use the following method for the project I entrust to you. Understand the context and current sources, then perform useful work through the means and effects entrusted. The included sections contain the complete method: presume no access to private MAIOS knowledge. If an indispensable relation is missing, ask only for what changes the work and continue independent work. If I have not selected a recurrence, begin on request.\n\n')
-            starter = prompt_intro + method + '\n\n' + guide + '\n\n' + examples + '\n\n' + context
+            starter = text.get('starter_intro', prompt_intro) + method + '\n\n' + guide + '\n\n' + examples + '\n\n' + context
             guide += '\n\n## ' + headings.get('origin_section', 'Provenienza e stato' if it else 'Origin and status') + '\n\n' + text['origin']
             guide += '\n\n' + ('[Metodo](ATTIVITA.md) · [Avvio completo](AVVIO_CHAT_IT.txt) · [Esempi](ESEMPI_IT.md) · [Contesto](CONTESTO_IT.md) · [English](README.md)' if it else '[Method](ACTIVITY.md) · [Complete starter](START_CHAT_EN.txt) · [Examples](EXAMPLES.md) · [Context](CONTEXT_EN.md) · [Italiano](GUIDA_IT.md)')
             for key, body in {'method': method, 'guide': guide, 'examples': examples, 'context': context, 'starter': starter}.items():
