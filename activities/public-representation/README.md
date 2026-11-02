@@ -1,5 +1,21 @@
 # Guide to the AP for secondary system updates
 
+## The system the AP observes
+
+The AP starts with the system entrusted to it: the work it performs, the documents and components that describe how it operates, and changes already under way. It reads available sources, guides and results to reconstruct the current state. It can recognize a change in capabilities or conditions of use even when the feature name and version number stay the same.
+
+## Documentation and surfaces to keep coherent
+
+One development in the system can affect several places: an internal guide, user instructions, package files, the website or knowledge used by an assistant. The AP identifies which surfaces depend on the change and compares their contents with current sources. For example, a guide may already describe a new feature while the downloadable package still contains the old example.
+
+## Updates and their delivery across the system
+
+The AP prepares or carries out the updates entrusted to it, working with the owners of different surfaces and preserving work already in progress. It may correct documentation, complete instructions or form a reusable resource when useful. After delivery it checks what recipients actually receive: a saved change, a published page and a component using the new knowledge are different results.
+
+## Continuity between runs
+
+The AP keeps what changed, the reasons for updates and open steps in the system’s guide. Later runs start from that information and current sources. Consequences can improve the method and participating competences; if changing its own instructions is authorized, the AP uses the actual controller and preserves the complete configuration before and after. When no useful change emerges, it retains surfaces that remain accurate and follows the entrusted notification preferences.
+
 ## The system and the first update cycle
 
 Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component.

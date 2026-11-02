@@ -50,7 +50,7 @@ def validate_activity(value, root):
         headings = text.get('headings', {})
         if not isinstance(headings, dict) or any(not isinstance(item, str) or not item.strip() for item in headings.values()):
             raise ValueError('Unsupported activity headings')
-        for key in ('category_intro', 'starter_intro', 'when_to_use'):
+        for key in ('category_intro', 'starter_intro', 'when_to_use', 'use_intro', 'instructions_intro'):
             if key in text and not isinstance(text[key], str):
                 raise ValueError('Unsupported activity text: ' + key)
         if 'category_guide' in text and (not isinstance(text['category_guide'], list) or any(
@@ -63,7 +63,7 @@ def validate_activity(value, root):
         route = text['route']
         if not route.startswith(prefix) or not route.endswith('/') or not IDENTIFIER.fullmatch(route[len(prefix):-1]):
             raise ValueError('Non-canonical activity route')
-        for key, fields in [('method', ('title', 'body')), ('guide', ('title', 'body')),
+        for key, fields in [('method', ('title', 'body')), ('reader_method', ('title', 'body')), ('guide', ('title', 'body')),
                             ('examples', ('title', 'body')), ('context', ('label', 'hint'))]:
             if not isinstance(text.get(key), list) or not text[key] or any(
                     not isinstance(item, dict) or any(not isinstance(item.get(field), str) for field in fields) for item in text[key]):
@@ -124,7 +124,11 @@ def render(root=ROOT):
                 '## ' + row['label'] + '\n\n' + row['hint'] + '\n\n' + ('[Da completare]' if it else '[To complete]') for row in text['context'])
             prompt_intro = ('Usa il metodo seguente per il progetto che ti affido. Comprendi il contesto e le fonti correnti, poi svolgi il lavoro utile attraverso i mezzi e gli effetti affidati. Le sezioni qui incluse contengono il metodo completo: non presumere accessi o conoscenze private MAIOS. Se una relazione indispensabile manca, chiedi soltanto ciò che cambia il lavoro e prosegui con la parte indipendente. Se non ho selezionato una ricorrenza, inizia su richiesta.\n\n'
                             if it else 'Use the following method for the project I entrust to you. Understand the context and current sources, then perform useful work through the means and effects entrusted. The included sections contain the complete method: presume no access to private MAIOS knowledge. If an indispensable relation is missing, ask only for what changes the work and continue independent work. If I have not selected a recurrence, begin on request.\n\n')
-            starter = text.get('starter_intro', prompt_intro) + method + '\n\n' + guide + '\n\n' + examples + '\n\n' + context
+            guide_reference = ('La guida seguente descrive la configurazione da parte della persona: usala come riferimento sul sistema ricevente e sulle decisioni affidate.' if it else 'The following guide describes configuration by the person: use it as a reference for the receiving system and entrusted decisions.')
+            starter = text.get('starter_intro', prompt_intro) + method + '\n\n' + guide_reference + '\n\n' + guide + '\n\n' + examples + '\n\n' + context
+            # The receiving AI keeps the complete operating method; the human
+            # guide explains that method before the setup instructions.
+            guide = '# ' + headings.get('guide', 'Usare e adattare l’attività' if it else 'Use and adapt the activity') + '\n\n' + sections(text['reader_method']) + '\n\n' + sections(text['guide'])
             guide += '\n\n## ' + headings.get('origin_section', 'Provenienza e stato' if it else 'Origin and status') + '\n\n' + text['origin']
             guide += '\n\n' + ('[Metodo](ATTIVITA.md) · [Avvio completo](AVVIO_CHAT_IT.txt) · [Esempi](ESEMPI_IT.md) · [Contesto](CONTESTO_IT.md) · [English](README.md)' if it else '[Method](ACTIVITY.md) · [Complete starter](START_CHAT_EN.txt) · [Examples](EXAMPLES.md) · [Context](CONTEXT_EN.md) · [Italiano](GUIDA_IT.md)')
             for key, body in {'method': method, 'guide': guide, 'examples': examples, 'context': context, 'starter': starter}.items():

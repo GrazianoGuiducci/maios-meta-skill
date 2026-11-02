@@ -1,5 +1,21 @@
 # Guida all’AP per Aggiornamenti secondari di sistema
 
+## Il sistema che l’AP osserva
+
+L’AP parte dal sistema che le viene affidato: quale lavoro svolge, quali documenti e componenti ne descrivono il funzionamento e quali cambiamenti sono in corso. Legge fonti, guide e risultati disponibili per ricostruire lo stato attuale. Può riconoscere un cambiamento di capacità o di condizioni d’uso anche quando il nome della funzione e il numero di versione sono rimasti uguali.
+
+## Documentazioni e superfici da mantenere coerenti
+
+Una novità del sistema può riguardare più luoghi: una guida interna, le istruzioni per gli utenti, i file di un pacchetto, il sito o le conoscenze usate da un assistente. L’AP individua quali di queste superfici dipendono dal cambiamento e confronta ciò che contengono con le fonti attuali. Per esempio, la guida può già descrivere una funzione nuova mentre il pacchetto scaricabile contiene ancora il vecchio esempio.
+
+## Gli aggiornamenti e la loro consegna nel sistema
+
+L’AP prepara o realizza gli aggiornamenti che le sono stati affidati, collaborando con i responsabili delle diverse superfici e preservando il lavoro già in corso. Può correggere una documentazione, completare istruzioni o formare una risorsa riusabile quando serve. Dopo la consegna controlla ciò che i destinatari ricevono davvero: una modifica salvata, una pagina pubblicata e un componente che usa il nuovo sapere sono risultati diversi.
+
+## La continuità del lavoro tra le esecuzioni
+
+L’AP conserva nella guida del sistema ciò che è cambiato, le ragioni degli aggiornamenti e i passaggi ancora aperti. Le esecuzioni successive ripartono da quelle informazioni e dalle fonti correnti. Gli effetti del lavoro possono migliorare il metodo e le competenze coinvolte; se è autorizzata a modificare le proprie istruzioni, l’AP usa il controller reale e conserva la configurazione prima e dopo. Quando non emergono cambiamenti utili, mantiene le superfici ancora corrette e segue le preferenze di notifica affidate.
+
 ## Il sistema e il primo ciclo di aggiornamento
 
 Indica scopo, stato attuale, fonti, guida di lavoro e superfici del sistema da mantenere. Descrivi gli aggiornamenti affidati all’AP e i loro responsabili. Per iniziare puoi selezionare un primo ciclo su una differenza concreta, per esempio una capacità cambiata che richiede di aggiornare documentazione, istruzioni e materiali ricevuti da un componente.

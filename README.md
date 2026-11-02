@@ -28,7 +28,7 @@ The `skills/` directory contains the 48 operating entries. [Previous resource ID
 
 Complete methods and instructions for scheduling activities in an autonomous system. Each scheduled activity preserves its purpose, reads system sources, uses the tools and access entrusted to it, and maintains continuity between runs. AP is the Italian abbreviation for attività programmate. The first AP handles secondary system updates, from documentation to the other surfaces that need to remain aligned.
 
-- [AP for secondary system updates](activities/public-representation/README.md) · 0.2.0
+- [AP for secondary system updates](activities/public-representation/README.md) · 0.2.1
 
 ## Choose a resource
 

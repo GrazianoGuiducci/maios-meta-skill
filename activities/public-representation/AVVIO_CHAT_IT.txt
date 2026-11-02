@@ -40,6 +40,8 @@ Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una 
 
 Mantieni un presente breve che raggiunga ragioni, fonti, aggiornamenti, effetti e passaggi aperti nella guida del sistema. Conserva possibilità differite e condizioni che le renderebbero pertinenti. Nessuna quota di cambiamenti: no_change è legittimo quando le superfici restano corrette. Segui la preferenza di notifica affidata; comunica conseguenze significative, un nuovo impedimento o una decisione necessaria. Mantieni distinguibili preparazione, condivisione sorgente, pubblicazione, configurazione ed esercizio reale.
 
+La guida seguente descrive la configurazione da parte della persona: usala come riferimento sul sistema ricevente e sulle decisioni affidate.
+
 # Guida all’AP per Aggiornamenti secondari di sistema
 
 ## Il sistema e il primo ciclo di aggiornamento

@@ -1,10 +1,10 @@
 {
   "id": "public-representation",
   "name": "AP per Aggiornamenti secondari di sistema",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "kind": "activity",
   "folder": "activities/public-representation",
-  "package": "dist/secondary-system-updates-activity-0.2.0.zip",
+  "package": "dist/secondary-system-updates-activity-0.2.1.zip",
   "competences": [
     "form-public-metaskill-resources",
     "meta-activity",
@@ -15,9 +15,9 @@
     "route": "/resources/ai-activities/public-representation/",
     "category": "Scheduled activities (AP) for autonomous systems",
     "title": "AP for secondary system updates",
-    "description": "A scheduled activity that monitors the system and updates documentation and whatever is needed to keep the system current across its different surfaces.",
+    "description": "A scheduled activity that monitors the system and updates documentation and whatever is needed to keep the system coherent across its different surfaces.",
     "intro": "This AP follows the evolution of an autonomous system and carries out the secondary updates that follow from it. It reads current sources and work, identifies which documentation, guides, instructions, resources and other materials need to change, and carries the updates into the entrusted surfaces. It adapts to the receiving system and improves its method through the consequences of its work.",
-    "status": "Edition 0.2.0 · Available method with illustrative cases",
+    "status": "Edition 0.2.1 · Available method with illustrative cases",
     "origin": "The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed.",
     "method": [
       {
@@ -135,7 +135,7 @@
       "guide": "Guide to the AP for secondary system updates",
       "examples": "Secondary update cases: software, a museum, research and a community",
       "context": "System, surfaces and AP mandate to complete",
-      "method_section": "System monitoring and updates across different surfaces",
+      "method_section": "How the AP keeps the system coherent",
       "examples_section": "Four cases of maintaining the system’s surfaces",
       "use_section": "Configuring and using the AP in your system",
       "start_section": "AP instructions for the receiving system",
@@ -154,15 +154,35 @@
       }
     ],
     "starter_intro": "Apply the AP for secondary system updates to the system I entrust to you. Reach its mandate, current sources and guides and the pertinent competences; monitor the system and carry out useful secondary updates across the entrusted surfaces. The following sections contain the complete method. Use tools, access, controllers and authority actually available in the receiving system; ask only for missing information that changes the work and continue independent work. For a first trial you can run one cycle now; recurrence follows the selected controller’s configuration.\n\n",
-    "when_to_use": "When the system evolves and documentation, instructions, resources and other receivers need to follow its current state."
+    "when_to_use": "When the system evolves and documentation, instructions, resources and other receivers need to follow its current state.",
+    "reader_method": [
+      {
+        "title": "The system the AP observes",
+        "body": "The AP starts with the system entrusted to it: the work it performs, the documents and components that describe how it operates, and changes already under way. It reads available sources, guides and results to reconstruct the current state. It can recognize a change in capabilities or conditions of use even when the feature name and version number stay the same."
+      },
+      {
+        "title": "Documentation and surfaces to keep coherent",
+        "body": "One development in the system can affect several places: an internal guide, user instructions, package files, the website or knowledge used by an assistant. The AP identifies which surfaces depend on the change and compares their contents with current sources. For example, a guide may already describe a new feature while the downloadable package still contains the old example."
+      },
+      {
+        "title": "Updates and their delivery across the system",
+        "body": "The AP prepares or carries out the updates entrusted to it, working with the owners of different surfaces and preserving work already in progress. It may correct documentation, complete instructions or form a reusable resource when useful. After delivery it checks what recipients actually receive: a saved change, a published page and a component using the new knowledge are different results."
+      },
+      {
+        "title": "Continuity between runs",
+        "body": "The AP keeps what changed, the reasons for updates and open steps in the system’s guide. Later runs start from that information and current sources. Consequences can improve the method and participating competences; if changing its own instructions is authorized, the AP uses the actual controller and preserves the complete configuration before and after. When no useful change emerges, it retains surfaces that remain accurate and follows the entrusted notification preferences."
+      }
+    ],
+    "use_intro": "These steps explain how the person entrusting the work can provide sources, access and scheduling for the AP in their system.",
+    "instructions_intro": "The complete text is addressed to the AI that will execute the AP. You can read it or add the system context here and prepare it for the selected receiver and controller. Preparation takes place in the browser and the context you enter stays on your device."
   },
   "it": {
     "route": "/risorse/attivita-ai/rappresentazione-pubblica/",
     "category": "Attività programmate (AP) per sistemi autonomi",
     "title": "AP per Aggiornamenti secondari di sistema",
-    "description": "Attività programmata che monitora il sistema, aggiorna documentazioni e ciò che serve per mantenere il sistema aggiornato nelle diverse superfici.",
+    "description": "Attività programmata che monitora il sistema, aggiorna documentazioni e ciò che serve per mantenere coerente il sistema nelle diverse superfici.",
     "intro": "Questa AP segue l’evoluzione di un sistema autonomo e realizza gli aggiornamenti secondari che ne derivano. Legge le fonti e il lavoro attuale, riconosce quali documentazioni, guide, istruzioni, risorse e altri materiali devono cambiare e porta gli aggiornamenti nelle superfici affidate. Si adatta al sistema che la riceve e migliora il proprio metodo attraverso le conseguenze del lavoro.",
-    "status": "Edizione 0.2.0 · Metodo disponibile, casi illustrativi",
+    "status": "Edizione 0.2.1 · Metodo disponibile, casi illustrativi",
     "origin": "La prima sorgente è l’attività programmata che mantiene le risorse pubbliche MAIOS. La formulazione dell’operatore del 2 novembre 2026 seleziona il nome AP per Aggiornamenti secondari di sistema e rende esplicito il monitoraggio del sistema e l’allineamento delle diverse superfici. Questa edizione trasferisce il metodo; configurazione, esecuzione e risultati nel sistema ricevente restano da osservare.",
     "method": [
       {
@@ -280,7 +300,7 @@
       "guide": "Guida all’AP per Aggiornamenti secondari di sistema",
       "examples": "Casi di aggiornamento secondario: software, museo, ricerca e comunità",
       "context": "Sistema, superfici e mandato dell’AP da compilare",
-      "method_section": "Il monitoraggio del sistema e gli aggiornamenti sulle diverse superfici",
+      "method_section": "Come l’AP mantiene coerente il sistema",
       "examples_section": "Quattro casi di manutenzione delle superfici del sistema",
       "use_section": "La configurazione e l’uso dell’AP nel proprio sistema",
       "start_section": "Le istruzioni dell’AP per il sistema ricevente",
@@ -299,6 +319,26 @@
       }
     ],
     "starter_intro": "Applica l’AP per Aggiornamenti secondari di sistema al sistema che ti affido. Raggiungi il suo mandato, le fonti e le guide attuali e le competenze pertinenti; monitora il sistema e realizza gli aggiornamenti secondari utili nelle superfici affidate. Le sezioni seguenti contengono il metodo completo. Usa strumenti, accessi, controller e autorità realmente disponibili nel sistema ricevente; chiedi soltanto le informazioni mancanti che cambiano il lavoro e prosegui con la parte indipendente. Per una prima prova puoi eseguire ora un ciclo; una ricorrenza segue la configurazione del controller selezionato.\n\n",
-    "when_to_use": "Quando il sistema evolve e documentazioni, istruzioni, risorse e altri riceventi devono seguire il suo stato attuale."
+    "when_to_use": "Quando il sistema evolve e documentazioni, istruzioni, risorse e altri riceventi devono seguire il suo stato attuale.",
+    "reader_method": [
+      {
+        "title": "Il sistema che l’AP osserva",
+        "body": "L’AP parte dal sistema che le viene affidato: quale lavoro svolge, quali documenti e componenti ne descrivono il funzionamento e quali cambiamenti sono in corso. Legge fonti, guide e risultati disponibili per ricostruire lo stato attuale. Può riconoscere un cambiamento di capacità o di condizioni d’uso anche quando il nome della funzione e il numero di versione sono rimasti uguali."
+      },
+      {
+        "title": "Documentazioni e superfici da mantenere coerenti",
+        "body": "Una novità del sistema può riguardare più luoghi: una guida interna, le istruzioni per gli utenti, i file di un pacchetto, il sito o le conoscenze usate da un assistente. L’AP individua quali di queste superfici dipendono dal cambiamento e confronta ciò che contengono con le fonti attuali. Per esempio, la guida può già descrivere una funzione nuova mentre il pacchetto scaricabile contiene ancora il vecchio esempio."
+      },
+      {
+        "title": "Gli aggiornamenti e la loro consegna nel sistema",
+        "body": "L’AP prepara o realizza gli aggiornamenti che le sono stati affidati, collaborando con i responsabili delle diverse superfici e preservando il lavoro già in corso. Può correggere una documentazione, completare istruzioni o formare una risorsa riusabile quando serve. Dopo la consegna controlla ciò che i destinatari ricevono davvero: una modifica salvata, una pagina pubblicata e un componente che usa il nuovo sapere sono risultati diversi."
+      },
+      {
+        "title": "La continuità del lavoro tra le esecuzioni",
+        "body": "L’AP conserva nella guida del sistema ciò che è cambiato, le ragioni degli aggiornamenti e i passaggi ancora aperti. Le esecuzioni successive ripartono da quelle informazioni e dalle fonti correnti. Gli effetti del lavoro possono migliorare il metodo e le competenze coinvolte; se è autorizzata a modificare le proprie istruzioni, l’AP usa il controller reale e conserva la configurazione prima e dopo. Quando non emergono cambiamenti utili, mantiene le superfici ancora corrette e segue le preferenze di notifica affidate."
+      }
+    ],
+    "use_intro": "Questi passaggi spiegano alla persona che affida il lavoro come predisporre fonti, accessi e programmazione dell’AP nel proprio sistema.",
+    "instructions_intro": "Il testo completo è rivolto all’AI che eseguirà l’AP. Puoi leggerlo oppure aggiungere qui il contesto del sistema e prepararlo per la consegna al ricevente e al controller scelti. La preparazione avviene nel browser e il contesto inserito resta sul tuo dispositivo."
   }
 }
