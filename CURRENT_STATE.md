@@ -1,3 +1,7 @@
+# Human–AI understanding — 2 November 2026
+
+UX-AI 0.3.5 and System Fundable Project Extraction 0.1.1 develop human understanding as a research/project object, daily adaptation and three new illustrative cases across materials research, a museum and an energy cooperative. Prior methods, cases and archives are preserved. Publication, runtime and observed human understanding remain distinct.
+
 # Concept-to-Media Formation 0.1.1 — 1 November 2026
 
 Concept-to-Media Formation 0.1.1 retains the developed method and three earlier cases, and adds cover-as-threshold, recognizable subject, actual brief participation and a fourth illustrative case. Available guidance and an executed render do not establish recipient comprehension. Website and Chat have separate publication and runtime identities.

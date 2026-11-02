@@ -15,3 +15,14 @@ Un piccolo gruppo ha acquisito un metodo per interpretare guasti e spiegare deci
 ## Un nuovo accesso riapre una domanda di laboratorio
 
 Un laboratorio ha sospeso un’idea perché lo strumento disponibile non permetteva di distinguere due spiegazioni. Conserva la domanda, il limite e la condizione di riapertura. Una collaborazione rende accessibile una nuova misura: il ricercatore comprende che ora può formulare un esperimento diverso, non solo ripetere più velocemente quello precedente. L’AI recupera il sapere pertinente e collega il nuovo progetto alla domanda originaria, mantenendo ipotesi e osservazioni distinguibili. Il sostegno richiesto può riguardare tempo di misura, analisi e collaborazione; costi e termini vengono qualificati con chi ne è responsabile. La disponibilità annunciata non è ancora un esperimento eseguito. Il caso insegna a conservare una possibilità senza congelarla nella sua prima forma.
+
+
+
+
+## Una cooperativa energetica riconosce una ricerca prima di scegliere il cruscotto
+
+Una cooperativa energetica possiede registri dei consumi e un metodo per confrontare gli andamenti stagionali. I soci leggono una sintesi AI ma non riescono a collegare una raccomandazione alle condizioni che la sostengono. La prima idea è commissionare un cruscotto. La difficoltà rende visibile anche una possibile ricerca: come possono i soci esaminare dati, assunzioni e incertezza abbastanza da guidare l’analisi? Il caso è illustrativo, senza risparmi misurati o risultati osservati presso clienti.
+
+Il gruppo porta registri e domande effettive a specialisti del dominio e a chi conosce la collaborazione umano–AI. Possono esplorare un’altra rappresentazione, un metodo d’analisi rivisto, un lavoro partecipativo o un nuovo strumento. Ciò che le persone devono comprendere può cambiare quali variabili o osservazioni contino; il progetto non è fissato alla costruzione di un’interfaccia. Chi possiede il sapere scientifico e chi conduce il lavoro conservano i rispettivi giudizi.
+
+Il sostegno potrebbe rendere disponibili tempo dei ricercatori, partecipazione dei soci o strumenti condivisi. La competenza responsabile del sostegno qualifica interlocutore reale, termini e risorse quando quell’incontro è selezionato. La guida del progetto conserva domanda aperta, statuto delle fonti, primo lavoro utile e ciò che permetterebbe di continuarlo. Prototipo, comprensione dei partecipanti, conseguenza energetica verificata e sostegno effettivo restano osservazioni distinte.

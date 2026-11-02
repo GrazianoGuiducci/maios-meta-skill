@@ -2,7 +2,7 @@
 name: system-fundable-project-extraction
 description: "Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore. Quando vuoi capire che cosa potresti sviluppare con ciò che sai già fare, oppure un nuovo mezzo rende possibile riprendere un’idea."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: it
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore.
 
+Fa emergere progetti dal sapere, dalle capacità e dalle visioni di un gruppo, anche prima di trovare un bando o un finanziatore.
+
 Un archivio possiede un metodo di lettura, un gruppo tecnico ha imparato a risolvere un problema, un laboratorio conserva una domanda ancora aperta. Questo patrimonio può rendere possibile un nuovo progetto prima che qualcuno pubblichi una richiesta di finanziamento.
 
 La competenza collega ciò che esiste, il lavoro che può nascerne e le condizioni per iniziarlo. Una persona, un’infrastruttura o un nuovo accesso possono cambiare anche la domanda del progetto. Il metodo conserva questa trasformazione e impara dall’esperienza.
+
+## Un archivio riconosce un progetto prima di cercare un bando
+
+Un’associazione sa leggere fotografie e raccogliere memorie locali. Vorrebbe aprire questo sapere alle scuole, ma non ha ancora un finanziatore né l’accesso ai documenti delle famiglie.
+
+Il progetto può già diventare comprensibile: un laboratorio costruito sul sapere dell’archivio. Un successivo accesso ai documenti può trasformarlo in una ricerca condivisa fra generazioni.
+
+## Adattare il metodo alla tua organizzazione
+
+Si conserva il rapporto fra patrimonio già presente, lavoro possibile e condizione che ne permette lo sviluppo. Cambiano le fonti, chi beneficia del lavoro, gli strumenti, le responsabilità e il tipo di sostegno. Il patrimonio può appartenere a un’impresa, un laboratorio, una comunità o una singola persona.
+
+Porta documenti, risultati, metodi acquisiti e idee sospese con le ragioni della sospensione. Una risorsa nuova può riaprire una possibilità o farne nascere un’altra. La formazione del progetto può migliorare sia il metodo con cui usi l’AI sia il prodotto, la ricerca o il servizio su cui lavori.
 
 ## Un archivio riconosce un progetto prima di cercare un bando
 
@@ -59,6 +73,23 @@ Un confronto, un tentativo, un risultato o un rifiuto possono cambiare il proget
 ## Lasciare una continuazione proporzionata
 
 Conserva la fonte utile, il responsabile, la possibilità compresa, lo stato effettivo e la prossima condizione che può cambiarla. Usa la guida o il progetto già esistente; un indice non ricrea un progetto attivo. Quando la possibilità è abbastanza intelligibile da essere ripresa, fermati. Un invio, una spesa, una firma o un’attivazione richiedono la selezione e i mezzi del ricevente per quell’effetto preciso.
+
+## Continuare attraverso il progetto reale
+
+Conserva nelle guide esistenti le ragioni che cambiano il prossimo progetto, insieme alle fonti e al loro stato.
+
+Fai partecipare il compreso alla scelta attuale. Le conseguenze logiche aprono possibilità; la situazione determina quale seguito è utile.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## La comprensione umana può essere il lavoro da sviluppare
+
+Quando persone e AI partecipano allo stesso lavoro, raggiungi possibilità oltre l’inventario tecnico corrente. La difficoltà di comprendere o assimilare un risultato può aprire ricerca su concetti, metodi d’indagine, rappresentazioni o nuovi mezzi. L’adattamento del sistema alle capacità umane e lo sviluppo di quelle capacità possono essere essi stessi oggetto del progetto. Collega ricerca di dominio, UX-AI e design quando il loro sapere cambia la possibilità; chi possiede il sostegno qualifica persone, tempo, collaborazione, infrastrutture ed economia. Un laboratorio o un’interfaccia possono essere mezzi, mentre la domanda di ricerca resta più ampia. Una dimostrazione attraente o una proposta plausibile non provano beneficio umano o un impegno di finanziamento.
 
 ## Continuare attraverso il progetto reale
 

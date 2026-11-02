@@ -1,9 +1,14 @@
 ---
 name: ux-ai-kernel-design
-description: "Make an AI agent's work and human intervention points understandable. Use when explanations, depth, interface state or representations should help a person orient, correct, guide or continue actual work."
+description: "Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca. Quando una persona deve comprendere o guidare il lavoro dell’AI, oppure una scoperta apre domande su come diventare comprensione utilizzabile."
+metadata:
+  version: 0.3.5
+  language: it
 ---
 
 # UX-AI Kernel Design
+
+Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
 
 **Rendere comprensibile il lavoro di un agente AI**
 
@@ -57,3 +62,23 @@ Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il m
 ## Sapere operativo raggiungibile
 
 Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
+
+
+
+
+## La comprensione può cambiare la domanda di ricerca
+
+Un risultato può restare difficile da comprendere anche quando la spiegazione è scorrevole. Recupera la relazione che la persona non riesce ancora a esaminare, usare o interrogare. Con chi possiede il sapere scientifico, comprendi se un diverso concetto, rappresentazione, strumento o modo d’indagare possa renderla affrontabile. Il rapporto umano–AI può diventare esso stesso parte dell’oggetto di ricerca. Conserva lo statuto e le qualificazioni del risultato: la comprensione presente non ne decide la validità scientifica e una figura più semplice non può eliminare un’incertezza decisiva.
+
+
+## Adattare la collaborazione alle capacità umane effettive
+
+Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## Continuare attraverso il progetto reale
+
+Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La prova utile è nel modo in cui una persona comprende e interviene in situazioni successive, non nella presenza di un pannello o di una descrizione.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.

@@ -32,3 +32,14 @@ In a chat, keep a recoverable note with sources, understanding and the open poin
 ## The method’s value continues beyond the first project
 
 A project is one possible resultant. The knowledge enabling you to recognise and form another project is the generative capability being transferred. A source or encounter can change both; the next case provides its own observations.
+
+
+
+
+## Human understanding can be the work to develop
+
+When people and AI participate in the same work, look beyond the current technical inventory. Difficulty understanding or assimilating a result may open research on concepts, inquiry methods, representations or new means. The system’s adaptation to human capabilities and the development of those capabilities can themselves be a project object. Connect domain research, UX-AI and design where their knowledge changes the possibility; the support owner qualifies people, time, collaboration, infrastructure and economics. A workshop or interface may be one means, while the research question remains wider. An attractive demonstration or a plausible proposal does not establish human benefit or a funding commitment.
+
+## The method’s value continues beyond the first project
+
+A project is one possible resultant. The knowledge enabling you to recognise and form another project is the generative capability being transferred. A source or encounter can change both; the next case provides its own observations.

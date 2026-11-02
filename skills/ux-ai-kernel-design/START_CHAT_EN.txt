@@ -1,6 +1,7 @@
-Apply this competence to the work described below. The public edition 0.3.4 includes its method, operating knowledge and worked examples. Add your context after the supplied knowledge. Use execution tools only if this host provides them.
 
 # UX-AI Kernel Design
+
+Makes the relation between human understanding and AI operation usable, and lets difficulties in that relation change the work, its methods and research questions.
 
 Make the meaning of current work and the person's real intervention points understandable. Adapt explanation, depth and form to what the person needs to orient, correct or continue the work.
 
@@ -45,7 +46,28 @@ Begin from available context and sources. Exercise the method in chat; persisten
 
 Read [OPERATING_GUIDE.md](OPERATING_GUIDE.md) as part of this method when forming the work. It carries the practical knowledge, decision relations and available means for this capability. The complete chat starter includes this knowledge and worked examples, so it remains usable without private sources. Preserve the public source identity and adapt through the recipient's actual means.
 
-# UX-AI Kernel Design
+
+
+
+## Understanding can change the research question
+
+A result may remain hard to understand even when the explanation is fluent. Recover the relation that the person cannot yet examine, use or question. With the scientific owner, understand whether a different concept, representation, instrument or way of investigating could make that relation tractable. The human–AI relation can itself become part of the research object. Preserve the result’s actual status and qualifications: present comprehension does not decide scientific validity, and a simpler picture cannot remove a decisive uncertainty.
+
+
+## Adapt the collaboration to actual human capabilities
+
+Reach the person’s present knowledge, attention, pace, perceptual means and opportunities to intervene through the work and their expressed needs. Do not infer them from a role, age or silence. The useful change may concern the AI’s behaviour, the available means or a new way of understanding, rather than only the length of an answer. Preserve essential meaning, authorship and decision-changing conditions. New capabilities can form on either side of the collaboration. Distinguish information seen, comprehension, later use and measured improvement; no universal interface or mandatory study follows.
+
+## Continue through the actual project
+
+Everyday work can gradually teach participation in the system. Useful evidence lies in how a person understands and intervenes in later situations, not in the presence of a panel or description.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+# UX-AI Kernel Design — practical operating knowledge
 
 ## Form a reciprocal, simultaneous working surface
 
@@ -65,9 +87,28 @@ Expose shared semantic state to the system and to the person. A screenshot alone
 
 Choose among retaining, adapting or rebuilding a form through the relations it can actually express. A preferred projection cannot manufacture a missing capability. Search for, compose or construct that capability when needed. Observe the rendered outcome and reachable state at meaningful moments; separate a fixture from the evaluator deciding what it can express. Compare human intervention and programmatic change, including focus and accessibility. Keep original editable sources. A weak result can require a code correction, a different expressive grammar or a reformulated question. Return that cause to the competence that must build or communicate differently next time.
 
-# UX-AI Kernel Design — application examples
 
-[Italiano](ESEMPI_IT.md). The following cases illustrate how the method is used.
+
+
+## Understanding can change the research question
+
+A result may remain hard to understand even when the explanation is fluent. Recover the relation that the person cannot yet examine, use or question. With the scientific owner, understand whether a different concept, representation, instrument or way of investigating could make that relation tractable. The human–AI relation can itself become part of the research object. Preserve the result’s actual status and qualifications: present comprehension does not decide scientific validity, and a simpler picture cannot remove a decisive uncertainty.
+
+
+## Adapt the collaboration to actual human capabilities
+
+Reach the person’s present knowledge, attention, pace, perceptual means and opportunities to intervene through the work and their expressed needs. Do not infer them from a role, age or silence. The useful change may concern the AI’s behaviour, the available means or a new way of understanding, rather than only the length of an answer. Preserve essential meaning, authorship and decision-changing conditions. New capabilities can form on either side of the collaboration. Distinguish information seen, comprehension, later use and measured improvement; no universal interface or mandatory study follows.
+
+## The meta relation and a method that can learn
+
+A meta relation can become visible when the system explains how a competence forms or changes and the person can guide that formation. Explanation does not become a second engine deciding domain truth.
+
+This competence has an autological relation when it applies its method to the understandability of its own work: a confusing explanation becomes material for improving how it explains. This is distinct from agent autonomy and access to internal reasoning.
+
+
+# Worked examples
+
+Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
 
 ## Explain a prepared change at its actual activation state
 
@@ -86,6 +127,22 @@ A person asks why the assistant excluded a source. Explaining the reason reveals
 Use [SKILL.md](SKILL.md) or [START_CHAT_EN.txt](START_CHAT_EN.txt) with the relevant sources and your actual context. Keep observations, interpretations and what remains open distinguishable. Preserve the useful reason and continuation in the project’s guide.
 
 
-# Your context
 
-Intention, sources, existing work, available means and entrusted actions: [add here].
+
+## A materials result opens a question about how to investigate it
+
+A materials research group has a provisional model relating several measurements. An AI summary is readable, but colleagues cannot explain which dependency supports its conclusion. Replacing the model with a single reassuring chart would hide that unresolved relation. This is an illustrative situation, not a reported experiment.
+
+The assistant connects the original measurements, model assumptions and the colleagues’ actual questions. The researchers retain scientific ownership. Together they may form another question: which representation or additional measurement could make the disputed dependency examinable? A comparison, interactive view or new instrument is chosen for that relation, with the competences and means actually available. The difficulty changes the inquiry rather than merely the caption.
+
+The guide preserves the provisional result, the new question and why a chosen means could help. When another colleague or later study is available, observe what they can actually explain and use. A working view is evidence of that construction; it does not prove the model, general human comprehension or a completed new experiment.
+
+
+## A museum team needs a different way to compare archive records
+
+A museum volunteer compares two catalogue records while the assistant presents a long consolidated answer. The volunteer asks to keep each record and its source visible and to review one difference at a time. The system adapts the working relation: preserved record identifiers, reachable source passages and an explicit point where the volunteer can correct the comparison. A short table or conversation can serve that need; an automatic merge would require its own means and mandate.
+
+A later difference can show whether the volunteer recognizes the provenance issue and can intervene without reconstructing the whole exchange. Confusion can change the interface, the assistant’s comparison method or the explanation. The team retains original records and useful reasons. This is an illustrative adaptation, not evidence of a deployed museum system or measured learning.
+
+
+My assignment, sources, existing work, available means and requested result:

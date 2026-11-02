@@ -1,4 +1,4 @@
-# UX-AI Kernel Design
+# UX-AI Kernel Design — practical operating knowledge
 
 ## Form a reciprocal, simultaneous working surface
 
@@ -17,3 +17,21 @@ Use the actual visual-design and code-construction knowledge available to build 
 Expose shared semantic state to the system and to the person. A screenshot alone cannot recover an unexposed selection, temporal lens or transient target. Distinguish a temporary pointer from a persistent selection. Bind values and events so a human change reaches the working state and a system change becomes perceivable. Preserve orientation through transitions; moving geometry should reveal a relationship or state change.
 
 Choose among retaining, adapting or rebuilding a form through the relations it can actually express. A preferred projection cannot manufacture a missing capability. Search for, compose or construct that capability when needed. Observe the rendered outcome and reachable state at meaningful moments; separate a fixture from the evaluator deciding what it can express. Compare human intervention and programmatic change, including focus and accessibility. Keep original editable sources. A weak result can require a code correction, a different expressive grammar or a reformulated question. Return that cause to the competence that must build or communicate differently next time.
+
+
+
+
+## Understanding can change the research question
+
+A result may remain hard to understand even when the explanation is fluent. Recover the relation that the person cannot yet examine, use or question. With the scientific owner, understand whether a different concept, representation, instrument or way of investigating could make that relation tractable. The human–AI relation can itself become part of the research object. Preserve the result’s actual status and qualifications: present comprehension does not decide scientific validity, and a simpler picture cannot remove a decisive uncertainty.
+
+
+## Adapt the collaboration to actual human capabilities
+
+Reach the person’s present knowledge, attention, pace, perceptual means and opportunities to intervene through the work and their expressed needs. Do not infer them from a role, age or silence. The useful change may concern the AI’s behaviour, the available means or a new way of understanding, rather than only the length of an answer. Preserve essential meaning, authorship and decision-changing conditions. New capabilities can form on either side of the collaboration. Distinguish information seen, comprehension, later use and measured improvement; no universal interface or mandatory study follows.
+
+## The meta relation and a method that can learn
+
+A meta relation can become visible when the system explains how a competence forms or changes and the person can guide that formation. Explanation does not become a second engine deciding domain truth.
+
+This competence has an autological relation when it applies its method to the understandability of its own work: a confusing explanation becomes material for improving how it explains. This is distinct from agent autonomy and access to internal reasoning.

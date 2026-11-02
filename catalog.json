@@ -887,7 +887,7 @@
     {
       "id": "comprendere-lavoro-agente",
       "name": "UX-AI Kernel Design",
-      "version": "0.3.4",
+      "version": "0.3.5",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "13",
@@ -896,7 +896,7 @@
       "starter": "skills/ux-ai-kernel-design/START_CHAT_EN.txt",
       "examples": "skills/ux-ai-kernel-design/EXAMPLES.md",
       "presentation": "skills/ux-ai-kernel-design/presentation.json",
-      "package": "dist/ux-ai-kernel-design-0.3.4.zip",
+      "package": "dist/ux-ai-kernel-design-0.3.5.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
         "title": "Rendere comprensibile il lavoro di un agente AI",
@@ -2890,7 +2890,7 @@
     {
       "id": "progetti-dalle-capacita-del-sistema",
       "name": "System Fundable Project Extraction",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "state": "public_edition",
       "instruction_language": "en",
       "review_id": "42",
@@ -2954,7 +2954,7 @@
       "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
       "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
       "presentation": "skills/system-fundable-project-extraction/presentation.json",
-      "package": "dist/system-fundable-project-extraction-0.1.0.zip"
+      "package": "dist/system-fundable-project-extraction-0.1.1.zip"
     },
     {
       "id": "collegare-competenze-al-lavoro",

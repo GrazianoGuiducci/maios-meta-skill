@@ -2,7 +2,7 @@
 name: system-fundable-project-extraction
 description: "Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found. When you want to understand what your existing know-how could enable, or a new resource makes a paused idea possible again."
 metadata:
-  version: 0.1.0
+  version: 0.1.1
   language: en
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found.
 
+Forms project possibilities from a group’s knowledge, capabilities and visions, even before a call or funder has been found.
+
 An archive has an interpretive method, a technical team has learned to solve a problem, a laboratory retains an open question. This knowledge can make a project possible before anyone publishes a funding request.
 
 The competence connects what exists, the work that could emerge and the conditions for beginning it. A person, infrastructure or new access can also change the project’s question. The method preserves that transformation and learns through experience.
+
+## An archive recognises a project before looking for a call
+
+An association knows how to interpret photographs and collect local memories. It wants schools to use this knowledge, but has neither a funder nor access to family documents.
+
+A project can already become intelligible: a workshop built on the archive’s knowledge. Later access to documents can transform it into shared research across generations.
+
+## Adapt the method to your organisation
+
+Preserve the relationship between existing knowledge, possible work and the condition enabling its development. Sources, beneficiaries, tools, responsibilities and forms of support change. The knowledge may belong to a company, laboratory, community or individual.
+
+Supply documents, results, acquired methods and paused ideas with the reasons they were paused. A new resource can reopen a possibility or generate another one. Forming the project can improve both how you work with AI and the product, research or service you are developing.
 
 ## An archive recognises a project before looking for a call
 
@@ -59,6 +73,23 @@ A discussion, attempt, result or refusal can change the project and how later pr
 ## Leave proportionate continuation
 
 Preserve the useful source, responsible owner, understood possibility, actual state and next condition that could change it. Use the existing guide or project; an index does not recreate an active project. Stop when the possibility is intelligible enough to revisit. Sending, spending, signing or activation requires the receiver’s selection and means for that exact effect.
+
+## Continue through the actual project
+
+Keep reasons that change the next project in the existing guides, together with their sources and actual states.
+
+Let acquired understanding participate in the present choice. Logical consequences open possibilities; the situation determines which continuation is useful.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+
+
+## Human understanding can be the work to develop
+
+When people and AI participate in the same work, look beyond the current technical inventory. Difficulty understanding or assimilating a result may open research on concepts, inquiry methods, representations or new means. The system’s adaptation to human capabilities and the development of those capabilities can themselves be a project object. Connect domain research, UX-AI and design where their knowledge changes the possibility; the support owner qualifies people, time, collaboration, infrastructure and economics. A workshop or interface may be one means, while the research question remains wider. An attractive demonstration or a plausible proposal does not establish human benefit or a funding commitment.
 
 ## Continue through the actual project
 

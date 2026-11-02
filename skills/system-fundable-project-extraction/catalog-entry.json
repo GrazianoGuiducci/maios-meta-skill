@@ -1,7 +1,7 @@
 {
   "id": "progetti-dalle-capacita-del-sistema",
   "name": "System Fundable Project Extraction",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "42",
@@ -65,5 +65,5 @@
   "starter": "skills/system-fundable-project-extraction/START_CHAT_EN.txt",
   "examples": "skills/system-fundable-project-extraction/EXAMPLES.md",
   "presentation": "skills/system-fundable-project-extraction/presentation.json",
-  "package": "dist/system-fundable-project-extraction-0.1.0.zip"
+  "package": "dist/system-fundable-project-extraction-0.1.1.zip"
 }

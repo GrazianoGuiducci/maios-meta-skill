@@ -32,3 +32,14 @@ In chat conserva una nota recuperabile con fonti, comprensione e punto aperto; c
 ## Il valore del metodo continua oltre il primo progetto
 
 Il progetto è una risultante possibile. Il sapere che permette di riconoscerne e formarne un altro è la capacità generativa trasferita. Una fonte o un incontro possono cambiare entrambi; il prossimo caso fornisce osservazioni proprie.
+
+
+
+
+## La comprensione umana può essere il lavoro da sviluppare
+
+Quando persone e AI partecipano allo stesso lavoro, raggiungi possibilità oltre l’inventario tecnico corrente. La difficoltà di comprendere o assimilare un risultato può aprire ricerca su concetti, metodi d’indagine, rappresentazioni o nuovi mezzi. L’adattamento del sistema alle capacità umane e lo sviluppo di quelle capacità possono essere essi stessi oggetto del progetto. Collega ricerca di dominio, UX-AI e design quando il loro sapere cambia la possibilità; chi possiede il sostegno qualifica persone, tempo, collaborazione, infrastrutture ed economia. Un laboratorio o un’interfaccia possono essere mezzi, mentre la domanda di ricerca resta più ampia. Una dimostrazione attraente o una proposta plausibile non provano beneficio umano o un impegno di finanziamento.
+
+## Il valore del metodo continua oltre il primo progetto
+
+Il progetto è una risultante possibile. Il sapere che permette di riconoscerne e formarne un altro è la capacità generativa trasferita. Una fonte o un incontro possono cambiare entrambi; il prossimo caso fornisce osservazioni proprie.

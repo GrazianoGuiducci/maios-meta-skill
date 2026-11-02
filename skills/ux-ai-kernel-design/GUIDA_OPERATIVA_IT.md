@@ -1,4 +1,4 @@
-# UX-AI Kernel Design
+# UX-AI Kernel Design — sapere operativo pratico
 
 ## Formare una superficie di lavoro reciproca e simultanea
 
@@ -17,3 +17,21 @@ Usa il sapere effettivo di progettazione visiva e costruzione del codice. Da una
 Esponi lo stato semantico condiviso al sistema e alla persona. Uno screenshot non ricostruisce selezione, lente temporale o puntamento transitorio non esposti. Distingui puntamento temporaneo e selezione persistente. Collega valori ed eventi affinché una modifica umana raggiunga lo stato di lavoro e un cambiamento del sistema diventi percepibile. Conserva l'orientamento nelle transizioni; la geometria in movimento rivela relazioni o cambiamenti.
 
 Scegli se conservare, adattare o ricostruire una forma dalle relazioni che sa esprimere. Una proiezione preferita non crea una capacità mancante: cercala, componila o costruiscila. Osserva resa e stato raggiungibile nei momenti significativi; distingui il caso preparato dal valutatore che decide cosa può esprimere. Confronta intervento umano e cambiamento programmatico, inclusi focus e accessibilità. Conserva sorgenti originali modificabili. Una debolezza può richiedere correzione del codice, grammatica espressiva diversa o domanda riformata. Restituisci la causa alla competenza che deve costruire o comunicare diversamente.
+
+
+
+
+## La comprensione può cambiare la domanda di ricerca
+
+Un risultato può restare difficile da comprendere anche quando la spiegazione è scorrevole. Recupera la relazione che la persona non riesce ancora a esaminare, usare o interrogare. Con chi possiede il sapere scientifico, comprendi se un diverso concetto, rappresentazione, strumento o modo d’indagare possa renderla affrontabile. Il rapporto umano–AI può diventare esso stesso parte dell’oggetto di ricerca. Conserva lo statuto e le qualificazioni del risultato: la comprensione presente non ne decide la validità scientifica e una figura più semplice non può eliminare un’incertezza decisiva.
+
+
+## Adattare la collaborazione alle capacità umane effettive
+
+Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## La relazione meta e il metodo che può imparare
+
+Il livello meta può diventare visibile quando il sistema spiega come una competenza si forma o cambia e la persona può orientare quella formazione. La spiegazione non diventa un secondo motore che decide la verità del dominio.
+
+Questa competenza ha una relazione autologica quando applica il proprio metodo alla comprensibilità del proprio lavoro: una spiegazione che confonde diventa materiale per correggere il modo di spiegare. È distinto dall'autonomia dell'agente e dall'accesso al ragionamento interno.

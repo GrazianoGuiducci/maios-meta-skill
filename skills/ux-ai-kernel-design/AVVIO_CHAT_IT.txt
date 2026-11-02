@@ -1,6 +1,7 @@
-Applica questa competenza al lavoro descritto qui sotto. L'edizione pubblica 0.3.4 include metodo, sapere operativo ed esempi articolati. Aggiungi il tuo contesto dopo il sapere fornito. Usa strumenti esecutivi solo se questo host li fornisce.
 
 # UX-AI Kernel Design
+
+Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.
 
 **Rendere comprensibile il lavoro di un agente AI**
 
@@ -55,7 +56,28 @@ Nel primo uso, parti dal contesto e dalle fonti effettivamente disponibili. Il m
 
 Raggiungi [GUIDA_OPERATIVA_IT.md](GUIDA_OPERATIVA_IT.md) come parte di questo metodo mentre formi il lavoro. Conserva sapere pratico, relazioni decisionali e mezzi della capacità. L'avvio completo include questo sapere e i casi articolati, rendendolo utilizzabile senza fonti private. Conserva l'identità sorgente pubblica e adatta attraverso i mezzi reali del ricevente.
 
-# UX-AI Kernel Design
+
+
+
+## La comprensione può cambiare la domanda di ricerca
+
+Un risultato può restare difficile da comprendere anche quando la spiegazione è scorrevole. Recupera la relazione che la persona non riesce ancora a esaminare, usare o interrogare. Con chi possiede il sapere scientifico, comprendi se un diverso concetto, rappresentazione, strumento o modo d’indagare possa renderla affrontabile. Il rapporto umano–AI può diventare esso stesso parte dell’oggetto di ricerca. Conserva lo statuto e le qualificazioni del risultato: la comprensione presente non ne decide la validità scientifica e una figura più semplice non può eliminare un’incertezza decisiva.
+
+
+## Adattare la collaborazione alle capacità umane effettive
+
+Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## Continuare attraverso il progetto reale
+
+Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La prova utile è nel modo in cui una persona comprende e interviene in situazioni successive, non nella presenza di un pannello o di una descrizione.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+# UX-AI Kernel Design — sapere operativo pratico
 
 ## Formare una superficie di lavoro reciproca e simultanea
 
@@ -75,9 +97,28 @@ Esponi lo stato semantico condiviso al sistema e alla persona. Uno screenshot no
 
 Scegli se conservare, adattare o ricostruire una forma dalle relazioni che sa esprimere. Una proiezione preferita non crea una capacità mancante: cercala, componila o costruiscila. Osserva resa e stato raggiungibile nei momenti significativi; distingui il caso preparato dal valutatore che decide cosa può esprimere. Confronta intervento umano e cambiamento programmatico, inclusi focus e accessibilità. Conserva sorgenti originali modificabili. Una debolezza può richiedere correzione del codice, grammatica espressiva diversa o domanda riformata. Restituisci la causa alla competenza che deve costruire o comunicare diversamente.
 
-# Esempi — Rendere comprensibile il lavoro di un agente AI
 
-I tre casi sono illustrativi: mostrano come il metodo cambia il lavoro. Non sono dichiarazioni di risultati verificati in installazioni esterne.
+
+
+## La comprensione può cambiare la domanda di ricerca
+
+Un risultato può restare difficile da comprendere anche quando la spiegazione è scorrevole. Recupera la relazione che la persona non riesce ancora a esaminare, usare o interrogare. Con chi possiede il sapere scientifico, comprendi se un diverso concetto, rappresentazione, strumento o modo d’indagare possa renderla affrontabile. Il rapporto umano–AI può diventare esso stesso parte dell’oggetto di ricerca. Conserva lo statuto e le qualificazioni del risultato: la comprensione presente non ne decide la validità scientifica e una figura più semplice non può eliminare un’incertezza decisiva.
+
+
+## Adattare la collaborazione alle capacità umane effettive
+
+Raggiungi conoscenze presenti, attenzione, ritmo, mezzi percettivi e possibilità d’intervento della persona attraverso il lavoro e i bisogni espressi. Non dedurli da ruolo, età o silenzio. Il cambiamento utile può riguardare il comportamento dell’AI, i mezzi disponibili o un nuovo modo di comprendere, oltre alla lunghezza della risposta. Conserva significato essenziale, autorialità e condizioni che cambiano una decisione. Nuove capacità possono formarsi nei due lati della collaborazione. Distingui informazione vista, comprensione, uso successivo e miglioramento misurato; non ne derivano un’interfaccia universale o uno studio obbligatorio.
+
+## La relazione meta e il metodo che può imparare
+
+Il livello meta può diventare visibile quando il sistema spiega come una competenza si forma o cambia e la persona può orientare quella formazione. La spiegazione non diventa un secondo motore che decide la verità del dominio.
+
+Questa competenza ha una relazione autologica quando applica il proprio metodo alla comprensibilità del proprio lavoro: una spiegazione che confonde diventa materiale per correggere il modo di spiegare. È distinto dall'autonomia dell'agente e dall'accesso al ragionamento interno.
+
+
+# Esempi sviluppati
+
+Casi illustrativi. Condizioni, scelte e continuazione insegnano il metodo; non sono resoconti di risultati ottenuti presso clienti.
 
 ## 1. Una modifica pronta da attivare
 
@@ -104,6 +145,22 @@ Il lavoro quotidiano può insegnare gradualmente come partecipare al sistema. La
 [Metodo completo](SKILL_IT.md) · [Avvio da usare in chat](AVVIO_CHAT_IT.txt)
 
 
-# Il tuo contesto
 
-Intento, fonti, lavoro esistente, mezzi disponibili e azioni affidate: [aggiungi qui].
+
+## Un risultato sui materiali apre una domanda sul modo d’indagarlo
+
+Un gruppo che studia materiali ha un modello provvisorio che collega più misure. La sintesi AI è leggibile, ma i colleghi non riescono a spiegare quale dipendenza sostenga la conclusione. Sostituire il modello con un unico grafico rassicurante nasconderebbe quella relazione irrisolta. La situazione è illustrativa, non un esperimento riportato.
+
+L’assistente collega misure originali, assunzioni del modello e domande effettive dei colleghi. La responsabilità scientifica resta ai ricercatori. Insieme possono formare un’altra domanda: quale rappresentazione o misura aggiuntiva renderebbe esaminabile la dipendenza discussa? Un confronto, una vista interattiva o un nuovo strumento si scelgono per quella relazione, con competenze e mezzi realmente disponibili. La difficoltà cambia l’indagine, oltre alla didascalia.
+
+La guida conserva risultato provvisorio, nuova domanda e ragione per cui un mezzo potrebbe aiutare. Quando sono disponibili un altro collega o uno studio successivo, osserva che cosa riescano effettivamente a spiegare e usare. Una vista funzionante prova quella costruzione; non dimostra il modello, comprensione umana generale o un nuovo esperimento compiuto.
+
+
+## Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede
+
+Un volontario di un museo confronta due schede del catalogo mentre l’assistente presenta una lunga risposta unificata. Chiede di conservare visibili ciascuna scheda e la sua fonte, esaminando una differenza alla volta. Il sistema adatta la relazione di lavoro: identificatori conservati, passaggi sorgente raggiungibili e un punto esplicito in cui il volontario può correggere il confronto. Una tabella breve o una conversazione possono servire questo bisogno; una fusione automatica richiederebbe mezzi e mandato propri.
+
+Una differenza successiva può mostrare se il volontario riconosca il problema di provenienza e riesca a intervenire senza ricostruire l’intero scambio. Una confusione può cambiare interfaccia, metodo di confronto dell’assistente o spiegazione. Il gruppo conserva schede originali e ragioni utili. È un adattamento illustrativo, non la prova di un sistema museale installato o di un apprendimento misurato.
+
+
+Il mio incarico, le fonti, il lavoro esistente, i mezzi disponibili e il risultato richiesto:

@@ -15,3 +15,14 @@ A small team has acquired a method for interpreting faults and explaining mainte
 ## New access reopens a laboratory question
 
 A laboratory paused an idea because its available instrument could not distinguish two explanations. It retains the question, limitation and reopening condition. A collaboration provides access to a new measurement: the researcher sees that a different experiment can now be formed, beyond repeating the previous one faster. The AI recovers pertinent knowledge and connects the new project to its original question, keeping hypotheses and observations distinguishable. Support might concern measurement time, analysis and collaboration; responsible owners qualify actual costs and terms. Announced access is not an executed experiment. The case teaches how to preserve a possibility without freezing it in its first form.
+
+
+
+
+## An energy cooperative recognizes a research project before choosing a dashboard
+
+An energy cooperative has consumption records and a method for comparing seasonal patterns. Members can read an AI summary but cannot connect a recommendation to the conditions behind it. The first idea is to commission a dashboard. The difficulty also reveals a possible research project: how can members examine the data, assumptions and uncertainty well enough to guide the analysis? This is an illustrative case, without measured savings or an observed customer result.
+
+The group brings its actual records and questions to domain specialists and people who know human–AI collaboration. They can explore another representation, a revised analysis method, participatory work or a new tool. What people need to understand can change which variables or observations matter; the project is not fixed to interface construction. The scientific and operational owners retain their respective judgments.
+
+Support could make researcher time, member participation or shared instruments available. The responsible support competence qualifies the real counterpart, terms and resources when that encounter is selected. The project guide keeps the open question, source status, first useful work and what would allow it to continue. A prototype, participant comprehension, a verified energy consequence and actual support remain separate observations.
