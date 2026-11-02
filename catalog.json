@@ -899,30 +899,34 @@
       "package": "dist/ux-ai-kernel-design-0.3.5.zip",
       "it": {
         "route": "/risorse/comprendere-lavoro-agente/",
-        "title": "Rendere comprensibile il lavoro di un agente AI",
-        "description": "Fa vedere alla persona il significato del movimento corrente e i punti in cui può intervenire.",
+        "title": "Comprendere e sviluppare il lavoro tra persone e AI",
+        "description": "Collegare comprensione umana, lavoro dell’AI e possibilità reali d’intervento, nell’uso quotidiano e nella ricerca.",
         "kind": "Competenza UX-AI",
         "domain": "Prodotti e comunicazione",
-        "does": "Adatta spiegazione, profondità e forma a ciò che la persona deve comprendere per orientare, correggere o continuare il lavoro.",
-        "when": "Quando un sistema AI restituisce risultati ma chi lo usa non riesce a capire cosa cambia o come partecipare.",
+        "does": "Rende utilizzabile il rapporto fra comprensione umana e lavoro dell’AI, lasciando che le difficoltà di quel rapporto cambino il lavoro, i metodi e le domande di ricerca.",
+        "when": "Quando una persona deve comprendere o guidare il lavoro dell’AI, oppure una scoperta apre domande su come diventare comprensione utilizzabile.",
         "examples": [
           "Un assistente rende chiara una decisione che richiede l’intervento dell’utente.",
           "Un’interfaccia mostra da quali fonti dipende lo stato di un’attività.",
-          "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema."
+          "Il lavoro quotidiano insegna gradualmente come usare le capacità del sistema.",
+          "Un risultato sui materiali apre una domanda sul modo d’indagarlo",
+          "Il gruppo di un museo ha bisogno di un altro modo di confrontare le schede"
         ]
       },
       "en": {
         "route": "/resources/comprendere-lavoro-agente/",
-        "title": "Make an AI agent's work understandable",
-        "description": "Show people what the current work means and where they can intervene.",
+        "title": "Understand and develop work between people and AI",
+        "description": "Connect human understanding, AI operation and real opportunities to intervene, in daily work and research.",
         "kind": "UX-AI competence",
         "domain": "Products and communication",
-        "does": "Adapts explanation, depth and form to what a person needs to understand in order to guide, correct or continue the work.",
-        "when": "When an AI system returns results but its user cannot understand what changed or how to participate.",
+        "does": "Makes the relation between human understanding and AI operation usable, and lets difficulties in that relation change the work, its methods and research questions.",
+        "when": "When a person needs to understand or guide AI work, or a discovery raises new questions about how it can become usable understanding.",
         "examples": [
           "Explain a decision that needs the user's intervention.",
           "Show which sources support the state of an activity.",
-          "Let everyday work progressively teach how to use the system's capabilities."
+          "Let everyday work progressively teach how to use the system's capabilities.",
+          "A materials result opens a question about how to investigate it",
+          "A museum team needs a different way to compare archive records"
         ]
       },
       "native_entry": "ux-ai-kernel-design",
