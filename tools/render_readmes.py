@@ -1,5 +1,6 @@
 """Render the English primary README and its Italian counterpart."""
 import re
+import json
 
 
 def render(root, resources):
@@ -142,4 +143,14 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
             text=text.replace(marker,note+'\n\n'+marker,1)
         adoption = ('[One competence, a public skill system or optional MPK integration](docs/USE.md): choose from your work while preserving existing capabilities.' if en else '[Una competenza, un sistema pubblico di skill o integrazione MPK facoltativa](docs/USO.md): scegli il percorso dal tuo lavoro, preservando le capacità già presenti.')
         text = text.rstrip()+'\n\n'+adoption+'\n'
+        activities = json.loads((root/'catalog.json').read_text(encoding='utf-8')).get('activities', [])
+        if activities:
+            text = text.replace('**'+str(len(resources))+' resources for', '**'+str(len(resources))+' competences and '+str(len(activities))+' adaptable AI activity for', 1) if en else text.replace('**'+str(len(resources))+' risorse per', '**'+str(len(resources))+' competenze e '+str(len(activities))+' attività AI da adattare per', 1)
+            lang = 'en' if en else 'it'
+            heading = '## AI activities to adapt' if en else '## Attività AI da adattare'
+            intro = ('Complete assignments that compose existing competences for concrete work. Each activity includes its method, guide, examples, autonomous starter and a kit with the supporting public competences. Begin on request or configure recurrence through your own environment.' if en else 'Incarichi completi che compongono competenze esistenti per un lavoro concreto. Ogni attività include metodo, guida, esempi, avvio autonomo e un kit con le competenze pubbliche di supporto. Parti su richiesta o configura una ricorrenza nel tuo ambiente.')
+            activity_rows = '\n'.join('- ['+row[lang]['title']+']('+row['languages'][lang]['guide']+') · '+row['version'] for row in activities)
+            section = heading+'\n\n'+intro+'\n\n'+activity_rows+'\n\n'
+            marker = '## Choose a resource' if en else '## Scegliere una risorsa'
+            text = text.replace(marker, section+marker, 1)
         (root/('README.md' if en else 'README_IT.md')).write_text(text,encoding='utf-8',newline='\n')

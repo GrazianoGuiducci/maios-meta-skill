@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 risorse per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**48 competenze e 1 attività AI da adattare per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -21,6 +21,12 @@ La directory `skills/` contiene i 48 ingressi operativi. Gli [ID precedenti](doc
 Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS](docs/COMPETENZE_NEL_LAVORO.md).
 
 Scopri [come adattare i metodi a formazione, cultura, servizi e ricerca](docs/ADATTARE.md). MKCV, il metodo di produzione video, è **beta e in apprendimento**.
+
+## Attività AI da adattare
+
+Incarichi completi che compongono competenze esistenti per un lavoro concreto. Ogni attività include metodo, guida, esempi, avvio autonomo e un kit con le competenze pubbliche di supporto. Parti su richiesta o configura una ricorrenza nel tuo ambiente.
+
+- [Mantenere sito e risorse pubbliche al passo con un progetto che evolve](activities/public-representation/GUIDA_IT.md) · 0.1.0
 
 ## Scegliere una risorsa
 

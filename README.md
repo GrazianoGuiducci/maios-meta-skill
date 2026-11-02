@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 resources for working with AI, forming competences and evolving their methods.**
+**48 competences and 1 adaptable AI activity for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -23,6 +23,12 @@ Edition 0.3.0 restores developed examples and practical operating knowledge from
 Download a kit and copy its complete canonical folder into your project's `.agents/skills/` directory, or select kits with `python tools/install_skills.py`. The [installation guide](docs/INSTALL.md) covers exact paths, collision handling, discovery, first use and updates. The installer requires an explicit destination and never overwrites an existing skill.
 
 The `skills/` directory contains the 48 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
+
+## AI activities to adapt
+
+Complete assignments that compose existing competences for concrete work. Each activity includes its method, guide, examples, autonomous starter and a kit with the supporting public competences. Begin on request or configure recurrence through your own environment.
+
+- [Keep a project's public website and resources in step with its development](activities/public-representation/README.md) · 0.1.0
 
 ## Choose a resource
 
