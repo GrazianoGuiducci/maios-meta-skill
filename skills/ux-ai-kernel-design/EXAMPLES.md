@@ -35,3 +35,19 @@ The guide preserves the provisional result, the new question and why a chosen me
 A museum volunteer compares two catalogue records while the assistant presents a long consolidated answer. The volunteer asks to keep each record and its source visible and to review one difference at a time. The system adapts the working relation: preserved record identifiers, reachable source passages and an explicit point where the volunteer can correct the comparison. A short table or conversation can serve that need; an automatic merge would require its own means and mandate.
 
 A later difference can show whether the volunteer recognizes the provenance issue and can intervene without reconstructing the whole exchange. Confusion can change the interface, the assistant’s comparison method or the explanation. The team retains original records and useful reasons. This is an illustrative adaptation, not evidence of a deployed museum system or measured learning.
+
+
+
+
+## A project owner notices a version attributed to the wrong source
+
+A team is evaluating a document service. The assistant describes a capability as available in the team’s installed version, but the owner remembers that the cited note concerns a different product. The owner asks to reopen the release source. This illustrative clue warrants investigation; it is not a measured awareness failure or proof that every answer is wrong.
+
+The assistant connects the capability, actual product and installed revision to their sources. It corrects the attribution and makes the changed choice understandable: continue with the currently available function, investigate an upgrade, or reform the intended work. An upgrade remains a separate action with actual means and authority. The team’s correction changes the criterion used for the next comparison; a later case supplies its own evidence of whether that criterion is used.
+
+
+## A public question changes both the explanation and the next inquiry
+
+A researcher rehearses a short explanation with an assistant. They understand the research but want help selecting one relation they can express in their own words. The assistant supports an example and keeps deeper sources reachable, rather than requiring a catalogue of internal methods.
+
+During the illustrative meeting a participant asks which observation would distinguish two interpretations. The question changes what now needs explaining and may open a new inquiry with the research owner. The speaker can learn a better bridge; the participant can contribute a distinction; the assistant’s presenting method can learn why that question mattered. A successful rehearsal, the participant’s actual understanding and a completed new experiment remain separate observations. No result of a real meeting is claimed.

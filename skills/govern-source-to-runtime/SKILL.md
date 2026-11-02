@@ -2,7 +2,7 @@
 name: govern-source-to-runtime
 description: "Governs the path from a selected change through publication to the result actually reached by its recipients. When publishing a website, releasing software, updating a service or explaining why the live result differs from its source."
 metadata:
-  version: 0.1.1
+  version: 0.1.2
   language: en
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Governs the path from a selected change through publication to the result actually reached by its recipients.
 
+Governs the path from a selected change through publication to the result actually reached by its recipients.
+
 A change can be correct in a repository while a service still uses its previous version. This method reconstructs the actual connection and carries the entrusted effect through to observation.
 
 You can also use it without administering a server: distinguish a prepared document, its distributed file and the copy a recipient actually encounters. Included tools evaluate supplied data without performing publication.
+
+## The corrected calendar is not yet the public calendar
+
+An association publishes a calendar from a Git archive. Corrected opening hours have been shared, but the page still shows the old ones.
+
+Find which revision feeds the page, whether its controller acquired it and what visitors receive. Restarting a guessed service might change nothing.
+
+## Adapt the release to your environment
+
+Preserve the relationship between the selected change, delivered identity, means applying the effect and final observation. Repositories, people, controllers, destinations and recovery mechanisms vary.
+
+Bring the assignment, previous and proposed versions, project instructions and available observations. In chat you can form a verifiable plan; with suitable access, the method accompanies effects already entrusted to you.
 
 ## The corrected calendar is not yet the public calendar
 
@@ -64,6 +78,28 @@ Read back active identity, converged health and pertinent behavior. Compare exac
 ## Continue from the result actually observed
 
 Retain previous and active versions, completed checks, any recovery, unknowns and useful continuation with the release owner. Before resuming an interrupted attempt, observe what already happened. A contradiction reopens its dependent passage while preserving still-valid evidence and work. Return reusable corrections to the method without duplicating registers.
+
+## Continue through the actual project
+
+Keep the relationship between selected effect, revision actually reached, recovery and the next useful observation.
+
+Return the difference to the controller or method that must change, leaving product state and data with their owners.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+
+
+## Compare topology through complete records and the actual order contract
+
+First understand whether collection order has meaning in the selected contract. If it does not, compare complete canonical records while preserving multiplicity: source, destination, type, access mode, propagation and every other material property. A different enumeration can describe the same topology; sorting names alone can hide a real difference. If order expresses dependencies or execution, retain it. A rollback caused by an inadequate observer remains an actual rollback; correct that observer and qualify the new attempt without relabelling the first as successful.
+
+
+## Verify the exported artifact against the declared source identity
+
+A correct commit label does not guarantee that an export preserved source bytes or file modes. Reopen the produced archive and compare each selected member against the declared Git blobs/tree under the product’s exact byte and mode contract. Host newline conversion or omitted executable bits can change the artifact. Correct the export when source is already right; do not compensate by changing valid source or silently normalizing a byte-exact proof. Classify a historical test fixture by its actual role before excluding it as current private state. Preserve any declared transformation as a separate identity contract.
 
 ## Continue through the actual project
 

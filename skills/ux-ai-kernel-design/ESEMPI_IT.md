@@ -43,3 +43,19 @@ La guida conserva risultato provvisorio, nuova domanda e ragione per cui un mezz
 Un volontario di un museo confronta due schede del catalogo mentre l’assistente presenta una lunga risposta unificata. Chiede di conservare visibili ciascuna scheda e la sua fonte, esaminando una differenza alla volta. Il sistema adatta la relazione di lavoro: identificatori conservati, passaggi sorgente raggiungibili e un punto esplicito in cui il volontario può correggere il confronto. Una tabella breve o una conversazione possono servire questo bisogno; una fusione automatica richiederebbe mezzi e mandato propri.
 
 Una differenza successiva può mostrare se il volontario riconosca il problema di provenienza e riesca a intervenire senza ricostruire l’intero scambio. Una confusione può cambiare interfaccia, metodo di confronto dell’assistente o spiegazione. Il gruppo conserva schede originali e ragioni utili. È un adattamento illustrativo, non la prova di un sistema museale installato o di un apprendimento misurato.
+
+
+
+
+## Chi guida il progetto riconosce una versione attribuita alla fonte sbagliata
+
+Un gruppo valuta un servizio documentale. L’assistente descrive una capacità come disponibile nella versione installata, ma il responsabile ricorda che la nota citata riguarda un altro prodotto. Chiede di riaprire la fonte del rilascio. Questo indizio illustrativo richiede comprensione; non è una misura del cedimento di consapevolezza né la prova che ogni risposta sia sbagliata.
+
+L’assistente collega capacità, prodotto effettivo e revisione installata alle rispettive fonti. Corregge l’attribuzione e rende comprensibile la scelta cambiata: continuare con la funzione disponibile, indagare un aggiornamento o riformare il lavoro previsto. L’aggiornamento resta un’azione distinta con mezzi e autorità reali. La correzione del gruppo cambia il criterio usato nel confronto successivo; un altro caso avrà prove proprie dell’uso di quel criterio.
+
+
+## Una domanda del pubblico cambia la spiegazione e l’indagine successiva
+
+Una ricercatrice prepara una spiegazione breve con un assistente. Conosce la ricerca ma vuole essere aiutata a scegliere una relazione da esprimere con parole proprie. L’assistente sostiene un esempio e conserva le fonti approfondibili, invece di richiedere un catalogo di metodi interni.
+
+Nell’incontro illustrativo un partecipante chiede quale osservazione distinguerebbe due interpretazioni. La domanda cambia ciò che ora serve spiegare e può aprire un’indagine con chi possiede il sapere scientifico. La relatrice può imparare un ponte migliore; il partecipante può apportare una distinzione; il metodo di presentazione dell’assistente può conservare perché quella domanda conta. Un’esercitazione riuscita, la comprensione effettiva del partecipante e un nuovo esperimento compiuto restano osservazioni distinte. Non viene attribuito un risultato a un incontro reale.

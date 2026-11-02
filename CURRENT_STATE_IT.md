@@ -1,3 +1,20 @@
+# Radar delle possibilità di un progetto — 2 novembre 2026
+
+La raccolta comprende48competenze e2attività programmate. Il Radar0.1.0
+collega sviluppi esterni, capacità del progetto e possibili contributi.
+Guida per le persone, istruzioni AI complete, quattro casi illustrativi e
+contesto sono disponibili in italiano e inglese. Il pacchetto include
+quattro competenze pubbliche complete. Configurazione, esecuzione e risultati
+nel proprio ambiente conservano condizioni e prove proprie.
+
+L’AP per Aggiornamenti secondari di sistema conserva edizione0.2.1,
+archivio e ricevuta sorgente. Le note datate sotto conservano il proprio
+momento; gli aggiornamenti concorrenti delle altre risorse sono acquisiti.
+
+# Resource evolution — 2 November 2026, evening
+
+UX-AI 0.3.6 sviluppa comprensione condivisa correggibile, partecipazione del destinatario e primo incontro. Presentazione 0.1.6 prepara il relatore con profondità raggiungibile. Sorgente/runtime 0.1.2 approfondisce confronto della topologia e identità di byte e modi sorgente/archivio. Cinque casi illustrativi nuovi; sapere precedente e altre 45 edizioni, attività esistente e kernel indipendenti preservati.
+
 # Human–AI understanding — 2 November 2026
 
 UX-AI 0.3.5 e System Fundable Project Extraction 0.1.1 sviluppano comprensione umana come oggetto di ricerca/progetto, adattamento quotidiano e tre nuovi casi illustrativi tra ricerca sui materiali, museo e cooperativa energetica. Metodi, casi e archivi precedenti sono conservati. Pubblicazione, runtime e comprensione umana osservata restano distinti.

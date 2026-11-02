@@ -54,3 +54,21 @@ Ritornare alla versione precedente e verificare quel ritorno sono osservazioni d
 Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
 
 Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato.
+
+
+
+
+## Confrontare la topologia con record completi e il vero contratto d’ordine
+
+Comprendi prima se l’ordine della collezione abbia significato nel contratto selezionato. Se non lo ha, confronta record canonici completi conservando le molteplicità: sorgente, destinazione, tipo, modalità di accesso, propagazione e ogni altra proprietà materiale. Un’enumerazione diversa può descrivere la stessa topologia; ordinare soltanto i nomi può nascondere una differenza reale. Se l’ordine esprime dipendenze o esecuzione, mantienilo. Un rollback dovuto a un osservatore inadeguato resta un rollback effettivo; correggi l’osservatore e qualifica il nuovo tentativo senza dichiarare riuscito il primo.
+
+
+## Verificare l’artefatto esportato contro l’identità sorgente dichiarata
+
+Un’etichetta di commit corretta non garantisce che l’export abbia conservato byte e modi dei file. Riapri l’archivio prodotto e confronta ogni elemento selezionato con blob e albero Git dichiarati, secondo il contratto esatto del prodotto per byte e modi. Conversione dei fine riga o perdita dei bit di esecuzione possono cambiare l’artefatto. Correggi l’export quando la sorgente è già giusta; non compensare modificando sorgenti valide o normalizzando silenziosamente una prova byte per byte. Comprendi il ruolo di una fixture storica di test prima di escluderla come stato privato corrente. Una trasformazione dichiarata conserva un contratto d’identità distinto.
+
+## La pubblicazione impara dal proprio percorso
+
+Il metodo e i validatori deterministici sono disponibili; una distribuzione automatica universale non è fornita dal kit. Ogni ambiente possiede esecutori, accessi e politiche propri.
+
+Un risultato osservato può insegnare una relazione riusabile. Il successivo uso non identico mostra dove quell’apprendimento continua e dove il metodo va affinato.

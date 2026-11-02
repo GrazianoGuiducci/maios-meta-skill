@@ -2,7 +2,7 @@
 name: maios-presentation-competence
 description: "Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work. When a complex system must become understandable in a conversation, page, presentation or map while its knowledge and capabilities continue to evolve."
 metadata:
-  version: 0.1.5
+  version: 0.1.6
   language: en
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work.
 
+Forms explanations and maps connecting identity, documented capabilities and the receiver’s actual question, improving the presenting method through work.
+
 This method was developed through MAIOS presentations and its System Map. It connects what a system is, how it works, why that matters and how someone can encounter its capabilities. With another system, supply that system’s actual sources and responsible competences.
 
 A presentation is a situated expression of the system’s knowledge. The first explanation can be brief while deeper relations remain reachable.
+
+## One archive, different questions
+
+A museum presents a digital archive. A visitor wants to find a photograph; a curator wants to trace its provenance. Both use the same archive.
+
+The explanation starts from the actual question and keeps search, record and provenance document connected. Depth changes while the subject and sources stay recognizable.
+
+## Adapt the method to your context
+
+A museum presents a digital archive, a company introduces a service, a research group explains an experimental system. Preserve the relationship between what the system is, what it can do and the question of the person encountering it. The source system, audience, words and required depth change.
+
+Provide documents, actual capabilities and a use case of the system being presented. Start with a question recognizable to that audience and connect it to the mechanism that makes it possible. MAIOS references in the examples identify their origin; your system supplies the identity, sources and possibilities of the new presentation.
 
 ## One archive, different questions
 
@@ -64,6 +78,23 @@ A familiar piece of work can make a changing system understandable before its in
 ## Explain adoption through actual knowledge, means and responsibility
 
 Relate the information the system uses, the methods and rules guiding its choices, and the environment that enables continuity or actions. Collaboration and teaching, validation, and monitoring describe useful relationships between people and the system; their composition follows the work and entrusted degree of autonomy. Show which capabilities are available, which conditions enable a next step and who retains each decision. The organization’s way of working and its products can evolve together while remaining distinct objects.
+
+## Continue through the actual project
+
+Preserve the relation between first encounter and deeper sources; a short page can carry that access.
+
+A new question may change the concept, visual form or medium; update only the dependent representations.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+
+
+## Prepare what the speaker can say and do, with depth reachable
+
+Begin from the speaker’s actual understanding and the encounter’s purpose. Help them choose one relation worth making understandable now, express it in their own sentence, show a pertinent example and recognize a useful next bridge. The assistant can carry documentary detail and reopen sources when actual means allow it. A listener’s question can change the focus, depth or subject; do not treat the listener as inexperienced by default. Teaching preserves the system’s capabilities and the audience’s possible contributions. Rehearsal can show the speaker’s expression; understanding or changed work requires its own recipient observations.
 
 ## Continue through the actual project
 

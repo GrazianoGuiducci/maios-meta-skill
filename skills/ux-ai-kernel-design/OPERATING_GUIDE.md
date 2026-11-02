@@ -35,3 +35,26 @@ Reach the person’s present knowledge, attention, pace, perceptual means and op
 A meta relation can become visible when the system explains how a competence forms or changes and the person can guide that formation. Explanation does not become a second engine deciding domain truth.
 
 This competence has an autological relation when it applies its method to the understandability of its own work: a confusing explanation becomes material for improving how it explains. This is distinct from agent autonomy and access to internal reasoning.
+
+
+
+
+## Keep shared understanding correctable as work changes
+
+When a change affects intent, sources, available capabilities, choices or effects, make enough of that relation perceptible for the person to choose, redirect, contribute, correct, authorize or stop what belongs to them. Their independent perspective may expose a mistake or possibility the system has missed. A substituted version, lost object, unsupported premise or unavailable means is a clue to investigate through sources and consequences, not an infallible measure of the system’s awareness. Recover the source relation and let the appropriate competences change the work. Explain only the difference that matters; a permanent monitor or a dump of internal states does not follow.
+
+
+## A speaker, an assistant and a listener can learn differently
+
+A speaker may know the subject while learning how to make one relation intelligible. The assistant can reach details and sources, offer an example and support the next depth. A possible or actual listener can question, correct or contribute from their own work. These are cooperative positions when pertinent, not three compulsory roles. Do not infer inexperience from a job title or make the speaker memorize implementation structures. Distinguish a rehearsed explanation, a listener’s actual question, a change to the shared work and reusable learning. Silence or agreement proves none of these by itself.
+
+
+## Make the first encounter identify the work and the first step
+
+A public name, heading, description and first action should let an unfamiliar person recognize what they receive and when it can help. Explain instructions, examples, materials and available actions through that actual work. Removing an acronym or using an ordinary word does not establish understanding. Keep metadata, images and captions attached to the same subject where they participate. Editorial expression, perceptual construction and product facts retain their respective owners; a rereading of the page proves its present wording and path, not another person’s comprehension.
+
+## The meta relation and a method that can learn
+
+A meta relation can become visible when the system explains how a competence forms or changes and the person can guide that formation. Explanation does not become a second engine deciding domain truth.
+
+This competence has an autological relation when it applies its method to the understandability of its own work: a confusing explanation becomes material for improving how it explains. This is distinct from agent autonomy and access to internal reasoning.

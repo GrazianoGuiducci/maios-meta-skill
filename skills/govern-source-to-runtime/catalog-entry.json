@@ -1,7 +1,7 @@
 {
   "id": "dalla-sorgente-al-servizio",
   "name": "Govern Source to Runtime",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "state": "public_edition",
   "instruction_language": "en",
   "review_id": "44",
@@ -56,7 +56,10 @@
     "examples": [
       "Il calendario corretto non è ancora quello pubblico",
       "Un modello di analisi è pubblicato ma il servizio usa ancora il precedente",
-      "La guida PDF cambia nell’esportazione"
+      "La guida PDF cambia nell’esportazione",
+      "Un servizio bibliotecario e il controllo di salute che descriveva il guasto sbagliato",
+      "Una lista di mount riordinata causa un rollback prima della correzione dell’osservatore",
+      "L’export nomina la sorgente corretta ma cambia ciò che viene consegnato"
     ],
     "route": "/risorse/dalla-sorgente-al-servizio/",
     "description": "Collega revisione, pubblicazione, attivazione e riscontro, mantenendo recuperabile il passaggio."
@@ -71,7 +74,10 @@
     "examples": [
       "The corrected calendar is not yet the public calendar",
       "A published analysis model is not yet the model used by the service",
-      "A maintenance PDF changes during export"
+      "A maintenance PDF changes during export",
+      "A library service and a health check that described the wrong failure",
+      "A reordered mount list triggers a rollback before the observer is corrected",
+      "An export names the right source but changes the deliverable"
     ],
     "route": "/resources/dalla-sorgente-al-servizio/",
     "description": "Connect revision, publication, activation and observation while keeping the transition recoverable."
@@ -81,6 +87,6 @@
   "starter": "skills/govern-source-to-runtime/START_CHAT_EN.txt",
   "examples": "skills/govern-source-to-runtime/EXAMPLES.md",
   "presentation": "skills/govern-source-to-runtime/presentation.json",
-  "package": "dist/govern-source-to-runtime-0.1.1.zip",
+  "package": "dist/govern-source-to-runtime-0.1.2.zip",
   "maturity": "method_available_automation_candidate"
 }

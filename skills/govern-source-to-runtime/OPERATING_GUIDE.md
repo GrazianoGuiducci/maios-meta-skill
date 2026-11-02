@@ -54,3 +54,21 @@ Returning to the previous version and verifying that return are separate observa
 The method and deterministic validators are available; the kit does not provide universal automatic deployment. Each environment owns its executors, access and policy.
 
 An observed result can teach a reusable relation. A later non-identical use shows where that learning continues and where the method needs refinement.
+
+
+
+
+## Compare topology through complete records and the actual order contract
+
+First understand whether collection order has meaning in the selected contract. If it does not, compare complete canonical records while preserving multiplicity: source, destination, type, access mode, propagation and every other material property. A different enumeration can describe the same topology; sorting names alone can hide a real difference. If order expresses dependencies or execution, retain it. A rollback caused by an inadequate observer remains an actual rollback; correct that observer and qualify the new attempt without relabelling the first as successful.
+
+
+## Verify the exported artifact against the declared source identity
+
+A correct commit label does not guarantee that an export preserved source bytes or file modes. Reopen the produced archive and compare each selected member against the declared Git blobs/tree under the product’s exact byte and mode contract. Host newline conversion or omitted executable bits can change the artifact. Correct the export when source is already right; do not compensate by changing valid source or silently normalizing a byte-exact proof. Classify a historical test fixture by its actual role before excluding it as current private state. Preserve any declared transformation as a separate identity contract.
+
+## Publication learns from its actual path
+
+The method and deterministic validators are available; the kit does not provide universal automatic deployment. Each environment owns its executors, access and policy.
+
+An observed result can teach a reusable relation. A later non-identical use shows where that learning continues and where the method needs refinement.

@@ -29,3 +29,12 @@ A maintenance cooperative considers an assistant for preparing intervention repo
 The presentation separates the reports it can read, the rules and reasons guiding a proposal, and the environment that can save approved knowledge. A technician can teach the meaning of an observation; the responsible person can compare a proposal with the record; a team can monitor consequences where a service and mandate actually enable an action. These relationships can coexist. The explanation does not promise that a chat becomes an autonomous maintenance service after a prompt or that every task must pass through one adoption sequence.
 
 If a checklist improves, the cooperative’s method of working with AI changes. A later customer-facing service may also develop, with its own construction and evidence. The presentation keeps these two objects connected without treating the future service as delivered. A question from the audience can change the example, depth or proposed next step. This is an illustrative assignment, not a report of an installed customer system.
+
+
+
+
+## A cooperative presents its catalogue service without memorizing the implementation
+
+A cooperative introduces a service that compares archive records. Its spokesperson knows why provenance matters but does not need to memorize the assistant’s folder structure. In rehearsal, the assistant helps them say one complete relation: compare the two records with their sources, and preserve why a correction changes the next comparison. The selected visual and example support that relation; technical sources remain reachable. This is an illustrative exercise.
+
+A participant asks how the service distinguishes an approved correction from a suggestion. The spokesperson keeps direction while the assistant reaches the relevant source and observation, if those means are available. The question can reveal a missing capability, rather than requiring an invented answer. The project owner then understands the changed object; the presenting competence learns a useful bridge. A spoken explanation, a listener’s understanding and an installed service retain separate states. No public performance or client result is claimed.

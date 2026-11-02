@@ -3,9 +3,23 @@
 
 Governs the path from a selected change through publication to the result actually reached by its recipients.
 
+Governs the path from a selected change through publication to the result actually reached by its recipients.
+
 A change can be correct in a repository while a service still uses its previous version. This method reconstructs the actual connection and carries the entrusted effect through to observation.
 
 You can also use it without administering a server: distinguish a prepared document, its distributed file and the copy a recipient actually encounters. Included tools evaluate supplied data without performing publication.
+
+## The corrected calendar is not yet the public calendar
+
+An association publishes a calendar from a Git archive. Corrected opening hours have been shared, but the page still shows the old ones.
+
+Find which revision feeds the page, whether its controller acquired it and what visitors receive. Restarting a guessed service might change nothing.
+
+## Adapt the release to your environment
+
+Preserve the relationship between the selected change, delivered identity, means applying the effect and final observation. Repositories, people, controllers, destinations and recovery mechanisms vary.
+
+Bring the assignment, previous and proposed versions, project instructions and available observations. In chat you can form a verifiable plan; with suitable access, the method accompanies effects already entrusted to you.
 
 ## The corrected calendar is not yet the public calendar
 
@@ -57,6 +71,28 @@ Read back active identity, converged health and pertinent behavior. Compare exac
 ## Continue from the result actually observed
 
 Retain previous and active versions, completed checks, any recovery, unknowns and useful continuation with the release owner. Before resuming an interrupted attempt, observe what already happened. A contradiction reopens its dependent passage while preserving still-valid evidence and work. Return reusable corrections to the method without duplicating registers.
+
+## Continue through the actual project
+
+Keep the relationship between selected effect, revision actually reached, recovery and the next useful observation.
+
+Return the difference to the controller or method that must change, leaving product state and data with their owners.
+
+## Operating knowledge
+
+Read OPERATING_GUIDE.md and EXAMPLES.md. With no file access, use the complete START_CHAT_EN.txt. The method composes with complementary project competences; actual tools, persistence and authorized effects belong to the receiving environment.
+
+
+
+
+## Compare topology through complete records and the actual order contract
+
+First understand whether collection order has meaning in the selected contract. If it does not, compare complete canonical records while preserving multiplicity: source, destination, type, access mode, propagation and every other material property. A different enumeration can describe the same topology; sorting names alone can hide a real difference. If order expresses dependencies or execution, retain it. A rollback caused by an inadequate observer remains an actual rollback; correct that observer and qualify the new attempt without relabelling the first as successful.
+
+
+## Verify the exported artifact against the declared source identity
+
+A correct commit label does not guarantee that an export preserved source bytes or file modes. Reopen the produced archive and compare each selected member against the declared Git blobs/tree under the product’s exact byte and mode contract. Host newline conversion or omitted executable bits can change the artifact. Correct the export when source is already right; do not compensate by changing valid source or silently normalizing a byte-exact proof. Classify a historical test fixture by its actual role before excluding it as current private state. Preserve any declared transformation as a separate identity contract.
 
 ## Continue through the actual project
 
@@ -127,6 +163,24 @@ The method and deterministic validators are available; the kit does not provide 
 An observed result can teach a reusable relation. A later non-identical use shows where that learning continues and where the method needs refinement.
 
 
+
+
+## Compare topology through complete records and the actual order contract
+
+First understand whether collection order has meaning in the selected contract. If it does not, compare complete canonical records while preserving multiplicity: source, destination, type, access mode, propagation and every other material property. A different enumeration can describe the same topology; sorting names alone can hide a real difference. If order expresses dependencies or execution, retain it. A rollback caused by an inadequate observer remains an actual rollback; correct that observer and qualify the new attempt without relabelling the first as successful.
+
+
+## Verify the exported artifact against the declared source identity
+
+A correct commit label does not guarantee that an export preserved source bytes or file modes. Reopen the produced archive and compare each selected member against the declared Git blobs/tree under the product’s exact byte and mode contract. Host newline conversion or omitted executable bits can change the artifact. Correct the export when source is already right; do not compensate by changing valid source or silently normalizing a byte-exact proof. Classify a historical test fixture by its actual role before excluding it as current private state. Preserve any declared transformation as a separate identity contract.
+
+## Publication learns from its actual path
+
+The method and deterministic validators are available; the kit does not provide universal automatic deployment. Each environment owns its executors, access and policy.
+
+An observed result can teach a reusable relation. A later non-identical use shows where that learning continues and where the method needs refinement.
+
+
 # Worked examples
 
 Illustrative cases. Conditions, decisions and continuation are supplied to teach the method; these are not reports of customer results.
@@ -153,6 +207,22 @@ A network of libraries is updating its document-search service. The service cont
 An independent inspection finds the previous revision installed, its files clean and a successful bounded search. The handler shows the readiness route, which also answers successfully. The observations support a wrong sensor and an actual restored version; they do not show that every feature of either revision is correct. The release method keeps the failed rehearsal and its cause instead of calling it a product failure or a successful target activation.
 
 Before the next entrusted attempt, the AI qualifies the same readiness route on the current version, retains the previous artifact and checks the selected payload. It then carries only the entrusted activation and verifies readiness, exact revision and a pertinent search through their actual consumers. An unchanged unrelated service stays outside the restart scope. The example is illustrative: route names describe this fictional service, not paths to reuse on another host. The reusable lesson belongs to release observation and recovery; the library keeps its own search rules and catalogue.
+
+
+
+
+## A reordered mount list triggers a rollback before the observer is corrected
+
+An archive service release expects several mounts. The host returns the same complete mount records in another order, and the observer reports topology drift. The bounded release restores the previous service. That restoration really happened.
+
+The owner examines whether order is part of this contract, then compares complete records canonically with duplicates and modes preserved. A read-only flag or changed destination would still stop the release. The corrected observation supports a new qualified attempt of the same artifact. The first failure is retained as an observer failure, not rewritten as a successful deployment. The scenario is illustrative and does not require this mount layout elsewhere.
+
+
+## An export names the right source but changes the deliverable
+
+A team packages a command-line utility from a reviewed revision. On the publishing host, export converts line endings and omits executable mode information. The archive bears the expected version and commit, yet reopening it reveals different bytes and modes.
+
+The team compares selected archive members with canonical blobs and tree modes, corrects the export and checks the produced artifact again. A historical configured example in test fixtures is understood by its role; it is not removed merely because its path resembles current-instance state. The source needs no compensating edit. This illustrative case distinguishes source correctness, package construction and later installation; it does not claim a deployment or impose one archive tool.
 
 
 # Read-only release tools

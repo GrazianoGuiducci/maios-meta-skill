@@ -24,3 +24,19 @@ Una rete di biblioteche aggiorna il servizio di ricerca dei documenti. Il contra
 Un’osservazione indipendente trova installata la revisione precedente, con file puliti e una ricerca delimitata riuscita. L’handler mostra il percorso di disponibilità, che risponde positivamente. I riscontri sostengono un sensore errato e una versione effettivamente ripristinata; non attestano la correttezza di ogni funzione delle due revisioni. Il metodo conserva la prova fallita e la sua causa, anziché chiamarla guasto del prodotto o attivazione riuscita del target.
 
 Prima del successivo tentativo affidato, l’AI qualifica la stessa route sulla versione corrente, conserva l’artefatto precedente e verifica il payload selezionato. Conduce poi soltanto l’attivazione affidata e verifica disponibilità, revisione esatta e una ricerca pertinente attraverso i loro consumer reali. Un servizio estraneo invariato resta fuori dal riavvio. Il caso è illustrativo: i nomi delle route appartengono a questo servizio fittizio, non sono percorsi da riusare su un altro host. La lezione generale riguarda osservazione e recupero; la biblioteca conserva regole di ricerca e catalogo propri.
+
+
+
+
+## Una lista di mount riordinata causa un rollback prima della correzione dell’osservatore
+
+Il rilascio di un servizio d’archivio prevede più mount. L’host restituisce gli stessi record completi in un altro ordine e l’osservatore segnala deriva della topologia. Il rilascio circoscritto ripristina il servizio precedente. Quel ripristino è realmente avvenuto.
+
+Chi possiede il lavoro verifica se l’ordine faccia parte del contratto, poi confronta record completi in forma canonica, con duplicati e modalità conservati. Una proprietà di sola lettura o una destinazione diversa continuerebbero a fermare il rilascio. L’osservazione corretta sostiene un nuovo tentativo qualificato dello stesso artefatto. Il primo errore resta attribuito all’osservatore, senza diventare un deploy riuscito. Lo scenario è illustrativo e non prescrive questa topologia altrove.
+
+
+## L’export nomina la sorgente corretta ma cambia ciò che viene consegnato
+
+Un gruppo prepara un’utilità da riga di comando da una revisione riesaminata. Sull’host di pubblicazione, l’export converte i fine riga e omette informazioni sul modo eseguibile. L’archivio porta versione e commit attesi, ma riaprirlo rivela byte e modi diversi.
+
+Il gruppo confronta gli elementi selezionati con blob canonici e modi dell’albero, corregge l’export e verifica di nuovo l’artefatto prodotto. Un esempio configurato storico nelle fixture di test viene compreso per il suo ruolo; non è rimosso soltanto perché il percorso somiglia allo stato di un’istanza corrente. La sorgente non richiede correzioni compensative. Questo caso illustrativo distingue correttezza della sorgente, costruzione del pacchetto e installazione successiva; non attribuisce un deploy né impone uno strumento d’archivio.

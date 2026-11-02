@@ -2,7 +2,7 @@
 name: govern-source-to-runtime
 description: "Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone. Quando pubblichi un sito, rilasci software, aggiorni un servizio o devi capire perché ciò che è online differisce dalla sorgente."
 metadata:
-  version: 0.1.1
+  version: 0.1.2
   language: it
 ---
 
@@ -10,9 +10,23 @@ metadata:
 
 Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.
 
+Governa il percorso tra una modifica approvata, la sua pubblicazione e il risultato effettivamente raggiunto dalle persone.
+
 Una modifica può essere corretta nella repository mentre il servizio continua a usare la versione precedente. Il metodo ricostruisce il collegamento reale e conduce il solo effetto affidato fino al riscontro.
 
 Il sapere si usa anche senza amministrare un server: può distinguere un documento preparato, il file distribuito e la copia realmente incontrata dal destinatario. Gli strumenti inclusi valutano dati dichiarati e non eseguono pubblicazioni.
+
+## Il calendario corretto non è ancora quello pubblico
+
+Un’associazione pubblica un calendario dal proprio archivio Git. La correzione degli orari è condivisa, ma la pagina continua a mostrare quelli vecchi.
+
+Occorre sapere quale revisione alimenta la pagina, se il controller l’ha acquisita e quale risultato il visitatore riceve: un nuovo riavvio scelto alla cieca potrebbe non cambiare nulla.
+
+## Adattare il rilascio al tuo ambiente
+
+Si conserva il rapporto fra cambiamento selezionato, identità consegnata, mezzo che applica l’effetto e osservazione finale. Cambiano repository, persone, controller, destinazioni e modalità di recupero.
+
+Porta l’incarico, la versione di partenza, quella proposta, le istruzioni del progetto e i riscontri disponibili. In chat il risultato può essere un piano verificabile; con accessi adeguati il metodo accompagna gli effetti già affidati.
 
 ## Il calendario corretto non è ancora quello pubblico
 
@@ -64,6 +78,28 @@ Rileggi identità attiva, salute convergente e comportamento pertinente. Confron
 ## Continuare dal risultato effettivamente osservato
 
 Conserva versione precedente e attiva, controlli compiuti, eventuale recupero, ignoti e seguito utile presso il rilascio. Prima di riprendere un tentativo interrotto osserva che cosa è già accaduto. Una contraddizione riapre il passaggio da cui dipende, preservando prove e lavoro ancora validi. Restituisci al metodo la correzione riusabile senza creare registri duplicati.
+
+## Continuare attraverso il progetto reale
+
+Conserva il collegamento fra effetto selezionato, revisione realmente raggiunta, recupero e prossimo riscontro utile.
+
+Restituisci la differenza al controller o al metodo che deve cambiare, lasciando stato del prodotto e dati presso i loro responsabili.
+
+## Sapere operativo
+
+Leggi GUIDA_OPERATIVA_IT.md ed ESEMPI_IT.md. Senza accesso ai file usa AVVIO_CHAT_IT.txt completo. Il metodo si compone con le competenze complementari del progetto; strumenti effettivi, persistenza ed effetti autorizzati appartengono al ricevente.
+
+
+
+
+## Confrontare la topologia con record completi e il vero contratto d’ordine
+
+Comprendi prima se l’ordine della collezione abbia significato nel contratto selezionato. Se non lo ha, confronta record canonici completi conservando le molteplicità: sorgente, destinazione, tipo, modalità di accesso, propagazione e ogni altra proprietà materiale. Un’enumerazione diversa può descrivere la stessa topologia; ordinare soltanto i nomi può nascondere una differenza reale. Se l’ordine esprime dipendenze o esecuzione, mantienilo. Un rollback dovuto a un osservatore inadeguato resta un rollback effettivo; correggi l’osservatore e qualifica il nuovo tentativo senza dichiarare riuscito il primo.
+
+
+## Verificare l’artefatto esportato contro l’identità sorgente dichiarata
+
+Un’etichetta di commit corretta non garantisce che l’export abbia conservato byte e modi dei file. Riapri l’archivio prodotto e confronta ogni elemento selezionato con blob e albero Git dichiarati, secondo il contratto esatto del prodotto per byte e modi. Conversione dei fine riga o perdita dei bit di esecuzione possono cambiare l’artefatto. Correggi l’export quando la sorgente è già giusta; non compensare modificando sorgenti valide o normalizzando silenziosamente una prova byte per byte. Comprendi il ruolo di una fixture storica di test prima di escluderla come stato privato corrente. Una trasformazione dichiarata conserva un contratto d’identità distinto.
 
 ## Continuare attraverso il progetto reale
 
