@@ -3354,7 +3354,7 @@
         "title": "Website and documentation updates for an evolving project",
         "description": "Instructions for giving an artificial intelligence assistant the job of updating public pages, guides and materials when a project’s capabilities, results or uses change.",
         "intro": "This guide provides a complete assignment for an artificial intelligence assistant: examine developments in a project and update its public explanations and materials. To begin, provide the project’s sources, the pages to compare and the changes the assistant may prepare or publish. The work may produce a correction, a new guide or a reusable resource; it may also confirm that an existing presentation remains accurate.",
-        "status": "First public edition · 0.1.0",
+        "status": "Edition 0.1.1 · Available method with illustrative examples",
         "origin": "Adapted from the recurring activity used to maintain MAIOS public resources. The original activity has produced resource and website updates. This portable edition supplies its operating method and illustrative adaptations; use in another project has its own results to observe.",
         "method": [
           {
@@ -3486,7 +3486,7 @@
         "title": "Aggiornamento del sito e della documentazione di un progetto",
         "description": "Istruzioni per affidare a un assistente di intelligenza artificiale l’aggiornamento di pagine, guide e materiali pubblici quando cambiano capacità, risultati o usi del progetto.",
         "intro": "Questa guida contiene un incarico completo da usare con un assistente di intelligenza artificiale: esaminare le novità di un progetto e aggiornare le spiegazioni e i materiali destinati al pubblico. Per iniziare occorrono le fonti del progetto, le pagine da confrontare e l’indicazione delle modifiche che l’assistente può preparare o pubblicare. Il lavoro può produrre una correzione, una nuova guida o una risorsa riusabile; può anche confermare che una presentazione è ancora corretta.",
-        "status": "Prima edizione pubblica · 0.1.0",
+        "status": "Edizione 0.1.1 · Metodo disponibile, esempi illustrativi",
         "origin": "Deriva dall’attività ricorrente che mantiene le risorse pubbliche MAIOS. L’attività originaria ha prodotto aggiornamenti di risorse e sito. Questa edizione portabile ne consegna il metodo operativo e adattamenti illustrativi; l’uso in un altro progetto avrà i propri risultati da osservare.",
         "method": [
           {

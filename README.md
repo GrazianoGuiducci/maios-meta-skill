@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competences and 1 adaptable AI activity for working with AI, forming competences and evolving their methods.**
+**48 competences and 1 guided assignment for working with AI, forming competences and evolving their methods.**
 
 Turn knowledge developed through MAIOS work into methods you can use in your own chat or agentic environment. Each resource includes an operating method, a complete chat starter, a guide and application examples.
 
@@ -24,11 +24,11 @@ Download a kit and copy its complete canonical folder into your project's `.agen
 
 The `skills/` directory contains the 48 operating entries. [Previous resource IDs](docs/LEGACY_PATHS.md) still work as installer selections and website routes.
 
-## AI activities to adapt
+## Assignments for artificial intelligence assistants
 
-Complete assignments that compose existing competences for concrete work. Each activity includes its method, guide, examples, autonomous starter and a kit with the supporting public competences. Begin on request or configure recurrence through your own environment.
+Complete instructions for giving an artificial intelligence assistant a job in your project, with a guide, practical examples and the source materials it needs. The first assignment concerns a project’s public website and documentation. Start in a conversation; recurring work uses the scheduler available in your own environment.
 
-- [Keep a project's public website and resources in step with its development](activities/public-representation/README.md) · 0.1.0
+- [Website and documentation updates for an evolving project](activities/public-representation/README.md) · 0.1.1
 
 ## Choose a resource
 

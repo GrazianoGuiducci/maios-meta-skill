@@ -24,7 +24,7 @@ State which repositories and public surfaces the AI may change and whether it ma
 
 Inspect a representative reader path and the material it delivers. For a changed package, compare the released bytes and its stated source; for a new explanation, check the generated language and first-use path. Appropriate checks follow the property at stake. Preserve what the observation actually establishes. A correct page or passing test does not establish another person's understanding, adoption or a model's assimilation. Continue from new consequences rather than repeating an unchanged verification.
 
-## Origin and status
+## MAIOS origin and the status of this transferable guide
 
 Adapted from the recurring activity used to maintain MAIOS public resources. The original activity has produced resource and website updates. This portable edition supplies its operating method and illustrative adaptations; use in another project has its own results to observe.
 

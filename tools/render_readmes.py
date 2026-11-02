@@ -145,7 +145,7 @@ La directory `skills/` contiene i 25 ingressi operativi. Gli [ID precedenti](doc
         text = text.rstrip()+'\n\n'+adoption+'\n'
         activities = json.loads((root/'catalog.json').read_text(encoding='utf-8')).get('activities', [])
         if activities:
-            text = text.replace('**'+str(len(resources))+' resources for', '**'+str(len(resources))+' competences and '+str(len(activities))+' adaptable AI activity for', 1) if en else text.replace('**'+str(len(resources))+' risorse per', '**'+str(len(resources))+' competenze e '+str(len(activities))+' attività AI da adattare per', 1)
+            text = text.replace('**'+str(len(resources))+' resources for', '**'+str(len(resources))+' competences and '+str(len(activities))+' guided assignment for', 1) if en else text.replace('**'+str(len(resources))+' risorse per', '**'+str(len(resources))+' competenze e '+str(len(activities))+' incarico con istruzioni per', 1)
             lang = 'en' if en else 'it'
             heading = '## ' + activities[0][lang]['category']
             intro = ('Complete instructions for giving an artificial intelligence assistant a job in your project, with a guide, practical examples and the source materials it needs. The first assignment concerns a project’s public website and documentation. Start in a conversation; recurring work uses the scheduler available in your own environment.' if en else 'Istruzioni complete per affidare un lavoro a un assistente di intelligenza artificiale, con guida, esempi pratici e materiali da fornire. Il primo incarico riguarda il sito e la documentazione pubblica di un progetto. Si può iniziare in una conversazione; un lavoro ricorrente usa il sistema di programmazione disponibile nel proprio ambiente.')

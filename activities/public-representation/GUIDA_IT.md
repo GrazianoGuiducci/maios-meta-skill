@@ -24,7 +24,7 @@ Indica quali repository e superfici pubbliche l’AI può modificare e se può p
 
 Osserva un percorso rappresentativo del lettore e il materiale che consegna. Per un pacchetto cambiato, confronta byte distribuiti e sorgente dichiarata; per una nuova spiegazione, leggi la lingua generata e il percorso di primo uso. I controlli pertinenti seguono la proprietà in gioco. Conserva ciò che l’osservazione dimostra davvero. Una pagina corretta o un test passato non attestano comprensione, adozione umana o assimilazione di un modello. Prosegui dalle conseguenze nuove senza ripetere verifiche immutate.
 
-## Provenienza e stato
+## Origine MAIOS e stato della guida trasferibile
 
 Deriva dall’attività ricorrente che mantiene le risorse pubbliche MAIOS. L’attività originaria ha prodotto aggiornamenti di risorse e sito. Questa edizione portabile ne consegna il metodo operativo e adattamenti illustrativi; l’uso in un altro progetto avrà i propri risultati da osservare.
 

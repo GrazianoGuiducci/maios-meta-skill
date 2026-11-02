@@ -1,6 +1,6 @@
 # MAIOS Meta-Skill
 
-**48 competenze e 1 attività AI da adattare per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
+**48 competenze e 1 incarico con istruzioni per lavorare con l’AI, formare competenze e farne evolvere il metodo.**
 
 [English](README.md) · [Risorse sul sito](https://maios.it/risorse/) · [Installare in Codex](docs/INSTALL_IT.md) · [Guida d’uso](docs/USO.md) · [Concetti](docs/CONCETTI.md)
 
@@ -22,11 +22,11 @@ Un [caso illustrativo mostra come le competenze partecipano a un progetto MAIOS]
 
 Scopri [come adattare i metodi a formazione, cultura, servizi e ricerca](docs/ADATTARE.md). MKCV, il metodo di produzione video, è **beta e in apprendimento**.
 
-## Attività AI da adattare
+## Incarichi per assistenti di intelligenza artificiale
 
-Incarichi completi che compongono competenze esistenti per un lavoro concreto. Ogni attività include metodo, guida, esempi, avvio autonomo e un kit con le competenze pubbliche di supporto. Parti su richiesta o configura una ricorrenza nel tuo ambiente.
+Istruzioni complete per affidare un lavoro a un assistente di intelligenza artificiale, con guida, esempi pratici e materiali da fornire. Il primo incarico riguarda il sito e la documentazione pubblica di un progetto. Si può iniziare in una conversazione; un lavoro ricorrente usa il sistema di programmazione disponibile nel proprio ambiente.
 
-- [Mantenere sito e risorse pubbliche al passo con un progetto che evolve](activities/public-representation/GUIDA_IT.md) · 0.1.0
+- [Aggiornamento del sito e della documentazione di un progetto](activities/public-representation/GUIDA_IT.md) · 0.1.1
 
 ## Scegliere una risorsa
 
