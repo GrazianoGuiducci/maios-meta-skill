@@ -12,9 +12,13 @@ Understand the system’s purpose and operating form, its current work, the peop
 
 Read the system’s living sources, operating guides, composed capabilities and contributions from other owners. Include pertinent results, proposals and publications without merging their states. Preserve who supports a statement, when it was supported and what observed effects make understandable now. An earlier report helps reach knowledge; it does not replace the current source. If useful knowledge already exists but the AP does not reach it, improve the connection that should let it participate.
 
+## The acquired comparison and differences that need depth
+
+Start from the latest comparison that remains relevant, what it covered and its limits, together with the present of the people and owners of the system. Include manual reviews and contributions from other work when they change continuation. Refresh affected sources and reopen the necessary depth when a new relation, an unreached source or a coverage uncertainty can change the result. Revisions and versions help locate differences; they do not exhaust the field. Meaning or use can change without new commits. Preserve still-valid results without turning the earlier comparison into a barrier to discovery.
+
 ## Surfaces that need to follow the same change
 
-Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself.
+Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself. Distinguish internal knowledge, a transferable method, an explanation for the person and materials actually received by a component. They may need different updates: an accurate page may accompany a method that needs completion, or an already-public resource may be missing from an assistant’s sources. Follow actual metadata and resource kinds: a guide, an activity and a skill may need different starting materials.
 
 ## Secondary updates that are useful to the system
 
@@ -28,13 +32,17 @@ The title, description and first step preserve the system’s object, case and o
 
 Carry the correction into the languages, operating content and consumers that actually depend on it, using their owners’ means. Product and capability owners determine facts; website, distribution and runtime owners hold their tools and contracts. A copy of an assistant’s knowledge, a configuration or an installation follows its actual controller and authority over the exact effect. Complete effects already entrusted and preserve concrete continuation for the others.
 
+## Evidence and costs relevant to the change
+
+Reuse knowledge and evidence while the identity, scope and conditions supporting them remain valid. A changed result receives the checks it needs; an earlier proof remains tied to the object it exercised. If a guide changes, check its text, languages and delivered materials; if what an assistant reads changes, verify its actual discovery and reading path. A paid comparison between models does not automatically follow from these changes. Use entrusted tools, models and budgets with checks proportionate to the difference. Missing access leaves an explicit limit and resumption condition while independent work continues.
+
 ## Revisions, concurrent contributions and actual delivery
 
 Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues.
 
 ## The AP’s method and instructions improve through its work
 
-A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted.
+A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available.
 
 ## The system’s present and useful notifications
 
@@ -48,6 +56,10 @@ The following guide describes configuration by the person: use it as a reference
 
 Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component.
 
+## The last useful comparison and checks to resume
+
+Make the previous comparison, sources reached, coverage limits and open steps available when they exist. The AP uses them together with current sources to determine where to deepen. A guide update may leave a public page accurate; an already-accurate resource may need only a connection to the system that should read it. Evidence is reused for what it actually checked, while a changed result receives its own checks.
+
 ## Complete AP instructions in the receiving system
 
 Read ACTIVITY.md and use START_CHAT_EN.txt as the complete instructions, adding your system’s context. The starter includes the method, guide and cases: it can be used in a conversation or as the entry for the receiver that will do the work. Make actual sources accessible and preserve the result and what the next cycle needs in the system’s guide.
@@ -58,7 +70,7 @@ Keep the complete AP folder in working knowledge and make ACTIVITY.md its entry.
 
 ## The controller, schedule and verification of the programmed AP
 
-Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration.
+Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available.
 
 ## Updates and effects entrusted to the AP
 
@@ -68,7 +80,7 @@ Specify which repositories, documentation, websites, knowledge data and other re
 
 Read back a representative path used by someone encountering the updated surface and the materials received by dependent components. For a changed package, compare distributed files with the declared source; for an operating instruction, check that the receiver reaches current knowledge. Keep a saved configuration distinct from an execution that happened. Preserve what the observation establishes, its limits and open steps; an accurate page or successful test does not prove general assimilation. The next cycle begins from the present and consequences without repeating unchanged checks.
 
-# Secondary update cases: software, a museum, research and a community
+# System update cases: software, museums, research, communities and libraries
 
 ## Software system: the new offline workflow reaches guides and packages
 
@@ -85,6 +97,14 @@ Illustrative case. A group publishes a revised model while a research-support sy
 ## Community system: a source guide improves the AP’s monitoring
 
 Illustrative case. A community project’s AP repeatedly reports that the website is unchanged while a system guide has developed a better operating method. The AP recognizes that it compared versions and pages without reaching that knowledge. It improves source entry, dependent documentation and its own continuity instructions within the entrusted scope. If it changes the job’s prompt, it preserves complete private configuration before and after and reads back the actual controller. Learning: correcting where knowledge failed to participate makes the following cycle useful.
+
+## Library network: an accurate guide reaches the assistant too
+
+Illustrative case. A library network has already updated its workshop guide and public page. A manual review shows that the facilitators’ assistant still reads a collection missing the new guide. The AP preserves the accurate texts, reaches the owner of assistant sources and completes the entrusted connection. It verifies that the guide can be found and its complete text read even when starting from a different question. It uses the documents belonging to a guide instead of requiring a skill installation structure. Learning: the same knowledge can be accurate on the website and still absent from the receiver that should use it.
+
+## Environmental research: reuse evidence without freezing the question
+
+Illustrative case. A group has already checked an analysis package and published a bilingual explanation. The field guide develops a different interpretation of the data without changing the method’s name. The AP reaches that source, updates the affected explanation and examples and preserves still-valid evidence for unchanged files. The changed text and its translation receive a new check. The work does not automatically require new paid inference calls. The job’s entry continues to reach the current guide and reasons for the change, with recoverable history. Learning: reusing evidence reduces repetition while sources and the question remain open to real differences.
 
 # System, surfaces and AP mandate to complete
 
@@ -103,6 +123,12 @@ Where are the living sources, owners and guide for continuation? Specify the mat
 ## Surfaces to keep aligned
 
 Which documentation, instructions, packages, website, catalogues and receiver knowledge depend on the system?
+
+[To complete]
+
+## Available comparisons, limits and resources
+
+Which comparisons and evidence remain relevant, which sources did they not cover and which steps remain open? Specify entrusted models, budgets or other resources without credentials.
 
 [To complete]
 

@@ -4,6 +4,10 @@
 
 The AP starts with the system entrusted to it: the work it performs, the documents and components that describe how it operates, and changes already under way. It reads available sources, guides and results to reconstruct the current state. It can recognize a change in capabilities or conditions of use even when the feature name and version number stay the same.
 
+## A comparison that deepens where it matters
+
+The AP resumes still-useful checks and their limits alongside current sources. It can concentrate work on differences that change a document, a resource or what a component receives. An unread source or a new possibility may need deeper work without a new version. Earlier evidence remains usable for the objects and conditions that it checked.
+
 ## Documentation and surfaces to keep coherent
 
 One development in the system can affect several places: an internal guide, user instructions, package files, the website or knowledge used by an assistant. The AP identifies which surfaces depend on the change and compares their contents with current sources. For example, a guide may already describe a new feature while the downloadable package still contains the old example.
@@ -20,6 +24,10 @@ The AP keeps what changed, the reasons for updates and open steps in the system�
 
 Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component.
 
+## The last useful comparison and checks to resume
+
+Make the previous comparison, sources reached, coverage limits and open steps available when they exist. The AP uses them together with current sources to determine where to deepen. A guide update may leave a public page accurate; an already-accurate resource may need only a connection to the system that should read it. Evidence is reused for what it actually checked, while a changed result receives its own checks.
+
 ## Complete AP instructions in the receiving system
 
 Read ACTIVITY.md and use START_CHAT_EN.txt as the complete instructions, adding your system’s context. The starter includes the method, guide and cases: it can be used in a conversation or as the entry for the receiver that will do the work. Make actual sources accessible and preserve the result and what the next cycle needs in the system’s guide.
@@ -30,7 +38,7 @@ Keep the complete AP folder in working knowledge and make ACTIVITY.md its entry.
 
 ## The controller, schedule and verification of the programmed AP
 
-Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration.
+Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available.
 
 ## Updates and effects entrusted to the AP
 
@@ -42,6 +50,6 @@ Read back a representative path used by someone encountering the updated surface
 
 ## Origin and status of the secondary-updates AP
 
-The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed.
+The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed. Edition 0.2.2 adds resumption from relevant comparisons, verification of received knowledge and evidence reuse by identity and scope, with adaptable illustrative cases.
 
 [Method](ACTIVITY.md) · [Complete starter](START_CHAT_EN.txt) · [Examples](EXAMPLES.md) · [Context](CONTEXT_EN.md) · [Italiano](GUIDA_IT.md)

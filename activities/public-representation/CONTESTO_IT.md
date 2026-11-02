@@ -18,6 +18,12 @@ Quali documentazioni, istruzioni, pacchetti, sito, cataloghi e conoscenze dei ri
 
 [Da completare]
 
+## Confronti già disponibili, limiti e risorse
+
+Quali confronti e prove sono ancora pertinenti, quali fonti non coprivano e quali seguiti restano aperti? Indica modelli, budget o altre risorse affidate, senza inserire credenziali.
+
+[Da completare]
+
 ## Controller, cadenza e notifiche
 
 Quale controller riceve l’AP? Indica evento o cadenza, fuso, destinatario e quando notificare; per una prima prova puoi selezionare un singolo ciclo.

@@ -1,4 +1,4 @@
-# Secondary update cases: software, a museum, research and a community
+# System update cases: software, museums, research, communities and libraries
 
 ## Software system: the new offline workflow reaches guides and packages
 
@@ -15,3 +15,11 @@ Illustrative case. A group publishes a revised model while a research-support sy
 ## Community system: a source guide improves the AP’s monitoring
 
 Illustrative case. A community project’s AP repeatedly reports that the website is unchanged while a system guide has developed a better operating method. The AP recognizes that it compared versions and pages without reaching that knowledge. It improves source entry, dependent documentation and its own continuity instructions within the entrusted scope. If it changes the job’s prompt, it preserves complete private configuration before and after and reads back the actual controller. Learning: correcting where knowledge failed to participate makes the following cycle useful.
+
+## Library network: an accurate guide reaches the assistant too
+
+Illustrative case. A library network has already updated its workshop guide and public page. A manual review shows that the facilitators’ assistant still reads a collection missing the new guide. The AP preserves the accurate texts, reaches the owner of assistant sources and completes the entrusted connection. It verifies that the guide can be found and its complete text read even when starting from a different question. It uses the documents belonging to a guide instead of requiring a skill installation structure. Learning: the same knowledge can be accurate on the website and still absent from the receiver that should use it.
+
+## Environmental research: reuse evidence without freezing the question
+
+Illustrative case. A group has already checked an analysis package and published a bilingual explanation. The field guide develops a different interpretation of the data without changing the method’s name. The AP reaches that source, updates the affected explanation and examples and preserves still-valid evidence for unchanged files. The changed text and its translation receive a new check. The work does not automatically require new paid inference calls. The job’s entry continues to reach the current guide and reasons for the change, with recoverable history. Learning: reusing evidence reduces repetition while sources and the question remain open to real differences.

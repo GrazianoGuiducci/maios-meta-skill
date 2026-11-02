@@ -3352,10 +3352,10 @@
     {
       "id": "public-representation",
       "name": "AP per Aggiornamenti secondari di sistema",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "kind": "activity",
       "folder": "activities/public-representation",
-      "package": "dist/secondary-system-updates-activity-0.2.1.zip",
+      "package": "dist/secondary-system-updates-activity-0.2.2.zip",
       "competences": [
         "form-public-metaskill-resources",
         "meta-activity",
@@ -3368,8 +3368,8 @@
         "title": "AP for secondary system updates",
         "description": "A scheduled activity that monitors the system and updates documentation and whatever is needed to keep the system coherent across its different surfaces.",
         "intro": "This AP follows the evolution of an autonomous system and carries out the secondary updates that follow from it. It reads current sources and work, identifies which documentation, guides, instructions, resources and other materials need to change, and carries the updates into the entrusted surfaces. It adapts to the receiving system and improves its method through the consequences of its work.",
-        "status": "Edition 0.2.1 · Available method with illustrative cases",
-        "origin": "The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed.",
+        "status": "Edition 0.2.2 · Available method with illustrative cases",
+        "origin": "The first source is the scheduled activity used to maintain MAIOS public resources. The operator’s formulation of 2 November 2026 selects the name AP for secondary system updates and makes system monitoring and alignment across different surfaces explicit. This edition transfers the method; configuration, execution and results in the receiving system remain to be observed. Edition 0.2.2 adds resumption from relevant comparisons, verification of received knowledge and evidence reuse by identity and scope, with adaptable illustrative cases.",
         "method": [
           {
             "title": "The current system and the AP’s mandate",
@@ -3380,8 +3380,12 @@
             "body": "Read the system’s living sources, operating guides, composed capabilities and contributions from other owners. Include pertinent results, proposals and publications without merging their states. Preserve who supports a statement, when it was supported and what observed effects make understandable now. An earlier report helps reach knowledge; it does not replace the current source. If useful knowledge already exists but the AP does not reach it, improve the connection that should let it participate."
           },
           {
+            "title": "The acquired comparison and differences that need depth",
+            "body": "Start from the latest comparison that remains relevant, what it covered and its limits, together with the present of the people and owners of the system. Include manual reviews and contributions from other work when they change continuation. Refresh affected sources and reopen the necessary depth when a new relation, an unreached source or a coverage uncertainty can change the result. Revisions and versions help locate differences; they do not exhaust the field. Meaning or use can change without new commits. Preserve still-valid results without turning the earlier comparison into a barrier to discovery."
+          },
+          {
             "title": "Surfaces that need to follow the same change",
-            "body": "Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself."
+            "body": "Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself. Distinguish internal knowledge, a transferable method, an explanation for the person and materials actually received by a component. They may need different updates: an accurate page may accompany a method that needs completion, or an already-public resource may be missing from an assistant’s sources. Follow actual metadata and resource kinds: a guide, an activity and a skill may need different starting materials."
           },
           {
             "title": "Secondary updates that are useful to the system",
@@ -3396,12 +3400,16 @@
             "body": "Carry the correction into the languages, operating content and consumers that actually depend on it, using their owners’ means. Product and capability owners determine facts; website, distribution and runtime owners hold their tools and contracts. A copy of an assistant’s knowledge, a configuration or an installation follows its actual controller and authority over the exact effect. Complete effects already entrusted and preserve concrete continuation for the others."
           },
           {
+            "title": "Evidence and costs relevant to the change",
+            "body": "Reuse knowledge and evidence while the identity, scope and conditions supporting them remain valid. A changed result receives the checks it needs; an earlier proof remains tied to the object it exercised. If a guide changes, check its text, languages and delivered materials; if what an assistant reads changes, verify its actual discovery and reading path. A paid comparison between models does not automatically follow from these changes. Use entrusted tools, models and budgets with checks proportionate to the difference. Missing access leaves an explicit limit and resumption condition while independent work continues."
+          },
+          {
             "title": "Revisions, concurrent contributions and actual delivery",
             "body": "Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues."
           },
           {
             "title": "The AP’s method and instructions improve through its work",
-            "body": "A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted."
+            "body": "A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available."
           },
           {
             "title": "The system’s present and useful notifications",
@@ -3414,6 +3422,10 @@
             "body": "Specify the system’s purpose, current state, sources, working guide and surfaces to maintain. Describe the updates entrusted to the AP and their owners. You can begin with one cycle on a concrete difference, such as a changed capability that requires updates to documentation, instructions and materials received by a component."
           },
           {
+            "title": "The last useful comparison and checks to resume",
+            "body": "Make the previous comparison, sources reached, coverage limits and open steps available when they exist. The AP uses them together with current sources to determine where to deepen. A guide update may leave a public page accurate; an already-accurate resource may need only a connection to the system that should read it. Evidence is reused for what it actually checked, while a changed result receives its own checks."
+          },
+          {
             "title": "Complete AP instructions in the receiving system",
             "body": "Read ACTIVITY.md and use START_CHAT_EN.txt as the complete instructions, adding your system’s context. The starter includes the method, guide and cases: it can be used in a conversation or as the entry for the receiver that will do the work. Make actual sources accessible and preserve the result and what the next cycle needs in the system’s guide."
           },
@@ -3423,7 +3435,7 @@
           },
           {
             "title": "The controller, schedule and verification of the programmed AP",
-            "body": "Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration."
+            "body": "Select the actual controller, an event or schedule, time zone, recipient and notification conditions. Give the job an entry that reaches the mandate, method, current sources and system guide. Use native tools to create or update the entrusted configuration and read back its saved identity, instructions, state and schedule. Preserve complete private before and after states when changing an existing job. A saved prompt transfers instructions; an actual wake depends on the receiver’s verified configuration. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available."
           },
           {
             "title": "Updates and effects entrusted to the AP",
@@ -3446,6 +3458,10 @@
           {
             "label": "Surfaces to keep aligned",
             "hint": "Which documentation, instructions, packages, website, catalogues and receiver knowledge depend on the system?"
+          },
+          {
+            "label": "Available comparisons, limits and resources",
+            "hint": "Which comparisons and evidence remain relevant, which sources did they not cover and which steps remain open? Specify entrusted models, budgets or other resources without credentials."
           },
           {
             "label": "Controller, schedule and notifications",
@@ -3480,14 +3496,22 @@
           {
             "title": "Community system: a source guide improves the AP’s monitoring",
             "body": "Illustrative case. A community project’s AP repeatedly reports that the website is unchanged while a system guide has developed a better operating method. The AP recognizes that it compared versions and pages without reaching that knowledge. It improves source entry, dependent documentation and its own continuity instructions within the entrusted scope. If it changes the job’s prompt, it preserves complete private configuration before and after and reads back the actual controller. Learning: correcting where knowledge failed to participate makes the following cycle useful."
+          },
+          {
+            "title": "Library network: an accurate guide reaches the assistant too",
+            "body": "Illustrative case. A library network has already updated its workshop guide and public page. A manual review shows that the facilitators’ assistant still reads a collection missing the new guide. The AP preserves the accurate texts, reaches the owner of assistant sources and completes the entrusted connection. It verifies that the guide can be found and its complete text read even when starting from a different question. It uses the documents belonging to a guide instead of requiring a skill installation structure. Learning: the same knowledge can be accurate on the website and still absent from the receiver that should use it."
+          },
+          {
+            "title": "Environmental research: reuse evidence without freezing the question",
+            "body": "Illustrative case. A group has already checked an analysis package and published a bilingual explanation. The field guide develops a different interpretation of the data without changing the method’s name. The AP reaches that source, updates the affected explanation and examples and preserves still-valid evidence for unchanged files. The changed text and its translation receive a new check. The work does not automatically require new paid inference calls. The job’s entry continues to reach the current guide and reasons for the change, with recoverable history. Learning: reusing evidence reduces repetition while sources and the question remain open to real differences."
           }
         ],
         "headings": {
           "guide": "Guide to the AP for secondary system updates",
-          "examples": "Secondary update cases: software, a museum, research and a community",
+          "examples": "System update cases: software, museums, research, communities and libraries",
           "context": "System, surfaces and AP mandate to complete",
           "method_section": "How the AP keeps the system coherent",
-          "examples_section": "Four cases of maintaining the system’s surfaces",
+          "examples_section": "Six cases of system maintenance and continuity",
           "use_section": "Configuring and using the AP in your system",
           "start_section": "AP instructions for the receiving system",
           "supports_section": "Competences included in the AP’s method",
@@ -3512,6 +3536,10 @@
             "body": "The AP starts with the system entrusted to it: the work it performs, the documents and components that describe how it operates, and changes already under way. It reads available sources, guides and results to reconstruct the current state. It can recognize a change in capabilities or conditions of use even when the feature name and version number stay the same."
           },
           {
+            "title": "A comparison that deepens where it matters",
+            "body": "The AP resumes still-useful checks and their limits alongside current sources. It can concentrate work on differences that change a document, a resource or what a component receives. An unread source or a new possibility may need deeper work without a new version. Earlier evidence remains usable for the objects and conditions that it checked."
+          },
+          {
             "title": "Documentation and surfaces to keep coherent",
             "body": "One development in the system can affect several places: an internal guide, user instructions, package files, the website or knowledge used by an assistant. The AP identifies which surfaces depend on the change and compares their contents with current sources. For example, a guide may already describe a new feature while the downloadable package still contains the old example."
           },
@@ -3533,8 +3561,8 @@
         "title": "AP per Aggiornamenti secondari di sistema",
         "description": "Attività programmata che monitora il sistema, aggiorna documentazioni e ciò che serve per mantenere coerente il sistema nelle diverse superfici.",
         "intro": "Questa AP segue l’evoluzione di un sistema autonomo e realizza gli aggiornamenti secondari che ne derivano. Legge le fonti e il lavoro attuale, riconosce quali documentazioni, guide, istruzioni, risorse e altri materiali devono cambiare e porta gli aggiornamenti nelle superfici affidate. Si adatta al sistema che la riceve e migliora il proprio metodo attraverso le conseguenze del lavoro.",
-        "status": "Edizione 0.2.1 · Metodo disponibile, casi illustrativi",
-        "origin": "La prima sorgente è l’attività programmata che mantiene le risorse pubbliche MAIOS. La formulazione dell’operatore del 2 novembre 2026 seleziona il nome AP per Aggiornamenti secondari di sistema e rende esplicito il monitoraggio del sistema e l’allineamento delle diverse superfici. Questa edizione trasferisce il metodo; configurazione, esecuzione e risultati nel sistema ricevente restano da osservare.",
+        "status": "Edizione 0.2.2 · Metodo disponibile, casi illustrativi",
+        "origin": "La prima sorgente è l’attività programmata che mantiene le risorse pubbliche MAIOS. La formulazione dell’operatore del 2 novembre 2026 seleziona il nome AP per Aggiornamenti secondari di sistema e rende esplicito il monitoraggio del sistema e l’allineamento delle diverse superfici. Questa edizione trasferisce il metodo; configurazione, esecuzione e risultati nel sistema ricevente restano da osservare. L’edizione 0.2.2 aggiunge ripresa dai confronti pertinenti, verifica del sapere ricevuto e riuso delle prove secondo identità e ambito, con casi illustrativi adattabili.",
         "method": [
           {
             "title": "Il sistema attuale e il mandato dell’AP",
@@ -3545,8 +3573,12 @@
             "body": "Leggi le sorgenti vive del sistema, le guide operative, le capacità composte e i contributi degli altri responsabili. Includi risultati, proposte e pubblicazioni pertinenti senza confonderne lo stato. Conserva chi sostiene un’affermazione, quando era supportata e che cosa gli effetti osservati permettono di comprendere ora. Un rapporto precedente serve a raggiungere il sapere, non sostituisce la fonte corrente. Se un sapere utile esiste già ma l’AP non lo raggiunge, migliora il collegamento che deve farlo partecipare."
           },
           {
+            "title": "Il confronto acquisito e le differenze da approfondire",
+            "body": "Riparti dall’ultimo confronto ancora pertinente, da ciò che copriva e dai suoi limiti, insieme al presente delle persone e dei responsabili del sistema. Includi verifiche manuali e contributi di altri lavori quando cambiano il seguito. Rinfresca le fonti interessate e riapri la profondità necessaria quando una relazione nuova, una fonte non raggiunta o un dubbio di copertura può cambiare il risultato. Revisioni e versioni aiutano a localizzare le differenze; non esauriscono il campo. Un significato o un uso possono cambiare anche senza nuovi commit. Conserva i risultati ancora validi senza trasformare il confronto precedente in una barriera alla scoperta."
+          },
+          {
             "title": "Le superfici che devono seguire lo stesso cambiamento",
-            "body": "Confronta il sapere attuale con ciò che i diversi destinatari e componenti ricevono davvero: documentazione interna e pubblica, guide, istruzioni, cataloghi, pacchetti, sito e conoscenze di assistenti o altri riceventi. Segui le dipendenze reali e i rispettivi contratti. Una pagina aggiornata può ancora consegnare un archivio precedente; una guida corretta può restare fuori dalle fonti lette da un componente. Un cambiamento a una sorgente non aggiorna da solo tutte le sue copie o installazioni."
+            "body": "Confronta il sapere attuale con ciò che i diversi destinatari e componenti ricevono davvero: documentazione interna e pubblica, guide, istruzioni, cataloghi, pacchetti, sito e conoscenze di assistenti o altri riceventi. Segui le dipendenze reali e i rispettivi contratti. Una pagina aggiornata può ancora consegnare un archivio precedente; una guida corretta può restare fuori dalle fonti lette da un componente. Un cambiamento a una sorgente non aggiorna da solo tutte le sue copie o installazioni. Distingui sapere interno, metodo trasferibile, spiegazione per la persona e materiali effettivamente ricevuti da un componente. Possono richiedere aggiornamenti diversi: una pagina ancora corretta può accompagnare un metodo da completare, oppure una risorsa già pubblica può mancare tra le fonti di un assistente. Segui i metadati e il tipo effettivo della risorsa: una guida, un’attività e una skill possono richiedere materiali di avvio differenti."
           },
           {
             "title": "Gli aggiornamenti secondari utili al sistema",
@@ -3561,12 +3593,16 @@
             "body": "Porta la correzione nelle lingue, nei contenuti operativi e nei consumer realmente dipendenti, usando i mezzi dei rispettivi responsabili. Gli owner di prodotto e capacità determinano i fatti; quelli di sito, distribuzione e runtime possiedono i loro strumenti e contratti. Una copia della conoscenza di un assistente, una configurazione o un’installazione seguono il proprio controller e l’autorità sull’effetto esatto. Completa gli effetti già affidati e conserva il seguito concreto degli altri."
           },
           {
+            "title": "Le prove e i costi pertinenti al cambiamento",
+            "body": "Riusa sapere e prove finché identità, ambito e condizioni che li sostengono rimangono validi. Quando il risultato cambia, riceve le verifiche necessarie; una prova precedente resta relativa all’oggetto che ha esercitato. Se cambia una guida, controlla il testo, le lingue e il materiale distribuito; se cambia ciò che legge un assistente, verifica il percorso effettivo con cui il materiale viene trovato e letto. Un confronto a pagamento tra modelli non segue automaticamente da queste modifiche. Usa strumenti, modelli e budget affidati, con controlli proporzionati alla differenza. Un accesso mancante lascia espliciti limite e condizione di ripresa, mentre il lavoro indipendente continua."
+          },
+          {
             "title": "Revisioni, contributi concorrenti e consegna effettiva",
             "body": "Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente."
           },
           {
             "title": "Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro",
-            "body": "Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una possibilità concreta possono cambiare il prossimo ciclo. Restituisci subito l’apprendimento riusabile alla competenza e alla guida pertinenti. Migliora le istruzioni dell’AP nel perimetro affidato. Per cambiare un job reale, leggine identità e configurazione correnti, conserva privatamente il prima completo, usa il controller effettivo, rileggi il risultato salvato e conserva il dopo completo. Scopo, cadenza, destinatario, spese e autorità mantengono la determinazione della persona finché non ne viene affidato anche il cambiamento."
+            "body": "Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una possibilità concreta possono cambiare il prossimo ciclo. Restituisci subito l’apprendimento riusabile alla competenza e alla guida pertinenti. Migliora le istruzioni dell’AP nel perimetro affidato. Per cambiare un job reale, leggine identità e configurazione correnti, conserva privatamente il prima completo, usa il controller effettivo, rileggi il risultato salvato e conserva il dopo completo. Scopo, cadenza, destinatario, spese e autorità mantengono la determinazione della persona finché non ne viene affidato anche il cambiamento. Il job può avere un ingresso breve che raggiunge mandato, metodo, guida corrente e ragioni del seguito, quando il suo ambiente rende davvero accessibili quei materiali. Conserva la storia recuperabile nel luogo pertinente, senza far crescere il prompt con ogni ricevuta. In una conversazione che non può raggiungere file persistenti, usa invece l’avvio completo e rendi disponibile il contesto necessario."
           },
           {
             "title": "Il presente del sistema e le notifiche utili",
@@ -3579,6 +3615,10 @@
             "body": "Indica scopo, stato attuale, fonti, guida di lavoro e superfici del sistema da mantenere. Descrivi gli aggiornamenti affidati all’AP e i loro responsabili. Per iniziare puoi selezionare un primo ciclo su una differenza concreta, per esempio una capacità cambiata che richiede di aggiornare documentazione, istruzioni e materiali ricevuti da un componente."
           },
           {
+            "title": "L’ultimo confronto utile e le verifiche da riprendere",
+            "body": "Rendi disponibili il confronto precedente, le fonti raggiunte, i limiti di copertura e i passaggi aperti, se esistono. L’AP li usa insieme alle sorgenti attuali per decidere dove approfondire. Un aggiornamento della guida può lasciare corretta la pagina pubblica; una risorsa già corretta può richiedere soltanto il collegamento al sistema che deve leggerla. Le prove si riusano per ciò che verificavano davvero, mentre il risultato cambiato riceve controlli propri."
+          },
+          {
             "title": "Le istruzioni complete dell’AP nel sistema ricevente",
             "body": "Leggi ATTIVITA.md e usa AVVIO_CHAT_IT.txt come istruzioni complete, aggiungendo il contesto del tuo sistema. L’avvio include metodo, guida e casi: può essere usato in una conversazione o come ingresso del ricevente che svolgerà il lavoro. Rendi accessibili le fonti effettive e conserva nella guida del sistema il risultato e ciò che serve al prossimo ciclo."
           },
@@ -3588,7 +3628,7 @@
           },
           {
             "title": "Il controller, la cadenza e la verifica dell’AP programmata",
-            "body": "Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinatario e le condizioni di notifica. Consegna al job un ingresso che raggiunga mandato, metodo, fonti correnti e guida del sistema. Usa gli strumenti nativi per creare o aggiornare la configurazione affidata e rileggi identità, istruzioni, stato e calendario salvati. Conserva privatamente prima e dopo quando cambi un job esistente. Un prompt salvato trasferisce istruzioni; il risveglio reale dipende dalla configurazione verificata del ricevente."
+            "body": "Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinatario e le condizioni di notifica. Consegna al job un ingresso che raggiunga mandato, metodo, fonti correnti e guida del sistema. Usa gli strumenti nativi per creare o aggiornare la configurazione affidata e rileggi identità, istruzioni, stato e calendario salvati. Conserva privatamente prima e dopo quando cambi un job esistente. Un prompt salvato trasferisce istruzioni; il risveglio reale dipende dalla configurazione verificata del ricevente. Il job può avere un ingresso breve che raggiunge mandato, metodo, guida corrente e ragioni del seguito, quando il suo ambiente rende davvero accessibili quei materiali. Conserva la storia recuperabile nel luogo pertinente, senza far crescere il prompt con ogni ricevuta. In una conversazione che non può raggiungere file persistenti, usa invece l’avvio completo e rendi disponibile il contesto necessario."
           },
           {
             "title": "Gli aggiornamenti e gli effetti affidati all’AP",
@@ -3611,6 +3651,10 @@
           {
             "label": "Superfici da mantenere allineate",
             "hint": "Quali documentazioni, istruzioni, pacchetti, sito, cataloghi e conoscenze dei riceventi dipendono dal sistema?"
+          },
+          {
+            "label": "Confronti già disponibili, limiti e risorse",
+            "hint": "Quali confronti e prove sono ancora pertinenti, quali fonti non coprivano e quali seguiti restano aperti? Indica modelli, budget o altre risorse affidate, senza inserire credenziali."
           },
           {
             "label": "Controller, cadenza e notifiche",
@@ -3645,14 +3689,22 @@
           {
             "title": "Sistema di comunità: una guida sorgente migliora il monitoraggio dell’AP",
             "body": "Caso illustrativo. L’AP di un progetto di comunità produce ripetutamente rapporti sul sito invariato, mentre una guida del sistema ha sviluppato un metodo operativo migliore. L’AP riconosce che confrontava versioni e pagine ma non raggiungeva quel sapere. Migliora l’ingresso alle fonti, le documentazioni dipendenti e le proprie istruzioni di continuità nel perimetro affidato. Se cambia il prompt del job, conserva privatamente la configurazione completa prima e dopo e rilegge il controller reale. Apprendimento: correggere il punto in cui il sapere non partecipava rende utile il ciclo seguente."
+          },
+          {
+            "title": "Biblioteca: la guida corretta raggiunge anche l’assistente",
+            "body": "Caso illustrativo. Una rete di biblioteche ha già aggiornato la guida dei laboratori e la pagina pubblica. Un confronto manuale mostra che l’assistente per i facilitatori legge ancora una raccolta priva della nuova guida. L’AP conserva i testi corretti, raggiunge il responsabile delle fonti dell’assistente e completa il collegamento affidato. Verifica che la guida sia reperibile e che il testo completo venga letto anche partendo da un’altra domanda. Usa i documenti propri della guida, senza richiederle la struttura d’installazione di una skill. Apprendimento: lo stesso sapere può essere corretto sul sito e ancora assente dal ricevente che deve usarlo."
+          },
+          {
+            "title": "Ricerca ambientale: riprendere le prove senza congelare la domanda",
+            "body": "Caso illustrativo. Un gruppo ha già verificato un pacchetto di analisi e pubblicato una spiegazione bilingue. La guida di campo sviluppa una diversa interpretazione dei dati senza cambiare il nome del metodo. L’AP raggiunge quella fonte, aggiorna spiegazione ed esempi interessati e conserva le prove ancora valide sui file rimasti identici. Il testo cambiato e la sua traduzione ricevono una nuova verifica. Il lavoro non richiede automaticamente nuove inferenze a pagamento. L’ingresso del job continua a raggiungere la guida corrente e le ragioni del cambiamento, con storia recuperabile. Apprendimento: riusare le prove riduce ripetizioni, mentre fonti e domanda restano aperte alle differenze reali."
           }
         ],
         "headings": {
           "guide": "Guida all’AP per Aggiornamenti secondari di sistema",
-          "examples": "Casi di aggiornamento secondario: software, museo, ricerca e comunità",
+          "examples": "Casi di aggiornamento del sistema: software, musei, ricerca, comunità e biblioteche",
           "context": "Sistema, superfici e mandato dell’AP da compilare",
           "method_section": "Come l’AP mantiene coerente il sistema",
-          "examples_section": "Quattro casi di manutenzione delle superfici del sistema",
+          "examples_section": "Sei casi di manutenzione e continuità del sistema",
           "use_section": "La configurazione e l’uso dell’AP nel proprio sistema",
           "start_section": "Le istruzioni dell’AP per il sistema ricevente",
           "supports_section": "Le competenze incluse nel metodo dell’AP",
@@ -3675,6 +3727,10 @@
           {
             "title": "Il sistema che l’AP osserva",
             "body": "L’AP parte dal sistema che le viene affidato: quale lavoro svolge, quali documenti e componenti ne descrivono il funzionamento e quali cambiamenti sono in corso. Legge fonti, guide e risultati disponibili per ricostruire lo stato attuale. Può riconoscere un cambiamento di capacità o di condizioni d’uso anche quando il nome della funzione e il numero di versione sono rimasti uguali."
+          },
+          {
+            "title": "Il confronto che approfondisce dove serve",
+            "body": "L’AP riprende le verifiche già utili e i loro limiti, insieme alle fonti attuali. Può così concentrare il lavoro sulle differenze che cambiano un documento, una risorsa o ciò che un componente riceve. Una fonte non ancora letta o una nuova possibilità può richiedere un approfondimento anche senza una nuova versione. Le prove precedenti restano utilizzabili per gli oggetti e le condizioni che verificavano."
           },
           {
             "title": "Documentazioni e superfici da mantenere coerenti",

@@ -1,4 +1,4 @@
-# Casi di aggiornamento secondario: software, museo, ricerca e comunità
+# Casi di aggiornamento del sistema: software, musei, ricerca, comunità e biblioteche
 
 ## Sistema software: il nuovo uso offline attraversa guide e pacchetti
 
@@ -15,3 +15,11 @@ Caso illustrativo. Un gruppo pubblica un modello rivisto mentre un sistema di su
 ## Sistema di comunità: una guida sorgente migliora il monitoraggio dell’AP
 
 Caso illustrativo. L’AP di un progetto di comunità produce ripetutamente rapporti sul sito invariato, mentre una guida del sistema ha sviluppato un metodo operativo migliore. L’AP riconosce che confrontava versioni e pagine ma non raggiungeva quel sapere. Migliora l’ingresso alle fonti, le documentazioni dipendenti e le proprie istruzioni di continuità nel perimetro affidato. Se cambia il prompt del job, conserva privatamente la configurazione completa prima e dopo e rilegge il controller reale. Apprendimento: correggere il punto in cui il sapere non partecipava rende utile il ciclo seguente.
+
+## Biblioteca: la guida corretta raggiunge anche l’assistente
+
+Caso illustrativo. Una rete di biblioteche ha già aggiornato la guida dei laboratori e la pagina pubblica. Un confronto manuale mostra che l’assistente per i facilitatori legge ancora una raccolta priva della nuova guida. L’AP conserva i testi corretti, raggiunge il responsabile delle fonti dell’assistente e completa il collegamento affidato. Verifica che la guida sia reperibile e che il testo completo venga letto anche partendo da un’altra domanda. Usa i documenti propri della guida, senza richiederle la struttura d’installazione di una skill. Apprendimento: lo stesso sapere può essere corretto sul sito e ancora assente dal ricevente che deve usarlo.
+
+## Ricerca ambientale: riprendere le prove senza congelare la domanda
+
+Caso illustrativo. Un gruppo ha già verificato un pacchetto di analisi e pubblicato una spiegazione bilingue. La guida di campo sviluppa una diversa interpretazione dei dati senza cambiare il nome del metodo. L’AP raggiunge quella fonte, aggiorna spiegazione ed esempi interessati e conserva le prove ancora valide sui file rimasti identici. Il testo cambiato e la sua traduzione ricevono una nuova verifica. Il lavoro non richiede automaticamente nuove inferenze a pagamento. L’ingresso del job continua a raggiungere la guida corrente e le ragioni del cambiamento, con storia recuperabile. Apprendimento: riusare le prove riduce ripetizioni, mentre fonti e domanda restano aperte alle differenze reali.

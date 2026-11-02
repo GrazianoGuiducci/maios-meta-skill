@@ -10,9 +10,13 @@ Understand the system’s purpose and operating form, its current work, the peop
 
 Read the system’s living sources, operating guides, composed capabilities and contributions from other owners. Include pertinent results, proposals and publications without merging their states. Preserve who supports a statement, when it was supported and what observed effects make understandable now. An earlier report helps reach knowledge; it does not replace the current source. If useful knowledge already exists but the AP does not reach it, improve the connection that should let it participate.
 
+## The acquired comparison and differences that need depth
+
+Start from the latest comparison that remains relevant, what it covered and its limits, together with the present of the people and owners of the system. Include manual reviews and contributions from other work when they change continuation. Refresh affected sources and reopen the necessary depth when a new relation, an unreached source or a coverage uncertainty can change the result. Revisions and versions help locate differences; they do not exhaust the field. Meaning or use can change without new commits. Preserve still-valid results without turning the earlier comparison into a barrier to discovery.
+
 ## Surfaces that need to follow the same change
 
-Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself.
+Compare current knowledge with what different recipients and components actually receive: internal and public documentation, guides, instructions, catalogues, packages, websites and the knowledge of assistants or other receivers. Follow real dependencies and their contracts. An updated page may still deliver an older archive; an accurate guide may remain outside the sources read by a component. Changing one source does not update all its copies or installations by itself. Distinguish internal knowledge, a transferable method, an explanation for the person and materials actually received by a component. They may need different updates: an accurate page may accompany a method that needs completion, or an already-public resource may be missing from an assistant’s sources. Follow actual metadata and resource kinds: a guide, an activity and a skill may need different starting materials.
 
 ## Secondary updates that are useful to the system
 
@@ -26,13 +30,17 @@ The title, description and first step preserve the system’s object, case and o
 
 Carry the correction into the languages, operating content and consumers that actually depend on it, using their owners’ means. Product and capability owners determine facts; website, distribution and runtime owners hold their tools and contracts. A copy of an assistant’s knowledge, a configuration or an installation follows its actual controller and authority over the exact effect. Complete effects already entrusted and preserve concrete continuation for the others.
 
+## Evidence and costs relevant to the change
+
+Reuse knowledge and evidence while the identity, scope and conditions supporting them remain valid. A changed result receives the checks it needs; an earlier proof remains tied to the object it exercised. If a guide changes, check its text, languages and delivered materials; if what an assistant reads changes, verify its actual discovery and reading path. A paid comparison between models does not automatically follow from these changes. Use entrusted tools, models and budgets with checks proportionate to the difference. Missing access leaves an explicit limit and resumption condition while independent work continues.
+
 ## Revisions, concurrent contributions and actual delivery
 
 Before writing, qualify the revision, destination, access and concurrent work. Use an isolated lane when useful; reread shared updates before commits, pushes or publication and reconcile pertinent contributions while preserving the rest. Complete source continuity under the system’s policy and protect credentials. Read back what is delivered: committed files, distributed packages, visible documentation and receiver state have distinct identities. An impediment delimits that effect while independent work continues.
 
 ## The AP’s method and instructions improve through its work
 
-A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted.
+A missed source, incomplete update, misunderstood explanation or concrete possibility can change the next cycle. Return reusable learning immediately to the pertinent competence and guide. Improve the AP’s instructions within the entrusted scope. To change a real job, read its current identity and configuration, preserve the complete previous state privately, use the actual controller, read back the saved result and preserve the complete new state. Purpose, schedule, recipient, spending and authority remain the person’s determinations until changing them is also entrusted. The job can have a short entry that reaches its mandate, method, current guide and reasons for continuation when its environment makes those materials genuinely accessible. Keep history recoverable in the appropriate place without growing the prompt with every receipt. In a conversation that cannot reach persistent files, use the complete starter instead and make the necessary context available.
 
 ## The system’s present and useful notifications
 

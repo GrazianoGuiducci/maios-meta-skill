@@ -1,3 +1,14 @@
+# Secondary System Updates 0.2.2 - 2 November 2026
+
+The complete bilingual AP now resumes relevant comparisons with their coverage
+limits, distinguishes internal knowledge, public method, reader explanation
+and actual recipient materials, and reuses evidence within its identity and
+scope. Two new illustrative cases concern a library assistant missing a guide
+and an environmental research explanation that changes without a new method
+name. The Project Radar0.1.0 and all other editions retain their own source
+and immutable archive identities. Native jobs and recipient execution are
+configured and verified in the receiving environment.
+
 # Project possibilities Radar — 2 November 2026
 
 The collection has 48 competence entries and two scheduled activities (AP).

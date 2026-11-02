@@ -18,6 +18,12 @@ Which documentation, instructions, packages, website, catalogues and receiver kn
 
 [To complete]
 
+## Available comparisons, limits and resources
+
+Which comparisons and evidence remain relevant, which sources did they not cover and which steps remain open? Specify entrusted models, budgets or other resources without credentials.
+
+[To complete]
+
 ## Controller, schedule and notifications
 
 Which controller receives the AP? Specify an event or schedule, time zone, recipient and notification conditions; for a first trial you can select a single cycle.

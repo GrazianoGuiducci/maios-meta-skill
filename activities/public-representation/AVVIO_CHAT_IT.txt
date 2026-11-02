@@ -12,9 +12,13 @@ Comprendi lo scopo e la forma operativa del sistema, il suo lavoro attuale, le p
 
 Leggi le sorgenti vive del sistema, le guide operative, le capacità composte e i contributi degli altri responsabili. Includi risultati, proposte e pubblicazioni pertinenti senza confonderne lo stato. Conserva chi sostiene un’affermazione, quando era supportata e che cosa gli effetti osservati permettono di comprendere ora. Un rapporto precedente serve a raggiungere il sapere, non sostituisce la fonte corrente. Se un sapere utile esiste già ma l’AP non lo raggiunge, migliora il collegamento che deve farlo partecipare.
 
+## Il confronto acquisito e le differenze da approfondire
+
+Riparti dall’ultimo confronto ancora pertinente, da ciò che copriva e dai suoi limiti, insieme al presente delle persone e dei responsabili del sistema. Includi verifiche manuali e contributi di altri lavori quando cambiano il seguito. Rinfresca le fonti interessate e riapri la profondità necessaria quando una relazione nuova, una fonte non raggiunta o un dubbio di copertura può cambiare il risultato. Revisioni e versioni aiutano a localizzare le differenze; non esauriscono il campo. Un significato o un uso possono cambiare anche senza nuovi commit. Conserva i risultati ancora validi senza trasformare il confronto precedente in una barriera alla scoperta.
+
 ## Le superfici che devono seguire lo stesso cambiamento
 
-Confronta il sapere attuale con ciò che i diversi destinatari e componenti ricevono davvero: documentazione interna e pubblica, guide, istruzioni, cataloghi, pacchetti, sito e conoscenze di assistenti o altri riceventi. Segui le dipendenze reali e i rispettivi contratti. Una pagina aggiornata può ancora consegnare un archivio precedente; una guida corretta può restare fuori dalle fonti lette da un componente. Un cambiamento a una sorgente non aggiorna da solo tutte le sue copie o installazioni.
+Confronta il sapere attuale con ciò che i diversi destinatari e componenti ricevono davvero: documentazione interna e pubblica, guide, istruzioni, cataloghi, pacchetti, sito e conoscenze di assistenti o altri riceventi. Segui le dipendenze reali e i rispettivi contratti. Una pagina aggiornata può ancora consegnare un archivio precedente; una guida corretta può restare fuori dalle fonti lette da un componente. Un cambiamento a una sorgente non aggiorna da solo tutte le sue copie o installazioni. Distingui sapere interno, metodo trasferibile, spiegazione per la persona e materiali effettivamente ricevuti da un componente. Possono richiedere aggiornamenti diversi: una pagina ancora corretta può accompagnare un metodo da completare, oppure una risorsa già pubblica può mancare tra le fonti di un assistente. Segui i metadati e il tipo effettivo della risorsa: una guida, un’attività e una skill possono richiedere materiali di avvio differenti.
 
 ## Gli aggiornamenti secondari utili al sistema
 
@@ -28,13 +32,17 @@ Titolo, descrizione e primo passo mantengono oggetto, caso e forma operativa del
 
 Porta la correzione nelle lingue, nei contenuti operativi e nei consumer realmente dipendenti, usando i mezzi dei rispettivi responsabili. Gli owner di prodotto e capacità determinano i fatti; quelli di sito, distribuzione e runtime possiedono i loro strumenti e contratti. Una copia della conoscenza di un assistente, una configurazione o un’installazione seguono il proprio controller e l’autorità sull’effetto esatto. Completa gli effetti già affidati e conserva il seguito concreto degli altri.
 
+## Le prove e i costi pertinenti al cambiamento
+
+Riusa sapere e prove finché identità, ambito e condizioni che li sostengono rimangono validi. Quando il risultato cambia, riceve le verifiche necessarie; una prova precedente resta relativa all’oggetto che ha esercitato. Se cambia una guida, controlla il testo, le lingue e il materiale distribuito; se cambia ciò che legge un assistente, verifica il percorso effettivo con cui il materiale viene trovato e letto. Un confronto a pagamento tra modelli non segue automaticamente da queste modifiche. Usa strumenti, modelli e budget affidati, con controlli proporzionati alla differenza. Un accesso mancante lascia espliciti limite e condizione di ripresa, mentre il lavoro indipendente continua.
+
 ## Revisioni, contributi concorrenti e consegna effettiva
 
 Prima delle scritture qualifica revisione, destinazione, accessi e lavoro concorrente. Usa una corsia isolata quando serve; rileggi gli aggiornamenti condivisi prima di commit, push o pubblicazione e riconcilia i contributi pertinenti preservando gli altri. Completa la continuità sorgente secondo la policy del sistema, proteggendo le credenziali. Rileggi ciò che viene consegnato: file nel commit, pacchetto distribuito, documentazione visibile e stato del ricevente hanno identità distinte. Un impedimento delimita quell’effetto e lascia proseguire il lavoro indipendente.
 
 ## Il metodo e le istruzioni dell’AP migliorano attraverso il lavoro
 
-Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una possibilità concreta possono cambiare il prossimo ciclo. Restituisci subito l’apprendimento riusabile alla competenza e alla guida pertinenti. Migliora le istruzioni dell’AP nel perimetro affidato. Per cambiare un job reale, leggine identità e configurazione correnti, conserva privatamente il prima completo, usa il controller effettivo, rileggi il risultato salvato e conserva il dopo completo. Scopo, cadenza, destinatario, spese e autorità mantengono la determinazione della persona finché non ne viene affidato anche il cambiamento.
+Una fonte mancata, un aggiornamento incompleto, una spiegazione fraintesa o una possibilità concreta possono cambiare il prossimo ciclo. Restituisci subito l’apprendimento riusabile alla competenza e alla guida pertinenti. Migliora le istruzioni dell’AP nel perimetro affidato. Per cambiare un job reale, leggine identità e configurazione correnti, conserva privatamente il prima completo, usa il controller effettivo, rileggi il risultato salvato e conserva il dopo completo. Scopo, cadenza, destinatario, spese e autorità mantengono la determinazione della persona finché non ne viene affidato anche il cambiamento. Il job può avere un ingresso breve che raggiunge mandato, metodo, guida corrente e ragioni del seguito, quando il suo ambiente rende davvero accessibili quei materiali. Conserva la storia recuperabile nel luogo pertinente, senza far crescere il prompt con ogni ricevuta. In una conversazione che non può raggiungere file persistenti, usa invece l’avvio completo e rendi disponibile il contesto necessario.
 
 ## Il presente del sistema e le notifiche utili
 
@@ -48,6 +56,10 @@ La guida seguente descrive la configurazione da parte della persona: usala come 
 
 Indica scopo, stato attuale, fonti, guida di lavoro e superfici del sistema da mantenere. Descrivi gli aggiornamenti affidati all’AP e i loro responsabili. Per iniziare puoi selezionare un primo ciclo su una differenza concreta, per esempio una capacità cambiata che richiede di aggiornare documentazione, istruzioni e materiali ricevuti da un componente.
 
+## L’ultimo confronto utile e le verifiche da riprendere
+
+Rendi disponibili il confronto precedente, le fonti raggiunte, i limiti di copertura e i passaggi aperti, se esistono. L’AP li usa insieme alle sorgenti attuali per decidere dove approfondire. Un aggiornamento della guida può lasciare corretta la pagina pubblica; una risorsa già corretta può richiedere soltanto il collegamento al sistema che deve leggerla. Le prove si riusano per ciò che verificavano davvero, mentre il risultato cambiato riceve controlli propri.
+
 ## Le istruzioni complete dell’AP nel sistema ricevente
 
 Leggi ATTIVITA.md e usa AVVIO_CHAT_IT.txt come istruzioni complete, aggiungendo il contesto del tuo sistema. L’avvio include metodo, guida e casi: può essere usato in una conversazione o come ingresso del ricevente che svolgerà il lavoro. Rendi accessibili le fonti effettive e conserva nella guida del sistema il risultato e ciò che serve al prossimo ciclo.
@@ -58,7 +70,7 @@ Conserva l’intera cartella dell’AP nel sapere di lavoro e rendi ATTIVITA.md 
 
 ## Il controller, la cadenza e la verifica dell’AP programmata
 
-Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinatario e le condizioni di notifica. Consegna al job un ingresso che raggiunga mandato, metodo, fonti correnti e guida del sistema. Usa gli strumenti nativi per creare o aggiornare la configurazione affidata e rileggi identità, istruzioni, stato e calendario salvati. Conserva privatamente prima e dopo quando cambi un job esistente. Un prompt salvato trasferisce istruzioni; il risveglio reale dipende dalla configurazione verificata del ricevente.
+Seleziona il controller effettivo, un evento o una cadenza, il fuso, il destinatario e le condizioni di notifica. Consegna al job un ingresso che raggiunga mandato, metodo, fonti correnti e guida del sistema. Usa gli strumenti nativi per creare o aggiornare la configurazione affidata e rileggi identità, istruzioni, stato e calendario salvati. Conserva privatamente prima e dopo quando cambi un job esistente. Un prompt salvato trasferisce istruzioni; il risveglio reale dipende dalla configurazione verificata del ricevente. Il job può avere un ingresso breve che raggiunge mandato, metodo, guida corrente e ragioni del seguito, quando il suo ambiente rende davvero accessibili quei materiali. Conserva la storia recuperabile nel luogo pertinente, senza far crescere il prompt con ogni ricevuta. In una conversazione che non può raggiungere file persistenti, usa invece l’avvio completo e rendi disponibile il contesto necessario.
 
 ## Gli aggiornamenti e gli effetti affidati all’AP
 
@@ -68,7 +80,7 @@ Indica quali repository, documentazioni, siti, dati di conoscenza e altri riceve
 
 Rileggi un percorso rappresentativo di chi usa la superficie aggiornata e il materiale ricevuto dai componenti dipendenti. Per un pacchetto cambiato confronta file distribuiti e sorgente dichiarata; per un’istruzione operativa verifica che il ricevente raggiunga il sapere attuale. Mantieni distinta una configurazione salvata da un’esecuzione avvenuta. Conserva ciò che la prova dimostra, i limiti e i passaggi aperti; una pagina corretta o un test riuscito non attestano assimilazione generale. Il ciclo successivo riparte dal presente e dalle conseguenze, senza ripetere verifiche immutate.
 
-# Casi di aggiornamento secondario: software, museo, ricerca e comunità
+# Casi di aggiornamento del sistema: software, musei, ricerca, comunità e biblioteche
 
 ## Sistema software: il nuovo uso offline attraversa guide e pacchetti
 
@@ -85,6 +97,14 @@ Caso illustrativo. Un gruppo pubblica un modello rivisto mentre un sistema di su
 ## Sistema di comunità: una guida sorgente migliora il monitoraggio dell’AP
 
 Caso illustrativo. L’AP di un progetto di comunità produce ripetutamente rapporti sul sito invariato, mentre una guida del sistema ha sviluppato un metodo operativo migliore. L’AP riconosce che confrontava versioni e pagine ma non raggiungeva quel sapere. Migliora l’ingresso alle fonti, le documentazioni dipendenti e le proprie istruzioni di continuità nel perimetro affidato. Se cambia il prompt del job, conserva privatamente la configurazione completa prima e dopo e rilegge il controller reale. Apprendimento: correggere il punto in cui il sapere non partecipava rende utile il ciclo seguente.
+
+## Biblioteca: la guida corretta raggiunge anche l’assistente
+
+Caso illustrativo. Una rete di biblioteche ha già aggiornato la guida dei laboratori e la pagina pubblica. Un confronto manuale mostra che l’assistente per i facilitatori legge ancora una raccolta priva della nuova guida. L’AP conserva i testi corretti, raggiunge il responsabile delle fonti dell’assistente e completa il collegamento affidato. Verifica che la guida sia reperibile e che il testo completo venga letto anche partendo da un’altra domanda. Usa i documenti propri della guida, senza richiederle la struttura d’installazione di una skill. Apprendimento: lo stesso sapere può essere corretto sul sito e ancora assente dal ricevente che deve usarlo.
+
+## Ricerca ambientale: riprendere le prove senza congelare la domanda
+
+Caso illustrativo. Un gruppo ha già verificato un pacchetto di analisi e pubblicato una spiegazione bilingue. La guida di campo sviluppa una diversa interpretazione dei dati senza cambiare il nome del metodo. L’AP raggiunge quella fonte, aggiorna spiegazione ed esempi interessati e conserva le prove ancora valide sui file rimasti identici. Il testo cambiato e la sua traduzione ricevono una nuova verifica. Il lavoro non richiede automaticamente nuove inferenze a pagamento. L’ingresso del job continua a raggiungere la guida corrente e le ragioni del cambiamento, con storia recuperabile. Apprendimento: riusare le prove riduce ripetizioni, mentre fonti e domanda restano aperte alle differenze reali.
 
 # Sistema, superfici e mandato dell’AP da compilare
 
@@ -103,6 +123,12 @@ Dove sono le sorgenti vive, i responsabili e la guida da cui riprendere? Indica 
 ## Superfici da mantenere allineate
 
 Quali documentazioni, istruzioni, pacchetti, sito, cataloghi e conoscenze dei riceventi dipendono dal sistema?
+
+[Da completare]
+
+## Confronti già disponibili, limiti e risorse
+
+Quali confronti e prove sono ancora pertinenti, quali fonti non coprivano e quali seguiti restano aperti? Indica modelli, budget o altre risorse affidate, senza inserire credenziali.
 
 [Da completare]
 
