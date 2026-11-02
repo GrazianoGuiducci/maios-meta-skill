@@ -3,10 +3,10 @@
   "packages": [
     {
       "id": "public-representation",
-      "version": "0.2.0",
-      "source_revision": "02db6fe3f425ba49f9d59e49e3bc4bbcfcfa350e",
-      "package": "dist/secondary-system-updates-activity-0.2.0.zip",
-      "sha256": "d71c10a2e388fb8271df05eb23730208e69511085beab9fadda7a8a865cf5778",
+      "version": "0.2.1",
+      "source_revision": "afcb400c531d4cef52998accd2b098d1b91d0ec2",
+      "package": "dist/secondary-system-updates-activity-0.2.1.zip",
+      "sha256": "32a811d005a472b87702ffffb0b2b5fc4023f70bed935df1b23878f26cb64e7a",
       "competences": [
         {
           "native_entry": "form-public-metaskill-resources",
@@ -84,17 +84,17 @@
       "files": {
         "public-representation-activity/ACTIVITY.md": "70e5e8f1fc4ddc90766a5cf76d0c3172d7e209938c18e2c62dc18c6d9d49d134",
         "public-representation-activity/ATTIVITA.md": "c50d5791e21f372b1407dae28daa3144a3a7ebcc102480b1195bc4c2f8ac2091",
-        "public-representation-activity/AVVIO_CHAT_IT.txt": "8fec78f34d793917f3372a9151045b17e1e680e91a913b056c8354ba64881288",
+        "public-representation-activity/AVVIO_CHAT_IT.txt": "5acc36b359a2fbf78ceb8cd205a18fbdf5d1e3963d53f87320c2b64750a876b7",
         "public-representation-activity/CONTESTO_IT.md": "636a39f7d2ca0b5c6e5656ca555b0d2a3c44747a2bac86c95c2eddc0509f4ac5",
         "public-representation-activity/CONTEXT_EN.md": "b18d04f94bcbadb460ab0e9a5552216dfb7e6c0c2086871761cdbc7443476ba3",
         "public-representation-activity/ESEMPI_IT.md": "dc95a65ec40c1374beeee62f906cf7ca8d0b5444aafad4d2edb58c4108d662d4",
         "public-representation-activity/EXAMPLES.md": "900b30d4ce474c49abb1e1661d3f3955c3e95d749baebfbc49134da57332a10d",
-        "public-representation-activity/GUIDA_IT.md": "ed0714beb22789dff0a3648eaac3624d1ac818f92db28d11cbea2687ddf05ba5",
+        "public-representation-activity/GUIDA_IT.md": "0ea3e0761bbcd094266a0e054c3bc99d8323859f9b437ed45055f29e08090bdb",
         "public-representation-activity/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
         "public-representation-activity/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae",
-        "public-representation-activity/README.md": "6e41b6336ce35a6d8392f805e0d737685e37891094438fe4a10ac2d07bb9e482",
-        "public-representation-activity/START_CHAT_EN.txt": "3491eb8f0134c6e2782494318e019028a009a025873feec4b8c0c17499d6cc3c",
-        "public-representation-activity/activity.json": "22dd20d247b07bee5b1d630911cbbe60d8e4e8785bdc0afb37ee3c914c1d1329",
+        "public-representation-activity/README.md": "e7a0f34e84fdb4255aa408c5a09e95a0f95a66a855da42c7826bf91a0dd3b8a1",
+        "public-representation-activity/START_CHAT_EN.txt": "ec2e7f343ccbb484aa5fc4922a50e056eb3521a70b55a9eff7d400b64ee73d45",
+        "public-representation-activity/activity.json": "cd142a75f3882a07dea86f1a7fdda7cd8d74272191a441197ed0f9dddbf7d44e",
         "public-representation-activity/skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt": "a20b18e957f88556a10477919ea4d48681fc8b5d1f2e8697afc0b6b58ccda820",
         "public-representation-activity/skills/form-public-metaskill-resources/EDITION.json": "af2310fe3c0fcc2e8c5a5a851cc30388c6bd0abd6d9b170df4d8860796915451",
         "public-representation-activity/skills/form-public-metaskill-resources/ESEMPI_IT.md": "34eaac46bfac72817893d38880c6a5b63ce7da18769218f78b952078294ce6b8",
@@ -146,7 +146,7 @@
         "public-representation-activity/skills/situated-activity-evolution/START_CHAT_EN.txt": "cd869f5a5fbb427d7cba0e9a8740f16ade1f2207d9a0a8d9c466e71eb85adec3",
         "public-representation-activity/skills/situated-activity-evolution/catalog-entry.json": "8728a2b68bdf8dc5703b961f782a3998f47451c848b73d05e959280e8f7cc01f",
         "public-representation-activity/skills/situated-activity-evolution/presentation.json": "e2b6ce7685e17fe26dd4f9a3455d24988e765a3e3fab57230a83c7c11a066632",
-        "public-representation-activity/DEPENDENCIES.json": "f4863d2be2ea7d5a6ad556c82f8846579c803ee988fb391e08439476e034e037"
+        "public-representation-activity/DEPENDENCIES.json": "58be46adad4617aa4c491eee288f4feb16d9532b136ea9a45eebade15710464d"
       }
     }
   ]
