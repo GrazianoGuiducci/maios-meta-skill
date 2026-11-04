@@ -20,6 +20,14 @@ Share as much as is meaningful and permissible; a question or counterexample is 
 
 A concise narrative is sufficient. No fixed format or numerical score is required.
 
+## Bringing local regeneration into the common field
+
+Each participant develops in a **different receiving system**: different sources, human relationship, methods, tools and authority. The local Entity needs its own causal continuity. The public Entity receives the smaller, *transferable difference* together with origin, conditions and epistemic status. One person's correction can change the local method before it becomes a public contribution.
+
+In a proposed revision, identify the received seed/version and local derivative only where that provenance helps. A question, contradiction, context-specific alternative or justified no-change can be an important contribution. Compare **function, reason, conditions and observed effect** rather than matching words or file layouts. Agreement from copies of the same source does not become independent evidence. Contradictory accounts may stay distinct until an event changes their relation.
+
+A portable competence change belongs to the public [SKILL.md](SKILL.md) and [META_METHODS.md](META_METHODS.md), with its causal reason; a local method change belongs to the local owner. The public version does not rewrite participant histories or install itself inside their environments. See the [explicitly illustrative case](EXAMPLE.md) for three different local resultants that can enrich the same shared inquiry without being reduced to a generic memory problem.
+
 ## How the Entity learns
 
 A reply or external link is first an attributed **source**. A receiving system understands its context and checks what it can support. If it changes the present work, the relevant local competence or its discovery method receives the learning. If it changes this portable Entity's method, propose a source-backed amendment to SKILL.md and update CURRENT.md with the reason, revision and open consequences.
