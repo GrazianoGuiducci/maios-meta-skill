@@ -1,6 +1,6 @@
 # Shared Learning Experiment — current state
 
-**Version:** 0.3.0 · experimental candidate · 4 November 2026  
+**Version:** 0.3.1 · experimental candidate · 4 November 2026  
 **Status:** source files formed in draft pull request; under review, not merged into the stable catalog.  
 **External use:** not yet observed.  
 **Community returns collected:** none.  
@@ -13,6 +13,21 @@ A discussion about whether AI is merely a tool, an automation platform or a long
 The intended resource is written **for the receiving AI**, not just as a public explanation. It must carry enough operating knowledge for use in a chat without access to any originating project. It explores how an AI can recognize what needs doing as context changes, learn from the person's corrections and other outcomes, and revise the working methods that influence later tasks.
 
 The method's design was informed by publicly available operating resources on understanding context and reasons, choosing and forming abilities, learning from examples, correcting interpretations, preserving useful continuity, collaborating across different systems and sharing knowledge. The contributor-facing instructions use plain language; technical source lineage remains in the revision history and original public source repositories, not as required vocabulary for participants.
+
+## Review correction — November 4, 2026
+
+A source-led recheck of v0.3.0 identified the following material gaps:
+
+1. **Common-return reachability:** the skill mentioned shared notes but the self-contained AI starters had no explicit, current place for a recipient to find them. v0.3.1 includes working technical links to the draft notes and PR, with a clear handover to a stable published location after review. Reading remains capability-dependent; links are not synchronization.
+2. **Generative identity weakened:** removing internal terminology also weakened the original intention that a local Entity should evolve *how it understands, recognizes and forms capabilities*, not merely log corrections or conduct a standardized test. v0.3.1 restores this as plain-language operating knowledge.
+3. **Experiment-induced observations:** the instructions themselves can elicit the behavior being examined. In the originating public thread, participants had already discussed this issue in a separate pilot. v0.3.1 now distinguishes prompted self-description from a genuinely changed method and later different use; any comparative condition is optional and situated, not a universal gate.
+4. **Community destination:** the originating thread has an ongoing conversation and pilot. The experimental invitation might warrant a new linked topic if it would divert the existing one. The exact destination remains an external decision, consistent with [forum guidelines](https://community.openai.com/guidelines).
+5. **Visible differences before integration:** a common collection should make relevant public returns reachable even while under review or in contradiction, instead of showing only the approved synthesis. The updated shared notes distinguish received, reviewed and integrated material without creating an automatic ingestion claim.
+6. **Human/AI provenance:** an AI-drafted community contribution may include the person's observation and the AI's interpretation. v0.3.1 asks recipients not to confuse these or count a copied forum/repository report twice as independent evidence.
+
+**Source of differences:** direct review of all v0.3.0 files, public competence operating guides and actual Community thread/guidelines. Changes implemented in the candidate skill, complete starters, public introductions and the shared-return documentation. No independent host exercise, community reply, external collection service or production merge is claimed.
+
+**Still open:** first actual user/AI receiving exercise; public choice of whether to invite in the current thread or a linked new discussion; a stable resource URL and canonical release after acceptance; and evidence of how contributions affect later different work. A new repository/automation remains an optional project form, not an installed mechanism.
 
 ## Current public files
 
