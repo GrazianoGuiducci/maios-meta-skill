@@ -36,6 +36,6 @@ La discussione di origine è nella [OpenAI Developer Community](https://communit
 
 Abbiamo anche preparato una [proposta per una raccolta condivisa e una semplice automazione](SHARED_REPOSITORY_PLAN.md), da valutare dopo i primi contributi reali.
 
-**Stato:** la competenza 0.3.0 è una candidata in riesame. Nessuna prova condotta da partecipanti esterni è ancora registrata. Gli [esempi](EXAMPLE.md) servono a spiegare il metodo e sono esplicitamente illustrativi.
+**Stato:** la competenza 0.3.1 è una candidata in riesame. Nessuna prova condotta da partecipanti esterni è ancora registrata. Gli [esempi](EXAMPLE.md) servono a spiegare il metodo e sono esplicitamente illustrativi.
 
 Parole come «consapevolezza» e «apprendimento» si riferiscono qui a cambiamenti nel modo di riconoscere, decidere e lavorare. Non affermiamo che il testo attribuisca coscienza soggettiva o nuovi poteri tecnici al sistema.
