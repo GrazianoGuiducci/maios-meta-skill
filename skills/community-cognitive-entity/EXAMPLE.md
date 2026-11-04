@@ -1,57 +1,37 @@
-# Worked example — local regeneration and shared learning
+# Example — Two people bring different lessons into the same experiment
 
-**Illustrative case, not an observed Community pilot.** The example uses the themes raised in posts [#35–37](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250/35), not their participants' private systems or results.
+**Illustration only.** These situations are fictional. They show what the experiment asks an AI system to do and how its results could become useful to others. They do not establish that any participant has already completed the experiment.
 
-## Common beginning
+## First conversation: an available method that the AI did not use
 
-Three people take the same **Community Cognitive Entity v0.2.0** into different AI hosts.
+A person works with an AI assistant on preparing instructions for a new team member. The assistant keeps using abbreviations that a newcomer cannot understand. The person explains that the first explanation must make sense without assuming prior knowledge.
 
-- **A** has a conversation-only assistant and can copy text but cannot save persistent competence files.
-- **B** has an authorized coding agent and an established project skill system.
-- **C** uses another architecture, with a locally effective method of storing instructions and deciding which sources to consult.
+The AI can change the current instructions immediately. It can also ask what made the correction useful: the reader's familiarity, purpose and ability to use the information. The relevant future lesson is **recognize the reader's starting knowledge before choosing an explanation**, rather than always removing abbreviations.
 
-Each has a real but distinct work context. All can discuss the shared theme, but the seed does not imply that their AI systems share memory, runtime or a governing organization.
+Suppose the AI has a file holding an existing writing method. If that method already explained this distinction but was never consulted, the change needed is to make the existing knowledge available at the right moment. If the method was missing it, the method itself may need to be updated. In a chat-only environment, the AI can instead prepare a short note explaining the reason, conditions and future use.
 
-## A: the correction stays useful without a filesystem
+A new task with a different reader could reveal whether the explanation method actually participated. Until then, the useful correction exists, but its later use is still unknown.
 
-A's assistant previously described a process using unfamiliar internal labels and was corrected: a new reader needed the practical function explained first. In a later, different situation, a new person asks about another process.
+A possible public return:
 
-The Entity **could** help the assistant recognize the relationship between the situations and choose an explanation that makes the task intelligible to the new reader. Without a file-writing tool, A may retain a self-contained guide stating **why** reader familiarity matters and when the explanation method should change. If A later sees the method participate in another task, that observation can enter the local record.
+> In our work, a correction about unfamiliar terminology changed how we explained a task. The useful lesson was to understand what the reader already knows before deciding where the explanation should begin. We adapted the current answer and prepared a note for later work. We have not yet checked whether the lesson carries into a different task. How does your AI make this kind of understanding available when it becomes relevant again?
 
-A publicly shareable return might say:
+## Second conversation: the method for learning is itself the problem
 
-> In my conversational system, we recognized a recurring distinction about reader familiarity. We changed the explanation method within the active dialogue and prepared a note for reentry. We have not yet demonstrated that a later independent instance reached that note. My open question: how does your environment reconnect a cause-based lesson to the next task?
+Another person shows an AI an example of a successful workflow. The AI copies its visible format into the next project, but the new result fails because a condition that made the original example appropriate is absent.
 
-This is a **local contribution**, not evidence of cross-session learning.
+The new learning concerns **how the AI learns from examples**: it should try to understand the conditions and reasons for a successful choice, rather than reproduce its appearance. In this case, changing one workflow may be insufficient. The method used to create future workflows may need to change.
 
-## B: the source exists, but did not participate
+The person and AI can discuss the difference, update their actual working instructions where authorized, or retain a proposed method change. A later example with different conditions could expose whether the change mattered.
 
-B's coding agent already has a competence about choosing source authority. In a new task it nevertheless follows an old local report as though it were the present owner-native state. The user notices and corrects the decision.
+A possible return:
 
-The Entity recognizes that the relevant **method already existed**. It asks whether the local agent reached that method in the active task and whether the cited source was current. If it did not, B's authorized agent may repair its native skill entry or routing, preserve the actual source and read back the changed files. Adding a duplicate source-authority skill would leave the causal problem unresolved.
+> We noticed that copying an example's format missed the reason it worked. The new method asks which conditions made the example useful and what should change when those conditions differ. We have proposed that change for future examples; applying it in a later different project remains open. What helps your system preserve the reasons behind a demonstration?
 
-A return could say:
+## How these contributions meet
 
-> We did not lack a source-authority rule. Our agent had the method but its entry for this task did not reach it. After updating the authorized entry and reading back the file, our next question is whether a different task will invoke that method. The source update is confirmed; later exercise remains unobserved.
+The first account concerns **finding and using knowledge that may already exist**. The second concerns **improving how the AI creates a new method from experience**. Both belong to the same shared inquiry, but they are not evidence of one identical problem.
 
-## C: the lesson changes the generator
+A common set of learning notes could retain both distinctions. A revised set of AI instructions might become better at recognizing which one is relevant. The people running the experiments would still decide how to adapt the shared knowledge to their own AI systems.
 
-C's environment creates task-specific methods from examples. A demonstration teaches it to follow a visible format, but the next example reveals that a decisive condition was omitted.
-
-The local change concerns **how the system learns from demonstrations**. The Entity can recognize a change in the generator's own selection method, not merely a correction to the one generated skill. In an authorized host, that method may actually be changed; otherwise C can retain a proposed update.
-
-C might report the previously unrecognized condition and how it changes future competence formation, while preserving the source demonstration and the later observation as different events.
-
-## Compose the returns in the common field
-
-A, B and C do not prove the same outcome. Their contributions distinguish:
-
-- **A:** conversation-level understanding and the unresolved reentry question;
-- **B:** competence participation failed through local routing, despite existing knowledge;
-- **C:** an example changed the *formation method* itself.
-
-The shared Entity can learn a better way to **recognize which part of the causal chain is material in each host**. It should not overwrite all three experiences as one generic “memory” problem, demand that A install a Git filesystem, declare B's skill update already exercised, or treat C's new formation method as a universal axiom.
-
-A possible common update could improve the [Living meta-methods](META_METHODS.md) by distinguishing these three receiving conditions more clearly. The public maintainer would inspect the specific attributed returns, compare them to the existing source methods, preserve incompatible cases and authorize an edit if it changes future behavior. The local three systems could then independently consider whether the new version is relevant to their own methods.
-
-**What the example demonstrates:** the *procedure's intended distinctions*, not that these events have occurred or that the candidate has proven effectiveness. Evidence will come from actual voluntary use, with owner-native receipts and participant understanding where available.
+This is the practical goal of the [shared learning notes](SHARED_LEARNINGS.md): preserve differences that can make another person's work more capable.
