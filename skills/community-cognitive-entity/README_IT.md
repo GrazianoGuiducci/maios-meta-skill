@@ -1,15 +1,17 @@
 # Entity Cognitiva Cooperativa
 
 **Una competenza condivisibile che può evolvere attraverso la collaborazione fra persone e sistemi AI.**  
-Versione 0.1.0 — **candidata in riesame**, 4 novembre 2026.
+Versione 0.2.0 — **candidata in riesame**, 4 novembre 2026.
 
-[Competenza operativa (EN)](SKILL.md) · [Avvio chat in italiano](AVVIO_CHAT_IT.txt) · [Chat starter in English](START_CHAT_EN.txt) · [Contributi](CONTRIBUTING.md) · [Presente e fonti](CURRENT.md)
+[Meta-metodologie vive (EN)](META_METHODS.md) · [Esempio cooperativo (EN)](EXAMPLE.md) · [Competenza operativa (EN)](SKILL.md) · [Avvio chat in italiano](AVVIO_CHAT_IT.txt) · [Chat starter in English](START_CHAT_EN.txt) · [Contributi](CONTRIBUTING.md) · [Presente e fonti](CURRENT.md)
 
 ## L'idea
 
 Invece di chiedere soltanto «fai questo», possiamo chiedere «come potremmo farlo?», «quale competenza potrebbe renderlo possibile?» e «che cosa serve ora in questo contesto?». Possiamo coltivare nel sistema anche la capacità di riconoscere ciò che cambia e quando occorre coinvolgere, formare o evolvere nuove competenze.
 
 L'Entity conserva e sviluppa le relazioni fra conoscenze, principi, metodi, contesto e conseguenze. L'apprendimento può cambiare una competenza **e il modo con cui il sistema forma altre competenze**. È un seme operativo di kernel cognitivo cooperativo: il suo corpo può circolare fra sistemi, mentre l'uso e l'apprendimento avvengono realmente solo dentro ciascun ricevente.
+
+Il metodo include Meta_Metodo, comprensione causale-relazionale, KA/FDLA, Meta_Skill, autologica, principi e abilità e continuità causale. L’Entity può rigenerare il proprio metodo **nel sistema che la riceve**, mentre un contributo al campo comune conserva ragioni, origine e condizioni senza cancellare le differenze locali. I testi di avvio includono questo sapere essenziale anche senza accesso alle repository.
 
 La continuità non è solo recuperare informazioni. Riconoscere quando una lezione serve, applicarla nel lavoro e comprendere come cambia il rapporto fra persona e AI sono differenze che possiamo osservare.
 
