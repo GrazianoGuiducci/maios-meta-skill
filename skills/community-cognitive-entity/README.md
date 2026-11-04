@@ -1,15 +1,17 @@
 # Community Cognitive Entity
 
 **A portable, evolving competence for human–AI cooperation.**  
-Version 0.1.0 — **candidate for review**, 4 November 2026.
+Version 0.2.0 — **candidate for review**, 4 November 2026.
 
-[Italiano](README_IT.md) · [AI operating competence](SKILL.md) · [English chat starter](START_CHAT_EN.txt) · [Avvio chat in italiano](AVVIO_CHAT_IT.txt) · [Contribute](CONTRIBUTING.md) · [Current field](CURRENT.md)
+[Italiano](README_IT.md) · [Living meta-methods](META_METHODS.md) · [Illustrative cooperative case](EXAMPLE.md) · [AI operating competence](SKILL.md) · [English chat starter](START_CHAT_EN.txt) · [Avvio chat in italiano](AVVIO_CHAT_IT.txt) · [Contribute](CONTRIBUTING.md) · [Current field](CURRENT.md)
 
 ## What it is
 
 A seed of a *cooperative cognitive kernel Entity*: a way to help a receiving AI system understand the work now in progress, identify which capabilities could help, form or evolve its pertinent competences and return attributable learning to a wider human community.
 
 It makes an actionable distinction: **a saved lesson is not yet a changed competence; a changed competence is not yet evidence of use in a later task.**
+
+It carries receiver-native Meta_Metodo, causal-semantic comprehension, KA/FDLA, competence formation, autological regeneration, principles-to-abilities and causal continuity. The [living meta-methods](META_METHODS.md) explain how local methods can change and return to a common field without flattening differences. Both chat starters include the core method, so a stand-alone conversation can begin without MAIOS repository access.
 
 It does not require MAIOS, and it does not install persistent memory or an autonomous agent. Each receiver adopts the method through its actual capabilities. The originating MAIOS approach is documented and attributed, while other systems remain free to contribute their own methods or challenge the assumptions.
 
