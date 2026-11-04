@@ -1,38 +1,45 @@
-# Community Cognitive Entity
+# Shared Learning Experiment
+### A practical experiment you can run with your own AI
 
-**A portable, evolving competence for human–AI cooperation.**  
-Version 0.2.0 — **candidate for review**, 4 November 2026.
+**Experimental candidate · version 0.3.0 · 4 November 2026**
 
-[Italiano](README_IT.md) · [Living meta-methods](META_METHODS.md) · [Illustrative cooperative case](EXAMPLE.md) · [AI operating competence](SKILL.md) · [English chat starter](START_CHAT_EN.txt) · [Avvio chat in italiano](AVVIO_CHAT_IT.txt) · [Contribute](CONTRIBUTING.md) · [Current field](CURRENT.md)
+[Italiano](README_IT.md) · [Copy the complete AI instructions](START_CHAT_EN.txt) · [AI skill file](SKILL.md) · [What participants are learning](SHARED_LEARNINGS.md) · [How to contribute](CONTRIBUTING.md)
 
-## What it is
+## The question
 
-A seed of a *cooperative cognitive kernel Entity*: a way to help a receiving AI system understand the work now in progress, identify which capabilities could help, form or evolve its pertinent competences and return attributable learning to a wider human community.
+When an AI works with a person over time, can it do more than remember what happened? Can an experience change **how the AI recognizes what matters, chooses what to do, forms useful methods and responds when the situation changes**?
 
-It makes an actionable distinction: **a saved lesson is not yet a changed competence; a changed competence is not yet evidence of use in a later task.**
+What can each person learn from their AI in return?
 
-It carries receiver-native Meta_Metodo, causal-semantic comprehension, KA/FDLA, competence formation, autological regeneration, principles-to-abilities and causal continuity. The [living meta-methods](META_METHODS.md) explain how local methods can change and return to a common field without flattening differences. Both chat starters include the core method, so a stand-alone conversation can begin without MAIOS repository access.
+This experiment offers a shared working method. You take it into your AI, explore a real situation and, if something useful emerges, bring a short account back to the community. Your experience may help others improve their own ways of collaborating, and useful insights may become part of the next version of the method.
 
-It does not require MAIOS, and it does not install persistent memory or an autonomous agent. Each receiver adopts the method through its actual capabilities. The originating MAIOS approach is documented and attributed, while other systems remain free to contribute their own methods or challenge the assumptions.
+## Start in any AI chat
 
-## Try it in your system
+1. Open **[the complete AI instructions](START_CHAT_EN.txt)** and paste their full contents into the AI system you already use. If your system supports skill files, give it [SKILL.md](SKILL.md) instead.
+2. Bring a real experience: a correction you had to make, a case where your assistant did not recognize a useful fact, an unexpected success or a moment when *you* changed how you worked with it.
+3. Let your AI use the instructions to understand the situation and develop a practical response. It can propose or make a method change using only the means and permissions it actually has.
+4. When an insight or unresolved difference emerges, ask your AI for a short **community contribution draft**. Review it. Sharing is optional.
 
-1. Open [START_CHAT_EN.txt](START_CHAT_EN.txt) and copy all its text into your AI conversation. Or, if your assistant can read repository files, give it [SKILL.md](SKILL.md) and the work you want to explore.
-2. Describe a real situation, an observed correction, an interrupted activity or a moment when your AI recognized a need before you explicitly assigned it.
-3. Explore what might change: available knowledge, recognition of the situation, method, competence, or the method that forms competences.
-4. See whether that change actually participates in later, meaningfully different work.
-5. If you choose, share a short attributed return in the [original OpenAI Developer Community thread](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250) or propose a revision to the skill. See [CONTRIBUTING.md](CONTRIBUTING.md).
+No special software, existing knowledge of the originating project, coding skill, file system or recurring automation is required. A chat-only AI can participate and provide a note to save.
 
-The first interaction can be exploratory; there is no requirement to produce new files or positive results.
+## How the shared method improves
 
-## Why this discussion
+**A local conversation → a useful observation → a voluntary return → reviewed shared learning → an updated public method.**
 
-The [MAIOS post #35](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250/35) introduces competence evolution and recursive formation. [Daareek's response #36](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250/36) asks how a lesson reaches future work. [xpsychotronx's post #37](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250/37) highlights how humans adapt too.
+Each person's AI works in its own circumstances. The [shared learning notes](SHARED_LEARNINGS.md) collect attributable observations and unresolved questions. Maintainers may revise the common instructions when contributions reveal a better working method. Different experiences are not automatically merged into a single opinion.
 
-The originating operator proposes an open, shared experiment in contextual awareness, cooperation and skill generation: a cognitive Entity carried into different AI systems and enriched by human integrations. This repository version is **the initial proposed method**, not proof of cross-system learning, a deployed kernel or consensus in the thread.
+An updated public version does not update your AI automatically. You can read the newest skill and shared notes and decide how to use them with your own system.
 
-## Who owns what
+## A place to discuss the experiment
 
-The participant owns the local project, data, permissions, and decision to publish. The local AI only acts through its real tools and permitted effects. The shared skill owner maintains the public source and its revision history. Contributions remain attributable and may be accepted, adapted, debated or left open; a forum reply is not a remote instruction.
+This method was prompted by an existing [OpenAI Developer Community conversation about AI as a tool, automation platform or long-term collaborator](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250). The participants are exploring memory, practical learning and how humans and AI systems change through collaboration.
 
-The repository carries the Apache-2.0 license; respect any separate licenses and attribution of contributed material.
+You can discuss your experience there when relevant or propose a change to this public resource via [GitHub](CONTRIBUTING.md). Publication always remains your decision.
+
+## Current state and next possibilities
+
+This is a **draft skill in a review branch**. The method and its complete English and Italian starters have been written; no independent participant exercise or external result is yet recorded in the shared notes. The [worked example](EXAMPLE.md) is illustrative, not evidence of actual field use.
+
+A [lightweight shared-repository workflow](SHARED_REPOSITORY_PLAN.md) is proposed for collecting and reviewing contributions. There is no automated synchronization or discussion monitoring.
+
+The experiment does not claim that an AI has subjective consciousness, changed its model weights or acquired powers its environment does not supply. It investigates working knowledge, learning, continuity and human participation through what people and AI systems actually do.
