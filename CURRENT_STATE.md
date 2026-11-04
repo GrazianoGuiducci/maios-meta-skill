@@ -1,3 +1,7 @@
+# Secondary System Updates 0.2.4 — 4 November 2026
+
+The bilingual examples-section heading now correctly announces seven cases. The operating method, seven examples and complete starters retain their bytes. Edition 0.2.3 remains an immutable historical archive; 0.2.4 carries the corrected metadata.
+
 # Resource formation 0.3.6 and Secondary System Updates 0.2.3 — 3 November 2026
 
 The selected competence now carries human explanation and the complete LLM starter as distinct entries, security at metadata/file/markup transformations and preservation of an activity’s assignment and phase. The AP carries the project’s explanation standard and explicit exclusions through independent updates. Three new illustrative cases are portable beyond their source project. Earlier methods, examples and immutable archives are retained; the other two AP methods and primary kernels are preserved. This source edition does not establish recurring execution or independent receiving use.
