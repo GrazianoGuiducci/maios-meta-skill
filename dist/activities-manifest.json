@@ -3,10 +3,10 @@
   "packages": [
     {
       "id": "public-representation",
-      "version": "0.2.3",
-      "source_revision": "2e007bc9ccf1f09f7304c2d77ac6ca13dad32421",
-      "package": "dist/public-representation-activity-0.2.3.zip",
-      "sha256": "449de02f43625ba2b14fa6633cc27c15ada7f102b1e6fd05121f1c07b7367f04",
+      "version": "0.2.4",
+      "source_revision": "96f899dc4f6e22b596b72910b066fd5745bdcb57",
+      "package": "dist/public-representation-activity-0.2.4.zip",
+      "sha256": "b74a7722e621d3d885fd3fdb24ed25875f7215ad2eef994c9d608f2eee1d035b",
       "competences": [
         {
           "native_entry": "form-public-metaskill-resources",
@@ -94,7 +94,7 @@
         "public-representation-activity/NOTICE": "0b6b2560f4180a282b7836d9672e9d8c4e1d371551ff1da3042492656af273ae",
         "public-representation-activity/README.md": "a50bb7e981b1808e84306cbadd814529c03935686bfd0b2551d4f141a8a00fe6",
         "public-representation-activity/START_CHAT_EN.txt": "034d03d7a2a64af9a924f7559005cb2d988675e730f5c9b8bfe0f06b10fdbfdf",
-        "public-representation-activity/activity.json": "c13efbf5398d57f650a926f4b8271ea6d0fd69827b48c203c96e83ade873d645",
+        "public-representation-activity/activity.json": "feec87ed58fb55b38a7316d5a28d9f1b6b91dd4e13809793455f15ed2e663b17",
         "public-representation-activity/skills/form-public-metaskill-resources/AVVIO_CHAT_IT.txt": "af80793cac602dc2f77a7824de5a166c8049c91520662f52ab6cff3a39470e53",
         "public-representation-activity/skills/form-public-metaskill-resources/EDITION.json": "fed2c7485081161bddb99d34ccce87ab4182d95ebac51798bbdaaabc28b40f7b",
         "public-representation-activity/skills/form-public-metaskill-resources/ESEMPI_IT.md": "7031bfa803cf28ae2154537d7d8ddf444eae9e8f3eb047d4c699cdd924950cb0",
@@ -146,7 +146,7 @@
         "public-representation-activity/skills/situated-activity-evolution/START_CHAT_EN.txt": "cd869f5a5fbb427d7cba0e9a8740f16ade1f2207d9a0a8d9c466e71eb85adec3",
         "public-representation-activity/skills/situated-activity-evolution/catalog-entry.json": "8728a2b68bdf8dc5703b961f782a3998f47451c848b73d05e959280e8f7cc01f",
         "public-representation-activity/skills/situated-activity-evolution/presentation.json": "e2b6ce7685e17fe26dd4f9a3455d24988e765a3e3fab57230a83c7c11a066632",
-        "public-representation-activity/DEPENDENCIES.json": "6c9712fa0211410d51d966f0586c02ab2bea65928c8ec1763f85e63ce2e53a0d"
+        "public-representation-activity/DEPENDENCIES.json": "fbf9eda33569e573dd090040f529439cba83544e59b0ddf61a9ad069d580593e"
       }
     },
     {
