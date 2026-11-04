@@ -1,11 +1,23 @@
 # Community Cognitive Entity — present and provenance
 
-Status: **0.1.0 candidate, in operator review; not announced as a community resource; not field-tested as a portable skill**.  
+Status: **0.2.0 candidate, in operator review; not announced as a community resource; not field-tested as a portable skill**.  
 Formation date: **2026-11-04**.  
 Current proposed public owner: `GrazianoGuiducci/maios-meta-skill/skills/community-cognitive-entity`.  
 Thread relation owner: K-Social / OpenAI Developer Community, separately governed.  
 Method sources: Meta_Skill (living owner-native source), public MAIOS Meta-Skill, MAIOS Project Competence Formation, KA and FDLA.  
 Claim: a portable competence proposal; not evidence of an autonomous traveling process, shared cognition, established reliability or external adoption.
+
+## 4 November — the receiving Entity learns and returns to the common field
+
+**Direct new operator request:** «Vediamo di dotarla delle meta metodologie che abbiamo nel sistema, in modo che quando viene usata nella discussione cono il suo user possa effettivamente comprendere e imparare ciò che emerge rigenerandosi nella forma che poi tornando nel flusso comune possa essere unita alle restanti.»
+
+The requested change concerns **operative understanding and regeneration**, not simply more instructions or a catalogue of internal names. Each local recipient should be able to understand a discussion or its user's work, let consequential knowledge change its locally relevant methods, and preserve a transferable return to be composed with other attributed contributions in the shared field.
+
+**Candidate formation:** [META_METHODS.md](META_METHODS.md) now carries a portable, source-attributed composition of Meta_Metodo, Semantic Relational Comprehension, KA/FDLA, Meta_Skill and MPK competence formation, autological regeneration/CCCC, Onto-Skill's principles and abilities, causal continuity, transfer and qualified public learning. [SKILL.md](SKILL.md) reaches and incarnates those relations; [Italian](AVVIO_CHAT_IT.txt) and [English](START_CHAT_EN.txt) starters embed the essential method for chat-only receivers. [EXAMPLE.md](EXAMPLE.md) explains independent local variants and common recomposition as an **illustrative**, not actually observed, case.
+
+**Operating distinction:** the shared Entity source and a recipient's local incarnation are related through origin/lineage, but have distinct owners, conditions and permissions. A local competence update does not automatically update the common method; a contribution from the Community is a source to understand, not an executable command; common source revision does not synchronize the recipients. Compose compatible returns, preserve complementary or situated variants, and do not erase contradiction or history.
+
+**Evidence and open effects:** files written in draft PR #8; external deployment/use and community contribution uptake unobserved. No public announcement, other participant adoption, background monitor, automatic union service or expanded authority. Operator review of semantics remains open; catalog/main not changed.
 
 ## Originating direction — operator's words and meaning
 
@@ -25,7 +37,7 @@ These are original directions. The particular English name, file organization an
 
 ## What exists / what does not yet follow
 
-**Formed:** a candidate portable competence, two audience entries, a contribution method and this provenance/current pointer.
+**Formed:** a candidate portable competence, two self-contained entries, living meta-methods, a contribution method, an illustrative case and this provenance/current pointer.
 
 **Not observed:** a receiving AI importing and using it in a different case; a contribution altering the skill from the Community; automated thread monitoring; a live multi-system agent; reliability or safety improvement caused by the seed; author approval for publication in the Community.
 
