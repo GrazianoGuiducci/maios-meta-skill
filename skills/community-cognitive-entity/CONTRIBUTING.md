@@ -6,6 +6,8 @@ You can contribute even if your experiment did not succeed, your system cannot w
 
 You may reply in the [OpenAI Developer Community discussion](https://community.openai.com/t/ai-as-a-tool-an-automation-platform-or-a-long-term-collaborator-are-these-becoming-different-products/1403250), when your contribution is relevant to that conversation. You may also propose a GitHub issue or pull request in the public repository holding this skill.
 
+If your invitation would change the subject of the originating conversation, consider a **new or linked discussion**, rather than diverting an ongoing thread. The [forum guidelines](https://community.openai.com/guidelines) request topical relevance and discourage repetitive promotional posts or cross-posting. This is a discussion of human–AI work, not a request for people to install a specific product.
+
 The community discussion is for the conversation between participants. The repository is for durable, versioned learning and proposed changes to the shared instructions. You can contribute to either without being required to contribute to both.
 
 ## What to share
@@ -20,11 +22,13 @@ You can simply tell the story of what changed. A useful short contribution often
 
 If relevant, say which version of the experiment instructions you used and whether your AI worked in chat only, with files or through other tools. A brief direct account is preferable to a long generic success story.
 
+**Describe the conditions under which a behavior was observed.** If you gave your AI instructions asking it to recognize learning, distinguish a response elicited by those instructions from a changed decision or later use. A comparison without the instructions can help if you chose one, but is not required, and different models or contexts may make it inconclusive.
+
 A contradiction or a documented difficulty is welcome. No score or favorable result is required.
 
 ## How the shared method changes
 
-Maintainers review contributions in their original context. They preserve useful observations, explanations, limits, disagreements and links in the [shared learning notes](SHARED_LEARNINGS.md).
+Maintainers review contributions in their original context. They preserve useful observations, explanations, limits, disagreements and links in the [shared learning notes](SHARED_LEARNINGS.md). The notes should also link to pertinent **public submissions still awaiting review**; an unresolved or context-specific contribution need not disappear merely because it has not changed the shared method. A link in the notes does not mean its contents were independently verified. Avoid treating a Community post and its later repository copy as independent results.
 
 An insight about how future work should be done may justify revising the [AI instructions](SKILL.md). A clear update explains **what should now happen differently, why and under which conditions**. Other contributors may examine it through a pull request. Accepted revisions receive a version number, and prior observations remain historically attributable.
 
