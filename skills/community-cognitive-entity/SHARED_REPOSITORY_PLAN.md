@@ -5,7 +5,7 @@
 
 ### A simple beginning: reuse the existing public repository
 
-A separate repository may be useful later, but the experimental method and its revision history already have a public home. Initially, use **issues and pull requests in the repository holding this skill**. This avoids a second source that participants would need to discover and reconcile.
+A separate repository may be useful later, but the experimental method and its revision history already have a public home. **During this draft review**, the skill resides on a pull-request branch rather than in a stable published release: direct links to it are not yet a permanent canonical distribution path. The public entry and contribution URL should be updated to a stable main/release location **when the review is actually accepted**, before inviting broad participation. Initially, use **issues and pull requests in the repository holding this skill**. This avoids a second source that participants would need to discover and reconcile.
 
 The Community discussion remains the public conversation. GitHub holds the **versioned method** and an inspectable set of **learning notes**. Either place can receive a contribution; neither automatically changes the other.
 
@@ -16,7 +16,8 @@ person + their AI explore a situation
     -> AI offers a short, human-reviewed public account
     -> person chooses Community reply and/or GitHub issue
     -> maintainer understands and links the contribution
-    -> shared learning notes gain an attributed, status-qualified insight
+    -> shared learning notes index the public return (including review-pending or disagreement)
+    -> a qualified insight may be incorporated into the shared method
     -> if future AI behavior should change, a reviewed pull request updates the skill
     -> a versioned release makes the changed method available to other participants
     -> each person chooses if and how to use the new version locally
@@ -46,7 +47,7 @@ A contribution may be:
 - flagged as an unresolved conflict or research question;
 - left outside the shared resource if it is irrelevant, unverifiable in a consequential way, or cannot be shared with permission.
 
-An accepted skill change should identify the earlier behavior, the causal difference, the new expected behavior and the conditions that justify it. Preserve previous versions. Use an ordinary pull request and review to avoid silently changing the method used by others.
+An accepted skill change should identify the earlier behavior, the causal difference, the new expected behavior and the conditions that justify it. If the experimental instructions themselves asked an AI to display the behavior under study, that is part of the observation conditions; it does not independently demonstrate spontaneous recognition. Do not require a separate baseline for each report, but allow an optional comparison that materially discriminates claims. Preserve previous versions. Use an ordinary pull request and review to avoid silently changing the method used by others.
 
 ### Automation worth considering after the first real returns
 
@@ -62,7 +63,7 @@ These tools can organize submissions and detect mechanical errors. They cannot d
 
 ### When a dedicated shared repository would help
 
-Consider a separate public repository if the collaboration acquires independent maintainers, its own participant roles, issue volume or product identity. Keep a single canonical skill location and clearly link or redirect older entries. A new repository by itself does not make the method more intelligent or the community synchronized.
+Consider a separate public repository if the collaboration acquires independent maintainers, its own participant roles, issue volume or product identity. An openly accessible submissions index may be more useful initially than a new platform: people need to see **which returns were received, which changed the method and which remain disputed**, without counting duplicated versions of one report as independent. The same public source should have a clear canonical version and a path to its next release. Keep a single canonical skill location and clearly link or redirect older entries. A new repository by itself does not make the method more intelligent or the community synchronized.
 
 ### Proposed first public package
 
@@ -72,4 +73,4 @@ For the initial invitation, offer:
 3. The [shared learning notes](SHARED_LEARNINGS.md), initially empty but visibly ready for qualified returns.
 4. A link to [how to contribute](CONTRIBUTING.md).
 
-No participant needs to install special tooling. If many participants later need repository-native installation, add it through the actual receiving environments rather than treating that need as established from the outset.
+No participant needs to install special tooling. Before publishing the invitation, choose whether it belongs in the originating thread or a new linked topic according to the real conversation and forum guidance. Do not automatically repost the same invitation across both. If many participants later need repository-native installation, add it through the actual receiving environments rather than treating that need as established from the outset.
