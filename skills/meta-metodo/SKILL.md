@@ -14,6 +14,15 @@ Meta_Metodo forms a way of approaching work as the situation becomes understanda
 
 Use it when an account mixes ideas, tools, priorities and intended results, or when an initial solution risks determining by itself what the project can become.
 
+## 15 novembre 2026 — il metodo come competenza condensata e medium del lavoro
+
+**Nuova formulazione diretta dell'operatore**, [archiviata come sorgente autoriale](https://github.com/GrazianoGuiducci/Editoriali/blob/main/sources/deposits/GRAZIANO_MAIOS_APPUNTI_META_CONSULENZA_COLLABORAZIONE_2026-11-15.md), nel campo MAIOS/consulenze/collaborazioni: «Definiamo il livello meta il posto in cui si opera il fare per ottenere il lavoro che porta nella direzione dell'intento», e «trattiamo il metodo come competenza condensata e strumento espressivo della logica che evolve e medium per ogni aspetto del contesto». L'intento può emergere da un bisogno percepito, da un'idea o dall'osservazione della situazione. Sono parole dell'operatore che approfondiscono la **funzione già presente** in Meta_Metodo, senza costituire una nuova definizione universale imposta alla sorgente D-ND.
+
+**Conseguenza sul modo di formare metodi:** una domanda sul prodotto da costruire può non esaurire il lavoro: il metodo permette alle competenze del sistema di contribuire a **formare il fare**, cioè comprendere l'intento, ricomporre mezzi, fonti e possibilità, agire, imparare e sviluppare la capacità stessa di progettare. Questo non significa che il metodo sostituisca il fare concreto; può diventare parte dell'opera e della sua evoluzione. In un contesto che cambia rapidamente, il valore continuabile non è lo stato immutabile dei dati/skill, ma la capacità di usare e riformare il loro sapere con le nuove conseguenze.
+
+**Raccordi e non-attivazione:** il saper operare il metodo rimane qui. Product Architect/MPK attesta capacità concrete e incarnazione; Editoriali/Product Semantic Narrative esprime il nesso sul sito o in presentazioni; Business/Consulenza Evolutiva distingue rapporto e remunerazione; UX-AI rende intelligibile la differenza al ricevente. Non creare un «servizio meta» da vendere né tradurre la metafora «il metodo come medium» in una nuova categoria ontologica. Nessuna pagina, post, invio o revisione di prodotto è eseguita da questo aggiornamento.
+
+
 ## A library prepares, continues and shares a workshop method
 
 A library wants reading workshops it can adapt to different groups.
